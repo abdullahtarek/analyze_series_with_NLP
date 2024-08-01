@@ -101,7 +101,7 @@ class CharacterChatBot():
         )
         model.config.use_cache = False
 
-        tokenizer = AutoTokenizer.from_pretrained(base_model, trust_remote_code=True)
+        tokenizer = AutoTokenizer.from_pretrained(base_model_name_or_path, trust_remote_code=True)
         tokenizer.pad_token = tokenizer.eos_token
 
         lora_alpha = 16

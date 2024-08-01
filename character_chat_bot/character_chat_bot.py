@@ -39,7 +39,7 @@ class CharacterChatBot():
             huggingface_hub.login(self.huggingface_token)
         
         # If this model path exist in huggingface hub
-        if huggingface_hub.hf_folder_exists(self.model_path):
+        if huggingface_hub.repo_exists(self.model_path):
             self.model = self.load_model(self.model_path)
         else:
             print("Model not found in huggingface hub We will train our own model")

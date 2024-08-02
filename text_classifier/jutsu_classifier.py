@@ -137,6 +137,7 @@ class JutsuClassifier():
         weight_decay=0.01,
         evaluation_strategy = "epoch",
         logging_strategy="epoch",
+        push_to_hub=True,
         )
 
         trainer = CustomTrainer(

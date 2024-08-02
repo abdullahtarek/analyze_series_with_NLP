@@ -1,0 +1,3 @@
+*.pyc
+*.inpynb_checkpoints
+.env

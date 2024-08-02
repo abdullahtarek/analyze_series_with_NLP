@@ -153,15 +153,17 @@ class JutsuClassifier():
 
         trainer.train()
 
-        trainer.push_to_hub(self.model_path)
-        self.tokenizer.push_to_hub(self.model_path)
-
         # Save model Locally
-        # trainer.save_model(self.model_path)
+        trainer.save_model('text_classifier_model')
 
         # Flush Memory
         del trainer, model
         gc.collect()
+
+        model = AutoModelForSequenceClassification.from_pretrained('text_classifier_model')
+
+        model.push_to_hub(self.model_path)
+        self.tokenizer.push_to_hub(self.model_path)
 
         if self.device == 'cuda':
             torch.cuda.empty_cache()

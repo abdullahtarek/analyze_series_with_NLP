@@ -3,14 +3,18 @@ from text_classifier import JutsuClassifier
 from theme_classifier import ThemeClassifier
 from character_network import CharacterNetworkGenerator,NamedEntityRecognizer
 from character_chat_bot import CharacterChatBot
+import os
+import dotenv
+dotenv.load_dotenv()
 
 character_network = None
 
 def classify_text(model_path,data_path, text):
     jutus_classifer = JutsuClassifier(
         model_path=model_path,
-        data_path=data_path
-        )  
+        data_path=data_path,
+        huggingface_token=os.getenv("huggingface_token")
+        )
     output= jutus_classifer.classify_jutsu([text])
     return output[0] 
 
@@ -49,17 +53,12 @@ def get_character_network(subtitles_path, ner_output_path):
     return html
 
 def alternatingly_agree(message, history):
-    global character_network
-    output = character_network.chat(message,history)
-    return output['content'].strip()
+    # global character_network
+    # output = character_network.chat(message,history)
+    # return output['content'].strip()
+    return "Hello"
 
 def main():
-    global character_network
-    character_network = CharacterChatBot("AbdullahTarek/Naruto_Llama-3-8B",
-                        data_path=None,
-                        huggingface_token=None
-                        )
-    
     with gr.Blocks() as iface:
         # Theme Classication with Zero Shot classifiers
         with gr.Row():

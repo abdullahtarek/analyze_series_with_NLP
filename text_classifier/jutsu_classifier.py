@@ -1,0 +1,173 @@
+import os 
+import pandas as pd
+import torch
+import gc
+from sklearn import preprocessing
+from sklearn.model_selection import train_test_split
+from datasets import Dataset
+from transformers import (AutoTokenizer,
+                          AutoModelForSequenceClassification,
+                          DataCollatorWithPadding,
+                          TrainingArguments,
+                          pipeline
+                        )
+from .cleaner import Cleaner
+from .training_utils import get_class_weights,compute_metrics
+from .custom_trainer import CustomTrainer
+
+
+class JutsuClassifier():
+    def __init__(self,
+                 model_path,
+                 data_path=None,
+                 text_column_name="text" ,
+                 label_column_name="jutsu",
+                 model_name="distilbert-base-uncased",
+                 test_size = 0.2,
+                 num_labels = 3,
+                 ):
+        
+        self.model_path = model_path
+        self.data_path=  data_path
+        self.text_column_name = text_column_name
+        self.label_column_name = label_column_name
+        self.model_name = model_name
+        self.test_size = test_size 
+        self.num_labels = num_labels
+        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
+        self.tokenizer = self.load_tokenizer()
+
+        if not os.path.exists(model_path):
+            # Check if data_path is provided
+            if data_path is None:
+                raise ValueError("data_path is required to train the model, Since model does not exist and needs to be trained")
+            
+            train_data,test_data = self.load_dataset(self.data_path)
+            train_data_df = train_data.to_pandas()
+            test_data_df = test_data.to_pandas()
+
+            all_data = pd.concat([train_data_df,test_data_df]).reset_index(drop=True)
+            class_weights = get_class_weights(all_data)
+
+            self.train_model(train_data,test_data,class_weights)
+
+        self.model = self.load_model(model_path)
+
+    def load_model(self,model_path):
+        # model = AutoModelForSequenceClassification.from_pretrained(model_path)
+        model = pipeline("text-classification", model=model_path, return_all_scores=True)
+        return model
+
+    def load_tokenizer(self):
+        if os.path.exists(self.model_path):
+            tokenizer = AutoTokenizer.from_pretrained(self.model_path)
+        else:
+            tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        return tokenizer
+
+    def simplify_justu(self,jutsu):
+        if 'Genjutsu' in jutsu:
+            return 'Genjutsu'
+        if 'Taijutsu' in jutsu:
+            return 'Taijutsu'
+        if 'Ninjutsu' in jutsu:
+            return 'Ninjutsu'
+        return None
+
+    def preprocess_function(self,tokenizer, examples):
+            return tokenizer(examples["text_cleaned"], truncation=True)
+
+    def load_dataset(self,data_path):
+        df = pd.read_json(data_path, lines=True)
+        df['jutsu_type_simplified'] = df['jutsu_type'].apply(self.simplify_justu)
+        df['text'] = df['jutsu_name']+'. '+df['jutsu_description']
+        df['jutsu'] = df['jutsu_type_simplified']
+        df= df[['text','jutsu']]
+        df = df.dropna()
+
+        # Clean Text
+        cleaner = Cleaner()
+        df['text_cleaned'] = df[self.text_column_name].apply(cleaner.clean)
+
+        # Encode Labels
+        le = preprocessing.LabelEncoder()
+        le.fit(df[self.label_column_name].tolist())
+        label_dict = { index:label_name for index, label_name in  enumerate(le.__dict__['classes_'].tolist())}
+        self.label_dict = label_dict
+        df['label'] = le.transform(df[self.label_column_name].tolist())
+
+        # Train/Test Split
+        df_train,df_test = train_test_split(df,
+                                            test_size=self.test_size,
+                                            stratify=df['label'])
+        
+        # Convert to Huggingface Dataset
+        train_dataset = Dataset.from_pandas(df_train)
+        test_dataset = Dataset.from_pandas(df_test)
+
+        # Tokenize
+        tokenized_train = train_dataset.map(lambda x: self.preprocess_function(self.tokenizer,x)
+                                            , batched=True)
+        
+        tokenized_test = test_dataset.map(lambda x: self.preprocess_function(self.tokenizer,x)
+                                          , batched=True)
+        
+        return tokenized_train,tokenized_test
+    
+    def train_model(self,train_data,test_data,class_weights):
+        model = AutoModelForSequenceClassification.from_pretrained(
+            self.model_name, 
+            num_labels=self.num_labels,
+            id2label=self.label_dict,
+            )
+        
+        data_collator = DataCollatorWithPadding(tokenizer=self.tokenizer) 
+
+        training_args = TrainingArguments(
+        output_dir="./results",
+        learning_rate=2e-4,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
+        num_train_epochs=5,
+        weight_decay=0.01,
+        evaluation_strategy = "epoch",
+        logging_strategy="epoch",
+        )
+
+        trainer = CustomTrainer(
+            model=model,
+            args=training_args,
+            train_dataset=train_data,
+            eval_dataset=test_data,
+            tokenizer=self.tokenizer,
+            data_collator=data_collator,
+            compute_metrics=compute_metrics
+        )
+        trainer.set_device(self.device)  
+        trainer.set_class_weights(class_weights)
+
+        trainer.train()
+
+        trainer.save_model(self.model_path)
+
+        # Flush Memory
+        del trainer, model
+        gc.collect()
+
+        if self.device == 'cuda':
+            torch.cuda.empty_cache()
+    
+    def postprocess(self,model_output):
+        output=[]
+        for pred in model_output:
+            label = max(pred, key=lambda x: x['score'])['label']
+            output.append(label)
+        return output
+
+    def classify_jutsu(self,text):
+        model_output = self.model(text)
+        predictions = self.postprocess(model_output)
+        return predictions
+
+
+

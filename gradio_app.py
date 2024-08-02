@@ -107,7 +107,7 @@ def main():
                 gr.HTML("<h1>Character Chatbot</h1>")
                 gr.ChatInterface(alternatingly_agree)
 
-    iface.launch()
+    iface.launch(share=True)
 
 if __name__ == "__main__":
     main()

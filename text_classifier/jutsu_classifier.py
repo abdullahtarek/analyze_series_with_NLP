@@ -14,7 +14,7 @@ from transformers import (AutoTokenizer,
 from .cleaner import Cleaner
 from .training_utils import get_class_weights,compute_metrics
 from .custom_trainer import CustomTrainer
-
+import huggingface_hub
 
 class JutsuClassifier():
     def __init__(self,
@@ -25,6 +25,7 @@ class JutsuClassifier():
                  model_name="distilbert-base-uncased",
                  test_size = 0.2,
                  num_labels = 3,
+                 huggingface_token=None
                  ):
         
         self.model_path = model_path
@@ -36,8 +37,12 @@ class JutsuClassifier():
         self.num_labels = num_labels
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.tokenizer = self.load_tokenizer()
+        self.huggingface_token = huggingface_token
 
-        if not os.path.exists(model_path):
+        if self.huggingface_token is not None:
+            huggingface_hub.login(self.huggingface_token)
+
+        if not huggingface_hub.repo_exists(self.model_path):
             # Check if data_path is provided
             if data_path is None:
                 raise ValueError("data_path is required to train the model, Since model does not exist and needs to be trained")
@@ -148,7 +153,11 @@ class JutsuClassifier():
 
         trainer.train()
 
-        trainer.save_model(self.model_path)
+        trainer.push_to_hub(self.model_path)
+        self.tokenizer.push_to_hub(self.model_path)
+
+        # Save model Locally
+        # trainer.save_model(self.model_path)
 
         # Flush Memory
         del trainer, model

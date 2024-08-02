@@ -129,7 +129,7 @@ class JutsuClassifier():
         data_collator = DataCollatorWithPadding(tokenizer=self.tokenizer) 
 
         training_args = TrainingArguments(
-        output_dir="./results",
+        output_dir=self.model_path,
         learning_rate=2e-4,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
@@ -153,17 +153,17 @@ class JutsuClassifier():
 
         trainer.train()
 
-        # Save model Locally
-        trainer.save_model('text_classifier_model')
+        # # Save model Locally
+        # trainer.save_model('text_classifier_model')
 
         # Flush Memory
         del trainer, model
         gc.collect()
 
-        model = AutoModelForSequenceClassification.from_pretrained('text_classifier_model')
+        # model = AutoModelForSequenceClassification.from_pretrained('text_classifier_model')
 
-        model.push_to_hub(self.model_path)
-        self.tokenizer.push_to_hub(self.model_path)
+        # model.push_to_hub(self.model_path)
+        # self.tokenizer.push_to_hub(self.model_path)
 
         if self.device == 'cuda':
             torch.cuda.empty_cache()

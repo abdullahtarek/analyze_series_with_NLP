@@ -5,12 +5,13 @@ import pandas as pd
 import numpy as np
 import os
 from nltk import sent_tokenize
+import nltk
 import sys 
 import pathlib
 folder_path = pathlib.Path(__file__).parent.resolve()
 sys.path.append(os.path.join(folder_path,"../"))
 from utils import load_subtitles_dataset
-
+nltk.download('punkt')
 
 class ThemeClassifier():
     def __init__(self,theme_list):

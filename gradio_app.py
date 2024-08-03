@@ -7,8 +7,6 @@ import os
 import dotenv
 dotenv.load_dotenv()
 
-character_network = None
-
 def classify_text(model_path,data_path, text):
     jutus_classifer = JutsuClassifier(
         model_path=model_path,
@@ -52,11 +50,11 @@ def get_character_network(subtitles_path, ner_output_path):
 
     return html
 
-def alternatingly_agree(message, history):
-    # global character_network
-    # output = character_network.chat(message,history)
-    # return output['content'].strip()
-    return "Hello"
+def chat_with_character_chatbot(message, history):
+    character_chatbot = CharacterChatBot("AbdullahTarek/Naruto_Llama-3-8B")
+    output = character_chatbot.chat(message,history)
+    output = output['content'].strip()
+    return output
 
 def main():
     with gr.Blocks() as iface:
@@ -105,7 +103,7 @@ def main():
         with gr.Row():
             with gr.Column():
                 gr.HTML("<h1>Character Chatbot</h1>")
-                gr.ChatInterface(alternatingly_agree)
+                gr.ChatInterface(chat_with_character_chatbot)
 
     iface.launch(share=True)
 

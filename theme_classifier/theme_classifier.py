@@ -21,7 +21,6 @@ class ThemeClassifier():
         self.theme_list = theme_list #['friendship','hope', 'sacrifice', 'battle','self development','betrayal','love','dialogue']
         #friendship,hope,sacrifice,battle,self development,betrayal,love,dialogue
 
-
     def load_model(self,device):
         theme_classifier = pipeline("zero-shot-classification",
                       model= self.model_name,

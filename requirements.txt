@@ -1,0 +1,11 @@
+transformers==4.36.2
+matplotlib==3.7.5
+seaborn==0.13.2
+gradio==4.36.1
+evaluate==0.4.2
+python-dotenv==1.0.1
+pyvis==0.3.2
+spacy-transformers==1.3.5
+spacy-curated-transformers==0.2.2
+git+https://github.com/huggingface/peft.git
+trl==0.9.6

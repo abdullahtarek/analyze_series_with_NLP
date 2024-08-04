@@ -59,7 +59,6 @@ class JutsuClassifier():
         self.model = self.load_model(model_path)
 
     def load_model(self,model_path):
-        # model = AutoModelForSequenceClassification.from_pretrained(model_path)
         model = pipeline("text-classification", model=model_path, return_all_scores=True)
         return model
 

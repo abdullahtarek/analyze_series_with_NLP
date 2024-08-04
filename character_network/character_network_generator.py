@@ -1,22 +1,14 @@
 import pandas as pd
-import os
 import networkx as nx
-import matplotlib.pyplot as plt
-from ast import literal_eval
-import gradio as gr
 from pyvis.network import Network
 
 class CharacterNetworkGenerator():
     def __init__(self):
         pass
     
-    def  generate_character_network(self,ner_df_path):
-        # Read Saved output if exists
-        # if save_path is not None and os.path.exists(save_path):
-        #     return pd.read_csv(save_path)
+    def  generate_character_network(self,ner_df):
         
-        df = ner_df_path
-        df['ners'] = df['ners'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
+        df = ner_df
         
         window=10
         entity_relationship = []
@@ -41,10 +33,6 @@ class CharacterNetworkGenerator():
         relationship_df['target'] = relationship_df['value'].apply(lambda x: x[1])
         relationship_df = relationship_df.groupby(['source','target']).count().reset_index()
         relationship_df = relationship_df.sort_values('value',ascending=False)
-
-        # Save Output
-        # if save_path is not None:
-        #     relationship_df.to_csv(save_path,index=False)
         
         return relationship_df
 

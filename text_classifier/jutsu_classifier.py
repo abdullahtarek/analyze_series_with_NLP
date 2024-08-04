@@ -36,12 +36,13 @@ class JutsuClassifier():
         self.test_size = test_size 
         self.num_labels = num_labels
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        self.tokenizer = self.load_tokenizer()
+        
         self.huggingface_token = huggingface_token
 
         if self.huggingface_token is not None:
             huggingface_hub.login(self.huggingface_token)
-
+        
+        self.tokenizer = self.load_tokenizer()
         if not huggingface_hub.repo_exists(self.model_path):
             # Check if data_path is provided
             if data_path is None:
@@ -63,7 +64,7 @@ class JutsuClassifier():
         return model
 
     def load_tokenizer(self):
-        if os.path.exists(self.model_path):
+        if huggingface_hub.repo_exists(self.model_path):
             tokenizer = AutoTokenizer.from_pretrained(self.model_path)
         else:
             tokenizer = AutoTokenizer.from_pretrained(self.model_name)

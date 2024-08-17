@@ -1,0 +1,349 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script>function neighbourhoodHighlight(params) {
+  // console.log("in nieghbourhoodhighlight");
+  allNodes = nodes.get({ returnType: "Object" });
+  // originalNodes = JSON.parse(JSON.stringify(allNodes));
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    highlightActive = true;
+    var i, j;
+    var selectedNode = params.nodes[0];
+    var degrees = 2;
+
+    // mark all nodes as hard to read.
+    for (let nodeId in allNodes) {
+      // nodeColors[nodeId] = allNodes[nodeId].color;
+      allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+      if (allNodes[nodeId].hiddenLabel === undefined) {
+        allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+    var connectedNodes = network.getConnectedNodes(selectedNode);
+    var allConnectedNodes = [];
+
+    // get the second degree nodes
+    for (i = 1; i < degrees; i++) {
+      for (j = 0; j < connectedNodes.length; j++) {
+        allConnectedNodes = allConnectedNodes.concat(
+          network.getConnectedNodes(connectedNodes[j])
+        );
+      }
+    }
+
+    // all second degree nodes get a different color and their label back
+    for (i = 0; i < allConnectedNodes.length; i++) {
+      // allNodes[allConnectedNodes[i]].color = "pink";
+      allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
+      if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[allConnectedNodes[i]].label =
+          allNodes[allConnectedNodes[i]].hiddenLabel;
+        allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // all first degree nodes get their own color and their label back
+    for (i = 0; i < connectedNodes.length; i++) {
+      // allNodes[connectedNodes[i]].color = undefined;
+      allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
+      if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[connectedNodes[i]].label =
+          allNodes[connectedNodes[i]].hiddenLabel;
+        allNodes[connectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // the main node gets its own color and its label back.
+    // allNodes[selectedNode].color = undefined;
+    allNodes[selectedNode].color = nodeColors[selectedNode];
+    if (allNodes[selectedNode].hiddenLabel !== undefined) {
+      allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
+      allNodes[selectedNode].hiddenLabel = undefined;
+    }
+  } else if (highlightActive === true) {
+    // console.log("highlightActive was true");
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      // allNodes[nodeId].color = "purple";
+      allNodes[nodeId].color = nodeColors[nodeId];
+      // delete allNodes[nodeId].color;
+      if (allNodes[nodeId].hiddenLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
+        allNodes[nodeId].hiddenLabel = undefined;
+      }
+    }
+    highlightActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    // console.log("Nothing was selected");
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        // allNodes[nodeId].color = {};
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function filterHighlight(params) {
+  allNodes = nodes.get({ returnType: "Object" });
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    filterActive = true;
+    let selectedNodes = params.nodes;
+
+    // hiding all nodes and saving the label
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = true;
+      if (allNodes[nodeId].savedLabel === undefined) {
+        allNodes[nodeId].savedLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+
+    for (let i=0; i < selectedNodes.length; i++) {
+      allNodes[selectedNodes[i]].hidden = false;
+      if (allNodes[selectedNodes[i]].savedLabel !== undefined) {
+        allNodes[selectedNodes[i]].label = allNodes[selectedNodes[i]].savedLabel;
+        allNodes[selectedNodes[i]].savedLabel = undefined;
+      }
+    }
+
+  } else if (filterActive === true) {
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = false;
+      if (allNodes[nodeId].savedLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].savedLabel;
+        allNodes[nodeId].savedLabel = undefined;
+      }
+    }
+    filterActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function selectNode(nodes) {
+  network.selectNodes(nodes);
+  neighbourhoodHighlight({ nodes: nodes });
+  return nodes;
+}
+
+function selectNodes(nodes) {
+  network.selectNodes(nodes);
+  filterHighlight({nodes: nodes});
+  return nodes;
+}
+
+function highlightFilter(filter) {
+  let selectedNodes = []
+  let selectedProp = filter['property']
+  if (filter['item'] === 'node') {
+    let allNodes = nodes.get({ returnType: "Object" });
+    for (let nodeId in allNodes) {
+      if (allNodes[nodeId][selectedProp] && filter['value'].includes((allNodes[nodeId][selectedProp]).toString())) {
+        selectedNodes.push(nodeId)
+      }
+    }
+  }
+  else if (filter['item'] === 'edge'){
+    let allEdges = edges.get({returnType: 'object'});
+    // check if the selected property exists for selected edge and select the nodes connected to the edge
+    for (let edge in allEdges) {
+      if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
+        selectedNodes.push(allEdges[edge]['from'])
+        selectedNodes.push(allEdges[edge]['to'])
+      }
+    }
+  }
+  selectNodes(selectedNodes)
+}</script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+            
+            
+            
+            
+            
+
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1000px;
+                 height: 700px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "white"}, "id": "Naruto", "label": "Naruto", "shape": "dot", "size": 37}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sasuke", "label": "Sasuke", "shape": "dot", "size": 31}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Iruka", "label": "Iruka", "shape": "dot", "size": 15}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sakura", "label": "Sakura", "shape": "dot", "size": 12}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mizuki", "label": "Mizuki", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Hokage", "label": "Hokage", "shape": "dot", "size": 12}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Kakashi", "label": "Kakashi", "shape": "dot", "size": 17}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Zabuza", "label": "Zabuza", "shape": "dot", "size": 13}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tazuna", "label": "Tazuna", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jerk", "label": "Jerk", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "lruka", "label": "lruka", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jonin", "label": "Jonin", "shape": "dot", "size": 8}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Narutos", "label": "Narutos", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Transform", "label": "Transform", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "jonin", "label": "jonin", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Uzumaki", "label": "Uzumaki", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Chunin", "label": "Chunin", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Demon", "label": "Demon", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Haku", "label": "Haku", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ninjas", "label": "Ninjas", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sensei", "label": "Sensei", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Hinata", "label": "Hinata", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Kiba", "label": "Kiba", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Konohamaru", "label": "Konohamaru", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ino", "label": "Ino", "shape": "dot", "size": 7}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Fatty", "label": "Fatty", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "squirt", "label": "squirt", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Choji", "label": "Choji", "shape": "dot", "size": 6}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tracker", "label": "Tracker", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "bunny", "label": "bunny", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "That", "label": "That", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Shino", "label": "Shino", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ninja", "label": "Ninja", "shape": "dot", "size": 8}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Rogue", "label": "Rogue", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sakur--", "label": "Sakur--", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Shikamaru", "label": "Shikamaru", "shape": "dot", "size": 8}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ebisu", "label": "Ebisu", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Grandson", "label": "Grandson", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Shuriken", "label": "Shuriken", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Manji", "label": "Manji", "shape": "dot", "size": 5}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Shinobi", "label": "Shinobi", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Inari", "label": "Inari", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "the", "label": "the", "shape": "dot", "size": 4}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tori", "label": "Tori", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "The", "label": "The", "shape": "dot", "size": 7}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Grandpa", "label": "Grandpa", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Kage", "label": "Kage", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Gato", "label": "Gato", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tora", "label": "Tora", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Daimyo", "label": "Daimyo", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Sharingan", "label": "Sharingan", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Shijimi", "label": "Shijimi", "shape": "dot", "size": 3}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "saru", "label": "saru", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "tori", "label": "tori", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "ushi", "label": "ushi", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jin", "label": "Jin", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "uma", "label": "uma", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "tatsu", "label": "tatsu", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "mi", "label": "mi", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "lnu", "label": "lnu", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "hitsuji", "label": "hitsuji", "shape": "dot", "size": 9}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jutsu", "label": "Jutsu", "shape": "dot", "size": 1}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "This", "label": "This", "shape": "dot", "size": 2}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Katana", "label": "Katana", "shape": "dot", "size": 2}]);
+                  edges = new vis.DataSet([{"from": "Naruto", "to": "Sasuke", "value": 117, "width": 1}, {"from": "Naruto", "to": "Iruka", "value": 43, "width": 1}, {"from": "Naruto", "to": "Sakura", "value": 41, "width": 1}, {"from": "Naruto", "to": "Mizuki", "value": 28, "width": 1}, {"from": "Naruto", "to": "Hokage", "value": 26, "width": 1}, {"from": "Naruto", "to": "Kakashi", "value": 21, "width": 1}, {"from": "Naruto", "to": "Zabuza", "value": 9, "width": 1}, {"from": "Naruto", "to": "Tazuna", "value": 6, "width": 1}, {"from": "Naruto", "to": "Jerk", "value": 6, "width": 1}, {"from": "Naruto", "to": "lruka", "value": 5, "width": 1}, {"from": "Naruto", "to": "Jonin", "value": 5, "width": 1}, {"from": "Naruto", "to": "Narutos", "value": 5, "width": 1}, {"from": "Naruto", "to": "Transform", "value": 4, "width": 1}, {"from": "Naruto", "to": "jonin", "value": 4, "width": 1}, {"from": "Naruto", "to": "Uzumaki", "value": 4, "width": 1}, {"from": "Naruto", "to": "Chunin", "value": 3, "width": 1}, {"from": "Naruto", "to": "Demon", "value": 3, "width": 1}, {"from": "Naruto", "to": "Haku", "value": 3, "width": 1}, {"from": "Naruto", "to": "Ninjas", "value": 3, "width": 1}, {"from": "Naruto", "to": "Sensei", "value": 3, "width": 1}, {"from": "Naruto", "to": "Hinata", "value": 2, "width": 1}, {"from": "Naruto", "to": "Kiba", "value": 2, "width": 1}, {"from": "Naruto", "to": "Konohamaru", "value": 2, "width": 1}, {"from": "Naruto", "to": "Ino", "value": 2, "width": 1}, {"from": "Naruto", "to": "Fatty", "value": 2, "width": 1}, {"from": "Naruto", "to": "squirt", "value": 1, "width": 1}, {"from": "Naruto", "to": "Choji", "value": 1, "width": 1}, {"from": "Naruto", "to": "Tracker", "value": 1, "width": 1}, {"from": "Naruto", "to": "bunny", "value": 1, "width": 1}, {"from": "Naruto", "to": "That", "value": 1, "width": 1}, {"from": "Naruto", "to": "Shino", "value": 1, "width": 1}, {"from": "Naruto", "to": "Ninja", "value": 1, "width": 1}, {"from": "Naruto", "to": "Rogue", "value": 1, "width": 1}, {"from": "Naruto", "to": "Sakur--", "value": 1, "width": 1}, {"from": "Naruto", "to": "Shikamaru", "value": 1, "width": 1}, {"from": "Naruto", "to": "Ebisu", "value": 1, "width": 1}, {"from": "Naruto", "to": "Grandson", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Sakura", "value": 65, "width": 1}, {"from": "Sasuke", "to": "Kakashi", "value": 21, "width": 1}, {"from": "Sasuke", "to": "Zabuza", "value": 9, "width": 1}, {"from": "Sasuke", "to": "Jonin", "value": 8, "width": 1}, {"from": "Sasuke", "to": "Ninja", "value": 6, "width": 1}, {"from": "Sasuke", "to": "Sensei", "value": 6, "width": 1}, {"from": "Sasuke", "to": "Hokage", "value": 4, "width": 1}, {"from": "Sasuke", "to": "Tazuna", "value": 4, "width": 1}, {"from": "Sasuke", "to": "Haku", "value": 4, "width": 1}, {"from": "Sasuke", "to": "Iruka", "value": 4, "width": 1}, {"from": "Sasuke", "to": "Sakur--", "value": 3, "width": 1}, {"from": "Sasuke", "to": "Jerk", "value": 3, "width": 1}, {"from": "Sasuke", "to": "Shuriken", "value": 3, "width": 1}, {"from": "Sasuke", "to": "Uzumaki", "value": 3, "width": 1}, {"from": "Sasuke", "to": "Konohamaru", "value": 3, "width": 1}, {"from": "Sasuke", "to": "Hinata", "value": 2, "width": 1}, {"from": "Sasuke", "to": "Manji", "value": 2, "width": 1}, {"from": "Sasuke", "to": "Kiba", "value": 2, "width": 1}, {"from": "Sasuke", "to": "Transform", "value": 2, "width": 1}, {"from": "Sasuke", "to": "Shinobi", "value": 2, "width": 1}, {"from": "Sasuke", "to": "Shino", "value": 2, "width": 1}, {"from": "Sasuke", "to": "Rogue", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Ino", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Inari", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Choji", "value": 1, "width": 1}, {"from": "Sasuke", "to": "the", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Tori", "value": 1, "width": 1}, {"from": "Sasuke", "to": "The", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Shikamaru", "value": 1, "width": 1}, {"from": "Sasuke", "to": "Fatty", "value": 1, "width": 1}, {"from": "Sakura", "to": "Kakashi", "value": 6, "width": 1}, {"from": "Sakura", "to": "Ino", "value": 6, "width": 1}, {"from": "Sakura", "to": "Sensei", "value": 3, "width": 1}, {"from": "Sakura", "to": "Sakur--", "value": 3, "width": 1}, {"from": "Sakura", "to": "Konohamaru", "value": 3, "width": 1}, {"from": "Sakura", "to": "Hokage", "value": 2, "width": 1}, {"from": "Sakura", "to": "Iruka", "value": 2, "width": 1}, {"from": "Sakura", "to": "Jerk", "value": 1, "width": 1}, {"from": "Sakura", "to": "Shino", "value": 1, "width": 1}, {"from": "Sakura", "to": "lruka", "value": 1, "width": 1}, {"from": "Iruka", "to": "Mizuki", "value": 8, "width": 1}, {"from": "Iruka", "to": "Hokage", "value": 6, "width": 1}, {"from": "Iruka", "to": "Kakashi", "value": 4, "width": 1}, {"from": "Iruka", "to": "Shinobi", "value": 2, "width": 1}, {"from": "Iruka", "to": "Shikamaru", "value": 2, "width": 1}, {"from": "Iruka", "to": "Sensei", "value": 2, "width": 1}, {"from": "Iruka", "to": "Jonin", "value": 2, "width": 1}, {"from": "Iruka", "to": "Demon", "value": 2, "width": 1}, {"from": "Iruka", "to": "Ninja", "value": 2, "width": 1}, {"from": "Iruka", "to": "Ino", "value": 1, "width": 1}, {"from": "Iruka", "to": "Choji", "value": 1, "width": 1}, {"from": "Iruka", "to": "Fatty", "value": 1, "width": 1}, {"from": "Mizuki", "to": "Ebisu", "value": 1, "width": 1}, {"from": "Hokage", "to": "Konohamaru", "value": 6, "width": 1}, {"from": "Hokage", "to": "Grandpa", "value": 3, "width": 1}, {"from": "Hokage", "to": "lruka", "value": 2, "width": 1}, {"from": "Hokage", "to": "Kage", "value": 2, "width": 1}, {"from": "Hokage", "to": "Ninjas", "value": 2, "width": 1}, {"from": "Hokage", "to": "squirt", "value": 2, "width": 1}, {"from": "Hokage", "to": "Ebisu", "value": 2, "width": 1}, {"from": "Hokage", "to": "Tazuna", "value": 1, "width": 1}, {"from": "Kakashi", "to": "Zabuza", "value": 7, "width": 1}, {"from": "Kakashi", "to": "Gato", "value": 3, "width": 1}, {"from": "Kakashi", "to": "Inari", "value": 3, "width": 1}, {"from": "Kakashi", "to": "Ninja", "value": 3, "width": 1}, {"from": "Kakashi", "to": "Tora", "value": 2, "width": 1}, {"from": "Kakashi", "to": "Tazuna", "value": 2, "width": 1}, {"from": "Kakashi", "to": "Shinobi", "value": 2, "width": 1}, {"from": "Kakashi", "to": "Sensei", "value": 2, "width": 1}, {"from": "Kakashi", "to": "Jonin", "value": 2, "width": 1}, {"from": "Kakashi", "to": "Daimyo", "value": 1, "width": 1}, {"from": "Kakashi", "to": "Sharingan", "value": 1, "width": 1}, {"from": "Kakashi", "to": "Shijimi", "value": 1, "width": 1}, {"from": "Kakashi", "to": "Demon", "value": 1, "width": 1}, {"from": "saru", "to": "tori", "value": 12, "width": 1}, {"from": "saru", "to": "ushi", "value": 11, "width": 1}, {"from": "saru", "to": "Tori", "value": 9, "width": 1}, {"from": "saru", "to": "Jin", "value": 7, "width": 1}, {"from": "saru", "to": "uma", "value": 6, "width": 1}, {"from": "saru", "to": "tatsu", "value": 4, "width": 1}, {"from": "saru", "to": "mi", "value": 3, "width": 1}, {"from": "saru", "to": "lnu", "value": 3, "width": 1}, {"from": "saru", "to": "hitsuji", "value": 3, "width": 1}, {"from": "tori", "to": "ushi", "value": 11, "width": 1}, {"from": "tori", "to": "Tori", "value": 9, "width": 1}, {"from": "tori", "to": "Jin", "value": 7, "width": 1}, {"from": "tori", "to": "uma", "value": 6, "width": 1}, {"from": "tori", "to": "tatsu", "value": 4, "width": 1}, {"from": "tori", "to": "mi", "value": 3, "width": 1}, {"from": "tori", "to": "lnu", "value": 3, "width": 1}, {"from": "tori", "to": "hitsuji", "value": 3, "width": 1}, {"from": "ushi", "to": "Tori", "value": 9, "width": 1}, {"from": "ushi", "to": "uma", "value": 7, "width": 1}, {"from": "ushi", "to": "Jin", "value": 6, "width": 1}, {"from": "ushi", "to": "hitsuji", "value": 4, "width": 1}, {"from": "ushi", "to": "lnu", "value": 4, "width": 1}, {"from": "ushi", "to": "mi", "value": 4, "width": 1}, {"from": "ushi", "to": "tatsu", "value": 3, "width": 1}, {"from": "Tori", "to": "uma", "value": 11, "width": 1}, {"from": "Tori", "to": "Jin", "value": 8, "width": 1}, {"from": "Tori", "to": "tatsu", "value": 3, "width": 1}, {"from": "Tori", "to": "lnu", "value": 3, "width": 1}, {"from": "Tori", "to": "hitsuji", "value": 3, "width": 1}, {"from": "Tori", "to": "mi", "value": 3, "width": 1}, {"from": "uma", "to": "Jin", "value": 5, "width": 1}, {"from": "uma", "to": "mi", "value": 3, "width": 1}, {"from": "uma", "to": "hitsuji", "value": 3, "width": 1}, {"from": "uma", "to": "lnu", "value": 3, "width": 1}, {"from": "uma", "to": "tatsu", "value": 2, "width": 1}, {"from": "Zabuza", "to": "Rogue", "value": 3, "width": 1}, {"from": "Zabuza", "to": "Tracker", "value": 2, "width": 1}, {"from": "Zabuza", "to": "Jutsu", "value": 2, "width": 1}, {"from": "Zabuza", "to": "the", "value": 2, "width": 1}, {"from": "Zabuza", "to": "Ninja", "value": 2, "width": 1}, {"from": "Zabuza", "to": "Shuriken", "value": 2, "width": 1}, {"from": "Zabuza", "to": "Jonin", "value": 1, "width": 1}, {"from": "Zabuza", "to": "Manji", "value": 1, "width": 1}, {"from": "Zabuza", "to": "The", "value": 1, "width": 1}, {"from": "Zabuza", "to": "Tazuna", "value": 1, "width": 1}, {"from": "Jin", "to": "tatsu", "value": 3, "width": 1}, {"from": "Jin", "to": "lnu", "value": 3, "width": 1}, {"from": "Jin", "to": "mi", "value": 3, "width": 1}, {"from": "Jin", "to": "hitsuji", "value": 2, "width": 1}, {"from": "Jonin", "to": "Chunin", "value": 2, "width": 1}, {"from": "Jonin", "to": "Ninja", "value": 2, "width": 1}, {"from": "Jonin", "to": "Manji", "value": 1, "width": 1}, {"from": "lnu", "to": "mi", "value": 6, "width": 1}, {"from": "lnu", "to": "hitsuji", "value": 2, "width": 1}, {"from": "lnu", "to": "tatsu", "value": 1, "width": 1}, {"from": "mi", "to": "hitsuji", "value": 2, "width": 1}, {"from": "mi", "to": "tatsu", "value": 1, "width": 1}, {"from": "Ninja", "to": "Shinobi", "value": 2, "width": 1}, {"from": "Ninja", "to": "Manji", "value": 1, "width": 1}, {"from": "Tazuna", "to": "Ninjas", "value": 1, "width": 1}, {"from": "Tazuna", "to": "Chunin", "value": 1, "width": 1}, {"from": "Tazuna", "to": "Manji", "value": 1, "width": 1}, {"from": "Tazuna", "to": "The", "value": 1, "width": 1}, {"from": "Tazuna", "to": "squirt", "value": 1, "width": 1}, {"from": "Ino", "to": "Shikamaru", "value": 2, "width": 1}, {"from": "Ino", "to": "Choji", "value": 1, "width": 1}, {"from": "Ino", "to": "Fatty", "value": 1, "width": 1}, {"from": "Konohamaru", "to": "Grandpa", "value": 1, "width": 1}, {"from": "Narutos", "to": "jonin", "value": 1, "width": 1}, {"from": "hitsuji", "to": "tatsu", "value": 1, "width": 1}, {"from": "Shijimi", "to": "Tora", "value": 4, "width": 1}, {"from": "Shijimi", "to": "Daimyo", "value": 2, "width": 1}, {"from": "Tora", "to": "Daimyo", "value": 4, "width": 1}, {"from": "Haku", "to": "Inari", "value": 1, "width": 1}, {"from": "Chunin", "to": "Ninjas", "value": 1, "width": 1}, {"from": "Gato", "to": "The", "value": 2, "width": 1}, {"from": "Rogue", "to": "The", "value": 1, "width": 1}, {"from": "Rogue", "to": "the", "value": 1, "width": 1}, {"from": "Ninjas", "to": "This", "value": 1, "width": 1}, {"from": "Ninjas", "to": "Katana", "value": 1, "width": 1}, {"from": "Kiba", "to": "Shikamaru", "value": 1, "width": 1}, {"from": "Kiba", "to": "Shino", "value": 1, "width": 1}, {"from": "Shikamaru", "to": "Choji", "value": 2, "width": 1}, {"from": "Shikamaru", "to": "Fatty", "value": 2, "width": 1}, {"from": "Shikamaru", "to": "Shino", "value": 1, "width": 1}, {"from": "the", "to": "The", "value": 1, "width": 1}, {"from": "Choji", "to": "Fatty", "value": 1, "width": 1}, {"from": "The", "to": "bunny", "value": 1, "width": 1}, {"from": "This", "to": "Katana", "value": 1, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

@@ -109,7 +109,7 @@ class CharacterChatBot():
         )
 
         model = AutoModelForCausalLM.from_pretrained(base_model_name_or_path, 
-                                                     quntization_config=bnb_config,
+                                                     quantization_config= bnb_config,
                                                      trust_remote_code=True)
         model.config.use_cache = False
 

@@ -46,7 +46,7 @@ class CharacterChatBot():
     def chat(self, message, history):
         messages = []
         # Add the system ptomp 
-        messages.append(""""Your are Naruto from the anime "Naruto". Your responses should reflect his personality and speech patterns \n""")
+        messages.append({"role":"system","content":""""Your are Naruto from the anime "Naruto". Your responses should reflect his personality and speech patterns \n"""})
 
         for message_and_respnse in history:
             messages.append({"role":"user","content":message_and_respnse[0]})

@@ -1,5 +1,5 @@
 huggingface-hub==0.24.5
-nltk==3.8.2
+nltk==3.8.1
 matplotlib==3.7.5
 seaborn==0.13.1
 gradio==4.36.1

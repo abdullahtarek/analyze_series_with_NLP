@@ -1,12 +1,10 @@
-huggingface-hub==0.24.5
+transformers==4.44.0
+huggingface_hub==0.24.5
 nltk==3.8.1
-matplotlib==3.7.5
-seaborn==0.13.1
 gradio==4.36.1
 pyvis==0.3.2
 evaluate==0.4.2
 python-dotenv==1.0.1
 git+https://github.com/huggingface/peft.git
 trl==0.9.6
-transformers==4.44.0
 bitsandbytes==0.43.3

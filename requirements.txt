@@ -1,5 +1,7 @@
-huggingface_hub==0.24.5
-nltk==3.8.1
+huggingface-hub==0.24.5
+nltk==3.8.2
+matplotlib==3.7.5
+seaborn==0.13.1
 gradio==4.36.1
 pyvis==0.3.2
 evaluate==0.4.2

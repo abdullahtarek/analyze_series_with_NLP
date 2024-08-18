@@ -1,0 +1,386 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.14,0:00:03.55,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.59,0:00:06.35,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.39,0:00:12.47,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.85,0:00:28.76,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.80,0:00:34.30,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.35,0:00:36.93,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:36.97,0:00:40.55,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.59,0:00:44.97,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.59,0:00:51.59,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.01,0:00:56.59,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.60,0:01:02.18,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.22,0:01:07.59,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.59,0:01:10.64,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.68,0:01:19.59,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:49.93,0:01:54.89,Default,,0000,0000,0000,,Viva Dojo Challenge!\NYouth is all about Passion!
+Dialogue: 0,0:01:56.39,0:01:59.76,Default,,0000,0000,0000,,It’s been a while, hasn’t it, Naruto?\NWere you alone on a mission this time?
+Dialogue: 0,0:02:00.93,0:02:03.60,Default,,0000,0000,0000,,I just went to deliver\NGrandma Tsunade’s letter…
+Dialogue: 0,0:02:04.05,0:02:07.64,Default,,0000,0000,0000,,Is that so? Then you should\Nreport to Lady Tsunade right away.
+Dialogue: 0,0:02:07.68,0:02:09.30,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:02:10.59,0:02:13.30,Default,,0000,0000,0000,,I’ve only been away for a week,
+Dialogue: 0,0:02:13.35,0:02:15.59,Default,,0000,0000,0000,,but it seems as though\Nan awful lot has changed.
+Dialogue: 0,0:02:18.43,0:02:20.47,Default,,0000,0000,0000,,DOJO CHALLENGERS,\NCOME THIS WAY\N		That sign wasn’t here before, either.
+Dialogue: 0,0:02:21.10,0:02:22.43,Default,,0000,0000,0000,,Dojo challenge?
+Dialogue: 0,0:02:27.01,0:02:29.97,Default,,0000,0000,0000,,MAKE-OUT VIOLENCE 3
+Dialogue: 0,0:02:30.89,0:02:31.89,Default,,0000,0000,0000,,This way?
+Dialogue: 0,0:02:36.14,0:02:37.30,Default,,0000,0000,0000,,This is a tight squeeze.
+Dialogue: 0,0:02:38.10,0:02:39.10,Default,,0000,0000,0000,,Is that it?
+Dialogue: 0,0:02:39.60,0:02:44.30,Default,,0000,0000,0000,,PASSION DOJO\N		“Passion Dojo."\N		Who on earth built this?
+Dialogue: 0,0:02:48.72,0:02:49.72,Default,,0000,0000,0000,,I’ve been waiting for you!
+Dialogue: 0,0:02:49.89,0:02:50.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:51.22,0:02:52.59,Default,,0000,0000,0000,,You’ve come here\Nfor a Dojo challenge, right?
+Dialogue: 0,0:02:54.64,0:02:57.64,Default,,0000,0000,0000,,Well, then.\NCome at me from anywhere you like!
+Dialogue: 0,0:02:58.14,0:03:00.26,Default,,0000,0000,0000,,Huh? Bushy Brow?
+Dialogue: 0,0:03:00.76,0:03:03.43,Default,,0000,0000,0000,,If you don’t make a move,\NI’m coming at you!
+Dialogue: 0,0:03:03.55,0:03:04.97,Default,,0000,0000,0000,,What? Wait, hold it.
+Dialogue: 0,0:03:05.01,0:03:07.51,Default,,0000,0000,0000,,Hey, it’s me!\Nlt’s only me, Bushy Brow!
+Dialogue: 0,0:03:11.05,0:03:12.05,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:13.59,0:03:16.18,Default,,0000,0000,0000,,Hey, that was close, I tell you!
+Dialogue: 0,0:03:16.47,0:03:19.35,Default,,0000,0000,0000,,So the first Dojo challenger\Nwill be you, Naruto!
+Dialogue: 0,0:03:19.59,0:03:21.14,Default,,0000,0000,0000,,Well, I couldn’t wish for\Na better opponent!
+Dialogue: 0,0:03:21.59,0:03:22.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:22.59,0:03:24.14,Default,,0000,0000,0000,,I’m going to go at this for real!
+Dialogue: 0,0:03:25.05,0:03:26.26,Default,,0000,0000,0000,,W-Wait just a minute!
+Dialogue: 0,0:03:26.64,0:03:28.05,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:03:32.59,0:03:33.59,Default,,0000,0000,0000,,Here…
+Dialogue: 0,0:03:34.35,0:03:35.68,Default,,0000,0000,0000,,So you just came to view the grounds?
+Dialogue: 0,0:03:37.05,0:03:40.39,Default,,0000,0000,0000,,Then you should have said so\Nin the first place.
+Dialogue: 0,0:03:41.76,0:03:46.39,Default,,0000,0000,0000,,I never even got a chance to tell you.\NYou just suddenly attacked me.
+Dialogue: 0,0:03:46.60,0:03:49.05,Default,,0000,0000,0000,,I’m really sorry about that.
+Dialogue: 0,0:03:49.59,0:03:53.14,Default,,0000,0000,0000,,Say. Is this Dojo yours, Bushy Brow?
+Dialogue: 0,0:03:54.30,0:03:57.59,Default,,0000,0000,0000,,Yes. I have been working on it\Nfor quite some time
+Dialogue: 0,0:03:57.59,0:03:59.59,Default,,0000,0000,0000,,and finally completed it 6 days ago.
+Dialogue: 0,0:04:01.10,0:04:03.93,Default,,0000,0000,0000,,This flyer was distributed\Nnot only in Hidden Leaf Village,
+Dialogue: 0,0:04:03.97,0:04:06.26,Default,,0000,0000,0000,,but in all the nearby\Ntowns and villages as well.
+Dialogue: 0,0:04:06.55,0:04:07.55,Default,,0000,0000,0000,,You don’t say?
+Dialogue: 0,0:04:07.89,0:04:11.35,Default,,0000,0000,0000,,I’ve been away on a mission\Nand have only just returned…
+Dialogue: 0,0:04:11.59,0:04:12.59,Default,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:04:12.60,0:04:15.18,Default,,0000,0000,0000,,But why a Dojo?
+Dialogue: 0,0:04:15.51,0:04:17.59,Default,,0000,0000,0000,,It’s all for training.
+Dialogue: 0,0:04:18.55,0:04:19.55,Default,,0000,0000,0000,,For training?
+Dialogue: 0,0:04:20.60,0:04:23.59,Default,,0000,0000,0000,,Well, actually, I’ve been busy\Nwith missions lately
+Dialogue: 0,0:04:23.59,0:04:26.35,Default,,0000,0000,0000,,and have not been able to set aside\Nas much time for training as I’d like to.
+Dialogue: 0,0:04:28.14,0:04:29.85,Default,,0000,0000,0000,,And even on those occasions when\NI was able to take time out…
+Dialogue: 0,0:04:29.89,0:04:34.72,Default,,0000,0000,0000,,it was difficult to find practice partners,\Nso I wasn’t able to train efficiently.
+Dialogue: 0,0:04:37.60,0:04:39.51,Default,,0000,0000,0000,,Just when I was wondering\Nwhat I ought to do about it
+Dialogue: 0,0:04:39.93,0:04:41.85,Default,,0000,0000,0000,,YOUTH\N		I saw something in a village\N		I visited on a mission…
+Dialogue: 0,0:04:45.18,0:04:46.18,Default,,0000,0000,0000,,I request a challenge!
+Dialogue: 0,0:04:49.35,0:04:50.59,Default,,0000,0000,0000,,Please come this way.
+Dialogue: 0,0:04:50.89,0:04:51.89,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:04:55.22,0:04:59.01,Default,,0000,0000,0000,,I have traveled near and far\Nin search of training…
+Dialogue: 0,0:04:59.89,0:05:02.51,Default,,0000,0000,0000,,I’d like to have a practice match.
+Dialogue: 0,0:05:02.55,0:05:06.55,Default,,0000,0000,0000,,But if I should win,\NI’ll claim your marquee.
+Dialogue: 0,0:05:06.76,0:05:11.59,Default,,0000,0000,0000,,A Dojo challenge, huh?\NVery well, I shall have a match with you.
+Dialogue: 0,0:05:14.35,0:05:16.05,Default,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:05:19.35,0:05:21.59,Default,,0000,0000,0000,,If I were to open my own Dojo,
+Dialogue: 0,0:05:21.59,0:05:25.68,Default,,0000,0000,0000,,someone with confidence in his skills\Nwill surely come to challenge me!
+Dialogue: 0,0:05:26.59,0:05:32.39,Default,,0000,0000,0000,,So, I opened the Dojo thinking\Nit would give me good practice,
+Dialogue: 0,0:05:32.43,0:05:35.39,Default,,0000,0000,0000,,but nobody has come\Nto challenge me yet…
+Dialogue: 0,0:05:37.01,0:05:39.14,Default,,0000,0000,0000,,Hmmm… Is that so?
+Dialogue: 0,0:05:43.59,0:05:47.14,Default,,0000,0000,0000,,Say, since you’re here, Naruto,\Nwon’t you try out for a Dojo challenge?
+Dialogue: 0,0:05:48.64,0:05:51.59,Default,,0000,0000,0000,,If you win,\NI’ll give you the sign I painted myself.
+Dialogue: 0,0:05:51.76,0:05:53.72,Default,,0000,0000,0000,,I have no need for such things.
+Dialogue: 0,0:05:54.05,0:05:56.59,Default,,0000,0000,0000,,Don’t say that!\NPlease, by all means!
+Dialogue: 0,0:05:59.39,0:06:03.55,Default,,0000,0000,0000,,C-Come to think of it,\NI forgot to report to Grandma Tsunade!
+Dialogue: 0,0:06:03.59,0:06:04.76,Default,,0000,0000,0000,,I’d better go right away!
+Dialogue: 0,0:06:04.93,0:06:05.93,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:06:07.10,0:06:08.10,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:06:08.59,0:06:11.35,Default,,0000,0000,0000,,Please be my first!
+Dialogue: 0,0:06:12.93,0:06:16.39,Default,,0000,0000,0000,,Damn it. I wasted so much time\Nthanks to Bushy Brow.
+Dialogue: 0,0:06:16.43,0:06:18.64,Default,,0000,0000,0000,,Grandma Tsunade scolded me to bits.
+Dialogue: 0,0:06:19.47,0:06:23.26,Default,,0000,0000,0000,,I’d better steer clear of Bushy Brow’s Dojo\Nfor the time being.
+Dialogue: 0,0:06:23.80,0:06:25.51,Default,,0000,0000,0000,,What’s that I hear about Lee’s Dojo?
+Dialogue: 0,0:06:26.59,0:06:27.72,Default,,0000,0000,0000,,Intense Brow Sensei…?
+Dialogue: 0,0:06:29.76,0:06:33.01,Default,,0000,0000,0000,,Naruto, what do you mean by that?
+Dialogue: 0,0:06:34.59,0:06:39.14,Default,,0000,0000,0000,,Do you mean to tell me\Nthat he opened a Dojo to train himself
+Dialogue: 0,0:06:39.18,0:06:42.51,Default,,0000,0000,0000,,while I was away from the village\Non a mission?
+Dialogue: 0,0:06:44.26,0:06:46.39,Default,,0000,0000,0000,,Splendid, if I may say so\Nabout my own student!
+Dialogue: 0,0:06:46.43,0:06:50.18,Default,,0000,0000,0000,,I, Might Guy, am impressed and moved!
+Dialogue: 0,0:06:52.05,0:06:55.59,Default,,0000,0000,0000,,But the all-important Dojo challengers\Nare yet to appear… Not a single one.
+Dialogue: 0,0:06:57.59,0:07:00.26,Default,,0000,0000,0000,,Damn those Dojo challengers!
+Dialogue: 0,0:07:00.51,0:07:02.64,Default,,0000,0000,0000,,To think that Lee’s earnest hopes\Nhave come to naught…
+Dialogue: 0,0:07:02.93,0:07:06.59,Default,,0000,0000,0000,,I’ll search high and low\Nand give them a hit they can not forget!
+Dialogue: 0,0:07:07.05,0:07:08.59,Default,,0000,0000,0000,,But, if you do that,
+Dialogue: 0,0:07:08.59,0:07:11.22,Default,,0000,0000,0000,,you’ll just make even less people\Nwant to visit for a challenge.
+Dialogue: 0,0:07:11.59,0:07:15.05,Default,,0000,0000,0000,,Ah, that’s right…\NWhatever shall I do then?!
+Dialogue: 0,0:07:18.30,0:07:21.85,Default,,0000,0000,0000,,I’ve got it. If no one come\Nto challenge his Dojo, then…
+Dialogue: 0,0:07:23.43,0:07:28.93,Default,,0000,0000,0000,,Why don’t I myself go to Lee’s Dojo,\Ndisguised as a Dojo challenger?
+Dialogue: 0,0:07:30.51,0:07:33.93,Default,,0000,0000,0000,,I’ll play the part of Lee’s first!
+Dialogue: 0,0:07:43.59,0:07:45.59,Default,,0000,0000,0000,,A perfect disguise, if I do say so myself.
+Dialogue: 0,0:07:46.18,0:07:48.59,Default,,0000,0000,0000,,He wouldn’t dream that\Nthis was me, no way.
+Dialogue: 0,0:07:49.68,0:07:51.68,Default,,0000,0000,0000,,Here I come, Lee.
+Dialogue: 0,0:07:52.14,0:07:53.43,Default,,0000,0000,0000,,Guy Sensei!
+Dialogue: 0,0:07:56.59,0:07:57.97,Default,,0000,0000,0000,,I finally found you.
+Dialogue: 0,0:07:58.59,0:08:01.18,Default,,0000,0000,0000,,If it isn’t Sakura!\NWhat is going on?
+Dialogue: 0,0:08:02.39,0:08:06.51,Default,,0000,0000,0000,,Guy, forgive me for bothering you\Nwhen you’ve only just returned, but…
+Dialogue: 0,0:08:06.55,0:08:09.55,Default,,0000,0000,0000,,an emergency relief request has come in\Nfrom Shikamaru’s squad,
+Dialogue: 0,0:08:09.59,0:08:11.59,Default,,0000,0000,0000,,which was assigned to\Ntransport unit duty.
+Dialogue: 0,0:08:12.80,0:08:15.93,Default,,0000,0000,0000,,We know nothing whatsoever about\Nthe true nature and scale of the enemy.
+Dialogue: 0,0:08:16.59,0:08:17.60,Default,,0000,0000,0000,,Therefore…
+Dialogue: 0,0:08:17.64,0:08:19.59,Default,,0000,0000,0000,,there is a possibility of this developing\Ninto something major
+Dialogue: 0,0:08:19.59,0:08:21.89,Default,,0000,0000,0000,,if we err in our initial encounter.
+Dialogue: 0,0:08:22.85,0:08:25.72,Default,,0000,0000,0000,,Judging from reports,\Nthey should be around here.
+Dialogue: 0,0:08:26.59,0:08:27.59,Default,,0000,0000,0000,,They’re close by.
+Dialogue: 0,0:08:28.14,0:08:30.68,Default,,0000,0000,0000,,First, you go reconnoiter\Nto confirm the situation.
+Dialogue: 0,0:08:31.51,0:08:34.97,Default,,0000,0000,0000,,If they seem to need additional relief,\NI will make immediate arrangements.
+Dialogue: 0,0:08:35.72,0:08:37.76,Default,,0000,0000,0000,,Yes, roger that.
+Dialogue: 0,0:08:42.59,0:08:45.59,Default,,0000,0000,0000,,Can that strange getup\Nhave some significance?
+Dialogue: 0,0:08:47.59,0:08:48.59,Default,,0000,0000,0000,,I don’t know…
+Dialogue: 0,0:08:55.10,0:08:57.55,Default,,0000,0000,0000,,What’s with that strange fellow?
+Dialogue: 0,0:08:57.64,0:09:01.59,Default,,0000,0000,0000,,Well, no matter.\NI’ll borrow his form
+Dialogue: 0,0:09:01.60,0:09:03.59,Default,,0000,0000,0000,,to infiltrate Leaf Village.
+Dialogue: 0,0:09:07.85,0:09:09.89,Default,,0000,0000,0000,,The Village Hidden in the Leaves’\Nsecrets…
+Dialogue: 0,0:09:10.59,0:09:13.59,Default,,0000,0000,0000,,I, Nanafushi,\Nshall investigate every last detail!
+Dialogue: 0,0:09:15.39,0:09:18.59,Default,,0000,0000,0000,,Was that guy really\Nlooking for a Dojo challenge?
+Dialogue: 0,0:09:18.93,0:09:22.22,Default,,0000,0000,0000,,Yeah. That’s what he claimed to be,\Nso there can be no doubt.
+Dialogue: 0,0:09:22.59,0:09:24.01,Default,,0000,0000,0000,,He says he came\Nbecause he saw the flyers.
+Dialogue: 0,0:09:24.59,0:09:26.39,Default,,0000,0000,0000,,I wonder if he got lost or something…
+Dialogue: 0,0:09:27.76,0:09:30.72,Default,,0000,0000,0000,,Intense Brow Sensei, how long\Ndo you intend to keep us waiting?
+Dialogue: 0,0:09:33.05,0:09:37.26,Default,,0000,0000,0000,,Naruto, I think, after all, I’d like\Nto have you be a Dojo challenger…
+Dialogue: 0,0:09:41.14,0:09:42.14,Default,,0000,0000,0000,,Oh no.
+Dialogue: 0,0:09:42.43,0:09:44.35,Default,,0000,0000,0000,,I’ll go look for him!
+Dialogue: 0,0:09:45.30,0:09:46.30,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:09:46.59,0:09:49.35,Default,,0000,0000,0000,,Let’s work up a youthful sweat with me!
+Dialogue: 0,0:09:51.80,0:09:53.59,Default,,0000,0000,0000,,Oh, he returned after all.
+Dialogue: 0,0:09:54.10,0:09:56.26,Default,,0000,0000,0000,,I knew that get up would be problematic.
+Dialogue: 0,0:09:56.97,0:10:00.47,Default,,0000,0000,0000,,What? 					What’s the problem?
+Dialogue: 0,0:10:02.59,0:10:03.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:03.72,0:10:07.18,Default,,0000,0000,0000,,Sensei…?\NWhat’s with the strange disguise?
+Dialogue: 0,0:10:07.47,0:10:08.64,Default,,0000,0000,0000,,Everyone can still tell it’s you!
+Dialogue: 0,0:10:10.51,0:10:13.59,Default,,0000,0000,0000,,I…I didn’t think it was\Nsuch a great idea, either.
+Dialogue: 0,0:10:15.10,0:10:16.59,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:10:17.14,0:10:20.59,Default,,0000,0000,0000,,Don’t tell me these guys\Nhave discovered my true identify!
+Dialogue: 0,0:10:21.10,0:10:22.47,Default,,0000,0000,0000,,Intense Brow Sensei!
+Dialogue: 0,0:10:23.59,0:10:24.85,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:10:25.14,0:10:25.72,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:10:25.76,0:10:30.10,Default,,0000,0000,0000,,Quit lollygagging\Nand get over to Lee's Dojo!
+Dialogue: 0,0:10:30.14,0:10:30.59,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:10:30.59,0:10:34.30,Default,,0000,0000,0000,,If you don’t go, then I’ll have to fight him!\NCome on!
+Dialogue: 0,0:10:35.72,0:10:36.72,Default,,0000,0000,0000,,Be seeing you…!
+Dialogue: 0,0:10:37.59,0:10:39.51,Default,,0000,0000,0000,,I guess you could say…
+Dialogue: 0,0:10:39.55,0:10:40.85,Default,,0000,0000,0000,,That’s typical of him…
+Dialogue: 0,0:10:42.43,0:10:44.22,Default,,0000,0000,0000,,I’m safe thanks to this guy…
+Dialogue: 0,0:10:44.64,0:10:48.18,Default,,0000,0000,0000,,I should attach myself to him for a while\Nand scope out the situation in the village.
+Dialogue: 0,0:10:52.59,0:10:53.59,Default,,0000,0000,0000,,What is this place?
+Dialogue: 0,0:10:53.59,0:10:55.59,Default,,0000,0000,0000,,This is Lee’s Dojo!
+Dialogue: 0,0:10:56.30,0:11:00.51,Default,,0000,0000,0000,,But, really… Couldn’t you have\Ncome up with a little better disguise?
+Dialogue: 0,0:11:01.22,0:11:02.97,Default,,0000,0000,0000,,Well, never mind!
+Dialogue: 0,0:11:03.26,0:11:06.85,Default,,0000,0000,0000,,Lee must be tired of waiting,\Nso try to do a good acting job!
+Dialogue: 0,0:11:07.05,0:11:09.39,Default,,0000,0000,0000,,Acting?\NWhat is he talking about?
+Dialogue: 0,0:11:11.14,0:11:13.10,Default,,0000,0000,0000,,I’ve brought him with me, Bushy Brow!
+Dialogue: 0,0:11:15.59,0:11:16.64,Default,,0000,0000,0000,,I’ve been waiting for you…!
+Dialogue: 0,0:11:17.47,0:11:20.64,Default,,0000,0000,0000,,Well then, please try to take down my Dojo!
+Dialogue: 0,0:11:21.26,0:11:22.26,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:11:24.59,0:11:25.97,Default,,0000,0000,0000,,Please come this way!
+Dialogue: 0,0:11:26.35,0:11:27.93,Default,,0000,0000,0000,,Um…um.
+Dialogue: 0,0:11:28.64,0:11:32.01,Default,,0000,0000,0000,,At time like this, you're supposed to say,\N“I request a challenge match,” right?
+Dialogue: 0,0:11:32.89,0:11:33.89,Default,,0000,0000,0000,,I-I see…
+Dialogue: 0,0:11:35.01,0:11:36.68,Default,,0000,0000,0000,,I-I request a challenge match!
+Dialogue: 0,0:11:37.14,0:11:41.60,Default,,0000,0000,0000,,Do I hear that familiar call?\NYou indeed are a Dojo challenger!
+Dialogue: 0,0:11:42.39,0:11:47.59,Default,,0000,0000,0000,,Fair enough! If you win,\Nyou can have my marquee!
+Dialogue: 0,0:11:48.51,0:11:52.72,Default,,0000,0000,0000,,Could it be that I’ve been\Nmistaken for a Dojo challenger?
+Dialogue: 0,0:11:53.30,0:11:54.43,Default,,0000,0000,0000,,Oh my god…
+Dialogue: 0,0:11:54.85,0:11:55.85,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:56.51,0:11:57.59,Default,,0000,0000,0000,,He’s just a kid…
+Dialogue: 0,0:11:58.05,0:12:00.89,Default,,0000,0000,0000,,Well, it can’t be helped.\NI’ll go easy on him…
+Dialogue: 0,0:12:02.10,0:12:03.51,Default,,0000,0000,0000,,Okay! Here I come!
+Dialogue: 0,0:12:03.85,0:12:05.18,Default,,0000,0000,0000,,– Ready! 					– Huh?
+Dialogue: 0,0:12:05.59,0:12:06.59,Default,,0000,0000,0000,,He disappeared?
+Dialogue: 0,0:12:09.89,0:12:10.89,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:12:11.64,0:12:13.72,Default,,0000,0000,0000,,Wh-What happened…?
+Dialogue: 0,0:12:18.22,0:12:19.43,Default,,0000,0000,0000,,This little brat…!
+Dialogue: 0,0:12:20.89,0:12:23.39,Default,,0000,0000,0000,,Take that! And that!\NAnd this! And that!
+Dialogue: 0,0:12:23.60,0:12:24.68,Default,,0000,0000,0000,,He's strong!
+Dialogue: 0,0:12:28.59,0:12:30.43,Default,,0000,0000,0000,,What’s going on?!
+Dialogue: 0,0:12:30.97,0:12:35.59,Default,,0000,0000,0000,,I know you’re only acting, but you’re still\Ngiving him too much of a break, Sensei.
+Dialogue: 0,0:12:37.26,0:12:40.59,Default,,0000,0000,0000,,Oh, I see. He’s not fighting back because\Nit’ll ruin his disguise!
+Dialogue: 0,0:12:43.85,0:12:48.26,Default,,0000,0000,0000,,Even if I had nine lives,\NI’d never survive this fellow…
+Dialogue: 0,0:12:49.05,0:12:52.43,Default,,0000,0000,0000,,I think I’d better wave a white flag\Nand withdraw here.
+Dialogue: 0,0:12:54.39,0:12:56.72,Default,,0000,0000,0000,,I-I concede…
+Dialogue: 0,0:12:58.47,0:13:01.05,Default,,0000,0000,0000,,Then that means…I did it!
+Dialogue: 0,0:13:01.26,0:13:04.39,Default,,0000,0000,0000,,I splendidly fought off\Nmy first Dojo challenger!
+Dialogue: 0,0:13:04.55,0:13:05.59,Default,,0000,0000,0000,,No, that’s not it at all!
+Dialogue: 0,0:13:07.39,0:13:09.39,Default,,0000,0000,0000,,What he means by “concede”
+Dialogue: 0,0:13:09.43,0:13:11.85,Default,,0000,0000,0000,,is that he concedes\Nto be a Dojo challenger, right?
+Dialogue: 0,0:13:13.68,0:13:16.72,Default,,0000,0000,0000,,In other words,\Nhe’s just been warming up,
+Dialogue: 0,0:13:16.76,0:13:19.59,Default,,0000,0000,0000,,and now comes\Nthe real challenge, right?
+Dialogue: 0,0:13:21.43,0:13:23.01,Default,,0000,0000,0000,,No, that’s not it at all!
+Dialogue: 0,0:13:23.35,0:13:25.47,Default,,0000,0000,0000,,So that's what you meant, after all…
+Dialogue: 0,0:13:26.89,0:13:28.68,Default,,0000,0000,0000,,I thought it was odd that
+Dialogue: 0,0:13:28.72,0:13:31.97,Default,,0000,0000,0000,,that an experienced Dojo challenger\Nwould surrender.
+Dialogue: 0,0:13:32.59,0:13:34.59,Default,,0000,0000,0000,,It’s not odd!\NThere’s nothing odd about it at all!
+Dialogue: 0,0:13:35.18,0:13:37.93,Default,,0000,0000,0000,,Well, then, I’ll have to really\Nget down to business now, too!
+Dialogue: 0,0:13:38.59,0:13:41.97,Default,,0000,0000,0000,,What?! You mean you haven’t even\Nreally gotten started yet?
+Dialogue: 0,0:13:44.59,0:13:48.26,Default,,0000,0000,0000,,Hey! Intense Brow Sensei\Nis a pretty good actor!
+Dialogue: 0,0:13:49.89,0:13:54.18,Default,,0000,0000,0000,,He’s even taking more hits so that\NBushy Brow won't know it's him.
+Dialogue: 0,0:13:55.97,0:13:59.18,Default,,0000,0000,0000,,What?\NYou were only attacked by monkeys?
+Dialogue: 0,0:14:00.01,0:14:02.97,Default,,0000,0000,0000,,They were after the snacks\Nthat Choji procured
+Dialogue: 0,0:14:03.01,0:14:04.59,Default,,0000,0000,0000,,but the important load is safe!
+Dialogue: 0,0:14:06.35,0:14:08.59,Default,,0000,0000,0000,,My snacks… by a monkey…
+Dialogue: 0,0:14:08.93,0:14:12.68,Default,,0000,0000,0000,,Ino mistook that for\Nan enemy’s attack
+Dialogue: 0,0:14:12.72,0:14:14.43,Default,,0000,0000,0000,,and sent out\Nan emergency relief request.
+Dialogue: 0,0:14:14.59,0:14:16.59,Default,,0000,0000,0000,,But, it was so sudden!
+Dialogue: 0,0:14:16.76,0:14:20.55,Default,,0000,0000,0000,,Anyway, it’s your fault\Nfor procuring so many snacks!
+Dialogue: 0,0:14:20.72,0:14:22.59,Default,,0000,0000,0000,,These snacks were available\Nonly for a limited time,
+Dialogue: 0,0:14:22.59,0:14:24.59,Default,,0000,0000,0000,,and moreover,\Nonly available in the Land of Tea,
+Dialogue: 0,0:14:24.59,0:14:26.97,Default,,0000,0000,0000,,the Super-rare\N“Green tea Pork-flavored” chips!
+Dialogue: 0,0:14:27.59,0:14:30.64,Default,,0000,0000,0000,,For a lover of snacks, it is the ultimate sin\Nto refrain from buying
+Dialogue: 0,0:14:30.68,0:14:33.22,Default,,0000,0000,0000,,a limited offering of snacks\Nonce one has found them!
+Dialogue: 0,0:14:33.26,0:14:34.97,Default,,0000,0000,0000,,Like I care about stuff like that!
+Dialogue: 0,0:14:35.10,0:14:36.10,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:36.14,0:14:37.14,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:39.76,0:14:42.39,Default,,0000,0000,0000,,Shikamaru, things are tough for you,\Naren't they?
+Dialogue: 0,0:14:43.26,0:14:46.64,Default,,0000,0000,0000,,Right back at you. That getup…\NDid something happen?
+Dialogue: 0,0:14:47.05,0:14:50.05,Default,,0000,0000,0000,,Huh? What about my getup…?
+Dialogue: 0,0:14:51.05,0:14:52.05,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:14:53.55,0:14:56.59,Default,,0000,0000,0000,,Oh, that’s right!\NI haven’t got time for dallying here!
+Dialogue: 0,0:14:56.85,0:14:58.47,Default,,0000,0000,0000,,I’ve got to get over to Lee’s dojo!
+Dialogue: 0,0:14:58.68,0:15:00.59,Default,,0000,0000,0000,,Just wait for me, Lee!
+Dialogue: 0,0:15:07.97,0:15:11.30,Default,,0000,0000,0000,,You’re overdoing\Non purposefully getting beaten, Sensei…
+Dialogue: 0,0:15:16.30,0:15:17.59,Default,,0000,0000,0000,,Is he finished now?
+Dialogue: 0,0:15:17.80,0:15:19.30,Default,,0000,0000,0000,,Whoa, hold it! Time out!
+Dialogue: 0,0:15:23.60,0:15:25.85,Default,,0000,0000,0000,,Fight back a little, will you?!
+Dialogue: 0,0:15:26.35,0:15:28.22,Default,,0000,0000,0000,,It’s impossible, I tell you.
+Dialogue: 0,0:15:28.89,0:15:31.01,Default,,0000,0000,0000,,If Lee doesn’t\Nfind this challenging enough,
+Dialogue: 0,0:15:31.05,0:15:34.35,Default,,0000,0000,0000,,I might get stuck being his opponent.
+Dialogue: 0,0:15:34.60,0:15:36.01,Default,,0000,0000,0000,,Actually…
+Dialogue: 0,0:15:36.68,0:15:39.43,Default,,0000,0000,0000,,It’s been one extreme mission\Nafter another lately,
+Dialogue: 0,0:15:39.47,0:15:40.76,Default,,0000,0000,0000,,and I haven’t gotten any sleep at all…
+Dialogue: 0,0:15:41.30,0:15:43.26,Default,,0000,0000,0000,,What? You don’t say…
+Dialogue: 0,0:15:43.59,0:15:46.51,Default,,0000,0000,0000,,If I got a little rest,\NI think I might recover, but…
+Dialogue: 0,0:15:48.59,0:15:52.59,Default,,0000,0000,0000,,While I take a rest,\Nwon’t you be his opponent for a while?
+Dialogue: 0,0:15:53.10,0:15:54.14,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:54.47,0:15:55.47,Default,,0000,0000,0000,,I’m begging you!
+Dialogue: 0,0:15:57.76,0:15:58.93,Default,,0000,0000,0000,,Wh-What is that?
+Dialogue: 0,0:15:59.68,0:16:01.39,Default,,0000,0000,0000,,I’m coming, Lee!
+Dialogue: 0,0:16:03.55,0:16:04.59,Default,,0000,0000,0000,,G-Guy?
+Dialogue: 0,0:16:05.05,0:16:06.72,Default,,0000,0000,0000,,I thought he already entered the village\Na while ago…
+Dialogue: 0,0:16:09.47,0:16:11.05,Default,,0000,0000,0000,,S-Sorry to keep you waiting!
+Dialogue: 0,0:16:12.59,0:16:16.60,Default,,0000,0000,0000,,You've weathered such an attack\Nand you're still undamaged…
+Dialogue: 0,0:16:16.64,0:16:17.64,Default,,0000,0000,0000,,You’re quite a fellow!
+Dialogue: 0,0:16:18.59,0:16:19.59,Default,,0000,0000,0000,,The world is vast…
+Dialogue: 0,0:16:20.22,0:16:22.26,Default,,0000,0000,0000,,To think that such\Nan awesome Dojo challenger exists!
+Dialogue: 0,0:16:22.80,0:16:25.59,Default,,0000,0000,0000,,It was worth building this Dojo!
+Dialogue: 0,0:16:25.80,0:16:29.14,Default,,0000,0000,0000,,There’s no way I could win\Nwith only Taijutsu!
+Dialogue: 0,0:16:29.93,0:16:32.47,Default,,0000,0000,0000,,If that’s the case,\Nthen I’ll fight my own way…
+Dialogue: 0,0:16:33.05,0:16:34.05,Default,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:16:34.59,0:16:35.60,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:16:37.59,0:16:40.76,Default,,0000,0000,0000,,But, of course! He’s well acquainted\Nwith Ninjutsu too!
+Dialogue: 0,0:16:41.59,0:16:43.14,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:16:44.10,0:16:45.68,Default,,0000,0000,0000,,The real body is… right above me!
+Dialogue: 0,0:16:49.59,0:16:51.14,Default,,0000,0000,0000,,Primary Lotus!
+Dialogue: 0,0:16:54.85,0:16:56.26,Default,,0000,0000,0000,,Is this a clone, too?
+Dialogue: 0,0:16:58.59,0:16:59.59,Default,,0000,0000,0000,,Got you!
+Dialogue: 0,0:17:01.30,0:17:02.39,Default,,0000,0000,0000,,Here I go, one more time!
+Dialogue: 0,0:17:03.18,0:17:04.59,Default,,0000,0000,0000,,Another Shadow Clone?
+Dialogue: 0,0:17:05.26,0:17:06.26,Default,,0000,0000,0000,,Nope…!
+Dialogue: 0,0:17:07.47,0:17:08.59,Default,,0000,0000,0000,,Stop it, Lee.
+Dialogue: 0,0:17:09.68,0:17:10.85,Default,,0000,0000,0000,,S-Sakura?
+Dialogue: 0,0:17:11.26,0:17:13.59,Default,,0000,0000,0000,,– Be nice, now!\N– Don’t be too hard on me.
+Dialogue: 0,0:17:13.59,0:17:15.39,Default,,0000,0000,0000,,– Please! 					– Don’t be mean!
+Dialogue: 0,0:17:15.89,0:17:20.72,Default,,0000,0000,0000,,So many Sakura…\NGuy Sensei! I’m moved!
+Dialogue: 0,0:17:21.30,0:17:24.01,Default,,0000,0000,0000,,I’ve never known such happiness\Nbefore in my life!
+Dialogue: 0,0:17:24.22,0:17:25.51,Default,,0000,0000,0000,,– Cha! 					– Cha!
+Dialogue: 0,0:17:25.85,0:17:26.85,Default,,0000,0000,0000,,Wha…?!
+Dialogue: 0,0:17:28.72,0:17:29.93,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:17:32.76,0:17:36.39,Default,,0000,0000,0000,,I guess I forgot…\Nthat this is a fight with a challenger.
+Dialogue: 0,0:17:36.89,0:17:40.55,Default,,0000,0000,0000,,Just as one might expect…\NBut I won’t fall for the same trick again!
+Dialogue: 0,0:17:40.93,0:17:44.93,Default,,0000,0000,0000,,Even though they may look like Sakura,\Nthey’re really just phony Transformation!
+Dialogue: 0,0:17:45.80,0:17:48.43,Default,,0000,0000,0000,,How can you say that, Lee?
+Dialogue: 0,0:17:48.89,0:17:51.59,Default,,0000,0000,0000,,Hurry back, Sensei!
+Dialogue: 0,0:17:52.47,0:17:57.59,Default,,0000,0000,0000,,For brats,\Nthey fight such a high-level fight…
+Dialogue: 0,0:17:58.18,0:18:00.43,Default,,0000,0000,0000,,– Leave it to Village Hidden in Leafs…\N– How about this?!
+Dialogue: 0,0:18:00.47,0:18:01.85,Default,,0000,0000,0000,,I wonder if the rumors that
+Dialogue: 0,0:18:01.89,0:18:03.59,Default,,0000,0000,0000,,– they lost its vigor were just lies?\N– In that case…
+Dialogue: 0,0:18:03.59,0:18:04.97,Default,,0000,0000,0000,,– I guess I need to\N– Multi Shadow Clone Jutsu.
+Dialogue: 0,0:18:05.01,0:18:06.89,Default,,0000,0000,0000,,investigate this further…
+Dialogue: 0,0:18:08.59,0:18:10.26,Default,,0000,0000,0000,,This disguise is problematic…
+Dialogue: 0,0:18:10.59,0:18:13.59,Default,,0000,0000,0000,,I get a feeling\NI will be embroiled in trouble again.
+Dialogue: 0,0:18:16.76,0:18:19.22,Default,,0000,0000,0000,,Let’s go with this.\NWell then, shall I be taking my leave?
+Dialogue: 0,0:18:21.22,0:18:22.43,Default,,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:18:23.72,0:18:24.72,Default,,0000,0000,0000,,The real thing!
+Dialogue: 0,0:18:25.18,0:18:28.59,Default,,0000,0000,0000,,I see that you are Rock Lee,\Nmaster of this Dojo.
+Dialogue: 0,0:18:28.80,0:18:32.59,Default,,0000,0000,0000,,Oh no.\NI guess I’ll have to play along with him…
+Dialogue: 0,0:18:32.85,0:18:36.80,Default,,0000,0000,0000,,Yes, indeed. I am Rock Lee,\Nmaster of this dojo…
+Dialogue: 0,0:18:39.51,0:18:43.43,Default,,0000,0000,0000,,I am a Dojo challenger!
+Dialogue: 0,0:18:43.80,0:18:48.10,Default,,0000,0000,0000,,Rock Lee, I shall defeat you\Nand claim your marquee!
+Dialogue: 0,0:18:49.59,0:18:50.59,Default,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:18:59.35,0:19:00.93,Default,,0000,0000,0000,,You fight a pretty good fight.
+Dialogue: 0,0:19:01.30,0:19:02.59,Default,,0000,0000,0000,,You, too…
+Dialogue: 0,0:19:06.85,0:19:08.60,Default,,0000,0000,0000,,H-Help!
+Dialogue: 0,0:19:09.10,0:19:10.18,Default,,0000,0000,0000,,B-Bushy Brow?!
+Dialogue: 0,0:19:11.47,0:19:13.51,Default,,0000,0000,0000,,Dynamic Entry!
+Dialogue: 0,0:19:15.80,0:19:18.14,Default,,0000,0000,0000,,A-Another Dojo challenger?!
+Dialogue: 0,0:19:18.68,0:19:21.59,Default,,0000,0000,0000,,Intense Brow Sensei!\NWhat took you so long?!
+Dialogue: 0,0:19:23.26,0:19:27.35,Default,,0000,0000,0000,,N-Naruto…what's the meaning of this?
+Dialogue: 0,0:19:27.59,0:19:30.59,Default,,0000,0000,0000,,If you can’t dodge\Neven this much of an attack,
+Dialogue: 0,0:19:30.59,0:19:31.59,Default,,0000,0000,0000,,you are not worth all the talk!
+Dialogue: 0,0:19:31.60,0:19:34.59,Default,,0000,0000,0000,,Your training is inadequate!
+Dialogue: 0,0:19:34.72,0:19:37.14,Default,,0000,0000,0000,,N-No… This is… I mean…
+Dialogue: 0,0:19:37.59,0:19:40.68,Default,,0000,0000,0000,,It’s about Million years too early for you\Nto be building your own Dojo!
+Dialogue: 0,0:19:41.22,0:19:46.10,Default,,0000,0000,0000,,I must straighten that spoiled attitude\Nof yours with my own fist!
+Dialogue: 0,0:19:51.22,0:19:54.10,Default,,0000,0000,0000,,Forgive me Lee…\Nlt’s my whip of love!
+Dialogue: 0,0:19:54.93,0:19:58.59,Default,,0000,0000,0000,,So, the true identity of the challenger\Nwas you, Guy Sensei!
+Dialogue: 0,0:19:59.14,0:20:04.47,Default,,0000,0000,0000,,What? You’re Lee?\NThen, who was I punching?
+Dialogue: 0,0:20:08.76,0:20:10.30,Default,,0000,0000,0000,,Who’s that guy?
+Dialogue: 0,0:20:12.68,0:20:14.64,Default,,0000,0000,0000,,Good grief…
+Dialogue: 0,0:20:16.97,0:20:19.59,Default,,0000,0000,0000,,Come in! 					Oh, it’s you, Guy…
+Dialogue: 0,0:20:20.64,0:20:21.93,Default,,0000,0000,0000,,And you’re with Naruto and Lee.
+Dialogue: 0,0:20:22.59,0:20:26.64,Default,,0000,0000,0000,,That’s perfect.\NI was just about to call you all.
+Dialogue: 0,0:20:27.35,0:20:29.14,Default,,0000,0000,0000,,Has something happened?
+Dialogue: 0,0:20:29.60,0:20:31.59,Default,,0000,0000,0000,,Just now, some intelligence came in…
+Dialogue: 0,0:20:32.39,0:20:34.64,Default,,0000,0000,0000,,A Shinobi from the Land of Valleys,\Nby the name of Nanafushi,
+Dialogue: 0,0:20:34.68,0:20:37.05,Default,,0000,0000,0000,,is said to have been seeking\Ninside information on our village.
+Dialogue: 0,0:20:38.85,0:20:41.18,Default,,0000,0000,0000,,He may already have\Ninfiltrated the village.
+Dialogue: 0,0:20:41.59,0:20:46.18,Default,,0000,0000,0000,,I want you to go search for this Nanafushi\Nimmediately and capture him…
+Dialogue: 0,0:20:48.93,0:20:49.93,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:20:49.97,0:20:50.97,Default,,0000,0000,0000,,That man…
+Dialogue: 0,0:20:51.59,0:20:53.14,Default,,0000,0000,0000,,You have an idea of where he might be?
+Dialogue: 0,0:20:53.59,0:20:54.59,Default,,0000,0000,0000,,– It’s this guy!\N– It’s this man!
+Dialogue: 0,0:20:59.59,0:21:03.47,Default,,0000,0000,0000,,I don’t really know what’s going on…\Nbut our mission is complete!
+Dialogue: 0,0:21:04.05,0:21:05.97,Default,,0000,0000,0000,,Well then, we’ll be going.
+Dialogue: 0,0:21:06.05,0:21:08.14,Default,,0000,0000,0000,,Hey! Don’t just leave him here!
+Dialogue: 0,0:21:08.59,0:21:10.10,Default,,0000,0000,0000,,Oh! Guy Sensei!
+Dialogue: 0,0:21:10.43,0:21:15.60,Default,,0000,0000,0000,,Explain what happened!\NHey! Lee! Hey! Naruto!
+Dialogue: 0,0:21:41.59,0:21:44.01,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:44.05,0:21:46.59,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.59,0:21:51.01,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.55,0:21:54.18,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.59,0:21:58.93,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.59,0:22:05.59,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.59,0:22:12.22,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:12.26,0:22:17.26,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.30,0:22:22.47,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:51.18,0:22:53.97,Default,,0000,0000,0000,,In the small hours of the morning\Nwhen the trees and grasses are asleep
+Dialogue: 0,0:22:54.01,0:22:56.59,Default,,0000,0000,0000,,and the forest is deathly calm…
+Dialogue: 0,0:22:57.35,0:23:02.35,Default,,0000,0000,0000,,A signpost standing forlorn\Nstarts telling of the destruction of a clan.
+Dialogue: 0,0:23:03.14,0:23:08.30,Default,,0000,0000,0000,,Suddenly with a strike of thunder,\Nheavy rain begins to fall down.
+Dialogue: 0,0:23:09.22,0:23:13.55,Default,,0000,0000,0000,,What could be the true identity\Nof the Iron Castle that appeared?!
+Dialogue: 0,0:23:14.18,0:23:17.26,Default,,0000,0000,0000,,Next Time: “The Mysterious Curse\Nof the Haunted Castle”

@@ -1,0 +1,302 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.67,0:00:09.83,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.87,0:00:18.08,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.33,0:00:20.38,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.33,0:00:27.08,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.13,0:00:30.63,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.83,0:00:34.33,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.75,0:00:38.00,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:38.04,0:00:45.63,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.67,0:00:54.87,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.87,0:01:02.87,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:03.08,0:01:09.92,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.96,0:01:18.08,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.42,0:01:26.87,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.87,0:01:28.92,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:02:06.50,0:02:07.87,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:02:09.71,0:02:11.71,Default,,0000,0000,0000,,This time for sure, the frog will…
+Dialogue: 0,0:02:23.87,0:02:26.75,Default,,0000,0000,0000,,What’s a frog anyway?!
+Dialogue: 0,0:02:26.79,0:02:28.87,Default,,0000,0000,0000,,From which stage do you\Ncall it a frog?!
+Dialogue: 0,0:02:32.88,0:02:38.87,Default,,0000,0000,0000,,Live or Die:\NRisk it All to Win it All!
+Dialogue: 0,0:02:44.25,0:02:47.13,Default,,0000,0000,0000,,Hey! Hold up a hope\Non me a bit, would you?!
+Dialogue: 0,0:02:54.71,0:02:57.29,Default,,0000,0000,0000,,Whew… he collapsed again…
+Dialogue: 0,0:02:58.33,0:02:59.88,Default,,0000,0000,0000,,That’s no surprise…
+Dialogue: 0,0:03:00.17,0:03:05.50,Default,,0000,0000,0000,,For three weeks, he’s continued\Nhis training on guts alone…
+Dialogue: 0,0:03:31.87,0:03:32.96,Default,,0000,0000,0000,,Lord Hokage.
+Dialogue: 0,0:03:34.96,0:03:36.79,Default,,0000,0000,0000,,Anko, is it…?
+Dialogue: 0,0:03:42.87,0:03:45.71,Default,,0000,0000,0000,,I’m sorry, I’m...
+Dialogue: 0,0:03:46.13,0:03:50.75,Default,,0000,0000,0000,,Regretting returning alive\Nfrom the Forest of Death?
+Dialogue: 0,0:03:53.75,0:03:59.63,Default,,0000,0000,0000,,That’s a needless thing because you and\NOrochimaru have no connection at all.
+Dialogue: 0,0:04:04.17,0:04:10.75,Default,,0000,0000,0000,,There is no Shinobi who can compete\Nagainst that guy in Hidden Leaf Village.
+Dialogue: 0,0:04:13.87,0:04:18.63,Default,,0000,0000,0000,,Even if I was the one to face him…
+Dialogue: 0,0:04:19.50,0:04:22.87,Default,,0000,0000,0000,,If the Fourth Hokage were still alive…
+Dialogue: 0,0:04:23.21,0:04:24.96,Default,,0000,0000,0000,,Don’t say that.
+Dialogue: 0,0:04:25.46,0:04:29.87,Default,,0000,0000,0000,,He already saved this village and died…
+Dialogue: 0,0:04:30.87,0:04:38.00,Default,,0000,0000,0000,,That’s a story from 13 years ago.\NHe’s no longer here.
+Dialogue: 0,0:04:38.46,0:04:41.46,Default,,0000,0000,0000,,We have to do something\Nwith our power.
+Dialogue: 0,0:04:42.92,0:04:43.96,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:46.87,0:04:49.79,Default,,0000,0000,0000,,I’m going to get some fesh air…
+Dialogue: 0,0:04:57.13,0:05:00.38,Default,,0000,0000,0000,,Don’t blame yourself.
+Dialogue: 0,0:05:11.33,0:05:13.87,Default,,0000,0000,0000,,C’mon, open your eyes already.
+Dialogue: 0,0:05:17.87,0:05:19.83,Default,,0000,0000,0000,,W-What’s that…?
+Dialogue: 0,0:05:19.92,0:05:23.63,Default,,0000,0000,0000,,To be clear, you have no sense.
+Dialogue: 0,0:05:23.67,0:05:25.67,Default,,0000,0000,0000,,Oh! Pervy Sage!
+Dialogue: 0,0:05:25.87,0:05:28.46,Default,,0000,0000,0000,,After you’ve been training for 3 weeks,\Nyou are still this level.
+Dialogue: 0,0:05:28.50,0:05:31.04,Default,,0000,0000,0000,,If you continue like this it’s pointless.
+Dialogue: 0,0:05:31.79,0:05:35.46,Default,,0000,0000,0000,,That’s not how it is!\NI’m doing this with all my might!
+Dialogue: 0,0:05:35.50,0:05:40.08,Default,,0000,0000,0000,,I understand that, if you really want\Nto succeed at Summoning Jutsu,
+Dialogue: 0,0:05:40.13,0:05:43.13,Default,,0000,0000,0000,,you have to do it like you’re going\Nto die or it’s no good at all.
+Dialogue: 0,0:05:43.33,0:05:44.87,Default,,0000,0000,0000,,That’s what I’m doing!
+Dialogue: 0,0:05:44.87,0:05:47.17,Default,,0000,0000,0000,,I drill my Chakra every day\Nlike I’m going to die.
+Dialogue: 0,0:05:47.21,0:05:50.42,Default,,0000,0000,0000,,If you have time to complain about it,\Nteach me a trick or something!
+Dialogue: 0,0:05:50.87,0:05:53.83,Default,,0000,0000,0000,,A trick, huh… A trick.
+Dialogue: 0,0:05:53.87,0:05:55.96,Default,,0000,0000,0000,,What?! You’re going to teach me?
+Dialogue: 0,0:05:57.04,0:05:58.92,Default,,0000,0000,0000,,You need to risk your life on it.
+Dialogue: 0,0:05:59.42,0:06:00.54,Default,,0000,0000,0000,,L-Life…?
+Dialogue: 0,0:06:01.04,0:06:04.75,Default,,0000,0000,0000,,It’s not a joke.\NEven so, will you do it?
+Dialogue: 0,0:06:04.87,0:06:09.29,Default,,0000,0000,0000,,O-Of course!\NI always risk my life!
+Dialogue: 0,0:06:10.92,0:06:11.87,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:06:11.88,0:06:12.87,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:06:12.92,0:06:14.87,Default,,0000,0000,0000,,Well then, follow me.
+Dialogue: 0,0:06:28.29,0:06:30.96,Default,,0000,0000,0000,,What are we doing at a place like this?
+Dialogue: 0,0:06:31.38,0:06:33.92,Default,,0000,0000,0000,,You’re not gonna peek again,\Nare you?
+Dialogue: 0,0:06:36.42,0:06:41.21,Default,,0000,0000,0000,,Well, that would be nice,\Nbut today it’s a bath.
+Dialogue: 0,0:06:41.25,0:06:43.00,Default,,0000,0000,0000,,First, we purify our bodies…
+Dialogue: 0,0:06:44.29,0:06:45.13,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:52.87,0:06:55.87,Default,,0000,0000,0000,,There’s something strange going on…
+Dialogue: 0,0:06:58.04,0:07:02.87,Default,,0000,0000,0000,,This is such a nice bath.
+Dialogue: 0,0:07:03.17,0:07:07.50,Default,,0000,0000,0000,,Like heaven… Truly heavenly…
+Dialogue: 0,0:07:11.29,0:07:13.04,Default,,0000,0000,0000,,Hey, Pervy Sage.
+Dialogue: 0,0:07:13.50,0:07:14.87,Default,,0000,0000,0000,,I’m Toad Sage.
+Dialogue: 0,0:07:14.87,0:07:20.33,Default,,0000,0000,0000,,Whatever, but how are taking\Na bath and Summoning related?
+Dialogue: 0,0:07:23.71,0:07:25.87,Default,,0000,0000,0000,,Hey, hey, hey, hey--!
+Dialogue: 0,0:07:27.00,0:07:28.96,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:07:29.17,0:07:30.79,Default,,0000,0000,0000,,Hey, Naruto.
+Dialogue: 0,0:07:30.87,0:07:31.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:32.58,0:07:35.63,Default,,0000,0000,0000,,Is there something you want to eat?
+Dialogue: 0,0:07:39.71,0:07:41.58,Default,,0000,0000,0000,,I’m going to eat!
+Dialogue: 0,0:07:43.63,0:07:48.54,Default,,0000,0000,0000,,It’s good! If the training is like this,\NI’ll do it every day!
+Dialogue: 0,0:07:48.87,0:07:52.25,Default,,0000,0000,0000,,Eat up! Because this is the last…
+Dialogue: 0,0:07:52.29,0:07:52.96,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:53.92,0:07:57.04,Default,,0000,0000,0000,,No, nothing. Anyway, eat!\NEat a lot!
+Dialogue: 0,0:07:57.33,0:07:59.87,Default,,0000,0000,0000,,Like there’s no looking back!
+Dialogue: 0,0:08:02.67,0:08:06.50,Default,,0000,0000,0000,,I don’t know what’s going on,\Nbut I should eat, right? Okay!
+Dialogue: 0,0:08:14.63,0:08:16.87,Default,,0000,0000,0000,,Seconds! The next one is miso flavor too!
+Dialogue: 0,0:08:16.87,0:08:17.87,Default,,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:08:21.63,0:08:22.29,Default,,0000,0000,0000,,One more!
+Dialogue: 0,0:08:22.71,0:08:23.42,Default,,0000,0000,0000,,Coming right up!
+Dialogue: 0,0:08:23.46,0:08:24.96,Default,,0000,0000,0000,,This time miso char siu!
+Dialogue: 0,0:08:25.00,0:08:25.87,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:28.46,0:08:30.04,Default,,0000,0000,0000,,I ate, I ate.
+Dialogue: 0,0:08:30.54,0:08:32.21,Default,,0000,0000,0000,,Thank you, Pervy Sage…
+Dialogue: 0,0:08:35.33,0:08:36.87,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:37.25,0:08:38.25,Default,,0000,0000,0000,,Thanks for your patronage!
+Dialogue: 0,0:08:45.87,0:08:47.42,Default,,0000,0000,0000,,I won’t even get blood from it…
+Dialogue: 0,0:08:48.87,0:08:50.87,Default,,0000,0000,0000,,Yo, are you full?
+Dialogue: 0,0:08:53.04,0:08:54.87,Default,,0000,0000,0000,,Don’t mess with me, Pervy Sage!
+Dialogue: 0,0:08:54.88,0:08:57.87,Default,,0000,0000,0000,,Weren’t you treating me\Nwith the meal!
+Dialogue: 0,0:08:58.21,0:09:01.04,Default,,0000,0000,0000,,Fool! Who said that\NI was treating you?!
+Dialogue: 0,0:09:01.63,0:09:04.17,Default,,0000,0000,0000,,Aren’t you a grown-up?! Bastard!
+Dialogue: 0,0:09:04.42,0:09:07.79,Default,,0000,0000,0000,,By the by, Naruto,\Nisn’t there a girl that you like?
+Dialogue: 0,0:09:08.33,0:09:09.17,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:09.25,0:09:12.87,Default,,0000,0000,0000,,I asked if you have a lovely girl?
+Dialogue: 0,0:09:13.04,0:09:16.38,Default,,0000,0000,0000,,Well…you could say she’s there,\Nyou could say I like her…
+Dialogue: 0,0:09:16.42,0:09:18.21,Default,,0000,0000,0000,,You could say it’s Sakura.
+Dialogue: 0,0:09:18.54,0:09:19.42,Default,,0000,0000,0000,,So there is?
+Dialogue: 0,0:09:19.46,0:09:21.17,Default,,0000,0000,0000,,It’s Sakura!
+Dialogue: 0,0:09:21.21,0:09:25.96,Default,,0000,0000,0000,,Okay! Then go and\Nhug that girl tight!
+Dialogue: 0,0:09:26.00,0:09:29.50,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:29.54,0:09:30.88,Default,,0000,0000,0000,,Is that a part of the training?
+Dialogue: 0,0:09:30.92,0:09:33.00,Default,,0000,0000,0000,,Well, close enough.
+Dialogue: 0,0:09:33.50,0:09:35.87,Default,,0000,0000,0000,,Okay! Right away…
+Dialogue: 0,0:09:36.38,0:09:39.87,Default,,0000,0000,0000,,But if I do that, Sakura will…
+Dialogue: 0,0:09:40.46,0:09:45.50,Default,,0000,0000,0000,,No! This is training too!\NI have to do it or I won’t be strong…
+Dialogue: 0,0:09:45.88,0:09:48.75,Default,,0000,0000,0000,,But if I do that, Sakura will…
+Dialogue: 0,0:09:48.92,0:09:51.42,Default,,0000,0000,0000,,For a while she won’t talk to me…
+Dialogue: 0,0:09:51.63,0:09:54.58,Default,,0000,0000,0000,,No! If I’m going to master\NSummoning Jutsu,
+Dialogue: 0,0:09:54.63,0:09:56.04,Default,,0000,0000,0000,,this can’t be helped!
+Dialogue: 0,0:09:56.21,0:09:58.54,Default,,0000,0000,0000,,But…Sakura will…
+Dialogue: 0,0:09:59.25,0:10:02.00,Default,,0000,0000,0000,,No! But…
+Dialogue: 0,0:10:02.29,0:10:04.13,Default,,0000,0000,0000,,Hurry up and go!
+Dialogue: 0,0:10:09.96,0:10:11.13,Default,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:10:11.54,0:10:14.17,Default,,0000,0000,0000,,No, uh…well…
+Dialogue: 0,0:10:14.46,0:10:16.04,Default,,0000,0000,0000,,If it’s money you want,\NI won’t lend it to you.
+Dialogue: 0,0:10:16.63,0:10:18.87,Default,,0000,0000,0000,,I may not look it,\Nbut I’m stingy with money.
+Dialogue: 0,0:10:19.08,0:10:20.96,Default,,0000,0000,0000,,No, that’s not it…
+Dialogue: 0,0:10:21.17,0:10:22.54,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:10:23.13,0:10:28.21,Default,,0000,0000,0000,,Uh, if I tell her it’s for my training,\Nshe’s sure to beat me.
+Dialogue: 0,0:10:28.87,0:10:30.87,Default,,0000,0000,0000,,If there’s nothing you want,\Nthen I ’ll go home.
+Dialogue: 0,0:10:31.46,0:10:32.58,Default,,0000,0000,0000,,W-Wait a minute!
+Dialogue: 0,0:10:33.54,0:10:34.54,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:10:37.75,0:10:40.46,Default,,0000,0000,0000,,This is it!\NThis is my chance!
+Dialogue: 0,0:10:40.87,0:10:42.67,Default,,0000,0000,0000,,Sakura! I’m sorry!
+Dialogue: 0,0:10:44.83,0:10:45.87,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:45.87,0:10:47.42,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:10:52.79,0:10:54.25,Default,,0000,0000,0000,,Cha!
+Dialogue: 0,0:10:55.87,0:10:59.25,Default,,0000,0000,0000,,Ow… Ouch…
+Dialogue: 0,0:11:04.75,0:11:07.54,Default,,0000,0000,0000,,This is a part of being young…
+Dialogue: 0,0:11:11.75,0:11:14.75,Default,,0000,0000,0000,,Hey, if I do this I’ll really get a frog?
+Dialogue: 0,0:11:14.79,0:11:17.63,Default,,0000,0000,0000,,Yes, that’s a definite.
+Dialogue: 0,0:11:18.04,0:11:19.21,Default,,0000,0000,0000,,Really…?
+Dialogue: 0,0:11:19.38,0:11:21.79,Default,,0000,0000,0000,,Is there anything you’ve left undone?
+Dialogue: 0,0:11:21.87,0:11:22.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:23.50,0:11:24.58,Default,,0000,0000,0000,,None?
+Dialogue: 0,0:11:24.63,0:11:25.71,Default,,0000,0000,0000,,What are you talking about…?
+Dialogue: 0,0:11:35.75,0:11:39.58,Default,,0000,0000,0000,,To pull out enormous Chakra\Nand use it.
+Dialogue: 0,0:11:39.92,0:11:42.33,Default,,0000,0000,0000,,It is certain that it is difficult\Nto have the control to do it…
+Dialogue: 0,0:11:42.96,0:11:46.67,Default,,0000,0000,0000,,It is also certain that this body\Nis a vessel too small
+Dialogue: 0,0:11:46.71,0:11:48.92,Default,,0000,0000,0000,,to absorb the Nine-Tailed Fox Chakra…
+Dialogue: 0,0:11:49.87,0:11:51.75,Default,,0000,0000,0000,,It’s likely that Naruto’s body normally\Ntends to reject
+Dialogue: 0,0:11:51.79,0:11:55.04,Default,,0000,0000,0000,,the strength of the Nine-Tailed Fox\Nin order to avoid too much strain.
+Dialogue: 0,0:11:57.75,0:11:59.87,Default,,0000,0000,0000,,If the excitement of danger and\Nemotion are the key
+Dialogue: 0,0:11:59.88,0:12:02.67,Default,,0000,0000,0000,,to drawing out the\NNine-Tailed Fox’s Chakra…
+Dialogue: 0,0:12:02.71,0:12:06.38,Default,,0000,0000,0000,,he has to learn physically until\Nhe can automatically use that key.
+Dialogue: 0,0:12:07.29,0:12:10.29,Default,,0000,0000,0000,,Nothing personal…\NFourth Hokage!
+Dialogue: 0,0:12:25.87,0:12:29.46,Default,,0000,0000,0000,,Huh? Where…is this…?
+Dialogue: 0,0:12:30.25,0:12:31.17,Default,,0000,0000,0000,,Stand up!
+Dialogue: 0,0:12:32.00,0:12:34.29,Default,,0000,0000,0000,,W-What’s going on?!
+Dialogue: 0,0:12:34.46,0:12:36.00,Default,,0000,0000,0000,,Your training ends here.
+Dialogue: 0,0:12:36.25,0:12:38.33,Default,,0000,0000,0000,,Huh? I haven’t done anything yet…!
+Dialogue: 0,0:12:38.38,0:12:39.25,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:12:39.83,0:12:41.87,Default,,0000,0000,0000,,Go die and come back.
+Dialogue: 0,0:12:42.63,0:12:43.38,Default,,0000,0000,0000,,Die?
+Dialogue: 0,0:12:43.67,0:12:48.13,Default,,0000,0000,0000,,From within the dreadfulness of death,\Nsqueeze out enormous Chakra!
+Dialogue: 0,0:12:48.87,0:12:52.87,Default,,0000,0000,0000,,Experience it with your own body,\Nand grasp the technique of it!
+Dialogue: 0,0:12:53.29,0:12:56.96,Default,,0000,0000,0000,,If you don’t want to die,\Ndo something about it yourself… Got it?
+Dialogue: 0,0:13:11.79,0:13:18.63,Default,,0000,0000,0000,,Now…we’ll see if the strength given\Nto you is really yours.
+Dialogue: 0,0:13:24.58,0:13:27.04,Default,,0000,0000,0000,,If I don’t grab onto this… I’ll die!
+Dialogue: 0,0:13:31.67,0:13:32.46,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:13:36.96,0:13:38.33,Default,,0000,0000,0000,,It’s impossible…
+Dialogue: 0,0:13:38.88,0:13:42.21,Default,,0000,0000,0000,,This rock surface is slippery\Nfrom the seepage of the waterfall.
+Dialogue: 0,0:13:42.79,0:13:46.87,Default,,0000,0000,0000,,Besides, falling in that speed\Nwith the control of Chakra that you have,
+Dialogue: 0,0:13:46.87,0:13:49.21,Default,,0000,0000,0000,,you can’t cling to the rock.
+Dialogue: 0,0:13:50.83,0:13:53.08,Default,,0000,0000,0000,,Naruto, after this…
+Dialogue: 0,0:13:53.13,0:13:55.58,Default,,0000,0000,0000,,you can only depend on\Nthe Chakra of the Nine-Tailed Fox.
+Dialogue: 0,0:13:56.42,0:14:00.96,Default,,0000,0000,0000,,Open up the key…\NThis time from your side!
+Dialogue: 0,0:14:02.87,0:14:06.42,Default,,0000,0000,0000,,If I go on like this!\Nlf I go on like this! I’ll seriously die!
+Dialogue: 0,0:14:09.87,0:14:10.71,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:14:13.75,0:14:14.87,Default,,0000,0000,0000,,Die…
+Dialogue: 0,0:14:24.29,0:14:27.75,Default,,0000,0000,0000,,Today, we’ll have\Na history lesson outside.
+Dialogue: 0,0:14:28.04,0:14:33.21,Default,,0000,0000,0000,,As you know, this rock face has\Nthe faces of the Hokage line.
+Dialogue: 0,0:14:33.75,0:14:35.67,Default,,0000,0000,0000,,In order from the left,\Nthey’re lined up fom the First,
+Dialogue: 0,0:14:36.58,0:14:43.00,Default,,0000,0000,0000,,the Second…\Nthe Third…and the Fourth.
+Dialogue: 0,0:14:44.87,0:14:48.13,Default,,0000,0000,0000,,So different from the present old man.
+Dialogue: 0,0:14:48.46,0:14:49.96,Default,,0000,0000,0000,,Especially the receding hairline…
+Dialogue: 0,0:14:53.75,0:14:57.00,Default,,0000,0000,0000,,Iruka Sensei! Who’s the Fifth?
+Dialogue: 0,0:14:57.17,0:14:58.13,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:14:58.54,0:15:01.08,Default,,0000,0000,0000,,Well, that hasn’t been decided yet…
+Dialogue: 0,0:15:01.87,0:15:03.87,Default,,0000,0000,0000,,Perhaps it’s your teacher here!
+Dialogue: 0,0:15:05.79,0:15:12.00,Default,,0000,0000,0000,,Hmm… Weaving an occasional joke\Nto make for a relaxing lesson, Iruka?
+Dialogue: 0,0:15:12.33,0:15:13.71,Default,,0000,0000,0000,,L-Lord Hokage!
+Dialogue: 0,0:15:13.75,0:15:14.92,Default,,0000,0000,0000,,Oh, it’s the Third.
+Dialogue: 0,0:15:15.13,0:15:17.79,Default,,0000,0000,0000,,Hey! Old man!\NWhat did you come to do?
+Dialogue: 0,0:15:17.87,0:15:21.42,Default,,0000,0000,0000,,I wanted to see the rock faces too.
+Dialogue: 0,0:15:21.58,0:15:24.87,Default,,0000,0000,0000,,You’ve come at a good time.\NOver this way, my lord.
+Dialogue: 0,0:15:34.17,0:15:37.87,Default,,0000,0000,0000,,This is the real man of\Nthe third rock face!
+Dialogue: 0,0:15:38.04,0:15:39.87,Default,,0000,0000,0000,,The Third Hokage!
+Dialogue: 0,0:15:40.87,0:15:44.04,Default,,0000,0000,0000,,The third was called the strongest,\Na genius,
+Dialogue: 0,0:15:44.08,0:15:47.50,Default,,0000,0000,0000,,called “professor” among\Npast Hokage!
+Dialogue: 0,0:15:47.67,0:15:49.13,Default,,0000,0000,0000,,– What?! 					– Huh?!
+Dialogue: 0,0:15:49.87,0:15:52.87,Default,,0000,0000,0000,,Hey! Iruka, don’t say it\Nin the past tense.
+Dialogue: 0,0:15:53.71,0:15:54.87,Default,,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:15:54.87,0:15:56.29,Default,,0000,0000,0000,,Are you really strong?
+Dialogue: 0,0:15:56.33,0:15:57.88,Default,,0000,0000,0000,,Yeah, you don’t look it!
+Dialogue: 0,0:15:57.96,0:16:00.42,Default,,0000,0000,0000,,Yep! That’s right!
+Dialogue: 0,0:16:01.25,0:16:02.21,Default,,0000,0000,0000,,Enough!
+Dialogue: 0,0:16:02.25,0:16:07.92,Default,,0000,0000,0000,,To take over the name of Hokage\Nmeans you’re the strongest in this village!
+Dialogue: 0,0:16:07.96,0:16:10.71,Default,,0000,0000,0000,,Okay! I’m going to become\Nthe Fifth Hokage!
+Dialogue: 0,0:16:10.75,0:16:13.21,Default,,0000,0000,0000,,After all I’m really strong,\Nand handsome too!
+Dialogue: 0,0:16:14.63,0:16:16.87,Default,,0000,0000,0000,,It won’t work with\Nthe scores you have now!
+Dialogue: 0,0:16:20.21,0:16:22.46,Default,,0000,0000,0000,,You’ve got a lot of confidence!
+Dialogue: 0,0:16:23.00,0:16:26.38,Default,,0000,0000,0000,,You all are quite young,\Nunlike me!
+Dialogue: 0,0:16:26.87,0:16:31.46,Default,,0000,0000,0000,,There might be someone who will\Ntake the name of Hokage is in this group.
+Dialogue: 0,0:16:31.87,0:16:33.87,Default,,0000,0000,0000,,You only have one life!
+Dialogue: 0,0:16:33.87,0:16:36.17,Default,,0000,0000,0000,,Don’t choose an impossible road.
+Dialogue: 0,0:16:36.87,0:16:39.75,Default,,0000,0000,0000,,It doesn’t matter if you live as\Nyou like and die as you like.
+Dialogue: 0,0:16:40.29,0:16:41.63,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:16:47.50,0:16:50.00,Default,,0000,0000,0000,,no matter what route you take,
+Dialogue: 0,0:16:50.04,0:16:53.21,Default,,0000,0000,0000,,remember to protect the\Npeople important to you!
+Dialogue: 0,0:16:53.29,0:16:55.04,Default,,0000,0000,0000,,Important people?
+Dialogue: 0,0:16:55.87,0:17:01.08,Default,,0000,0000,0000,,That you acknowledge…\Ntrust and love from your heart.
+Dialogue: 0,0:17:01.29,0:17:03.63,Default,,0000,0000,0000,,Do you have people like that?
+Dialogue: 0,0:17:03.83,0:17:07.87,Default,,0000,0000,0000,,Y-Yeah… Dad and Mom…
+Dialogue: 0,0:17:07.96,0:17:10.87,Default,,0000,0000,0000,,and I hate him a little,\Nbut my big brother too.
+Dialogue: 0,0:17:10.87,0:17:13.33,Default,,0000,0000,0000,,And… 					my dog Gonta…
+Dialogue: 0,0:17:13.87,0:17:15.63,Default,,0000,0000,0000,,For me, it’s friends!
+Dialogue: 0,0:17:16.75,0:17:17.63,Default,,0000,0000,0000,,Me too!
+Dialogue: 0,0:17:20.87,0:17:23.17,Default,,0000,0000,0000,,Lord Hokage, you have\Npeople like that too?
+Dialogue: 0,0:17:23.83,0:17:26.00,Default,,0000,0000,0000,,Yes, of course I do!
+Dialogue: 0,0:17:26.13,0:17:28.42,Default,,0000,0000,0000,,Really! Who, who?
+Dialogue: 0,0:17:28.83,0:17:32.79,Default,,0000,0000,0000,,I have my grandchild…\NKonohamaru over there and…
+Dialogue: 0,0:17:36.83,0:17:40.71,Default,,0000,0000,0000,,All of the people in this village!
+Dialogue: 0,0:17:52.96,0:17:57.87,Default,,0000,0000,0000,,Like you did too, once…
+Dialogue: 0,0:18:21.71,0:18:22.58,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:41.46,0:18:44.87,Default,,0000,0000,0000,,This feeling… It’s that Chakra…
+Dialogue: 0,0:19:04.96,0:19:06.08,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:19:06.46,0:19:10.00,Default,,0000,0000,0000,,Seal
+Dialogue: 0,0:19:18.13,0:19:20.54,Default,,0000,0000,0000,,I-It’s huge… What is it?
+Dialogue: 0,0:19:21.87,0:19:26.00,Default,,0000,0000,0000,,Hey kid, come closer!
+Dialogue: 0,0:19:32.58,0:19:38.25,Default,,0000,0000,0000,,I want to eat and kill you,\Nbut this gate won’t open…
+Dialogue: 0,0:19:38.38,0:19:41.63,Default,,0000,0000,0000,,Bloody spell that seals…
+Dialogue: 0,0:19:43.13,0:19:44.17,Default,,0000,0000,0000,,You're…
+Dialogue: 0,0:19:47.29,0:19:49.00,Default,,0000,0000,0000,,the Nine-Tailed Fox!
+Dialogue: 0,0:19:50.38,0:19:54.92,Default,,0000,0000,0000,,I see… the red Chakra\Nwas this guy’s Chakra.
+Dialogue: 0,0:19:55.92,0:20:01.04,Default,,0000,0000,0000,,For you to approach me…
+Dialogue: 0,0:20:01.87,0:20:05.13,Default,,0000,0000,0000,,What business brought you here?
+Dialogue: 0,0:20:09.33,0:20:11.17,Default,,0000,0000,0000,,Hey! You stupid fox!
+Dialogue: 0,0:20:11.87,0:20:17.87,Default,,0000,0000,0000,,Since you’re staying in my body,\Nas your rent, lend me your Chakra!
+Dialogue: 0,0:20:24.00,0:20:28.63,Default,,0000,0000,0000,,After all, if you die I die.
+Dialogue: 0,0:20:28.67,0:20:32.63,Default,,0000,0000,0000,,That’s some impressive courage\Nfor threatening me!
+Dialogue: 0,0:20:36.87,0:20:38.04,Default,,0000,0000,0000,,That’s fine…
+Dialogue: 0,0:20:38.13,0:20:42.38,Default,,0000,0000,0000,,As a reward for making it this far…\NI’ll give it to you!
+Dialogue: 0,0:20:48.25,0:20:49.71,Default,,0000,0000,0000,,This is the feeling!
+Dialogue: 0,0:20:52.83,0:20:54.58,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:21:06.00,0:21:07.87,Default,,0000,0000,0000,,Well done.
+Dialogue: 0,0:21:11.33,0:21:13.87,Default,,0000,0000,0000,,Where am I?!
+Dialogue: 0,0:21:25.92,0:21:29.42,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:29.46,0:21:32.87,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.87,0:21:36.29,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:36.33,0:21:39.67,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:39.71,0:21:45.96,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:46.00,0:21:53.33,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:03.83,0:22:07.17,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:07.21,0:22:10.63,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:10.67,0:22:13.87,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:13.88,0:22:17.25,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:17.46,0:22:23.54,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:23.58,0:22:30.87,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:30.88,0:22:37.46,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:37.50,0:22:44.75,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:52.21,0:22:56.79,Default,,0000,0000,0000,,Yay! This time for sure,\NI’ve finally brought out the real toad.
+Dialogue: 0,0:22:56.88,0:22:59.71,Default,,0000,0000,0000,,Listen, you giant toad,\NI am your master from today!
+Dialogue: 0,0:22:59.87,0:23:02.29,Default,,0000,0000,0000,,Huh? No, nothing.
+Dialogue: 0,0:23:02.67,0:23:05.17,Default,,0000,0000,0000,,I will be your henchman, boss.
+Dialogue: 0,0:23:05.67,0:23:06.87,Default,,0000,0000,0000,,I’m so happy…
+Dialogue: 0,0:23:08.38,0:23:12.75,Default,,0000,0000,0000,,Next time, "He Flies! He Jumps!\NHe Lurks! Chief Toad Appears!"
+Dialogue: 0,0:23:13.29,0:23:16.67,Default,,0000,0000,0000,,He’s seriously scary.\NI’ve never seen a toad like this one.

@@ -1,0 +1,317 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.29,0:00:16.83,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.87,0:00:21.33,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:21.99,0:00:26.12,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.16,0:00:29.45,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.33,0:00:33.70,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.75,0:00:39.99,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:40.99,0:00:45.37,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.41,0:00:48.99,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.37,0:00:52.33,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.37,0:00:55.33,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.37,0:00:59.87,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.99,0:01:02.20,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.25,0:01:08.04,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.50,0:01:11.87,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.91,0:01:14.12,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.16,0:01:18.99,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.00,0:01:21.29,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.33,0:01:23.95,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.99,0:01:27.25,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:45.66,0:01:48.95,Default,,0000,0000,0000,,A Lesson Learned!\N                               The Iron Fist of Love
+Dialogue: 0,0:02:03.12,0:02:06.29,Default,,0000,0000,0000,,Please don’t die…\NI’ll get you out now.
+Dialogue: 0,0:02:12.95,0:02:13.87,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:14.99,0:02:17.99,Default,,0000,0000,0000,,What are you doing there?
+Dialogue: 0,0:02:26.75,0:02:30.08,Default,,0000,0000,0000,,Curry of Life Shop
+Dialogue: 0,0:02:34.08,0:02:40.12,Default,,0000,0000,0000,,One, two… 					One, two…
+Dialogue: 0,0:02:44.75,0:02:46.41,Default,,0000,0000,0000,,Hope they’re all right.
+Dialogue: 0,0:02:46.99,0:02:50.99,Default,,0000,0000,0000,,I’m sure they’ll be able\Nto bring Karashi back.
+Dialogue: 0,0:02:52.50,0:02:54.99,Default,,0000,0000,0000,,Definitely, Definitely.
+Dialogue: 0,0:02:55.75,0:02:57.87,Default,,0000,0000,0000,,One, two…
+Dialogue: 0,0:03:04.99,0:03:08.54,Default,,0000,0000,0000,,That’s the Katabami Gold Mine…
+Dialogue: 0,0:03:08.58,0:03:11.99,Default,,0000,0000,0000,,Instead of just getting\NRokusuke and Karashi back,
+Dialogue: 0,0:03:11.99,0:03:15.04,Default,,0000,0000,0000,,let’s finish the Kurosuki Family\Nonce and for all!
+Dialogue: 0,0:03:15.33,0:03:17.70,Default,,0000,0000,0000,,Don’t get carried away, Naruto.
+Dialogue: 0,0:03:17.95,0:03:20.16,Default,,0000,0000,0000,,So, what are we gonna do then?
+Dialogue: 0,0:03:20.50,0:03:23.75,Default,,0000,0000,0000,,I’m kind of worried about\Nwhat Guy Sensei told us.
+Dialogue: 0,0:03:23.99,0:03:25.99,Default,,0000,0000,0000,,The boss of the Kurosuki Family\Nmay be
+Dialogue: 0,0:03:25.99,0:03:28.66,Default,,0000,0000,0000,,one of the Seven Ninja Swords\NMen of the Mist.
+Dialogue: 0,0:03:28.87,0:03:31.45,Default,,0000,0000,0000,,Who knows what\Nthey’ll do to Rokusuke?
+Dialogue: 0,0:03:31.62,0:03:35.37,Default,,0000,0000,0000,,Yeah, but how seriously\Ncan we take Guy Sensei’s info?
+Dialogue: 0,0:03:36.54,0:03:39.99,Default,,0000,0000,0000,,What are you talking about?!\NGuy Sensei is always right!
+Dialogue: 0,0:03:40.20,0:03:43.00,Default,,0000,0000,0000,,Calm down, Lee.\NWe should investigate first.
+Dialogue: 0,0:03:43.37,0:03:44.58,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:04.33,0:04:07.41,Default,,0000,0000,0000,,Sir Raiga, we were able\Nto capture Rokusuke,
+Dialogue: 0,0:04:07.45,0:04:09.58,Default,,0000,0000,0000,,one of the three that\Nslipped out of the village.
+Dialogue: 0,0:04:15.75,0:04:16.99,Default,,0000,0000,0000,,Well done.
+Dialogue: 0,0:04:22.00,0:04:26.62,Default,,0000,0000,0000,,It seems that they went to ask\Nfor some help from a Ninja village.
+Dialogue: 0,0:04:27.91,0:04:29.62,Default,,0000,0000,0000,,Where did you go?!
+Dialogue: 0,0:04:29.66,0:04:30.54,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:04:30.58,0:04:32.20,Default,,0000,0000,0000,,Don’t bother, rookie.
+Dialogue: 0,0:04:33.33,0:04:34.04,Default,,0000,0000,0000,,Yes sir!
+Dialogue: 0,0:04:35.20,0:04:39.79,Default,,0000,0000,0000,,Rokusuke, I thought we had\Na good relationship
+Dialogue: 0,0:04:39.83,0:04:43.00,Default,,0000,0000,0000,,with everybody in the Gold Mine.
+Dialogue: 0,0:04:44.79,0:04:45.95,Default,,0000,0000,0000,,Well, that’s…
+Dialogue: 0,0:04:46.29,0:04:52.99,Default,,0000,0000,0000,,Why is it? I’m so deeply sorry\Nto hear that you left the village.
+Dialogue: 0,0:04:54.12,0:04:56.54,Default,,0000,0000,0000,,I can’t remember how things\Nwere in the past,
+Dialogue: 0,0:04:56.58,0:04:58.04,Default,,0000,0000,0000,,when everything was going well.
+Dialogue: 0,0:04:58.37,0:05:00.99,Default,,0000,0000,0000,,I’m sorry, I’m sorry.\NI won’t do it again!
+Dialogue: 0,0:05:01.04,0:05:03.87,Default,,0000,0000,0000,,Yeah, I have a good idea.
+Dialogue: 0,0:05:03.99,0:05:06.87,Default,,0000,0000,0000,,I’m going to arrange\Nfor your funeral.
+Dialogue: 0,0:05:08.95,0:05:12.12,Default,,0000,0000,0000,,Please don’t! Please let me go!
+Dialogue: 0,0:05:12.20,0:05:15.95,Default,,0000,0000,0000,,I won’t do it again,\Nso please forgive me!
+Dialogue: 0,0:05:16.20,0:05:19.66,Default,,0000,0000,0000,,Why? Don’t you like funerals?
+Dialogue: 0,0:05:19.95,0:05:22.99,Default,,0000,0000,0000,,No, I don’t wanna die yet!
+Dialogue: 0,0:05:22.99,0:05:26.62,Default,,0000,0000,0000,,You know, I really like funerals…
+Dialogue: 0,0:05:27.12,0:05:28.58,Default,,0000,0000,0000,,Think about it.
+Dialogue: 0,0:05:28.99,0:05:33.12,Default,,0000,0000,0000,,When they are alive, humans speak ill\Nof each other,
+Dialogue: 0,0:05:33.16,0:05:35.70,Default,,0000,0000,0000,,they betray each other,\Nand they hate each other.
+Dialogue: 0,0:05:36.04,0:05:39.00,Default,,0000,0000,0000,,But at a funeral,
+Dialogue: 0,0:05:39.04,0:05:42.79,Default,,0000,0000,0000,,they forget all the hatred\Nthey had for the other.
+Dialogue: 0,0:05:42.99,0:05:47.12,Default,,0000,0000,0000,,They even remember\Nthe good times they had together.
+Dialogue: 0,0:05:47.83,0:05:48.83,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:05:49.20,0:05:53.00,Default,,0000,0000,0000,,You have to be kidding me!\NNo! Please don’t do it.
+Dialogue: 0,0:05:53.04,0:05:53.79,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:55.08,0:05:56.29,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:05:56.33,0:06:00.54,Default,,0000,0000,0000,,It’s a done deal then.\NLet’s have a big funeral for Rokusuke.
+Dialogue: 0,0:06:00.66,0:06:01.99,Default,,0000,0000,0000,,– Yeah! 					– Yeah!
+Dialogue: 0,0:06:31.50,0:06:33.08,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:06:34.04,0:06:35.70,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:06:36.99,0:06:40.54,Default,,0000,0000,0000,,Is that gold?\NThere’s nothing shiny about it.
+Dialogue: 0,0:06:40.75,0:06:42.99,Default,,0000,0000,0000,,They have to melt\Nthat ore into mercury.
+Dialogue: 0,0:06:42.99,0:06:46.99,Default,,0000,0000,0000,,After that they evaporate it\Nand only then does it turn into pure gold.
+Dialogue: 0,0:06:47.58,0:06:48.99,Default,,0000,0000,0000,,I don’t get it.
+Dialogue: 0,0:06:49.16,0:06:51.99,Default,,0000,0000,0000,,Well, there is no need\Nfor you to understand it.
+Dialogue: 0,0:07:00.29,0:07:01.08,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:07:01.45,0:07:05.29,Default,,0000,0000,0000,,Huh? What are you doing?!\NHurry up!
+Dialogue: 0,0:07:05.41,0:07:06.95,Default,,0000,0000,0000,,If you don’t hurry up,
+Dialogue: 0,0:07:06.99,0:07:09.41,Default,,0000,0000,0000,,I’m gonna ask the boss\Nto let me hold your funeral!
+Dialogue: 0,0:07:10.25,0:07:11.83,Default,,0000,0000,0000,,Please forgive me!
+Dialogue: 0,0:07:13.62,0:07:16.99,Default,,0000,0000,0000,,I’m getting really mad now.\NI won't forgive them!
+Dialogue: 0,0:07:17.16,0:07:18.45,Default,,0000,0000,0000,,Calm down, Naruto…
+Dialogue: 0,0:07:18.91,0:07:21.95,Default,,0000,0000,0000,,We don’t know anything\Nabout them yet.
+Dialogue: 0,0:07:21.99,0:07:24.58,Default,,0000,0000,0000,,That’s right. We should do\Nwhat Neji is telling us.
+Dialogue: 0,0:07:24.70,0:07:25.95,Default,,0000,0000,0000,,Yeah but…
+Dialogue: 0,0:07:25.99,0:07:29.58,Default,,0000,0000,0000,,if we don’t do something,\Nthat poor old guy is going to die!
+Dialogue: 0,0:07:29.62,0:07:31.79,Default,,0000,0000,0000,,Naruto, leave things to me here.
+Dialogue: 0,0:07:32.04,0:07:33.29,Default,,0000,0000,0000,,Wait, Lee!
+Dialogue: 0,0:07:33.37,0:07:36.12,Default,,0000,0000,0000,,Hey, hey.\NHurry up and pick them up!
+Dialogue: 0,0:07:51.00,0:07:53.41,Default,,0000,0000,0000,,Yeah! Way to go, Lee!
+Dialogue: 0,0:07:53.99,0:07:55.99,Default,,0000,0000,0000,,Are you okay, old man?
+Dialogue: 0,0:07:58.41,0:08:01.95,Default,,0000,0000,0000,,Oh my gosh!\NWhat have you done?!
+Dialogue: 0,0:08:02.99,0:08:04.41,Default,,0000,0000,0000,,Here. Drink some water.
+Dialogue: 0,0:08:06.99,0:08:08.66,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:08:08.95,0:08:11.79,Default,,0000,0000,0000,,I beg you.\NPlease punch me, kick me.
+Dialogue: 0,0:08:11.87,0:08:13.08,Default,,0000,0000,0000,,Please knock me around
+Dialogue: 0,0:08:13.12,0:08:14.62,Default,,0000,0000,0000,,like the way you just did\Nwith those guys.
+Dialogue: 0,0:08:15.16,0:08:16.54,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:08:16.99,0:08:19.45,Default,,0000,0000,0000,,If you won’t do it,\NI’ll do it myself!
+Dialogue: 0,0:08:20.99,0:08:22.00,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:08:22.04,0:08:23.45,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:08:23.50,0:08:25.12,Default,,0000,0000,0000,,I’m scared.
+Dialogue: 0,0:08:25.16,0:08:27.16,Default,,0000,0000,0000,,Just think what they’ll do
+Dialogue: 0,0:08:27.20,0:08:29.99,Default,,0000,0000,0000,,if they knew I was\Nthe only one that was safe.
+Dialogue: 0,0:08:37.99,0:08:39.45,Default,,0000,0000,0000,,What was that sound?
+Dialogue: 0,0:08:39.95,0:08:41.00,Default,,0000,0000,0000,,Did they find us?
+Dialogue: 0,0:08:41.83,0:08:45.58,Default,,0000,0000,0000,,Oh my, that’s the sound\Nof the funeral bell.
+Dialogue: 0,0:08:46.12,0:08:47.12,Default,,0000,0000,0000,,Funeral?
+Dialogue: 0,0:08:47.45,0:08:48.45,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:49.25,0:08:53.66,Default,,0000,0000,0000,,Raiga, the boss of the Kurosuki family\Nwhich rules this town,
+Dialogue: 0,0:08:53.70,0:08:56.04,Default,,0000,0000,0000,,arranges a funeral for\Nthose who betray him.
+Dialogue: 0,0:08:56.08,0:08:57.45,Default,,0000,0000,0000,,He buries them alive.
+Dialogue: 0,0:08:57.79,0:09:01.79,Default,,0000,0000,0000,,What? They bury them alive?\NThat’s so cruel!
+Dialogue: 0,0:09:02.04,0:09:04.12,Default,,0000,0000,0000,,Yeah but…
+Dialogue: 0,0:09:04.16,0:09:08.83,Default,,0000,0000,0000,,Raiga always cries sadly\Nduring the funeral.
+Dialogue: 0,0:09:09.00,0:09:11.79,Default,,0000,0000,0000,,That’s one weird guy.
+Dialogue: 0,0:09:12.00,0:09:13.12,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:09:13.16,0:09:16.99,Default,,0000,0000,0000,,That doesn’t seem to be\Nthe sound of the bell for you.
+Dialogue: 0,0:09:17.12,0:09:21.91,Default,,0000,0000,0000,,Yeah, I heard that Rokusuke\Nwas caught this morning, so…
+Dialogue: 0,0:09:22.20,0:09:23.91,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:58.33,0:10:04.08,Default,,0000,0000,0000,,I’m so happy, I remember\Nthe first day I met that guy.
+Dialogue: 0,0:10:04.79,0:10:07.12,Default,,0000,0000,0000,,Yeah? That’s nice.
+Dialogue: 0,0:10:07.79,0:10:14.12,Default,,0000,0000,0000,,Yeah… When I told him we were taking\Nover the mountain from the magistrate,
+Dialogue: 0,0:10:14.16,0:10:19.00,Default,,0000,0000,0000,,he was so relieved to be freed from\Nthe high taxes that he was paying.
+Dialogue: 0,0:10:19.99,0:10:26.83,Default,,0000,0000,0000,,He was laughing out of pure joy…\NHe was a really nice guy.
+Dialogue: 0,0:10:28.66,0:10:32.25,Default,,0000,0000,0000,,I like funerals.\NMakes me feel nostalgic.
+Dialogue: 0,0:10:32.87,0:10:35.99,Default,,0000,0000,0000,,Would you put on\Na big funeral for me too?
+Dialogue: 0,0:10:36.20,0:10:39.33,Default,,0000,0000,0000,,Fool! I’m not putting on\Na funeral for you.
+Dialogue: 0,0:10:39.95,0:10:42.20,Default,,0000,0000,0000,,You are not going\Nto die before me.
+Dialogue: 0,0:10:42.62,0:10:45.83,Default,,0000,0000,0000,,I don’t have to have a funeral for you\Nto think of the good times
+Dialogue: 0,0:10:45.87,0:10:47.70,Default,,0000,0000,0000,,because you are always a good boy.
+Dialogue: 0,0:10:51.79,0:10:52.54,Default,,0000,0000,0000,,Raiga.
+Dialogue: 0,0:10:53.16,0:10:54.04,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:10:55.99,0:10:59.66,Default,,0000,0000,0000,,They're coming.\NThey’ll show up anytime now.
+Dialogue: 0,0:11:00.29,0:11:05.25,Default,,0000,0000,0000,,Yeah… I’m excited to see\Nwhat kind of help he sought.
+Dialogue: 0,0:11:07.91,0:11:10.99,Default,,0000,0000,0000,,Okay! Let’s save the guy.
+Dialogue: 0,0:11:11.99,0:11:13.33,Default,,0000,0000,0000,,Let’s do it, Neji.
+Dialogue: 0,0:11:13.58,0:11:14.45,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:16.29,0:11:17.25,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:11:25.70,0:11:27.99,Default,,0000,0000,0000,,It’s all right. He’s still alive.
+Dialogue: 0,0:11:28.91,0:11:30.58,Default,,0000,0000,0000,,If we can get rid of\Nthe guys around him,
+Dialogue: 0,0:11:30.62,0:11:31.99,Default,,0000,0000,0000,,we can save him.
+Dialogue: 0,0:11:32.29,0:11:34.99,Default,,0000,0000,0000,,Okay! Let’s get rid\Nof them quickly!
+Dialogue: 0,0:11:35.04,0:11:35.99,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:11:36.16,0:11:37.79,Default,,0000,0000,0000,,Okay, let’s go!
+Dialogue: 0,0:11:54.29,0:11:56.91,Default,,0000,0000,0000,,No…! Let me out!
+Dialogue: 0,0:12:11.95,0:12:12.87,Default,,0000,0000,0000,,An enemy attack!
+Dialogue: 0,0:12:19.99,0:12:21.12,Default,,0000,0000,0000,,You…!
+Dialogue: 0,0:12:21.41,0:12:23.79,Default,,0000,0000,0000,,Tenten, you take the right!
+Dialogue: 0,0:12:23.99,0:12:24.87,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:37.75,0:12:38.99,Default,,0000,0000,0000,,Gentle Fist!
+Dialogue: 0,0:12:45.25,0:12:46.75,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:12:51.04,0:12:53.70,Default,,0000,0000,0000,,Na-ru-to…
+Dialogue: 0,0:12:56.37,0:12:57.99,Default,,0000,0000,0000,,Uzumaki Barrage!
+Dialogue: 0,0:13:04.91,0:13:06.99,Default,,0000,0000,0000,,That’s the way!
+Dialogue: 0,0:13:07.25,0:13:08.41,Default,,0000,0000,0000,,– Watch out! 					– Huh?
+Dialogue: 0,0:13:08.87,0:13:09.99,Default,,0000,0000,0000,,There are three more!
+Dialogue: 0,0:13:16.75,0:13:20.12,Default,,0000,0000,0000,,Here comes the Leaf Village's\NHandsome Devil, Rock Lee!
+Dialogue: 0,0:13:21.08,0:13:22.99,Default,,0000,0000,0000,,I found the last one!
+Dialogue: 0,0:13:30.99,0:13:31.95,Default,,0000,0000,0000,,You are…
+Dialogue: 0,0:13:32.37,0:13:34.16,Default,,0000,0000,0000,,Who is this guy?
+Dialogue: 0,0:13:34.50,0:13:35.25,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:13:36.20,0:13:38.08,Default,,0000,0000,0000,,This is Karashi.
+Dialogue: 0,0:13:39.54,0:13:41.70,Default,,0000,0000,0000,,The one Grandma Sansho\Nwas talking about…
+Dialogue: 0,0:13:41.87,0:13:44.12,Default,,0000,0000,0000,,This is Karashi?
+Dialogue: 0,0:13:46.99,0:13:50.33,Default,,0000,0000,0000,,Karashi, was it your own decision\Nto join the Kurosuki Family…
+Dialogue: 0,0:13:50.37,0:13:52.87,Default,,0000,0000,0000,,just like Grandma Sansho said it was?
+Dialogue: 0,0:13:53.16,0:13:55.20,Default,,0000,0000,0000,,So what if it was?
+Dialogue: 0,0:13:55.25,0:13:56.66,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:56.79,0:13:59.41,Default,,0000,0000,0000,,Sir Raiga is great!
+Dialogue: 0,0:13:59.79,0:14:02.37,Default,,0000,0000,0000,,He dethroned the old evil government\Nof the Katabami Gold Mine,
+Dialogue: 0,0:14:02.41,0:14:04.75,Default,,0000,0000,0000,,and he liberated everybody\Nfrom the village!
+Dialogue: 0,0:14:05.99,0:14:08.91,Default,,0000,0000,0000,,One, two, one two…
+Dialogue: 0,0:14:09.16,0:14:14.37,Default,,0000,0000,0000,,One, two, one two…
+Dialogue: 0,0:14:14.99,0:14:17.62,Default,,0000,0000,0000,,Umm, Grandma…
+Dialogue: 0,0:14:17.66,0:14:20.12,Default,,0000,0000,0000,,Oh my… 					You are so greedy!
+Dialogue: 0,0:14:20.54,0:14:23.99,Default,,0000,0000,0000,,They are fighting their lives\Nout there by going into the gold mine…
+Dialogue: 0,0:14:24.12,0:14:27.79,Default,,0000,0000,0000,,Can’t you just wait at least\Nwhile I’m cooking the curry?
+Dialogue: 0,0:14:27.99,0:14:33.16,Default,,0000,0000,0000,,I don’t mind waiting but…\NI think something is burning.
+Dialogue: 0,0:14:33.33,0:14:34.25,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:34.99,0:14:36.41,Default,,0000,0000,0000,,Oh my, oh my…
+Dialogue: 0,0:14:36.99,0:14:38.99,Default,,0000,0000,0000,,Oops…
+Dialogue: 0,0:14:39.37,0:14:41.00,Default,,0000,0000,0000,,Yeah, it burned…
+Dialogue: 0,0:14:42.99,0:14:45.58,Default,,0000,0000,0000,,Karashi, did you know that
+Dialogue: 0,0:14:45.62,0:14:50.50,Default,,0000,0000,0000,,Grandma Sansho worries about you\Neveryday while cooking curry?
+Dialogue: 0,0:14:50.54,0:14:53.45,Default,,0000,0000,0000,,Naruto, leave things to me here.
+Dialogue: 0,0:14:55.04,0:15:00.62,Default,,0000,0000,0000,,Karashi, you saved my life\Nwith your curry of life.
+Dialogue: 0,0:15:01.45,0:15:04.16,Default,,0000,0000,0000,,If you can make such\Na wonderful curry,
+Dialogue: 0,0:15:04.20,0:15:07.37,Default,,0000,0000,0000,,how can you stay with the family of\Na man with no respect for life?!
+Dialogue: 0,0:15:07.70,0:15:08.70,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:15:09.83,0:15:12.99,Default,,0000,0000,0000,,Nobody cares to compliment me\Neven if I can make that curry.
+Dialogue: 0,0:15:13.99,0:15:16.12,Default,,0000,0000,0000,,As a man born in this world,
+Dialogue: 0,0:15:16.16,0:15:19.45,Default,,0000,0000,0000,,I should gain more power and\Ntry to take over the world!
+Dialogue: 0,0:15:19.83,0:15:23.87,Default,,0000,0000,0000,,Instead of sitting around in that store\Nthat no one patronizes anymore.
+Dialogue: 0,0:15:23.99,0:15:27.20,Default,,0000,0000,0000,,What? I can’t take this anymore!
+Dialogue: 0,0:15:35.29,0:15:36.16,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:15:37.54,0:15:44.75,Default,,0000,0000,0000,,Karashi, not only did you and\NGrandma Sansho’s curry save my life…
+Dialogue: 0,0:15:45.20,0:15:47.20,Default,,0000,0000,0000,,But you also taught me that\Nif you make it from the heart,
+Dialogue: 0,0:15:47.25,0:15:50.70,Default,,0000,0000,0000,,just one serving of curry\Ncould save lives,
+Dialogue: 0,0:15:51.16,0:15:56.99,Default,,0000,0000,0000,,and that even somebody like me\Ncould do anything just by trying hard.
+Dialogue: 0,0:15:59.41,0:16:03.99,Default,,0000,0000,0000,,You looked much stronger\Nand dignified then than you do now.
+Dialogue: 0,0:16:19.00,0:16:19.99,Default,,0000,0000,0000,,Karashi!
+Dialogue: 0,0:16:22.20,0:16:25.33,Default,,0000,0000,0000,,I’ve never seen anybody\Nwho tries this hard.
+Dialogue: 0,0:16:25.87,0:16:30.66,Default,,0000,0000,0000,,I see. You want to save\Nthis boy too, huh…
+Dialogue: 0,0:16:42.20,0:16:48.20,Default,,0000,0000,0000,,Please promise me…\NPlease get out of the Kurosuki Family!
+Dialogue: 0,0:16:53.08,0:16:54.29,Default,,0000,0000,0000,,You're right…
+Dialogue: 0,0:16:54.99,0:16:56.99,Default,,0000,0000,0000,,I’m sorry… I’m so sorry!
+Dialogue: 0,0:16:58.37,0:17:00.50,Default,,0000,0000,0000,,Oh, I’m so relieved.
+Dialogue: 0,0:17:00.99,0:17:04.37,Default,,0000,0000,0000,,Hey! Please get me out of here.
+Dialogue: 0,0:17:04.41,0:17:06.62,Default,,0000,0000,0000,,It’s dark and I can’t breathe.
+Dialogue: 0,0:17:06.70,0:17:08.25,Default,,0000,0000,0000,,Oh yeah!
+Dialogue: 0,0:17:08.29,0:17:11.37,Default,,0000,0000,0000,,We almost forgot\Nabout Rokusuke.
+Dialogue: 0,0:17:16.87,0:17:18.99,Default,,0000,0000,0000,,Mmm? You guys…
+Dialogue: 0,0:17:19.00,0:17:21.50,Default,,0000,0000,0000,,Sorry to keep you waiting.\Nlt’s all right now.
+Dialogue: 0,0:17:22.79,0:17:25.45,Default,,0000,0000,0000,,I’m sorry. Thinking that maybe
+Dialogue: 0,0:17:25.50,0:17:27.95,Default,,0000,0000,0000,,I could still save my friend\Nwho got buried alive…
+Dialogue: 0,0:17:27.99,0:17:30.12,Default,,0000,0000,0000,,I just couldn’t stay still.
+Dialogue: 0,0:17:30.99,0:17:33.29,Default,,0000,0000,0000,,Yeah, I understand.
+Dialogue: 0,0:17:36.25,0:17:38.45,Default,,0000,0000,0000,,Neji, what is it?
+Dialogue: 0,0:17:49.99,0:17:51.04,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:17:51.66,0:17:53.58,Default,,0000,0000,0000,,This feeling of danger…
+Dialogue: 0,0:17:56.99,0:17:58.99,Default,,0000,0000,0000,,Hey Neji, what is it?
+Dialogue: 0,0:17:59.45,0:18:02.99,Default,,0000,0000,0000,,We are being watched.\Nlt’s probably Raiga.
+Dialogue: 0,0:18:03.20,0:18:04.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:04.83,0:18:05.99,Default,,0000,0000,0000,,From the top of that cliff…
+Dialogue: 0,0:18:06.29,0:18:08.41,Default,,0000,0000,0000,,Okay. Let’s go!
+Dialogue: 0,0:18:08.99,0:18:11.66,Default,,0000,0000,0000,,Karashi, please take care of Rokusuke.
+Dialogue: 0,0:18:11.79,0:18:12.87,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:18:22.08,0:18:23.16,Default,,0000,0000,0000,,No one’s here.
+Dialogue: 0,0:18:23.79,0:18:25.45,Default,,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:18:29.87,0:18:31.66,Default,,0000,0000,0000,,Mmm? What is that?
+Dialogue: 0,0:18:36.99,0:18:38.58,Default,,0000,0000,0000,,This mist…
+Dialogue: 0,0:18:43.83,0:18:46.99,Default,,0000,0000,0000,,Ninja Art: Hidden Mist Jutsu!
+Dialogue: 0,0:18:49.50,0:18:53.70,Default,,0000,0000,0000,,Hidden Mist Jutsu…\NA specialty of Mist Village Ninja.
+Dialogue: 0,0:18:53.95,0:18:57.29,Default,,0000,0000,0000,,So, what Guy Sensei said was true?
+Dialogue: 0,0:18:57.33,0:19:00.04,Default,,0000,0000,0000,,Damn, I can’t see anything!
+Dialogue: 0,0:19:00.50,0:19:03.12,Default,,0000,0000,0000,,Neji, try to find the enemy\Nwith your Byakugan.
+Dialogue: 0,0:19:03.25,0:19:04.87,Default,,0000,0000,0000,,I’ve been trying…!
+Dialogue: 0,0:19:13.37,0:19:15.99,Default,,0000,0000,0000,,Uh…Can’t see a thing!
+Dialogue: 0,0:19:16.37,0:19:19.12,Default,,0000,0000,0000,,That’s impossible.\NEven Neji’s Byakugan
+Dialogue: 0,0:19:19.16,0:19:23.45,Default,,0000,0000,0000,,that’s supposed to let him\Nsee 360 degrees won’t work!
+Dialogue: 0,0:19:24.25,0:19:25.95,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:19:25.99,0:19:29.50,Default,,0000,0000,0000,,There isn’t supposed to be\Na Jutsu that can break Byakugan!
+Dialogue: 0,0:19:44.16,0:19:45.99,Default,,0000,0000,0000,,What do you think, Ranmaru?
+Dialogue: 0,0:19:47.20,0:19:48.58,Default,,0000,0000,0000,,It’s amazing…
+Dialogue: 0,0:19:48.62,0:19:52.41,Default,,0000,0000,0000,,One of them can see through\Nthe Chakra Network.
+Dialogue: 0,0:19:53.29,0:19:56.25,Default,,0000,0000,0000,,He probably has some sort\Nof Kekkei Genkai power.
+Dialogue: 0,0:19:56.83,0:19:58.00,Default,,0000,0000,0000,,He can see us?
+Dialogue: 0,0:19:58.79,0:20:02.41,Default,,0000,0000,0000,,It’s all right,\Nmy power is superior to his…
+Dialogue: 0,0:20:03.29,0:20:04.99,Default,,0000,0000,0000,,So, what are you going to do?
+Dialogue: 0,0:20:05.45,0:20:10.45,Default,,0000,0000,0000,,Everybody in the Katabami\NGold Mine is depending on me.
+Dialogue: 0,0:20:11.95,0:20:15.91,Default,,0000,0000,0000,,I’m the one who has to\Nkeep the peace of this village.
+Dialogue: 0,0:20:16.91,0:20:18.12,Default,,0000,0000,0000,,Are you going to hold a funeral?
+Dialogue: 0,0:20:18.29,0:20:24.29,Default,,0000,0000,0000,,No, even if I hold a funeral,\NI have no memories of them.
+Dialogue: 0,0:20:24.99,0:20:27.99,Default,,0000,0000,0000,,I’ll just get rid of them!
+Dialogue: 0,0:20:28.66,0:20:32.41,Default,,0000,0000,0000,,Look,\NNinja Art: Lightning Fang!
+Dialogue: 0,0:20:42.99,0:20:44.58,Default,,0000,0000,0000,,Wh-What is it?!
+Dialogue: 0,0:20:48.99,0:20:52.99,Default,,0000,0000,0000,,Lighting! Drop!
+Dialogue: 0,0:21:02.54,0:21:04.12,Default,,0000,0000,0000,,What do you think, Ranmaru?
+Dialogue: 0,0:21:04.62,0:21:06.08,Default,,0000,0000,0000,,It’s great, Raiga!
+Dialogue: 0,0:21:27.79,0:21:31.99,Default,,0000,0000,0000,,Crappy news pass us by
+Dialogue: 0,0:21:31.99,0:21:35.50,Default,,0000,0000,0000,,And you become speechless
+Dialogue: 0,0:21:36.95,0:21:41.50,Default,,0000,0000,0000,,My voice is way too soft
+Dialogue: 0,0:21:41.54,0:21:44.79,Default,,0000,0000,0000,,So you don’t answer
+Dialogue: 0,0:21:45.91,0:21:50.41,Default,,0000,0000,0000,,You’re crying   Crying alone
+Dialogue: 0,0:21:50.45,0:21:55.25,Default,,0000,0000,0000,,What can I do?   I’m crying too
+Dialogue: 0,0:21:55.29,0:21:57.95,Default,,0000,0000,0000,,“Let my lonely scream ring out\Nthrough the night”
+Dialogue: 0,0:21:57.99,0:22:06.99,Default,,0000,0000,0000,,I’ll thrash this confused era\Nwith my speed   Yeah
+Dialogue: 0,0:22:07.00,0:22:16.70,Default,,0000,0000,0000,,And I’ll thrash this confused night\Nwith my speed   Yeah
+Dialogue: 0,0:22:16.75,0:22:25.91,Default,,0000,0000,0000,,I’ll thrash them with my piercing guitar\Nand my speed   Yeah
+Dialogue: 0,0:22:25.99,0:22:37.66,Default,,0000,0000,0000,,This sinking world and its evil bastards,\NI’ll kick their butt   Yeah
+Dialogue: 0,0:22:50.04,0:22:52.04,Default,,0000,0000,0000,,Naruto Barrage! What?
+Dialogue: 0,0:22:52.08,0:22:54.50,Default,,0000,0000,0000,,Leaf Hurricane! Mm?
+Dialogue: 0,0:22:54.87,0:22:56.12,Default,,0000,0000,0000,,Here I come! Huh?
+Dialogue: 0,0:22:56.41,0:22:57.20,Default,,0000,0000,0000,,Impossible!
+Dialogue: 0,0:22:57.25,0:22:59.00,Default,,0000,0000,0000,,Hey! The enemy disappeared!
+Dialogue: 0,0:22:59.04,0:23:00.66,Default,,0000,0000,0000,,I have nobody either!
+Dialogue: 0,0:23:00.87,0:23:03.04,Default,,0000,0000,0000,,What? There is no enemy!
+Dialogue: 0,0:23:03.08,0:23:06.45,Default,,0000,0000,0000,,Neji! Are you using\Nyour Byakugan correctly?!
+Dialogue: 0,0:23:06.50,0:23:07.66,Default,,0000,0000,0000,,I am doing it right!
+Dialogue: 0,0:23:07.79,0:23:11.66,Default,,0000,0000,0000,,It’s impossible, but my Byakugan\Nis picking up Chakra!
+Dialogue: 0,0:23:12.08,0:23:14.16,Default,,0000,0000,0000,,Next time: “The Enemy of the Byakugan”

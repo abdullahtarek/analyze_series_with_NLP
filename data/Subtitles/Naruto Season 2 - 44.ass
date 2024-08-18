@@ -1,0 +1,324 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.58,0:00:09.29,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.35,0:00:13.22,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.26,0:00:17.30,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.60,0:00:20.10,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.13,0:00:24.27,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.30,0:00:28.31,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.61,0:00:34.55,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.15,0:00:38.15,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.59,0:00:42.59,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.42,0:00:44.59,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.96,0:00:47.59,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.60,0:01:01.04,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.24,0:01:02.51,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.54,0:01:06.34,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.58,0:01:11.75,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:12.05,0:01:13.52,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.55,0:01:14.85,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.89,0:01:21.26,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:45.92,0:01:47.85,Default,,0000,0000,0000,,And the next match.
+Dialogue: 0,0:01:48.95,0:01:51.99,Default,,0000,0000,0000,,This year’s rookie looks challenging…
+Dialogue: 0,0:01:58.00,0:01:59.60,Default,,0000,0000,0000,,Naruto Uzumaki vs. Kiba Inuzuka
+Dialogue: 0,0:01:59.93,0:02:02.40,Default,,0000,0000,0000,,It’s here, it’s here, it’s here!
+Dialogue: 0,0:02:02.53,0:02:04.20,Default,,0000,0000,0000,,What we’ve been waiting for!
+Dialogue: 0,0:02:04.57,0:02:06.57,Default,,0000,0000,0000,,It’s finally my turn!
+Dialogue: 0,0:02:07.00,0:02:09.24,Default,,0000,0000,0000,,Yeah! Lucky us!
+Dialogue: 0,0:02:09.44,0:02:12.31,Default,,0000,0000,0000,,If it’s this guy,\Nwe’ll absolutely win, Akamaru!
+Dialogue: 0,0:02:14.78,0:02:18.18,Default,,0000,0000,0000,,Show us how much you’ve grown.
+Dialogue: 0,0:02:22.02,0:02:23.42,Default,,0000,0000,0000,,I’m going to do it!
+Dialogue: 0,0:02:24.59,0:02:30.60,Default,,0000,0000,0000,,Akamaru Unleashed!\NWho's Top Dog Now?
+Dialogue: 0,0:02:31.93,0:02:36.53,Default,,0000,0000,0000,,The seventh battle,\NNaruto Uzumaki versus Kiba Inuzuka.
+Dialogue: 0,0:02:49.25,0:02:51.02,Default,,0000,0000,0000,,I got sick of waiting!
+Dialogue: 0,0:02:51.52,0:02:54.62,Default,,0000,0000,0000,,It’s finally time for me to shine!\NBelieve it!
+Dialogue: 0,0:02:56.45,0:02:57.62,Default,,0000,0000,0000,,That’s my line!
+Dialogue: 0,0:02:57.79,0:02:59.79,Default,,0000,0000,0000,,With you as my opponent,\NI’ve as good as won!
+Dialogue: 0,0:02:59.89,0:03:00.99,Default,,0000,0000,0000,,Right, Akamaru?
+Dialogue: 0,0:03:03.09,0:03:05.16,Default,,0000,0000,0000,,Don’t get excited!
+Dialogue: 0,0:03:05.33,0:03:07.60,Default,,0000,0000,0000,,You won’t be able to beat me!
+Dialogue: 0,0:03:07.60,0:03:09.10,Default,,0000,0000,0000,,Why you little…!
+Dialogue: 0,0:03:10.64,0:03:13.20,Default,,0000,0000,0000,,Hey! Don’t bring your puppy!
+Dialogue: 0,0:03:13.44,0:03:14.74,Default,,0000,0000,0000,,He’ll get in the way of the match!
+Dialogue: 0,0:03:15.04,0:03:16.17,Default,,0000,0000,0000,,You fool!
+Dialogue: 0,0:03:16.21,0:03:17.91,Default,,0000,0000,0000,,Akamaru’s going to fight with me.
+Dialogue: 0,0:03:19.34,0:03:21.58,Default,,0000,0000,0000,,Hey, hey! Is that okay?
+Dialogue: 0,0:03:22.18,0:03:22.68,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:22.98,0:03:25.95,Default,,0000,0000,0000,,Animals and insects are treated\Nthe same as ninja tools.
+Dialogue: 0,0:03:26.68,0:03:28.39,Default,,0000,0000,0000,,There’s no problem.
+Dialogue: 0,0:03:30.59,0:03:32.09,Default,,0000,0000,0000,,Well, that’s fine!
+Dialogue: 0,0:03:32.56,0:03:34.56,Default,,0000,0000,0000,,It’s a perfect handicap!
+Dialogue: 0,0:03:34.59,0:03:36.59,Default,,0000,0000,0000,,Talking tough!
+Dialogue: 0,0:03:37.13,0:03:37.93,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:03:39.10,0:03:41.10,Default,,0000,0000,0000,,Akamaru, don’t put a paw in this.
+Dialogue: 0,0:03:41.60,0:03:42.60,Default,,0000,0000,0000,,I’ll fight him by myself!
+Dialogue: 0,0:03:44.10,0:03:46.67,Default,,0000,0000,0000,,Naruto! Don’t lose to a guy like this!
+Dialogue: 0,0:03:48.11,0:03:49.47,Default,,0000,0000,0000,,It’s finally come.
+Dialogue: 0,0:03:53.58,0:03:54.68,Default,,0000,0000,0000,,Naruto, huh?
+Dialogue: 0,0:03:55.71,0:03:58.58,Default,,0000,0000,0000,,I’m sorry, but he can’t beat Kiba...
+Dialogue: 0,0:03:59.58,0:04:00.55,Default,,0000,0000,0000,,Kakashi.
+Dialogue: 0,0:04:01.19,0:04:01.95,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:04:02.42,0:04:04.22,Default,,0000,0000,0000,,I-I want to support you, but…
+Dialogue: 0,0:04:04.36,0:04:07.59,Default,,0000,0000,0000,,Kiba’s on my team…
+Dialogue: 0,0:04:09.66,0:04:11.60,Default,,0000,0000,0000,,Kiba will get mad…
+Dialogue: 0,0:04:12.60,0:04:13.20,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:04:17.27,0:04:18.10,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:04:19.57,0:04:22.14,Default,,0000,0000,0000,,Kiba’s lucky.
+Dialogue: 0,0:04:22.34,0:04:22.87,Default,,0000,0000,0000,,Hah!
+Dialogue: 0,0:04:25.58,0:04:30.58,Default,,0000,0000,0000,,Hah! I don’t know how strong he’s become\Nsince this guy became a Genin…
+Dialogue: 0,0:04:31.45,0:04:33.58,Default,,0000,0000,0000,,Today we’ll run through Transformation Jutsu.
+Dialogue: 0,0:04:33.85,0:04:35.62,Default,,0000,0000,0000,,You’ll change yourself into Lord Hokage…
+Dialogue: 0,0:04:36.89,0:04:38.92,Default,,0000,0000,0000,,His ability was “that,” so…
+Dialogue: 0,0:04:44.10,0:04:44.96,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:04:55.11,0:04:56.51,Default,,0000,0000,0000,,So noisy...
+Dialogue: 0,0:04:56.57,0:04:58.31,Default,,0000,0000,0000,,I was sleeping comfortably…
+Dialogue: 0,0:05:01.25,0:05:04.52,Default,,0000,0000,0000,,T-That was a joke!\NI-I did it on purpose!
+Dialogue: 0,0:05:04.58,0:05:06.38,Default,,0000,0000,0000,,Enough, Naruto!
+Dialogue: 0,0:05:06.58,0:05:08.59,Default,,0000,0000,0000,,It’s your third year\Nat the academy!
+Dialogue: 0,0:05:08.59,0:05:09.45,Default,,0000,0000,0000,,Wha--?
+Dialogue: 0,0:05:10.35,0:05:12.69,Default,,0000,0000,0000,,Goodness sake, who is that guy?
+Dialogue: 0,0:05:14.13,0:05:16.96,Default,,0000,0000,0000,,We’ve just switched to this class\Nand already found someone funny.
+Dialogue: 0,0:05:16.99,0:05:19.53,Default,,0000,0000,0000,,That guy, he’s on a roll.
+Dialogue: 0,0:05:21.33,0:05:22.60,Default,,0000,0000,0000,,He’s an attention-seeker, huh?
+Dialogue: 0,0:05:23.27,0:05:25.10,Default,,0000,0000,0000,,One more time, fool!
+Dialogue: 0,0:05:25.97,0:05:26.70,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:05:35.85,0:05:36.65,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:05:37.58,0:05:39.18,Default,,0000,0000,0000,,Is it possible…?
+Dialogue: 0,0:05:48.59,0:05:49.96,Default,,0000,0000,0000,,Hey hey, are you serious?
+Dialogue: 0,0:05:50.16,0:05:53.23,Default,,0000,0000,0000,,You’ve been here for three years and\Ncan’t even do a respectable transformation?
+Dialogue: 0,0:05:55.60,0:05:57.84,Default,,0000,0000,0000,,All of you watch now!
+Dialogue: 0,0:05:58.20,0:06:02.57,Default,,0000,0000,0000,,I will absolutely someday become\N the true and a real Hokage!
+Dialogue: 0,0:06:05.01,0:06:05.98,Default,,0000,0000,0000,,Lame!
+Dialogue: 0,0:06:06.21,0:06:07.58,Default,,0000,0000,0000,,What Hokage?!
+Dialogue: 0,0:06:15.92,0:06:17.56,Default,,0000,0000,0000,,Some sympathy at the very least…
+Dialogue: 0,0:06:17.59,0:06:19.92,Default,,0000,0000,0000,,I’ll do you in, in one clean blow!
+Dialogue: 0,0:06:20.22,0:06:25.60,Default,,0000,0000,0000,,Really? But you can’t beat me!
+Dialogue: 0,0:06:25.66,0:06:28.27,Default,,0000,0000,0000,,I said not to act tough.
+Dialogue: 0,0:06:35.57,0:06:38.58,Default,,0000,0000,0000,,Well then. Please begin!
+Dialogue: 0,0:06:40.28,0:06:42.88,Default,,0000,0000,0000,,Ninja Art of Beast Mimicry:\NAll-Four Jutsu!
+Dialogue: 0,0:06:49.85,0:06:50.59,Default,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:06:55.39,0:06:56.23,Default,,0000,0000,0000,,Fast!
+Dialogue: 0,0:07:07.94,0:07:12.31,Default,,0000,0000,0000,,It will be a while ‘til\Nhe opens his eyes, Mr. Proctor.
+Dialogue: 0,0:07:12.58,0:07:13.91,Default,,0000,0000,0000,,Just as I thought.
+Dialogue: 0,0:07:14.18,0:07:17.18,Default,,0000,0000,0000,,That Naruto can’t be equal to Kiba.
+Dialogue: 0,0:07:17.55,0:07:18.35,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:07:18.75,0:07:20.42,Default,,0000,0000,0000,,That was too embarrassing to watch.
+Dialogue: 0,0:07:22.39,0:07:23.59,Default,,0000,0000,0000,,See…
+Dialogue: 0,0:07:24.26,0:07:27.29,Default,,0000,0000,0000,,What was that?\NThat guy is weak.
+Dialogue: 0,0:07:32.43,0:07:33.33,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:07:35.60,0:07:36.33,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:42.17,0:07:43.24,Default,,0000,0000,0000,,Yes, that’s it…
+Dialogue: 0,0:07:52.28,0:07:53.58,Default,,0000,0000,0000,,I’ll surpass Hokage!
+Dialogue: 0,0:07:54.42,0:07:59.59,Default,,0000,0000,0000,,Then everyone in the village will\Nacknowledge my existence!
+Dialogue: 0,0:08:00.59,0:08:01.59,Default,,0000,0000,0000,,Those are his words…
+Dialogue: 0,0:08:02.23,0:08:04.53,Default,,0000,0000,0000,,I’ve always made fun of them, too.
+Dialogue: 0,0:08:07.67,0:08:11.94,Default,,0000,0000,0000,,This is the Jonin…a true Ninja…
+Dialogue: 0,0:08:12.57,0:08:13.57,Default,,0000,0000,0000,,I have to escape…
+Dialogue: 0,0:08:14.14,0:08:15.37,Default,,0000,0000,0000,,If I stay like this…
+Dialogue: 0,0:08:15.74,0:08:19.58,Default,,0000,0000,0000,,I’ll really, really be killed!
+Dialogue: 0,0:08:21.01,0:08:22.38,Default,,0000,0000,0000,,Are you hurt…
+Dialogue: 0,0:08:24.25,0:08:25.55,Default,,0000,0000,0000,,Scaredy cat?
+Dialogue: 0,0:08:27.12,0:08:29.59,Default,,0000,0000,0000,,You just need to become\Nstronger than me!
+Dialogue: 0,0:08:40.20,0:08:41.63,Default,,0000,0000,0000,,Darn you!
+Dialogue: 0,0:08:43.53,0:08:44.47,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:08:44.50,0:08:46.04,Default,,0000,0000,0000,,What are you doing all of a sudden?!
+Dialogue: 0,0:08:50.17,0:08:58.85,Default,,0000,0000,0000,,T-This stupid coward is...\Nabsolutely... not the Sasuke I know!
+Dialogue: 0,0:08:59.78,0:09:01.22,Default,,0000,0000,0000,,Don’t mess with me!
+Dialogue: 0,0:09:05.92,0:09:07.42,Default,,0000,0000,0000,,W-What?
+Dialogue: 0,0:09:09.56,0:09:11.26,Default,,0000,0000,0000,,But, it was wrong!
+Dialogue: 0,0:09:18.04,0:09:18.77,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:09:20.04,0:09:21.57,Default,,0000,0000,0000,,are you hurt?
+Dialogue: 0,0:09:24.48,0:09:25.58,Default,,0000,0000,0000,,Scaredy cat?
+Dialogue: 0,0:09:35.95,0:09:40.72,Default,,0000,0000,0000,,I won’t change my words,\Nthat’s my way of Ninja!
+Dialogue: 0,0:09:54.97,0:09:55.74,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:09:56.57,0:09:58.18,Default,,0000,0000,0000,,Say it to everyone!
+Dialogue: 0,0:10:00.04,0:10:00.98,Default,,0000,0000,0000,,Don't...
+Dialogue: 0,0:10:02.25,0:10:03.21,Default,,0000,0000,0000,,Don't...
+Dialogue: 0,0:10:03.88,0:10:05.25,Default,,0000,0000,0000,,underestimate me!
+Dialogue: 0,0:10:09.29,0:10:10.59,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:11.89,0:10:13.66,Default,,0000,0000,0000,,He seems to have grown\Nto say such thing.
+Dialogue: 0,0:10:15.26,0:10:15.79,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:10:16.43,0:10:17.80,Default,,0000,0000,0000,,Go, Naruto!
+Dialogue: 0,0:10:18.60,0:10:20.53,Default,,0000,0000,0000,,What are you talking about,\Nbleeding like that?
+Dialogue: 0,0:10:20.83,0:10:22.60,Default,,0000,0000,0000,,Your tough talk has gone too far!
+Dialogue: 0,0:10:23.57,0:10:27.71,Default,,0000,0000,0000,,I didn’t use my power fully…\Nto observe your strength first!
+Dialogue: 0,0:10:29.61,0:10:33.34,Default,,0000,0000,0000,,You too, cut out the tough talk\Nand use the dog or whatever you want!
+Dialogue: 0,0:10:34.58,0:10:36.15,Default,,0000,0000,0000,,You’ll regret this…
+Dialogue: 0,0:10:37.41,0:10:38.58,Default,,0000,0000,0000,,Let’s go Akamaru!
+Dialogue: 0,0:10:44.59,0:10:45.59,Default,,0000,0000,0000,,Smoke Ball?
+Dialogue: 0,0:10:45.86,0:10:46.59,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:11:08.58,0:11:09.51,Default,,0000,0000,0000,,I can’t see!
+Dialogue: 0,0:11:09.58,0:11:10.58,Default,,0000,0000,0000,,This is bad!
+Dialogue: 0,0:11:10.95,0:11:13.68,Default,,0000,0000,0000,,I have to get out of the smoke…\Nor I’ll be done for.
+Dialogue: 0,0:11:17.55,0:11:18.22,Default,,0000,0000,0000,,It worked!
+Dialogue: 0,0:11:21.93,0:11:22.79,Default,,0000,0000,0000,,What is it…?
+Dialogue: 0,0:11:23.06,0:11:25.60,Default,,0000,0000,0000,,Shoot…I can’t see anything.
+Dialogue: 0,0:11:41.58,0:11:43.58,Default,,0000,0000,0000,,Yeah! We did it!
+Dialogue: 0,0:11:45.28,0:11:47.02,Default,,0000,0000,0000,,Yay! Good job, Akama--!
+Dialogue: 0,0:11:58.93,0:12:00.40,Default,,0000,0000,0000,,A-Akamaru…
+Dialogue: 0,0:12:00.93,0:12:01.60,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:12:12.81,0:12:13.71,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:12:15.21,0:12:17.58,Default,,0000,0000,0000,,You took the bait!
+Dialogue: 0,0:12:20.78,0:12:21.92,Default,,0000,0000,0000,,Y-You!
+Dialogue: 0,0:12:21.95,0:12:22.85,Default,,0000,0000,0000,,Transform Jutsu?!
+Dialogue: 0,0:12:23.29,0:12:24.76,Default,,0000,0000,0000,,Ouch! Shoot!
+Dialogue: 0,0:12:25.39,0:12:25.96,Default,,0000,0000,0000,,Let go!
+Dialogue: 0,0:12:28.49,0:12:30.13,Default,,0000,0000,0000,,You smell like a dog!
+Dialogue: 0,0:12:30.59,0:12:32.66,Default,,0000,0000,0000,,W-Where’s Akamaru?!
+Dialogue: 0,0:12:33.10,0:12:34.10,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:12:35.43,0:12:37.77,Default,,0000,0000,0000,,Akamaru! Darn!
+Dialogue: 0,0:12:38.87,0:12:39.57,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:12:39.94,0:12:40.97,Default,,0000,0000,0000,,That's Naruto?!
+Dialogue: 0,0:12:41.64,0:12:43.37,Default,,0000,0000,0000,,An equal match with Kiba…
+Dialogue: 0,0:12:43.57,0:12:45.34,Default,,0000,0000,0000,,No, it may be more than equal!
+Dialogue: 0,0:12:45.58,0:12:49.48,Default,,0000,0000,0000,,Applying Shadow Clone Jutsu\Nto Transform Jutsu, that’s a clever trick.
+Dialogue: 0,0:12:49.68,0:12:51.75,Default,,0000,0000,0000,,Naruto shouldn’t be able to do that…
+Dialogue: 0,0:12:52.78,0:12:55.52,Default,,0000,0000,0000,,His timing at using Jutsu’s is very good.
+Dialogue: 0,0:12:55.59,0:12:58.36,Default,,0000,0000,0000,,What? He’s better than I thought.
+Dialogue: 0,0:13:00.56,0:13:04.23,Default,,0000,0000,0000,,But, to get mad like that after\Nbiting the opponent himself…
+Dialogue: 0,0:13:04.43,0:13:05.60,Default,,0000,0000,0000,,What a funny guy.
+Dialogue: 0,0:13:07.20,0:13:08.83,Default,,0000,0000,0000,,N-Naruto…amazing!
+Dialogue: 0,0:13:08.90,0:13:10.70,Default,,0000,0000,0000,,That’s amazing, Naruto!
+Dialogue: 0,0:13:15.57,0:13:18.84,Default,,0000,0000,0000,,You got a little bit stronger.
+Dialogue: 0,0:13:19.71,0:13:21.15,Default,,0000,0000,0000,,But it’s over.
+Dialogue: 0,0:13:21.75,0:13:23.21,Default,,0000,0000,0000,,Next, I’ll attack you seriously.
+Dialogue: 0,0:13:23.35,0:13:24.95,Default,,0000,0000,0000,,Oh really?!
+Dialogue: 0,0:13:25.25,0:13:28.75,Default,,0000,0000,0000,,But you will absolutely not beat me!
+Dialogue: 0,0:13:29.59,0:13:32.09,Default,,0000,0000,0000,,During this exam,\Nhe’s matured again.
+Dialogue: 0,0:13:34.59,0:13:36.56,Default,,0000,0000,0000,,This is a surprise…
+Dialogue: 0,0:13:38.46,0:13:40.60,Default,,0000,0000,0000,,That’s Naruto, the perpetual goof…?
+Dialogue: 0,0:13:41.10,0:13:44.60,Default,,0000,0000,0000,,Evidently it’s no longer “that” Naruto.
+Dialogue: 0,0:13:45.04,0:13:45.57,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:46.84,0:13:50.14,Default,,0000,0000,0000,,I wonder, what kind\Nof trick Kakashi used…?
+Dialogue: 0,0:13:51.74,0:13:52.58,Default,,0000,0000,0000,,Still…
+Dialogue: 0,0:14:01.42,0:14:01.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:10.66,0:14:12.80,Default,,0000,0000,0000,,As for the development of\Nmy Kiba and Akamaru,
+Dialogue: 0,0:14:12.83,0:14:14.16,Default,,0000,0000,0000,,it's probably more than Naruto.
+Dialogue: 0,0:14:16.60,0:14:21.57,Default,,0000,0000,0000,,Naruto…I’ll take Akamaru... back!
+Dialogue: 0,0:14:38.96,0:14:40.22,Default,,0000,0000,0000,,W-What's this?!
+Dialogue: 0,0:14:40.42,0:14:43.99,Default,,0000,0000,0000,,What did you feed him?\NHis fur turned red!
+Dialogue: 0,0:14:44.26,0:14:46.90,Default,,0000,0000,0000,,That’s why he’s called “Akamaru”, red boy.
+Dialogue: 0,0:14:48.60,0:14:49.67,Default,,0000,0000,0000,,Food Pills huh…?
+Dialogue: 0,0:14:50.80,0:14:51.84,Default,,0000,0000,0000,,That Kiba…
+Dialogue: 0,0:14:52.60,0:14:54.37,Default,,0000,0000,0000,,He intends to end it with this.
+Dialogue: 0,0:14:54.71,0:14:55.97,Default,,0000,0000,0000,,Here we go, Akamaru!
+Dialogue: 0,0:14:58.51,0:14:59.61,Default,,0000,0000,0000,,Ninja Art of Beast Mimicry…!
+Dialogue: 0,0:15:10.92,0:15:12.39,Default,,0000,0000,0000,,Man Beast Clones!
+Dialogue: 0,0:15:16.46,0:15:18.60,Default,,0000,0000,0000,,T-There’s something wrong\Nwith their eyes!
+Dialogue: 0,0:15:18.80,0:15:20.60,Default,,0000,0000,0000,,He’s using some weird drug!
+Dialogue: 0,0:15:21.03,0:15:22.60,Default,,0000,0000,0000,,Isn’t this doping?
+Dialogue: 0,0:15:22.60,0:15:23.60,Default,,0000,0000,0000,,Is this okay?!
+Dialogue: 0,0:15:23.83,0:15:27.24,Default,,0000,0000,0000,,Yes. Food Pills are one of Ninja Tools.
+Dialogue: 0,0:15:28.64,0:15:30.47,Default,,0000,0000,0000,,You, that’s all you say!
+Dialogue: 0,0:15:31.01,0:15:32.01,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:32.38,0:15:34.14,Default,,0000,0000,0000,,What did that guy eat?
+Dialogue: 0,0:15:34.58,0:15:35.65,Default,,0000,0000,0000,,It’s Food Pills.
+Dialogue: 0,0:15:36.25,0:15:37.68,Default,,0000,0000,0000,,F-Food Pills?
+Dialogue: 0,0:15:38.58,0:15:41.22,Default,,0000,0000,0000,,Food Pills are a secret medicine\Nthat people in the military take
+Dialogue: 0,0:15:41.25,0:15:45.26,Default,,0000,0000,0000,,and fight for three days and\Nthree nights without a break…
+Dialogue: 0,0:15:45.79,0:15:47.66,Default,,0000,0000,0000,,They’re high in protein,\Neasily absorbed and
+Dialogue: 0,0:15:47.72,0:15:52.60,Default,,0000,0000,0000,,have some types of component\Nthat influence agitation or sedation…
+Dialogue: 0,0:15:55.63,0:16:00.17,Default,,0000,0000,0000,,Kiba and Akamaru’s Chakra must\Nbe doubled right now…
+Dialogue: 0,0:16:00.57,0:16:02.01,Default,,0000,0000,0000,,It’s over with this…
+Dialogue: 0,0:16:02.54,0:16:03.24,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:16:03.64,0:16:04.81,Default,,0000,0000,0000,,All-Four...
+Dialogue: 0,0:16:05.51,0:16:07.01,Default,,0000,0000,0000,,Jutsu!
+Dialogue: 0,0:16:28.70,0:16:29.90,Default,,0000,0000,0000,,N-Naruto!
+Dialogue: 0,0:16:31.50,0:16:33.94,Default,,0000,0000,0000,,That Naruto is in danger!
+Dialogue: 0,0:16:35.61,0:16:38.14,Default,,0000,0000,0000,,Kiba’s the gung-ho fighter type\Nwho will attack
+Dialogue: 0,0:16:38.18,0:16:41.18,Default,,0000,0000,0000,,like a beast with Chakra wired\Nthroughout his body.
+Dialogue: 0,0:16:42.48,0:16:45.15,Default,,0000,0000,0000,,And the Food Pills that double one’s\NChakra are quite simply…
+Dialogue: 0,0:16:45.58,0:16:47.88,Default,,0000,0000,0000,,the perfect pill for Kiba.
+Dialogue: 0,0:16:49.72,0:16:50.75,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:16:53.79,0:16:54.59,Default,,0000,0000,0000,,This isn’t good…
+Dialogue: 0,0:16:54.99,0:16:56.36,Default,,0000,0000,0000,,There’s no way to counterattack…
+Dialogue: 0,0:16:56.59,0:16:59.00,Default,,0000,0000,0000,,All I can do is gather all\Nthe Chakra in my legs
+Dialogue: 0,0:16:59.03,0:17:00.66,Default,,0000,0000,0000,,and do my best to escape…!
+Dialogue: 0,0:17:01.03,0:17:01.83,Default,,0000,0000,0000,,At this rate…
+Dialogue: 0,0:17:07.57,0:17:08.34,Default,,0000,0000,0000,,Here’s my chance!
+Dialogue: 0,0:17:09.57,0:17:10.31,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:17:10.34,0:17:12.11,Default,,0000,0000,0000,,Man Beast Taijutsu Ultimate Technique!
+Dialogue: 0,0:17:16.25,0:17:18.02,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:17:33.43,0:17:36.00,Default,,0000,0000,0000,,This is the difference in\Nour true powers.
+Dialogue: 0,0:17:44.71,0:17:45.88,Default,,0000,0000,0000,,I'm going...
+Dialogue: 0,0:17:47.54,0:17:48.58,Default,,0000,0000,0000,,to become the Hokage.
+Dialogue: 0,0:17:50.05,0:17:52.08,Default,,0000,0000,0000,,I can’t lose here...!
+Dialogue: 0,0:17:53.28,0:17:54.79,Default,,0000,0000,0000,,You? Hokage?!
+Dialogue: 0,0:17:55.02,0:17:56.85,Default,,0000,0000,0000,,When you’re weaker than me?
+Dialogue: 0,0:17:58.69,0:18:02.59,Default,,0000,0000,0000,,I’ll become Hokage for you!
+Dialogue: 0,0:18:15.31,0:18:19.41,Default,,0000,0000,0000,,You know deep down inside\Nthat you can’t become the Hokage.
+Dialogue: 0,0:18:20.01,0:18:21.51,Default,,0000,0000,0000,,So quit acting tough!
+Dialogue: 0,0:18:26.58,0:18:27.72,Default,,0000,0000,0000,,You’re wrong, Kiba…
+Dialogue: 0,0:18:30.22,0:18:31.19,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:18:32.59,0:18:33.72,Default,,0000,0000,0000,,He’s not that weak…
+Dialogue: 0,0:18:35.59,0:18:40.70,Default,,0000,0000,0000,,I’ll receive the name...\Nof Lord Hokage!
+Dialogue: 0,0:18:43.60,0:18:46.54,Default,,0000,0000,0000,,All of you, just watch!
+Dialogue: 0,0:18:47.44,0:18:49.94,Default,,0000,0000,0000,,Naruto, unlike me...
+Dialogue: 0,0:18:50.67,0:18:52.64,Default,,0000,0000,0000,,he has always believed in his own worth.
+Dialogue: 0,0:19:04.89,0:19:07.36,Default,,0000,0000,0000,,I thought it was really amazing…
+Dialogue: 0,0:19:08.36,0:19:10.76,Default,,0000,0000,0000,,It must have been really hard…
+Dialogue: 0,0:19:18.44,0:19:20.57,Default,,0000,0000,0000,,I understand that.
+Dialogue: 0,0:19:22.04,0:19:24.84,Default,,0000,0000,0000,,And yet before not even one person…
+Dialogue: 0,0:19:29.38,0:19:31.55,Default,,0000,0000,0000,,tried to see Naruto.
+Dialogue: 0,0:19:37.55,0:19:38.96,Default,,0000,0000,0000,,Hey, that’s the kid…
+Dialogue: 0,0:19:39.79,0:19:43.56,Default,,0000,0000,0000,,I heard he’s the only one...\Nwho failed.
+Dialogue: 0,0:19:43.96,0:19:45.66,Default,,0000,0000,0000,,Humph! Serves him right!
+Dialogue: 0,0:19:46.26,0:19:48.70,Default,,0000,0000,0000,,It’s trouble if a kid like that\Nbecomes a Ninja.
+Dialogue: 0,0:19:49.20,0:19:50.60,Default,,0000,0000,0000,,After all, that kid is really…
+Dialogue: 0,0:19:50.60,0:19:52.87,Default,,0000,0000,0000,,Stop! Anything further is taboo.
+Dialogue: 0,0:19:55.81,0:19:58.58,Default,,0000,0000,0000,,Nobody tried to acknowledge\Nreal Naruto.
+Dialogue: 0,0:20:07.02,0:20:08.52,Default,,0000,0000,0000,,Clone Jutsu!
+Dialogue: 0,0:20:21.70,0:20:22.70,Default,,0000,0000,0000,,But now…
+Dialogue: 0,0:20:26.57,0:20:27.57,Default,,0000,0000,0000,,Everyone’s watching…
+Dialogue: 0,0:20:35.91,0:20:37.21,Default,,0000,0000,0000,,Stand up! Naruto!
+Dialogue: 0,0:20:43.79,0:20:45.36,Default,,0000,0000,0000,,Everyone is acknowledging him!
+Dialogue: 0,0:21:00.04,0:21:03.57,Default,,0000,0000,0000,,If you compete with me for\Nthe name of Hokage…
+Dialogue: 0,0:21:05.58,0:21:09.01,Default,,0000,0000,0000,,You…will be the loser!
+Dialogue: 0,0:21:21.09,0:21:25.60,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:25.60,0:21:34.04,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:35.01,0:21:43.65,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:44.08,0:21:51.92,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:53.22,0:21:58.60,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:58.60,0:22:02.70,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:02.77,0:22:06.50,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:06.64,0:22:15.35,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:15.58,0:22:20.68,Default,,0000,0000,0000,,when you want to cry,\Nand you want to run away
+Dialogue: 0,0:22:20.72,0:22:25.26,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:25.29,0:22:29.06,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:29.29,0:22:34.53,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:34.60,0:22:36.63,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:36.70,0:22:43.11,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:43.57,0:22:48.58,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:53.95,0:22:56.42,Default,,0000,0000,0000,,That Kiba, he sure is stupid.
+Dialogue: 0,0:22:56.45,0:22:58.62,Default,,0000,0000,0000,,Think hard about your Jutsu\Nwhen you use them.
+Dialogue: 0,0:22:58.76,0:23:01.79,Default,,0000,0000,0000,,Otherwise, your opponents\Nwill take advantage of the Jutsu.
+Dialogue: 0,0:23:01.89,0:23:05.60,Default,,0000,0000,0000,,Well, the outcome of you and me\Ncould be seen from the beginning.
+Dialogue: 0,0:23:05.66,0:23:08.10,Default,,0000,0000,0000,,The way you’ve torn me apart\Nup until now,
+Dialogue: 0,0:23:08.16,0:23:10.60,Default,,0000,0000,0000,,I’ll give it back all at once!
+Dialogue: 0,0:23:11.33,0:23:15.54,Default,,0000,0000,0000,,Next episode: “Surprise Attack!\NNaruto’s Secret Weapon!"
+Dialogue: 0,0:23:15.57,0:23:18.14,Default,,0000,0000,0000,,This is the trick I’ve been saving up!

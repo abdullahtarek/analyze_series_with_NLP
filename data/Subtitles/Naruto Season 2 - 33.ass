@@ -1,0 +1,319 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.62,0:00:09.29,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.32,0:00:13.19,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.22,0:00:17.26,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.63,0:00:20.06,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.10,0:00:24.24,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.27,0:00:28.27,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.67,0:00:34.51,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.11,0:00:38.12,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.62,0:00:42.69,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.39,0:00:44.69,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.96,0:00:47.69,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.70,0:01:01.04,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.24,0:01:02.47,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.54,0:01:06.31,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.68,0:01:11.75,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:12.02,0:01:13.48,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.52,0:01:14.82,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.85,0:01:21.23,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:57.06,0:02:00.23,Default,,0000,0000,0000,,Where is... this place...?
+Dialogue: 0,0:02:09.67,0:02:10.68,Default,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:02:14.95,0:02:17.95,Default,,0000,0000,0000,,Me... 					from long ago?
+Dialogue: 0,0:02:19.48,0:02:23.02,Default,,0000,0000,0000,,Father and mother didn’t need to die!
+Dialogue: 0,0:02:30.70,0:02:32.00,Default,,0000,0000,0000,,Everyone was killed.
+Dialogue: 0,0:02:34.00,0:02:36.43,Default,,0000,0000,0000,,I had no power so...
+Dialogue: 0,0:02:37.90,0:02:40.10,Default,,0000,0000,0000,,the clan vanished.
+Dialogue: 0,0:02:53.18,0:02:58.36,Default,,0000,0000,0000,,Battle Formation: Ino-Shika-Cho!
+Dialogue: 0,0:03:07.13,0:03:09.73,Default,,0000,0000,0000,,Ino... Why?
+Dialogue: 0,0:03:10.90,0:03:14.94,Default,,0000,0000,0000,,I can’t let you upstage me\Nin front of Sasuke!
+Dialogue: 0,0:03:15.67,0:03:17.41,Default,,0000,0000,0000,,Squirming again...
+Dialogue: 0,0:03:18.44,0:03:21.88,Default,,0000,0000,0000,,The Leaf Village worms wandered in.
+Dialogue: 0,0:03:23.45,0:03:25.48,Default,,0000,0000,0000,,What are the two of you thinking?!
+Dialogue: 0,0:03:25.75,0:03:27.69,Default,,0000,0000,0000,,They’re bad news!
+Dialogue: 0,0:03:27.69,0:03:29.72,Default,,0000,0000,0000,,It’s a pain, but it can’t be helped!
+Dialogue: 0,0:03:29.89,0:03:33.59,Default,,0000,0000,0000,,Ino steps out and\Nwe men should run?
+Dialogue: 0,0:03:35.69,0:03:37.70,Default,,0000,0000,0000,,Sorry to get you involved.
+Dialogue: 0,0:03:37.86,0:03:40.00,Default,,0000,0000,0000,,But anyway we’re\Na Three-Man Squad, after all.
+Dialogue: 0,0:03:40.03,0:03:42.00,Default,,0000,0000,0000,,We’re all in this together, aren’t we?
+Dialogue: 0,0:03:42.23,0:03:44.40,Default,,0000,0000,0000,,Well, we’ll see.
+Dialogue: 0,0:03:44.87,0:03:47.77,Default,,0000,0000,0000,,No! I don’t want to die yet!
+Dialogue: 0,0:03:47.81,0:03:49.24,Default,,0000,0000,0000,,Let go of my scarf!
+Dialogue: 0,0:03:49.27,0:03:51.61,Default,,0000,0000,0000,,You’re annoying! Quit wiggling!
+Dialogue: 0,0:03:52.98,0:03:56.81,Default,,0000,0000,0000,,It’s okay for you to drop out, fatso.
+Dialogue: 0,0:03:58.35,0:04:01.29,Default,,0000,0000,0000,,What did that guy just say?
+Dialogue: 0,0:04:01.85,0:04:04.69,Default,,0000,0000,0000,,I....didn’t quite catch it.
+Dialogue: 0,0:04:04.86,0:04:05.69,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:06.59,0:04:08.89,Default,,0000,0000,0000,,That word is taboo to Choji.
+Dialogue: 0,0:04:09.66,0:04:11.70,Default,,0000,0000,0000,,Try saying it again...
+Dialogue: 0,0:04:11.93,0:04:16.13,Default,,0000,0000,0000,,I said if you have a problem,\Npull out, fatso.
+Dialogue: 0,0:04:16.20,0:04:19.64,Default,,0000,0000,0000,,Fatso... fatso... fatso... fatso... fatso
+Dialogue: 0,0:04:22.94,0:04:26.64,Default,,0000,0000,0000,,I’m not fat, I’m just big-boned!\NBlast it!
+Dialogue: 0,0:04:31.45,0:04:33.65,Default,,0000,0000,0000,,Hurraaaay for Big-Boned!
+Dialogue: 0,0:04:35.22,0:04:36.82,Default,,0000,0000,0000,,W-Wow...
+Dialogue: 0,0:04:37.49,0:04:39.89,Default,,0000,0000,0000,,All right! You understand this, right?!
+Dialogue: 0,0:04:40.16,0:04:42.76,Default,,0000,0000,0000,,This is a battle between Leaf and Sound!
+Dialogue: 0,0:04:44.83,0:04:46.36,Default,,0000,0000,0000,,Lucky! He’s lost it!
+Dialogue: 0,0:04:46.90,0:04:49.77,Default,,0000,0000,0000,,No way, this looks like it’s going\Nto be a pain in the butt.
+Dialogue: 0,0:04:50.67,0:04:52.54,Default,,0000,0000,0000,,That’s my line.
+Dialogue: 0,0:04:53.60,0:04:56.81,Default,,0000,0000,0000,,I was told to get Sasuke\Nby the end of the test...
+Dialogue: 0,0:04:59.21,0:05:00.48,Default,,0000,0000,0000,,Sasuke...
+Dialogue: 0,0:05:00.61,0:05:01.48,Default,,0000,0000,0000,,Sakura...
+Dialogue: 0,0:05:03.75,0:05:06.55,Default,,0000,0000,0000,,The two behind...\Ntake care of them.
+Dialogue: 0,0:05:10.39,0:05:11.02,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:11.49,0:05:14.59,Default,,0000,0000,0000,,Well then, Team Ino,\Nlet’s go full throttle!
+Dialogue: 0,0:05:14.83,0:05:15.76,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:05:16.59,0:05:18.10,Default,,0000,0000,0000,,Formation Ino!
+Dialogue: 0,0:05:18.13,0:05:19.70,Default,,0000,0000,0000,,– Shika! 					– Cho!
+Dialogue: 0,0:05:21.63,0:05:23.67,Default,,0000,0000,0000,,I’m counting on you, Choji
+Dialogue: 0,0:05:23.73,0:05:24.80,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:25.07,0:05:26.04,Default,,0000,0000,0000,,Expansion Jutsu!
+Dialogue: 0,0:05:27.54,0:05:29.67,Default,,0000,0000,0000,,Next, Leaf Style Taijutsu!
+Dialogue: 0,0:05:35.68,0:05:37.48,Default,,0000,0000,0000,,Human Boulder!
+Dialogue: 0,0:05:40.35,0:05:41.69,Default,,0000,0000,0000,,What is this Jutsu?
+Dialogue: 0,0:05:41.69,0:05:43.95,Default,,0000,0000,0000,,Isn’t it just a fat guy rolling?
+Dialogue: 0,0:05:44.69,0:05:46.39,Default,,0000,0000,0000,,Slicing Sound Wave!
+Dialogue: 0,0:05:58.54,0:05:59.47,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:06:07.78,0:06:08.68,Default,,0000,0000,0000,,He jumped?!
+Dialogue: 0,0:06:10.65,0:06:12.12,Default,,0000,0000,0000,,The air pressure of\NSlicing Sound Wave
+Dialogue: 0,0:06:12.15,0:06:14.05,Default,,0000,0000,0000,,is less than effective\Nagainst that rotation.
+Dialogue: 0,0:06:14.35,0:06:18.46,Default,,0000,0000,0000,,Even if I do the Super Sound Wave,\Nif I’m touched by something like that
+Dialogue: 0,0:06:18.49,0:06:20.56,Default,,0000,0000,0000,,the bones in my arms will be crushed!
+Dialogue: 0,0:06:26.70,0:06:27.70,Default,,0000,0000,0000,,Think I’ll let you?!
+Dialogue: 0,0:06:27.70,0:06:30.27,Default,,0000,0000,0000,,You’re the most annoying so...
+Dialogue: 0,0:06:30.67,0:06:31.67,Default,,0000,0000,0000,,Ninja Art!
+Dialogue: 0,0:06:31.77,0:06:33.24,Default,,0000,0000,0000,,Shadow Possession Jutsu!
+Dialogue: 0,0:06:37.81,0:06:39.14,Default,,0000,0000,0000,,My body!
+Dialogue: 0,0:06:39.21,0:06:39.84,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:50.96,0:06:51.69,Default,,0000,0000,0000,,Dosu?!
+Dialogue: 0,0:06:51.69,0:06:53.69,Default,,0000,0000,0000,,What are you doing at a time like this?!
+Dialogue: 0,0:06:59.23,0:07:01.13,Default,,0000,0000,0000,,Shadow Paralysis Jutsu?
+Dialogue: 0,0:07:02.70,0:07:04.97,Default,,0000,0000,0000,,Ino, next it’s just the ladies.
+Dialogue: 0,0:07:05.04,0:07:09.04,Default,,0000,0000,0000,,Okay, Shikamaru, look after my body.
+Dialogue: 0,0:07:09.14,0:07:10.07,Default,,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:07:10.11,0:07:10.81,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:11.51,0:07:13.78,Default,,0000,0000,0000,,Ninja Art, Mind Transfer Jutsu!
+Dialogue: 0,0:07:24.52,0:07:25.22,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:07:26.89,0:07:27.76,Default,,0000,0000,0000,,Kin!
+Dialogue: 0,0:07:31.20,0:07:32.43,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:07:37.67,0:07:39.04,Default,,0000,0000,0000,,This... is the end of it.
+Dialogue: 0,0:07:40.34,0:07:41.31,Default,,0000,0000,0000,,You guys!
+Dialogue: 0,0:07:41.34,0:07:44.68,Default,,0000,0000,0000,,If you make one move,\N this girl named Kin is dead meat!
+Dialogue: 0,0:07:45.01,0:07:46.78,Default,,0000,0000,0000,,If you don’t want this\Nto end right here,
+Dialogue: 0,0:07:46.81,0:07:49.31,Default,,0000,0000,0000,,leave your scroll and walk away!
+Dialogue: 0,0:07:49.68,0:07:52.78,Default,,0000,0000,0000,,Once you’ve gone far enough that\NI can’t feel your Chakras,
+Dialogue: 0,0:07:52.82,0:07:55.12,Default,,0000,0000,0000,,I’ll release this girl!
+Dialogue: 0,0:07:55.99,0:07:58.66,Default,,0000,0000,0000,,These guys...\NWhat are they grinning about?
+Dialogue: 0,0:07:59.49,0:08:01.26,Default,,0000,0000,0000,,– Choji! 					– Yeah!
+Dialogue: 0,0:08:01.59,0:08:03.19,Default,,0000,0000,0000,,This isn’t good! They won’t...!
+Dialogue: 0,0:08:09.57,0:08:10.47,Default,,0000,0000,0000,,Ino!
+Dialogue: 0,0:08:11.30,0:08:13.84,Default,,0000,0000,0000,,Uggghh. I’m dizzy.
+Dialogue: 0,0:08:16.54,0:08:20.81,Default,,0000,0000,0000,,W-What kind of person...\Nhurts their own comrades?
+Dialogue: 0,0:08:23.35,0:08:24.68,Default,,0000,0000,0000,,Careless.
+Dialogue: 0,0:08:25.05,0:08:32.19,Default,,0000,0000,0000,,Our goal is not the scrolls or\Nto pass this test playing by the rules.
+Dialogue: 0,0:08:33.32,0:08:34.23,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:34.69,0:08:35.99,Default,,0000,0000,0000,,It’s Sasuke.
+Dialogue: 0,0:08:44.37,0:08:45.44,Default,,0000,0000,0000,,Humph...
+Dialogue: 0,0:08:46.67,0:08:47.97,Default,,0000,0000,0000,,My Jutsu...
+Dialogue: 0,0:08:48.31,0:08:50.71,Default,,0000,0000,0000,,So your much precious\NShadow Paralysis Jutsu
+Dialogue: 0,0:08:50.74,0:08:52.98,Default,,0000,0000,0000,,is limited to 5 minutes?
+Dialogue: 0,0:08:53.08,0:08:56.35,Default,,0000,0000,0000,,It’s not Shadow Paralysis.\Nlt’s Shadow Possession Jutsu.
+Dialogue: 0,0:08:57.35,0:08:59.52,Default,,0000,0000,0000,,In addition, it seems that\Nthis girl’s Jutsu...
+Dialogue: 0,0:08:59.68,0:09:05.09,Default,,0000,0000,0000,,seems to be a Jutsu to\Ntake over the other’s body.
+Dialogue: 0,0:09:05.69,0:09:07.59,Default,,0000,0000,0000,,From the looks of the blood\Nshe’s spitting up,
+Dialogue: 0,0:09:07.66,0:09:11.26,Default,,0000,0000,0000,,if I kill Kin, that girl will die too...
+Dialogue: 0,0:09:11.70,0:09:14.06,Default,,0000,0000,0000,,Are you going to do in...\Nyour teammate?
+Dialogue: 0,0:09:14.90,0:09:16.93,Default,,0000,0000,0000,,If I need to...
+Dialogue: 0,0:09:22.54,0:09:23.91,Default,,0000,0000,0000,,This is no good.
+Dialogue: 0,0:09:24.24,0:09:25.48,Default,,0000,0000,0000,,Shoot...
+Dialogue: 0,0:09:26.31,0:09:30.68,Default,,0000,0000,0000,,That’s too bad...\Nyou’re just a step away.
+Dialogue: 0,0:09:30.98,0:09:32.68,Default,,0000,0000,0000,,You’re too easy-going.
+Dialogue: 0,0:09:33.48,0:09:35.62,Default,,0000,0000,0000,,Hmph, I don’t like this at all.
+Dialogue: 0,0:09:35.69,0:09:39.06,Default,,0000,0000,0000,,You minor Sound Ninjas...
+Dialogue: 0,0:09:39.39,0:09:42.99,Default,,0000,0000,0000,,Bullying the second-rate guys and\Nputting on airs like a winner.
+Dialogue: 0,0:09:43.39,0:09:44.09,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:48.13,0:09:50.67,Default,,0000,0000,0000,,They're Lee’s teammates...
+Dialogue: 0,0:09:54.34,0:09:55.14,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:09:55.67,0:09:56.71,Default,,0000,0000,0000,,You goofed.
+Dialogue: 0,0:09:57.47,0:10:01.58,Default,,0000,0000,0000,,Hah! Coming out of nowhere\Nlike cockroaches...
+Dialogue: 0,0:10:02.35,0:10:06.02,Default,,0000,0000,0000,,That kid with the bob lying over there\Nis on our team, but...
+Dialogue: 0,0:10:07.35,0:10:08.89,Default,,0000,0000,0000,,But you messed with him, didn’t you?!.
+Dialogue: 0,0:10:17.63,0:10:19.70,Default,,0000,0000,0000,,What’s with his eyes?
+Dialogue: 0,0:10:20.50,0:10:23.40,Default,,0000,0000,0000,,It’s like they see through everything...
+Dialogue: 0,0:10:24.23,0:10:27.57,Default,,0000,0000,0000,,If you’re gonna continue,\N I’ll fight with full strength!
+Dialogue: 0,0:10:29.04,0:10:29.67,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:30.41,0:10:31.91,Default,,0000,0000,0000,,What ‘s wrong? Neji...
+Dialogue: 0,0:10:32.68,0:10:34.01,Default,,0000,0000,0000,,This Chakra...
+Dialogue: 0,0:10:35.81,0:10:39.98,Default,,0000,0000,0000,,If you don’t like me,\Ndon’t play cool, come down here.
+Dialogue: 0,0:10:40.55,0:10:44.29,Default,,0000,0000,0000,,No. Evidently, there’s no need for that.
+Dialogue: 0,0:11:06.68,0:11:07.68,Default,,0000,0000,0000,,After all...
+Dialogue: 0,0:11:08.68,0:11:10.31,Default,,0000,0000,0000,,without power...
+Dialogue: 0,0:11:10.85,0:11:12.68,Default,,0000,0000,0000,,I can’t do anything!
+Dialogue: 0,0:11:14.72,0:11:20.02,Default,,0000,0000,0000,,Because I had no power...\NEveryone was killed!
+Dialogue: 0,0:11:23.06,0:11:26.23,Default,,0000,0000,0000,,No...\NYou let them be killed.
+Dialogue: 0,0:11:28.40,0:11:31.60,Default,,0000,0000,0000,,You only... watched.
+Dialogue: 0,0:11:32.67,0:11:34.30,Default,,0000,0000,0000,,If only I had power...
+Dialogue: 0,0:11:35.84,0:11:37.61,Default,,0000,0000,0000,,If only I had power...
+Dialogue: 0,0:11:48.69,0:11:51.29,Default,,0000,0000,0000,,Sasuke! You’re awake...\NHuh?!
+Dialogue: 0,0:11:54.69,0:11:55.56,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:00.93,0:12:01.93,Default,,0000,0000,0000,,That’s...
+Dialogue: 0,0:12:02.80,0:12:03.80,Default,,0000,0000,0000,,Sasuke?
+Dialogue: 0,0:12:19.68,0:12:20.65,Default,,0000,0000,0000,,Sakura...
+Dialogue: 0,0:12:42.61,0:12:43.74,Default,,0000,0000,0000,,Sakura...
+Dialogue: 0,0:12:44.64,0:12:47.28,Default,,0000,0000,0000,,Who did this to you?
+Dialogue: 0,0:12:48.75,0:12:50.01,Default,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:12:50.51,0:12:53.78,Default,,0000,0000,0000,,The Curse Marks run\Naround his entire body?!
+Dialogue: 0,0:12:55.02,0:12:57.86,Default,,0000,0000,0000,,Sasuke... 					That body...?
+Dialogue: 0,0:13:11.97,0:13:12.87,Default,,0000,0000,0000,,Don’t worry.
+Dialogue: 0,0:13:13.27,0:13:16.64,Default,,0000,0000,0000,,On the contrary,\Nstrength is rapidly flowing in...
+Dialogue: 0,0:13:17.74,0:13:19.24,Default,,0000,0000,0000,,Right now I feel good.
+Dialogue: 0,0:13:20.64,0:13:21.98,Default,,0000,0000,0000,,That guy gave this to me.
+Dialogue: 0,0:13:22.51,0:13:23.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:23.68,0:13:25.68,Default,,0000,0000,0000,,At last I understand...
+Dialogue: 0,0:13:26.85,0:13:28.65,Default,,0000,0000,0000,,I’m an Avenger...
+Dialogue: 0,0:13:29.52,0:13:32.22,Default,,0000,0000,0000,,On my road, I must put power\Ninto my hands...
+Dialogue: 0,0:13:32.69,0:13:35.53,Default,,0000,0000,0000,,even if it means abandoning\Nmyself to the devil.
+Dialogue: 0,0:13:41.03,0:13:43.60,Default,,0000,0000,0000,,So... I see...
+Dialogue: 0,0:13:43.93,0:13:47.64,Default,,0000,0000,0000,,So the mark on the neck\Nthat this girl called Sakura spoke of
+Dialogue: 0,0:13:47.67,0:13:49.71,Default,,0000,0000,0000,,is this Curse Mark.
+Dialogue: 0,0:13:50.67,0:13:51.68,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:51.98,0:13:54.38,Default,,0000,0000,0000,,I didn’t think he could stand up...
+Dialogue: 0,0:13:54.85,0:13:56.78,Default,,0000,0000,0000,,Sakura, tell me...
+Dialogue: 0,0:13:57.08,0:13:59.65,Default,,0000,0000,0000,,Who harmed you...?
+Dialogue: 0,0:14:00.55,0:14:01.62,Default,,0000,0000,0000,,Me!
+Dialogue: 0,0:14:07.36,0:14:07.96,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:07.99,0:14:08.96,Default,,0000,0000,0000,,Ino!
+Dialogue: 0,0:14:09.69,0:14:11.60,Default,,0000,0000,0000,,If you stay like that\Nyou’re gonna get involved!
+Dialogue: 0,0:14:11.70,0:14:13.36,Default,,0000,0000,0000,,Come back to this body!
+Dialogue: 0,0:14:13.70,0:14:15.73,Default,,0000,0000,0000,,Choji, you too,\Ncome over here and hide.
+Dialogue: 0,0:14:15.87,0:14:17.27,Default,,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:14:17.67,0:14:18.80,Default,,0000,0000,0000,,Uh-oh.
+Dialogue: 0,0:14:19.54,0:14:20.67,Default,,0000,0000,0000,,Release!
+Dialogue: 0,0:14:23.47,0:14:25.21,Default,,0000,0000,0000,,Okay, she’s back!
+Dialogue: 0,0:14:25.41,0:14:26.64,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:14:26.68,0:14:28.98,Default,,0000,0000,0000,,What’s going to happen now?
+Dialogue: 0,0:14:29.01,0:14:30.65,Default,,0000,0000,0000,,How should I know?
+Dialogue: 0,0:14:44.70,0:14:45.83,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:14:45.86,0:14:48.53,Default,,0000,0000,0000,,W-What’s this...?
+Dialogue: 0,0:14:56.67,0:14:58.28,Default,,0000,0000,0000,,No matter...
+Dialogue: 0,0:14:59.48,0:15:00.78,Default,,0000,0000,0000,,how you look at it....
+Dialogue: 0,0:15:02.38,0:15:03.61,Default,,0000,0000,0000,,his Chakras are...
+Dialogue: 0,0:15:04.68,0:15:05.78,Default,,0000,0000,0000,,too big!
+Dialogue: 0,0:15:07.05,0:15:10.32,Default,,0000,0000,0000,,Dosu, this half-dead bastard\Nis nothing to be scared of!
+Dialogue: 0,0:15:10.69,0:15:12.89,Default,,0000,0000,0000,,Stop, Zaku! Don’t you understand?!
+Dialogue: 0,0:15:13.69,0:15:15.86,Default,,0000,0000,0000,,I’ll take care of all of them...
+Dialogue: 0,0:15:16.39,0:15:17.73,Default,,0000,0000,0000,,in one fell swoop!
+Dialogue: 0,0:15:18.83,0:15:20.70,Default,,0000,0000,0000,,Super Sonic Slicing Wave!
+Dialogue: 0,0:15:37.68,0:15:40.12,Default,,0000,0000,0000,,Heh! He must have been blown to pieces.
+Dialogue: 0,0:15:40.25,0:15:41.65,Default,,0000,0000,0000,,– Who did? 					– Huh?!
+Dialogue: 0,0:15:46.06,0:15:46.96,Default,,0000,0000,0000,,Zaku!
+Dialogue: 0,0:15:51.09,0:15:51.83,Default,,0000,0000,0000,,He’s fast!
+Dialogue: 0,0:15:52.26,0:15:55.70,Default,,0000,0000,0000,,Moreover, he took in those two,\Nand in the blink of an eye.
+Dialogue: 0,0:15:58.87,0:15:59.80,Default,,0000,0000,0000,,Fire Style!
+Dialogue: 0,0:15:59.87,0:16:01.27,Default,,0000,0000,0000,,Phoenix Flower Jutsu!
+Dialogue: 0,0:16:02.31,0:16:03.24,Default,,0000,0000,0000,,Don’t push your luck!
+Dialogue: 0,0:16:03.27,0:16:04.78,Default,,0000,0000,0000,,I’ll blow them off!
+Dialogue: 0,0:16:06.78,0:16:07.68,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:08.51,0:16:09.68,Default,,0000,0000,0000,,Shuriken’s in the fire?!
+Dialogue: 0,0:16:12.12,0:16:13.62,Default,,0000,0000,0000,,Zaku, below you!
+Dialogue: 0,0:16:24.70,0:16:26.70,Default,,0000,0000,0000,,The quality of the Chakra\N is completely different...
+Dialogue: 0,0:16:27.93,0:16:29.77,Default,,0000,0000,0000,,Is that really Sasuke?
+Dialogue: 0,0:16:30.53,0:16:32.67,Default,,0000,0000,0000,,What happened?\NWhat in the world...?
+Dialogue: 0,0:16:36.31,0:16:38.28,Default,,0000,0000,0000,,It seems like you’re\Nproud of your arms...
+Dialogue: 0,0:16:38.68,0:16:39.58,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:16:42.28,0:16:44.38,Default,,0000,0000,0000,,S-Stop it!
+Dialogue: 0,0:16:47.78,0:16:51.52,Default,,0000,0000,0000,,Sasuke will definitely come for me.
+Dialogue: 0,0:17:14.24,0:17:16.51,Default,,0000,0000,0000,,You’re the only one left.
+Dialogue: 0,0:17:18.15,0:17:19.38,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:17:19.45,0:17:21.69,Default,,0000,0000,0000,,make it a little more fun for me.
+Dialogue: 0,0:17:30.69,0:17:31.56,Default,,0000,0000,0000,,This isn’t...
+Dialogue: 0,0:17:38.14,0:17:39.24,Default,,0000,0000,0000,,This isn’t...
+Dialogue: 0,0:17:45.31,0:17:46.58,Default,,0000,0000,0000,,This is not like...
+Dialogue: 0,0:17:47.61,0:17:48.98,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:17:56.39,0:17:58.69,Default,,0000,0000,0000,,S-Stop!!
+Dialogue: 0,0:18:02.86,0:18:03.96,Default,,0000,0000,0000,,Stop it.
+Dialogue: 0,0:18:14.54,0:18:15.61,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:18:19.21,0:18:20.11,Default,,0000,0000,0000,,Stop.
+Dialogue: 0,0:18:39.70,0:18:41.63,Default,,0000,0000,0000,,The Curse Mark is withdrawing...
+Dialogue: 0,0:18:42.07,0:18:43.90,Default,,0000,0000,0000,,We’re saved for now.
+Dialogue: 0,0:18:44.77,0:18:45.67,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:18:51.41,0:18:53.31,Default,,0000,0000,0000,,You’re strong.
+Dialogue: 0,0:18:56.31,0:19:01.69,Default,,0000,0000,0000,,Sasuke... We can’t defeat you\Nthe way you are now.
+Dialogue: 0,0:19:03.65,0:19:05.16,Default,,0000,0000,0000,,This is our fee for settling this...
+Dialogue: 0,0:19:05.69,0:19:07.76,Default,,0000,0000,0000,,Please let us withdraw from here.
+Dialogue: 0,0:19:07.96,0:19:08.69,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:15.00,0:19:20.57,Default,,0000,0000,0000,,It seems selfish, but we now have\Nsomething we need to confirm, too.
+Dialogue: 0,0:19:22.47,0:19:25.01,Default,,0000,0000,0000,,That being said,\Nlet’s make a promise.
+Dialogue: 0,0:19:25.11,0:19:29.35,Default,,0000,0000,0000,,If there’s another opportunity to\Nbattle with you in this test,
+Dialogue: 0,0:19:29.68,0:19:32.38,Default,,0000,0000,0000,,we won’t run or hide.
+Dialogue: 0,0:19:38.69,0:19:39.86,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:19:41.69,0:19:43.96,Default,,0000,0000,0000,,Who in the world is Orochimaru?
+Dialogue: 0,0:19:43.99,0:19:45.76,Default,,0000,0000,0000,,What did he do to Sasuke?!
+Dialogue: 0,0:19:46.10,0:19:47.70,Default,,0000,0000,0000,,Why Sasuke?!
+Dialogue: 0,0:19:49.50,0:19:50.70,Default,,0000,0000,0000,,I don’t know...
+Dialogue: 0,0:19:51.13,0:19:55.57,Default,,0000,0000,0000,,We were just given orders to\Nmake the hit on Sasuke.
+Dialogue: 0,0:19:58.48,0:20:02.11,Default,,0000,0000,0000,,Though you ordered us to\Nassassinate Sasuke,
+Dialogue: 0,0:20:02.25,0:20:05.05,Default,,0000,0000,0000,,you got to him first.
+Dialogue: 0,0:20:06.12,0:20:10.22,Default,,0000,0000,0000,,Moreover, you didn’t kill him,\Nand left that Curse Mark instead.
+Dialogue: 0,0:20:10.95,0:20:13.02,Default,,0000,0000,0000,,I don’t know what you’re thinking...
+Dialogue: 0,0:20:24.90,0:20:26.57,Default,,0000,0000,0000,,Hey! Are you okay?!
+Dialogue: 0,0:20:26.74,0:20:29.57,Default,,0000,0000,0000,,It’s a pain, but Ino,\NI’ll leave Lee to you.
+Dialogue: 0,0:20:29.61,0:20:30.24,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:20:31.44,0:20:33.71,Default,,0000,0000,0000,,That Chakra...\Nlt’s abnormal.
+Dialogue: 0,0:20:34.68,0:20:38.52,Default,,0000,0000,0000,,The Uchiha clan...\Nthis good, huh?
+Dialogue: 0,0:20:40.15,0:20:42.69,Default,,0000,0000,0000,,Sakura’s in danger!
+Dialogue: 0,0:20:42.69,0:20:46.69,Default,,0000,0000,0000,,It’s okay...\NI’ll protect Sakura.
+Dialogue: 0,0:20:47.06,0:20:49.39,Default,,0000,0000,0000,,Well, what should we do\Nwith this guy?
+Dialogue: 0,0:20:49.69,0:20:50.69,Default,,0000,0000,0000,,Kick him awake?
+Dialogue: 0,0:20:50.69,0:20:52.70,Default,,0000,0000,0000,,Can I do it?
+Dialogue: 0,0:20:57.23,0:20:58.97,Default,,0000,0000,0000,,What am I...?
+Dialogue: 0,0:21:03.64,0:21:04.67,Default,,0000,0000,0000,,Sasuke...
+Dialogue: 0,0:21:19.66,0:21:24.03,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:24.06,0:21:32.44,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:33.47,0:21:42.11,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:42.61,0:21:50.49,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:51.69,0:21:56.96,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:56.99,0:22:01.26,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:01.30,0:22:04.80,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:05.14,0:22:13.68,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:13.94,0:22:19.05,Default,,0000,0000,0000,,when you want to cry, and you want to run away
+Dialogue: 0,0:22:19.12,0:22:23.65,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:23.69,0:22:27.59,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:27.69,0:22:32.86,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:33.00,0:22:35.20,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:35.27,0:22:41.64,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:41.97,0:22:47.14,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:52.68,0:22:54.25,Default,,0000,0000,0000,,Hey, what’s up Akamaru?
+Dialogue: 0,0:22:54.28,0:22:56.45,Default,,0000,0000,0000,,Wait a minute, Naruto,\Nhe’s acting strange.
+Dialogue: 0,0:22:57.65,0:22:58.69,Default,,0000,0000,0000,,What, are you hungry?
+Dialogue: 0,0:22:59.19,0:23:01.56,Default,,0000,0000,0000,,Doesn't seem like it.\NHow about a walk?
+Dialogue: 0,0:23:01.96,0:23:04.93,Default,,0000,0000,0000,,I know. You’re looking for\Nan electric pole, aren’t you?
+Dialogue: 0,0:23:07.60,0:23:09.10,Default,,0000,0000,0000,,He bit me!
+Dialogue: 0,0:23:09.70,0:23:13.30,Default,,0000,0000,0000,,Next pisode: “Akamaru Trembles:\NGaara’s Cruel Strength!”
+Dialogue: 0,0:23:13.67,0:23:16.61,Default,,0000,0000,0000,,What in the world do\Nyou want, anyway?

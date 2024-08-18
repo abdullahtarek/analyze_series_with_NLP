@@ -1,0 +1,367 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.05,0:00:21.59,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.59,0:00:26.51,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.55,0:00:29.05,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.10,0:00:31.59,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.60,0:00:36.30,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.35,0:00:46.18,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.47,0:00:55.59,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.55,0:01:06.43,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.59,0:01:15.76,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.51,0:01:20.93,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:02:04.10,0:02:05.76,Default,,0000,0000,0000,,– Where… 					– Where…
+Dialogue: 0,0:02:06.64,0:02:09.89,Default,,0000,0000,0000,,– Where…am I? 					– Where…am I?
+Dialogue: 0,0:02:58.89,0:03:03.51,Default,,0000,0000,0000,,Remembrance:  The Lost Page
+Dialogue: 0,0:03:07.80,0:03:11.47,Default,,0000,0000,0000,,All right! I’m up for it today again,\Nbelieve it!
+Dialogue: 0,0:03:14.59,0:03:18.80,Default,,0000,0000,0000,,However… There haven’t been\Nany flashy missions around here lately.
+Dialogue: 0,0:03:23.26,0:03:26.01,Default,,0000,0000,0000,,C’mon! It’s unbelievable, right?!
+Dialogue: 0,0:03:26.43,0:03:27.59,Default,,0000,0000,0000,,Yeah well…
+Dialogue: 0,0:03:27.93,0:03:30.76,Default,,0000,0000,0000,,Lately, I’m dead tired from doing\Nnothing but training.
+Dialogue: 0,0:03:30.80,0:03:32.55,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:03:32.72,0:03:33.59,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:33.59,0:03:34.93,Default,,0000,0000,0000,,There’s someone who got\Ntoo much time on his hands!
+Dialogue: 0,0:03:35.35,0:03:37.18,Default,,0000,0000,0000,,What’s that?! Speak for yourself.
+Dialogue: 0,0:03:37.22,0:03:39.47,Default,,0000,0000,0000,,No matter how I look at it,\Nyou are just helping the shop.
+Dialogue: 0,0:03:39.51,0:03:41.30,Default,,0000,0000,0000,,What happened to Shikamaru\Nand Choji?
+Dialogue: 0,0:03:41.59,0:03:43.47,Default,,0000,0000,0000,,On a mission with Asuma Sensei!
+Dialogue: 0,0:03:44.10,0:03:47.26,Default,,0000,0000,0000,,Oh, I wanted to go on a mission too!
+Dialogue: 0,0:03:48.35,0:03:52.26,Default,,0000,0000,0000,,While Ino was down with a cold,\Neveryone went on urgent missions.
+Dialogue: 0,0:03:52.80,0:03:55.35,Default,,0000,0000,0000,,And now I’m completely recovered!
+Dialogue: 0,0:03:55.59,0:03:57.89,Default,,0000,0000,0000,,What am I going to do with\Nall my fighting spirit?
+Dialogue: 0,0:03:58.39,0:04:00.59,Default,,0000,0000,0000,,Why don’t you use that fighting spirit\Nin some training?
+Dialogue: 0,0:04:00.59,0:04:01.80,Default,,0000,0000,0000,,That’s what you think!
+Dialogue: 0,0:04:02.51,0:04:04.22,Default,,0000,0000,0000,,In my family, if you don’t have\Na training partner,
+Dialogue: 0,0:04:04.26,0:04:07.85,Default,,0000,0000,0000,,then they make up some reason\Nfor you to help out with the shop!
+Dialogue: 0,0:04:08.14,0:04:11.59,Default,,0000,0000,0000,,They must know that if you’re alone\Nyou’ll skip training, eh?
+Dialogue: 0,0:04:11.68,0:04:14.76,Default,,0000,0000,0000,,H-Hey! Don't say something that\Ncould hurt a person’s reputation!
+Dialogue: 0,0:04:15.14,0:04:17.14,Default,,0000,0000,0000,,I do it properly by myself.
+Dialogue: 0,0:04:18.59,0:04:19.55,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:04:20.60,0:04:22.76,Default,,0000,0000,0000,,Stop it, Shino! Don’t surprise me!
+Dialogue: 0,0:04:23.64,0:04:26.01,Default,,0000,0000,0000,,Naruto Uzumaki… Yamanaka Ino…
+Dialogue: 0,0:04:26.59,0:04:28.43,Default,,0000,0000,0000,,The Hokage is asking\Nfor both of you.
+Dialogue: 0,0:04:28.93,0:04:30.59,Default,,0000,0000,0000,,What? Me too?
+Dialogue: 0,0:04:31.18,0:04:35.05,Default,,0000,0000,0000,,By the way, I’ve also been ordered to go,\Nalong with you guys.
+Dialogue: 0,0:04:35.26,0:04:35.85,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:04:35.93,0:04:37.80,Default,,0000,0000,0000,,Ino… me and Shino?
+Dialogue: 0,0:04:38.01,0:04:38.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:42.59,0:04:43.80,Default,,0000,0000,0000,,Demon of Ocean causing disturbance…?
+Dialogue: 0,0:04:44.59,0:04:46.59,Default,,0000,0000,0000,,Yes, literally a demon in the ocean.
+Dialogue: 0,0:04:47.05,0:04:51.47,Default,,0000,0000,0000,,It seems to be the cause of the disturbance\Nhappening in the remote Land of Sea…
+Dialogue: 0,0:04:54.89,0:04:55.72,Default,,0000,0000,0000,,What’s wrong…?
+Dialogue: 0,0:04:57.60,0:04:59.14,Default,,0000,0000,0000,,You’ll go for me, won’t you?
+Dialogue: 0,0:05:01.64,0:05:02.72,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:05:05.59,0:05:06.43,Default,,0000,0000,0000,,Shizune…
+Dialogue: 0,0:05:06.47,0:05:07.59,Default,,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:05:07.72,0:05:08.68,Default,,0000,0000,0000,,Explain…
+Dialogue: 0,0:05:08.93,0:05:10.35,Default,,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:05:12.97,0:05:14.01,Default,,0000,0000,0000,,As you can see,
+Dialogue: 0,0:05:14.05,0:05:16.59,Default,,0000,0000,0000,,the Land of Sea is made up of\Na group of islands of various sizes.
+Dialogue: 0,0:05:16.59,0:05:19.80,Default,,0000,0000,0000,,Recently in that area, their only means\Nof transportation, ships,
+Dialogue: 0,0:05:19.85,0:05:23.14,Default,,0000,0000,0000,,are being attacked and robbed\Nof money and valuables.
+Dialogue: 0,0:05:24.51,0:05:26.59,Default,,0000,0000,0000,,The people on the boat who\Nwere victimized
+Dialogue: 0,0:05:26.59,0:05:29.72,Default,,0000,0000,0000,,unanimously claim that the damage\Nwas done by the “Demon of the Ocean.”
+Dialogue: 0,0:05:30.93,0:05:34.59,Default,,0000,0000,0000,,And exterminating this Demon\Nof the Ocean is the mission?
+Dialogue: 0,0:05:35.10,0:05:38.59,Default,,0000,0000,0000,,Well… more or less, yes.\NBut there’s more.
+Dialogue: 0,0:05:39.30,0:05:41.59,Default,,0000,0000,0000,,The Land of Sea does not have\Na hidden village of its own,
+Dialogue: 0,0:05:41.59,0:05:43.39,Default,,0000,0000,0000,,so they’re prepared for contingencies
+Dialogue: 0,0:05:43.43,0:05:45.93,Default,,0000,0000,0000,,through military cooperation with\Nthe neighboring country, the Land of Water,
+Dialogue: 0,0:05:45.97,0:05:47.93,Default,,0000,0000,0000,,and have been paying them\Na retainer every month…
+Dialogue: 0,0:05:48.26,0:05:51.39,Default,,0000,0000,0000,,However, the other day,\None of their ships that collects funds
+Dialogue: 0,0:05:51.43,0:05:53.55,Default,,0000,0000,0000,,was attacked by\Nthe Demon of the Ocean as well…
+Dialogue: 0,0:05:54.18,0:05:57.59,Default,,0000,0000,0000,,I see. To preserve their relationship\Nwith Land of Water,
+Dialogue: 0,0:05:57.60,0:06:00.89,Default,,0000,0000,0000,,Land of Sea will do anything\Nto protect the next ship.
+Dialogue: 0,0:06:01.43,0:06:05.39,Default,,0000,0000,0000,,Yes… This mission is to guard\Nthe ships collecting funds
+Dialogue: 0,0:06:05.43,0:06:06.59,Default,,0000,0000,0000,,and destroy the Demon of the Ocean…
+Dialogue: 0,0:06:07.35,0:06:10.59,Default,,0000,0000,0000,,I’ve got a few people to work under you,\Nso I’m counting on you.
+Dialogue: 0,0:06:10.60,0:06:11.55,Default,,0000,0000,0000,,Work under me… ?
+Dialogue: 0,0:06:13.47,0:06:14.22,Default,,0000,0000,0000,,Enter!
+Dialogue: 0,0:06:16.43,0:06:16.93,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:20.85,0:06:22.59,Default,,0000,0000,0000,,The Chunin Exam’s…
+Dialogue: 0,0:06:22.97,0:06:25.80,Default,,0000,0000,0000,,Th-That scary proctor!
+Dialogue: 0,0:06:27.64,0:06:30.60,Default,,0000,0000,0000,,Oh, you’re bringing back memories..!
+Dialogue: 0,0:06:30.64,0:06:33.60,Default,,0000,0000,0000,,A-Anko Mitarashi Sensei?
+Dialogue: 0,0:06:33.76,0:06:35.22,Default,,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:06:35.26,0:06:36.35,Default,,0000,0000,0000,,– Everyone! 					– Yes!
+Dialogue: 0,0:06:36.89,0:06:38.43,Default,,0000,0000,0000,,I’m pronouncing your mission!
+Dialogue: 0,0:06:38.59,0:06:40.55,Default,,0000,0000,0000,,Shino Aburame!\Nlno Yamanaka!
+Dialogue: 0,0:06:40.59,0:06:41.72,Default,,0000,0000,0000,,Naruto Uzumaki!
+Dialogue: 0,0:06:42.59,0:06:47.14,Default,,0000,0000,0000,,The three of you will work under Anko\Nand accompany her on a mission!
+Dialogue: 0,0:06:47.39,0:06:49.14,Default,,0000,0000,0000,,What?! These members?
+Dialogue: 0,0:06:49.18,0:06:51.59,Default,,0000,0000,0000,,The team is pretty disjointed, isn’t it?!
+Dialogue: 0,0:06:51.89,0:06:52.93,Default,,0000,0000,0000,,No use talking about it!
+Dialogue: 0,0:06:52.97,0:06:55.39,Default,,0000,0000,0000,,Listen... I’ve thought through\Nthe matter and
+Dialogue: 0,0:06:55.43,0:06:58.43,Default,,0000,0000,0000,,I believe that this combination is
+Dialogue: 0,0:06:58.47,0:07:01.18,Default,,0000,0000,0000,,the most qualified for this mission…
+Dialogue: 0,0:07:02.01,0:07:05.97,Default,,0000,0000,0000,,All of you display your own capabilities\Nto the full extent and execute this mission!
+Dialogue: 0,0:07:06.35,0:07:07.30,Default,,0000,0000,0000,,– Yes! 					– Yes!
+Dialogue: 0,0:07:08.43,0:07:12.80,Default,,0000,0000,0000,,She just gathered the available Genin…\NReally, she is such a…
+Dialogue: 0,0:07:15.43,0:07:17.72,Default,,0000,0000,0000,,Still, something doesn’t feel quite right…
+Dialogue: 0,0:07:18.64,0:07:21.30,Default,,0000,0000,0000,,Yeah, yeah, no complaints about\Na mission that’s settled!
+Dialogue: 0,0:07:21.35,0:07:23.59,Default,,0000,0000,0000,,Ouuch… I got it!
+Dialogue: 0,0:07:24.05,0:07:26.30,Default,,0000,0000,0000,,Okay, we’ll depart right away!
+Dialogue: 0,0:07:27.01,0:07:29.22,Default,,0000,0000,0000,,Everyone prepare and assemble\Nat the front gate!
+Dialogue: 0,0:07:29.35,0:07:30.10,Default,,0000,0000,0000,,– Roger! 					– Roger!
+Dialogue: 0,0:07:30.85,0:07:32.10,Default,,0000,0000,0000,,Oh, ouch!
+Dialogue: 0,0:07:34.59,0:07:35.47,Default,,0000,0000,0000,,Anko…
+Dialogue: 0,0:07:41.05,0:07:42.18,Default,,0000,0000,0000,,Be careful…
+Dialogue: 0,0:07:45.93,0:07:46.59,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:07:56.22,0:07:57.80,Default,,0000,0000,0000,,Characteristics of\Nthe Demon of the Ocean...
+Dialogue: 0,0:07:58.05,0:08:01.60,Default,,0000,0000,0000,,It’s like a fish, like a person...\NWhat is this?!
+Dialogue: 0,0:08:01.76,0:08:05.59,Default,,0000,0000,0000,,Huh, someone’s eyes are playing tricks.\NSomething like that can’t exist!
+Dialogue: 0,0:08:06.39,0:08:09.26,Default,,0000,0000,0000,,Not true, it’s possible that Ex-Ninja\Nbecome pirates
+Dialogue: 0,0:08:09.30,0:08:11.93,Default,,0000,0000,0000,,and use Transformation and Genjutsu.
+Dialogue: 0,0:08:12.59,0:08:16.93,Default,,0000,0000,0000,,Well, whatever, if we don’t gather\Ninformation, there will be no solution.
+Dialogue: 0,0:08:16.97,0:08:17.76,Default,,0000,0000,0000,,Right…
+Dialogue: 0,0:08:18.14,0:08:21.18,Default,,0000,0000,0000,,Mother Island is the biggest island\Nat the center of Land of Sea…
+Dialogue: 0,0:08:21.59,0:08:23.64,Default,,0000,0000,0000,,We’ll go to a nearby fishing port\Nand cross over by boat!
+Dialogue: 0,0:08:24.10,0:08:25.39,Default,,0000,0000,0000,,– I understand!\N– I understand!
+Dialogue: 0,0:08:25.59,0:08:29.43,Default,,0000,0000,0000,,Yeah! Let’s depart for the Land of Sea!
+Dialogue: 0,0:08:29.68,0:08:32.76,Default,,0000,0000,0000,,This guy is always hyper…
+Dialogue: 0,0:08:33.10,0:08:35.59,Default,,0000,0000,0000,,I'm anxious about what’s going to happen.
+Dialogue: 0,0:08:39.39,0:08:40.30,Default,,0000,0000,0000,,Here you are…
+Dialogue: 0,0:08:43.26,0:08:45.59,Default,,0000,0000,0000,,Um… Lady Tsunade…
+Dialogue: 0,0:08:47.89,0:08:48.59,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:08:48.97,0:08:51.89,Default,,0000,0000,0000,,It’s about…Anko Mitarashi just now…
+Dialogue: 0,0:08:52.35,0:08:55.59,Default,,0000,0000,0000,,Did, uh…\NDid something happen in the past?
+Dialogue: 0,0:09:01.14,0:09:02.18,Default,,0000,0000,0000,,Sort of…
+Dialogue: 0,0:09:10.93,0:09:12.59,Default,,0000,0000,0000,,Oh? This is…
+Dialogue: 0,0:09:12.97,0:09:16.26,Default,,0000,0000,0000,,Her record of missions from about\Nthe age of ten is pretty sporadic.
+Dialogue: 0,0:09:17.14,0:09:20.60,Default,,0000,0000,0000,,Because Anko was under Orochimaru...
+Dialogue: 0,0:09:21.97,0:09:24.47,Default,,0000,0000,0000,,So the parts that are blacked out
+Dialogue: 0,0:09:24.51,0:09:26.43,Default,,0000,0000,0000,,are combined\Nwith Orochimaru’s movements…
+Dialogue: 0,0:09:26.47,0:09:27.72,Default,,0000,0000,0000,,and in the confidential file?
+Dialogue: 0,0:09:28.97,0:09:30.59,Default,,0000,0000,0000,,Part of them are…
+Dialogue: 0,0:09:30.59,0:09:31.30,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:31.97,0:09:33.72,Default,,0000,0000,0000,,There are some parts\Nthat aren’t recorded…
+Dialogue: 0,0:09:33.93,0:09:35.10,Default,,0000,0000,0000,,That’s the truth.
+Dialogue: 0,0:09:35.72,0:09:39.51,Default,,0000,0000,0000,,No record?! Even though\NAnko herself was in the village?
+Dialogue: 0,0:09:42.89,0:09:44.30,Default,,0000,0000,0000,,That Orochimaru…
+Dialogue: 0,0:09:44.59,0:09:47.55,Default,,0000,0000,0000,,It seems he really didn’t\Nwant to be traced…
+Dialogue: 0,0:09:48.85,0:09:50.39,Default,,0000,0000,0000,,When he left the village…
+Dialogue: 0,0:09:50.59,0:09:52.97,Default,,0000,0000,0000,,He erased part of Anko’s memories.
+Dialogue: 0,0:09:56.76,0:09:58.60,Default,,0000,0000,0000,,The wind is salty…
+Dialogue: 0,0:09:58.80,0:10:01.59,Default,,0000,0000,0000,,Coming this far, we can already\Nsee over the Land of Sea.
+Dialogue: 0,0:10:01.85,0:10:04.01,Default,,0000,0000,0000,,Then, that must be the Mother Island?
+Dialogue: 0,0:10:39.85,0:10:42.60,Default,,0000,0000,0000,,What ? What is this feeling?
+Dialogue: 0,0:10:51.01,0:10:53.18,Default,,0000,0000,0000,,Everyone… Sorry but…
+Dialogue: 0,0:10:53.22,0:10:55.05,Default,,0000,0000,0000,,Go ahead and take care\Nof the arrangements for the boat.
+Dialogue: 0,0:10:55.22,0:10:56.72,Default,,0000,0000,0000,,What? But, what would you do, Sensei?
+Dialogue: 0,0:10:57.05,0:11:01.59,Default,,0000,0000,0000,,I’ll take care of some business\Nand join you… See you!
+Dialogue: 0,0:11:01.59,0:11:03.22,Default,,0000,0000,0000,,Oh! Sensei?!
+Dialogue: 0,0:11:03.59,0:11:05.59,Default,,0000,0000,0000,,C’mon, it can’t be helped…
+Dialogue: 0,0:11:06.51,0:11:07.59,Default,,0000,0000,0000,,What are you doing, Shino?
+Dialogue: 0,0:11:07.59,0:11:09.01,Default,,0000,0000,0000,,We’ll leave you behind!
+Dialogue: 0,0:11:09.51,0:11:10.18,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:11:17.51,0:11:18.59,Default,,0000,0000,0000,,The Curse Mark aches.
+Dialogue: 0,0:11:19.22,0:11:21.59,Default,,0000,0000,0000,,This presence… No question about it.
+Dialogue: 0,0:11:23.18,0:11:23.80,Default,,0000,0000,0000,,This way?
+Dialogue: 0,0:11:46.59,0:11:47.97,Default,,0000,0000,0000,,I can say their names\Nwithout a problem!
+Dialogue: 0,0:11:50.39,0:11:53.26,Default,,0000,0000,0000,,Um… That’s Mother Island…
+Dialogue: 0,0:11:53.30,0:11:55.59,Default,,0000,0000,0000,,These are Taro Island and Jiro island.
+Dialogue: 0,0:11:56.05,0:11:59.47,Default,,0000,0000,0000,,And… That there’s Demon Island!
+Dialogue: 0,0:12:00.30,0:12:02.39,Default,,0000,0000,0000,,Seems you prepared before you came…
+Dialogue: 0,0:12:03.97,0:12:09.43,Default,,0000,0000,0000,,I want to become a wiser, stronger\NShinobi like you, Master Orochimaru…
+Dialogue: 0,0:12:09.85,0:12:11.05,Default,,0000,0000,0000,,Oh…?
+Dialogue: 0,0:12:22.05,0:12:22.80,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:12:28.59,0:12:30.68,Default,,0000,0000,0000,,Sorry, but I can’t give you anything\Nmore than this.
+Dialogue: 0,0:12:31.59,0:12:33.43,Default,,0000,0000,0000,,What’s up…lno?
+Dialogue: 0,0:12:33.59,0:12:34.64,Default,,0000,0000,0000,,Hey, mister!
+Dialogue: 0,0:12:34.85,0:12:37.26,Default,,0000,0000,0000,,Aren’t you bringing prices down\Nway too much?
+Dialogue: 0,0:12:37.68,0:12:39.22,Default,,0000,0000,0000,,That’s high-quality fish, isn’t it?
+Dialogue: 0,0:12:39.47,0:12:40.59,Default,,0000,0000,0000,,Oh dear…
+Dialogue: 0,0:12:40.89,0:12:42.59,Default,,0000,0000,0000,,I’m not price-cutting…
+Dialogue: 0,0:12:43.60,0:12:44.59,Default,,0000,0000,0000,,See...
+Dialogue: 0,0:12:44.59,0:12:46.43,Default,,0000,0000,0000,,Because of that\N "Demon of the Ocean"  uproar,
+Dialogue: 0,0:12:46.47,0:12:49.39,Default,,0000,0000,0000,,customers are completely staying away...
+Dialogue: 0,0:12:50.05,0:12:52.18,Default,,0000,0000,0000,,This is the market price around here.
+Dialogue: 0,0:12:52.68,0:12:56.51,Default,,0000,0000,0000,,Really? That fish is rarely…\NOh!
+Dialogue: 0,0:12:56.93,0:13:00.89,Default,,0000,0000,0000,,What’s with her appearance?\Nls she injured or something?
+Dialogue: 0,0:13:01.39,0:13:04.43,Default,,0000,0000,0000,,No… That girl, she has her reasons.
+Dialogue: 0,0:13:05.10,0:13:05.93,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:13:05.97,0:13:09.18,Default,,0000,0000,0000,,She’s a female diver from a small town\Non the cape of Mother Island…
+Dialogue: 0,0:13:09.22,0:13:09.89,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:11.01,0:13:14.72,Default,,0000,0000,0000,,Why would a woman diver on\NMother Island transfer islands on purpose?
+Dialogue: 0,0:13:15.10,0:13:18.97,Default,,0000,0000,0000,,That’s because, the island people\Ndidn’t want to do business with her…
+Dialogue: 0,0:13:20.59,0:13:21.85,Default,,0000,0000,0000,,That girl…
+Dialogue: 0,0:13:21.89,0:13:24.10,Default,,0000,0000,0000,,In the past, she was spirited away…
+Dialogue: 0,0:13:24.47,0:13:25.55,Default,,0000,0000,0000,,Spirited away…?
+Dialogue: 0,0:13:25.59,0:13:28.68,Default,,0000,0000,0000,,A person suddenly disappears…\Nis that it?
+Dialogue: 0,0:13:29.43,0:13:30.22,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:13:30.43,0:13:31.47,Default,,0000,0000,0000,,In the past,
+Dialogue: 0,0:13:31.51,0:13:34.35,Default,,0000,0000,0000,,a lot of island people disappeared\Nfrom being spirited away.
+Dialogue: 0,0:13:34.64,0:13:36.59,Default,,0000,0000,0000,,The story is that out of all those people
+Dialogue: 0,0:13:36.59,0:13:38.89,Default,,0000,0000,0000,,that girl was the only one\Nwho suddenly returned one day.
+Dialogue: 0,0:13:39.59,0:13:40.68,Default,,0000,0000,0000,,Hey, hey!
+Dialogue: 0,0:13:41.59,0:13:42.72,Default,,0000,0000,0000,,It’s a little village…
+Dialogue: 0,0:13:43.05,0:13:45.01,Default,,0000,0000,0000,,So everyone felt creepy.
+Dialogue: 0,0:13:51.18,0:13:53.72,Default,,0000,0000,0000,,They say that now, she lives alone\Noutside of the village…
+Dialogue: 0,0:13:55.51,0:13:58.05,Default,,0000,0000,0000,,I see… I feel sorry for her.
+Dialogue: 0,0:13:58.59,0:14:02.22,Default,,0000,0000,0000,,With her appearance...\NAnd then you hear things, I too...
+Dialogue: 0,0:14:02.76,0:14:04.72,Default,,0000,0000,0000,,feel a little bit creepy…
+Dialogue: 0,0:14:06.59,0:14:07.59,Default,,0000,0000,0000,,That's true.
+Dialogue: 0,0:14:08.97,0:14:10.59,Default,,0000,0000,0000,,Hey, where’s Naruto?
+Dialogue: 0,0:14:10.68,0:14:11.59,Default,,0000,0000,0000,,I don’t know…
+Dialogue: 0,0:14:40.51,0:14:42.85,Default,,0000,0000,0000,,Hey! What are you guys doing?!
+Dialogue: 0,0:14:43.35,0:14:44.39,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:14:45.05,0:14:46.68,Default,,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:14:47.05,0:14:47.64,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:14:50.97,0:14:54.14,Default,,0000,0000,0000,,You’re uh… You’re from a place called\NMother Island, aren’t you?
+Dialogue: 0,0:14:55.59,0:14:56.14,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:14:56.43,0:14:57.51,Default,,0000,0000,0000,,Uh… Nothing…
+Dialogue: 0,0:15:00.59,0:15:01.55,Default,,0000,0000,0000,,Ninja…
+Dialogue: 0,0:15:02.01,0:15:03.72,Default,,0000,0000,0000,,Oh, I’ll help!
+Dialogue: 0,0:15:03.85,0:15:04.59,Default,,0000,0000,0000,,That’s okay…
+Dialogue: 0,0:15:04.85,0:15:06.39,Default,,0000,0000,0000,,Huh…? H-Hey… Wait.
+Dialogue: 0,0:15:08.47,0:15:09.59,Default,,0000,0000,0000,,What the…?
+Dialogue: 0,0:15:14.05,0:15:17.80,Default,,0000,0000,0000,,It’s too bad but, the last boat from\Nthe port has already left.
+Dialogue: 0,0:15:18.22,0:15:20.59,Default,,0000,0000,0000,,But the sun hasn’t even set yet…
+Dialogue: 0,0:15:21.01,0:15:24.93,Default,,0000,0000,0000,,Around here, there’s nobody who\Nwill take you across in the early evening...
+Dialogue: 0,0:15:25.47,0:15:27.85,Default,,0000,0000,0000,,Sorry, but come back tomorrow.
+Dialogue: 0,0:15:28.47,0:15:29.59,Default,,0000,0000,0000,,No way…
+Dialogue: 0,0:15:29.59,0:15:32.59,Default,,0000,0000,0000,,Well, is there a way to get to\NMother Island besides the ferry?
+Dialogue: 0,0:15:33.05,0:15:36.55,Default,,0000,0000,0000,,Mmm, I can’t really advise it, but…
+Dialogue: 0,0:15:36.59,0:15:40.22,Default,,0000,0000,0000,,If it’s necessary,\NI’ll let you borrow my little boat.
+Dialogue: 0,0:15:45.35,0:15:47.89,Default,,0000,0000,0000,,Hey! I was looking all over for you guys!
+Dialogue: 0,0:15:48.14,0:15:50.51,Default,,0000,0000,0000,,C’mon! Where were you?!
+Dialogue: 0,0:15:50.59,0:15:52.85,Default,,0000,0000,0000,,Sorry, sorry…
+Dialogue: 0,0:15:52.97,0:15:55.35,Default,,0000,0000,0000,,You should at least say something\Nbefore you disappear.
+Dialogue: 0,0:15:55.59,0:16:00.59,Default,,0000,0000,0000,,You and Sensei are exactly alike,\Nsuddenly going someplace.
+Dialogue: 0,0:16:03.51,0:16:05.35,Default,,0000,0000,0000,,Feels like there’ll be\Na bumpy road ahead.
+Dialogue: 0,0:16:05.39,0:16:07.05,Default,,0000,0000,0000,,What?! That’s rude.
+Dialogue: 0,0:16:07.18,0:16:10.59,Default,,0000,0000,0000,,Placing me in the same category together\Nwith that unreasonable sensei--!
+Dialogue: 0,0:16:10.72,0:16:11.60,Default,,0000,0000,0000,,Who’s what?
+Dialogue: 0,0:16:11.85,0:16:13.18,Default,,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:16:13.22,0:16:15.55,Default,,0000,0000,0000,,This sensei… is dangerous, after all…
+Dialogue: 0,0:16:16.10,0:16:18.26,Default,,0000,0000,0000,,Good work procuring the boat!
+Dialogue: 0,0:16:18.59,0:16:21.43,Default,,0000,0000,0000,,S-Sensei… Where in the world\Nhave you been all this time?
+Dialogue: 0,0:16:21.59,0:16:23.97,Default,,0000,0000,0000,,Oh, something like\Ngathering information…
+Dialogue: 0,0:16:24.59,0:16:26.59,Default,,0000,0000,0000,,Well, let’s go!
+Dialogue: 0,0:16:27.68,0:16:30.26,Default,,0000,0000,0000,,The Shinobi of Leaf Village are here…
+Dialogue: 0,0:16:30.85,0:16:32.64,Default,,0000,0000,0000,,Land of Sea must have\Npleaded with them
+Dialogue: 0,0:16:32.68,0:16:35.10,Default,,0000,0000,0000,,to investigate on\Nthe “Demon of the Ocean.”
+Dialogue: 0,0:16:35.51,0:16:38.39,Default,,0000,0000,0000,,Well then, we should give them\Nthe best welcome.
+Dialogue: 0,0:16:41.14,0:16:42.93,Default,,0000,0000,0000,,It’s getting dark…
+Dialogue: 0,0:16:43.93,0:16:46.59,Default,,0000,0000,0000,,We’re almost to Mother Island.
+Dialogue: 0,0:16:47.05,0:16:48.51,Default,,0000,0000,0000,,All right, all right!
+Dialogue: 0,0:16:48.59,0:16:50.85,Default,,0000,0000,0000,,Full speed advance to Mother Island!
+Dialogue: 0,0:16:51.05,0:16:52.59,Default,,0000,0000,0000,,Although the sun has already set ...
+Dialogue: 0,0:16:52.59,0:16:55.39,Default,,0000,0000,0000,,Where does all your hyper-energy\Ncome from?!
+Dialogue: 0,0:16:56.59,0:16:59.22,Default,,0000,0000,0000,,Times like this,\Nyour state of mind is important!
+Dialogue: 0,0:17:00.47,0:17:03.68,Default,,0000,0000,0000,,Sakura sure has her share of trouble…\NI feel sorry for her.
+Dialogue: 0,0:17:08.59,0:17:11.51,Default,,0000,0000,0000,,What the…!\NI ran up against a rock or something!
+Dialogue: 0,0:17:11.59,0:17:12.68,Default,,0000,0000,0000,,Hang in there, Naruto!
+Dialogue: 0,0:17:13.35,0:17:15.10,Default,,0000,0000,0000,,Hey, all of you look forward, front!
+Dialogue: 0,0:17:16.10,0:17:17.55,Default,,0000,0000,0000,,Dodge it, quick!
+Dialogue: 0,0:17:18.35,0:17:19.76,Default,,0000,0000,0000,,You say that, but…
+Dialogue: 0,0:17:19.80,0:17:21.59,Default,,0000,0000,0000,,It’s no good, the oar won’t move!
+Dialogue: 0,0:17:21.59,0:17:22.51,Default,,0000,0000,0000,,I’ll help!
+Dialogue: 0,0:17:24.18,0:17:24.97,Default,,0000,0000,0000,,You…!
+Dialogue: 0,0:17:25.14,0:17:26.59,Default,,0000,0000,0000,,Striking Shadow Snake!
+Dialogue: 0,0:17:33.01,0:17:34.35,Default,,0000,0000,0000,,Naruto! Leave it!
+Dialogue: 0,0:17:34.89,0:17:36.05,Default,,0000,0000,0000,,I understand!
+Dialogue: 0,0:17:38.59,0:17:40.30,Default,,0000,0000,0000,,To show themself so soon…
+Dialogue: 0,0:17:45.30,0:17:47.89,Default,,0000,0000,0000,,That was close…
+Dialogue: 0,0:17:48.39,0:17:51.59,Default,,0000,0000,0000,,The two of you be careful!\NHe’s aiming at us from underwater!
+Dialogue: 0,0:17:52.59,0:17:53.55,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:17:53.59,0:17:55.43,Default,,0000,0000,0000,,Demon of the Ocean or whatever,
+Dialogue: 0,0:17:55.47,0:17:57.85,Default,,0000,0000,0000,,an underwater creature for\Nan underwater battle!
+Dialogue: 0,0:17:58.35,0:17:59.51,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:18:00.26,0:18:01.97,Default,,0000,0000,0000,,I’m counting on you… Chief Toad!
+Dialogue: 0,0:18:04.59,0:18:05.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:06.59,0:18:10.10,Default,,0000,0000,0000,,Hey! Naruto!\NWhat kind of place did you call me to?!
+Dialogue: 0,0:18:10.14,0:18:13.18,Default,,0000,0000,0000,,Why did you come out!\NYou stupid frog!
+Dialogue: 0,0:18:13.47,0:18:14.59,Default,,0000,0000,0000,,Oh! Hey, wait!
+Dialogue: 0,0:18:14.59,0:18:15.68,Default,,0000,0000,0000,,Summoning Jutsu.
+Dialogue: 0,0:18:16.85,0:18:18.72,Default,,0000,0000,0000,,Please come out, Chief Toad!
+Dialogue: 0,0:18:18.85,0:18:21.22,Default,,0000,0000,0000,,Hey, good evening!
+Dialogue: 0,0:18:21.26,0:18:24.55,Default,,0000,0000,0000,,It can't be!\NI have been calling for Chief Toad!
+Dialogue: 0,0:18:24.59,0:18:27.30,Default,,0000,0000,0000,,Stupid! If you summoned\Nthe old man to a place like this,
+Dialogue: 0,0:18:27.35,0:18:28.64,Default,,0000,0000,0000,,terrible things would happen.
+Dialogue: 0,0:18:28.72,0:18:29.80,Default,,0000,0000,0000,,Huh? Why?
+Dialogue: 0,0:18:30.01,0:18:33.64,Default,,0000,0000,0000,,We’re freshwater creatures!\NWe don’t go with saltwater!
+Dialogue: 0,0:18:34.39,0:18:36.51,Default,,0000,0000,0000,,I don’t like salty things either.
+Dialogue: 0,0:18:37.76,0:18:40.05,Default,,0000,0000,0000,,You’re no help at all!
+Dialogue: 0,0:18:42.30,0:18:43.64,Default,,0000,0000,0000,,Shino! Take care of Ino…
+Dialogue: 0,0:18:43.93,0:18:44.60,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:18:47.72,0:18:48.59,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:18:48.76,0:18:50.59,Default,,0000,0000,0000,,Fire Style: Dragon Flame Jutsu!
+Dialogue: 0,0:19:02.14,0:19:03.43,Default,,0000,0000,0000,,Water Clone?!
+Dialogue: 0,0:19:04.76,0:19:06.18,Default,,0000,0000,0000,,You let your guard down!
+Dialogue: 0,0:19:06.64,0:19:07.76,Default,,0000,0000,0000,,You did too!
+Dialogue: 0,0:19:07.97,0:19:08.60,Default,,0000,0000,0000,,Take that!
+Dialogue: 0,0:19:16.26,0:19:17.85,Default,,0000,0000,0000,,There was one more?!
+Dialogue: 0,0:19:19.22,0:19:21.59,Default,,0000,0000,0000,,What the…? My body strength is…!
+Dialogue: 0,0:19:22.97,0:19:25.80,Default,,0000,0000,0000,,How is it?\NMy improved skill of Chakra Suction?
+Dialogue: 0,0:19:27.18,0:19:29.39,Default,,0000,0000,0000,,What’s happening?!
+Dialogue: 0,0:19:32.80,0:19:35.14,Default,,0000,0000,0000,,Where did he go? Damn it!
+Dialogue: 0,0:19:37.47,0:19:38.60,Default,,0000,0000,0000,,My visibility is too bad…
+Dialogue: 0,0:19:43.51,0:19:45.47,Default,,0000,0000,0000,,Hey, pull yourself together, Naruto!
+Dialogue: 0,0:19:47.47,0:19:49.97,Default,,0000,0000,0000,,Big Brother, it itches.
+Dialogue: 0,0:19:50.72,0:19:52.93,Default,,0000,0000,0000,,Ah, I’m at my limit, too…
+Dialogue: 0,0:19:54.72,0:19:56.51,Default,,0000,0000,0000,,B-Big Brother!
+Dialogue: 0,0:19:59.59,0:20:01.47,Default,,0000,0000,0000,,This is not so good.
+Dialogue: 0,0:20:02.93,0:20:03.64,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:20:03.68,0:20:04.59,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:20:09.93,0:20:10.76,Default,,0000,0000,0000,,You two are?!
+Dialogue: 0,0:20:12.51,0:20:15.51,Default,,0000,0000,0000,,I’ll discharge all the Chakra\NI absorbed at once…
+Dialogue: 0,0:20:16.43,0:20:18.59,Default,,0000,0000,0000,,Water Style: Furious Current Jutsu!
+Dialogue: 0,0:20:24.05,0:20:27.59,Default,,0000,0000,0000,,Shoot! I can’t approach them\Nso easily with this.
+Dialogue: 0,0:20:28.30,0:20:29.05,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:20:33.18,0:20:36.01,Default,,0000,0000,0000,,I can’t stand this!
+Dialogue: 0,0:21:31.76,0:21:34.30,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:34.68,0:21:38.05,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:38.22,0:21:40.59,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:41.22,0:21:43.59,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:44.59,0:21:47.64,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:47.72,0:21:50.35,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:51.01,0:21:53.59,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:54.10,0:21:55.51,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:58.55,0:22:02.59,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:04.85,0:22:08.85,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:10.51,0:22:13.60,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:13.60,0:22:16.68,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:16.85,0:22:19.72,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:19.76,0:22:23.51,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:23.59,0:22:26.59,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:26.59,0:22:29.59,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:29.68,0:22:36.10,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:36.51,0:22:39.43,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:39.47,0:22:42.80,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:50.93,0:22:52.59,Default,,0000,0000,0000,,To think the departure of\Nthe collection ship
+Dialogue: 0,0:22:52.59,0:22:53.89,Default,,0000,0000,0000,,would be moved up\Nat the time like this.
+Dialogue: 0,0:22:53.93,0:22:54.97,Default,,0000,0000,0000,,It can’t be helped.
+Dialogue: 0,0:22:55.01,0:22:57.43,Default,,0000,0000,0000,,We’ve got to find Naruto somehow\Nby tomorrow morning.
+Dialogue: 0,0:22:57.47,0:22:59.68,Default,,0000,0000,0000,,I hope we pick up some information about\Nthe Demon of the Ocean along the way.
+Dialogue: 0,0:22:59.72,0:23:02.35,Default,,0000,0000,0000,,The search range is quite expansive, huh?
+Dialogue: 0,0:23:02.39,0:23:03.26,Default,,0000,0000,0000,,It’d be best to split up.
+Dialogue: 0,0:23:03.30,0:23:06.43,Default,,0000,0000,0000,,Then I’ll go from the south,\Nyou guys take the north.
+Dialogue: 0,0:23:06.59,0:23:07.51,Default,,0000,0000,0000,,– Roger! 					– Roger!
+Dialogue: 0,0:23:07.59,0:23:08.80,Default,,0000,0000,0000,,Think about what happened yesterday.
+Dialogue: 0,0:23:08.85,0:23:11.60,Default,,0000,0000,0000,,Each of you, tackle this with care. Scatter!
+Dialogue: 0,0:23:12.26,0:23:15.01,Default,,0000,0000,0000,,Next time: “The Closed Door”

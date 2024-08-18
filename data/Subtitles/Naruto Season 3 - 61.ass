@@ -1,0 +1,283 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.48,0:00:09.65,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.77,0:00:17.90,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.15,0:00:20.19,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.15,0:00:26.90,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:26.94,0:00:30.44,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.65,0:00:34.15,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.57,0:00:37.82,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.86,0:00:45.44,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.48,0:00:54.69,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.73,0:01:02.77,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.90,0:01:09.77,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.78,0:01:17.90,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.23,0:01:26.77,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.77,0:01:28.77,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:55.77,0:01:58.03,Default,,0000,0000,0000,,His opponent is that Neji, huh…?
+Dialogue: 0,0:01:58.53,0:02:01.32,Default,,0000,0000,0000,,The Final Round is altogether different\Nthan the preliminaries…
+Dialogue: 0,0:02:01.77,0:02:03.61,Default,,0000,0000,0000,,After all, Naruto may not be able to…
+Dialogue: 0,0:02:23.03,0:02:26.94,Default,,0000,0000,0000,,Entertain me a little, Naruto.
+Dialogue: 0,0:02:28.48,0:02:32.69,Default,,0000,0000,0000,,I’ve got a tough job waiting\Nfor me now, so…
+Dialogue: 0,0:02:34.19,0:02:40.19,Default,,0000,0000,0000,,Ultimate Defense: Zero Blind Spot!
+Dialogue: 0,0:03:13.77,0:03:16.48,Default,,0000,0000,0000,,Dang it. I can’t catch him at all.
+Dialogue: 0,0:03:18.94,0:03:21.77,Default,,0000,0000,0000,,I told you I’m not\Nsuch a fool, didn’t I?
+Dialogue: 0,0:03:28.77,0:03:32.78,Default,,0000,0000,0000,,I already know…\Nwhich one is the real one.
+Dialogue: 0,0:03:39.03,0:03:39.77,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:03:40.11,0:03:42.82,Default,,0000,0000,0000,,That is the body\Nthat has least attacks
+Dialogue: 0,0:03:42.86,0:03:45.77,Default,,0000,0000,0000,,due to its fear of having\NChakra Points attacked.
+Dialogue: 0,0:03:46.11,0:03:48.61,Default,,0000,0000,0000,,The more you attack,
+Dialogue: 0,0:03:48.65,0:03:50.65,Default,,0000,0000,0000,,the more that one body\Nbecomes clearly evident.
+Dialogue: 0,0:03:54.32,0:03:55.98,Default,,0000,0000,0000,,You’re the real one.
+Dialogue: 0,0:03:56.36,0:03:57.53,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:03:57.90,0:03:59.36,Default,,0000,0000,0000,,This is as far as it goes.
+Dialogue: 0,0:04:04.44,0:04:06.36,Default,,0000,0000,0000,,I said it was pointless.
+Dialogue: 0,0:04:09.23,0:04:11.77,Default,,0000,0000,0000,,Don’t let him beat you, Naruto.
+Dialogue: 0,0:04:16.61,0:04:21.40,Default,,0000,0000,0000,,I’ve been telling you not\Nto frivolously assume things.
+Dialogue: 0,0:04:22.94,0:04:23.73,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:24.57,0:04:25.40,Default,,0000,0000,0000,,It can’t be.
+Dialogue: 0,0:04:30.78,0:04:33.73,Default,,0000,0000,0000,,All right! Go, Naruto!
+Dialogue: 0,0:04:34.90,0:04:35.82,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:04:36.69,0:04:41.57,Default,,0000,0000,0000,,He foiled my idea and purposely\Nand drew one of his clones back?
+Dialogue: 0,0:04:42.07,0:04:46.53,Default,,0000,0000,0000,,I’ve been striking from the beginning,\Nprepared for an honorable death!
+Dialogue: 0,0:04:46.77,0:04:47.44,Default,,0000,0000,0000,,Believe it!
+Dialogue: 0,0:04:48.98,0:04:49.65,Default,,0000,0000,0000,,I did it.
+Dialogue: 0,0:04:56.77,0:04:57.73,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:05:11.65,0:05:13.90,Default,,0000,0000,0000,,W-What was that?
+Dialogue: 0,0:05:15.07,0:05:16.98,Default,,0000,0000,0000,,Did you think you’d won?
+Dialogue: 0,0:05:19.57,0:05:20.53,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:05:20.73,0:05:22.77,Default,,0000,0000,0000,,Naruto’s punch should’ve hit.
+Dialogue: 0,0:05:24.07,0:05:25.28,Default,,0000,0000,0000,,That…
+Dialogue: 0,0:05:29.77,0:05:31.15,Default,,0000,0000,0000,,Rotation...
+Dialogue: 0,0:05:35.07,0:05:37.11,Default,,0000,0000,0000,,That’s Neji’s defense.
+Dialogue: 0,0:05:38.94,0:05:41.77,Default,,0000,0000,0000,,You punk.\NDon’t make a fool of me.
+Dialogue: 0,0:05:46.11,0:05:50.28,Default,,0000,0000,0000,,The largest range of vision of\NNeji’s Byakugan is nearly 360 degrees.
+Dialogue: 0,0:05:51.32,0:05:54.77,Default,,0000,0000,0000,,And he detects all of his opponent’s\Nattacks with the Byakugan.
+Dialogue: 0,0:05:57.15,0:06:00.19,Default,,0000,0000,0000,,His defense technique,\Nthe 8 Trigrams Palms Rotation,
+Dialogue: 0,0:06:00.23,0:06:01.36,Default,,0000,0000,0000,,will begin from here.
+Dialogue: 0,0:06:21.03,0:06:24.65,Default,,0000,0000,0000,,The moment he’s attacked,\Nhe discharges a large amount of Chakra
+Dialogue: 0,0:06:24.69,0:06:28.77,Default,,0000,0000,0000,,from the Chakra holes in the body,\Nblocks the enemy’s attack with that Chakra,
+Dialogue: 0,0:06:28.77,0:06:32.90,Default,,0000,0000,0000,,moves his own body in a circular motion,\Ndodges and repels.
+Dialogue: 0,0:06:34.23,0:06:38.69,Default,,0000,0000,0000,,Essentially, it’s difficult to control\Nthe Chakra discharged from Chakra holes…
+Dialogue: 0,0:06:38.98,0:06:42.61,Default,,0000,0000,0000,,To the extent that even Jonin utilize\Nthe discharge from a part of the body,
+Dialogue: 0,0:06:42.65,0:06:44.48,Default,,0000,0000,0000,,like the hands and feet,\Nin techniques.
+Dialogue: 0,0:06:45.53,0:06:48.98,Default,,0000,0000,0000,,But Neji who has mastered\NGentle Fist discharges Chakra
+Dialogue: 0,0:06:49.03,0:06:52.28,Default,,0000,0000,0000,,from his entire body and\Nshuts out physical attacks
+Dialogue: 0,0:06:52.32,0:06:54.15,Default,,0000,0000,0000,,just with that discharge power.
+Dialogue: 0,0:06:55.53,0:06:56.77,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:06:56.77,0:06:59.77,Default,,0000,0000,0000,,that’s one more absolute defense
+Dialogue: 0,0:06:59.77,0:07:02.77,Default,,0000,0000,0000,,that has more power\Nthan that Gaara’s Sand Shield.
+Dialogue: 0,0:07:09.03,0:07:11.15,Default,,0000,0000,0000,,T-That’s father’s…
+Dialogue: 0,0:07:11.19,0:07:14.36,Default,,0000,0000,0000,,The Rotation is a secret Art passed down\Nfrom generation to generation
+Dialogue: 0,0:07:14.40,0:07:17.77,Default,,0000,0000,0000,,only to the Hyuga head family,\Nin other words the Hyuga clan.
+Dialogue: 0,0:07:18.77,0:07:21.11,Default,,0000,0000,0000,,He created that on his own…?
+Dialogue: 0,0:07:21.77,0:07:24.90,Default,,0000,0000,0000,,He’s quite the guy…\NTo think he’d come this far.
+Dialogue: 0,0:07:26.48,0:07:31.36,Default,,0000,0000,0000,,It’s much too soon to be surprised.\NNeji’s true power is still to come.
+Dialogue: 0,0:07:32.77,0:07:33.90,Default,,0000,0000,0000,,Dang it.
+Dialogue: 0,0:07:34.53,0:07:35.98,Default,,0000,0000,0000,,This is the end.
+Dialogue: 0,0:07:37.57,0:07:40.94,Default,,0000,0000,0000,,You’re within the area of my 8 Trigrams.
+Dialogue: 0,0:07:52.53,0:07:54.40,Default,,0000,0000,0000,,Gentle Fist Art.
+Dialogue: 0,0:07:55.32,0:07:57.44,Default,,0000,0000,0000,,8 Trigrams 64 Palms.
+Dialogue: 0,0:07:57.86,0:07:58.77,Default,,0000,0000,0000,,It can’t be.
+Dialogue: 0,0:07:59.03,0:08:00.19,Default,,0000,0000,0000,,That pose.
+Dialogue: 0,0:08:08.90,0:08:10.11,Default,,0000,0000,0000,,8 Tetragrams…
+Dialogue: 0,0:08:11.23,0:08:11.94,Default,,0000,0000,0000,,…2 Palms!
+Dialogue: 0,0:08:15.53,0:08:16.40,Default,,0000,0000,0000,,4 Palms.
+Dialogue: 0,0:08:17.82,0:08:18.77,Default,,0000,0000,0000,,8 Palms.
+Dialogue: 0,0:08:20.61,0:08:21.61,Default,,0000,0000,0000,,16 Palms.
+Dialogue: 0,0:08:22.82,0:08:24.11,Default,,0000,0000,0000,,32 Palms.
+Dialogue: 0,0:08:26.94,0:08:28.94,Default,,0000,0000,0000,,64 Palms!
+Dialogue: 0,0:08:33.82,0:08:36.77,Default,,0000,0000,0000,,The branch family exceeds\Nthe head family?
+Dialogue: 0,0:08:50.77,0:08:52.03,Default,,0000,0000,0000,,It’s over.
+Dialogue: 0,0:08:57.98,0:09:00.40,Default,,0000,0000,0000,,Truly a terrifying talent.
+Dialogue: 0,0:09:00.86,0:09:03.61,Default,,0000,0000,0000,,To think the power of the\NHyuga Kekkei Genkai
+Dialogue: 0,0:09:03.65,0:09:06.77,Default,,0000,0000,0000,,would be passed on so strongly\Nto a child of the branch family
+Dialogue: 0,0:09:06.77,0:09:09.77,Default,,0000,0000,0000,,who would never be able\Nto be an heir.
+Dialogue: 0,0:09:11.48,0:09:15.90,Default,,0000,0000,0000,,Hizashi… You should have\Nsucceeded the Hyuga family.
+Dialogue: 0,0:09:16.94,0:09:20.53,Default,,0000,0000,0000,,I pressed the 64 Chakra Points\Nall over your body…
+Dialogue: 0,0:09:20.65,0:09:22.73,Default,,0000,0000,0000,,You can’t even stand.
+Dialogue: 0,0:09:25.94,0:09:27.36,Default,,0000,0000,0000,,D-Dang it.
+Dialogue: 0,0:09:28.77,0:09:30.15,Default,,0000,0000,0000,,Are you frustrated?
+Dialogue: 0,0:09:30.44,0:09:33.19,Default,,0000,0000,0000,,Kneeling down before power\Nthat can’t be changed
+Dialogue: 0,0:09:33.23,0:09:35.03,Default,,0000,0000,0000,,and knowing your powerlessness.
+Dialogue: 0,0:09:36.07,0:09:39.48,Default,,0000,0000,0000,,Your dreams will come true\Nif you just work hard.
+Dialogue: 0,0:09:39.53,0:09:40.86,Default,,0000,0000,0000,,That’s just an illusion.
+Dialogue: 0,0:09:43.40,0:09:45.77,Default,,0000,0000,0000,,Hey, Hinata. Are you okay?
+Dialogue: 0,0:09:45.90,0:09:48.48,Default,,0000,0000,0000,,Oh, man. I knew it.
+Dialogue: 0,0:09:48.53,0:09:49.65,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:10:20.65,0:10:21.90,Default,,0000,0000,0000,,Bushy brow…
+Dialogue: 0,0:10:24.77,0:10:25.77,Default,,0000,0000,0000,,Hinata.
+Dialogue: 0,0:10:32.90,0:10:34.65,Default,,0000,0000,0000,,D-Dang it.
+Dialogue: 0,0:10:36.48,0:10:37.19,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:10:44.23,0:10:45.15,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:10:56.03,0:10:59.48,Default,,0000,0000,0000,,He… No way.
+Dialogue: 0,0:11:01.53,0:11:03.03,Default,,0000,0000,0000,,I told you, didn’t I…?
+Dialogue: 0,0:11:03.69,0:11:07.61,Default,,0000,0000,0000,,I don’t know when to give up.
+Dialogue: 0,0:11:18.90,0:11:20.19,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:11:22.48,0:11:25.11,Default,,0000,0000,0000,,Hey, you’re bleeding.
+Dialogue: 0,0:11:25.69,0:11:26.73,Default,,0000,0000,0000,,What’s wrong?
+Dialogue: 0,0:11:27.57,0:11:30.77,Default,,0000,0000,0000,,You’ve still got damage\Nfrom the match.
+Dialogue: 0,0:11:32.07,0:11:34.11,Default,,0000,0000,0000,,Hinata… Hang in there.
+Dialogue: 0,0:11:39.77,0:11:40.86,Default,,0000,0000,0000,,I’ll take a look at her.
+Dialogue: 0,0:11:42.40,0:11:43.48,Default,,0000,0000,0000,,Who’re you?
+Dialogue: 0,0:11:44.40,0:11:46.69,Default,,0000,0000,0000,,I’m not suspicious or anything.
+Dialogue: 0,0:11:47.77,0:11:49.15,Default,,0000,0000,0000,,Stop already…
+Dialogue: 0,0:11:49.48,0:11:51.44,Default,,0000,0000,0000,,It’ll be the same even if\Nyou fight more than this.
+Dialogue: 0,0:11:51.77,0:11:53.73,Default,,0000,0000,0000,,I don’t have a grudge particularly\Nagainst you.
+Dialogue: 0,0:11:54.36,0:11:55.77,Default,,0000,0000,0000,,S-Shut up…
+Dialogue: 0,0:11:56.36,0:11:59.82,Default,,0000,0000,0000,,Even if you say so,\NI have something against you.
+Dialogue: 0,0:12:00.11,0:12:01.57,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:12:01.86,0:12:06.28,Default,,0000,0000,0000,,Why…? Here you’re this strong…
+Dialogue: 0,0:12:06.77,0:12:10.23,Default,,0000,0000,0000,,Why did you, with a look like\Nyou’ve seen through it all,
+Dialogue: 0,0:12:10.28,0:12:15.78,Default,,0000,0000,0000,,go after Hinata mentally\Nwho was trying so hard?
+Dialogue: 0,0:12:16.77,0:12:19.32,Default,,0000,0000,0000,,It has nothing to do with you.
+Dialogue: 0,0:12:19.78,0:12:24.57,Default,,0000,0000,0000,,Mocking Hinata, selfishly labeling\Nher a failure as you please.
+Dialogue: 0,0:12:24.77,0:12:26.69,Default,,0000,0000,0000,,Head family, branch family…
+Dialogue: 0,0:12:26.73,0:12:29.61,Default,,0000,0000,0000,,I don’t know what happened to you.
+Dialogue: 0,0:12:30.77,0:12:36.28,Default,,0000,0000,0000,,But I won’t forgive the jerk who’d\Ncall another person a failure.
+Dialogue: 0,0:12:41.77,0:12:42.98,Default,,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:12:43.19,0:12:45.65,Default,,0000,0000,0000,,It’s okay. I’m a doctor.
+Dialogue: 0,0:12:47.32,0:12:49.78,Default,,0000,0000,0000,,Okay… Fine.
+Dialogue: 0,0:12:49.94,0:12:55.28,Default,,0000,0000,0000,,If you insist, I’ll tell you about\Nthe Hyuga’s destiny of hatred.
+Dialogue: 0,0:12:57.53,0:12:59.53,Default,,0000,0000,0000,,In the Hyuga head family,\Nthere’s a secret Ninjutsu
+Dialogue: 0,0:12:59.57,0:13:01.53,Default,,0000,0000,0000,,that’s been passed on\Nfrom generation to generation.
+Dialogue: 0,0:13:02.48,0:13:03.90,Default,,0000,0000,0000,,That is the Curse Mark Arts.
+Dialogue: 0,0:13:05.44,0:13:06.77,Default,,0000,0000,0000,,Curse Mark Arts?
+Dialogue: 0,0:13:12.23,0:13:15.90,Default,,0000,0000,0000,,The Curse Mark represents\Na bird in a cage…
+Dialogue: 0,0:13:17.77,0:13:20.90,Default,,0000,0000,0000,,and it’s a mark of those who are\Nbound to a destiny they can’t escape.
+Dialogue: 0,0:13:34.48,0:13:35.77,Default,,0000,0000,0000,,W-What’s…
+Dialogue: 0,0:13:47.28,0:13:48.77,Default,,0000,0000,0000,,...t-that mark?
+Dialogue: 0,0:13:50.23,0:13:52.03,Default,,0000,0000,0000,,One day when I was four years old,
+Dialogue: 0,0:13:52.07,0:13:57.19,Default,,0000,0000,0000,,this accursed mark was inscribed\Non my forehead with the Curse Mark Arts.
+Dialogue: 0,0:13:59.77,0:14:03.94,Default,,0000,0000,0000,,A large ceremony was held in\Nthe Village Hidden in Leaves on that day.
+Dialogue: 0,0:14:04.69,0:14:07.78,Default,,0000,0000,0000,,It was also the day when the\Nhead Ninja of the Land of Lightning,
+Dialogue: 0,0:14:07.82,0:14:10.19,Default,,0000,0000,0000,,the land that the Leaf had\Nfought with for many years,
+Dialogue: 0,0:14:10.23,0:14:13.77,Default,,0000,0000,0000,,came for the conclusion\Nof the allied treaty.
+Dialogue: 0,0:14:15.69,0:14:18.07,Default,,0000,0000,0000,,However, there was one clan…
+Dialogue: 0,0:14:18.11,0:14:20.61,Default,,0000,0000,0000,,who didn’t attend the ceremony\Nthat was attended
+Dialogue: 0,0:14:20.65,0:14:23.61,Default,,0000,0000,0000,,by everybody else,\Nfrom Leaf Jonin to Genin.
+Dialogue: 0,0:14:24.44,0:14:26.40,Default,,0000,0000,0000,,It was the Hyuga clan…
+Dialogue: 0,0:14:27.19,0:14:29.36,Default,,0000,0000,0000,,And it’s because that day\Nwas the day of hope
+Dialogue: 0,0:14:29.40,0:14:31.77,Default,,0000,0000,0000,,when the head family heir\Nwas to turn three.
+Dialogue: 0,0:14:34.65,0:14:37.11,Default,,0000,0000,0000,,Miss Hinata’s third birthday!
+Dialogue: 0,0:14:50.28,0:14:52.61,Default,,0000,0000,0000,,My father, Hizashi Hyuga,
+Dialogue: 0,0:14:52.65,0:14:57.48,Default,,0000,0000,0000,,and Miss Hinata’s father who’s over there,\NLord Hiashi Hyuga, were twin brothers.
+Dialogue: 0,0:14:58.77,0:15:01.86,Default,,0000,0000,0000,,However, Miss Hinata’s father,\NLord Hiashi,
+Dialogue: 0,0:15:01.90,0:15:05.77,Default,,0000,0000,0000,,is the eldest son of the head family\Nborn into this world first.
+Dialogue: 0,0:15:06.77,0:15:10.48,Default,,0000,0000,0000,,And my father who was the second son\Nis a member of the branch family.
+Dialogue: 0,0:15:12.77,0:15:14.86,Default,,0000,0000,0000,,So Miss Hinata is already three…
+Dialogue: 0,0:15:14.86,0:15:16.44,Default,,0000,0000,0000,,Congratulations.
+Dialogue: 0,0:15:16.77,0:15:17.53,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:26.11,0:15:28.77,Default,,0000,0000,0000,,She’s a cute girl, isn’t she, father?
+Dialogue: 0,0:15:34.07,0:15:36.65,Default,,0000,0000,0000,,What’s wrong, father?
+Dialogue: 0,0:15:37.78,0:15:39.98,Default,,0000,0000,0000,,Oh, it’s nothing.
+Dialogue: 0,0:15:42.11,0:15:43.15,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:15:43.61,0:15:45.86,Default,,0000,0000,0000,,I’ll be taking Neji under my care, Hizashi.
+Dialogue: 0,0:15:46.36,0:15:47.15,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:48.48,0:15:51.77,Default,,0000,0000,0000,,When the head family heir grew\Nand became three years old,
+Dialogue: 0,0:15:54.15,0:15:57.94,Default,,0000,0000,0000,,I had the Curse Mark imprinted on me\Nand I became the bird in the cage.
+Dialogue: 0,0:15:58.69,0:16:00.19,Default,,0000,0000,0000,,And became the Hyuga branch family.
+Dialogue: 0,0:16:00.23,0:16:02.78,Default,,0000,0000,0000,,Why’s it necessary to do\Nsomething like that?
+Dialogue: 0,0:16:03.19,0:16:05.94,Default,,0000,0000,0000,,Why separate into a head family\Nand a branch family?
+Dialogue: 0,0:16:06.28,0:16:09.65,Default,,0000,0000,0000,,What does that weird mark mean?
+Dialogue: 0,0:16:09.77,0:16:13.57,Default,,0000,0000,0000,,This mark on my forehead\Nisn’t just a decoration.
+Dialogue: 0,0:16:22.78,0:16:24.69,Default,,0000,0000,0000,,The pull of your legs is weak.
+Dialogue: 0,0:16:24.73,0:16:25.53,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:32.77,0:16:34.03,Default,,0000,0000,0000,,Listen, Neji.
+Dialogue: 0,0:16:34.07,0:16:38.23,Default,,0000,0000,0000,,You will live to protect Miss Hinata\Nof the head family
+Dialogue: 0,0:16:38.28,0:16:41.11,Default,,0000,0000,0000,,as well as the Hyuga power.
+Dialogue: 0,0:16:41.86,0:16:43.53,Default,,0000,0000,0000,,Yes, father.
+Dialogue: 0,0:17:05.69,0:17:06.44,Default,,0000,0000,0000,,Murderous Intent.
+Dialogue: 0,0:17:14.77,0:17:15.77,Default,,0000,0000,0000,,My head.
+Dialogue: 0,0:17:15.77,0:17:16.77,Default,,0000,0000,0000,,Father.
+Dialogue: 0,0:17:20.19,0:17:21.65,Default,,0000,0000,0000,,What’s wrong, father?
+Dialogue: 0,0:17:22.77,0:17:27.77,Default,,0000,0000,0000,,Go home.\NI’ll forgive the fool today only.
+Dialogue: 0,0:17:28.82,0:17:31.77,Default,,0000,0000,0000,,You’re not to forget your destiny.
+Dialogue: 0,0:17:36.57,0:17:39.77,Default,,0000,0000,0000,,This Curse Mark is the absolute fear\Ncalled death so to speak…
+Dialogue: 0,0:17:39.77,0:17:42.15,Default,,0000,0000,0000,,that was given to the branch family\Nby the head family.
+Dialogue: 0,0:17:44.23,0:17:46.36,Default,,0000,0000,0000,,The Secret Sign that the\Nhead family members form easily
+Dialogue: 0,0:17:46.40,0:17:49.77,Default,,0000,0000,0000,,destroys the cerebral nerves\Nof those in the branch family.
+Dialogue: 0,0:17:50.57,0:17:52.94,Default,,0000,0000,0000,,Of course, killing is easy.
+Dialogue: 0,0:17:53.77,0:17:57.77,Default,,0000,0000,0000,,And this mark only goes away\Nat time of death.
+Dialogue: 0,0:17:58.77,0:18:01.32,Default,,0000,0000,0000,,Sealing away the power\Nof the Byakugan.
+Dialogue: 0,0:18:05.98,0:18:09.78,Default,,0000,0000,0000,,The Hyuga family is the clan that possesses\Nthe most distinctive Kekkei Genkai.
+Dialogue: 0,0:18:10.77,0:18:14.15,Default,,0000,0000,0000,,There’s no end to those who\Ntarget the secret of that distinctive power.
+Dialogue: 0,0:18:16.03,0:18:20.57,Default,,0000,0000,0000,,In other words, this Curse Mark\Nkeeps the branch family alive
+Dialogue: 0,0:18:20.61,0:18:23.86,Default,,0000,0000,0000,,only to protect the head family\Nand does not allow disobedience.
+Dialogue: 0,0:18:24.07,0:18:28.44,Default,,0000,0000,0000,,And it’s an effective system created\Nto defend for eternity
+Dialogue: 0,0:18:28.48,0:18:30.77,Default,,0000,0000,0000,,the Kekkei Genkai called Byakugan.
+Dialogue: 0,0:18:31.15,0:18:35.73,Default,,0000,0000,0000,,And then, that incident occurred.
+Dialogue: 0,0:18:36.77,0:18:41.77,Default,,0000,0000,0000,,My father was killed by\Nthe head family.
+Dialogue: 0,0:18:45.77,0:18:49.57,Default,,0000,0000,0000,,One night, Miss Hinata was\Nsnatched up by someone.
+Dialogue: 0,0:19:15.77,0:19:19.77,Default,,0000,0000,0000,,At that time, Lord Hiashi immediately\Nrushed off and killed the abductor.
+Dialogue: 0,0:19:20.77,0:19:23.78,Default,,0000,0000,0000,,Who do you think that person was…
+Dialogue: 0,0:19:23.82,0:19:28.11,Default,,0000,0000,0000,,who was in the shadows,\Nand also wearing a mask?
+Dialogue: 0,0:19:29.11,0:19:33.03,Default,,0000,0000,0000,,It was the head ninja of\Nthe Land of Lightning
+Dialogue: 0,0:19:33.07,0:19:35.78,Default,,0000,0000,0000,,who had just completed\Nthe allied treaty.
+Dialogue: 0,0:19:36.48,0:19:40.48,Default,,0000,0000,0000,,It was clear that he came targeting\Nthe secret of Byakugan from the start.
+Dialogue: 0,0:19:41.36,0:19:45.32,Default,,0000,0000,0000,,However, the Land of Lightning\Nexploited the killing of their own Ninja
+Dialogue: 0,0:19:45.36,0:19:46.86,Default,,0000,0000,0000,,due to a botched plan…
+Dialogue: 0,0:19:46.90,0:19:51.77,Default,,0000,0000,0000,,and set an outrageous condition in\Nviolation of the treaty with the Hidden Leaf.
+Dialogue: 0,0:19:57.94,0:19:59.98,Default,,0000,0000,0000,,Naturally, things got worse and worse,
+Dialogue: 0,0:20:00.03,0:20:02.65,Default,,0000,0000,0000,,and there was almost a war\Nbetween the Leaf and the Lightning.
+Dialogue: 0,0:20:03.90,0:20:06.40,Default,,0000,0000,0000,,However, the Leaf who\Nwanted to avoid war
+Dialogue: 0,0:20:06.44,0:20:08.28,Default,,0000,0000,0000,,made a deal with the Lightning.
+Dialogue: 0,0:20:09.07,0:20:10.32,Default,,0000,0000,0000,,A deal?
+Dialogue: 0,0:20:11.19,0:20:13.44,Default,,0000,0000,0000,,The Lightning demand was\Nthe body of the Hyuga head family
+Dialogue: 0,0:20:13.48,0:20:16.32,Default,,0000,0000,0000,,who possesses Byakugan,\Nthe Kekkei Genkai…
+Dialogue: 0,0:20:17.36,0:20:21.07,Default,,0000,0000,0000,,In other words,\Nthe body of Lord Hiashi.
+Dialogue: 0,0:20:23.77,0:20:26.53,Default,,0000,0000,0000,,And the Leaf accepted the condition.
+Dialogue: 0,0:20:26.86,0:20:29.32,Default,,0000,0000,0000,,What? But, father…
+Dialogue: 0,0:20:30.15,0:20:33.23,Default,,0000,0000,0000,,And war was safely avoided.
+Dialogue: 0,0:20:34.53,0:20:40.40,Default,,0000,0000,0000,,Thanks to my father who was killed\Nas a body double of Hiashi Hyuga,
+Dialogue: 0,0:20:40.44,0:20:42.69,Default,,0000,0000,0000,,to protect the head family!
+Dialogue: 0,0:20:43.44,0:20:47.86,Default,,0000,0000,0000,,Other than dying, there’s no other way\Nto escape this accursed Curse Mark.
+Dialogue: 0,0:20:48.98,0:20:52.23,Default,,0000,0000,0000,,Even though they were twins\Nwith nearly equal power,
+Dialogue: 0,0:20:52.28,0:20:57.77,Default,,0000,0000,0000,,their destinies were already set by\Nwho was born first and born later.
+Dialogue: 0,0:21:03.78,0:21:05.48,Default,,0000,0000,0000,,And then, this match…
+Dialogue: 0,0:21:05.94,0:21:10.44,Default,,0000,0000,0000,,Your destiny was decided at the point\Nwhen I became your opponent.
+Dialogue: 0,0:21:25.77,0:21:29.19,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:29.23,0:21:32.69,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.73,0:21:36.07,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:36.11,0:21:39.44,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:39.48,0:21:45.77,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:45.78,0:21:53.11,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:03.61,0:22:06.94,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:06.98,0:22:10.40,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:10.44,0:22:13.77,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:13.77,0:22:17.03,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:17.23,0:22:23.32,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:23.36,0:22:30.77,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:30.77,0:22:37.23,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:37.28,0:22:44.53,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:51.90,0:22:55.61,Default,,0000,0000,0000,,Are all my Chakra Points\Nreally closed?
+Dialogue: 0,0:22:55.77,0:22:59.98,Default,,0000,0000,0000,,Darn. I cannot feel any Chakra\Nremaining in my body at all…
+Dialogue: 0,0:23:00.03,0:23:03.82,Default,,0000,0000,0000,,just like when I used up all my Chakra\Nin my training with the Pervy Sage.
+Dialogue: 0,0:23:04.03,0:23:08.19,Default,,0000,0000,0000,,Wait. I got it. Just watch me!
+Dialogue: 0,0:23:08.36,0:23:11.36,Default,,0000,0000,0000,,I will squeeze out\Nmy Chakra no matter what!
+Dialogue: 0,0:23:11.98,0:23:14.73,Default,,0000,0000,0000,,Next time,  “A Failure’s True Power.”

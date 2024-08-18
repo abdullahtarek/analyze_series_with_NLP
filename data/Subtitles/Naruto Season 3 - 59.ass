@@ -1,0 +1,299 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.48,0:00:09.65,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.77,0:00:17.90,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.15,0:00:20.19,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.15,0:00:26.90,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:26.94,0:00:30.44,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.65,0:00:34.15,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.57,0:00:37.82,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.86,0:00:45.44,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.48,0:00:54.69,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.73,0:01:02.77,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.90,0:01:09.77,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.78,0:01:17.90,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.23,0:01:26.77,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.77,0:01:28.77,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:02:01.94,0:02:03.77,Default,,0000,0000,0000,,Tomorrow, huh…
+Dialogue: 0,0:02:04.77,0:02:10.77,Default,,0000,0000,0000,,The Final Rounds:\NRush to the Battle Arena!
+Dialogue: 0,0:02:22.94,0:02:25.36,Default,,0000,0000,0000,,What’s up? It’s been a while.
+Dialogue: 0,0:02:26.53,0:02:29.32,Default,,0000,0000,0000,,Heh-heh…\NI was kind of in the hospital.
+Dialogue: 0,0:02:29.36,0:02:30.40,Default,,0000,0000,0000,,The hospital?
+Dialogue: 0,0:02:30.44,0:02:32.77,Default,,0000,0000,0000,,I’m totally fine, now.
+Dialogue: 0,0:02:32.77,0:02:34.77,Default,,0000,0000,0000,,Nothing to it!
+Dialogue: 0,0:02:35.77,0:02:36.94,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:02:39.40,0:02:40.07,Default,,0000,0000,0000,,Ayame!
+Dialogue: 0,0:02:40.11,0:02:40.77,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:02:42.57,0:02:44.28,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:02:52.36,0:02:53.40,Default,,0000,0000,0000,,Pops?
+Dialogue: 0,0:02:53.77,0:02:55.15,Default,,0000,0000,0000,,Just eat it.
+Dialogue: 0,0:02:55.77,0:02:57.73,Default,,0000,0000,0000,,The final round is tomorrow, right?
+Dialogue: 0,0:03:03.65,0:03:04.61,Default,,0000,0000,0000,,Okay, then.
+Dialogue: 0,0:03:05.44,0:03:07.32,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:03:13.53,0:03:16.69,Default,,0000,0000,0000,,You’ve got a daughter at home,\Nso it’s not so bad, right?
+Dialogue: 0,0:03:17.19,0:03:19.90,Default,,0000,0000,0000,,Most of my money vanishes\Nwith the food expenses.
+Dialogue: 0,0:03:20.28,0:03:23.77,Default,,0000,0000,0000,,Moron. Your home is special, right?
+Dialogue: 0,0:03:23.77,0:03:24.73,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:24.82,0:03:27.44,Default,,0000,0000,0000,,Girls are a drag.
+Dialogue: 0,0:03:27.48,0:03:32.77,Default,,0000,0000,0000,,Yeah. There are times when I really\Ndon’t get how to act with her.
+Dialogue: 0,0:03:32.86,0:03:35.77,Default,,0000,0000,0000,,Father’s have it rough…
+Dialogue: 0,0:03:36.36,0:03:38.77,Default,,0000,0000,0000,,Hah, am I the only bad guy?
+Dialogue: 0,0:03:39.82,0:03:41.65,Default,,0000,0000,0000,,Hey, master.
+Dialogue: 0,0:03:41.82,0:03:45.53,Default,,0000,0000,0000,,Let me have everything\Non these two pages, too!
+Dialogue: 0,0:03:45.65,0:03:46.77,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:03:49.11,0:03:51.82,Default,,0000,0000,0000,,Oh! Strong reinforcements!
+Dialogue: 0,0:03:51.86,0:03:53.77,Default,,0000,0000,0000,,Come on. You order something, too!
+Dialogue: 0,0:03:57.77,0:03:59.77,Default,,0000,0000,0000,,Hey…Dad.
+Dialogue: 0,0:03:59.77,0:04:01.11,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:04:01.15,0:04:03.40,Default,,0000,0000,0000,,Hey! Let’s go home, already!
+Dialogue: 0,0:04:03.65,0:04:04.77,Default,,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:04:05.19,0:04:09.90,Default,,0000,0000,0000,,Shut up. You’re supposed to\Nlive it up at a festival!
+Dialogue: 0,0:04:10.28,0:04:12.23,Default,,0000,0000,0000,,Festival, my butt…
+Dialogue: 0,0:04:13.53,0:04:14.90,Default,,0000,0000,0000,,What a drag.
+Dialogue: 0,0:04:15.03,0:04:18.07,Default,,0000,0000,0000,,You idiot… Since olden times…
+Dialogue: 0,0:04:23.23,0:04:26.82,Default,,0000,0000,0000,,the final round’s\Nbeen like a festival!
+Dialogue: 0,0:04:26.86,0:04:29.77,Default,,0000,0000,0000,,I’m in that final round tomorrow.
+Dialogue: 0,0:04:29.77,0:04:32.82,Default,,0000,0000,0000,,Jeez, don’t make come to get you.
+Dialogue: 0,0:04:34.73,0:04:37.48,Default,,0000,0000,0000,,You’re…in it?
+Dialogue: 0,0:04:41.28,0:04:43.23,Default,,0000,0000,0000,,Please, Dad…
+Dialogue: 0,0:05:12.57,0:05:13.77,Default,,0000,0000,0000,,Tomorrow, eh…
+Dialogue: 0,0:05:15.61,0:05:16.53,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:28.48,0:05:31.69,Default,,0000,0000,0000,,Tomorrow…is a full moon…
+Dialogue: 0,0:06:25.86,0:06:28.69,Default,,0000,0000,0000,,To think you didn’t even\Nget a scratch…
+Dialogue: 0,0:06:28.98,0:06:30.82,Default,,0000,0000,0000,,Perfect, eh, Neji?
+Dialogue: 0,0:06:32.86,0:06:35.44,Default,,0000,0000,0000,,That’s enough warm-up exercise…
+Dialogue: 0,0:06:37.23,0:06:38.69,Default,,0000,0000,0000,,Shall we get going?
+Dialogue: 0,0:06:54.77,0:06:58.61,Default,,0000,0000,0000,,I was nervous and couldn’t sleep.
+Dialogue: 0,0:07:00.94,0:07:04.77,Default,,0000,0000,0000,,First…it’s him…\Nin the first match.
+Dialogue: 0,0:07:07.69,0:07:11.77,Default,,0000,0000,0000,,Quite honestly…even my Sharingan\Ncan’t see through his Tenketsu!
+Dialogue: 0,0:07:12.32,0:07:16.82,Default,,0000,0000,0000,,The strongest man in the\NLeaf is on my team.
+Dialogue: 0,0:07:17.77,0:07:20.82,Default,,0000,0000,0000,,It is that…Neji Hyuga!
+Dialogue: 0,0:07:20.86,0:07:23.48,Default,,0000,0000,0000,,Neji…Neji…Neji…
+Dialogue: 0,0:07:49.73,0:07:51.32,Default,,0000,0000,0000,,At last…
+Dialogue: 0,0:08:00.61,0:08:02.94,Default,,0000,0000,0000,,The first match is Neji Hyuga, right?!
+Dialogue: 0,0:08:03.77,0:08:06.65,Default,,0000,0000,0000,,Yeah. He’s the number one rookie\Nfrom last year, right?!
+Dialogue: 0,0:08:06.69,0:08:08.65,Default,,0000,0000,0000,,We can’t miss the first match!
+Dialogue: 0,0:08:11.11,0:08:14.23,Default,,0000,0000,0000,,Neji…Hyuga…
+Dialogue: 0,0:08:17.77,0:08:21.82,Default,,0000,0000,0000,,Now I can summon a frog…\Nlt’ll be okay.
+Dialogue: 0,0:08:26.77,0:08:30.77,Default,,0000,0000,0000,,They all…look nasty.
+Dialogue: 0,0:08:46.28,0:08:47.15,Default,,0000,0000,0000,,Hinata!
+Dialogue: 0,0:08:47.61,0:08:49.77,Default,,0000,0000,0000,,Yipes! N-N-Naruto.
+Dialogue: 0,0:08:51.40,0:08:53.36,Default,,0000,0000,0000,,W-What are you doing here?
+Dialogue: 0,0:08:53.77,0:08:55.44,Default,,0000,0000,0000,,Today is the final round, isn’t it?
+Dialogue: 0,0:08:58.07,0:09:01.19,Default,,0000,0000,0000,,I… Just something…
+Dialogue: 0,0:09:02.32,0:09:04.61,Default,,0000,0000,0000,,I came to check out this training field.
+Dialogue: 0,0:09:04.94,0:09:08.28,Default,,0000,0000,0000,,This is the place where\NI became Genin, so…
+Dialogue: 0,0:09:11.40,0:09:14.19,Default,,0000,0000,0000,,Really? W-Why?
+Dialogue: 0,0:09:14.61,0:09:18.77,Default,,0000,0000,0000,,N-Nothing…That doesn’t matter!
+Dialogue: 0,0:09:19.57,0:09:22.19,Default,,0000,0000,0000,,Y-You’re right. I’m sorry.
+Dialogue: 0,0:09:24.86,0:09:26.61,Default,,0000,0000,0000,,Say, Hinata…
+Dialogue: 0,0:09:27.15,0:09:29.94,Default,,0000,0000,0000,,Neji’s a relative of yours, right?
+Dialogue: 0,0:09:30.94,0:09:32.32,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:09:33.90,0:09:36.28,Default,,0000,0000,0000,,Is he really strong …?
+Dialogue: 0,0:09:39.40,0:09:40.19,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:09:42.19,0:09:43.19,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:09:43.65,0:09:47.40,Default,,0000,0000,0000,,B-But you might be able to win, Naruto.
+Dialogue: 0,0:09:48.40,0:09:51.15,Default,,0000,0000,0000,,Yeah. I’m strong, after all!
+Dialogue: 0,0:10:01.90,0:10:04.44,Default,,0000,0000,0000,,I bet you can win, Naruto.
+Dialogue: 0,0:10:04.69,0:10:05.48,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:05.86,0:10:07.03,Default,,0000,0000,0000,,You know…
+Dialogue: 0,0:10:07.36,0:10:10.77,Default,,0000,0000,0000,,I…when you cheered for me,
+Dialogue: 0,0:10:10.86,0:10:13.77,Default,,0000,0000,0000,,I felt like I was able to become\Nstronger than before.
+Dialogue: 0,0:10:14.28,0:10:17.07,Default,,0000,0000,0000,,Hinata! Hang tough!
+Dialogue: 0,0:10:17.23,0:10:18.77,Default,,0000,0000,0000,,When the preliminaries ended,
+Dialogue: 0,0:10:19.07,0:10:21.77,Default,,0000,0000,0000,,I became able to like\Nmyself just a little.
+Dialogue: 0,0:10:24.77,0:10:25.86,Default,,0000,0000,0000,,I'll…
+Dialogue: 0,0:10:27.98,0:10:29.36,Default,,0000,0000,0000,,stand…
+Dialogue: 0,0:10:32.03,0:10:33.77,Default,,0000,0000,0000,,by my own…
+Dialogue: 0,0:10:35.11,0:10:36.36,Default,,0000,0000,0000,,words.
+Dialogue: 0,0:10:37.78,0:10:41.77,Default,,0000,0000,0000,,That is my way of Ninja.
+Dialogue: 0,0:10:42.73,0:10:46.77,Default,,0000,0000,0000,,From someone else's standpoint,\Nit might not look like anything’s changed…
+Dialogue: 0,0:10:47.61,0:10:51.11,Default,,0000,0000,0000,,but I feel like I was able to change.
+Dialogue: 0,0:10:52.53,0:10:57.07,Default,,0000,0000,0000,,I’ve been thinking that it was…\Nthanks to you, Naruto.
+Dialogue: 0,0:10:59.77,0:11:01.48,Default,,0000,0000,0000,,Say, Hinata…
+Dialogue: 0,0:11:02.77,0:11:05.36,Default,,0000,0000,0000,,Did you really think so?
+Dialogue: 0,0:11:05.77,0:11:06.48,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:09.73,0:11:13.73,Default,,0000,0000,0000,,I may look strong to you,
+Dialogue: 0,0:11:14.73,0:11:17.53,Default,,0000,0000,0000,,but all I do is mess up…
+Dialogue: 0,0:11:18.19,0:11:21.61,Default,,0000,0000,0000,,And I act tough because\NI’m frustrated.
+Dialogue: 0,0:11:21.69,0:11:23.11,Default,,0000,0000,0000,,It’s not like that!
+Dialogue: 0,0:11:24.28,0:11:26.77,Default,,0000,0000,0000,,Even when you messed up,
+Dialogue: 0,0:11:28.73,0:11:32.77,Default,,0000,0000,0000,,in my view…you were always\Na proud failure.
+Dialogue: 0,0:11:34.57,0:11:39.11,Default,,0000,0000,0000,,W-When I look at you,\Nit impacts my heart.
+Dialogue: 0,0:11:40.28,0:11:41.77,Default,,0000,0000,0000,,You’re not perfect, so…
+Dialogue: 0,0:11:43.32,0:11:44.32,Default,,0000,0000,0000,,So…
+Dialogue: 0,0:11:45.61,0:11:46.98,Default,,0000,0000,0000,,It’s because you mess up…
+Dialogue: 0,0:11:47.77,0:11:50.77,Default,,0000,0000,0000,,that you have the strength\Nto rise up from that.
+Dialogue: 0,0:11:51.77,0:11:56.78,Default,,0000,0000,0000,,I think such strength is\Ntrue strength.
+Dialogue: 0,0:11:58.98,0:12:02.78,Default,,0000,0000,0000,,I…I think you’re an\Nincredibly strong person.
+Dialogue: 0,0:12:12.57,0:12:14.11,Default,,0000,0000,0000,,Thanks, Hinata!
+Dialogue: 0,0:12:16.98,0:12:20.15,Default,,0000,0000,0000,,Even though I was always\Nthe bottom one…
+Dialogue: 0,0:12:20.40,0:12:22.94,Default,,0000,0000,0000,,I was tense in the shoulders, somehow!
+Dialogue: 0,0:12:23.61,0:12:25.86,Default,,0000,0000,0000,,I was depressed,\Nwhich was totally not my character.
+Dialogue: 0,0:12:25.98,0:12:28.77,Default,,0000,0000,0000,,But I feel better now!
+Dialogue: 0,0:12:29.77,0:12:30.98,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:31.36,0:12:34.11,Default,,0000,0000,0000,,Okay! I’m off to the match!
+Dialogue: 0,0:12:38.69,0:12:39.77,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:12:39.98,0:12:40.82,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:41.65,0:12:44.78,Default,,0000,0000,0000,,I kind of…thought you were…
+Dialogue: 0,0:12:45.36,0:12:46.78,Default,,0000,0000,0000,,W-What…?
+Dialogue: 0,0:12:47.53,0:12:50.78,Default,,0000,0000,0000,,…gloomy, hesitant and weird.
+Dialogue: 0,0:12:51.57,0:12:52.77,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:53.77,0:12:56.19,Default,,0000,0000,0000,,But I quite like…people…
+Dialogue: 0,0:12:58.57,0:13:00.98,Default,,0000,0000,0000,,like you!
+Dialogue: 0,0:13:04.19,0:13:05.61,Default,,0000,0000,0000,,…like you!
+Dialogue: 0,0:13:13.90,0:13:18.77,Default,,0000,0000,0000,,Oh, yeah! Be sure to come watch me\Nkick that Neji’s butt!
+Dialogue: 0,0:13:22.65,0:13:25.77,Default,,0000,0000,0000,,Uh-oh. Time to run!
+Dialogue: 0,0:13:25.98,0:13:27.23,Default,,0000,0000,0000,,I-I’m late, late!
+Dialogue: 0,0:13:27.28,0:13:29.65,Default,,0000,0000,0000,,See you later, Hinata!
+Dialogue: 0,0:13:34.40,0:13:37.19,Default,,0000,0000,0000,,Sorry I’m late, Hinata.
+Dialogue: 0,0:13:37.77,0:13:40.77,Default,,0000,0000,0000,,Well, Shino’s match isn’t until\Nquite a bit later, so…
+Dialogue: 0,0:13:41.23,0:13:43.77,Default,,0000,0000,0000,,Hm? Hey? Hinata?
+Dialogue: 0,0:13:54.23,0:13:56.90,Default,,0000,0000,0000,,Hmm? W-What?
+Dialogue: 0,0:14:06.77,0:14:08.23,Default,,0000,0000,0000,,Oh, it’s starting!
+Dialogue: 0,0:14:08.44,0:14:10.23,Default,,0000,0000,0000,,Move, move!
+Dialogue: 0,0:14:10.57,0:14:12.73,Default,,0000,0000,0000,,C'mon, move!
+Dialogue: 0,0:14:12.77,0:14:15.32,Default,,0000,0000,0000,,Dang it! There’s quite a distance!
+Dialogue: 0,0:14:15.36,0:14:16.73,Default,,0000,0000,0000,,I won’t make it!
+Dialogue: 0,0:14:17.11,0:14:18.61,Default,,0000,0000,0000,,Brother Naruto!
+Dialogue: 0,0:14:22.11,0:14:23.28,Default,,0000,0000,0000,,Konohamaru?!
+Dialogue: 0,0:14:24.15,0:14:27.19,Default,,0000,0000,0000,,I’ve come to aid in brother’s crisis, here!
+Dialogue: 0,0:14:27.40,0:14:30.78,Default,,0000,0000,0000,,Konohamaru…\NWhat’re you doing here?!
+Dialogue: 0,0:14:30.82,0:14:31.82,Default,,0000,0000,0000,,I’ll tell you later!
+Dialogue: 0,0:14:32.03,0:14:32.98,Default,,0000,0000,0000,,This way, here!
+Dialogue: 0,0:14:33.57,0:14:37.77,Default,,0000,0000,0000,,There’s an ace shortcut where\Nyou can get straight to the arena, here!
+Dialogue: 0,0:14:38.28,0:14:39.32,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:39.36,0:14:42.23,Default,,0000,0000,0000,,All right!\NWell done, Konohamaru!
+Dialogue: 0,0:14:42.61,0:14:46.19,Default,,0000,0000,0000,,Those who control the\Nsecret path control time.
+Dialogue: 0,0:14:46.44,0:14:50.28,Default,,0000,0000,0000,,Oh, I see!\NYou’re awesome, Konohamaru!
+Dialogue: 0,0:14:50.77,0:14:53.61,Default,,0000,0000,0000,,As I recall, there’s a hole\Nin the wall around here…
+Dialogue: 0,0:14:54.07,0:14:54.77,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:14:55.19,0:14:56.03,Default,,0000,0000,0000,,Here it is!
+Dialogue: 0,0:14:57.82,0:14:58.77,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:14:59.77,0:15:01.98,Default,,0000,0000,0000,,What’s the matter, Konohamaru?
+Dialogue: 0,0:15:03.03,0:15:05.86,Default,,0000,0000,0000,,The secret path has been repaired, here!
+Dialogue: 0,0:15:05.90,0:15:07.40,Default,,0000,0000,0000,,Whaat…?
+Dialogue: 0,0:15:07.44,0:15:09.90,Default,,0000,0000,0000,,Oh! There’s no time!
+Dialogue: 0,0:15:10.19,0:15:10.94,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:15:11.57,0:15:12.57,Default,,0000,0000,0000,,Next approach!
+Dialogue: 0,0:15:12.77,0:15:15.69,Default,,0000,0000,0000,,Look! I’m really out of time.
+Dialogue: 0,0:15:17.98,0:15:20.73,Default,,0000,0000,0000,,It’s a secret, but there’s\Nan awesome path
+Dialogue: 0,0:15:20.77,0:15:23.82,Default,,0000,0000,0000,,that can get you inside the arena\Nin an instant, here!
+Dialogue: 0,0:15:24.32,0:15:28.32,Default,,0000,0000,0000,,What?! All right!\NWell done, Konohamaru!
+Dialogue: 0,0:15:30.77,0:15:32.98,Default,,0000,0000,0000,,This hole is a shortcut?
+Dialogue: 0,0:15:33.40,0:15:35.73,Default,,0000,0000,0000,,It’s a straight shot to\Nthe final round arena!
+Dialogue: 0,0:15:35.77,0:15:37.44,Default,,0000,0000,0000,,No doubt, here!
+Dialogue: 0,0:15:37.61,0:15:41.48,Default,,0000,0000,0000,,Straight shot, huh? 					Okay!
+Dialogue: 0,0:15:41.77,0:15:43.36,Default,,0000,0000,0000,,Let’s hurry!
+Dialogue: 0,0:15:43.53,0:15:44.40,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:49.77,0:15:51.94,Default,,0000,0000,0000,,Konohamaru!\NWhat’s happening here?!
+Dialogue: 0,0:15:52.19,0:15:53.57,Default,,0000,0000,0000,,It’s okay, here!
+Dialogue: 0,0:15:53.61,0:15:55.77,Default,,0000,0000,0000,,We’re almost to the final\Nround arena, here!
+Dialogue: 0,0:15:56.57,0:15:59.07,Default,,0000,0000,0000,,See? There’s the exit, here!
+Dialogue: 0,0:15:59.11,0:16:01.28,Default,,0000,0000,0000,,Oh, oh.
+Dialogue: 0,0:16:02.86,0:16:03.82,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:11.86,0:16:14.44,Default,,0000,0000,0000,,Hot-hot-hot-hot-hot-hot!
+Dialogue: 0,0:16:14.65,0:16:18.78,Default,,0000,0000,0000,,T-This is…some kind of mistake!
+Dialogue: 0,0:16:20.11,0:16:23.77,Default,,0000,0000,0000,,Kooonooohaaamaaaruuu!
+Dialogue: 0,0:16:24.15,0:16:26.82,Default,,0000,0000,0000,,What the heck are you doing?!
+Dialogue: 0,0:16:27.48,0:16:30.40,Default,,0000,0000,0000,,We’ve gotten further\Nand further away!
+Dialogue: 0,0:16:30.53,0:16:32.32,Default,,0000,0000,0000,,Until just recently,
+Dialogue: 0,0:16:32.36,0:16:34.82,Default,,0000,0000,0000,,it was connected to the\Nfinal round arena, here.
+Dialogue: 0,0:16:35.03,0:16:37.48,Default,,0000,0000,0000,,Next approach, right away…
+Dialogue: 0,0:16:42.28,0:16:43.32,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:16:47.77,0:16:51.78,Default,,0000,0000,0000,,If you ride this, you’ll get to the\Nfinal round arena just like that, here!
+Dialogue: 0,0:16:53.77,0:16:56.03,Default,,0000,0000,0000,,Huh? A bull?
+Dialogue: 0,0:16:56.36,0:16:57.61,Default,,0000,0000,0000,,Think again, brother.
+Dialogue: 0,0:16:57.65,0:17:02.48,Default,,0000,0000,0000,,A feudal lord Bull is not at all in\Nthe same league as ordinary cows, here.
+Dialogue: 0,0:17:03.11,0:17:05.98,Default,,0000,0000,0000,,Once they start running,\Neven race horses grow deathly pale.
+Dialogue: 0,0:17:06.03,0:17:08.77,Default,,0000,0000,0000,,There’s no way they can beat\Na no-nonsense feudal lord cow!
+Dialogue: 0,0:17:08.94,0:17:11.28,Default,,0000,0000,0000,,Anyway, it’s an awesome cow!
+Dialogue: 0,0:17:16.23,0:17:19.53,Default,,0000,0000,0000,,Brother, if you leave the rest to this cow,
+Dialogue: 0,0:17:19.57,0:17:21.94,Default,,0000,0000,0000,,it’s just a short run to\Nthe final round arena, here!
+Dialogue: 0,0:17:22.69,0:17:24.28,Default,,0000,0000,0000,,Then, I’m counting on you.
+Dialogue: 0,0:17:24.53,0:17:26.07,Default,,0000,0000,0000,,Okay, let’s go!
+Dialogue: 0,0:17:31.57,0:17:32.82,Default,,0000,0000,0000,,Huh? Wha--?!
+Dialogue: 0,0:17:37.77,0:17:39.65,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:17:48.77,0:17:49.77,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:03.73,0:18:05.77,Default,,0000,0000,0000,,Brother, go for it, here!
+Dialogue: 0,0:18:05.77,0:18:08.82,Default,,0000,0000,0000,,Hey! Stop! Stop!
+Dialogue: 0,0:18:24.78,0:18:28.65,Default,,0000,0000,0000,,Hey-hey, we’re missing quite\Na few people.
+Dialogue: 0,0:18:29.53,0:18:33.77,Default,,0000,0000,0000,,What’s going on?\Nlt’s going to start.
+Dialogue: 0,0:18:34.57,0:18:36.69,Default,,0000,0000,0000,,What’s the meaning of this?\NSasuke…?
+Dialogue: 0,0:18:37.48,0:18:38.98,Default,,0000,0000,0000,,And even Naruto…
+Dialogue: 0,0:18:46.11,0:18:48.94,Default,,0000,0000,0000,,Why is it?!
+Dialogue: 0,0:18:56.86,0:18:59.32,Default,,0000,0000,0000,,This is bad!
+Dialogue: 0,0:18:59.77,0:19:00.77,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:19:00.90,0:19:02.77,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:19:05.48,0:19:08.03,Default,,0000,0000,0000,,Guys! Scatter the rampaging cows!
+Dialogue: 0,0:19:08.07,0:19:08.77,Default,,0000,0000,0000,,– Yeah! 					– Yeah!
+Dialogue: 0,0:19:22.03,0:19:26.32,Default,,0000,0000,0000,,What’s wrong with you guys?\NWhy are you back, hey?!
+Dialogue: 0,0:19:27.03,0:19:28.48,Default,,0000,0000,0000,,More appeared!
+Dialogue: 0,0:19:28.53,0:19:30.73,Default,,0000,0000,0000,,The escape path was blocked!
+Dialogue: 0,0:19:30.77,0:19:33.90,Default,,0000,0000,0000,,It won’t do any good to multiply!
+Dialogue: 0,0:19:38.23,0:19:39.77,Default,,0000,0000,0000,,Hmm? What the--?!
+Dialogue: 0,0:19:39.98,0:19:41.53,Default,,0000,0000,0000,,Naruto Uzumaki…?
+Dialogue: 0,0:19:41.77,0:19:43.77,Default,,0000,0000,0000,,We leave the rest to you!
+Dialogue: 0,0:19:45.69,0:19:47.57,Default,,0000,0000,0000,,Whoa, let us in, quick!
+Dialogue: 0,0:19:48.15,0:19:48.77,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:48.77,0:19:50.40,Default,,0000,0000,0000,,Entry has already…!
+Dialogue: 0,0:20:02.77,0:20:05.77,Default,,0000,0000,0000,,What kind…of entrance is\Nthis kid making…?
+Dialogue: 0,0:20:09.77,0:20:11.07,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:20:11.19,0:20:13.78,Default,,0000,0000,0000,,He’s totally late.
+Dialogue: 0,0:20:15.40,0:20:16.94,Default,,0000,0000,0000,,What a drag.
+Dialogue: 0,0:20:19.61,0:20:24.77,Default,,0000,0000,0000,,Guys, run! A large herd of\Nstampeding bulls is coming.
+Dialogue: 0,0:20:24.90,0:20:27.65,Default,,0000,0000,0000,,Huh? What are you talking about?
+Dialogue: 0,0:20:27.69,0:20:31.53,Default,,0000,0000,0000,,Jeez! I’m serious.\NSo many of them…!
+Dialogue: 0,0:20:35.77,0:20:38.48,Default,,0000,0000,0000,,Huh? Hey… 					Where's Sasuke?
+Dialogue: 0,0:20:38.77,0:20:41.65,Default,,0000,0000,0000,,The Dosu guy I’m supposed\Nto fight isn’t here, either.
+Dialogue: 0,0:20:41.69,0:20:43.44,Default,,0000,0000,0000,,Hey, you guys there.
+Dialogue: 0,0:20:43.61,0:20:45.28,Default,,0000,0000,0000,,Don’t be restless.
+Dialogue: 0,0:20:45.57,0:20:48.82,Default,,0000,0000,0000,,Throw out your chests and\Nshow your faces to the spectators!
+Dialogue: 0,0:21:09.86,0:21:13.65,Default,,0000,0000,0000,,You guys are the stars of\Nthis “final round.”
+Dialogue: 0,0:21:25.32,0:21:28.77,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:28.77,0:21:32.07,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.11,0:21:35.69,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:35.73,0:21:38.82,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:38.86,0:21:45.36,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:45.40,0:21:52.73,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:02.98,0:22:06.57,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:06.61,0:22:09.78,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:09.82,0:22:13.23,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:13.28,0:22:16.65,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:16.77,0:22:22.77,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:22.77,0:22:30.19,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:30.28,0:22:36.77,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:36.77,0:22:43.90,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:51.61,0:22:52.32,Default,,0000,0000,0000,,Hey Hinata!
+Dialogue: 0,0:22:52.36,0:22:56.28,Default,,0000,0000,0000,,Keep your eyes open and watch me\Ndefeat this unpleasant guy!
+Dialogue: 0,0:22:56.32,0:23:00.40,Default,,0000,0000,0000,,He goes and decides that\Na person's life path can't be changed…
+Dialogue: 0,0:23:00.57,0:23:03.78,Default,,0000,0000,0000,,Destiny is decided when one is born?\NDon't kid me!
+Dialogue: 0,0:23:03.90,0:23:05.57,Default,,0000,0000,0000,,People definitely can change.
+Dialogue: 0,0:23:05.61,0:23:08.90,Default,,0000,0000,0000,,By defeating this guy,\NI'll prove that!
+Dialogue: 0,0:23:09.36,0:23:13.57,Default,,0000,0000,0000,,Next time,\N "Byakugan vs. Shadow Clone"
+Dialogue: 0,0:23:13.61,0:23:16.07,Default,,0000,0000,0000,,Quit gabbing\Nand let's get started!

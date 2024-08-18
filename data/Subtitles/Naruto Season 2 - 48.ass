@@ -1,0 +1,325 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.52,0:00:09.19,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.22,0:00:13.09,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.12,0:00:17.20,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.56,0:00:19.96,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.00,0:00:24.14,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.17,0:00:28.17,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.54,0:00:34.45,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.01,0:00:38.02,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.52,0:00:42.55,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.32,0:00:44.56,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.86,0:00:47.56,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.57,0:01:00.94,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.14,0:01:02.41,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.44,0:01:06.21,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.54,0:01:11.65,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:11.92,0:01:13.38,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.42,0:01:14.72,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.75,0:01:21.13,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:42.35,0:01:44.55,Default,,0000,0000,0000,,Hey you, failure.
+Dialogue: 0,0:01:46.85,0:01:49.02,Default,,0000,0000,0000,,I have two pieces\Nof advice for you.
+Dialogue: 0,0:01:49.95,0:01:51.82,Default,,0000,0000,0000,,First, if you intend to call\Nyourself a Shinobi,
+Dialogue: 0,0:01:51.86,0:01:53.26,Default,,0000,0000,0000,,stop that revolting cheering of yours.
+Dialogue: 0,0:01:54.83,0:01:56.06,Default,,0000,0000,0000,,And second...
+Dialogue: 0,0:01:57.40,0:01:59.66,Default,,0000,0000,0000,,a failure will\Nalways be a failure.
+Dialogue: 0,0:02:00.40,0:02:01.63,Default,,0000,0000,0000,,There's no changing that!
+Dialogue: 0,0:02:05.44,0:02:06.67,Default,,0000,0000,0000,,Do you want to see about that?
+Dialogue: 0,0:02:15.11,0:02:15.81,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:02:16.41,0:02:19.02,Default,,0000,0000,0000,,Naruto, I get where you're\Ncoming from, believe me.
+Dialogue: 0,0:02:19.85,0:02:23.25,Default,,0000,0000,0000,,But all fighting must be done\Nofficially in a match!
+Dialogue: 0,0:02:24.56,0:02:28.06,Default,,0000,0000,0000,,The failure beats the gifted genius\Nthrough sheer effort…
+Dialogue: 0,0:02:29.19,0:02:30.80,Default,,0000,0000,0000,,Wouldn't that make for\Nan exciting main battle?
+Dialogue: 0,0:02:34.57,0:02:36.27,Default,,0000,0000,0000,,I promise you.
+Dialogue: 0,0:02:45.54,0:02:47.11,Default,,0000,0000,0000,,I will win no matter what!
+Dialogue: 0,0:02:56.55,0:03:02.56,Default,,0000,0000,0000,,Gaara vs. Rock Lee:\NThe Power of Youth Explodes!
+Dialogue: 0,0:03:03.43,0:03:04.43,Default,,0000,0000,0000,,Hey, Choji!
+Dialogue: 0,0:03:04.70,0:03:05.96,Default,,0000,0000,0000,,You're in trouble.
+Dialogue: 0,0:03:06.50,0:03:08.57,Default,,0000,0000,0000,,Only the strong ones are left.
+Dialogue: 0,0:03:09.77,0:03:13.40,Default,,0000,0000,0000,,Probably the strongest of Hidden Sound\Nmust be that bloke.
+Dialogue: 0,0:03:14.34,0:03:17.38,Default,,0000,0000,0000,,And Lee is apparently strong\Nenough to take on Sasuke!
+Dialogue: 0,0:03:18.31,0:03:20.18,Default,,0000,0000,0000,,And particularly that Sand guy!
+Dialogue: 0,0:03:21.11,0:03:23.55,Default,,0000,0000,0000,,He's probably\Nthe most dangerous one!
+Dialogue: 0,0:03:29.95,0:03:31.82,Default,,0000,0000,0000,,I-I don't care!
+Dialogue: 0,0:03:32.16,0:03:34.56,Default,,0000,0000,0000,,I plan to forfeit right away\Nif that happens…
+Dialogue: 0,0:03:34.83,0:03:35.86,Default,,0000,0000,0000,,So that means…
+Dialogue: 0,0:03:35.93,0:03:36.49,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:36.56,0:03:39.36,Default,,0000,0000,0000,,...you plan to forego\Nall-you-can-eat BBQ, too, then.
+Dialogue: 0,0:03:39.43,0:03:41.57,Default,,0000,0000,0000,,What? Come on!
+Dialogue: 0,0:03:43.27,0:03:44.27,Default,,0000,0000,0000,,Don’t worry.
+Dialogue: 0,0:03:44.50,0:03:45.60,Default,,0000,0000,0000,,If things start getting ugly,
+Dialogue: 0,0:03:45.64,0:03:49.54,Default,,0000,0000,0000,,I'll step in and stop the fight,\Nlike I did for Hinata. Okay?
+Dialogue: 0,0:03:50.11,0:03:51.61,Default,,0000,0000,0000,,Prime beef tongue, short ribs...
+Dialogue: 0,0:03:51.64,0:03:54.15,Default,,0000,0000,0000,,– You can eat what you want.\N– Don't dangle food in front of him!
+Dialogue: 0,0:03:54.68,0:03:56.25,Default,,0000,0000,0000,,– Besides he didn't step in...\N– You can eat whatever you want...
+Dialogue: 0,0:03:56.31,0:03:58.02,Default,,0000,0000,0000,,– and stop the fight for Hinata.\N– and all you want.
+Dialogue: 0,0:04:00.55,0:04:07.56,Default,,0000,0000,0000,,B-B-Q! All right, B-B-Q!\NAll you can eat!
+Dialogue: 0,0:04:11.60,0:04:13.56,Default,,0000,0000,0000,,He doesn't look good.
+Dialogue: 0,0:04:14.57,0:04:16.30,Default,,0000,0000,0000,,Watching the previous fight…
+Dialogue: 0,0:04:17.17,0:04:18.54,Default,,0000,0000,0000,,Did it get stirred up?
+Dialogue: 0,0:04:19.60,0:04:22.34,Default,,0000,0000,0000,,His inner demon!
+Dialogue: 0,0:04:23.98,0:04:26.48,Default,,0000,0000,0000,,I’m curious about that guy, Neji, too…
+Dialogue: 0,0:04:28.98,0:04:30.55,Default,,0000,0000,0000,,Here's a plan.
+Dialogue: 0,0:04:32.55,0:04:33.48,Default,,0000,0000,0000,,Kankuro?
+Dialogue: 0,0:04:33.55,0:04:36.19,Default,,0000,0000,0000,,Just a little\Ninformation-gathering mission.
+Dialogue: 0,0:04:37.86,0:04:38.56,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:38.56,0:04:39.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:39.59,0:04:41.63,Default,,0000,0000,0000,,What are you doing here\Nall by yourself?
+Dialogue: 0,0:04:42.09,0:04:44.46,Default,,0000,0000,0000,,Shouldn't you be with your friends?
+Dialogue: 0,0:04:44.80,0:04:47.00,Default,,0000,0000,0000,,I-It's none of your business, is it?!
+Dialogue: 0,0:04:49.07,0:04:50.97,Default,,0000,0000,0000,,Hmmm. Well, well…
+Dialogue: 0,0:04:52.07,0:04:54.44,Default,,0000,0000,0000,,That guy... Neji Hyuga, right?
+Dialogue: 0,0:04:55.14,0:04:56.71,Default,,0000,0000,0000,,Well, it seems to me that
+Dialogue: 0,0:04:56.77,0:04:59.54,Default,,0000,0000,0000,,he didn't reveal the true extent\Nof his power in that last match.
+Dialogue: 0,0:04:59.58,0:05:00.68,Default,,0000,0000,0000,,What's he about?
+Dialogue: 0,0:05:02.81,0:05:04.75,Default,,0000,0000,0000,,I'm going to crush him!
+Dialogue: 0,0:05:06.88,0:05:09.55,Default,,0000,0000,0000,,Err, that's not what\NI was asking.
+Dialogue: 0,0:05:10.69,0:05:13.56,Default,,0000,0000,0000,,Besides, this guy’s way out of his league...
+Dialogue: 0,0:05:14.73,0:05:18.23,Default,,0000,0000,0000,,You seem like a fun guy.\NI quite like you.
+Dialogue: 0,0:05:18.56,0:05:22.57,Default,,0000,0000,0000,,You're dull.\NAnd I don't like you at all!
+Dialogue: 0,0:05:24.90,0:05:27.54,Default,,0000,0000,0000,,I'm going to waste this guy!
+Dialogue: 0,0:05:30.54,0:05:32.84,Default,,0000,0000,0000,,We will now resume the battle.
+Dialogue: 0,0:05:36.55,0:05:37.55,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:38.22,0:05:41.75,Default,,0000,0000,0000,,You'll be up this time for sure.\NGo for it, Lee!
+Dialogue: 0,0:05:42.55,0:05:43.55,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:05:43.55,0:05:44.42,Default,,0000,0000,0000,,– Huh? 					– What?
+Dialogue: 0,0:05:44.89,0:05:49.69,Default,,0000,0000,0000,,Seeing as I've come this far,\NI rather be the last!
+Dialogue: 0,0:05:52.00,0:05:54.07,Default,,0000,0000,0000,,Is Lee sulking?
+Dialogue: 0,0:06:20.56,0:06:23.03,Default,,0000,0000,0000,,Hurry up and get down here…
+Dialogue: 0,0:06:26.36,0:06:27.80,Default,,0000,0000,0000,,Safe!
+Dialogue: 0,0:06:29.30,0:06:32.10,Default,,0000,0000,0000,,– Hey!\N– Don't do anything misleading, idiot!
+Dialogue: 0,0:06:32.30,0:06:34.47,Default,,0000,0000,0000,,Gaara vs. Rock Lee
+Dialogue: 0,0:06:35.54,0:06:36.27,Default,,0000,0000,0000,,Oh! Lee!
+Dialogue: 0,0:06:38.11,0:06:39.61,Default,,0000,0000,0000,,It worked!
+Dialogue: 0,0:06:40.34,0:06:42.55,Default,,0000,0000,0000,,If you say you want to go last,\Nthen you won't be last.
+Dialogue: 0,0:06:43.25,0:06:45.32,Default,,0000,0000,0000,,It's an application of the same law
+Dialogue: 0,0:06:45.35,0:06:47.89,Default,,0000,0000,0000,,that says a stone thrown to hit\Na telephone pole will miss,
+Dialogue: 0,0:06:47.92,0:06:50.86,Default,,0000,0000,0000,,and a stone thrown to miss\Nwill be a direct hit!
+Dialogue: 0,0:06:51.16,0:06:54.13,Default,,0000,0000,0000,,Right! That's my student!
+Dialogue: 0,0:06:54.33,0:06:56.63,Default,,0000,0000,0000,,I absolutely did not\Nwant to go last!
+Dialogue: 0,0:06:57.19,0:06:59.56,Default,,0000,0000,0000,,I threw them a beauty of a curve!
+Dialogue: 0,0:07:00.43,0:07:02.07,Default,,0000,0000,0000,,Threw whom a curve?
+Dialogue: 0,0:07:02.50,0:07:05.90,Default,,0000,0000,0000,,Okay, so let me give you\Na little piece of “nice” advice.
+Dialogue: 0,0:07:06.47,0:07:07.14,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:07:08.44,0:07:11.54,Default,,0000,0000,0000,,Probably no one has noticed yet, but…
+Dialogue: 0,0:07:12.51,0:07:14.95,Default,,0000,0000,0000,,That gourd is suspicious!
+Dialogue: 0,0:07:15.55,0:07:16.55,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:07:17.21,0:07:18.22,Default,,0000,0000,0000,,Quit with the notes!
+Dialogue: 0,0:07:18.55,0:07:22.55,Default,,0000,0000,0000,,You're not going to have time to\Nread them during the match! Fool!
+Dialogue: 0,0:07:22.72,0:07:23.55,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:07:25.36,0:07:26.96,Default,,0000,0000,0000,,He didn't realize that?
+Dialogue: 0,0:07:28.09,0:07:30.26,Default,,0000,0000,0000,,Wow, is Lee going to be all right?
+Dialogue: 0,0:07:30.46,0:07:34.67,Default,,0000,0000,0000,,All right! 					Go! Lee!
+Dialogue: 0,0:07:35.27,0:07:36.73,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:45.54,0:07:48.71,Default,,0000,0000,0000,,I am very happy to be squaring\Noff with you so early in the match.
+Dialogue: 0,0:07:54.02,0:07:57.56,Default,,0000,0000,0000,,I don't know what kind of moves\Nthat bowl-cut guy has,
+Dialogue: 0,0:07:57.76,0:07:59.56,Default,,0000,0000,0000,,but he will never take Gaara.
+Dialogue: 0,0:08:00.56,0:08:01.56,Default,,0000,0000,0000,,Never!
+Dialogue: 0,0:08:02.33,0:08:06.73,Default,,0000,0000,0000,,He's fast, to be sure,\Nbut his kick is not all that great.
+Dialogue: 0,0:08:07.63,0:08:08.50,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:08:20.21,0:08:22.61,Default,,0000,0000,0000,,He's... strong!
+Dialogue: 0,0:08:27.59,0:08:29.22,Default,,0000,0000,0000,,Please don't be in such a hurry.
+Dialogue: 0,0:08:35.56,0:08:36.46,Default,,0000,0000,0000,,Lee…
+Dialogue: 0,0:08:39.76,0:08:42.40,Default,,0000,0000,0000,,Be careful, Lee.
+Dialogue: 0,0:08:47.44,0:08:50.21,Default,,0000,0000,0000,,Now then… The 9th match...
+Dialogue: 0,0:08:53.14,0:08:53.84,Default,,0000,0000,0000,,Begin!
+Dialogue: 0,0:08:58.02,0:08:59.92,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:09:17.60,0:09:18.57,Default,,0000,0000,0000,,Is that…?
+Dialogue: 0,0:09:18.90,0:09:19.54,Default,,0000,0000,0000,,Sand?
+Dialogue: 0,0:09:20.44,0:09:21.54,Default,,0000,0000,0000,,What an unusual Jutsu…
+Dialogue: 0,0:09:22.17,0:09:25.11,Default,,0000,0000,0000,,There's sand in his gourd!
+Dialogue: 0,0:09:26.01,0:09:26.71,Default,,0000,0000,0000,,That's…
+Dialogue: 0,0:09:31.32,0:09:32.55,Default,,0000,0000,0000,,That's it?
+Dialogue: 0,0:09:34.02,0:09:35.69,Default,,0000,0000,0000,,Desert Coffin!
+Dialogue: 0,0:09:45.63,0:09:47.26,Default,,0000,0000,0000,,Desert Burial!
+Dialogue: 0,0:09:50.53,0:09:53.17,Default,,0000,0000,0000,,Not another horror story like that…
+Dialogue: 0,0:09:54.31,0:09:56.44,Default,,0000,0000,0000,,A sand-manipulating Jutsu, eh?
+Dialogue: 0,0:09:56.97,0:09:58.14,Default,,0000,0000,0000,,Sounds like trouble.
+Dialogue: 0,0:09:59.11,0:10:01.18,Default,,0000,0000,0000,,But let's give it a go!
+Dialogue: 0,0:10:28.97,0:10:31.54,Default,,0000,0000,0000,,Even that Lee’s fast strikes…
+Dialogue: 0,0:10:31.58,0:10:33.14,Default,,0000,0000,0000,,have no effect at all!
+Dialogue: 0,0:10:33.54,0:10:35.55,Default,,0000,0000,0000,,What's the deal?!
+Dialogue: 0,0:10:36.18,0:10:39.62,Default,,0000,0000,0000,,No physical strike is going to\Nhave any effect on him.
+Dialogue: 0,0:10:39.75,0:10:40.48,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:40.58,0:10:42.65,Default,,0000,0000,0000,,The Sand shields and protects Gaara
+Dialogue: 0,0:10:43.05,0:10:45.92,Default,,0000,0000,0000,,on its own accord, independently\Nof any intent on Gaara's part.
+Dialogue: 0,0:10:47.22,0:10:50.86,Default,,0000,0000,0000,,That's why... no one has been able\Nto do it so far....
+Dialogue: 0,0:10:52.43,0:10:55.63,Default,,0000,0000,0000,,Injure Gaara, that is.
+Dialogue: 0,0:10:59.14,0:11:03.01,Default,,0000,0000,0000,,Curses! He's not moving\Na muscle and still...!
+Dialogue: 0,0:11:04.14,0:11:05.34,Default,,0000,0000,0000,,Is that it?
+Dialogue: 0,0:11:07.51,0:11:10.11,Default,,0000,0000,0000,,Entertain me a bit more…
+Dialogue: 0,0:11:12.12,0:11:13.48,Default,,0000,0000,0000,,There's not enough yet!
+Dialogue: 0,0:11:15.55,0:11:16.22,Default,,0000,0000,0000,,Blood!
+Dialogue: 0,0:11:31.54,0:11:34.34,Default,,0000,0000,0000,,Why is Lee only using Taijutsu?
+Dialogue: 0,0:11:34.77,0:11:36.81,Default,,0000,0000,0000,,He'll never be able to get close\Nenough for that!
+Dialogue: 0,0:11:37.54,0:11:40.64,Default,,0000,0000,0000,,Why doesn't he step back a bit and\Nuse Ninjutsu or something?
+Dialogue: 0,0:11:41.95,0:11:43.51,Default,,0000,0000,0000,,It’s not that he doesn't use it.
+Dialogue: 0,0:11:44.35,0:11:45.42,Default,,0000,0000,0000,,He can’t use it.
+Dialogue: 0,0:11:45.98,0:11:46.48,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:46.98,0:11:51.02,Default,,0000,0000,0000,,Lee has almost no Ninjutsu\Nor Genjutsu skills.
+Dialogue: 0,0:11:51.56,0:11:52.76,Default,,0000,0000,0000,,N-No way!
+Dialogue: 0,0:11:54.12,0:11:58.00,Default,,0000,0000,0000,,When I first met Lee,\Nhe was completely inept.
+Dialogue: 0,0:11:58.40,0:11:59.96,Default,,0000,0000,0000,,He had no talent whatsoever.
+Dialogue: 0,0:12:01.07,0:12:03.40,Default,,0000,0000,0000,,What? I can't believe that!
+Dialogue: 0,0:12:31.50,0:12:32.40,Default,,0000,0000,0000,,Hey hey!
+Dialogue: 0,0:12:43.21,0:12:44.07,Default,,0000,0000,0000,,Certainly…
+Dialogue: 0,0:12:44.54,0:12:48.55,Default,,0000,0000,0000,,A ninja who can’t do Ninjutsu\Nand Genjutsu is a rarity.
+Dialogue: 0,0:12:50.25,0:12:57.55,Default,,0000,0000,0000,,That’s why, the only path open to Lee\Nas a Ninja was Taijutsu.
+Dialogue: 0,0:12:58.59,0:13:01.56,Default,,0000,0000,0000,,But! That's precisely what\Nmakes him a winner!
+Dialogue: 0,0:13:01.76,0:13:02.46,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:02.96,0:13:04.46,Default,,0000,0000,0000,,Lee, take them off!
+Dialogue: 0,0:13:05.80,0:13:07.66,Default,,0000,0000,0000,,B-But Guy Sensei...!
+Dialogue: 0,0:13:08.00,0:13:10.50,Default,,0000,0000,0000,,You told me only to do that
+Dialogue: 0,0:13:10.53,0:13:12.17,Default,,0000,0000,0000,,to protect a large group\Nof very important people!
+Dialogue: 0,0:13:12.54,0:13:13.77,Default,,0000,0000,0000,,That’s quite all right!
+Dialogue: 0,0:13:14.14,0:13:15.47,Default,,0000,0000,0000,,I give you permission!
+Dialogue: 0,0:13:25.12,0:13:26.05,Default,,0000,0000,0000,,Are those…?
+Dialogue: 0,0:13:26.55,0:13:27.55,Default,,0000,0000,0000,,Weights?
+Dialogue: 0,0:13:28.42,0:13:30.19,Default,,0000,0000,0000,,That's some cliché training…
+Dialogue: 0,0:13:30.42,0:13:31.56,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:13:31.92,0:13:32.56,Default,,0000,0000,0000,,Ridiculous!
+Dialogue: 0,0:13:35.03,0:13:38.43,Default,,0000,0000,0000,,All right, now I can\Nmove easily!
+Dialogue: 0,0:13:38.96,0:13:42.57,Default,,0000,0000,0000,,Humph! Does he think\Nremoving some measly little weights
+Dialogue: 0,0:13:42.57,0:13:44.90,Default,,0000,0000,0000,,is going to enable him to\Noutmaneuver Gaara's sand…?
+Dialogue: 0,0:13:51.31,0:13:53.31,Default,,0000,0000,0000,,A bit extreme, I'd say, Guy.
+Dialogue: 0,0:13:55.55,0:13:57.68,Default,,0000,0000,0000,,Go, Lee!
+Dialogue: 0,0:13:57.71,0:13:58.72,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:14:14.00,0:14:14.57,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:14:16.07,0:14:16.57,Default,,0000,0000,0000,,Very close!
+Dialogue: 0,0:14:17.40,0:14:18.07,Default,,0000,0000,0000,,Fast!
+Dialogue: 0,0:14:18.54,0:14:19.40,Default,,0000,0000,0000,,Amazing…!
+Dialogue: 0,0:14:25.98,0:14:28.88,Default,,0000,0000,0000,,Because he can't use\NNinjutsu or Genjutsu...
+Dialogue: 0,0:14:29.55,0:14:33.18,Default,,0000,0000,0000,,Therefore, he channeled all\Nof his time,
+Dialogue: 0,0:14:33.35,0:14:35.55,Default,,0000,0000,0000,,all of his energy and...
+Dialogue: 0,0:14:35.82,0:14:38.46,Default,,0000,0000,0000,,all of his being into Taijutsu.
+Dialogue: 0,0:14:39.96,0:14:42.86,Default,,0000,0000,0000,,Though he can’t do any other Jutsu…
+Dialogue: 0,0:14:43.56,0:14:45.56,Default,,0000,0000,0000,,He won't lose to anyone…
+Dialogue: 0,0:14:46.20,0:14:48.30,Default,,0000,0000,0000,,He is a Taijutsu specialist!
+Dialogue: 0,0:15:01.55,0:15:04.51,Default,,0000,0000,0000,,I can't believe it!\NGaara's been injured!
+Dialogue: 0,0:15:05.55,0:15:06.55,Default,,0000,0000,0000,,No way...!
+Dialogue: 0,0:15:07.25,0:15:10.69,Default,,0000,0000,0000,,Bushy-Brows is even\Nfaster than before!
+Dialogue: 0,0:15:11.56,0:15:13.89,Default,,0000,0000,0000,,Was he this strong?!
+Dialogue: 0,0:15:14.56,0:15:20.13,Default,,0000,0000,0000,,Youth is... explosion!
+Dialogue: 0,0:15:20.20,0:15:21.57,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:15:29.97,0:15:31.01,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:15:35.68,0:15:36.51,Default,,0000,0000,0000,,Good!
+Dialogue: 0,0:15:37.75,0:15:39.25,Default,,0000,0000,0000,,I got him good!
+Dialogue: 0,0:15:39.98,0:15:42.19,Default,,0000,0000,0000,,A-Amazing, he's so fast!
+Dialogue: 0,0:15:42.72,0:15:44.82,Default,,0000,0000,0000,,The Sand Shield can't keep\Nup with him!
+Dialogue: 0,0:15:45.56,0:15:46.56,Default,,0000,0000,0000,,A direct hit!
+Dialogue: 0,0:15:47.02,0:15:48.69,Default,,0000,0000,0000,,A-Amazing.
+Dialogue: 0,0:15:49.09,0:15:50.56,Default,,0000,0000,0000,,His strikes are lightning fast…!
+Dialogue: 0,0:15:51.43,0:15:53.63,Default,,0000,0000,0000,,I can't even track him\Nwith my eyes!
+Dialogue: 0,0:16:05.38,0:16:06.44,Default,,0000,0000,0000,,Uh oh…
+Dialogue: 0,0:16:06.54,0:16:08.35,Default,,0000,0000,0000,,Uh oh is right!
+Dialogue: 0,0:16:08.38,0:16:12.42,Default,,0000,0000,0000,,That black-circles-under-the-eye\Nguy is taking some serious blows!
+Dialogue: 0,0:16:12.55,0:16:14.42,Default,,0000,0000,0000,,That's not what I meant.
+Dialogue: 0,0:16:14.58,0:16:15.25,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:32.54,0:16:33.60,Default,,0000,0000,0000,,W-What the…?!
+Dialogue: 0,0:16:34.00,0:16:36.54,Default,,0000,0000,0000,,His face is crumbling right off…!
+Dialogue: 0,0:16:37.34,0:16:39.01,Default,,0000,0000,0000,,His whole body is covered\Nwith sand….
+Dialogue: 0,0:16:39.48,0:16:40.94,Default,,0000,0000,0000,,There's not a scratch on him!
+Dialogue: 0,0:16:41.45,0:16:43.35,Default,,0000,0000,0000,,W-What’s with this guy?!
+Dialogue: 0,0:16:48.19,0:16:50.52,Default,,0000,0000,0000,,Sure enough, he was\Nencased in sand, eh.
+Dialogue: 0,0:16:51.56,0:16:53.86,Default,,0000,0000,0000,,But, it's been a long time since
+Dialogue: 0,0:16:53.89,0:16:56.03,Default,,0000,0000,0000,,I've seen that expression\Non Gaara's face.
+Dialogue: 0,0:16:57.56,0:17:00.56,Default,,0000,0000,0000,,I felt that he was becoming\Nmore and more unstable
+Dialogue: 0,0:17:00.56,0:17:03.27,Default,,0000,0000,0000,,as the Chunin Exam progressed…
+Dialogue: 0,0:17:05.57,0:17:08.84,Default,,0000,0000,0000,,So Gaara's other self has\Nbeen awakened, eh?
+Dialogue: 0,0:17:13.54,0:17:15.55,Default,,0000,0000,0000,,Hey! What is that?
+Dialogue: 0,0:17:16.11,0:17:19.62,Default,,0000,0000,0000,,That protected him\Nagainst Bushy-Brow's strikes?
+Dialogue: 0,0:17:19.82,0:17:22.55,Default,,0000,0000,0000,,Yes… It's Sand Armor.
+Dialogue: 0,0:17:23.25,0:17:23.95,Default,,0000,0000,0000,,Armor?
+Dialogue: 0,0:17:24.55,0:17:27.56,Default,,0000,0000,0000,,Ordinarily, the Sand Shield\Nfunctions to protect him automatically,
+Dialogue: 0,0:17:27.82,0:17:30.56,Default,,0000,0000,0000,,but, if by chance,\Nthe Shield is penetrated,
+Dialogue: 0,0:17:30.86,0:17:33.13,Default,,0000,0000,0000,,the Sand Armor functions as a second\Nlayer of protection against strikes…
+Dialogue: 0,0:17:33.76,0:17:36.80,Default,,0000,0000,0000,,That's Gaara's…absolute defense!
+Dialogue: 0,0:17:37.30,0:17:39.77,Default,,0000,0000,0000,,Well then, there's no way\Nto get him!
+Dialogue: 0,0:17:40.34,0:17:41.91,Default,,0000,0000,0000,,He doesn't have any weak points.
+Dialogue: 0,0:17:42.77,0:17:45.14,Default,,0000,0000,0000,,No. That’s not entirely true…
+Dialogue: 0,0:17:46.21,0:17:49.15,Default,,0000,0000,0000,,The Sand Armor is actually\Nriddled with weak points.
+Dialogue: 0,0:17:50.38,0:17:53.55,Default,,0000,0000,0000,,First of all, because it's not automatic,\Nit uses up a lot of Chakra.
+Dialogue: 0,0:17:54.05,0:17:56.25,Default,,0000,0000,0000,,It's also less effective\Nthan the Sand Shield,
+Dialogue: 0,0:17:56.32,0:17:58.56,Default,,0000,0000,0000,,and it takes an enormous amount\Nof physical energy
+Dialogue: 0,0:17:58.56,0:18:00.56,Default,,0000,0000,0000,,to keep the sand clinging\Nto the body like that.
+Dialogue: 0,0:18:01.93,0:18:07.56,Default,,0000,0000,0000,,Gaara's having to use the armor...\Nis proof that he's under pressure.
+Dialogue: 0,0:18:08.57,0:18:11.80,Default,,0000,0000,0000,,That Lee is really good…
+Dialogue: 0,0:18:13.00,0:18:15.27,Default,,0000,0000,0000,,But, the outcome of the match\Nis already a given.
+Dialogue: 0,0:18:16.47,0:18:19.28,Default,,0000,0000,0000,,He will never beat Gaara!
+Dialogue: 0,0:18:20.54,0:18:21.61,Default,,0000,0000,0000,,Is that all?
+Dialogue: 0,0:18:23.48,0:18:24.92,Default,,0000,0000,0000,,But what an incredible\Ndefense he has...
+Dialogue: 0,0:18:25.55,0:18:29.25,Default,,0000,0000,0000,,no amount of speed is going\Nto let me get a strike through.
+Dialogue: 0,0:18:30.39,0:18:35.26,Default,,0000,0000,0000,,I'll have to do major damage\Nfrom above the sand guard.
+Dialogue: 0,0:18:36.96,0:18:37.76,Default,,0000,0000,0000,,That will be Lotus!
+Dialogue: 0,0:18:42.37,0:18:42.93,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:57.25,0:18:58.05,Default,,0000,0000,0000,,Be ready!
+Dialogue: 0,0:19:03.82,0:19:06.96,Default,,0000,0000,0000,,A thin sand guard like that\Nwill be inconsequential
+Dialogue: 0,0:19:07.56,0:19:10.93,Default,,0000,0000,0000,,in the face of Lee's high-speed\NLotus slamming down from above.
+Dialogue: 0,0:19:12.70,0:19:14.36,Default,,0000,0000,0000,,Hurry up and bring it on!
+Dialogue: 0,0:19:14.73,0:19:16.57,Default,,0000,0000,0000,,You asked for it!
+Dialogue: 0,0:19:20.27,0:19:21.34,Default,,0000,0000,0000,,He didn’t float.
+Dialogue: 0,0:19:21.54,0:19:22.54,Default,,0000,0000,0000,,Not just yet!
+Dialogue: 0,0:19:30.55,0:19:32.15,Default,,0000,0000,0000,,What an amazing series of kicks!
+Dialogue: 0,0:19:34.89,0:19:38.82,Default,,0000,0000,0000,,Even an ordinary Lotus has\Na tremendous strain on the body…!
+Dialogue: 0,0:19:39.32,0:19:40.89,Default,,0000,0000,0000,,Lee, let this be the finishing blow!
+Dialogue: 0,0:19:54.84,0:19:56.71,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:19:58.78,0:20:00.54,Default,,0000,0000,0000,,Primary Lotus!
+Dialogue: 0,0:20:27.70,0:20:28.64,Default,,0000,0000,0000,,I got him...
+Dialogue: 0,0:20:29.54,0:20:30.41,Default,,0000,0000,0000,,good!
+Dialogue: 0,0:20:32.28,0:20:33.71,Default,,0000,0000,0000,,Right on!
+Dialogue: 0,0:20:34.11,0:20:35.75,Default,,0000,0000,0000,,I-It's over!
+Dialogue: 0,0:20:36.01,0:20:37.98,Default,,0000,0000,0000,,W-What? This can’t be!
+Dialogue: 0,0:20:38.25,0:20:41.05,Default,,0000,0000,0000,,He did it! Lee’s won!
+Dialogue: 0,0:20:41.55,0:20:44.25,Default,,0000,0000,0000,,Hey, he isn't dead, is he?
+Dialogue: 0,0:20:53.56,0:20:54.16,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:20:58.64,0:20:59.47,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:21:12.02,0:21:12.82,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:17.42,0:21:21.83,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:21.93,0:21:30.40,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:31.33,0:21:39.98,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:40.44,0:21:48.25,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:49.55,0:21:54.86,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:54.89,0:21:58.96,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:21:59.00,0:22:02.60,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:02.97,0:22:11.54,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:11.71,0:22:17.01,Default,,0000,0000,0000,,when you want to cry,\Nand you want to run away
+Dialogue: 0,0:22:17.05,0:22:21.55,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:21.55,0:22:25.39,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:25.56,0:22:30.63,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:30.69,0:22:32.96,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:33.06,0:22:39.44,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:39.77,0:22:44.94,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:49.95,0:22:52.25,Default,,0000,0000,0000,,Hey, what happened, Bushy-Brows?!
+Dialogue: 0,0:22:52.52,0:22:54.55,Default,,0000,0000,0000,,All of your strength seems\Nto have disappeared!
+Dialogue: 0,0:22:54.65,0:22:57.49,Default,,0000,0000,0000,,You're going to be destroyed\Nat this rate!
+Dialogue: 0,0:22:57.72,0:23:01.69,Default,,0000,0000,0000,,But, hey, Bushy-Brows is smiling!
+Dialogue: 0,0:23:02.53,0:23:04.06,Default,,0000,0000,0000,,How can he continue to keep up\Na fighting stance
+Dialogue: 0,0:23:04.09,0:23:05.93,Default,,0000,0000,0000,,when he's being routed like this?!
+Dialogue: 0,0:23:06.76,0:23:11.60,Default,,0000,0000,0000,,Next episode: "Lee’s Hidden Strength:\NForbidden Secret Jutsu!"
+Dialogue: 0,0:23:12.24,0:23:15.00,Default,,0000,0000,0000,,The expression in Bushy-Brows’ eyes\Nhas changed!

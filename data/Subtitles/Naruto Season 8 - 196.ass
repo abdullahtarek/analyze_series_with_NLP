@@ -1,0 +1,298 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.44,0:00:03.85,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.89,0:00:06.65,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.69,0:00:12.77,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:23.15,0:00:29.06,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:29.10,0:00:34.60,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.65,0:00:37.23,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.27,0:00:40.85,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.89,0:00:45.27,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.89,0:00:51.89,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.31,0:00:56.89,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.90,0:01:02.48,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.52,0:01:07.89,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.89,0:01:10.94,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.98,0:01:19.89,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:02:06.40,0:02:08.81,Default,,0000,0000,0000,,So it’s a case of not being able to fight\Nwith the leader
+Dialogue: 0,0:02:08.85,0:02:10.48,Default,,0000,0000,0000,,unless I defeat the underlings?
+Dialogue: 0,0:02:10.89,0:02:11.81,Default,,0000,0000,0000,,Well then!
+Dialogue: 0,0:02:13.85,0:02:17.90,Default,,0000,0000,0000,,Hot-Blooded Confrontation:\NStudent vs. Sensei
+Dialogue: 0,0:02:20.40,0:02:23.89,Default,,0000,0000,0000,,So you think you’ve blackened the path\Nto this Might Guy’s tomorrow with this?
+Dialogue: 0,0:02:24.85,0:02:28.69,Default,,0000,0000,0000,,Youth is breaking through\Nthe walls that close you in…
+Dialogue: 0,0:02:28.89,0:02:31.89,Default,,0000,0000,0000,,If you have both passion and effort,\N then nothing is impossible!
+Dialogue: 0,0:02:31.89,0:02:33.52,Default,,0000,0000,0000,,With our sights trained on tomorrow…!
+Dialogue: 0,0:02:39.23,0:02:42.19,Default,,0000,0000,0000,,Is there no tomorrow for us…?
+Dialogue: 0,0:02:43.44,0:02:45.89,Default,,0000,0000,0000,,So this wood retains\Nits incredible strength
+Dialogue: 0,0:02:45.89,0:02:49.10,Default,,0000,0000,0000,,because it is reinforced and\Nconnected by Chakra, I see.
+Dialogue: 0,0:02:51.02,0:02:52.23,Default,,0000,0000,0000,,Guy Sensei…
+Dialogue: 0,0:02:52.60,0:02:53.77,Default,,0000,0000,0000,,Yagura?
+Dialogue: 0,0:02:53.98,0:02:55.06,Default,,0000,0000,0000,,Are you all right?!
+Dialogue: 0,0:02:59.10,0:03:02.06,Default,,0000,0000,0000,,I’m not Yagura…
+Dialogue: 0,0:03:06.35,0:03:09.48,Default,,0000,0000,0000,,Eldest of the three Ryudouin brothers,\N Gensho!
+Dialogue: 0,0:03:10.06,0:03:11.85,Default,,0000,0000,0000,,Second son of the same, Rokkaku!
+Dialogue: 0,0:03:11.90,0:03:13.27,Default,,0000,0000,0000,,Third son, Jako!
+Dialogue: 0,0:03:14.89,0:03:16.27,Default,,0000,0000,0000,,Ryudouin?
+Dialogue: 0,0:03:17.60,0:03:20.85,Default,,0000,0000,0000,,Hmm… I think I’ve heard\Nof that somewhere…
+Dialogue: 0,0:03:20.98,0:03:22.60,Default,,0000,0000,0000,,Don’t tell me that you don’t remember!
+Dialogue: 0,0:03:24.10,0:03:27.90,Default,,0000,0000,0000,,Our father, Agira Ryudouin,\Nwas deeply injured
+Dialogue: 0,0:03:27.94,0:03:31.48,Default,,0000,0000,0000,,by the cowardly strategies of you\NHidden Leaf Shinobi.
+Dialogue: 0,0:03:32.23,0:03:36.48,Default,,0000,0000,0000,,And unable to execute his missions,\Nhe passed away in despair.
+Dialogue: 0,0:03:37.40,0:03:39.89,Default,,0000,0000,0000,,Our father resented you to the very end,
+Dialogue: 0,0:03:39.90,0:03:42.89,Default,,0000,0000,0000,,even muttering your name\Non his deathbed…
+Dialogue: 0,0:03:43.31,0:03:46.89,Default,,0000,0000,0000,,telling us to fight with\NMight Guy of Hidden Leaf Village.
+Dialogue: 0,0:03:47.23,0:03:48.23,Default,,0000,0000,0000,,From that day forth,
+Dialogue: 0,0:03:48.27,0:03:52.23,Default,,0000,0000,0000,,our objective\Nhas been to avenge his death!
+Dialogue: 0,0:03:52.40,0:03:56.89,Default,,0000,0000,0000,,Yes! We have been lying in wait for\Nthe time when we could get even with you!
+Dialogue: 0,0:03:57.52,0:04:00.35,Default,,0000,0000,0000,,Oh! Do you mean that Agira?!
+Dialogue: 0,0:04:01.56,0:04:04.44,Default,,0000,0000,0000,,There’s no way I could forget that battle.
+Dialogue: 0,0:04:04.85,0:04:08.85,Default,,0000,0000,0000,,Although we were enemies\Non our missions, Agira was a fine man…
+Dialogue: 0,0:04:09.65,0:04:12.85,Default,,0000,0000,0000,,That will remain in my memory as\Na splendid contest, even within
+Dialogue: 0,0:04:12.89,0:04:14.85,Default,,0000,0000,0000,,the annals of\Nthe complete eight-volume
+Dialogue: 0,0:04:14.89,0:04:16.35,Default,,0000,0000,0000,,“Might Guy’s History of Famous Battles.”
+Dialogue: 0,0:04:21.02,0:04:23.31,Default,,0000,0000,0000,,It was a man-to-man fight.
+Dialogue: 0,0:04:29.40,0:04:32.23,Default,,0000,0000,0000,,Nothing happened that dishonored\Nmy Way of Ninja!
+Dialogue: 0,0:04:32.81,0:04:34.89,Default,,0000,0000,0000,,You three must be mistaken.
+Dialogue: 0,0:04:34.89,0:04:37.89,Default,,0000,0000,0000,,I won’t be angry at you,\Nso let me out of here!
+Dialogue: 0,0:04:38.02,0:04:41.90,Default,,0000,0000,0000,,Fool! I shall wreak vengeance upon\N you to settle my father’s score…
+Dialogue: 0,0:04:41.94,0:04:43.65,Default,,0000,0000,0000,,I’ll finish you off!
+Dialogue: 0,0:05:05.44,0:05:06.44,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:05:07.69,0:05:10.27,Default,,0000,0000,0000,,I noticed you were there some time ago.
+Dialogue: 0,0:05:10.98,0:05:14.40,Default,,0000,0000,0000,,My master told me to\Nmake sure you don’t overdo it.
+Dialogue: 0,0:05:14.94,0:05:16.60,Default,,0000,0000,0000,,You’re hiding something, aren’t you?!
+Dialogue: 0,0:05:16.77,0:05:19.31,Default,,0000,0000,0000,,N-No… Nothing!
+Dialogue: 0,0:05:21.60,0:05:23.60,Default,,0000,0000,0000,,Sakura, you’re not very good at lying…
+Dialogue: 0,0:05:29.89,0:05:30.85,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:39.35,0:05:41.94,Default,,0000,0000,0000,,Die, Might Guy!\NEnemy of our father!
+Dialogue: 0,0:05:45.40,0:05:46.85,Default,,0000,0000,0000,,Wait, I tell you!
+Dialogue: 0,0:05:48.56,0:05:51.89,Default,,0000,0000,0000,,Hey, you Yagura imposter.\Nlnfiltrating Village Hidden in the Leaves,
+Dialogue: 0,0:05:51.89,0:05:53.73,Default,,0000,0000,0000,,what are you scheming?!
+Dialogue: 0,0:05:56.06,0:05:56.89,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:06:00.89,0:06:05.94,Default,,0000,0000,0000,,Guy is in that building!\NThe building is controlled by their Chakra!
+Dialogue: 0,0:06:06.69,0:06:07.77,Default,,0000,0000,0000,,Why you--!
+Dialogue: 0,0:06:19.73,0:06:22.69,Default,,0000,0000,0000,,Intense Brow Sensei,\NI’m coming to your rescue!
+Dialogue: 0,0:06:26.65,0:06:27.94,Default,,0000,0000,0000,,Wh-What is this?!
+Dialogue: 0,0:06:32.23,0:06:35.94,Default,,0000,0000,0000,,Do you intend to shut us in\Nwith these pieces of wood?
+Dialogue: 0,0:06:37.77,0:06:39.27,Default,,0000,0000,0000,,Don’t underestimate us!
+Dialogue: 0,0:06:39.31,0:06:40.06,Default,,0000,0000,0000,,Stop it, Naruto!
+Dialogue: 0,0:06:53.10,0:06:54.89,Default,,0000,0000,0000,,Wooden Dummies for training?
+Dialogue: 0,0:06:58.15,0:07:00.56,Default,,0000,0000,0000,,Are these also controlled by those three?
+Dialogue: 0,0:07:01.19,0:07:02.40,Default,,0000,0000,0000,,However strong they are,
+Dialogue: 0,0:07:02.44,0:07:05.23,Default,,0000,0000,0000,,they couldn’t move all of\Nthese Wooden Dummies at once.
+Dialogue: 0,0:07:05.73,0:07:09.19,Default,,0000,0000,0000,,It’s hard to believe those three would\Nhave that much power.
+Dialogue: 0,0:07:09.89,0:07:11.15,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:07:17.27,0:07:18.40,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:19.69,0:07:21.15,Default,,0000,0000,0000,,They have a simple mechanism,
+Dialogue: 0,0:07:21.19,0:07:24.48,Default,,0000,0000,0000,,and their movements are controlled by\Nthe labels stuck to the back of their heads.
+Dialogue: 0,0:07:24.81,0:07:26.89,Default,,0000,0000,0000,,So, they’re not moved with Puppet Jutsu?
+Dialogue: 0,0:07:27.40,0:07:30.89,Default,,0000,0000,0000,,No, they’re only designed for\Nrepeated punches and kicks,
+Dialogue: 0,0:07:30.89,0:07:32.98,Default,,0000,0000,0000,,so they probably cannot respond\Nto our movements!
+Dialogue: 0,0:07:33.02,0:07:35.89,Default,,0000,0000,0000,,Does this mean their movements\Ncan be halted by removing the labels?
+Dialogue: 0,0:07:35.98,0:07:37.77,Default,,0000,0000,0000,,So that’s what it’s all about!
+Dialogue: 0,0:07:38.98,0:07:42.40,Default,,0000,0000,0000,,If that’s the case,\Nthen I’ll return that blow!
+Dialogue: 0,0:07:42.77,0:07:44.81,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu!
+Dialogue: 0,0:07:48.23,0:07:49.23,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:08:02.48,0:08:05.35,Default,,0000,0000,0000,,Once I know the weak spot,\Nyou’re all mine!
+Dialogue: 0,0:08:12.89,0:08:14.15,Default,,0000,0000,0000,,– Gotcha! 					– Gotcha!
+Dialogue: 0,0:08:20.19,0:08:21.98,Default,,0000,0000,0000,,Hah! This is easy!
+Dialogue: 0,0:08:24.15,0:08:26.89,Default,,0000,0000,0000,,These Wooden Dummies are\Njust one small part of our Jutsu!
+Dialogue: 0,0:08:28.65,0:08:30.89,Default,,0000,0000,0000,,Ninja Art:\NWooden Dummy Manipulation Jutsu!
+Dialogue: 0,0:08:42.69,0:08:43.65,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:08:46.98,0:08:47.90,Default,,0000,0000,0000,,Keep your wits about you!
+Dialogue: 0,0:08:47.94,0:08:49.89,Default,,0000,0000,0000,,There’s one that moves differently\N from the others!
+Dialogue: 0,0:08:52.85,0:08:53.85,Default,,0000,0000,0000,,Neji!
+Dialogue: 0,0:09:00.60,0:09:03.90,Default,,0000,0000,0000,,U-zu-ma-ki…
+Dialogue: 0,0:09:05.02,0:09:06.89,Default,,0000,0000,0000,,Naruto Barra--!
+Dialogue: 0,0:09:11.94,0:09:13.10,Default,,0000,0000,0000,,Stay back!
+Dialogue: 0,0:09:13.98,0:09:17.65,Default,,0000,0000,0000,,Some of these Wooden Dummies seem\Nto be manipulated by the Puppet Jutsu.
+Dialogue: 0,0:09:17.69,0:09:18.89,Default,,0000,0000,0000,,Be careful!
+Dialogue: 0,0:09:39.89,0:09:41.48,Default,,0000,0000,0000,,– Lee! 					– Bushy Brow!
+Dialogue: 0,0:09:43.85,0:09:45.48,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:09:45.89,0:09:46.89,Default,,0000,0000,0000,,Lee?!
+Dialogue: 0,0:09:46.94,0:09:49.10,Default,,0000,0000,0000,,How did you know we were here?!
+Dialogue: 0,0:09:49.35,0:09:50.89,Default,,0000,0000,0000,,From what Sakura told us,
+Dialogue: 0,0:09:50.89,0:09:53.10,Default,,0000,0000,0000,,I felt certain that Guy Sensei\Nwould take this route
+Dialogue: 0,0:09:53.15,0:09:55.81,Default,,0000,0000,0000,,if he were headed for\Nthe Land of Mountain Streams.
+Dialogue: 0,0:09:56.89,0:09:58.19,Default,,0000,0000,0000,,And where is Guy Sensei?
+Dialogue: 0,0:09:59.77,0:10:00.85,Default,,0000,0000,0000,,Inside there.
+Dialogue: 0,0:10:13.89,0:10:14.89,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:14.89,0:10:16.27,Default,,0000,0000,0000,,A-Are they running away?
+Dialogue: 0,0:10:27.15,0:10:28.89,Default,,0000,0000,0000,,What’s happening?!
+Dialogue: 0,0:10:43.89,0:10:46.27,Default,,0000,0000,0000,,It’s just like a castle!
+Dialogue: 0,0:10:46.60,0:10:48.02,Default,,0000,0000,0000,,Leave this to me!
+Dialogue: 0,0:10:49.56,0:10:54.10,Default,,0000,0000,0000,,Guy Sensei is my master!\NI would risk my life to save him!
+Dialogue: 0,0:10:54.27,0:10:57.98,Default,,0000,0000,0000,,But, Bushy Brow,\Nyour leg injury hasn’t healed yet.
+Dialogue: 0,0:10:58.65,0:10:59.89,Default,,0000,0000,0000,,I’m going in!
+Dialogue: 0,0:11:00.02,0:11:01.44,Default,,0000,0000,0000,,It’s reckless!
+Dialogue: 0,0:11:05.77,0:11:07.23,Default,,0000,0000,0000,,Do you intend to interfere?
+Dialogue: 0,0:11:08.44,0:11:10.89,Default,,0000,0000,0000,,Today, I am just\Na bit different from usual--!
+Dialogue: 0,0:11:13.65,0:11:15.31,Default,,0000,0000,0000,,Bushy Brow, we’ll cover you.
+Dialogue: 0,0:11:15.89,0:11:18.40,Default,,0000,0000,0000,,There is a weak point in\Nthe Chakra at the center of the castle.
+Dialogue: 0,0:11:18.56,0:11:19.85,Default,,0000,0000,0000,,If you hit there, then…
+Dialogue: 0,0:11:19.89,0:11:21.89,Default,,0000,0000,0000,,But it may be a trap!
+Dialogue: 0,0:11:23.02,0:11:27.65,Default,,0000,0000,0000,,Everyone… If it is a trap,\N let’s try falling into it intentionally.
+Dialogue: 0,0:11:35.52,0:11:36.69,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:11:37.23,0:11:39.77,Default,,0000,0000,0000,,Dynamic Entry!
+Dialogue: 0,0:11:44.89,0:11:47.77,Default,,0000,0000,0000,,As we suspected,\Nit was a trap to lure me in.
+Dialogue: 0,0:11:48.89,0:11:51.10,Default,,0000,0000,0000,,Anyway, let’s follow it through.
+Dialogue: 0,0:11:56.69,0:12:00.89,Default,,0000,0000,0000,,Rokkaku, Jako, leave the rest to me.
+Dialogue: 0,0:12:01.40,0:12:02.31,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:12:02.52,0:12:05.94,Default,,0000,0000,0000,,Take revenge on that coward\Nby a suitable method.
+Dialogue: 0,0:12:07.06,0:12:08.60,Default,,0000,0000,0000,,Leave it to me…
+Dialogue: 0,0:12:09.81,0:12:12.98,Default,,0000,0000,0000,,Wooden Dummy: Possess:\NTransfer: Repossess Jutsu!
+Dialogue: 0,0:12:24.52,0:12:26.40,Default,,0000,0000,0000,,A Wooden Dummy here too?
+Dialogue: 0,0:12:26.85,0:12:29.65,Default,,0000,0000,0000,,Your teacher is an incredible liar, Lee…
+Dialogue: 0,0:12:29.85,0:12:32.02,Default,,0000,0000,0000,,Is that Yagura’s voice I hear?
+Dialogue: 0,0:12:32.10,0:12:33.98,Default,,0000,0000,0000,,I’ll teach you both,\Nmaster and student,
+Dialogue: 0,0:12:34.02,0:12:38.31,Default,,0000,0000,0000,,that sometimes passion and\Neffort alone come to naught.
+Dialogue: 0,0:12:38.69,0:12:40.89,Default,,0000,0000,0000,,I won’t allow you to\Nspeak ill of my teacher.
+Dialogue: 0,0:12:40.89,0:12:41.98,Default,,0000,0000,0000,,If you’ve got something to say,
+Dialogue: 0,0:12:42.02,0:12:43.85,Default,,0000,0000,0000,,then why don’t you come out here\Nand say it?
+Dialogue: 0,0:12:43.89,0:12:45.40,Default,,0000,0000,0000,,There is no need.
+Dialogue: 0,0:12:45.44,0:12:48.94,Default,,0000,0000,0000,,I can amply prove it with\N the Wooden Dummy that is my incarnation.
+Dialogue: 0,0:12:49.44,0:12:51.52,Default,,0000,0000,0000,,I have come to rescue my teacher!
+Dialogue: 0,0:12:51.85,0:12:54.44,Default,,0000,0000,0000,,There’s no way\NI’m going to let myself lose to you!
+Dialogue: 0,0:12:55.02,0:12:56.73,Default,,0000,0000,0000,,You make me laugh…
+Dialogue: 0,0:13:00.89,0:13:02.73,Default,,0000,0000,0000,,What’s this? The Leaf Hurricane…?
+Dialogue: 0,0:13:02.89,0:13:06.27,Default,,0000,0000,0000,,Does this mean that the technique\N I deployed that time
+Dialogue: 0,0:13:06.31,0:13:08.94,Default,,0000,0000,0000,,has been completely imitated\Nand mastered by Yagura?!
+Dialogue: 0,0:13:10.89,0:13:11.89,Default,,0000,0000,0000,,In that case…
+Dialogue: 0,0:13:12.89,0:13:15.15,Default,,0000,0000,0000,,Leaf's Severe Hurricane!
+Dialogue: 0,0:13:20.02,0:13:21.90,Default,,0000,0000,0000,,Can this really be Yagura?
+Dialogue: 0,0:13:22.48,0:13:23.89,Default,,0000,0000,0000,,If he’s mastered not\Nonly offensive moves,
+Dialogue: 0,0:13:23.89,0:13:26.48,Default,,0000,0000,0000,,but also learned to guard with\Nsuch perfection
+Dialogue: 0,0:13:26.52,0:13:28.40,Default,,0000,0000,0000,,then he truly must be a genius!
+Dialogue: 0,0:13:29.40,0:13:31.89,Default,,0000,0000,0000,,What an incredibly\Npowerful spinning kick…
+Dialogue: 0,0:13:31.89,0:13:33.40,Default,,0000,0000,0000,,The Gensho I faced off with\Nin the practice hall
+Dialogue: 0,0:13:33.44,0:13:34.89,Default,,0000,0000,0000,,did not have this much power.
+Dialogue: 0,0:13:35.27,0:13:36.81,Default,,0000,0000,0000,,To my knowledge,
+Dialogue: 0,0:13:36.85,0:13:40.31,Default,,0000,0000,0000,,there is only one person who\Ncould let loose this powerful a kick.
+Dialogue: 0,0:13:41.89,0:13:44.27,Default,,0000,0000,0000,,They are student and teacher\Nwho respect each other.
+Dialogue: 0,0:13:44.31,0:13:46.23,Default,,0000,0000,0000,,Dying in fighting each other must\N be a wish come true.
+Dialogue: 0,0:13:46.27,0:13:47.73,Default,,0000,0000,0000,,We’ll have them crush each other
+Dialogue: 0,0:13:47.77,0:13:49.89,Default,,0000,0000,0000,,with Wooden Dummies mimicking\Neach other’s movements.
+Dialogue: 0,0:13:50.02,0:13:54.27,Default,,0000,0000,0000,,Even if each were to discover\Nthe true identity of his opponent…
+Dialogue: 0,0:13:54.65,0:13:57.19,Default,,0000,0000,0000,,They can’t escape from the confrontation
+Dialogue: 0,0:13:57.23,0:13:59.77,Default,,0000,0000,0000,,without defeating\Nthe Wooden Dummies before their eyes.
+Dialogue: 0,0:14:00.23,0:14:01.89,Default,,0000,0000,0000,,That is the secret of
+Dialogue: 0,0:14:01.90,0:14:04.52,Default,,0000,0000,0000,,Wooden Dummy: Possess:\NTransfer: Repossess Jutsu!
+Dialogue: 0,0:14:08.90,0:14:10.90,Default,,0000,0000,0000,,Looks like my legs\Ncan’t last for very long…
+Dialogue: 0,0:14:11.89,0:14:14.10,Default,,0000,0000,0000,,If it comes to this,\Nthere’s only one move left.
+Dialogue: 0,0:14:14.52,0:14:16.27,Default,,0000,0000,0000,,Guy Sensei, it’s okay right?
+Dialogue: 0,0:14:16.56,0:14:19.89,Default,,0000,0000,0000,,If I use it for your sake,\Nyou’ll probably forgive me.
+Dialogue: 0,0:14:27.94,0:14:29.06,Default,,0000,0000,0000,,The Lotus?
+Dialogue: 0,0:14:29.27,0:14:32.73,Default,,0000,0000,0000,,Could it be that the one who is controlling\N this Wooden Dummy is Lee?
+Dialogue: 0,0:14:41.90,0:14:43.15,Default,,0000,0000,0000,,Dancing Leaf Shadow!
+Dialogue: 0,0:14:51.81,0:14:56.02,Default,,0000,0000,0000,,A combo move from the Lotus Hit Back\Nto aerial Severe Leaf Hurricanes!
+Dialogue: 0,0:14:58.89,0:15:00.89,Default,,0000,0000,0000,,It’s magnificent…\NToo magnificent!
+Dialogue: 0,0:15:00.89,0:15:04.40,Default,,0000,0000,0000,,Only Guy Sensei could use\Nsuch artful techniques!
+Dialogue: 0,0:15:04.56,0:15:06.94,Default,,0000,0000,0000,,Splendid! If I had not been his opponent,
+Dialogue: 0,0:15:06.98,0:15:10.19,Default,,0000,0000,0000,,I’m 100% certain that he would have\Ntoppled the opponent with that Lotus.
+Dialogue: 0,0:15:11.06,0:15:15.65,Default,,0000,0000,0000,,But, at this rate,\N I won’t be able to beat this Jutsu…
+Dialogue: 0,0:15:16.85,0:15:19.40,Default,,0000,0000,0000,,Wait! There is a way.
+Dialogue: 0,0:15:29.44,0:15:35.48,Default,,0000,0000,0000,,That tapping is Morse Code.\N“You and I are destroying each other…”
+Dialogue: 0,0:15:36.65,0:15:39.31,Default,,0000,0000,0000,,But there’s no way for either\Nof us to end this fight
+Dialogue: 0,0:15:39.35,0:15:40.89,Default,,0000,0000,0000,,without defeating the enemy’s Jutsu…
+Dialogue: 0,0:15:41.89,0:15:44.69,Default,,0000,0000,0000,,So, it was Guy Sensei that\N I was fighting all along?
+Dialogue: 0,0:15:46.23,0:15:49.89,Default,,0000,0000,0000,,We must both create an attack\N with speed and power
+Dialogue: 0,0:15:49.89,0:15:52.23,Default,,0000,0000,0000,,of a magnitude that cannot be\N reproduced by the Wooden Dummies…
+Dialogue: 0,0:15:52.89,0:15:57.31,Default,,0000,0000,0000,,“But I cannot show to you\N the abyss of death again!”
+Dialogue: 0,0:16:03.89,0:16:08.73,Default,,0000,0000,0000,,Master Guy, if I do it to protect the person\N who is most important to me…
+Dialogue: 0,0:16:09.65,0:16:12.89,Default,,0000,0000,0000,,“You will forgive me for using\N that move, won’t you?
+Dialogue: 0,0:16:13.77,0:16:17.89,Default,,0000,0000,0000,,"To me…" 					"To me…"
+Dialogue: 0,0:16:21.52,0:16:26.94,Default,,0000,0000,0000,,“To me, there is no one more important\Nthan Guy Sensei,” you say?
+Dialogue: 0,0:16:28.60,0:16:32.89,Default,,0000,0000,0000,,Lee! What do you mean by\Nmaking me cry at a time like this?
+Dialogue: 0,0:16:33.44,0:16:36.89,Default,,0000,0000,0000,,Lee! I haven’t forgotten the promise\NI made to you back then!
+Dialogue: 0,0:16:38.15,0:16:43.98,Default,,0000,0000,0000,,“If you die…I shall die with you.”
+Dialogue: 0,0:16:45.89,0:16:48.98,Default,,0000,0000,0000,,Thank you, Guy Sensei!
+Dialogue: 0,0:16:49.90,0:16:51.65,Default,,0000,0000,0000,,Now is the very time when…
+Dialogue: 0,0:16:52.56,0:16:54.56,Default,,0000,0000,0000,,one’s own Way of Ninja…
+Dialogue: 0,0:16:54.73,0:16:57.27,Default,,0000,0000,0000,,– must be followed to the very end!\N – must be followed to the very end!
+Dialogue: 0,0:16:57.89,0:17:00.69,Default,,0000,0000,0000,,Third Gate: Gate of Life… Open!
+Dialogue: 0,0:17:01.94,0:17:05.06,Default,,0000,0000,0000,,Fourth Gate: Gate of Pain… Open!
+Dialogue: 0,0:17:14.27,0:17:15.85,Default,,0000,0000,0000,,Guy Sensei!
+Dialogue: 0,0:17:16.40,0:17:17.89,Default,,0000,0000,0000,,We’re far from finished!
+Dialogue: 0,0:17:29.10,0:17:30.52,Default,,0000,0000,0000,,What’s wrong, Elder Brother?
+Dialogue: 0,0:17:31.48,0:17:34.73,Default,,0000,0000,0000,,They’re fast. They’re both too fast…
+Dialogue: 0,0:17:35.89,0:17:39.89,Default,,0000,0000,0000,,At this rate,\Nthe Wooden Dummies will…break.
+Dialogue: 0,0:17:40.60,0:17:42.23,Default,,0000,0000,0000,,Fifth Gate: Gate of Closing!
+Dialogue: 0,0:17:42.27,0:17:43.10,Default,,0000,0000,0000,,Open!
+Dialogue: 0,0:17:46.73,0:17:49.89,Default,,0000,0000,0000,,I can’t see them.\NThey’re faster even than sound!
+Dialogue: 0,0:18:00.40,0:18:02.15,Default,,0000,0000,0000,,There you go, Lee!
+Dialogue: 0,0:18:02.19,0:18:04.81,Default,,0000,0000,0000,,Bring the Chakra of your passions\N to bear upon your opponent!
+Dialogue: 0,0:18:04.89,0:18:05.89,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:18:45.89,0:18:48.35,Default,,0000,0000,0000,,– The castle is…\N– …crumbling?
+Dialogue: 0,0:19:13.69,0:19:14.90,Default,,0000,0000,0000,,If this was revenge,
+Dialogue: 0,0:19:14.94,0:19:17.77,Default,,0000,0000,0000,,then why did you not come at me\Nwith the Kung Fu techniques of Ryudoin?
+Dialogue: 0,0:19:20.89,0:19:24.65,Default,,0000,0000,0000,,That day, though he was\Nthe only man left,
+Dialogue: 0,0:19:24.69,0:19:26.89,Default,,0000,0000,0000,,your father refused to surrender,
+Dialogue: 0,0:19:26.89,0:19:29.89,Default,,0000,0000,0000,,but fairly and sportingly confronted me\Nwith Kung Fu.
+Dialogue: 0,0:19:33.89,0:19:38.89,Default,,0000,0000,0000,,Out of respect to your father,\NI faced him one to one.
+Dialogue: 0,0:19:39.77,0:19:43.31,Default,,0000,0000,0000,,When the fight was finished,\Nyour father smiled slightly,
+Dialogue: 0,0:19:43.35,0:19:45.89,Default,,0000,0000,0000,,as if satisfied, and said he would like\Nto fight again…
+Dialogue: 0,0:19:54.81,0:19:58.52,Default,,0000,0000,0000,,Whether or not you believe me,\Nthis is all there was to it.
+Dialogue: 0,0:20:02.27,0:20:04.52,Default,,0000,0000,0000,,Could it be that\Nwhat Father wanted to say
+Dialogue: 0,0:20:04.56,0:20:07.44,Default,,0000,0000,0000,,was not that he wanted us\Nto defeat Master Guy,
+Dialogue: 0,0:20:07.48,0:20:10.89,Default,,0000,0000,0000,,but that he wanted to fight again,\Nfairly and squarely?
+Dialogue: 0,0:20:12.06,0:20:15.23,Default,,0000,0000,0000,,Have we had the wrong idea all along?
+Dialogue: 0,0:20:15.31,0:20:19.52,Default,,0000,0000,0000,,I learned something important from\Nyour father in that fight.
+Dialogue: 0,0:20:20.89,0:20:23.94,Default,,0000,0000,0000,,It is not the people born with\N natural gifts who are the lucky ones;
+Dialogue: 0,0:20:24.10,0:20:27.89,Default,,0000,0000,0000,,the truly fortunate are they who,\N believing in themselves to the very end,
+Dialogue: 0,0:20:27.89,0:20:30.98,Default,,0000,0000,0000,,can go on striving and keep the flame\Nof their passions alive because of it.
+Dialogue: 0,0:20:38.81,0:20:42.40,Default,,0000,0000,0000,,Uh-huh.\NThat’s a good teacher-student relationship.
+Dialogue: 0,0:20:42.81,0:20:43.90,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:20:46.60,0:20:51.56,Default,,0000,0000,0000,,Say, Sakura! Hurry up and get\NBushy Brow to Grandma’s place, will you?
+Dialogue: 0,0:20:51.60,0:20:53.31,Default,,0000,0000,0000,,Got it! Get him to the stretcher.
+Dialogue: 0,0:20:53.35,0:20:56.02,Default,,0000,0000,0000,,No, don’t worry about me.\NI’m okay. See to Yagura first.
+Dialogue: 0,0:20:56.98,0:21:00.89,Default,,0000,0000,0000,,Speaking of which,\NI still haven’t asked of Yagura’s real name.
+Dialogue: 0,0:21:01.35,0:21:04.60,Default,,0000,0000,0000,,Lee, there’ll be plenty of tim\N for that later.
+Dialogue: 0,0:21:04.89,0:21:07.19,Default,,0000,0000,0000,,Administering first-aid\Nshould take priority.
+Dialogue: 0,0:21:07.44,0:21:08.65,Default,,0000,0000,0000,,Yes! Guy Sensei!
+Dialogue: 0,0:21:08.69,0:21:11.35,Default,,0000,0000,0000,,Yup, yup… That is really one\Nsuper teacher-student relationship.
+Dialogue: 0,0:21:11.40,0:21:13.89,Default,,0000,0000,0000,,I wish mine was as good…
+Dialogue: 0,0:21:41.89,0:21:44.19,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:44.23,0:21:46.81,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.85,0:21:51.19,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.73,0:21:54.35,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.89,0:21:59.10,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.89,0:22:05.89,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.89,0:22:12.40,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:12.44,0:22:17.44,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.48,0:22:22.65,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:51.02,0:22:52.10,Default,,0000,0000,0000,,Yo, Kiba, Neji!
+Dialogue: 0,0:22:52.15,0:22:53.89,Default,,0000,0000,0000,,As always, you have\Nno sense for tension.
+Dialogue: 0,0:22:53.90,0:22:55.89,Default,,0000,0000,0000,,– What was that?!\N– Be quiet, you guys.
+Dialogue: 0,0:22:55.89,0:22:58.02,Default,,0000,0000,0000,,That’s right. They are about to\Ngive us important instructions.
+Dialogue: 0,0:22:58.06,0:23:00.35,Default,,0000,0000,0000,,– Okay…\N– Choji too! Can't you eat a little later?
+Dialogue: 0,0:23:00.40,0:23:02.85,Default,,0000,0000,0000,,– I don’t mind.\N– That’s not the point at all!
+Dialogue: 0,0:23:02.89,0:23:03.89,Default,,0000,0000,0000,,N-Naruto… Um… I…
+Dialogue: 0,0:23:03.89,0:23:05.44,Default,,0000,0000,0000,,Things are heating up in here,\Naren't they, Sakura?
+Dialogue: 0,0:23:05.48,0:23:06.35,Default,,0000,0000,0000,,You are getting too excited.
+Dialogue: 0,0:23:06.40,0:23:07.35,Default,,0000,0000,0000,,Hey. We’re all here.
+Dialogue: 0,0:23:07.40,0:23:09.89,Default,,0000,0000,0000,,Then, I’ll explain the next mission.
+Dialogue: 0,0:23:10.35,0:23:14.89,Default,,0000,0000,0000,,Next time:\N“Crisis: The Hidden Leaf 11 Gather!”

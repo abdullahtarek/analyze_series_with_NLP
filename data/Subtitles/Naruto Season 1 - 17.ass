@@ -1,0 +1,278 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.95,0:00:10.76,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.13,0:00:19.70,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.70,0:00:22.97,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.57,0:00:27.37,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.47,0:00:31.04,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.64,0:00:35.78,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.55,0:00:39.58,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.05,0:00:45.56,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.06,0:00:49.79,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:49.89,0:00:51.60,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.63,0:00:54.10,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.60,0:00:57.47,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.50,0:00:59.44,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.47,0:01:01.87,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.71,0:01:10.45,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.55,0:01:13.95,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.62,0:01:17.59,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.49,0:01:23.66,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.23,0:01:27.67,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:44.28,0:01:46.55,Default,,0000,0000,0000,,Is this the first time you\Nhave faced a friend's death?
+Dialogue: 0,0:01:48.19,0:01:50.59,Default,,0000,0000,0000,,This is the way of the Shinobi…
+Dialogue: 0,0:01:55.59,0:01:56.83,Default,,0000,0000,0000,,I won't forgive you…
+Dialogue: 0,0:02:17.01,0:02:18.58,Default,,0000,0000,0000,,I'm going to kill you!
+Dialogue: 0,0:02:42.97,0:02:48.85,Default,,0000,0000,0000,,White Past: Hidden Ambition
+Dialogue: 0,0:02:55.12,0:02:56.39,Default,,0000,0000,0000,,There's murder in his eyes!
+Dialogue: 0,0:02:56.69,0:02:58.86,Default,,0000,0000,0000,,He looks nothing like he used to!
+Dialogue: 0,0:03:00.89,0:03:01.59,Default,,0000,0000,0000,,He's coming!
+Dialogue: 0,0:03:06.60,0:03:07.33,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:09.60,0:03:11.27,Default,,0000,0000,0000,,His Chakra repelled my attack!
+Dialogue: 0,0:03:12.17,0:03:13.34,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:03:25.35,0:03:26.42,Default,,0000,0000,0000,,This should do it!
+Dialogue: 0,0:03:32.42,0:03:33.36,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:03:37.73,0:03:38.60,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:03:44.84,0:03:47.37,Default,,0000,0000,0000,,Could... Naruto's seal\Nhave been broken…?!
+Dialogue: 0,0:03:49.24,0:03:50.14,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:03:50.17,0:03:51.21,Default,,0000,0000,0000,,This feeling…
+Dialogue: 0,0:03:52.51,0:03:54.25,Default,,0000,0000,0000,,True, the seal is almost off
+Dialogue: 0,0:03:54.58,0:03:57.58,Default,,0000,0000,0000,,and the Chakra of the Nine-Tailed\NFox Spirit is escaping, but…
+Dialogue: 0,0:03:59.58,0:04:02.59,Default,,0000,0000,0000,,Fortunately, the seal is not\Ncompletely broken!
+Dialogue: 0,0:04:04.89,0:04:06.59,Default,,0000,0000,0000,,I still have some time!
+Dialogue: 0,0:04:08.59,0:04:09.79,Default,,0000,0000,0000,,Do you hear me, Zabuza?
+Dialogue: 0,0:04:10.60,0:04:11.90,Default,,0000,0000,0000,,We're both busy people.
+Dialogue: 0,0:04:12.83,0:04:14.80,Default,,0000,0000,0000,,I know it's against your style,
+Dialogue: 0,0:04:15.33,0:04:17.87,Default,,0000,0000,0000,,but I think it's about time\Nwe stopped playing around.
+Dialogue: 0,0:04:21.21,0:04:23.57,Default,,0000,0000,0000,,Why don't we settle this once\Nand for all with the next move?
+Dialogue: 0,0:04:24.24,0:04:25.58,Default,,0000,0000,0000,,Interesting.
+Dialogue: 0,0:04:26.18,0:04:28.91,Default,,0000,0000,0000,,What can you possibly\Ndo in this situation?
+Dialogue: 0,0:04:29.38,0:04:31.65,Default,,0000,0000,0000,,Kakashi, go ahead. 					Show me.
+Dialogue: 0,0:04:38.59,0:04:39.59,Default,,0000,0000,0000,,No good…
+Dialogue: 0,0:04:39.59,0:04:41.89,Default,,0000,0000,0000,,I can't hold his aura down!
+Dialogue: 0,0:05:29.57,0:05:30.57,Default,,0000,0000,0000,,Zabuza…
+Dialogue: 0,0:05:33.58,0:05:36.71,Default,,0000,0000,0000,,I can't defeat this boy.
+Dialogue: 0,0:05:40.58,0:05:41.59,Default,,0000,0000,0000,,Zabuza…
+Dialogue: 0,0:05:45.36,0:05:46.12,Default,,0000,0000,0000,,I'm…
+Dialogue: 0,0:06:15.72,0:06:18.59,Default,,0000,0000,0000,,You…from that time…
+Dialogue: 0,0:06:20.66,0:06:21.59,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:06:21.79,0:06:22.79,Default,,0000,0000,0000,,Why stop?
+Dialogue: 0,0:06:24.43,0:06:30.57,Default,,0000,0000,0000,,Even though I killed your dear friend,\Nyou can't kill me?
+Dialogue: 0,0:06:39.41,0:06:40.41,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:48.52,0:06:50.76,Default,,0000,0000,0000,,What happened to the\Nforce from moment ago?
+Dialogue: 0,0:06:51.59,0:06:56.59,Default,,0000,0000,0000,,You can't defeat me with\Nthat kind of strength.
+Dialogue: 0,0:06:57.60,0:07:00.77,Default,,0000,0000,0000,,Wasn't he someone\Nspecial to you?
+Dialogue: 0,0:07:02.83,0:07:05.64,Default,,0000,0000,0000,,Is there someone special\Nin your life?
+Dialogue: 0,0:07:07.04,0:07:09.21,Default,,0000,0000,0000,,I want to protect someone\Nspecial to me.
+Dialogue: 0,0:07:09.84,0:07:12.21,Default,,0000,0000,0000,,I want to make that\Nperson's dream a reality…
+Dialogue: 0,0:07:12.88,0:07:14.51,Default,,0000,0000,0000,,That's my dream.
+Dialogue: 0,0:07:16.35,0:07:19.75,Default,,0000,0000,0000,,Many people misunderstand.
+Dialogue: 0,0:07:21.09,0:07:24.59,Default,,0000,0000,0000,,They pity and don't finish off\Nthe enemy they ought to finish.
+Dialogue: 0,0:07:24.76,0:07:26.96,Default,,0000,0000,0000,,They let them survive.
+Dialogue: 0,0:07:28.59,0:07:32.76,Default,,0000,0000,0000,,To me, that isn't compassion\Nor anything.
+Dialogue: 0,0:07:35.17,0:07:36.13,Default,,0000,0000,0000,,Do you know?
+Dialogue: 0,0:07:36.97,0:07:40.34,Default,,0000,0000,0000,,How it feels to\Nnot be needed by anyone?
+Dialogue: 0,0:07:41.01,0:07:44.11,Default,,0000,0000,0000,,To live day to day without a dream.\NThe pain of it all.
+Dialogue: 0,0:07:45.18,0:07:46.58,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:07:47.21,0:07:51.42,Default,,0000,0000,0000,,Zabuza has no use\Nfor a weak Shinobi.
+Dialogue: 0,0:07:51.65,0:07:55.02,Default,,0000,0000,0000,,You took away\Nmy reason for existence.
+Dialogue: 0,0:07:56.05,0:07:56.99,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:07:57.29,0:07:59.26,Default,,0000,0000,0000,,Why do you have to\Nserve a guy like that?
+Dialogue: 0,0:07:59.36,0:08:03.49,Default,,0000,0000,0000,,He gets the money from thugs\Nto do bad things!
+Dialogue: 0,0:08:03.76,0:08:08.33,Default,,0000,0000,0000,,Is that No-Brow\Nthe only person special to you?
+Dialogue: 0,0:08:10.20,0:08:13.84,Default,,0000,0000,0000,,A long time ago,\NI had other people special to me.
+Dialogue: 0,0:08:15.84,0:08:19.01,Default,,0000,0000,0000,,They were…my parents.
+Dialogue: 0,0:08:22.25,0:08:27.85,Default,,0000,0000,0000,,I was born in the Land of Water,\Nin a small village heavy with snow.
+Dialogue: 0,0:08:29.69,0:08:31.59,Default,,0000,0000,0000,,My parents worked on a small farm.
+Dialogue: 0,0:08:31.59,0:08:33.66,Default,,0000,0000,0000,,We were very poor,
+Dialogue: 0,0:08:34.16,0:08:37.13,Default,,0000,0000,0000,,but my parents seem to\Nbe satisfied with it.
+Dialogue: 0,0:08:39.23,0:08:40.66,Default,,0000,0000,0000,,I was happy then…
+Dialogue: 0,0:08:41.30,0:08:43.53,Default,,0000,0000,0000,,They were loving parents.
+Dialogue: 0,0:08:46.14,0:08:46.97,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:08:47.71,0:08:49.84,Default,,0000,0000,0000,,When I was old enough\Nto understand things,
+Dialogue: 0,0:08:50.61,0:08:52.58,Default,,0000,0000,0000,,something happened.
+Dialogue: 0,0:08:53.11,0:08:54.08,Default,,0000,0000,0000,,Something?
+Dialogue: 0,0:08:54.58,0:08:55.98,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:09:02.59,0:09:03.85,Default,,0000,0000,0000,,My blood…
+Dialogue: 0,0:09:04.59,0:09:05.49,Default,,0000,0000,0000,,Blood?
+Dialogue: 0,0:09:07.96,0:09:08.99,Default,,0000,0000,0000,,Go on!
+Dialogue: 0,0:09:09.39,0:09:11.60,Default,,0000,0000,0000,,Tell me what happened.
+Dialogue: 0,0:09:13.70,0:09:16.33,Default,,0000,0000,0000,,My father…\NHe killed my mother.
+Dialogue: 0,0:09:16.80,0:09:19.04,Default,,0000,0000,0000,,Then he tried to kill me.
+Dialogue: 0,0:09:19.50,0:09:20.44,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:09:22.74,0:09:26.14,Default,,0000,0000,0000,,After the experience of\Nthe ceaseless civil war,
+Dialogue: 0,0:09:26.48,0:09:30.58,Default,,0000,0000,0000,,people with Kekkei Genkai were\Nhated and feared in the Land of Water.
+Dialogue: 0,0:09:31.18,0:09:32.92,Default,,0000,0000,0000,,Kekkei Genkai?
+Dialogue: 0,0:09:33.58,0:09:37.59,Default,,0000,0000,0000,,It's special powers or Jutsu\Npassed on through certain clans,
+Dialogue: 0,0:09:37.59,0:09:42.59,Default,,0000,0000,0000,,from parent to child,\Nor from grandparent to grandchild.
+Dialogue: 0,0:09:43.63,0:09:46.33,Default,,0000,0000,0000,,Because of their special powers,
+Dialogue: 0,0:09:46.76,0:09:50.83,Default,,0000,0000,0000,,those of the clans were exploited in\Nall sorts of battles.
+Dialogue: 0,0:09:50.87,0:09:53.57,Default,,0000,0000,0000,,As a result, all Kekkei Genkai\Nwere feared
+Dialogue: 0,0:09:53.57,0:09:56.34,Default,,0000,0000,0000,,as harbingers of disaster\Nand death.
+Dialogue: 0,0:10:01.01,0:10:02.35,Default,,0000,0000,0000,,After the war was over,
+Dialogue: 0,0:10:02.38,0:10:07.12,Default,,0000,0000,0000,,they decided to hide\Ntheir special powers.
+Dialogue: 0,0:10:08.19,0:10:13.42,Default,,0000,0000,0000,,If anyone knew of their secret,\Nonly death could be expected.
+Dialogue: 0,0:10:14.66,0:10:18.76,Default,,0000,0000,0000,,I'm sure that boy went through\Nso much suffering as well.
+Dialogue: 0,0:10:19.60,0:10:23.57,Default,,0000,0000,0000,,The greater your power,\Nthe more you were feared.
+Dialogue: 0,0:10:25.57,0:10:29.24,Default,,0000,0000,0000,,My mother had the Kekkei Genkai.
+Dialogue: 0,0:10:29.84,0:10:32.48,Default,,0000,0000,0000,,She kept it secret from my father.
+Dialogue: 0,0:10:32.81,0:10:34.35,Default,,0000,0000,0000,,She hoped that for a while…
+Dialogue: 0,0:10:34.38,0:10:39.18,Default,,0000,0000,0000,,No, she must have thought that\Nthey could have a simple life forever.
+Dialogue: 0,0:10:44.99,0:10:47.46,Default,,0000,0000,0000,,Look, Mommy! Look!
+Dialogue: 0,0:10:48.59,0:10:50.59,Default,,0000,0000,0000,,Isn't it fantastic?
+Dialogue: 0,0:10:53.13,0:10:54.60,Default,,0000,0000,0000,,Not you, too!
+Dialogue: 0,0:10:54.60,0:10:56.60,Default,,0000,0000,0000,,Why? Why him, too?
+Dialogue: 0,0:10:56.63,0:10:57.60,Default,,0000,0000,0000,,That hurts, Mommy!
+Dialogue: 0,0:11:04.14,0:11:05.14,Default,,0000,0000,0000,,Sorry…
+Dialogue: 0,0:11:05.31,0:11:07.71,Default,,0000,0000,0000,,I'm sorry, Haku…
+Dialogue: 0,0:11:09.08,0:11:10.55,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:11:12.85,0:11:14.05,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:11:14.22,0:11:18.22,Default,,0000,0000,0000,,Father had discovered our secret.
+Dialogue: 0,0:12:18.58,0:12:19.88,Default,,0000,0000,0000,,When I came to…
+Dialogue: 0,0:12:20.38,0:12:22.59,Default,,0000,0000,0000,,I had killed my own father.
+Dialogue: 0,0:12:24.62,0:12:29.26,Default,,0000,0000,0000,,And that moment,\Nwhat I thought of myself was that…
+Dialogue: 0,0:12:30.83,0:12:32.60,Default,,0000,0000,0000,,no, that is what I had to think.
+Dialogue: 0,0:12:35.13,0:12:37.67,Default,,0000,0000,0000,,And then knew that it was\Nthe most painful thing.
+Dialogue: 0,0:12:38.47,0:12:40.70,Default,,0000,0000,0000,,The most…painful thing…?
+Dialogue: 0,0:12:42.31,0:12:43.44,Default,,0000,0000,0000,,That I…
+Dialogue: 0,0:12:43.57,0:12:48.58,Default,,0000,0000,0000,,that my existence didn't matter\Nto anyone else in the world.
+Dialogue: 0,0:12:49.58,0:12:52.05,Default,,0000,0000,0000,,Same with me.
+Dialogue: 0,0:12:52.58,0:12:55.55,Default,,0000,0000,0000,,You told me that...
+Dialogue: 0,0:12:55.79,0:13:00.22,Default,,0000,0000,0000,,You'll be the best Ninja in the village,\Nand make everyone respect you.
+Dialogue: 0,0:13:01.59,0:13:05.76,Default,,0000,0000,0000,,If someone comes along and\Naccepts you for who you are,
+Dialogue: 0,0:13:05.80,0:13:10.57,Default,,0000,0000,0000,,no one could be more important\Nto you than that person.
+Dialogue: 0,0:13:12.57,0:13:16.97,Default,,0000,0000,0000,,Even though he knew I was from\Na clan with Kekkei Genkai,
+Dialogue: 0,0:13:17.01,0:13:19.58,Default,,0000,0000,0000,,Zabuza took me in.
+Dialogue: 0,0:13:20.04,0:13:26.22,Default,,0000,0000,0000,,My power that everyone hated...\NHe wanted it, needed it.
+Dialogue: 0,0:13:27.38,0:13:34.29,Default,,0000,0000,0000,,Brats like you won't be needed\Nby anyone and die like dogs.
+Dialogue: 0,0:13:38.80,0:13:42.53,Default,,0000,0000,0000,,You have the same eyes\Nas I do…
+Dialogue: 0,0:13:49.37,0:13:50.47,Default,,0000,0000,0000,,Brat…
+Dialogue: 0,0:13:51.31,0:13:54.88,Default,,0000,0000,0000,,Do you want…\Nto be needed by someone?
+Dialogue: 0,0:13:57.08,0:14:01.39,Default,,0000,0000,0000,,Are you willing\Nto give everything for me?
+Dialogue: 0,0:14:11.80,0:14:15.77,Default,,0000,0000,0000,,From now on,\Nyour power belongs to me.
+Dialogue: 0,0:14:30.75,0:14:32.15,Default,,0000,0000,0000,,Come with me.
+Dialogue: 0,0:14:38.09,0:14:39.46,Default,,0000,0000,0000,,I was so happy…
+Dialogue: 0,0:14:41.59,0:14:43.59,Default,,0000,0000,0000,,Haku, bad news.
+Dialogue: 0,0:14:44.73,0:14:47.93,Default,,0000,0000,0000,,I have to leave the Land of Water\Nas of tonight.
+Dialogue: 0,0:14:49.60,0:14:53.67,Default,,0000,0000,0000,,However, I'll be back in\Nthis land some day.
+Dialogue: 0,0:14:54.57,0:14:56.71,Default,,0000,0000,0000,,I will rule over this land.
+Dialogue: 0,0:14:57.57,0:14:59.41,Default,,0000,0000,0000,,To do that...
+Dialogue: 0,0:14:59.54,0:15:04.05,Default,,0000,0000,0000,,what I need isn't consolation,\Nencouragement or empty words.
+Dialogue: 0,0:15:05.02,0:15:06.72,Default,,0000,0000,0000,,What I really need is…
+Dialogue: 0,0:15:06.75,0:15:07.95,Default,,0000,0000,0000,,I already know.
+Dialogue: 0,0:15:08.12,0:15:09.59,Default,,0000,0000,0000,,You have nothing to fear.
+Dialogue: 0,0:15:09.75,0:15:12.26,Default,,0000,0000,0000,,I am your weapon, Zabuza.
+Dialogue: 0,0:15:12.39,0:15:16.59,Default,,0000,0000,0000,,Keep me by you as a mere tool\Nthat heeds your every word.
+Dialogue: 0,0:15:19.30,0:15:20.60,Default,,0000,0000,0000,,You're a good boy!
+Dialogue: 0,0:15:22.60,0:15:24.77,Default,,0000,0000,0000,,I apologize, Zabuza.
+Dialogue: 0,0:15:25.50,0:15:29.21,Default,,0000,0000,0000,,I wasn't good enough to be\Nthe tool you were looking for.
+Dialogue: 0,0:15:38.42,0:15:39.58,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:41.72,0:15:43.02,Default,,0000,0000,0000,,I want you…
+Dialogue: 0,0:15:44.59,0:15:45.99,Default,,0000,0000,0000,,to kill me.
+Dialogue: 0,0:15:56.17,0:16:00.14,Default,,0000,0000,0000,,Ninja Art, Summoning,\NEarth Style: Fanged Pursuit Jutsu!
+Dialogue: 0,0:16:07.88,0:16:10.21,Default,,0000,0000,0000,,Whatever you do won't work!
+Dialogue: 0,0:16:10.48,0:16:14.08,Default,,0000,0000,0000,,You have absolutely no idea\Nwhere I am now.
+Dialogue: 0,0:16:14.35,0:16:15.35,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:16:16.75,0:16:20.39,Default,,0000,0000,0000,,I know exactly where you are\Nand what you're about.
+Dialogue: 0,0:16:20.62,0:16:21.66,Default,,0000,0000,0000,,Kakashi…
+Dialogue: 0,0:16:22.79,0:16:26.10,Default,,0000,0000,0000,,You are completely\Nin my hands now.
+Dialogue: 0,0:16:41.01,0:16:42.88,Default,,0000,0000,0000,,W-What is that racket?
+Dialogue: 0,0:16:43.18,0:16:46.02,Default,,0000,0000,0000,,What... Just what's going on out there?
+Dialogue: 0,0:16:50.99,0:16:53.96,Default,,0000,0000,0000,,If you can't use your eyes or ears,\Nsimply use your nose.
+Dialogue: 0,0:16:55.59,0:16:56.89,Default,,0000,0000,0000,,That's what happens
+Dialogue: 0,0:16:56.93,0:16:59.66,Default,,0000,0000,0000,,when you're closing your eyes\Nin the midst of fog.
+Dialogue: 0,0:16:59.93,0:17:03.10,Default,,0000,0000,0000,,This is the Summoning Jutsu\Nspecialized for pursuit.
+Dialogue: 0,0:17:05.04,0:17:07.60,Default,,0000,0000,0000,,I deliberately shed my own blood
+Dialogue: 0,0:17:07.64,0:17:10.24,Default,,0000,0000,0000,,to stop your attacks both times\Nfor this.
+Dialogue: 0,0:17:10.81,0:17:15.08,Default,,0000,0000,0000,,Your weapons have a thick scent of\Nmy blood on them now.
+Dialogue: 0,0:17:15.58,0:17:19.02,Default,,0000,0000,0000,,Those are my adorable Ninja Dogs.
+Dialogue: 0,0:17:19.42,0:17:21.25,Default,,0000,0000,0000,,And their sense of smell\Nis without equal.
+Dialogue: 0,0:17:21.69,0:17:24.59,Default,,0000,0000,0000,,You're the one who\Nwas playing into my hands.
+Dialogue: 0,0:17:27.59,0:17:29.59,Default,,0000,0000,0000,,The fog has lifted already.
+Dialogue: 0,0:17:30.13,0:17:33.60,Default,,0000,0000,0000,,And your future is… 					death.
+Dialogue: 0,0:17:35.13,0:17:36.93,Default,,0000,0000,0000,,I've had enough of your bluffs!
+Dialogue: 0,0:17:37.57,0:17:38.57,Default,,0000,0000,0000,,Don't act tough!
+Dialogue: 0,0:17:39.44,0:17:42.54,Default,,0000,0000,0000,,There's nothing you can do\Nin this situation.
+Dialogue: 0,0:17:42.97,0:17:45.18,Default,,0000,0000,0000,,Your death is certain.
+Dialogue: 0,0:17:47.38,0:17:48.51,Default,,0000,0000,0000,,Zabuza.
+Dialogue: 0,0:17:48.58,0:17:50.58,Default,,0000,0000,0000,,You were too full of yourself.
+Dialogue: 0,0:17:51.38,0:17:53.68,Default,,0000,0000,0000,,You're too ambitious\Nfor your own good.
+Dialogue: 0,0:18:03.89,0:18:08.00,Default,,0000,0000,0000,,You assassinated the Mizukage,\Nbut failed to pull off a coup.
+Dialogue: 0,0:18:10.00,0:18:12.57,Default,,0000,0000,0000,,You left the service with\Nfew men under you,
+Dialogue: 0,0:18:12.57,0:18:14.60,Default,,0000,0000,0000,,and became a Rogue Ninja.
+Dialogue: 0,0:18:17.11,0:18:19.58,Default,,0000,0000,0000,,Soon after, your name reached\Nour Hidden Leaf Village.
+Dialogue: 0,0:18:20.48,0:18:22.55,Default,,0000,0000,0000,,You needed to raise funds\Nto strike back.
+Dialogue: 0,0:18:22.88,0:18:24.68,Default,,0000,0000,0000,,And you needed to hide from
+Dialogue: 0,0:18:24.71,0:18:26.58,Default,,0000,0000,0000,,the Tracking Unit's\Npursuit and retaliation.
+Dialogue: 0,0:18:27.05,0:18:28.59,Default,,0000,0000,0000,,Isn't that about the reason
+Dialogue: 0,0:18:28.59,0:18:32.12,Default,,0000,0000,0000,,why you hired yourself out\Nto scum like Gato?
+Dialogue: 0,0:18:33.59,0:18:34.42,Default,,0000,0000,0000,,Zabuza.
+Dialogue: 0,0:18:34.59,0:18:38.63,Default,,0000,0000,0000,,Do you really believe I've managed\Nto survive with just Sharingan?
+Dialogue: 0,0:18:40.16,0:18:44.63,Default,,0000,0000,0000,,Here's something I didn't copy,\Na Jutsu of my own…
+Dialogue: 0,0:18:45.70,0:18:47.14,Default,,0000,0000,0000,,To enlighten you!
+Dialogue: 0,0:19:00.88,0:19:01.85,Default,,0000,0000,0000,,Lightning Blade!
+Dialogue: 0,0:19:02.79,0:19:03.95,Default,,0000,0000,0000,,What the…?!
+Dialogue: 0,0:19:04.55,0:19:07.62,Default,,0000,0000,0000,,His hand is visibly overflowing\Nwith Chakra!
+Dialogue: 0,0:19:10.59,0:19:12.60,Default,,0000,0000,0000,,You are too dangerous.
+Dialogue: 0,0:19:13.33,0:19:16.10,Default,,0000,0000,0000,,Tazuna, the man you are trying\Nto assassinate
+Dialogue: 0,0:19:16.17,0:19:17.77,Default,,0000,0000,0000,,is the symbol of courage in this land!
+Dialogue: 0,0:19:18.57,0:19:22.37,Default,,0000,0000,0000,,The bridge he is building\Nis the hope of this land!
+Dialogue: 0,0:19:22.71,0:19:25.91,Default,,0000,0000,0000,,And your ambitions will sacrifice\Ncountless lives.
+Dialogue: 0,0:19:26.74,0:19:30.75,Default,,0000,0000,0000,,That isn't how a Shinobi\Nis supposed to behave.
+Dialogue: 0,0:19:31.58,0:19:32.58,Default,,0000,0000,0000,,Who cares?
+Dialogue: 0,0:19:34.58,0:19:37.99,Default,,0000,0000,0000,,I have always fought\Nfor my own ideals.
+Dialogue: 0,0:19:38.99,0:19:42.76,Default,,0000,0000,0000,,And that will never ever change!
+Dialogue: 0,0:19:46.43,0:19:47.76,Default,,0000,0000,0000,,I'll say it again.
+Dialogue: 0,0:19:48.17,0:19:48.93,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:49.60,0:19:50.83,Default,,0000,0000,0000,,Give up.
+Dialogue: 0,0:19:54.57,0:19:57.31,Default,,0000,0000,0000,,Your future is… 					death!
+Dialogue: 0,0:19:59.21,0:20:00.51,Default,,0000,0000,0000,,Please kill me.
+Dialogue: 0,0:20:03.25,0:20:05.35,Default,,0000,0000,0000,,What are you hesitating for?
+Dialogue: 0,0:20:06.58,0:20:08.02,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:20:08.05,0:20:10.72,Default,,0000,0000,0000,,What you said is ridiculous!
+Dialogue: 0,0:20:11.09,0:20:13.26,Default,,0000,0000,0000,,You're a weapon?\NJust a tool for him?
+Dialogue: 0,0:20:13.79,0:20:16.59,Default,,0000,0000,0000,,How can you call him\Nspecial to you?
+Dialogue: 0,0:20:16.59,0:20:19.30,Default,,0000,0000,0000,,Are you really okay with that?
+Dialogue: 0,0:20:21.16,0:20:22.27,Default,,0000,0000,0000,,Is that wrong?
+Dialogue: 0,0:20:22.60,0:20:23.20,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:24.17,0:20:26.57,Default,,0000,0000,0000,,Tell me, what is wrong with that?
+Dialogue: 0,0:20:26.84,0:20:27.84,Default,,0000,0000,0000,,Well, uh…
+Dialogue: 0,0:20:28.54,0:20:29.54,Default,,0000,0000,0000,,It's not…
+Dialogue: 0,0:20:30.57,0:20:34.58,Default,,0000,0000,0000,,Zabuza counts on me,\Neven if I'm worthless.
+Dialogue: 0,0:20:35.58,0:20:37.08,Default,,0000,0000,0000,,He made me feel needed.
+Dialogue: 0,0:21:08.58,0:21:13.22,Default,,0000,0000,0000,,But now, I've lost my usefulness\Nthat affirmed my existence.
+Dialogue: 0,0:21:14.58,0:21:18.22,Default,,0000,0000,0000,,Zabuza no longer needs me.
+Dialogue: 0,0:21:22.59,0:21:25.73,Default,,0000,0000,0000,,That's why,\NI am now appealing to you.
+Dialogue: 0,0:21:28.70,0:21:31.03,Default,,0000,0000,0000,,Please, make it quick
+Dialogue: 0,0:23:08.60,0:23:12.17,Default,,0000,0000,0000,,W-Why did this happen?
+Dialogue: 0,0:23:13.30,0:23:17.44,Default,,0000,0000,0000,,Is this what it means to\Nbe a strong Ninja?
+Dialogue: 0,0:23:17.44,0:23:19.58,Default,,0000,0000,0000,,To protect someone?
+Dialogue: 0,0:23:20.18,0:23:22.05,Default,,0000,0000,0000,,Are you okay with that?
+Dialogue: 0,0:23:22.08,0:23:24.08,Default,,0000,0000,0000,,Are you really okay with that?
+Dialogue: 0,0:23:25.55,0:23:29.59,Default,,0000,0000,0000,,I don't get it.\NI can never accept that!
+Dialogue: 0,0:23:31.79,0:23:35.46,Default,,0000,0000,0000,,Next episode:\N "The Weapons Known as Shinobi."

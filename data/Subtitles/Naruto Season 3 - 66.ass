@@ -1,0 +1,233 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.70,0:00:09.87,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.99,0:00:18.12,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.37,0:00:20.41,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.37,0:00:27.12,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.16,0:00:30.66,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.87,0:00:34.37,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.79,0:00:38.04,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:38.08,0:00:45.66,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.70,0:00:54.91,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.95,0:01:02.99,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:03.12,0:01:09.99,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:10.00,0:01:18.12,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.45,0:01:26.99,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.99,0:01:28.99,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:59.04,0:02:01.58,Default,,0000,0000,0000,,The rules are the same as\Nin the preliminaries.
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,The match goes on until one of you\Ndies or admits defeat.
+Dialogue: 0,0:02:07.45,0:02:09.79,Default,,0000,0000,0000,,When it’s determined that\Nthere’s a winner,
+Dialogue: 0,0:02:09.83,0:02:11.83,Default,,0000,0000,0000,,the match can be stopped.
+Dialogue: 0,0:02:12.62,0:02:14.12,Default,,0000,0000,0000,,But that’s my decision.
+Dialogue: 0,0:02:21.99,0:02:27.33,Default,,0000,0000,0000,,Bushy Brow's Jutsu: Sasuke Style!
+Dialogue: 0,0:02:38.00,0:02:40.50,Default,,0000,0000,0000,,Hey Guy! You too, Lee…
+Dialogue: 0,0:02:41.41,0:02:43.00,Default,,0000,0000,0000,,Is your body all right?
+Dialogue: 0,0:02:43.99,0:02:44.95,Default,,0000,0000,0000,,Kakashi!
+Dialogue: 0,0:02:45.37,0:02:46.29,Default,,0000,0000,0000,,Kakashi Sensei!
+Dialogue: 0,0:02:49.95,0:02:52.04,Default,,0000,0000,0000,,Oh! Sorry, sorry.
+Dialogue: 0,0:02:52.66,0:02:57.00,Default,,0000,0000,0000,,You must’ve been worried.\NSorry for not contacting you at all…
+Dialogue: 0,0:02:59.66,0:03:02.75,Default,,0000,0000,0000,,Oh no, Sakura’s gonna get really mad…
+Dialogue: 0,0:03:06.83,0:03:09.16,Default,,0000,0000,0000,,I don’t really mind that.
+Dialogue: 0,0:03:26.99,0:03:29.50,Default,,0000,0000,0000,,It's hard to see from here…
+Dialogue: 0,0:03:31.54,0:03:32.58,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:03:36.95,0:03:37.87,Default,,0000,0000,0000,,Kakashi Sensei…
+Dialogue: 0,0:03:38.99,0:03:39.54,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:41.08,0:03:44.66,Default,,0000,0000,0000,,You know about the mark\Non Sasuke’s neck, don’t you?
+Dialogue: 0,0:03:47.83,0:03:48.70,Default,,0000,0000,0000,,Is that…?
+Dialogue: 0,0:03:52.12,0:03:53.50,Default,,0000,0000,0000,,No need to worry.
+Dialogue: 0,0:03:56.41,0:03:57.16,Default,,0000,0000,0000,,A mark?
+Dialogue: 0,0:04:04.99,0:04:06.99,Default,,0000,0000,0000,,So, that’s that.
+Dialogue: 0,0:04:08.79,0:04:09.25,Default,,0000,0000,0000,,Yup!
+Dialogue: 0,0:04:18.20,0:04:18.99,Default,,0000,0000,0000,,One…
+Dialogue: 0,0:04:19.95,0:04:20.79,Default,,0000,0000,0000,,Two…
+Dialogue: 0,0:04:21.33,0:04:22.16,Default,,0000,0000,0000,,Three…
+Dialogue: 0,0:04:22.83,0:04:23.62,Default,,0000,0000,0000,,Four…
+Dialogue: 0,0:04:24.99,0:04:25.70,Default,,0000,0000,0000,,Five…
+Dialogue: 0,0:04:27.00,0:04:27.95,Default,,0000,0000,0000,,Six…
+Dialogue: 0,0:04:28.75,0:04:29.58,Default,,0000,0000,0000,,Seven…
+Dialogue: 0,0:04:30.29,0:04:31.04,Default,,0000,0000,0000,,Eight.
+Dialogue: 0,0:04:31.87,0:04:32.79,Default,,0000,0000,0000,,Eight of them…
+Dialogue: 0,0:04:33.99,0:04:36.20,Default,,0000,0000,0000,,There are eight members of\NAnbu Black Ops in this spacious arena…
+Dialogue: 0,0:04:36.91,0:04:38.37,Default,,0000,0000,0000,,Two platoons are too few…
+Dialogue: 0,0:04:39.99,0:04:41.62,Default,,0000,0000,0000,,What’s Lord Hokage thinking?
+Dialogue: 0,0:04:42.58,0:04:46.00,Default,,0000,0000,0000,,Well…without knowing how or when\Nthe opponent would make their move…
+Dialogue: 0,0:04:46.54,0:04:49.75,Default,,0000,0000,0000,,It can’t be helped that the Anbu\Nare dispersed and deployed
+Dialogue: 0,0:04:49.83,0:04:51.83,Default,,0000,0000,0000,,in important areas in the village.
+Dialogue: 0,0:04:52.33,0:04:53.04,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:53.66,0:04:54.41,Default,,0000,0000,0000,,It’s about to begin.
+Dialogue: 0,0:04:55.25,0:04:57.41,Default,,0000,0000,0000,,We shouldn’t let our guard down,\Nbut for now…
+Dialogue: 0,0:04:57.91,0:05:00.99,Default,,0000,0000,0000,,We need to pay attention…\N to this match.
+Dialogue: 0,0:05:04.99,0:05:10.83,Default,,0000,0000,0000,,Kakashi, I’ll be carefully checking out\Nwhat sort of training you gave him…
+Dialogue: 0,0:05:11.95,0:05:13.91,Default,,0000,0000,0000,,as your eternal rival!
+Dialogue: 0,0:05:16.79,0:05:18.70,Default,,0000,0000,0000,,Huh? Did you say something?
+Dialogue: 0,0:05:20.83,0:05:24.33,Default,,0000,0000,0000,,No! You’re slick, Kakashi!
+Dialogue: 0,0:05:24.37,0:05:27.37,Default,,0000,0000,0000,,Why are you always so avant-garde?!
+Dialogue: 0,0:05:36.58,0:05:38.20,Default,,0000,0000,0000,,Both of you, to the middle!
+Dialogue: 0,0:06:39.00,0:06:39.87,Default,,0000,0000,0000,,Begin!
+Dialogue: 0,0:06:51.04,0:06:53.99,Default,,0000,0000,0000,,So this is the sand\NKakashi told me about…
+Dialogue: 0,0:07:01.29,0:07:04.16,Default,,0000,0000,0000,,Please don’t get so mad…
+Dialogue: 0,0:07:09.66,0:07:10.99,Default,,0000,0000,0000,,Mother…
+Dialogue: 0,0:07:13.25,0:07:15.83,Default,,0000,0000,0000,,What’s he talking about…?
+Dialogue: 0,0:07:17.33,0:07:22.99,Default,,0000,0000,0000,,Earlier… Earlier I had you suck\Nawful-tasting blood.
+Dialogue: 0,0:07:24.25,0:07:25.66,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:07:27.16,0:07:31.12,Default,,0000,0000,0000,,But this time it’ll likely…
+Dialogue: 0,0:07:31.99,0:07:33.45,Default,,0000,0000,0000,,taste good.
+Dialogue: 0,0:07:35.99,0:07:40.04,Default,,0000,0000,0000,,His conversation’s started.\NThis is dangerous.
+Dialogue: 0,0:07:40.66,0:07:44.66,Default,,0000,0000,0000,,This is the first time I’ve seen Gaara\Nget like that before fighting.
+Dialogue: 0,0:07:45.58,0:07:47.99,Default,,0000,0000,0000,,So it must mean his opponent\Nis that imposing…
+Dialogue: 0,0:07:48.83,0:07:49.29,Default,,0000,0000,0000,,Him.
+Dialogue: 0,0:07:58.99,0:08:01.41,Default,,0000,0000,0000,,It appears he’s calmed down.
+Dialogue: 0,0:08:08.99,0:08:09.79,Default,,0000,0000,0000,,Come on.
+Dialogue: 0,0:08:19.16,0:08:19.99,Default,,0000,0000,0000,,Hey…
+Dialogue: 0,0:08:23.04,0:08:27.08,Default,,0000,0000,0000,,Do you remember…\Nwhat he said yesterday?
+Dialogue: 0,0:08:30.99,0:08:32.99,Default,,0000,0000,0000,,At that time…
+Dialogue: 0,0:08:43.70,0:08:46.99,Default,,0000,0000,0000,,I will kill…you all without fail.
+Dialogue: 0,0:08:48.33,0:08:49.50,Default,,0000,0000,0000,,Just wait.
+Dialogue: 0,0:08:50.54,0:08:51.75,Default,,0000,0000,0000,,That’s what he said…
+Dialogue: 0,0:08:53.99,0:08:55.45,Default,,0000,0000,0000,,But he didn’t do it.
+Dialogue: 0,0:08:57.29,0:08:59.70,Default,,0000,0000,0000,,It was the perfect opportunity, but…
+Dialogue: 0,0:09:01.25,0:09:04.70,Default,,0000,0000,0000,,he didn’t even see us.
+Dialogue: 0,0:09:09.99,0:09:12.50,Default,,0000,0000,0000,,Now, let me feel it!
+Dialogue: 0,0:09:14.16,0:09:15.37,Default,,0000,0000,0000,,We're…
+Dialogue: 0,0:09:16.79,0:09:18.25,Default,,0000,0000,0000,,unsatisfactory for him.
+Dialogue: 0,0:09:19.37,0:09:22.99,Default,,0000,0000,0000,,Right now, the only one who\Ncan make him feel anything…
+Dialogue: 0,0:09:23.79,0:09:25.33,Default,,0000,0000,0000,,…is only Sasuke!
+Dialogue: 0,0:09:27.70,0:09:31.54,Default,,0000,0000,0000,,I live fighting for only myself\Nand loving myself…
+Dialogue: 0,0:09:32.00,0:09:35.16,Default,,0000,0000,0000,,And if I see that all other people\Nin this world
+Dialogue: 0,0:09:35.20,0:09:37.20,Default,,0000,0000,0000,,exist only to make me realize that,
+Dialogue: 0,0:09:38.54,0:09:41.25,Default,,0000,0000,0000,,there could be no world more wonderful.
+Dialogue: 0,0:09:44.99,0:09:45.99,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:10:07.20,0:10:07.99,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:10:16.95,0:10:19.58,Default,,0000,0000,0000,,The Sand Shield became\Na Sand Clone!
+Dialogue: 0,0:10:51.75,0:10:53.99,Default,,0000,0000,0000,,He’s fast! This guy…\Nis just like that guy…
+Dialogue: 0,0:11:23.20,0:11:27.41,Default,,0000,0000,0000,,He’s fast! It’s nearly the same\Nas Lee’s ordinary speed.
+Dialogue: 0,0:11:27.99,0:11:28.70,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:11:29.54,0:11:31.33,Default,,0000,0000,0000,,It's overlapping with the image…
+Dialogue: 0,0:11:32.95,0:11:33.99,Default,,0000,0000,0000,,of my Taijutsu!
+Dialogue: 0,0:11:38.62,0:11:40.20,Default,,0000,0000,0000,,Is that the Sand Armor?
+Dialogue: 0,0:11:44.54,0:11:45.20,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:11:56.79,0:11:58.91,Default,,0000,0000,0000,,Thank you, Anbu man.
+Dialogue: 0,0:12:00.00,0:12:04.04,Default,,0000,0000,0000,,So apparently, Hinata will be\Nall right for now if she rests.
+Dialogue: 0,0:12:05.99,0:12:07.41,Default,,0000,0000,0000,,Oh, is that right?
+Dialogue: 0,0:12:11.70,0:12:15.29,Default,,0000,0000,0000,,Huh? You know this person?\NWhat‘re you taking about?
+Dialogue: 0,0:12:15.50,0:12:17.08,Default,,0000,0000,0000,,This person is an Anbu…
+Dialogue: 0,0:12:20.58,0:12:24.79,Default,,0000,0000,0000,,Not that, but at the examination…?\NWhat do you mean?
+Dialogue: 0,0:12:31.25,0:12:33.75,Default,,0000,0000,0000,,Well, this is what it means…
+Dialogue: 0,0:13:07.25,0:13:07.99,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:13:14.37,0:13:16.58,Default,,0000,0000,0000,,If you’re not gonna come at me,\NI’ll go at you!
+Dialogue: 0,0:13:22.79,0:13:23.62,Default,,0000,0000,0000,,He’s fast!
+Dialogue: 0,0:13:34.99,0:13:37.99,Default,,0000,0000,0000,,What’s the matter? Is that it?
+Dialogue: 0,0:13:44.20,0:13:45.87,Default,,0000,0000,0000,,A-Amazing…
+Dialogue: 0,0:13:50.33,0:13:53.08,Default,,0000,0000,0000,,That armor…I’ll tear it off.
+Dialogue: 0,0:14:03.54,0:14:07.54,Default,,0000,0000,0000,,His speed is basically the same\Nas Lee’s with the weights removed.
+Dialogue: 0,0:14:08.99,0:14:12.08,Default,,0000,0000,0000,,It’s… It’s exactly like\NLee’s Taijutsu.
+Dialogue: 0,0:14:12.54,0:14:14.83,Default,,0000,0000,0000,,His speed is also completely\Ndifferent from before!
+Dialogue: 0,0:14:25.45,0:14:29.91,Default,,0000,0000,0000,,Sasuke… You are indeed\Na genius beyond imagination.
+Dialogue: 0,0:14:30.66,0:14:35.45,Default,,0000,0000,0000,,How many years did it take me\Nto attain that speed…?
+Dialogue: 0,0:14:36.20,0:14:39.99,Default,,0000,0000,0000,,And you attained it in a mere month…!
+Dialogue: 0,0:14:51.62,0:14:54.83,Default,,0000,0000,0000,,However, it seems to consume\Na lot of stamina
+Dialogue: 0,0:14:54.87,0:14:56.99,Default,,0000,0000,0000,,to continue that movement.
+Dialogue: 0,0:14:59.66,0:15:01.45,Default,,0000,0000,0000,,What’s Gaara planning to do?
+Dialogue: 0,0:15:02.41,0:15:04.58,Default,,0000,0000,0000,,The sand armor uses up too\Nmuch Chakra…
+Dialogue: 0,0:15:05.25,0:15:07.37,Default,,0000,0000,0000,,It can’t last for very long.
+Dialogue: 0,0:15:17.99,0:15:20.33,Default,,0000,0000,0000,,What the heck sort of training\Ndid you do?!
+Dialogue: 0,0:15:20.79,0:15:21.29,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:15:21.99,0:15:24.83,Default,,0000,0000,0000,,To get to that level in a mere month…
+Dialogue: 0,0:15:26.08,0:15:29.79,Default,,0000,0000,0000,,Sasuke had copied Lee’s Taijutsu\Nwith Sharingan.
+Dialogue: 0,0:15:30.70,0:15:33.41,Default,,0000,0000,0000,,So during the Taijutsu training…
+Dialogue: 0,0:15:33.95,0:15:36.58,Default,,0000,0000,0000,,I had Sasuke image Lee’s movements.
+Dialogue: 0,0:15:41.91,0:15:44.62,Default,,0000,0000,0000,,Sasuke could make\Nthat movement his own
+Dialogue: 0,0:15:44.75,0:15:46.75,Default,,0000,0000,0000,,only because he knew Lee.
+Dialogue: 0,0:15:47.79,0:15:50.70,Default,,0000,0000,0000,,Of course, Sasuke had to\Nwork very hard for it.
+Dialogue: 0,0:15:51.99,0:15:54.75,Default,,0000,0000,0000,,But…with only that…
+Dialogue: 0,0:15:55.25,0:15:58.95,Default,,0000,0000,0000,,With only Taijutsu…\Nthat Sand guy can’t be taken down!
+Dialogue: 0,0:16:02.58,0:16:03.99,Default,,0000,0000,0000,,That Kakashi…
+Dialogue: 0,0:16:04.25,0:16:05.99,Default,,0000,0000,0000,,He must have seen the battle
+Dialogue: 0,0:16:06.25,0:16:08.99,Default,,0000,0000,0000,,between the hateful Gaara\Nand the lovable Lee.
+Dialogue: 0,0:16:15.20,0:16:17.75,Default,,0000,0000,0000,,Taijutsu that was taught suddenly
+Dialogue: 0,0:16:17.79,0:16:20.95,Default,,0000,0000,0000,,can’t work against an opponent\Nthat even Lee couldn’t take down.
+Dialogue: 0,0:16:21.41,0:16:22.99,Default,,0000,0000,0000,,He should have known this only to well.
+Dialogue: 0,0:16:24.37,0:16:25.54,Default,,0000,0000,0000,,So if that’s the case…
+Dialogue: 0,0:16:26.58,0:16:30.04,Default,,0000,0000,0000,,Why is it that he had Sasuke\Nmaster only Taijutsu?!
+Dialogue: 0,0:17:02.54,0:17:06.37,Default,,0000,0000,0000,,Why did I keep living?
+Dialogue: 0,0:17:08.95,0:17:12.16,Default,,0000,0000,0000,,But as long as you’re alive,\Nyou need a reason…
+Dialogue: 0,0:17:12.70,0:17:15.25,Default,,0000,0000,0000,,If you don’t have one,\Nit’s just the same as being dead.
+Dialogue: 0,0:17:16.41,0:17:18.29,Default,,0000,0000,0000,,What's this guy saying?!
+Dialogue: 0,0:17:22.70,0:17:25.00,Default,,0000,0000,0000,,So this is the answer I came to…
+Dialogue: 0,0:17:25.70,0:17:29.75,Default,,0000,0000,0000,,I am living in order to kill\Nhuman beings other than myself.
+Dialogue: 0,0:17:30.04,0:17:33.75,Default,,0000,0000,0000,,After living in the fear of never knowing\Nwhen I might be murdered,
+Dialogue: 0,0:17:33.95,0:17:35.79,Default,,0000,0000,0000,,finally, I became calm.
+Dialogue: 0,0:17:38.99,0:17:39.54,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:17:40.29,0:17:41.20,Default,,0000,0000,0000,,Shikamaru…
+Dialogue: 0,0:17:43.20,0:17:45.99,Default,,0000,0000,0000,,We need to go over to where\NKakashi Sensei is right now!
+Dialogue: 0,0:17:46.99,0:17:48.37,Default,,0000,0000,0000,,What’re you planning to do?
+Dialogue: 0,0:17:48.99,0:17:49.66,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:51.87,0:17:52.99,Default,,0000,0000,0000,,I'm going to…
+Dialogue: 0,0:17:53.99,0:17:54.99,Default,,0000,0000,0000,,stop this match!
+Dialogue: 0,0:17:58.33,0:18:01.66,Default,,0000,0000,0000,,Gaara couldn’t possibly be planning\Nto use that Jutsu!
+Dialogue: 0,0:18:46.33,0:18:48.99,Default,,0000,0000,0000,,So he used all the sand for protection…
+Dialogue: 0,0:18:49.95,0:18:51.87,Default,,0000,0000,0000,,I didn’t think there could be this\Nmuch of a difference in the hardness
+Dialogue: 0,0:18:51.91,0:18:53.95,Default,,0000,0000,0000,,with a difference in the density\Nof the sand.
+Dialogue: 0,0:18:59.83,0:19:02.08,Default,,0000,0000,0000,,So it’s absolute protection.
+Dialogue: 0,0:19:06.99,0:19:09.87,Default,,0000,0000,0000,,The sand…\Nlt’s covered his entire body.
+Dialogue: 0,0:19:10.83,0:19:12.99,Default,,0000,0000,0000,,This is somewhat troublesome.
+Dialogue: 0,0:19:13.79,0:19:15.99,Default,,0000,0000,0000,,Now, how will Sasuke proceed?!
+Dialogue: 0,0:19:19.12,0:19:20.87,Default,,0000,0000,0000,,Kakashi Sensei!
+Dialogue: 0,0:19:24.75,0:19:25.62,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:19:32.37,0:19:34.75,Default,,0000,0000,0000,,Huh? What do you want?
+Dialogue: 0,0:19:35.29,0:19:38.66,Default,,0000,0000,0000,,Sensei!\NPlease stop this match right away!
+Dialogue: 0,0:19:41.54,0:19:45.41,Default,,0000,0000,0000,,That guy is totally different from us!
+Dialogue: 0,0:19:45.87,0:19:47.99,Default,,0000,0000,0000,,He’s not normal!
+Dialogue: 0,0:19:48.41,0:19:52.33,Default,,0000,0000,0000,,Naruto… 					What’re you saying?
+Dialogue: 0,0:19:52.99,0:19:55.79,Default,,0000,0000,0000,,He lives to kill people.
+Dialogue: 0,0:19:55.99,0:19:56.99,Default,,0000,0000,0000,,In any case…
+Dialogue: 0,0:19:57.41,0:20:00.25,Default,,0000,0000,0000,,If this continues, Sasuke will die!
+Dialogue: 0,0:20:01.33,0:20:02.99,Default,,0000,0000,0000,,Jin, Saru,
+Dialogue: 0,0:20:03.00,0:20:06.99,Default,,0000,0000,0000,,Ne, Saru, Tori, Tatsu, Ne, Saru…
+Dialogue: 0,0:20:18.66,0:20:21.95,Default,,0000,0000,0000,,There’s no mistake about it.\Nlt’s that Jutsu!
+Dialogue: 0,0:20:23.04,0:20:27.62,Default,,0000,0000,0000,,This isn’t good!\NOur plan isn’t even on Gaara’s mind.
+Dialogue: 0,0:20:28.95,0:20:29.66,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:20:30.66,0:20:32.04,Default,,0000,0000,0000,,Kakashi Sensei!
+Dialogue: 0,0:21:19.00,0:21:29.12,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:21:29.62,0:21:40.45,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:50.54,0:21:56.12,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:56.16,0:22:01.25,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:01.66,0:22:06.58,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:06.62,0:22:11.83,Default,,0000,0000,0000,,Let’s go carve the badges in our chest\NYes, it’s Show Time, life begins now.
+Dialogue: 0,0:22:11.87,0:22:21.99,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:22:22.20,0:22:32.79,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:32.83,0:22:43.33,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:43.37,0:22:48.99,Default,,0000,0000,0000,,Forge on strong
+Dialogue: 0,0:23:01.99,0:23:05.87,Default,,0000,0000,0000,,Sasuke, when I fought you once, I said
+Dialogue: 0,0:23:05.99,0:23:07.41,Default,,0000,0000,0000,,Even if one understands visually,
+Dialogue: 0,0:23:07.45,0:23:09.29,Default,,0000,0000,0000,,it's meaninless unless one\Ncan move physically.
+Dialogue: 0,0:23:09.50,0:23:11.20,Default,,0000,0000,0000,,I was filled with\Na sense of superiority.
+Dialogue: 0,0:23:11.25,0:23:14.91,Default,,0000,0000,0000,,But now, you have a body that moves\Nat the same high speed as mine.
+Dialogue: 0,0:23:15.25,0:23:17.66,Default,,0000,0000,0000,,Moreover, you have…Sharingan!
+Dialogue: 0,0:23:17.99,0:23:22.75,Default,,0000,0000,0000,,Next time,\N“Late for the Show, But Ready to Go!\N		The Ultimate Secret Technique is Born!”
+Dialogue: 0,0:23:22.99,0:23:26.20,Default,,0000,0000,0000,,I am really envious of you, Sasuke!

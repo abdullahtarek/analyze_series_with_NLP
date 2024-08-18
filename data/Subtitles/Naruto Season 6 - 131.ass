@@ -1,0 +1,218 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.43,0:00:16.72,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.76,0:00:21.47,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:22.05,0:00:26.26,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.30,0:00:29.59,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.47,0:00:33.60,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.64,0:00:40.05,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:40.93,0:00:45.51,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.55,0:00:49.01,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.51,0:00:52.47,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.51,0:00:55.47,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.51,0:00:59.68,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.89,0:01:02.35,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.39,0:01:08.18,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.59,0:01:11.80,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.80,0:01:14.26,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.30,0:01:19.10,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.14,0:01:21.43,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.47,0:01:23.85,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.89,0:01:27.39,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:55.72,0:02:01.01,Default,,0000,0000,0000,,The Secrets of the Mangekyo Sharingan
+Dialogue: 0,0:02:27.59,0:02:30.05,Default,,0000,0000,0000,,No matter what darkness\Nmight lie ahead,
+Dialogue: 0,0:02:30.10,0:02:31.97,Default,,0000,0000,0000,,I will rush into it headfirst!
+Dialogue: 0,0:02:33.39,0:02:35.10,Default,,0000,0000,0000,,No matter what happens,
+Dialogue: 0,0:02:35.14,0:02:37.43,Default,,0000,0000,0000,,I will get my hands\Non that power!
+Dialogue: 0,0:02:47.59,0:02:49.59,Default,,0000,0000,0000,,It’s getting late…
+Dialogue: 0,0:03:16.80,0:03:18.22,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:03:18.26,0:03:20.59,Default,,0000,0000,0000,,I thought I sensed\Nsomeone there just now…
+Dialogue: 0,0:03:24.64,0:03:26.05,Default,,0000,0000,0000,,The lights…
+Dialogue: 0,0:03:26.55,0:03:28.97,Default,,0000,0000,0000,,It isn’t even close\Nto bedtime yet…
+Dialogue: 0,0:03:34.22,0:03:34.80,Default,,0000,0000,0000,,This is…!
+Dialogue: 0,0:03:39.30,0:03:41.35,Default,,0000,0000,0000,,Wh-What is this…?!
+Dialogue: 0,0:03:44.35,0:03:46.59,Default,,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:03:50.76,0:03:52.59,Default,,0000,0000,0000,,Uncle… Aunt…
+Dialogue: 0,0:03:57.10,0:03:59.35,Default,,0000,0000,0000,,Father… Mother…
+Dialogue: 0,0:04:07.59,0:04:09.59,Default,,0000,0000,0000,,Father? Mother?
+Dialogue: 0,0:04:40.51,0:04:41.60,Default,,0000,0000,0000,,There’s somebody in there!
+Dialogue: 0,0:04:50.39,0:04:51.59,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:04:52.59,0:04:53.59,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:04:54.93,0:04:56.01,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:05:01.59,0:05:03.14,Default,,0000,0000,0000,,Father! Mother!
+Dialogue: 0,0:05:29.68,0:05:31.14,Default,,0000,0000,0000,,Big Brother!
+Dialogue: 0,0:05:31.18,0:05:33.89,Default,,0000,0000,0000,,Big Brother!\NFather and Mother are…!
+Dialogue: 0,0:05:34.30,0:05:36.51,Default,,0000,0000,0000,,Why? For what reason?!
+Dialogue: 0,0:05:37.43,0:05:38.89,Default,,0000,0000,0000,,Who the hell would do\Nsomething like this…?!
+Dialogue: 0,0:05:45.10,0:05:47.14,Default,,0000,0000,0000,,Big Brother…what are…?
+Dialogue: 0,0:05:54.80,0:05:57.59,Default,,0000,0000,0000,,What are you doing, Big Brother?!
+Dialogue: 0,0:05:58.55,0:06:01.30,Default,,0000,0000,0000,,You pathetic younger brother…
+Dialogue: 0,0:06:08.68,0:06:10.51,Default,,0000,0000,0000,,Mangekyo Sharingan!
+Dialogue: 0,0:06:20.30,0:06:23.59,Default,,0000,0000,0000,,Stop! Big Brother!
+Dialogue: 0,0:06:23.72,0:06:26.59,Default,,0000,0000,0000,,Don’t make me see\Nthis kind of thing!
+Dialogue: 0,0:06:28.14,0:06:29.35,Default,,0000,0000,0000,,Why…?!
+Dialogue: 0,0:06:30.22,0:06:32.01,Default,,0000,0000,0000,,Big Brother, why did you…?!
+Dialogue: 0,0:06:59.80,0:07:01.55,Default,,0000,0000,0000,,Why…
+Dialogue: 0,0:07:03.22,0:07:06.51,Default,,0000,0000,0000,,Big Brother… Why did you…?
+Dialogue: 0,0:07:09.35,0:07:13.22,Default,,0000,0000,0000,,In order to measure my vessel…
+Dialogue: 0,0:07:14.10,0:07:17.10,Default,,0000,0000,0000,,To measure your vessel?
+Dialogue: 0,0:07:18.93,0:07:20.26,Default,,0000,0000,0000,,Is that all?
+Dialogue: 0,0:07:24.14,0:07:28.35,Default,,0000,0000,0000,,Only for that reason…\Nyou killed everybody…?
+Dialogue: 0,0:07:31.68,0:07:33.59,Default,,0000,0000,0000,,That is what is important.
+Dialogue: 0,0:07:35.18,0:07:36.93,Default,,0000,0000,0000,,What the hell is that?
+Dialogue: 0,0:07:40.01,0:07:42.59,Default,,0000,0000,0000,,You gotta be kidding!
+Dialogue: 0,0:08:04.89,0:08:06.10,Default,,0000,0000,0000,,I’m scared…
+Dialogue: 0,0:08:06.76,0:08:08.01,Default,,0000,0000,0000,,I’m scared!
+Dialogue: 0,0:08:22.93,0:08:26.30,Default,,0000,0000,0000,,Don’t kill me…!
+Dialogue: 0,0:08:54.26,0:08:55.55,Default,,0000,0000,0000,,I don’t believe it!
+Dialogue: 0,0:08:55.59,0:08:58.76,Default,,0000,0000,0000,,This is too unlike you, Big Brother.\NI mean…
+Dialogue: 0,0:08:58.80,0:09:02.43,Default,,0000,0000,0000,,The reason I acted as the big brother\Nyou desired was…
+Dialogue: 0,0:09:02.93,0:09:06.10,Default,,0000,0000,0000,,because I wanted to\Nmeasure your vessel.
+Dialogue: 0,0:09:07.51,0:09:12.35,Default,,0000,0000,0000,,You have the potential\Nto become my opponent
+Dialogue: 0,0:09:12.39,0:09:15.39,Default,,0000,0000,0000,,in order for me to measure\Nmy vessel.
+Dialogue: 0,0:09:16.76,0:09:20.68,Default,,0000,0000,0000,,You hated me…
+Dialogue: 0,0:09:21.59,0:09:24.60,Default,,0000,0000,0000,,and you continued to have\Nthe desire to surpass me.
+Dialogue: 0,0:09:25.68,0:09:27.93,Default,,0000,0000,0000,,That’s exactly why\NI will allow you to live…
+Dialogue: 0,0:09:28.59,0:09:30.64,Default,,0000,0000,0000,,for my own benefit.
+Dialogue: 0,0:09:30.68,0:09:35.89,Default,,0000,0000,0000,,You are someone who could be able to use\NMangekyo Sharingan just like me.
+Dialogue: 0,0:09:38.59,0:09:41.59,Default,,0000,0000,0000,,However, on one condition…
+Dialogue: 0,0:09:46.01,0:09:51.47,Default,,0000,0000,0000,,That you must kill\Nyour closest friend…
+Dialogue: 0,0:09:54.30,0:09:55.76,Default,,0000,0000,0000,,Y-You’ve gotta be kidding…
+Dialogue: 0,0:10:00.05,0:10:03.59,Default,,0000,0000,0000,,Just like I did…
+Dialogue: 0,0:10:05.59,0:10:08.59,Default,,0000,0000,0000,,Regarding Shisui Uchiha\Nwho committed suicide last night
+Dialogue: 0,0:10:08.59,0:10:11.30,Default,,0000,0000,0000,,by throwing himself into\Nthe Nakano River…
+Dialogue: 0,0:10:13.14,0:10:17.10,Default,,0000,0000,0000,,The other one that did not show up\Nto the meeting is Shisui…
+Dialogue: 0,0:10:17.14,0:10:19.59,Default,,0000,0000,0000,,If I remember correctly…
+Dialogue: 0,0:10:19.59,0:10:22.30,Default,,0000,0000,0000,,you adored him like\Nhe was your real older brother…
+Dialogue: 0,0:10:23.22,0:10:26.14,Default,,0000,0000,0000,,That was…your doing…?
+Dialogue: 0,0:10:27.59,0:10:30.43,Default,,0000,0000,0000,,Big Brother, you…killed Shisui?!
+Dialogue: 0,0:10:31.01,0:10:35.10,Default,,0000,0000,0000,,That’s right…and because of\Nthat I obtained these eyes.
+Dialogue: 0,0:10:37.51,0:10:39.76,Default,,0000,0000,0000,,The main hall of Nakano Shrine…
+Dialogue: 0,0:10:39.80,0:10:43.55,Default,,0000,0000,0000,,Underneath the seventh tatami mat\Non the far right
+Dialogue: 0,0:10:43.59,0:10:45.97,Default,,0000,0000,0000,,is the secret gathering place\Nof the Clan.
+Dialogue: 0,0:10:47.72,0:10:51.43,Default,,0000,0000,0000,,There you will find recorded\Nthe secret of…
+Dialogue: 0,0:10:51.47,0:10:58.22,Default,,0000,0000,0000,,the raison d'être of\Nthe Uchiha Clan’s Visual Jutsu.
+Dialogue: 0,0:10:59.55,0:11:01.85,Default,,0000,0000,0000,,The secret of the raison d'être…?
+Dialogue: 0,0:11:03.59,0:11:05.76,Default,,0000,0000,0000,,If you attain these eyes,
+Dialogue: 0,0:11:05.80,0:11:08.60,Default,,0000,0000,0000,,you will become the third person\Nincluding myself
+Dialogue: 0,0:11:08.64,0:11:11.97,Default,,0000,0000,0000,,to utilize\Nthe Mangekyo Sharingan.
+Dialogue: 0,0:11:12.89,0:11:14.51,Default,,0000,0000,0000,,If that happens…
+Dialogue: 0,0:11:15.85,0:11:18.76,Default,,0000,0000,0000,,then there will have been meaning\Nin my allowing you to live.
+Dialogue: 0,0:11:19.39,0:11:21.59,Default,,0000,0000,0000,,However…at present…
+Dialogue: 0,0:11:23.47,0:11:26.01,Default,,0000,0000,0000,,You are not worth killing.
+Dialogue: 0,0:11:26.89,0:11:28.89,Default,,0000,0000,0000,,My pathetic younger brother…
+Dialogue: 0,0:11:28.93,0:11:31.76,Default,,0000,0000,0000,,If you want to kill me,\Nthen begrudge me!
+Dialogue: 0,0:11:31.97,0:11:33.35,Default,,0000,0000,0000,,Hate me!
+Dialogue: 0,0:11:33.59,0:11:37.01,Default,,0000,0000,0000,,And live in an ugly manner…
+Dialogue: 0,0:11:37.43,0:11:41.59,Default,,0000,0000,0000,,Run away…run away…\Nand cling to life…
+Dialogue: 0,0:11:42.14,0:11:46.10,Default,,0000,0000,0000,,And one day, when you have\Nthe same eyes as I do…
+Dialogue: 0,0:11:46.68,0:11:48.59,Default,,0000,0000,0000,,come and stand before me!
+Dialogue: 0,0:12:09.10,0:12:10.35,Default,,0000,0000,0000,,A dream…?
+Dialogue: 0,0:12:25.97,0:12:28.18,Default,,0000,0000,0000,,Yes…that’s right.
+Dialogue: 0,0:12:28.22,0:12:31.14,Default,,0000,0000,0000,,The only one who survived…\Nis that boy.
+Dialogue: 0,0:12:31.59,0:12:34.60,Default,,0000,0000,0000,,Didn't he have\Nan older brother?
+Dialogue: 0,0:12:36.39,0:12:39.59,Default,,0000,0000,0000,,Yes, but he’s gone missing…
+Dialogue: 0,0:12:42.18,0:12:46.43,Default,,0000,0000,0000,,It can’t be true…\NThat elite Uchiha Clan…
+Dialogue: 0,0:13:14.64,0:13:18.64,Default,,0000,0000,0000,,Hi, Sasuke! What did you\Ncome to buy today?
+Dialogue: 0,0:13:54.93,0:13:57.59,Default,,0000,0000,0000,,Sasuke, are you on your way to school?
+Dialogue: 0,0:13:57.60,0:13:58.68,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:01.85,0:14:05.43,Default,,0000,0000,0000,,I saw Itachi earlier,\Nbut he’s very admirable, isn’t he?
+Dialogue: 0,0:14:05.59,0:14:07.76,Default,,0000,0000,0000,,He’s already become\Na top-class Shinobi.
+Dialogue: 0,0:14:08.51,0:14:11.59,Default,,0000,0000,0000,,He graduated from the Ninja Academy\Nat the top of his class at age seven
+Dialogue: 0,0:14:11.59,0:14:14.59,Default,,0000,0000,0000,,and attained the rank\Nof Chunin at age ten, didn’t he?
+Dialogue: 0,0:14:15.30,0:14:17.80,Default,,0000,0000,0000,,He was able to use Sharingan\Nwhen he was eight!
+Dialogue: 0,0:14:19.89,0:14:21.76,Default,,0000,0000,0000,,That’s true, isn’t it?
+Dialogue: 0,0:14:21.80,0:14:26.22,Default,,0000,0000,0000,,That boy is truly the pride\Nof the Uchiha Clan.
+Dialogue: 0,0:15:04.51,0:15:06.85,Default,,0000,0000,0000,,Welcome home…Sasuke!
+Dialogue: 0,0:15:37.80,0:15:39.05,Default,,0000,0000,0000,,Sasuke…!
+Dialogue: 0,0:15:39.64,0:15:40.68,Default,,0000,0000,0000,,Wait a second…
+Dialogue: 0,0:15:41.59,0:15:42.72,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:15:53.59,0:15:54.59,Default,,0000,0000,0000,,Mother?!
+Dialogue: 0,0:16:07.51,0:16:09.59,Default,,0000,0000,0000,,Then why only Big Brother!
+Dialogue: 0,0:16:12.80,0:16:16.01,Default,,0000,0000,0000,,Your brother's your brother.\NAnd you are you.
+Dialogue: 0,0:16:16.05,0:16:19.55,Default,,0000,0000,0000,,Father cares deeply\Nabout both of you.
+Dialogue: 0,0:17:09.14,0:17:11.72,Default,,0000,0000,0000,,The main hall of Nakano Shrine…
+Dialogue: 0,0:17:13.59,0:17:16.72,Default,,0000,0000,0000,,Located underneath\Nthe seventh tatami mat on the far right
+Dialogue: 0,0:17:16.76,0:17:19.59,Default,,0000,0000,0000,,is our clan’s secret gathering place…
+Dialogue: 0,0:17:26.22,0:17:30.10,Default,,0000,0000,0000,,I see… So that’s what it is…
+Dialogue: 0,0:17:32.22,0:17:35.47,Default,,0000,0000,0000,,Ninja Academy
+Dialogue: 0,0:17:35.93,0:17:37.93,Default,,0000,0000,0000,,Hey, Shikamaru…
+Dialogue: 0,0:17:37.97,0:17:40.05,Default,,0000,0000,0000,,Wanna go to the candy shop\Nafter school?
+Dialogue: 0,0:17:40.10,0:17:41.59,Default,,0000,0000,0000,,Huh… No way.
+Dialogue: 0,0:17:41.76,0:17:45.14,Default,,0000,0000,0000,,You can do that ‘cuz\Nyour mother’s nice,
+Dialogue: 0,0:17:45.18,0:17:48.59,Default,,0000,0000,0000,,but if my mother found out that I bought\Nmyself a snack before going home,
+Dialogue: 0,0:17:48.60,0:17:51.26,Default,,0000,0000,0000,,I’d be in big trouble.
+Dialogue: 0,0:17:51.64,0:17:53.14,Default,,0000,0000,0000,,Did you hear the news…
+Dialogue: 0,0:17:53.18,0:17:56.30,Default,,0000,0000,0000,,that entire Uchiha Clan\Nwas apparently murdered?
+Dialogue: 0,0:17:56.47,0:17:59.43,Default,,0000,0000,0000,,Yeah, my dad told me.
+Dialogue: 0,0:17:59.89,0:18:02.97,Default,,0000,0000,0000,,Apparently he’s the only one\Nwho survived…
+Dialogue: 0,0:18:18.64,0:18:21.43,Default,,0000,0000,0000,,That’s my boy.
+Dialogue: 0,0:18:22.59,0:18:26.05,Default,,0000,0000,0000,,With me, you’re all\Nyour father talks about…
+Dialogue: 0,0:18:32.68,0:18:38.10,Default,,0000,0000,0000,,I wonder…what kind of things\NFather was saying to Mother…
+Dialogue: 0,0:18:49.30,0:18:51.51,Default,,0000,0000,0000,,If you want to kill me…
+Dialogue: 0,0:18:51.55,0:18:53.60,Default,,0000,0000,0000,,Begrudge me! Hate me!
+Dialogue: 0,0:19:01.39,0:19:03.22,Default,,0000,0000,0000,,If it’s for the purpose of killing you,
+Dialogue: 0,0:19:03.26,0:19:07.05,Default,,0000,0000,0000,,I will rush headfirst into whatever\Ndarkness which may lie ahead!
+Dialogue: 0,0:19:07.85,0:19:11.39,Default,,0000,0000,0000,,I will obtain that power no matter what!
+Dialogue: 0,0:19:12.05,0:19:14.93,Default,,0000,0000,0000,,From this point onwards,\NI am an avenger!
+Dialogue: 0,0:19:17.80,0:19:21.51,Default,,0000,0000,0000,,Sasuke is now\Nin depths of darkness…
+Dialogue: 0,0:19:22.47,0:19:24.39,Default,,0000,0000,0000,,If you stop in a place like this…
+Dialogue: 0,0:19:24.43,0:19:26.76,Default,,0000,0000,0000,,you won’t be able to catch up\Nwith Sasuke.
+Dialogue: 0,0:19:47.59,0:19:50.43,Default,,0000,0000,0000,,Neji, it’s just like you said.
+Dialogue: 0,0:19:51.01,0:19:53.55,Default,,0000,0000,0000,,That guy looks like he’s in\Nthe depths of darkness right now…
+Dialogue: 0,0:19:55.51,0:19:59.35,Default,,0000,0000,0000,,He really hit me with\Nhis full strength! Damn it!
+Dialogue: 0,0:20:04.14,0:20:10.01,Default,,0000,0000,0000,,Don’t you consider me…\Nyour comrade any longer?!
+Dialogue: 0,0:20:11.18,0:20:16.59,Default,,0000,0000,0000,,Don’t all those things we did together\Nin Squad Seven mean anything to you?!
+Dialogue: 0,0:20:19.30,0:20:20.05,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:20:21.60,0:20:25.59,Default,,0000,0000,0000,,I will get my hands on\Nthat power no matter what.
+Dialogue: 0,0:20:26.93,0:20:28.85,Default,,0000,0000,0000,,It wasn’t meaningless…
+Dialogue: 0,0:20:29.14,0:20:35.39,Default,,0000,0000,0000,,To me, you became my…\Nclosest friend.
+Dialogue: 0,0:20:36.89,0:20:39.47,Default,,0000,0000,0000,,We've become…friends?
+Dialogue: 0,0:20:40.51,0:20:41.80,Default,,0000,0000,0000,,Then…why?!
+Dialogue: 0,0:20:41.85,0:20:43.64,Default,,0000,0000,0000,,All the more reason why…
+Dialogue: 0,0:20:45.05,0:20:46.72,Default,,0000,0000,0000,,All the more reason why…
+Dialogue: 0,0:20:46.76,0:20:50.30,Default,,0000,0000,0000,,there’s meaning in taking\Nyou down.
+Dialogue: 0,0:20:55.64,0:20:58.05,Default,,0000,0000,0000,,I don’t fully understand but…
+Dialogue: 0,0:20:58.59,0:21:02.59,Default,,0000,0000,0000,,I understood that you want to\Nfight me with your everything!
+Dialogue: 0,0:21:03.10,0:21:04.59,Default,,0000,0000,0000,,Sasuke…!
+Dialogue: 0,0:21:23.76,0:21:28.59,Default,,0000,0000,0000,,When I recalled the parts one by one,
+Dialogue: 0,0:21:28.59,0:21:34.85,Default,,0000,0000,0000,,I felt as though\NI had understood everything
+Dialogue: 0,0:21:34.89,0:21:45.55,Default,,0000,0000,0000,,Faded words which I kept so close to me
+Dialogue: 0,0:21:45.64,0:21:55.26,Default,,0000,0000,0000,,Speechless nights, a hint of warmth,
+Dialogue: 0,0:21:56.89,0:22:02.01,Default,,0000,0000,0000,,and this distant yearning for you
+Dialogue: 0,0:22:02.35,0:22:11.39,Default,,0000,0000,0000,,I live, simply repeating this cycle
+Dialogue: 0,0:22:13.55,0:22:23.01,Default,,0000,0000,0000,,Held in my two hands\NA droplet of time
+Dialogue: 0,0:22:24.51,0:22:33.55,Default,,0000,0000,0000,,Softly clutching forgotten memories\NLost words
+Dialogue: 0,0:22:42.35,0:22:46.22,Default,,0000,0000,0000,,I’ll keep these thoughts…
+Dialogue: 0,0:22:50.47,0:22:54.55,Default,,0000,0000,0000,,Are you trying to take me\Ndown for real?
+Dialogue: 0,0:22:55.55,0:22:57.30,Default,,0000,0000,0000,,I don’t know any longer
+Dialogue: 0,0:22:57.35,0:23:00.14,Default,,0000,0000,0000,,whether you really meant\Nwhat you said earlier or not!
+Dialogue: 0,0:23:00.43,0:23:04.93,Default,,0000,0000,0000,,Could it be that it was only I\Nwho thought we were friends?
+Dialogue: 0,0:23:05.64,0:23:10.59,Default,,0000,0000,0000,,If that’s the case,\NI’m just a really lame guy…
+Dialogue: 0,0:23:10.59,0:23:12.59,Default,,0000,0000,0000,,Aren’t I? Sasuke?
+Dialogue: 0,0:23:12.85,0:23:15.22,Default,,0000,0000,0000,,Next episode: “For a Friend”

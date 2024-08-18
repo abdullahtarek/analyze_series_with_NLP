@@ -1,0 +1,326 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.77,0:00:21.39,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.39,0:00:26.23,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.27,0:00:28.77,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:28.81,0:00:31.39,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.39,0:00:36.02,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.06,0:00:45.90,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.19,0:00:55.35,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.27,0:01:06.15,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.31,0:01:15.48,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.23,0:01:20.65,Default,,0000,0000,0000,,What were you gazing at?\N10.01	02:16:42:06	02:16:46:02	                  When Egrets Flap Their Wings
+Dialogue: 0,0:02:02.35,0:02:03.35,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:02:03.85,0:02:05.27,Default,,0000,0000,0000,,Where does this water…?
+Dialogue: 0,0:02:41.39,0:02:43.35,Default,,0000,0000,0000,,What’s the matter, Naruto?!
+Dialogue: 0,0:02:44.15,0:02:45.90,Default,,0000,0000,0000,,Get a hold of yourself, please!
+Dialogue: 0,0:02:53.39,0:02:54.69,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:02:55.31,0:02:57.39,Default,,0000,0000,0000,,They all look like they’re having fun.
+Dialogue: 0,0:02:58.06,0:03:00.10,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:01.60,0:03:02.69,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:03:06.15,0:03:07.94,Default,,0000,0000,0000,,Hey, you jerk…
+Dialogue: 0,0:03:21.39,0:03:23.15,Default,,0000,0000,0000,,This is…that lake from before…
+Dialogue: 0,0:03:25.56,0:03:27.10,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:03:27.85,0:03:29.06,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:03:29.39,0:03:32.85,Default,,0000,0000,0000,,The person who was calling my name\Nearlier was you, right, Chishima?
+Dialogue: 0,0:03:35.35,0:03:36.48,Default,,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:03:36.85,0:03:38.39,Default,,0000,0000,0000,,I should be asking you that, Chishima.
+Dialogue: 0,0:03:38.39,0:03:40.19,Default,,0000,0000,0000,,You shouldn’t be moving\Nwith that injury.
+Dialogue: 0,0:03:40.35,0:03:41.73,Default,,0000,0000,0000,,I’m fine.
+Dialogue: 0,0:03:43.31,0:03:44.39,Default,,0000,0000,0000,,More importantly,\Nwe need to find Lady Toki.
+Dialogue: 0,0:03:44.39,0:03:45.77,Default,,0000,0000,0000,,Oh yeah, that’s right…
+Dialogue: 0,0:03:46.39,0:03:48.52,Default,,0000,0000,0000,,Where the hell did that Moso go?
+Dialogue: 0,0:03:50.27,0:03:51.39,Default,,0000,0000,0000,,I’m right here…
+Dialogue: 0,0:03:53.31,0:03:54.06,Default,,0000,0000,0000,,Moso…!
+Dialogue: 0,0:03:54.40,0:03:55.40,Default,,0000,0000,0000,,Lady Toki…!
+Dialogue: 0,0:03:56.02,0:04:01.06,Default,,0000,0000,0000,,Chishima, I’m sorry for having\Ndeceived you for so long…
+Dialogue: 0,0:04:01.69,0:04:06.06,Default,,0000,0000,0000,,That’s all right, I already had\Na sense that maybe…
+Dialogue: 0,0:04:06.31,0:04:09.44,Default,,0000,0000,0000,,You guys know too many\Nof this land’s secrets…
+Dialogue: 0,0:04:09.77,0:04:14.48,Default,,0000,0000,0000,,I’ll have you guys embrace those secrets\Nas you plunge headfirst into hell…
+Dialogue: 0,0:04:23.44,0:04:25.60,Default,,0000,0000,0000,,Is that your real face?
+Dialogue: 0,0:04:25.90,0:04:27.48,Default,,0000,0000,0000,,My name is Hoki.
+Dialogue: 0,0:04:27.69,0:04:29.39,Default,,0000,0000,0000,,I’m a Wandering Ninja.
+Dialogue: 0,0:04:29.40,0:04:33.02,Default,,0000,0000,0000,,I’m not about to let you get in\Nthe way of my taking this peaceful land,
+Dialogue: 0,0:04:33.06,0:04:35.06,Default,,0000,0000,0000,,which I have finally managed to snatch!
+Dialogue: 0,0:04:35.48,0:04:38.44,Default,,0000,0000,0000,,Water Style: Water Dragon Jutsu!
+Dialogue: 0,0:05:05.60,0:05:06.60,Default,,0000,0000,0000,,Chishima!
+Dialogue: 0,0:05:07.31,0:05:08.40,Default,,0000,0000,0000,,Chishima!
+Dialogue: 0,0:05:13.19,0:05:14.35,Default,,0000,0000,0000,,Please, hang in there!
+Dialogue: 0,0:05:16.39,0:05:18.06,Default,,0000,0000,0000,,Are you…all right?
+Dialogue: 0,0:05:19.06,0:05:20.02,Default,,0000,0000,0000,,I’m so relieved…
+Dialogue: 0,0:05:20.39,0:05:21.94,Default,,0000,0000,0000,,Chishima!
+Dialogue: 0,0:05:23.48,0:05:24.48,Default,,0000,0000,0000,,Lady Toki…
+Dialogue: 0,0:05:24.81,0:05:26.85,Default,,0000,0000,0000,,I have fond memories…
+Dialogue: 0,0:05:27.35,0:05:30.52,Default,,0000,0000,0000,,of playing here at this lake…
+Dialogue: 0,0:05:30.56,0:05:33.39,Default,,0000,0000,0000,,with you and Lord Sagi.
+Dialogue: 0,0:05:36.39,0:05:38.35,Default,,0000,0000,0000,,In those days,
+Dialogue: 0,0:05:38.39,0:05:42.56,Default,,0000,0000,0000,,the Land of Bird was tranquil,\Ngentle and warm…
+Dialogue: 0,0:05:43.94,0:05:49.39,Default,,0000,0000,0000,,Use your strength, Lady Toki…\Nto restore the Land of Birds…
+Dialogue: 0,0:05:49.39,0:05:51.73,Default,,0000,0000,0000,,to the way it was in those days…
+Dialogue: 0,0:05:53.44,0:05:54.48,Default,,0000,0000,0000,,Chishima…
+Dialogue: 0,0:05:55.65,0:05:57.39,Default,,0000,0000,0000,,Hang in there!
+Dialogue: 0,0:05:58.31,0:06:00.81,Default,,0000,0000,0000,,Naruto, I beg you…
+Dialogue: 0,0:06:01.77,0:06:06.48,Default,,0000,0000,0000,,help Lady Toki…\Nhelp my friend…
+Dialogue: 0,0:06:07.27,0:06:09.69,Default,,0000,0000,0000,,Sure thing.\Nlf a Leaf Ninja promises something,
+Dialogue: 0,0:06:09.73,0:06:12.77,Default,,0000,0000,0000,,he will complete it to the very end.
+Dialogue: 0,0:06:13.94,0:06:15.40,Default,,0000,0000,0000,,Promise me…
+Dialogue: 0,0:06:16.85,0:06:21.69,Default,,0000,0000,0000,,You must…\Nyou must… protect Lady Toki…
+Dialogue: 0,0:06:23.48,0:06:26.39,Default,,0000,0000,0000,,You have feelings for her, don’t you?
+Dialogue: 0,0:06:27.23,0:06:30.48,Default,,0000,0000,0000,,That ramen…was delicious…
+Dialogue: 0,0:06:31.39,0:06:34.31,Default,,0000,0000,0000,,I’ll treat you to some again…
+Dialogue: 0,0:06:35.98,0:06:40.65,Default,,0000,0000,0000,,Thank you… Naruto…
+Dialogue: 0,0:06:45.94,0:06:46.94,Default,,0000,0000,0000,,Chishima!
+Dialogue: 0,0:06:54.48,0:06:55.52,Default,,0000,0000,0000,,Chishima!
+Dialogue: 0,0:06:59.27,0:07:01.02,Default,,0000,0000,0000,,Chishima…!
+Dialogue: 0,0:07:04.15,0:07:05.73,Default,,0000,0000,0000,,That guy was nothing more
+Dialogue: 0,0:07:05.77,0:07:08.85,Default,,0000,0000,0000,,than just another\Nconvenient servant, after all.
+Dialogue: 0,0:07:08.94,0:07:10.02,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:07:10.98,0:07:14.39,Default,,0000,0000,0000,,He loved the Land of Birds\Nwith all his might…
+Dialogue: 0,0:07:15.39,0:07:18.77,Default,,0000,0000,0000,,Chishima, who staked his life trying\Nto protect the country he loved…
+Dialogue: 0,0:07:20.94,0:07:26.39,Default,,0000,0000,0000,,I will not…forgive you,\Nno matter what!
+Dialogue: 0,0:07:28.94,0:07:30.69,Default,,0000,0000,0000,,You may say that\Nyou won’t forgive me,
+Dialogue: 0,0:07:30.73,0:07:34.06,Default,,0000,0000,0000,,but what exactly do\Nyou think you can do?!
+Dialogue: 0,0:07:34.98,0:07:37.73,Default,,0000,0000,0000,,Water Style: Giant Vortex Jutsu!
+Dialogue: 0,0:07:46.39,0:07:47.81,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:08:06.39,0:08:07.69,Default,,0000,0000,0000,,How annoyingly persistent!
+Dialogue: 0,0:08:18.15,0:08:18.94,Default,,0000,0000,0000,,Gentle Fist!
+Dialogue: 0,0:08:27.81,0:08:31.31,Default,,0000,0000,0000,,That was careless,\NCopy Ninja Kakashi Hatake…
+Dialogue: 0,0:08:31.44,0:08:34.48,Default,,0000,0000,0000,,The reputation of the Wandering Ninja\Nwill be upgraded
+Dialogue: 0,0:08:34.52,0:08:37.98,Default,,0000,0000,0000,,if I take you, who possess\Nthe Sharingan, down…
+Dialogue: 0,0:08:46.06,0:08:47.39,Default,,0000,0000,0000,,What…? A Substitution…
+Dialogue: 0,0:08:48.65,0:08:50.19,Default,,0000,0000,0000,,Sorry to disappoint you.
+Dialogue: 0,0:08:50.56,0:08:53.65,Default,,0000,0000,0000,,I don’t need to use the Sharingan\Non the likes of you…
+Dialogue: 0,0:08:59.40,0:09:00.39,Default,,0000,0000,0000,,This way!
+Dialogue: 0,0:09:00.39,0:09:01.39,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:09:06.39,0:09:07.52,Default,,0000,0000,0000,,If we follow this…
+Dialogue: 0,0:09:07.81,0:09:10.10,Default,,0000,0000,0000,,Yes, we should be able\Nto reach Naruto.
+Dialogue: 0,0:09:19.02,0:09:23.39,Default,,0000,0000,0000,,Unfortunately, I cannot allow you\Nto avenge the blood of the fallen.
+Dialogue: 0,0:09:23.81,0:09:25.39,Default,,0000,0000,0000,,The least I can do for you,\Nout of charity,
+Dialogue: 0,0:09:25.39,0:09:27.90,Default,,0000,0000,0000,,is send you to the same place\Nyour father and brother are.
+Dialogue: 0,0:09:29.39,0:09:30.39,Default,,0000,0000,0000,,I don’t care.
+Dialogue: 0,0:09:32.02,0:09:34.35,Default,,0000,0000,0000,,Why don’t you just kill me\Nin one stroke?
+Dialogue: 0,0:09:35.02,0:09:37.19,Default,,0000,0000,0000,,You know when to give up, huh?
+Dialogue: 0,0:09:38.52,0:09:43.60,Default,,0000,0000,0000,,They’re all dead.\NI’m the only one left in this world.
+Dialogue: 0,0:09:46.77,0:09:49.27,Default,,0000,0000,0000,,Now that I am unable to take revenge,
+Dialogue: 0,0:09:49.39,0:09:51.44,Default,,0000,0000,0000,,I have no more reason to live.
+Dialogue: 0,0:09:51.94,0:09:53.65,Default,,0000,0000,0000,,You’re a courageous girl,\Naren’t you?
+Dialogue: 0,0:09:54.39,0:09:58.39,Default,,0000,0000,0000,,All right, I’ll grant your wish.
+Dialogue: 0,0:09:59.19,0:10:00.60,Default,,0000,0000,0000,,Resign yourself!
+Dialogue: 0,0:10:14.39,0:10:15.48,Default,,0000,0000,0000,,Wake up.
+Dialogue: 0,0:10:21.90,0:10:25.44,Default,,0000,0000,0000,,Save Toki… Save my little sister…
+Dialogue: 0,0:10:26.44,0:10:30.06,Default,,0000,0000,0000,,I entrusted the future of\Nthe Land of Birds to my younger sister
+Dialogue: 0,0:10:30.10,0:10:31.60,Default,,0000,0000,0000,,and gave her the watch.
+Dialogue: 0,0:10:32.10,0:10:35.98,Default,,0000,0000,0000,,But Toki became obsessed\Nwith her desire for revenge.
+Dialogue: 0,0:10:36.52,0:10:39.73,Default,,0000,0000,0000,,I, a dead soul, cannot change\Nmy younger sister’s heart
+Dialogue: 0,0:10:39.77,0:10:41.60,Default,,0000,0000,0000,,which is stalled in time.
+Dialogue: 0,0:10:42.31,0:10:43.56,Default,,0000,0000,0000,,I’m begging you,
+Dialogue: 0,0:10:43.60,0:10:48.31,Default,,0000,0000,0000,,please make my younger sister’s time\Nbegin to move again towards the future.
+Dialogue: 0,0:10:51.47,0:10:53.59,Default,,0000,0000,0000,,What was that just now?
+Dialogue: 0,0:10:59.47,0:11:00.59,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:11:04.59,0:11:05.43,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:07.35,0:11:09.01,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:11:18.59,0:11:19.59,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:21.55,0:11:23.01,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:11:32.89,0:11:33.89,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:11:36.51,0:11:39.64,Default,,0000,0000,0000,,I met your elder brother in\Na dream a little while ago.
+Dialogue: 0,0:11:39.76,0:11:40.59,Default,,0000,0000,0000,,Elder Brother?
+Dialogue: 0,0:11:42.18,0:11:44.93,Default,,0000,0000,0000,,It wasn’t the wish of\Nyour elder brother Sagi
+Dialogue: 0,0:11:44.97,0:11:46.59,Default,,0000,0000,0000,,that you avenge his death.
+Dialogue: 0,0:11:47.43,0:11:50.18,Default,,0000,0000,0000,,He wanted to leave the care\Nof this land in your hands.
+Dialogue: 0,0:11:50.68,0:11:51.59,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:11:51.64,0:11:53.30,Default,,0000,0000,0000,,For Chishima’s sake too…
+Dialogue: 0,0:11:53.35,0:11:56.59,Default,,0000,0000,0000,,you must make this\NLand of Bird a great country…
+Dialogue: 0,0:11:59.22,0:12:01.89,Default,,0000,0000,0000,,That’s why you must live, Toki…
+Dialogue: 0,0:12:03.10,0:12:03.76,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:07.89,0:12:09.97,Default,,0000,0000,0000,,It doesn’t make any difference to me.
+Dialogue: 0,0:12:10.01,0:12:12.60,Default,,0000,0000,0000,,The two of you are going\Nto die here in any case.
+Dialogue: 0,0:12:22.68,0:12:26.05,Default,,0000,0000,0000,,Hey, Hoki, you want this Land, right?
+Dialogue: 0,0:12:26.59,0:12:27.72,Default,,0000,0000,0000,,What…
+Dialogue: 0,0:12:28.14,0:12:32.55,Default,,0000,0000,0000,,But a person with an impure heart,\Nwith a heart bent on revenge,
+Dialogue: 0,0:12:32.59,0:12:34.35,Default,,0000,0000,0000,,cannot govern this land.
+Dialogue: 0,0:12:35.89,0:12:38.72,Default,,0000,0000,0000,,The reason this was such\Na wonderful country was because
+Dialogue: 0,0:12:38.76,0:12:43.35,Default,,0000,0000,0000,,Chishima and Sagi and Toki’s hearts\Nwere all connected.
+Dialogue: 0,0:12:43.89,0:12:46.59,Default,,0000,0000,0000,,Even if you use dirty tricks\Nto gain status,
+Dialogue: 0,0:12:46.59,0:12:49.47,Default,,0000,0000,0000,,you will never be able to control\Nthe hearts of the people…
+Dialogue: 0,0:12:49.72,0:12:51.26,Default,,0000,0000,0000,,Speak for yourself, squirt!
+Dialogue: 0,0:12:52.47,0:12:54.59,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu!
+Dialogue: 0,0:13:02.59,0:13:04.39,Default,,0000,0000,0000,,You Leaf Village greenhorn!
+Dialogue: 0,0:13:04.76,0:13:08.59,Default,,0000,0000,0000,,I’ll send you down into hell first\Nto meet up with the others!
+Dialogue: 0,0:13:09.22,0:13:12.05,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu!
+Dialogue: 0,0:13:17.59,0:13:20.10,Default,,0000,0000,0000,,– It ain’t gonna be that easy!\N– It ain’t gonna be that easy!
+Dialogue: 0,0:13:20.59,0:13:24.35,Default,,0000,0000,0000,,– Then try to spot the real McCoy!\N– Then try to spot the real McCoy!
+Dialogue: 0,0:13:24.47,0:13:25.93,Default,,0000,0000,0000,,What…!
+Dialogue: 0,0:13:26.59,0:13:27.60,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:13:48.30,0:13:50.93,Default,,0000,0000,0000,,– Damn, which is the real one?\N– Damn, which is the real one?
+Dialogue: 0,0:14:04.59,0:14:06.85,Default,,0000,0000,0000,,Naruto, hang in there…
+Dialogue: 0,0:14:08.47,0:14:11.55,Default,,0000,0000,0000,,I wouldn’t have thought the real McCoy\Nwould come straight out
+Dialogue: 0,0:14:11.59,0:14:13.01,Default,,0000,0000,0000,,when using Shadow Clones…
+Dialogue: 0,0:14:13.22,0:14:15.97,Default,,0000,0000,0000,,I was hoping you’d let me\Nhave some fun…
+Dialogue: 0,0:14:16.18,0:14:18.35,Default,,0000,0000,0000,,So that was your caliber,\Nafter all, huh.
+Dialogue: 0,0:14:20.51,0:14:23.22,Default,,0000,0000,0000,,Those without power should\Nhurry up and die!
+Dialogue: 0,0:14:25.47,0:14:28.85,Default,,0000,0000,0000,,Better not underestimate me!\NThe battle is not yet won!
+Dialogue: 0,0:14:33.43,0:14:34.85,Default,,0000,0000,0000,,You impertinent little…!
+Dialogue: 0,0:14:37.80,0:14:38.59,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:14:39.80,0:14:42.59,Default,,0000,0000,0000,,U-zu-ma-ki…
+Dialogue: 0,0:14:43.51,0:14:44.39,Default,,0000,0000,0000,,The real McCoy is…
+Dialogue: 0,0:14:44.72,0:14:45.59,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:14:46.26,0:14:47.59,Default,,0000,0000,0000,,Uzumaki Barrage!
+Dialogue: 0,0:14:56.10,0:14:56.97,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:14:57.30,0:14:58.35,Default,,0000,0000,0000,,Chishima!
+Dialogue: 0,0:15:02.97,0:15:03.85,Default,,0000,0000,0000,,Chishima…
+Dialogue: 0,0:15:04.47,0:15:06.51,Default,,0000,0000,0000,,Don’t die, Chishima!
+Dialogue: 0,0:15:07.55,0:15:11.51,Default,,0000,0000,0000,,Don’t…leave me…all alone!
+Dialogue: 0,0:15:30.30,0:15:31.35,Default,,0000,0000,0000,,Open your eyes…
+Dialogue: 0,0:15:32.72,0:15:33.68,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:15:52.59,0:15:54.59,Default,,0000,0000,0000,,Lady Toki…
+Dialogue: 0,0:15:56.30,0:15:57.30,Default,,0000,0000,0000,,Chishima…!
+Dialogue: 0,0:15:59.51,0:16:00.43,Default,,0000,0000,0000,,Lady Toki…
+Dialogue: 0,0:16:05.26,0:16:06.59,Default,,0000,0000,0000,,I’m so relieved!
+Dialogue: 0,0:16:07.39,0:16:09.30,Default,,0000,0000,0000,,Thank you, Naruto!
+Dialogue: 0,0:16:10.51,0:16:12.47,Default,,0000,0000,0000,,I was just carrying out my mission.
+Dialogue: 0,0:16:12.60,0:16:13.59,Default,,0000,0000,0000,,More importantly…
+Dialogue: 0,0:16:15.80,0:16:19.14,Default,,0000,0000,0000,,Make that guy pay dearly for\Nhis crimes, okay.
+Dialogue: 0,0:16:20.39,0:16:21.01,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:21.89,0:16:24.80,Default,,0000,0000,0000,,I’m sure that Sagi is happy\Nabout this too.
+Dialogue: 0,0:16:25.60,0:16:28.59,Default,,0000,0000,0000,,You met…you met Elder Brother Sagi…
+Dialogue: 0,0:16:29.39,0:16:31.64,Default,,0000,0000,0000,,Yeah, in a dream.
+Dialogue: 0,0:16:32.05,0:16:33.93,Default,,0000,0000,0000,,But even if it was in a dream,
+Dialogue: 0,0:16:33.97,0:16:36.30,Default,,0000,0000,0000,,it doesn’t change the fact that\Nhe asked me to do something.
+Dialogue: 0,0:16:36.47,0:16:38.93,Default,,0000,0000,0000,,What did Elder Brother say to you?
+Dialogue: 0,0:16:39.22,0:16:43.51,Default,,0000,0000,0000,,Well, he said something about\Nstarting up your time again.
+Dialogue: 0,0:16:44.10,0:16:45.47,Default,,0000,0000,0000,,My time?
+Dialogue: 0,0:16:46.22,0:16:48.68,Default,,0000,0000,0000,,He said he wanted you to forget\Nabout things like revenge
+Dialogue: 0,0:16:48.72,0:16:50.59,Default,,0000,0000,0000,,and instead live for the future.
+Dialogue: 0,0:16:57.64,0:16:58.93,Default,,0000,0000,0000,,Elder Brother…
+Dialogue: 0,0:16:59.60,0:17:00.76,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:01.85,0:17:03.47,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:17:03.80,0:17:06.76,Default,,0000,0000,0000,,Kakashi Sensei, Neji, Tenten!
+Dialogue: 0,0:17:18.26,0:17:19.30,Default,,0000,0000,0000,,Gimme a break…
+Dialogue: 0,0:17:19.35,0:17:21.76,Default,,0000,0000,0000,,I can’t get paid my extra money\Nnow that Moso,
+Dialogue: 0,0:17:21.80,0:17:24.22,Default,,0000,0000,0000,,the guy who signs the paycheck,\Ngot nabbed…
+Dialogue: 0,0:17:24.35,0:17:25.51,Default,,0000,0000,0000,,Come on, resign yourself…
+Dialogue: 0,0:17:25.55,0:17:26.59,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:17:26.60,0:17:30.39,Default,,0000,0000,0000,,It looks like the Wandering Ninja\Nare going to get a really stiff sentence.
+Dialogue: 0,0:17:30.51,0:17:34.72,Default,,0000,0000,0000,,Yeah… And Toki was finally able to\Nbreak the curse of seeking revenge…
+Dialogue: 0,0:17:35.35,0:17:37.26,Default,,0000,0000,0000,,Hey, it’s gonna start!
+Dialogue: 0,0:17:37.59,0:17:40.80,Default,,0000,0000,0000,,Down on your knees!
+Dialogue: 0,0:17:48.59,0:17:50.68,Default,,0000,0000,0000,,Ohhh…wow…
+Dialogue: 0,0:17:59.59,0:18:02.60,Default,,0000,0000,0000,,I must apologize for having\Ndeceived everyone
+Dialogue: 0,0:18:02.64,0:18:04.59,Default,,0000,0000,0000,,by using my brother’s name fraudulently,
+Dialogue: 0,0:18:04.59,0:18:07.64,Default,,0000,0000,0000,,and claiming\Nthe title of feudal lord.
+Dialogue: 0,0:18:08.43,0:18:09.64,Default,,0000,0000,0000,,In a case such as this,
+Dialogue: 0,0:18:09.68,0:18:13.59,Default,,0000,0000,0000,,it may well be proper to hand over\Nthe title of feudal lord to someone else.
+Dialogue: 0,0:18:14.59,0:18:17.59,Default,,0000,0000,0000,,However, if you will forgive me,
+Dialogue: 0,0:18:17.60,0:18:19.30,Default,,0000,0000,0000,,I would like to ask you to\Nallow me to work
+Dialogue: 0,0:18:19.35,0:18:21.18,Default,,0000,0000,0000,,on behalf of Land of Birds\Nas your lord.
+Dialogue: 0,0:18:21.59,0:18:25.26,Default,,0000,0000,0000,,For my deceased father Owashi,\Nand brother Sagi…
+Dialogue: 0,0:18:25.89,0:18:31.26,Default,,0000,0000,0000,,And for my dear friend Chishima\Nwho loves this country so dearly…
+Dialogue: 0,0:18:31.60,0:18:32.59,Default,,0000,0000,0000,,Lady Toki…
+Dialogue: 0,0:18:34.05,0:18:35.68,Default,,0000,0000,0000,,As long as there is breath in my body,
+Dialogue: 0,0:18:35.72,0:18:37.85,Default,,0000,0000,0000,,I would like to work positively\Nto rebuild this country.
+Dialogue: 0,0:18:38.47,0:18:40.68,Default,,0000,0000,0000,,She’s doing an excellent job, isn’t she?
+Dialogue: 0,0:18:40.72,0:18:42.43,Default,,0000,0000,0000,,Toki, awesome!
+Dialogue: 0,0:18:43.47,0:18:45.72,Default,,0000,0000,0000,,As you wish, Lady Toki…
+Dialogue: 0,0:18:46.72,0:18:49.30,Default,,0000,0000,0000,,It appears that\Nyou all agree too, correct?
+Dialogue: 0,0:18:49.59,0:18:51.59,Default,,0000,0000,0000,,– Yes, sir! 					– Yes, sir!
+Dialogue: 0,0:18:53.55,0:18:54.76,Default,,0000,0000,0000,,Thank you…
+Dialogue: 0,0:18:54.80,0:18:59.59,Default,,0000,0000,0000,,To Komei…for accepting me\Nas your feudal lord…to everyone…
+Dialogue: 0,0:18:59.68,0:19:02.43,Default,,0000,0000,0000,,And to the young Ninja who taught me
+Dialogue: 0,0:19:02.47,0:19:06.60,Default,,0000,0000,0000,,what it is that I should really\Nstake my life on…
+Dialogue: 0,0:19:06.93,0:19:08.59,Default,,0000,0000,0000,,You’re embarrassing me…
+Dialogue: 0,0:19:10.97,0:19:13.18,Default,,0000,0000,0000,,Land of Birds
+Dialogue: 0,0:19:13.55,0:19:16.55,Default,,0000,0000,0000,,Please take the best of care\Nalong the road now.
+Dialogue: 0,0:19:16.59,0:19:17.64,Default,,0000,0000,0000,,Fare thee well.
+Dialogue: 0,0:19:17.76,0:19:20.72,Default,,0000,0000,0000,,Chishima, be nice to Toki, okay?
+Dialogue: 0,0:19:21.05,0:19:22.59,Default,,0000,0000,0000,,Thank you, Naruto.
+Dialogue: 0,0:19:22.59,0:19:26.18,Default,,0000,0000,0000,,Please come back to visit\Nagain soon.
+Dialogue: 0,0:19:26.59,0:19:30.18,Default,,0000,0000,0000,,Sure, next time I’d love\Nto visit without a mission.
+Dialogue: 0,0:19:30.68,0:19:31.68,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:19:32.35,0:19:34.18,Default,,0000,0000,0000,,Goodbye. Be well…
+Dialogue: 0,0:19:34.30,0:19:35.26,Default,,0000,0000,0000,,See you…
+Dialogue: 0,0:19:41.68,0:19:46.47,Default,,0000,0000,0000,,Toki…she was really kind\Nand gorgeous too, wasn’t she?
+Dialogue: 0,0:19:46.59,0:19:48.85,Default,,0000,0000,0000,,I’m certain that the Land of Birds\Nwill become a wonderful land again,
+Dialogue: 0,0:19:48.89,0:19:50.26,Default,,0000,0000,0000,,just like it was in the old days.
+Dialogue: 0,0:19:50.55,0:19:51.18,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:51.22,0:19:54.59,Default,,0000,0000,0000,,By the way, Naruto…\Ndid you really meet Sagi’s ghost?
+Dialogue: 0,0:19:54.59,0:19:56.64,Default,,0000,0000,0000,,You gotta be kidding.
+Dialogue: 0,0:19:56.68,0:20:00.39,Default,,0000,0000,0000,,There’s no such things as ghosts…\Nthat was all in a dream.
+Dialogue: 0,0:20:00.85,0:20:03.39,Default,,0000,0000,0000,,I’m not so sure it was just a dream.
+Dialogue: 0,0:20:03.51,0:20:05.80,Default,,0000,0000,0000,,Wh-What the heck are you\Ntalking about?!
+Dialogue: 0,0:20:06.35,0:20:10.35,Default,,0000,0000,0000,,Do you remember that Cursed Warrior\Nwe cornered the very first time?
+Dialogue: 0,0:20:11.10,0:20:12.51,Default,,0000,0000,0000,,Uh, yeah.
+Dialogue: 0,0:20:12.59,0:20:14.68,Default,,0000,0000,0000,,Yeah, he was empty inside.
+Dialogue: 0,0:20:24.93,0:20:27.30,Default,,0000,0000,0000,,Th-This…?
+Dialogue: 0,0:20:29.14,0:20:31.60,Default,,0000,0000,0000,,The inside of it is empty.
+Dialogue: 0,0:20:32.76,0:20:35.89,Default,,0000,0000,0000,,Yeah, but that was just sort\Nof gimmick, right?
+Dialogue: 0,0:20:35.93,0:20:37.47,Default,,0000,0000,0000,,Some kind of string or piece\Nof wire or something…
+Dialogue: 0,0:20:37.51,0:20:40.76,Default,,0000,0000,0000,,No, I definitely saw it with my Byakugan.
+Dialogue: 0,0:20:41.22,0:20:43.01,Default,,0000,0000,0000,,Now that you mention it,
+Dialogue: 0,0:20:43.05,0:20:46.05,Default,,0000,0000,0000,,you said there was no sign of life,\Nright, Neji?
+Dialogue: 0,0:20:47.10,0:20:51.01,Default,,0000,0000,0000,,Yeah…I didn’t feel a speck of life\Nfrom that Cursed Warrior.
+Dialogue: 0,0:20:51.51,0:20:53.14,Default,,0000,0000,0000,,In other words, there was\Na ghost there.
+Dialogue: 0,0:20:55.43,0:20:58.39,Default,,0000,0000,0000,,So that was a real ghost, after all?!
+Dialogue: 0,0:20:58.72,0:21:00.22,Default,,0000,0000,0000,,Calm down, Naruto.
+Dialogue: 0,0:21:00.43,0:21:02.59,Default,,0000,0000,0000,,That's not true…\NThat's not true!
+Dialogue: 0,0:21:02.59,0:21:06.59,Default,,0000,0000,0000,,Tell me that’s not true!
+Dialogue: 0,0:21:31.76,0:21:34.30,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:34.68,0:21:38.05,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:38.22,0:21:40.59,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:41.22,0:21:43.59,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:44.59,0:21:47.64,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:47.72,0:21:50.35,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:51.01,0:21:53.59,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:54.10,0:21:55.51,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:58.55,0:22:02.59,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:04.85,0:22:08.85,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:10.51,0:22:13.60,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:13.60,0:22:16.68,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:16.85,0:22:19.72,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:19.76,0:22:23.51,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:23.59,0:22:26.59,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:26.59,0:22:29.59,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:29.68,0:22:36.10,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:36.51,0:22:39.43,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:39.47,0:22:42.80,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:50.76,0:22:51.59,Default,,0000,0000,0000,,– Pork! 					– Chicken!
+Dialogue: 0,0:22:51.59,0:22:53.10,Default,,0000,0000,0000,,– Beef!\N– What, is this a guessing game?
+Dialogue: 0,0:22:53.10,0:22:54.14,Default,,0000,0000,0000,,– Bean sprouts! 					– Spinach!
+Dialogue: 0,0:22:54.18,0:22:55.64,Default,,0000,0000,0000,,– Green onions!\N– I got it! It’s Stir-fried Beef & Vegetables!
+Dialogue: 0,0:22:55.76,0:22:56.59,Default,,0000,0000,0000,,– Egg! 					– Nori!
+Dialogue: 0,0:22:56.59,0:22:57.35,Default,,0000,0000,0000,,Seaweed!
+Dialogue: 0,0:22:57.39,0:22:59.39,Default,,0000,0000,0000,,Umm…Stir-fried Beef, vegetable,\Nand seaweed in egg sauté?!
+Dialogue: 0,0:22:59.43,0:23:00.35,Default,,0000,0000,0000,,– Menma! 					– Char-siu!
+Dialogue: 0,0:23:00.39,0:23:00.89,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:23:00.93,0:23:02.89,Default,,0000,0000,0000,,I got it, ramen!\Nlt’s ramen, isn’t it?!
+Dialogue: 0,0:23:02.93,0:23:03.59,Default,,0000,0000,0000,,Wrong answer!
+Dialogue: 0,0:23:03.59,0:23:04.72,Default,,0000,0000,0000,,Sakura, you’re so slow to get it!
+Dialogue: 0,0:23:04.80,0:23:06.59,Default,,0000,0000,0000,,You should know\Nif we’ve said it this far.
+Dialogue: 0,0:23:06.64,0:23:09.18,Default,,0000,0000,0000,,Miso-tonkotsu ramen with char-siu\Nand eggs on top.
+Dialogue: 0,0:23:09.22,0:23:09.97,Default,,0000,0000,0000,,Isn’t that right?!
+Dialogue: 0,0:23:10.01,0:23:11.68,Default,,0000,0000,0000,,Like heck I’d get it, Cha!
+Dialogue: 0,0:23:12.14,0:23:15.55,Default,,0000,0000,0000,,Next time:\N“Mix It! Stretch it! Boil it up!\N		Burn Copper Pot! Burn!”

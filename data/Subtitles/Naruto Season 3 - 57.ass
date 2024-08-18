@@ -1,0 +1,328 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.47,0:00:09.64,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.76,0:00:17.89,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.14,0:00:20.18,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.14,0:00:26.89,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:26.93,0:00:30.43,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.64,0:00:34.14,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.56,0:00:37.81,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.85,0:00:45.43,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.47,0:00:54.68,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.72,0:01:02.76,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.89,0:01:09.76,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.77,0:01:17.89,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.22,0:01:26.76,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.76,0:01:28.76,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:48.97,0:01:51.77,Default,,0000,0000,0000,,Where am I?!
+Dialogue: 0,0:01:58.22,0:02:00.64,Default,,0000,0000,0000,,I’ve been saved.
+Dialogue: 0,0:02:01.52,0:02:02.47,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:02:02.97,0:02:06.76,Default,,0000,0000,0000,,Awesome… He’s pretty darn big…
+Dialogue: 0,0:02:08.02,0:02:09.14,Default,,0000,0000,0000,,Oh yeah…
+Dialogue: 0,0:02:18.52,0:02:25.76,Default,,0000,0000,0000,,This is a…frog…isn’t it…?
+Dialogue: 0,0:02:30.68,0:02:33.22,Default,,0000,0000,0000,,Oopsadaisy…
+Dialogue: 0,0:02:35.18,0:02:36.60,Default,,0000,0000,0000,,Let’s see now…
+Dialogue: 0,0:02:38.43,0:02:40.31,Default,,0000,0000,0000,,No tail!
+Dialogue: 0,0:02:42.02,0:02:44.18,Default,,0000,0000,0000,,This is…!
+Dialogue: 0,0:02:44.56,0:02:46.02,Default,,0000,0000,0000,,Not like this one.
+Dialogue: 0,0:02:46.72,0:02:48.31,Default,,0000,0000,0000,,Or that one.
+Dialogue: 0,0:02:48.72,0:02:49.97,Default,,0000,0000,0000,,It’s really…
+Dialogue: 0,0:02:50.02,0:02:51.10,Default,,0000,0000,0000,,A real…
+Dialogue: 0,0:02:51.14,0:02:52.76,Default,,0000,0000,0000,,Frog!
+Dialogue: 0,0:02:53.81,0:02:59.77,Default,,0000,0000,0000,,He Flies! He Jumps! He Lurks!\NChief Toad Appears!
+Dialogue: 0,0:03:01.76,0:03:04.76,Default,,0000,0000,0000,,Looks like he extracted the\NChakra of the Nine-Tailed Fox
+Dialogue: 0,0:03:04.76,0:03:06.76,Default,,0000,0000,0000,,all on his own this time.
+Dialogue: 0,0:03:07.43,0:03:10.93,Default,,0000,0000,0000,,But still, one certainly can’t\Nsay he’s stable yet…
+Dialogue: 0,0:03:11.18,0:03:13.76,Default,,0000,0000,0000,,He overused the large Charka…
+Dialogue: 0,0:03:14.14,0:03:18.06,Default,,0000,0000,0000,,To think that of all the frogs\Nhe summoned that one…
+Dialogue: 0,0:03:20.76,0:03:22.31,Default,,0000,0000,0000,,I did it…
+Dialogue: 0,0:03:22.35,0:03:23.76,Default,,0000,0000,0000,,Hey, you little brat!
+Dialogue: 0,0:03:23.76,0:03:24.60,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:24.64,0:03:26.43,Default,,0000,0000,0000,,Huh? Huh? Huh?!
+Dialogue: 0,0:03:32.60,0:03:34.76,Default,,0000,0000,0000,,You little brat…
+Dialogue: 0,0:03:34.76,0:03:38.22,Default,,0000,0000,0000,,On whose head do you think\Nyou’re raising a ruckus!
+Dialogue: 0,0:03:38.68,0:03:44.76,Default,,0000,0000,0000,,This is the top of Gamabunta,\Nthe Chief Toad’s head! You idiot!
+Dialogue: 0,0:03:44.76,0:03:46.76,Default,,0000,0000,0000,,Quiet down…
+Dialogue: 0,0:03:48.52,0:03:49.39,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:03:56.52,0:03:59.06,Default,,0000,0000,0000,,W-What the heck is this guy?!
+Dialogue: 0,0:03:59.10,0:04:00.85,Default,,0000,0000,0000,,He seems pretty awesome, but…
+Dialogue: 0,0:04:00.89,0:04:02.43,Default,,0000,0000,0000,,Gimme a break!
+Dialogue: 0,0:04:02.47,0:04:05.85,Default,,0000,0000,0000,,Just when I’m breathing the air of\Nthe free world after a long time,
+Dialogue: 0,0:04:05.89,0:04:09.31,Default,,0000,0000,0000,,some weird kid is raising\Na ruckus on top of my head.
+Dialogue: 0,0:04:09.35,0:04:13.68,Default,,0000,0000,0000,,Hey! Jiraiya! Where are you?!
+Dialogue: 0,0:04:13.76,0:04:16.77,Default,,0000,0000,0000,,What the heck do\Nyou think you’re doing?!
+Dialogue: 0,0:04:18.43,0:04:20.93,Default,,0000,0000,0000,,Hmm… This doesn’t look good…
+Dialogue: 0,0:04:21.52,0:04:25.52,Default,,0000,0000,0000,,’Cause even I can’t handle\Nthat Gamabunta…
+Dialogue: 0,0:04:25.76,0:04:29.39,Default,,0000,0000,0000,,Jiraiya! Hurry up and\Nshow yourself, you idiot!
+Dialogue: 0,0:04:30.43,0:04:34.52,Default,,0000,0000,0000,,Hmmm…lt would be troublesome if\Nthat Gama found me out…
+Dialogue: 0,0:04:34.56,0:04:36.76,Default,,0000,0000,0000,,I better get my ass out of here\Nwithout any further delay.
+Dialogue: 0,0:04:37.14,0:04:39.56,Default,,0000,0000,0000,,Hey, little brat!
+Dialogue: 0,0:04:39.60,0:04:40.76,Default,,0000,0000,0000,,Y-Yes…?
+Dialogue: 0,0:04:40.85,0:04:43.22,Default,,0000,0000,0000,,Where’s Jiraiya?
+Dialogue: 0,0:04:43.43,0:04:45.06,Default,,0000,0000,0000,,Huh…? Jiraiya…?
+Dialogue: 0,0:04:45.39,0:04:46.56,Default,,0000,0000,0000,,Who’s that…?
+Dialogue: 0,0:04:46.60,0:04:50.85,Default,,0000,0000,0000,,I’m talking about that lecher who\Ncalls himself Toad Sage or something!
+Dialogue: 0,0:04:50.97,0:04:53.93,Default,,0000,0000,0000,,Where’s Jiraiya? Huh?!
+Dialogue: 0,0:04:55.77,0:04:57.56,Default,,0000,0000,0000,,S-Scary…
+Dialogue: 0,0:04:57.76,0:05:00.68,Default,,0000,0000,0000,,If you just follow my orders,
+Dialogue: 0,0:05:00.72,0:05:03.31,Default,,0000,0000,0000,,I wouldn’t mind making you\Nmy henchman!
+Dialogue: 0,0:05:03.47,0:05:06.02,Default,,0000,0000,0000,,Hurry up and answer me!
+Dialogue: 0,0:05:06.68,0:05:08.76,Default,,0000,0000,0000,,Okay! If you’re talking about\Nthe Pervy Sage,
+Dialogue: 0,0:05:08.76,0:05:11.10,Default,,0000,0000,0000,,he’s on the cliff up there,\NChief Toad.
+Dialogue: 0,0:05:11.47,0:05:12.97,Default,,0000,0000,0000,,Up there, huh…?
+Dialogue: 0,0:05:13.43,0:05:16.68,Default,,0000,0000,0000,,Um… Can I ask you one question?
+Dialogue: 0,0:05:16.76,0:05:18.22,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:19.35,0:05:21.52,Default,,0000,0000,0000,,What business do you have\Nwith that Pervy Sage?
+Dialogue: 0,0:05:21.64,0:05:25.14,Default,,0000,0000,0000,,That’s the question I want\Nto ask that pervert!
+Dialogue: 0,0:05:25.52,0:05:31.10,Default,,0000,0000,0000,,What the heck does he want\Nsummoning me to a place like this?!
+Dialogue: 0,0:05:32.02,0:05:33.10,Default,,0000,0000,0000,,B-But…
+Dialogue: 0,0:05:33.14,0:05:34.22,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:35.47,0:05:38.76,Default,,0000,0000,0000,,I’m the one who summoned\Nyou, Chief Toad..
+Dialogue: 0,0:05:38.81,0:05:40.10,Default,,0000,0000,0000,,I fell off the cliff…
+Dialogue: 0,0:05:40.14,0:05:42.68,Default,,0000,0000,0000,,and thought maybe you\Ncould come to my aid…
+Dialogue: 0,0:05:42.85,0:05:44.10,Default,,0000,0000,0000,,Please…
+Dialogue: 0,0:05:45.02,0:05:46.56,Default,,0000,0000,0000,,Hmm…?
+Dialogue: 0,0:05:55.52,0:05:59.47,Default,,0000,0000,0000,,What does a kid like you think\Nhe’s saying out of the blue.
+Dialogue: 0,0:06:00.47,0:06:06.76,Default,,0000,0000,0000,,There’s no way a little squirt like\Nyou could summon a guy like me.
+Dialogue: 0,0:06:06.76,0:06:10.64,Default,,0000,0000,0000,,It’s…it’s true…\NI really truly summoned you…
+Dialogue: 0,0:06:10.68,0:06:11.76,Default,,0000,0000,0000,,Believe it!
+Dialogue: 0,0:06:20.76,0:06:22.47,Default,,0000,0000,0000,,You jerk frog!
+Dialogue: 0,0:06:22.76,0:06:23.76,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:06:23.76,0:06:25.31,Default,,0000,0000,0000,,You’ve been condescending to me
+Dialogue: 0,0:06:25.35,0:06:27.39,Default,,0000,0000,0000,,and saying whatever you\Nplease since earlier on!
+Dialogue: 0,0:06:27.60,0:06:33.68,Default,,0000,0000,0000,,Since I summoned you,\NI’m your master!
+Dialogue: 0,0:06:33.76,0:06:37.10,Default,,0000,0000,0000,,Huh…? What was that?
+Dialogue: 0,0:06:37.27,0:06:40.35,Default,,0000,0000,0000,,Hey, who do you think\Nyou’re talking to?!
+Dialogue: 0,0:06:40.56,0:06:41.56,Default,,0000,0000,0000,,A little squirt like you,
+Dialogue: 0,0:06:41.60,0:06:44.76,Default,,0000,0000,0000,,who isn’t even able to exchange cups\Nof sake as a pledge of friendship,
+Dialogue: 0,0:06:44.76,0:06:47.02,Default,,0000,0000,0000,,is saying to Lord Gamabunta,\Nthat you’re his master?
+Dialogue: 0,0:06:47.39,0:06:50.93,Default,,0000,0000,0000,,I could kill you for that! Hey!
+Dialogue: 0,0:06:51.64,0:06:52.35,Default,,0000,0000,0000,,Huh…
+Dialogue: 0,0:07:04.77,0:07:06.93,Default,,0000,0000,0000,,Oohhh…
+Dialogue: 0,0:07:24.81,0:07:27.89,Default,,0000,0000,0000,,It looks like he emerged on top,\Nthat Gamabunta…
+Dialogue: 0,0:07:34.76,0:07:36.85,Default,,0000,0000,0000,,Awesome…
+Dialogue: 0,0:07:41.35,0:07:43.76,Default,,0000,0000,0000,,I hate to tell you this, little brat,
+Dialogue: 0,0:07:43.76,0:07:46.02,Default,,0000,0000,0000,,but even if I were to concede\Na hundred steps to you…
+Dialogue: 0,0:07:46.06,0:07:47.06,Default,,0000,0000,0000,,No, concede a thousand steps to you,
+Dialogue: 0,0:07:47.10,0:07:50.81,Default,,0000,0000,0000,,and even if it really was true that\Nit was you who summoned me…
+Dialogue: 0,0:07:50.85,0:07:54.14,Default,,0000,0000,0000,,If you’re the kind of guy who\Nfalls off my back that easily,
+Dialogue: 0,0:07:54.18,0:07:58.02,Default,,0000,0000,0000,,there’s no way I could\Nadmit you as my master…
+Dialogue: 0,0:07:58.06,0:07:59.76,Default,,0000,0000,0000,,Huh?! Huh…?!
+Dialogue: 0,0:08:01.22,0:08:04.76,Default,,0000,0000,0000,,Now then…I’m here in the\Nfree world after a long time…
+Dialogue: 0,0:08:04.76,0:08:07.18,Default,,0000,0000,0000,,If Jiraiya doesn’t have\Nany business with me,
+Dialogue: 0,0:08:07.22,0:08:10.10,Default,,0000,0000,0000,,I think I’ll kick back for a while.
+Dialogue: 0,0:08:10.68,0:08:12.10,Default,,0000,0000,0000,,Hey! Wait!
+Dialogue: 0,0:08:12.43,0:08:15.64,Default,,0000,0000,0000,,Why don’t you just go home\Nand sleep or something?
+Dialogue: 0,0:08:15.76,0:08:19.64,Default,,0000,0000,0000,,’Cause it looks like you’re incapable\Nof serving even as my henchman.
+Dialogue: 0,0:08:25.76,0:08:27.35,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:08:38.35,0:08:40.81,Default,,0000,0000,0000,,W-What the heck do you think\Nyou’re doing, you little brat?
+Dialogue: 0,0:08:41.31,0:08:43.31,Default,,0000,0000,0000,,If my making you recognize that\NI summoned you
+Dialogue: 0,0:08:43.35,0:08:45.39,Default,,0000,0000,0000,,depends on my not falling\Noff your back, then…!
+Dialogue: 0,0:08:45.43,0:08:50.68,Default,,0000,0000,0000,,Then I won’t get off your back\Nthe entire day today no matter what!
+Dialogue: 0,0:08:50.76,0:08:52.02,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:52.47,0:08:57.76,Default,,0000,0000,0000,,And by my doing that I’ll make\Nyou recognize me as your master!
+Dialogue: 0,0:08:58.14,0:09:03.64,Default,,0000,0000,0000,,You little brat! Don’t get all carried away\Nthinking I’ll go easy on you!
+Dialogue: 0,0:09:04.27,0:09:04.85,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:09:05.47,0:09:07.76,Default,,0000,0000,0000,,Fall!
+Dialogue: 0,0:09:13.64,0:09:14.97,Default,,0000,0000,0000,,Chakra adhesion!
+Dialogue: 0,0:09:17.76,0:09:19.76,Default,,0000,0000,0000,,There’s not enough Chakra!
+Dialogue: 0,0:09:20.76,0:09:23.76,Default,,0000,0000,0000,,Listen carefully, Chief Toad!
+Dialogue: 0,0:09:23.76,0:09:26.39,Default,,0000,0000,0000,,My name is Naruto Uzumaki!
+Dialogue: 0,0:09:26.43,0:09:29.27,Default,,0000,0000,0000,,I’m a man who will become Hokage\Nin the future. Don’t forget that!
+Dialogue: 0,0:09:29.31,0:09:31.27,Default,,0000,0000,0000,,Who cares!
+Dialogue: 0,0:09:37.52,0:09:40.93,Default,,0000,0000,0000,,This is getting pretty interesting.
+Dialogue: 0,0:09:41.14,0:09:42.27,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:43.89,0:09:44.76,Default,,0000,0000,0000,,Oh my gosh!
+Dialogue: 0,0:09:48.56,0:09:53.68,Default,,0000,0000,0000,,Sorry Naruto,\Nbut I’ve gotta get back to work!
+Dialogue: 0,0:09:55.06,0:09:57.60,Default,,0000,0000,0000,,Research…research…
+Dialogue: 0,0:10:06.76,0:10:08.31,Default,,0000,0000,0000,,Bust off!
+Dialogue: 0,0:10:25.39,0:10:26.76,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:10:26.76,0:10:28.35,Default,,0000,0000,0000,,I'm gonna eat my fill.
+Dialogue: 0,0:10:29.06,0:10:32.47,Default,,0000,0000,0000,,Huh... Those guys are\Neathing barbecue again, huh?
+Dialogue: 0,0:10:32.76,0:10:35.76,Default,,0000,0000,0000,,A reward for having trained\Nearnestly…maybe?
+Dialogue: 0,0:10:36.10,0:10:40.35,Default,,0000,0000,0000,,I thought you were told not to\Nlet Gaara out of your sight…
+Dialogue: 0,0:10:40.68,0:10:43.39,Default,,0000,0000,0000,,Don’t worry…\Neven somebody like him…
+Dialogue: 0,0:10:44.02,0:10:46.97,Default,,0000,0000,0000,,wouldn’t dare to do anything\Nin broad daylight.
+Dialogue: 0,0:10:47.85,0:10:50.93,Default,,0000,0000,0000,,More importantly,\Nthat guy Shikamaru or whatever,
+Dialogue: 0,0:10:50.97,0:10:53.39,Default,,0000,0000,0000,,he’s the first guy\Nyou’re fighting, right?
+Dialogue: 0,0:10:53.76,0:10:56.06,Default,,0000,0000,0000,,Shouldn’t you be formulating\Na battle plan?
+Dialogue: 0,0:10:56.68,0:11:00.68,Default,,0000,0000,0000,,Humph… There’s no way I would\Nlose to a guy of that level…
+Dialogue: 0,0:11:00.76,0:11:01.85,Default,,0000,0000,0000,,Besides…
+Dialogue: 0,0:11:01.89,0:11:03.22,Default,,0000,0000,0000,,You botched it, didn’t you?
+Dialogue: 0,0:11:03.27,0:11:03.85,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:04.39,0:11:07.39,Default,,0000,0000,0000,,If you had taken the exam\None year earlier,
+Dialogue: 0,0:11:07.43,0:11:09.81,Default,,0000,0000,0000,,you would have made\Nthe Chunin easily…
+Dialogue: 0,0:11:11.43,0:11:12.35,Default,,0000,0000,0000,,Don’t say it…
+Dialogue: 0,0:11:18.06,0:11:19.72,Default,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:11:20.02,0:11:22.10,Default,,0000,0000,0000,,The upcoming Chunin Exam…
+Dialogue: 0,0:11:22.47,0:11:26.52,Default,,0000,0000,0000,,I’ll have the three of you from\Nour Sand Village take the exam…
+Dialogue: 0,0:11:26.89,0:11:30.76,Default,,0000,0000,0000,,But the reason for doing that\Nis not to pass the Chunin Exam!
+Dialogue: 0,0:11:31.76,0:11:33.85,Default,,0000,0000,0000,,It is to use the opportunity\Nof the Chunin Exam…
+Dialogue: 0,0:11:33.89,0:11:36.60,Default,,0000,0000,0000,,to crush Leaf Village!
+Dialogue: 0,0:11:36.89,0:11:42.76,Default,,0000,0000,0000,,But why…? Don’t we have\Na treaty with Leaf Village?!
+Dialogue: 0,0:11:44.43,0:11:47.43,Default,,0000,0000,0000,,That treaty is the problem.
+Dialogue: 0,0:11:47.56,0:11:48.06,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:11:48.22,0:11:49.35,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:11:50.43,0:11:53.52,Default,,0000,0000,0000,,You Genin are not aware of\Nthe detail but…
+Dialogue: 0,0:11:53.76,0:11:55.76,Default,,0000,0000,0000,,At the time the treaty was concluded,
+Dialogue: 0,0:11:55.85,0:12:00.06,Default,,0000,0000,0000,,that idiot feudal lord of Land of Wind\Nnot only aggressively scaled down
+Dialogue: 0,0:12:00.10,0:12:03.47,Default,,0000,0000,0000,,the arsenal of\Nthe Hidden Sand Village…
+Dialogue: 0,0:12:03.76,0:12:05.39,Default,,0000,0000,0000,,he delegated to the Leaf Village
+Dialogue: 0,0:12:05.43,0:12:07.93,Default,,0000,0000,0000,,matters that should have been handled\Nby our country, and moreover,
+Dialogue: 0,0:12:07.97,0:12:14.22,Default,,0000,0000,0000,,significantly cut our country's budget\Nand slashed the number of Shinobi.
+Dialogue: 0,0:12:14.72,0:12:16.39,Default,,0000,0000,0000,,When we have an idiot leader,
+Dialogue: 0,0:12:16.43,0:12:18.85,Default,,0000,0000,0000,,we, the arms and legs\Nof the country, suffer.
+Dialogue: 0,0:12:18.89,0:12:21.56,Default,,0000,0000,0000,,The only choice we had left\Nwas to improve the quality
+Dialogue: 0,0:12:21.60,0:12:25.35,Default,,0000,0000,0000,,of each and every Shinobi in order\Nto maintain our country’s military power…
+Dialogue: 0,0:12:25.97,0:12:30.35,Default,,0000,0000,0000,,That’s why Shinobi like\Nyou were created…
+Dialogue: 0,0:12:31.22,0:12:32.76,Default,,0000,0000,0000,,Gaara…
+Dialogue: 0,0:12:33.76,0:12:38.72,Default,,0000,0000,0000,,The Land of Wind’s security is\Nin extreme danger right now!
+Dialogue: 0,0:12:39.76,0:12:43.76,Default,,0000,0000,0000,,But the aides\Nof that idiot feudal lord…
+Dialogue: 0,0:12:43.76,0:12:45.76,Default,,0000,0000,0000,,don’t have a clue!
+Dialogue: 0,0:12:46.81,0:12:48.06,Default,,0000,0000,0000,,Lord Kazekage ,
+Dialogue: 0,0:12:48.10,0:12:52.27,Default,,0000,0000,0000,,who detected the weakening in the military\Nstrength of the Hidden Sand Village,
+Dialogue: 0,0:12:52.52,0:12:54.68,Default,,0000,0000,0000,,joined hands with\Nthe Hidden Sound Village
+Dialogue: 0,0:12:54.72,0:12:57.47,Default,,0000,0000,0000,,and decided to take down\Nthe Hidden Leaf Village…
+Dialogue: 0,0:12:58.06,0:13:01.10,Default,,0000,0000,0000,,In addition to restoring Sand\NVillage authority…
+Dialogue: 0,0:13:01.22,0:13:03.76,Default,,0000,0000,0000,,this needs to be done in order\Nto make that idiot feudal lord
+Dialogue: 0,0:13:03.76,0:13:06.27,Default,,0000,0000,0000,,aware of the importance of\Ncrisis preparedness…
+Dialogue: 0,0:13:09.76,0:13:12.76,Default,,0000,0000,0000,,If any more time passes,\Nour Sand Village will totally lose
+Dialogue: 0,0:13:12.76,0:13:16.06,Default,,0000,0000,0000,,its military capabilities\Nagainst the Leaf Village …
+Dialogue: 0,0:13:16.76,0:13:18.27,Default,,0000,0000,0000,,Now is the only chance …
+Dialogue: 0,0:13:19.06,0:13:24.10,Default,,0000,0000,0000,,The success of that mission…\NGaara…depends on your work…
+Dialogue: 0,0:13:26.76,0:13:27.81,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:13:28.89,0:13:30.77,Default,,0000,0000,0000,,If the strategy is carried out,
+Dialogue: 0,0:13:30.81,0:13:32.93,Default,,0000,0000,0000,,it will certainly lead to war\Nwith the Leaf Village.
+Dialogue: 0,0:13:33.76,0:13:36.31,Default,,0000,0000,0000,,We’ll be at war again…?
+Dialogue: 0,0:13:37.22,0:13:40.76,Default,,0000,0000,0000,,The cost to human life in implementing\Nthe treaty was very great…
+Dialogue: 0,0:13:40.76,0:13:45.81,Default,,0000,0000,0000,,and if it is broken…then again…\Nmany people will die…
+Dialogue: 0,0:13:46.02,0:13:47.81,Default,,0000,0000,0000,,H-Hey…Temari…
+Dialogue: 0,0:13:48.18,0:13:51.43,Default,,0000,0000,0000,,This is the will of Lord Kazekage.
+Dialogue: 0,0:13:52.60,0:13:54.02,Default,,0000,0000,0000,,Of Lord Kazekage?
+Dialogue: 0,0:13:54.76,0:13:57.47,Default,,0000,0000,0000,,After all, Shinobi are simply\Ntools for fighting.
+Dialogue: 0,0:13:57.76,0:14:04.68,Default,,0000,0000,0000,,The treaty did nothing more than\Njeopardize our very existence.
+Dialogue: 0,0:14:06.97,0:14:09.27,Default,,0000,0000,0000,,This is a super A-rank mission.
+Dialogue: 0,0:14:09.72,0:14:11.56,Default,,0000,0000,0000,,See it through with great care!
+Dialogue: 0,0:14:12.10,0:14:12.85,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:14:14.10,0:14:15.02,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:14:18.81,0:14:23.43,Default,,0000,0000,0000,,A day sure is long when\None’s not doing anything.
+Dialogue: 0,0:14:24.89,0:14:26.14,Default,,0000,0000,0000,,I guess…
+Dialogue: 0,0:14:49.77,0:14:52.89,Default,,0000,0000,0000,,Darn… What an obstinate little squirt.
+Dialogue: 0,0:15:14.72,0:15:20.10,Default,,0000,0000,0000,,Goodness…that Naruto seems\Nlike he’s in agony…
+Dialogue: 0,0:15:22.22,0:15:25.06,Default,,0000,0000,0000,,He must have exhausted\Nmost of his Chakra
+Dialogue: 0,0:15:25.10,0:15:28.47,Default,,0000,0000,0000,,when he summoned Gamabunta…
+Dialogue: 0,0:15:29.31,0:15:30.76,Default,,0000,0000,0000,,Look, look, isn’t that pretty…
+Dialogue: 0,0:15:30.76,0:15:31.77,Default,,0000,0000,0000,,The rainbow…
+Dialogue: 0,0:15:31.81,0:15:32.77,Default,,0000,0000,0000,,Gorgeous…
+Dialogue: 0,0:15:33.76,0:15:36.93,Default,,0000,0000,0000,,Yeah, yeah, absolutely gorgeous, isn’t it.
+Dialogue: 0,0:15:44.97,0:15:47.76,Default,,0000,0000,0000,,Good work, Baki.
+Dialogue: 0,0:15:48.47,0:15:52.56,Default,,0000,0000,0000,,Lord Kazekage, I successfully\Nmoved all three pawns
+Dialogue: 0,0:15:52.60,0:15:54.76,Default,,0000,0000,0000,,to the real battle as planned.
+Dialogue: 0,0:15:56.52,0:15:59.76,Default,,0000,0000,0000,,The agreement with the Sound Village side\Nhas been progressing with no problem too.
+Dialogue: 0,0:15:59.77,0:16:00.68,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:16:03.22,0:16:04.35,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:16:04.77,0:16:07.76,Default,,0000,0000,0000,,A decisive action plan from\Nthe Sound Village.
+Dialogue: 0,0:16:23.02,0:16:24.85,Default,,0000,0000,0000,,You still have something you want?
+Dialogue: 0,0:16:25.39,0:16:26.31,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:16:26.56,0:16:28.76,Default,,0000,0000,0000,,What is it? Come out with it.
+Dialogue: 0,0:16:28.76,0:16:32.22,Default,,0000,0000,0000,,Yes, sir…I was wondering if you\Ncould position some soldiers
+Dialogue: 0,0:16:32.27,0:16:34.76,Default,,0000,0000,0000,,near the border on the pretext of\Nundertaking a tactical exercise.
+Dialogue: 0,0:16:34.77,0:16:36.10,Default,,0000,0000,0000,,With only the four of us…
+Dialogue: 0,0:16:36.76,0:16:38.76,Default,,0000,0000,0000,,The Leaf Village isn’t idiot either.
+Dialogue: 0,0:16:39.22,0:16:41.76,Default,,0000,0000,0000,,Their Anbu black ops\Nare moving about.
+Dialogue: 0,0:16:41.81,0:16:45.76,Default,,0000,0000,0000,,If we do that, they will see right through\Nwhat we’re contemplating.
+Dialogue: 0,0:16:45.76,0:16:48.14,Default,,0000,0000,0000,,But with only our current\Nmilitary capability…
+Dialogue: 0,0:16:48.76,0:16:51.22,Default,,0000,0000,0000,,That’s why I sent Gaara and\Nthe others out there.
+Dialogue: 0,0:16:51.81,0:16:57.47,Default,,0000,0000,0000,,The restoration of the authority of\Nthe Hidden Sand Village is resting on you.
+Dialogue: 0,0:16:58.85,0:17:01.18,Default,,0000,0000,0000,,Well… Go.
+Dialogue: 0,0:17:01.43,0:17:01.85,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:17:11.64,0:17:15.89,Default,,0000,0000,0000,,There’s only a little more time remaining\Nuntil the sun sets completely…
+Dialogue: 0,0:17:15.93,0:17:17.27,Default,,0000,0000,0000,,and if I don’t fall off…
+Dialogue: 0,0:17:17.31,0:17:19.76,Default,,0000,0000,0000,,I’ll be the master!
+Dialogue: 0,0:17:20.43,0:17:21.72,Default,,0000,0000,0000,,What’s that to me?!
+Dialogue: 0,0:17:21.76,0:17:24.39,Default,,0000,0000,0000,,You came up with this\Nwhole thing unilaterally.
+Dialogue: 0,0:17:24.43,0:17:26.93,Default,,0000,0000,0000,,I’m not falling off, no matter what!
+Dialogue: 0,0:17:28.93,0:17:32.85,Default,,0000,0000,0000,,That Naruto…\Nhe’s already way past his limit…
+Dialogue: 0,0:17:33.72,0:17:36.76,Default,,0000,0000,0000,,I wouldn’t be surprised if\Nhe fell off any minute now…
+Dialogue: 0,0:17:41.77,0:17:45.76,Default,,0000,0000,0000,,I could simply ignore what\Na brat like him says…
+Dialogue: 0,0:17:45.76,0:17:50.76,Default,,0000,0000,0000,,but taking a lick really irritates me.
+Dialogue: 0,0:17:50.89,0:17:54.14,Default,,0000,0000,0000,,I'm gonna bring this\Nto an end once and for all...
+Dialogue: 0,0:17:54.77,0:17:57.77,Default,,0000,0000,0000,,Hey, brat…what’s your name?
+Dialogue: 0,0:17:58.14,0:17:59.22,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:17:59.43,0:18:01.27,Default,,0000,0000,0000,,It’s Naruto Uzumaki!
+Dialogue: 0,0:18:01.76,0:18:06.56,Default,,0000,0000,0000,,Naruto Uzumaki… Naruto!
+Dialogue: 0,0:18:06.60,0:18:09.47,Default,,0000,0000,0000,,Don’t hold it against me if you die!
+Dialogue: 0,0:18:19.10,0:18:20.27,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:18:20.56,0:18:22.10,Default,,0000,0000,0000,,That Gamabunta!
+Dialogue: 0,0:18:22.14,0:18:24.76,Default,,0000,0000,0000,,Now it’s a matter of pride for him, too!
+Dialogue: 0,0:18:25.27,0:18:26.06,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:27.10,0:18:28.27,Default,,0000,0000,0000,,This won’t do!
+Dialogue: 0,0:18:31.97,0:18:36.52,Default,,0000,0000,0000,,No! This is the sizzling young ladies’\Nentertainment spot!
+Dialogue: 0,0:18:40.22,0:18:45.10,Default,,0000,0000,0000,,I’m not falling off when\NI’m so close to succeeding!
+Dialogue: 0,0:18:45.68,0:18:46.52,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:46.56,0:18:47.22,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:18:47.27,0:18:48.56,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:48.76,0:18:49.76,Default,,0000,0000,0000,,That Naruto…
+Dialogue: 0,0:18:50.14,0:18:53.43,Default,,0000,0000,0000,,He’s squeezing out yet more Chakra\Nfrom that condition he’s in.
+Dialogue: 0,0:19:05.89,0:19:08.18,Default,,0000,0000,0000,,I’m falling…
+Dialogue: 0,0:19:29.56,0:19:34.60,Default,,0000,0000,0000,,How do you like that, Gamabunta?\NI’m still on your back!
+Dialogue: 0,0:19:36.02,0:19:37.64,Default,,0000,0000,0000,,It’s my victory!
+Dialogue: 0,0:19:41.39,0:19:43.72,Default,,0000,0000,0000,,Oh no! If he falls like that he’ll die!
+Dialogue: 0,0:19:58.85,0:20:04.18,Default,,0000,0000,0000,,Too bad for you… You almost made it.
+Dialogue: 0,0:20:08.02,0:20:12.68,Default,,0000,0000,0000,,To think that he could hold out like that\Nagainst a tough opponent like Gamabunta…
+Dialogue: 0,0:20:28.14,0:20:29.10,Default,,0000,0000,0000,,Hm?!
+Dialogue: 0,0:20:32.02,0:20:36.47,Default,,0000,0000,0000,,That, Jiraiya, meddling in…
+Dialogue: 0,0:20:36.76,0:20:38.60,Default,,0000,0000,0000,,I am fully aware of the fact that…
+Dialogue: 0,0:20:38.64,0:20:41.72,Default,,0000,0000,0000,,this guy here summoned\Nme all on his own.
+Dialogue: 0,0:20:41.97,0:20:45.47,Default,,0000,0000,0000,,I mean, it’s the first time since\Nthe Fourth Hokage
+Dialogue: 0,0:20:45.52,0:20:48.06,Default,,0000,0000,0000,,that somebody climbed on my head.
+Dialogue: 0,0:20:48.52,0:20:51.60,Default,,0000,0000,0000,,As might be expected,\Nhe must be totally drained.
+Dialogue: 0,0:20:51.76,0:20:55.68,Default,,0000,0000,0000,,I don’t mind dispensing some\Nof my power to him but…
+Dialogue: 0,0:20:55.89,0:20:59.93,Default,,0000,0000,0000,,Taking him to that place would be best.
+Dialogue: 0,0:21:03.72,0:21:04.85,Default,,0000,0000,0000,,Huh? What!
+Dialogue: 0,0:21:25.81,0:21:29.31,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:29.35,0:21:32.76,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.76,0:21:36.18,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:36.22,0:21:39.56,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:39.60,0:21:45.85,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:45.89,0:21:53.22,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:03.72,0:22:07.06,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:07.10,0:22:10.52,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:10.56,0:22:13.76,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:13.77,0:22:17.14,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:17.35,0:22:23.43,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:23.47,0:22:30.76,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:30.77,0:22:37.35,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:37.39,0:22:44.64,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:52.27,0:22:54.02,Default,,0000,0000,0000,,The hospital room\Nwhere there is no one.
+Dialogue: 0,0:22:54.06,0:22:56.06,Default,,0000,0000,0000,,The uninvited visitors…
+Dialogue: 0,0:22:56.76,0:23:00.72,Default,,0000,0000,0000,,The childhood phantasms\Nare repeated in the daydream.
+Dialogue: 0,0:23:01.06,0:23:04.68,Default,,0000,0000,0000,,The moment when\Nthe forbidden door is opened…
+Dialogue: 0,0:23:07.68,0:23:10.06,Default,,0000,0000,0000,,That guy appears.
+Dialogue: 0,0:23:10.76,0:23:14.47,Default,,0000,0000,0000,,Next time, “Hospital Besieged:\NThe Evil Hand Revealed!”
+Dialogue: 0,0:23:14.76,0:23:17.72,Default,,0000,0000,0000,,Who is the next victim?!

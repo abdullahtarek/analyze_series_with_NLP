@@ -1,0 +1,299 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.59,0:00:10.89,Default,,0000,0000,0000,,To think the Leaf’s reinforcements\Nwill be you of all people!
+Dialogue: 0,0:00:12.56,0:00:17.00,Default,,0000,0000,0000,,A man should always repay\Nthe debt he owes a woman.
+Dialogue: 0,0:00:17.56,0:00:21.23,Default,,0000,0000,0000,,Always the bothersome guy with\Nthe man and woman stuff!
+Dialogue: 0,0:00:22.43,0:00:26.00,Default,,0000,0000,0000,,Gaara and Kankuro are chasing after\Nthe guys who took our village girl.
+Dialogue: 0,0:00:26.67,0:00:28.17,Default,,0000,0000,0000,,Forget about here and\Nhead for them!
+Dialogue: 0,0:00:28.97,0:00:30.17,Default,,0000,0000,0000,,We’ve received information.
+Dialogue: 0,0:00:30.54,0:00:33.54,Default,,0000,0000,0000,,Gaara and Kankuro have entered\Ntheir respective battles.
+Dialogue: 0,0:00:34.55,0:00:35.55,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:00:36.75,0:00:39.05,Default,,0000,0000,0000,,The shadow won’t reach, I guess…
+Dialogue: 0,0:00:40.15,0:00:43.76,Default,,0000,0000,0000,,Leaf Village’s two-man cells are\Njust now heading there for back-up.
+Dialogue: 0,0:00:45.56,0:00:46.89,Default,,0000,0000,0000,,How well prepared.
+Dialogue: 0,0:00:47.56,0:00:48.73,Default,,0000,0000,0000,,It’s a pain,
+Dialogue: 0,0:00:48.76,0:00:50.56,Default,,0000,0000,0000,,but as long as we’re doing this,\Nwe’ll do it right.
+Dialogue: 0,0:00:50.96,0:00:53.80,Default,,0000,0000,0000,,We’ll do it perfectly without\Nproducing casualties!
+Dialogue: 0,0:00:54.57,0:00:58.27,Default,,0000,0000,0000,,Make sure you don’t cry\Nin front of me this time.
+Dialogue: 0,0:00:58.60,0:01:02.07,Default,,0000,0000,0000,,Are you going to hold\Nthat over my head forever?
+Dialogue: 0,0:01:02.54,0:01:04.14,Default,,0000,0000,0000,,Just like a woman…
+Dialogue: 0,0:01:05.78,0:01:09.18,Default,,0000,0000,0000,,I-I feel like I don’t really\Nhave my place in this.
+Dialogue: 0,0:01:09.75,0:01:12.22,Default,,0000,0000,0000,,I’ll take care of all of you at once!
+Dialogue: 0,0:01:14.89,0:01:15.55,Default,,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:01:17.06,0:01:29.77,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:43.21,0:01:49.55,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:01:49.55,0:01:55.53,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:01:55.89,0:02:01.57,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:02:01.57,0:02:07.21,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:02:07.51,0:02:13.81,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:02:13.85,0:02:20.75,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:02:20.85,0:02:33.56,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:02:33.56,0:02:39.80,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:02:39.84,0:02:45.08,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:02:58.42,0:03:03.09,Default,,0000,0000,0000,,Sealed Sand: The Counterattack!
+Dialogue: 0,0:03:03.93,0:03:06.00,Default,,0000,0000,0000,,To think you’d ask\Nthe Leaf Village for help…
+Dialogue: 0,0:03:07.57,0:03:09.73,Default,,0000,0000,0000,,I guess the Sand has lost the edge\Nthey used to have, huh?
+Dialogue: 0,0:03:10.40,0:03:11.47,Default,,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:03:15.54,0:03:17.11,Default,,0000,0000,0000,,You know, dogs.
+Dialogue: 0,0:03:17.31,0:03:21.21,Default,,0000,0000,0000,,They’re not satisfied until a favor\Nhas been properly returned.
+Dialogue: 0,0:03:21.51,0:03:23.31,Default,,0000,0000,0000,,Especially this Akamaru!
+Dialogue: 0,0:03:26.02,0:03:28.69,Default,,0000,0000,0000,,A dog retuning a favor doesn’t\Nhave much of a ring to it!
+Dialogue: 0,0:03:29.55,0:03:32.26,Default,,0000,0000,0000,,Help is on the way to\Nthe other two as well.
+Dialogue: 0,0:03:32.69,0:03:34.86,Default,,0000,0000,0000,,You concentrate on this fight!
+Dialogue: 0,0:03:35.39,0:03:37.70,Default,,0000,0000,0000,,You’re giving me lip!
+Dialogue: 0,0:03:38.20,0:03:40.57,Default,,0000,0000,0000,,So you flies are gonna gang up\Non me, huh?
+Dialogue: 0,0:03:40.93,0:03:44.44,Default,,0000,0000,0000,,But you’re no match for my Dragon Eye:\NFang Release: Dark Sword.
+Dialogue: 0,0:03:44.54,0:03:45.54,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:03:56.55,0:04:00.89,Default,,0000,0000,0000,,If your Chakra isn't built up,\Nyour sand is no big deal at all!
+Dialogue: 0,0:04:01.25,0:04:03.22,Default,,0000,0000,0000,,It’ll only be useful for\Nblinding me at best!
+Dialogue: 0,0:04:05.56,0:04:06.56,Default,,0000,0000,0000,,It’s futile!
+Dialogue: 0,0:04:09.39,0:04:12.56,Default,,0000,0000,0000,,I feel it.\NYour Chakra is being sucked up.
+Dialogue: 0,0:04:16.53,0:04:19.77,Default,,0000,0000,0000,,What?! He was setting the sand\Nin the gourd aside?!
+Dialogue: 0,0:04:36.95,0:04:39.56,Default,,0000,0000,0000,,I was being cautious,\Nbut he is much too strong.
+Dialogue: 0,0:05:23.53,0:05:24.47,Default,,0000,0000,0000,,Gaara Sensei!
+Dialogue: 0,0:05:52.70,0:05:55.47,Default,,0000,0000,0000,,Just what I’d expect from\NGaara of the Sand.
+Dialogue: 0,0:05:56.17,0:05:58.67,Default,,0000,0000,0000,,He’s not called the ultimate weapon\Nfor nothing…
+Dialogue: 0,0:05:59.44,0:06:01.54,Default,,0000,0000,0000,,The ultimate…weapon?!
+Dialogue: 0,0:06:01.97,0:06:04.61,Default,,0000,0000,0000,,However, he cannot exceed\Nour Ninja tools
+Dialogue: 0,0:06:04.64,0:06:07.21,Default,,0000,0000,0000,,forged in the Village of the Artisans!
+Dialogue: 0,0:06:13.55,0:06:14.55,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:06:17.25,0:06:19.56,Default,,0000,0000,0000,,Hey, he’s totally got the edge!
+Dialogue: 0,0:06:19.72,0:06:21.36,Default,,0000,0000,0000,,Do we have a chance to\Nreturn the favor?
+Dialogue: 0,0:06:29.27,0:06:32.00,Default,,0000,0000,0000,,That’s incredible wind.\NWhat an amount of Chakra…
+Dialogue: 0,0:06:32.34,0:06:36.64,Default,,0000,0000,0000,,No, it seems that sword is\Namplifying her Chakra.
+Dialogue: 0,0:06:37.21,0:06:40.38,Default,,0000,0000,0000,,So she’s relying on that sword for\Nall of her attack and defense, huh?
+Dialogue: 0,0:06:42.65,0:06:46.05,Default,,0000,0000,0000,,Anyway, we’ve got to slip within\Nfiring range for our Jutsu
+Dialogue: 0,0:06:46.12,0:06:48.02,Default,,0000,0000,0000,,and stop her movements!
+Dialogue: 0,0:06:48.42,0:06:49.02,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:50.02,0:06:51.09,Default,,0000,0000,0000,,Let’s go at once!
+Dialogue: 0,0:06:55.56,0:06:57.40,Default,,0000,0000,0000,,Annoying!
+Dialogue: 0,0:07:10.14,0:07:13.18,Default,,0000,0000,0000,,She’s attempting to maintain\Nher distance just from Temari.
+Dialogue: 0,0:07:15.55,0:07:16.55,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:17.01,0:07:19.38,Default,,0000,0000,0000,,So she just wants to pay attention\Nto the long range-type Temari and
+Dialogue: 0,0:07:19.42,0:07:22.52,Default,,0000,0000,0000,,blow us mid-range Jutsu users\Naway with wind
+Dialogue: 0,0:07:22.55,0:07:24.39,Default,,0000,0000,0000,,before we can get close, huh…?
+Dialogue: 0,0:07:24.69,0:07:26.56,Default,,0000,0000,0000,,Now then, what should we do?
+Dialogue: 0,0:07:29.33,0:07:30.39,Default,,0000,0000,0000,,Man Beast Clone!
+Dialogue: 0,0:07:31.96,0:07:33.23,Default,,0000,0000,0000,,Partial Expansion Jutsu!
+Dialogue: 0,0:07:33.87,0:07:34.79,Default,,0000,0000,0000,,Crow!
+Dialogue: 0,0:07:35.57,0:07:37.10,Default,,0000,0000,0000,,– Arms! 					– Fang Over Fang!
+Dialogue: 0,0:07:43.21,0:07:45.01,Default,,0000,0000,0000,,Did you guys come to\Nget in my way?!
+Dialogue: 0,0:07:45.61,0:07:47.55,Default,,0000,0000,0000,,We made sure to send you\Na signal, right?!
+Dialogue: 0,0:07:48.35,0:07:49.31,Default,,0000,0000,0000,,How could I tell?!
+Dialogue: 0,0:07:49.55,0:07:51.62,Default,,0000,0000,0000,,We don’t click at all?
+Dialogue: 0,0:07:52.15,0:07:54.69,Default,,0000,0000,0000,,Are you guys…messing around?!
+Dialogue: 0,0:07:54.75,0:07:56.75,Default,,0000,0000,0000,,Be more serious and die!
+Dialogue: 0,0:07:57.72,0:07:59.26,Default,,0000,0000,0000,,Talking nonsense!
+Dialogue: 0,0:08:32.39,0:08:35.69,Default,,0000,0000,0000,,Although I reduced the damage\Nwith my Infinite Kujaku Armor, still…
+Dialogue: 0,0:08:42.63,0:08:44.60,Default,,0000,0000,0000,,Just what I’d expect of Gaara,
+Dialogue: 0,0:08:44.64,0:08:47.71,Default,,0000,0000,0000,,the Sand’s ultimate weapon\Nwho hosts the Shukaku…
+Dialogue: 0,0:08:53.54,0:08:57.41,Default,,0000,0000,0000,,But you’re already in our hands.
+Dialogue: 0,0:09:07.56,0:09:11.20,Default,,0000,0000,0000,,What should I do?\NShe’s beyond the range of my Jutsu…
+Dialogue: 0,0:09:11.63,0:09:16.47,Default,,0000,0000,0000,,and I don’t see anything around here\Nthat could be used to extend my shadow.
+Dialogue: 0,0:09:21.94,0:09:22.64,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:29.21,0:09:31.18,Default,,0000,0000,0000,,What’re you whispering about?
+Dialogue: 0,0:09:32.88,0:09:34.69,Default,,0000,0000,0000,,What’re you thinking?!
+Dialogue: 0,0:09:35.15,0:09:38.69,Default,,0000,0000,0000,,I’ll explain later, for crying out loud.\NCan you do it or not?
+Dialogue: 0,0:09:39.26,0:09:40.89,Default,,0000,0000,0000,,I suppose I could try, but…
+Dialogue: 0,0:09:46.56,0:09:47.30,Default,,0000,0000,0000,,What is it…?
+Dialogue: 0,0:09:57.27,0:09:57.98,Default,,0000,0000,0000,,What’s he doing?
+Dialogue: 0,0:10:07.35,0:10:11.69,Default,,0000,0000,0000,,Behold the terror of Ninja tools\Nour village created.
+Dialogue: 0,0:10:42.32,0:10:44.42,Default,,0000,0000,0000,,What’s this Chakra?
+Dialogue: 0,0:11:00.47,0:11:02.54,Default,,0000,0000,0000,,This is a water vein!
+Dialogue: 0,0:11:03.54,0:11:04.54,Default,,0000,0000,0000,,I get it!
+Dialogue: 0,0:11:04.68,0:11:08.55,Default,,0000,0000,0000,,The lines connecting the point\Nin the center and triangle isn’t a Barrier…
+Dialogue: 0,0:11:08.55,0:11:09.68,Default,,0000,0000,0000,,It’s a water vein!
+Dialogue: 0,0:11:09.88,0:11:13.88,Default,,0000,0000,0000,,Ninja Tool Barrier:\NReverse Scale Formation… Activate!
+Dialogue: 0,0:11:36.27,0:11:37.17,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:11:40.08,0:11:40.88,Default,,0000,0000,0000,,Gaara Sensei!
+Dialogue: 0,0:11:43.31,0:11:46.55,Default,,0000,0000,0000,,The aim of the Reverse Scale Formation\Nwas a single point, Gaara from the start!
+Dialogue: 0,0:11:46.98,0:11:49.85,Default,,0000,0000,0000,,Our swords accurately pierce\Na water vein
+Dialogue: 0,0:11:49.89,0:11:51.66,Default,,0000,0000,0000,,and summon the water dragon.
+Dialogue: 0,0:11:52.36,0:11:54.26,Default,,0000,0000,0000,,Sand has sucked up\Na large amount of water
+Dialogue: 0,0:11:54.32,0:11:55.69,Default,,0000,0000,0000,,and has become as heavy as lead…
+Dialogue: 0,0:11:56.33,0:11:58.56,Default,,0000,0000,0000,,Now Gaara can no longer use sand.
+Dialogue: 0,0:12:01.10,0:12:01.67,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:12:02.37,0:12:03.67,Default,,0000,0000,0000,,– Gaara! 					– Calm down!
+Dialogue: 0,0:12:04.17,0:12:06.77,Default,,0000,0000,0000,,Lee and Naruto are heading for Gaara!
+Dialogue: 0,0:12:07.14,0:12:08.01,Default,,0000,0000,0000,,That guy is?!
+Dialogue: 0,0:12:08.54,0:12:11.61,Default,,0000,0000,0000,,They’ll save Gaara,\Nno matter what.
+Dialogue: 0,0:12:12.31,0:12:14.55,Default,,0000,0000,0000,,We need to concentrate on\Nthe enemy in front of us.
+Dialogue: 0,0:12:26.19,0:12:27.93,Default,,0000,0000,0000,,To think you’d choose\Na sandy area to fall on…
+Dialogue: 0,0:12:28.39,0:12:30.36,Default,,0000,0000,0000,,Just what I’d expect of Gaara\Nof the desert…
+Dialogue: 0,0:12:32.86,0:12:33.73,Default,,0000,0000,0000,,However!
+Dialogue: 0,0:12:40.24,0:12:42.07,Default,,0000,0000,0000,,That’s as far as\Nyour useless resistance goes!
+Dialogue: 0,0:12:43.54,0:12:44.84,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:12:48.18,0:12:51.12,Default,,0000,0000,0000,,A hero’s turn always comes late!
+Dialogue: 0,0:12:53.35,0:12:54.55,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:12:58.56,0:12:59.72,Default,,0000,0000,0000,,Sorry to keep you waiting, Gaara!
+Dialogue: 0,0:13:00.56,0:13:01.53,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:13:02.09,0:13:05.56,Default,,0000,0000,0000,,It seems you rushed to everyone\Nduring the Sasuke incident…
+Dialogue: 0,0:13:05.90,0:13:08.57,Default,,0000,0000,0000,,This time we’ve come to return\Nthe favor from that time.
+Dialogue: 0,0:13:09.13,0:13:11.54,Default,,0000,0000,0000,,So we’ll take that guy on!
+Dialogue: 0,0:13:12.14,0:13:15.11,Default,,0000,0000,0000,,You hurry to your student straight on!
+Dialogue: 0,0:13:20.14,0:13:22.05,Default,,0000,0000,0000,,To think he’d corner you this far…
+Dialogue: 0,0:13:24.11,0:13:25.65,Default,,0000,0000,0000,,– Lee! 					– Sakura!
+Dialogue: 0,0:13:27.05,0:13:30.82,Default,,0000,0000,0000,,Leave Gaara’s treatment to me!\NLee, you go with Naruto!
+Dialogue: 0,0:13:30.85,0:13:33.06,Default,,0000,0000,0000,,– Sakura! 					– Got it!
+Dialogue: 0,0:13:35.56,0:13:38.63,Default,,0000,0000,0000,,Then I’ll be going first!
+Dialogue: 0,0:13:39.10,0:13:42.37,Default,,0000,0000,0000,,Be careful. His armor sucks up Chakra!
+Dialogue: 0,0:13:43.63,0:13:46.90,Default,,0000,0000,0000,,I’ll suck up all of your Chakra!
+Dialogue: 0,0:13:52.14,0:13:55.98,Default,,0000,0000,0000,,I see. So this means we can’t\Nrelease our regular power?
+Dialogue: 0,0:13:56.45,0:13:57.61,Default,,0000,0000,0000,,That doesn’t matter!
+Dialogue: 0,0:13:58.15,0:14:00.55,Default,,0000,0000,0000,,Even without Chakra,\Nwe’ve got fighting spirit!
+Dialogue: 0,0:14:02.72,0:14:05.42,Default,,0000,0000,0000,,Yes! We’ll go with that\Nplus willpower!
+Dialogue: 0,0:14:13.30,0:14:14.57,Default,,0000,0000,0000,,Just as I thought.
+Dialogue: 0,0:14:14.57,0:14:18.24,Default,,0000,0000,0000,,That they haven’t launched anything\Nduring the fight thus far means
+Dialogue: 0,0:14:18.27,0:14:20.94,Default,,0000,0000,0000,,the two reinforcements don’t\Nhave long range-type Jutsu.
+Dialogue: 0,0:14:21.41,0:14:23.61,Default,,0000,0000,0000,,Then I’ll maintain this distance and…
+Dialogue: 0,0:14:24.21,0:14:26.44,Default,,0000,0000,0000,,you’ll die getting torn up by the wind!
+Dialogue: 0,0:14:28.95,0:14:31.38,Default,,0000,0000,0000,,While she’s distracted by Shikamaru\Nand the others,
+Dialogue: 0,0:14:31.42,0:14:32.52,Default,,0000,0000,0000,,I’ll just go for it!
+Dialogue: 0,0:14:33.42,0:14:34.59,Default,,0000,0000,0000,,Mind Destruction…!
+Dialogue: 0,0:14:36.82,0:14:37.55,Default,,0000,0000,0000,,Ino!
+Dialogue: 0,0:14:38.22,0:14:41.76,Default,,0000,0000,0000,,Foolish girl. It’s useless to attempt\Nto exploit an opening!
+Dialogue: 0,0:14:42.06,0:14:42.89,Default,,0000,0000,0000,,You little!
+Dialogue: 0,0:14:48.77,0:14:53.44,Default,,0000,0000,0000,,You won’t get close to me!\NI’ve read your range as well!
+Dialogue: 0,0:14:53.64,0:14:55.57,Default,,0000,0000,0000,,I don’t know about that…!
+Dialogue: 0,0:14:55.94,0:14:58.28,Default,,0000,0000,0000,,Ino! You stay right there!
+Dialogue: 0,0:15:03.15,0:15:03.85,Default,,0000,0000,0000,,I’m counting on you…!
+Dialogue: 0,0:15:04.51,0:15:05.68,Default,,0000,0000,0000,,Shino! Sakura!
+Dialogue: 0,0:15:10.55,0:15:13.56,Default,,0000,0000,0000,,There’s one wounded\Nat the waterfall.
+Dialogue: 0,0:15:13.89,0:15:15.03,Default,,0000,0000,0000,,Tunneling Fang!
+Dialogue: 0,0:15:17.19,0:15:18.06,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:15:18.20,0:15:19.90,Default,,0000,0000,0000,,Partial Expansion Jutsu!
+Dialogue: 0,0:15:21.10,0:15:21.93,Default,,0000,0000,0000,,Oh…!
+Dialogue: 0,0:15:23.10,0:15:24.40,Default,,0000,0000,0000,,What’re you doing?!
+Dialogue: 0,0:15:24.53,0:15:27.70,Default,,0000,0000,0000,,Are you guys…mocking me?
+Dialogue: 0,0:15:27.97,0:15:32.44,Default,,0000,0000,0000,,After sucking up all of your Chakra,\NI’ll be returning the favor plenty!
+Dialogue: 0,0:15:36.55,0:15:38.38,Default,,0000,0000,0000,,The contusion treatment is complete.
+Dialogue: 0,0:15:38.55,0:15:41.69,Default,,0000,0000,0000,,But, the depletion of Chakra\Nis overwhelming.
+Dialogue: 0,0:15:47.42,0:15:48.96,Default,,0000,0000,0000,,Contact from your friends…?
+Dialogue: 0,0:15:49.46,0:15:51.19,Default,,0000,0000,0000,,– Ino’s hurt?! 					– Go!
+Dialogue: 0,0:15:51.56,0:15:54.50,Default,,0000,0000,0000,,Wha--?! But in your condition…
+Dialogue: 0,0:15:55.90,0:15:59.64,Default,,0000,0000,0000,,I’m okay now. Help your friend!
+Dialogue: 0,0:16:00.54,0:16:03.07,Default,,0000,0000,0000,,Okay. Don’t push yourself.
+Dialogue: 0,0:16:03.54,0:16:04.07,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:16:09.55,0:16:13.15,Default,,0000,0000,0000,,What’re you doing?!\NHurry up and go after your comrade!
+Dialogue: 0,0:16:13.55,0:16:15.19,Default,,0000,0000,0000,,I’ll help my comrade.
+Dialogue: 0,0:16:16.55,0:16:17.55,Default,,0000,0000,0000,,I’ll settle this in a moment.
+Dialogue: 0,0:16:17.59,0:16:18.56,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:16:20.56,0:16:21.33,Default,,0000,0000,0000,,Bushy Brow!
+Dialogue: 0,0:16:27.00,0:16:29.77,Default,,0000,0000,0000,,Damn it. It’s no good\Njust shot-gunning it!
+Dialogue: 0,0:16:31.84,0:16:32.90,Default,,0000,0000,0000,,It’s just him?
+Dialogue: 0,0:16:38.38,0:16:39.88,Default,,0000,0000,0000,,A part of Black Ant…
+Dialogue: 0,0:16:40.61,0:16:43.45,Default,,0000,0000,0000,,Could it be…a signal?
+Dialogue: 0,0:16:44.05,0:16:45.55,Default,,0000,0000,0000,,Fang Over Fang once more!
+Dialogue: 0,0:16:47.22,0:16:48.42,Default,,0000,0000,0000,,Back me up with Crow!
+Dialogue: 0,0:16:49.55,0:16:51.22,Default,,0000,0000,0000,,I’m counting on you\Nfor back up too, Choji!
+Dialogue: 0,0:16:51.56,0:16:52.52,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:16:53.56,0:16:55.86,Default,,0000,0000,0000,,Heh! Bossing me around.
+Dialogue: 0,0:17:01.97,0:17:03.87,Default,,0000,0000,0000,,The counterattack starts now!
+Dialogue: 0,0:17:04.53,0:17:07.50,Default,,0000,0000,0000,,It’s futile. Your Jutsu won’t reach me!
+Dialogue: 0,0:17:07.77,0:17:10.57,Default,,0000,0000,0000,,You never know until you try, right…?!
+Dialogue: 0,0:17:11.31,0:17:12.08,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:17:12.38,0:17:14.38,Default,,0000,0000,0000,,Wind Style: Cyclone Scythe!
+Dialogue: 0,0:17:15.55,0:17:16.51,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:17:18.55,0:17:21.22,Default,,0000,0000,0000,,What’re you aiming at?!\NTotally misguided…
+Dialogue: 0,0:17:22.69,0:17:23.82,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:17:24.55,0:17:25.76,Default,,0000,0000,0000,,What’s the meaning of this?
+Dialogue: 0,0:17:25.82,0:17:28.23,Default,,0000,0000,0000,,I’m sure I’d read your range already…!
+Dialogue: 0,0:17:29.53,0:17:30.56,Default,,0000,0000,0000,,I’ll show you!
+Dialogue: 0,0:17:34.56,0:17:37.57,Default,,0000,0000,0000,,I can create a shadow with\Nthis thick a current
+Dialogue: 0,0:17:37.60,0:17:38.80,Default,,0000,0000,0000,,even if the water’s clear.
+Dialogue: 0,0:17:39.54,0:17:44.57,Default,,0000,0000,0000,,My Jutsu’s range has infinitely\Nimproved by lifting the waterfall!
+Dialogue: 0,0:17:46.48,0:17:48.55,Default,,0000,0000,0000,,The Shadow Possession Jutsu\Nis a success!
+Dialogue: 0,0:17:50.51,0:17:51.55,Default,,0000,0000,0000,,Summoning…
+Dialogue: 0,0:17:52.02,0:17:53.22,Default,,0000,0000,0000,,Blade Dance!
+Dialogue: 0,0:18:09.57,0:18:10.97,Default,,0000,0000,0000,,This one’s done!
+Dialogue: 0,0:18:13.94,0:18:15.47,Default,,0000,0000,0000,,Good grief…
+Dialogue: 0,0:18:18.54,0:18:21.21,Default,,0000,0000,0000,,I…couldn’t do anything.
+Dialogue: 0,0:18:22.55,0:18:24.05,Default,,0000,0000,0000,,Here everyone’s doing their best…
+Dialogue: 0,0:18:25.12,0:18:26.02,Default,,0000,0000,0000,,Only I…
+Dialogue: 0,0:18:27.55,0:18:28.42,Default,,0000,0000,0000,,Ino?
+Dialogue: 0,0:18:30.52,0:18:31.15,Default,,0000,0000,0000,,Gaara.
+Dialogue: 0,0:18:36.19,0:18:39.30,Default,,0000,0000,0000,,You don’t have any sand\Nleft you can use.
+Dialogue: 0,0:18:42.57,0:18:43.47,Default,,0000,0000,0000,,What’s this?!
+Dialogue: 0,0:18:43.50,0:18:44.97,Default,,0000,0000,0000,,He smashed the Sand Armor.
+Dialogue: 0,0:18:45.90,0:18:50.14,Default,,0000,0000,0000,,No way! But the sand\Nheavy with water like that…
+Dialogue: 0,0:18:50.51,0:18:52.44,Default,,0000,0000,0000,,If I just suck up the Chakra…
+Dialogue: 0,0:18:55.01,0:18:56.75,Default,,0000,0000,0000,,This is my weapon!
+Dialogue: 0,0:19:13.56,0:19:14.73,Default,,0000,0000,0000,,You okay, Gaara?!
+Dialogue: 0,0:19:15.57,0:19:16.87,Default,,0000,0000,0000,,This is the finishing blow…
+Dialogue: 0,0:19:18.50,0:19:19.54,Default,,0000,0000,0000,,Gaara Sensei!
+Dialogue: 0,0:19:19.90,0:19:22.34,Default,,0000,0000,0000,,Hurry! Leave the rest to us!
+Dialogue: 0,0:19:25.38,0:19:26.54,Default,,0000,0000,0000,,Man Beast Clone!
+Dialogue: 0,0:19:26.98,0:19:27.74,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:19:27.81,0:19:29.55,Default,,0000,0000,0000,,Partial Expansion Jutsu!
+Dialogue: 0,0:19:31.68,0:19:33.65,Default,,0000,0000,0000,,Annoying buzzing flies!
+Dialogue: 0,0:19:34.25,0:19:36.02,Default,,0000,0000,0000,,Dragon Eye: Fang Release: Dark Sword!
+Dialogue: 0,0:19:44.09,0:19:44.73,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:45.56,0:19:46.50,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:19:49.57,0:19:50.77,Default,,0000,0000,0000,,Puppet Show…
+Dialogue: 0,0:19:54.54,0:19:56.64,Default,,0000,0000,0000,,Secret Black Move Iron Maiden!
+Dialogue: 0,0:20:06.92,0:20:07.85,Default,,0000,0000,0000,,The show’s  over!
+Dialogue: 0,0:20:07.88,0:20:09.52,Default,,0000,0000,0000,,– We did it! 					– Yeah!
+Dialogue: 0,0:20:14.56,0:20:15.46,Default,,0000,0000,0000,,Matsuri.
+Dialogue: 0,0:20:21.13,0:20:22.17,Default,,0000,0000,0000,,Gaara and…!
+Dialogue: 0,0:20:22.80,0:20:24.53,Default,,0000,0000,0000,,A Shinobi carrying a child on his back.
+Dialogue: 0,0:20:25.14,0:20:26.97,Default,,0000,0000,0000,,He’s heading for the valley.
+Dialogue: 0,0:20:28.27,0:20:29.44,Default,,0000,0000,0000,,The last one…
+Dialogue: 0,0:20:30.54,0:20:31.61,Default,,0000,0000,0000,,Gaara is chasing him!
+Dialogue: 0,0:20:31.78,0:20:32.54,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:37.35,0:20:41.22,Default,,0000,0000,0000,,You okay, Bushy Brow?\NSakura will be right back.
+Dialogue: 0,0:20:41.55,0:20:42.49,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:42.52,0:20:44.55,Default,,0000,0000,0000,,Well, I’m going after Gaara!
+Dialogue: 0,0:20:44.55,0:20:47.39,Default,,0000,0000,0000,,Got it! I’ll meet up with you later!
+Dialogue: 0,0:20:57.07,0:20:58.40,Default,,0000,0000,0000,,I’ve got him cornered.
+Dialogue: 0,0:21:12.72,0:21:13.62,Default,,0000,0000,0000,,Matsuri.
+Dialogue: 0,0:21:18.82,0:21:23.26,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.33,0:21:29.57,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:34.97,0:21:39.44,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.48,0:21:43.95,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:43.98,0:21:48.85,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:48.89,0:21:53.69,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:53.72,0:21:58.63,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:58.70,0:22:03.00,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.07,0:22:07.54,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.54,0:22:14.84,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:14.88,0:22:18.72,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:18.75,0:22:24.05,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.09,0:22:28.22,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.26,0:22:33.06,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.30,0:22:37.67,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:37.73,0:22:43.84,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.65,0:22:52.55,Default,,0000,0000,0000,,I heard you figured out the identities\Nof the Four Celestials?
+Dialogue: 0,0:22:52.55,0:22:55.55,Default,,0000,0000,0000,,Yes. They are the Ninja of\Nthe Village of the Artisans
+Dialogue: 0,0:22:55.55,0:22:57.22,Default,,0000,0000,0000,,who've been harboring ill feeling\Ntoward the Five Great Nations.
+Dialogue: 0,0:22:57.55,0:22:59.22,Default,,0000,0000,0000,,It seems they’ve completed\Nthe forbidden project
+Dialogue: 0,0:22:59.26,0:23:00.92,Default,,0000,0000,0000,,passed down in the village and
+Dialogue: 0,0:23:00.96,0:23:02.76,Default,,0000,0000,0000,,intend to resurrect\Ntheir ultimate weapon.
+Dialogue: 0,0:23:02.96,0:23:07.00,Default,,0000,0000,0000,,I see. I take it the other villagers\Ngot wind of it and evacuated.
+Dialogue: 0,0:23:07.13,0:23:10.00,Default,,0000,0000,0000,,Exactly. You head over to\Nwhere they are immediately.
+Dialogue: 0,0:23:10.07,0:23:10.60,Default,,0000,0000,0000,,Yes, ma’am.
+Dialogue: 0,0:23:11.17,0:23:14.77,Default,,0000,0000,0000,,Next time:\N“The Ultimate Weapon Reborn”

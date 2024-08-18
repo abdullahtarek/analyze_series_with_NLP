@@ -1,0 +1,304 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.99,0:00:12.54,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.58,0:00:16.04,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:16.08,0:00:19.66,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.70,0:00:23.25,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.29,0:00:26.66,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.70,0:00:28.66,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.37,0:00:33.33,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.37,0:00:37.16,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.62,0:00:44.45,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.70,0:00:51.83,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.99,0:00:58.12,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.25,0:01:02.70,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.75,0:01:06.29,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.33,0:01:09.79,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.83,0:01:13.41,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.45,0:01:17.00,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:17.04,0:01:20.70,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.75,0:01:24.29,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.33,0:01:28.50,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:02:05.87,0:02:07.58,Default,,0000,0000,0000,,Huh? Uh… Excuse me…
+Dialogue: 0,0:02:27.95,0:02:33.79,Default,,0000,0000,0000,,Return of the Morning Mist
+Dialogue: 0,0:02:46.99,0:02:49.99,Default,,0000,0000,0000,,My mother and my father…\NThey didn’t have to die.
+Dialogue: 0,0:02:51.25,0:02:54.91,Default,,0000,0000,0000,,Because I didn’t have strength,\Nthe whole clan was destroyed.
+Dialogue: 0,0:02:56.45,0:02:57.91,Default,,0000,0000,0000,,Everyone was killed…
+Dialogue: 0,0:03:09.29,0:03:10.25,Default,,0000,0000,0000,,Darn it…
+Dialogue: 0,0:03:16.91,0:03:18.08,Default,,0000,0000,0000,,Morning training is over!
+Dialogue: 0,0:03:30.29,0:03:31.54,Default,,0000,0000,0000,,Once I’ve eaten breakfast
+Dialogue: 0,0:03:31.58,0:03:33.87,Default,,0000,0000,0000,,I’ll get back to rigorous training!
+Dialogue: 0,0:03:44.12,0:03:45.37,Default,,0000,0000,0000,,Old man…
+Dialogue: 0,0:03:46.37,0:03:47.54,Default,,0000,0000,0000,,Konohamaru…
+Dialogue: 0,0:03:50.08,0:03:51.62,Default,,0000,0000,0000,,Yo! Konohomaru.
+Dialogue: 0,0:03:56.58,0:03:57.99,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:03:59.29,0:04:01.83,Default,,0000,0000,0000,,Have you already resumed studies\Nat the academy?
+Dialogue: 0,0:04:01.91,0:04:04.00,Default,,0000,0000,0000,,N-No, not yet.
+Dialogue: 0,0:04:04.16,0:04:07.25,Default,,0000,0000,0000,,The school buildings are damaged,\Nso we’re all repairing them.
+Dialogue: 0,0:04:07.62,0:04:08.83,Default,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:04:11.58,0:04:14.20,Default,,0000,0000,0000,,How about you, Naruto?\NYou’re already training?
+Dialogue: 0,0:04:14.99,0:04:16.04,Default,,0000,0000,0000,,Sort of.
+Dialogue: 0,0:04:21.16,0:04:23.54,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:04:23.99,0:04:25.04,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:04:25.08,0:04:26.87,Default,,0000,0000,0000,,N-No, it’s nothing…
+Dialogue: 0,0:04:29.37,0:04:30.75,Default,,0000,0000,0000,,– Hey um…! 					– Hey um…!
+Dialogue: 0,0:04:31.25,0:04:33.66,Default,,0000,0000,0000,,So what is it…?
+Dialogue: 0,0:04:34.54,0:04:36.91,Default,,0000,0000,0000,,You too, Naruto, what is it?
+Dialogue: 0,0:04:37.70,0:04:39.62,Default,,0000,0000,0000,,Nothing…really…
+Dialogue: 0,0:04:42.87,0:04:44.25,Default,,0000,0000,0000,,I don’t feel lonely.
+Dialogue: 0,0:04:44.29,0:04:44.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:45.99,0:04:48.25,Default,,0000,0000,0000,,There’s no time to be feeling lonely.
+Dialogue: 0,0:04:48.66,0:04:53.75,Default,,0000,0000,0000,,Everyone is working really hard\Nto rebuild the village right now.
+Dialogue: 0,0:04:55.75,0:04:56.79,Default,,0000,0000,0000,,Konohamaru…
+Dialogue: 0,0:04:57.62,0:05:00.75,Default,,0000,0000,0000,,Right now, I must work for\Nthe village even just a little bit.
+Dialogue: 0,0:05:01.45,0:05:04.99,Default,,0000,0000,0000,,So Naruto, you work hard\Nat your training too.
+Dialogue: 0,0:05:05.37,0:05:08.54,Default,,0000,0000,0000,,If you don’t,\NI’ll become Hokage before you.
+Dialogue: 0,0:05:08.70,0:05:12.66,Default,,0000,0000,0000,,Fool, I will absolutely become Hokage.
+Dialogue: 0,0:05:12.99,0:05:16.20,Default,,0000,0000,0000,,Besides…you have to graduate\Nfrom the Academy first.
+Dialogue: 0,0:05:18.00,0:05:19.12,Default,,0000,0000,0000,,Oh, that’s right…
+Dialogue: 0,0:05:21.54,0:05:22.99,Default,,0000,0000,0000,,Oh, here it is.
+Dialogue: 0,0:05:22.99,0:05:24.37,Default,,0000,0000,0000,,Here, it’s for you.
+Dialogue: 0,0:05:24.66,0:05:25.99,Default,,0000,0000,0000,,A free ramen ticket from Ichiraku…
+Dialogue: 0,0:05:26.95,0:05:27.99,Default,,0000,0000,0000,,Is it okay?
+Dialogue: 0,0:05:28.20,0:05:32.50,Default,,0000,0000,0000,,I already have one,\Nso I’m giving one to you.
+Dialogue: 0,0:05:32.83,0:05:34.33,Default,,0000,0000,0000,,Thank you, Naruto.
+Dialogue: 0,0:05:34.62,0:05:36.29,Default,,0000,0000,0000,,Oh! Konohamaru.
+Dialogue: 0,0:05:36.33,0:05:37.12,Default,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:05:37.99,0:05:39.04,Default,,0000,0000,0000,,I’m going to go.
+Dialogue: 0,0:05:40.62,0:05:41.91,Default,,0000,0000,0000,,We’ll work hard again today.
+Dialogue: 0,0:05:41.99,0:05:42.70,Default,,0000,0000,0000,,– Yep! 					– Yep!
+Dialogue: 0,0:05:43.62,0:05:45.99,Default,,0000,0000,0000,,Today we’re fixing the blackboards.
+Dialogue: 0,0:05:46.50,0:05:47.99,Default,,0000,0000,0000,,I brought paint.
+Dialogue: 0,0:05:48.00,0:05:53.33,Default,,0000,0000,0000,,Well! Once I’ve eaten ramen at Ichiraku,\NI’ll continue training.
+Dialogue: 0,0:06:07.45,0:06:08.12,Default,,0000,0000,0000,,This is it.
+Dialogue: 0,0:06:10.99,0:06:12.00,Default,,0000,0000,0000,,Th-This is…
+Dialogue: 0,0:06:16.99,0:06:18.45,Default,,0000,0000,0000,,A lot of time has passed since the death.
+Dialogue: 0,0:06:19.16,0:06:22.08,Default,,0000,0000,0000,,It’s probably before\Nthe Chunin Exam began.
+Dialogue: 0,0:06:22.99,0:06:25.79,Default,,0000,0000,0000,,I see, so that's it…
+Dialogue: 0,0:06:27.99,0:06:30.45,Default,,0000,0000,0000,,That Orochimaru!
+Dialogue: 0,0:06:34.37,0:06:36.16,Default,,0000,0000,0000,,After the murder of Lord Kazekage,
+Dialogue: 0,0:06:36.75,0:06:40.87,Default,,0000,0000,0000,,Orochimaru… or someone\Nlike Kabuto played Kazekage…
+Dialogue: 0,0:06:41.99,0:06:43.50,Default,,0000,0000,0000,,How thoughtless we were…
+Dialogue: 0,0:06:50.45,0:06:52.54,Default,,0000,0000,0000,,That darn Sarutobi…
+Dialogue: 0,0:06:53.91,0:06:55.99,Default,,0000,0000,0000,,Well, it’s not that easy.
+Dialogue: 0,0:06:56.91,0:06:59.54,Default,,0000,0000,0000,,The one who was your opponent\Nwas the renowned Hokage,
+Dialogue: 0,0:06:59.58,0:07:02.12,Default,,0000,0000,0000,,deemed to be strongest of\Nall five great nations.
+Dialogue: 0,0:07:03.45,0:07:07.54,Default,,0000,0000,0000,,However…you’ve done well.\NTwo out of the five Kages…
+Dialogue: 0,0:07:07.58,0:07:08.99,Default,,0000,0000,0000,,Stop…
+Dialogue: 0,0:07:10.04,0:07:13.83,Default,,0000,0000,0000,,Stop giving me words of sympathy.
+Dialogue: 0,0:07:15.20,0:07:16.58,Default,,0000,0000,0000,,I will kill you!
+Dialogue: 0,0:07:20.37,0:07:23.41,Default,,0000,0000,0000,,Of course, I didn’t mean to…
+Dialogue: 0,0:07:23.99,0:07:25.99,Default,,0000,0000,0000,,It’s true that we didn’t succeed\Nin bringing the village down…
+Dialogue: 0,0:07:28.33,0:07:32.70,Default,,0000,0000,0000,,On the other hand, another objective\Nof this plan, Sasuke Uchiha…
+Dialogue: 0,0:07:33.41,0:07:36.70,Default,,0000,0000,0000,,Your leash is now on him.
+Dialogue: 0,0:07:39.37,0:07:44.58,Default,,0000,0000,0000,,In exchange for these arms\Nand all of my Jutsu…
+Dialogue: 0,0:07:46.95,0:07:50.75,Default,,0000,0000,0000,,If we could have gotten our hands\Non that Itachi Uchiha from the beginning,
+Dialogue: 0,0:07:50.79,0:07:52.62,Default,,0000,0000,0000,,it wouldn’t have been a problem.
+Dialogue: 0,0:07:53.25,0:07:56.95,Default,,0000,0000,0000,,However that’s a dream that\Ncan no longer come true.
+Dialogue: 0,0:07:57.41,0:08:00.99,Default,,0000,0000,0000,,He is stronger than I am.
+Dialogue: 0,0:08:05.70,0:08:11.37,Default,,0000,0000,0000,,That is why…I pulled myself out\Nfrom that organization…
+Dialogue: 0,0:08:23.95,0:08:24.83,Default,,0000,0000,0000,,Kakashi, huh?
+Dialogue: 0,0:08:26.79,0:08:27.99,Default,,0000,0000,0000,,What does he want?
+Dialogue: 0,0:08:29.83,0:08:31.99,Default,,0000,0000,0000,,Breakfast, breakfast!
+Dialogue: 0,0:08:32.04,0:08:34.83,Default,,0000,0000,0000,,Wait for me, my ramen.
+Dialogue: 0,0:08:41.45,0:08:42.99,Default,,0000,0000,0000,,Do you already know\Nhis whereabouts?
+Dialogue: 0,0:08:43.99,0:08:44.83,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:46.58,0:08:48.37,Default,,0000,0000,0000,,In that case, it will be easy…
+Dialogue: 0,0:08:49.29,0:08:50.04,Default,,0000,0000,0000,,Let’s go.
+Dialogue: 0,0:08:53.12,0:08:54.99,Default,,0000,0000,0000,,Here it comes, here it comes.
+Dialogue: 0,0:08:55.62,0:08:57.99,Default,,0000,0000,0000,,Oh goodie, it’s just like I thought.
+Dialogue: 0,0:08:58.45,0:09:04.20,Default,,0000,0000,0000,,Hidden Leaf Village…\Nhas a high average score.
+Dialogue: 0,0:09:04.29,0:09:07.41,Default,,0000,0000,0000,,You’re still doing such\Na ridiculous thing?
+Dialogue: 0,0:09:07.99,0:09:10.33,Default,,0000,0000,0000,,Well yes, this is my research.
+Dialogue: 0,0:09:11.99,0:09:14.70,Default,,0000,0000,0000,,Old Man Homura and Koharu Sensei, huh?
+Dialogue: 0,0:09:16.04,0:09:19.16,Default,,0000,0000,0000,,I wonder what you advisers\Nwant from me.
+Dialogue: 0,0:09:19.83,0:09:21.62,Default,,0000,0000,0000,,Surely, you know…
+Dialogue: 0,0:09:21.95,0:09:24.66,Default,,0000,0000,0000,,without our telling you, don’t you?
+Dialogue: 0,0:09:33.04,0:09:35.66,Default,,0000,0000,0000,,You don’t have to make\Nsuch scary faces.
+Dialogue: 0,0:09:35.70,0:09:38.99,Default,,0000,0000,0000,,I heard that the talks with Sand Village\Nhave been settled without problems.
+Dialogue: 0,0:09:39.95,0:09:41.37,Default,,0000,0000,0000,,The Hidden Village in the Sand\Nannounced that
+Dialogue: 0,0:09:41.41,0:09:44.58,Default,,0000,0000,0000,,everything was Orochimaru’s handiwork.
+Dialogue: 0,0:09:45.04,0:09:50.37,Default,,0000,0000,0000,,In addition, at the moment of their\Ncomplete surrender to us, the Leaf Village,
+Dialogue: 0,0:09:50.41,0:09:53.33,Default,,0000,0000,0000,,that wasn’t a very important issue\Nany more.
+Dialogue: 0,0:09:53.99,0:09:57.79,Default,,0000,0000,0000,,Leaf Village has no choice but\Nto accept their surrender and proposition
+Dialogue: 0,0:09:57.83,0:09:59.45,Default,,0000,0000,0000,,in order to restore national power.
+Dialogue: 0,0:10:00.12,0:10:05.91,Default,,0000,0000,0000,,However, the current strength of\NLeaf Village has dropped drastically.
+Dialogue: 0,0:10:06.62,0:10:07.83,Default,,0000,0000,0000,,Under these conditions,
+Dialogue: 0,0:10:07.87,0:10:12.75,Default,,0000,0000,0000,,our top priority must be to prepare\Nfor any unpredicted crisis.
+Dialogue: 0,0:10:13.08,0:10:15.79,Default,,0000,0000,0000,,We don’t know when any of\Nthe neighboring nations
+Dialogue: 0,0:10:15.83,0:10:17.79,Default,,0000,0000,0000,,will come out in a bold move.
+Dialogue: 0,0:10:18.04,0:10:21.08,Default,,0000,0000,0000,,Therefore, we’ve decided that until\Nthe village gets its strength back,
+Dialogue: 0,0:10:21.12,0:10:24.29,Default,,0000,0000,0000,,we should assemble the top few men\Nfrom each troop,
+Dialogue: 0,0:10:24.33,0:10:28.95,Default,,0000,0000,0000,,and form an emergency\Nexecutive committee to handle this.
+Dialogue: 0,0:10:30.20,0:10:32.00,Default,,0000,0000,0000,,But first…
+Dialogue: 0,0:10:35.62,0:10:38.33,Default,,0000,0000,0000,,we need a strong, trustworthy leader.
+Dialogue: 0,0:10:39.20,0:10:42.99,Default,,0000,0000,0000,,You can find the seeds of trouble\Nrolling around everywhere these days.
+Dialogue: 0,0:10:43.41,0:10:45.04,Default,,0000,0000,0000,,It’s not just Orochimaru.
+Dialogue: 0,0:10:45.33,0:10:49.45,Default,,0000,0000,0000,,You didn’t have to go through\Nthe trouble of informing me that.
+Dialogue: 0,0:10:50.50,0:10:52.99,Default,,0000,0000,0000,,Well… I’ll continue gathering materials.
+Dialogue: 0,0:10:52.99,0:10:55.62,Default,,0000,0000,0000,,I’m going to tell you the basic plan.
+Dialogue: 0,0:10:55.99,0:10:59.29,Default,,0000,0000,0000,,We need the Fifth Hokage right away.
+Dialogue: 0,0:10:59.41,0:11:04.62,Default,,0000,0000,0000,,And yesterday at an emergency meeting\Nwith the feudal lord of the Land of Fire,
+Dialogue: 0,0:11:04.99,0:11:06.87,Default,,0000,0000,0000,,we decided\Nit would be you, Jiraiya.
+Dialogue: 0,0:11:09.16,0:11:12.45,Default,,0000,0000,0000,,I’m sorry, it’s not my nature.
+Dialogue: 0,0:11:12.99,0:11:14.20,Default,,0000,0000,0000,,It has been decided.
+Dialogue: 0,0:11:14.45,0:11:18.12,Default,,0000,0000,0000,,Besides, if a Shinobi like you,\Nrenowned as a Sannin, is not…
+Dialogue: 0,0:11:18.16,0:11:19.33,Default,,0000,0000,0000,,then who is?
+Dialogue: 0,0:11:21.70,0:11:24.08,Default,,0000,0000,0000,,If you want a Sannin,\Nthere is one more left…
+Dialogue: 0,0:11:27.12,0:11:28.95,Default,,0000,0000,0000,,That Tsunade.
+Dialogue: 0,0:11:32.04,0:11:35.25,Default,,0000,0000,0000,,Certainly that child probably\Nhas that capability, but…
+Dialogue: 0,0:11:35.99,0:11:38.70,Default,,0000,0000,0000,,However, no one knows where she is.
+Dialogue: 0,0:11:39.04,0:11:42.62,Default,,0000,0000,0000,,I’ll find and bring her back.\Nlf I do that there’s no problem, right?
+Dialogue: 0,0:11:43.29,0:11:44.25,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:11:45.33,0:11:49.99,Default,,0000,0000,0000,,A wise one like Tsunade is meant to\Nbe Hokage more than I, with no motivation.
+Dialogue: 0,0:11:52.62,0:11:53.91,Default,,0000,0000,0000,,What do you want to do?
+Dialogue: 0,0:11:56.41,0:11:58.99,Default,,0000,0000,0000,,All right.\NWe’ll give it urgent consideration.
+Dialogue: 0,0:11:59.41,0:12:02.25,Default,,0000,0000,0000,,However, we’ll have three members\Nfrom Anbu Black Ops to accompany you
+Dialogue: 0,0:12:02.29,0:12:04.04,Default,,0000,0000,0000,,as the search unit for Tsunade.
+Dialogue: 0,0:12:04.54,0:12:09.99,Default,,0000,0000,0000,,Don’t worry, I won’t escape from this.\NThe guards are not necessary.
+Dialogue: 0,0:12:11.16,0:12:12.29,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:12:14.37,0:12:17.58,Default,,0000,0000,0000,,There is one guy that I want\Nto take with me on my trip.
+Dialogue: 0,0:12:18.45,0:12:21.50,Default,,0000,0000,0000,,I’ve found an interesting egg…
+Dialogue: 0,0:12:24.45,0:12:27.95,Default,,0000,0000,0000,,What? That is absolutely strange.
+Dialogue: 0,0:12:27.99,0:12:30.83,Default,,0000,0000,0000,,Sorry, but if you don’t have a ticket,\Nthere’s no ramen.
+Dialogue: 0,0:12:30.99,0:12:34.37,Default,,0000,0000,0000,,No, wait a minute!\NI absolutely had one more.
+Dialogue: 0,0:12:34.99,0:12:35.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:35.99,0:12:38.70,Default,,0000,0000,0000,,The one that I gave Konohamaru,\Nwas it the last?
+Dialogue: 0,0:12:40.91,0:12:41.99,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:12:46.70,0:12:49.25,Default,,0000,0000,0000,,Hey, my ramen!
+Dialogue: 0,0:12:51.95,0:12:53.20,Default,,0000,0000,0000,,"Racy Violence"
+Dialogue: 0,0:12:55.25,0:12:56.83,Default,,0000,0000,0000,,Yo, you two!
+Dialogue: 0,0:12:58.12,0:13:00.00,Default,,0000,0000,0000,,You seem to be getting along well.
+Dialogue: 0,0:13:00.66,0:13:04.37,Default,,0000,0000,0000,,Fool, Anko asked me to\Nbuy rice dumplings. That’s all.
+Dialogue: 0,0:13:04.75,0:13:07.33,Default,,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:13:07.75,0:13:12.99,Default,,0000,0000,0000,,While I’m here to buy offerings,\NI’ve made plans to meet here…
+Dialogue: 0,0:13:13.99,0:13:15.45,Default,,0000,0000,0000,,with Sasuke.
+Dialogue: 0,0:13:16.99,0:13:20.16,Default,,0000,0000,0000,,Huh, it’s rare that you wait for people.
+Dialogue: 0,0:13:21.25,0:13:22.99,Default,,0000,0000,0000,,Is the offering to Obito?
+Dialogue: 0,0:13:23.33,0:13:24.20,Default,,0000,0000,0000,,Obito?
+Dialogue: 0,0:13:25.00,0:13:26.99,Default,,0000,0000,0000,,Well…that’s about right.
+Dialogue: 0,0:13:34.37,0:13:37.87,Default,,0000,0000,0000,,Kakashi, it’s strange for\Nyou to be here first.
+Dialogue: 0,0:13:38.20,0:13:40.70,Default,,0000,0000,0000,,Well… once in a while.
+Dialogue: 0,0:13:48.58,0:13:51.20,Default,,0000,0000,0000,,I don’t do natto (fermented beans)\Nand sweet things.
+Dialogue: 0,0:13:51.83,0:13:53.37,Default,,0000,0000,0000,,Oh… Is that so?
+Dialogue: 0,0:14:03.95,0:14:05.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:05.33,0:14:08.66,Default,,0000,0000,0000,,This is absolutely positively strange!
+Dialogue: 0,0:14:24.08,0:14:28.70,Default,,0000,0000,0000,,You guys aren’t from the village…\NWhy in the world did you come?
+Dialogue: 0,0:14:29.12,0:14:32.12,Default,,0000,0000,0000,,I haven’t seen you for\Na while Asuma, Kurenai.
+Dialogue: 0,0:14:32.58,0:14:37.50,Default,,0000,0000,0000,,If you know about us,\Nare you former Leaf Shinobi?
+Dialogue: 0,0:14:46.08,0:14:47.00,Default,,0000,0000,0000,,– Huh?! 					– Huh?!
+Dialogue: 0,0:14:47.79,0:14:49.08,Default,,0000,0000,0000,,Y-You are?!
+Dialogue: 0,0:15:00.20,0:15:02.54,Default,,0000,0000,0000,,Humph, without a doubt…
+Dialogue: 0,0:15:04.45,0:15:05.75,Default,,0000,0000,0000,,Itachi…
+Dialogue: 0,0:15:07.20,0:15:07.99,Default,,0000,0000,0000,,Uchiha.
+Dialogue: 0,0:15:11.45,0:15:13.70,Default,,0000,0000,0000,,You are acquaintances of Itachi?
+Dialogue: 0,0:15:15.33,0:15:16.33,Default,,0000,0000,0000,,If so…
+Dialogue: 0,0:15:17.12,0:15:19.70,Default,,0000,0000,0000,,I’ll introduce myself as well.
+Dialogue: 0,0:15:22.70,0:15:24.54,Default,,0000,0000,0000,,I’m Kisame Hoshigaki.
+Dialogue: 0,0:15:24.99,0:15:26.99,Default,,0000,0000,0000,,Hereafter, I hope to be familiar with you.
+Dialogue: 0,0:15:29.04,0:15:33.99,Default,,0000,0000,0000,,Never mind later,\NI’m going to beat you now!
+Dialogue: 0,0:15:34.37,0:15:35.66,Default,,0000,0000,0000,,Itachi…
+Dialogue: 0,0:15:36.16,0:15:39.75,Default,,0000,0000,0000,,It seems you’re pretty unpopular\Nin the village too.
+Dialogue: 0,0:15:40.16,0:15:41.54,Default,,0000,0000,0000,,I know you, too.
+Dialogue: 0,0:15:42.00,0:15:43.62,Default,,0000,0000,0000,,Kisame Hoshigake,
+Dialogue: 0,0:15:43.66,0:15:45.66,Default,,0000,0000,0000,,originally a Shinobi\Nof Hidden Village in the Mist.
+Dialogue: 0,0:15:45.83,0:15:49.08,Default,,0000,0000,0000,,Suspected of national covert activities\Nand of killing a feudal lord,
+Dialogue: 0,0:15:49.12,0:15:52.91,Default,,0000,0000,0000,,a Rogue Ninja from Land of Water,\Non the wanted list in all nations.
+Dialogue: 0,0:15:53.75,0:15:58.37,Default,,0000,0000,0000,,You’re a major S-rank criminal\Nlisted in the Bingo Book.
+Dialogue: 0,0:16:01.20,0:16:06.45,Default,,0000,0000,0000,,Itachi, you have some nerve\Ncoming back to this village
+Dialogue: 0,0:16:06.79,0:16:08.33,Default,,0000,0000,0000,,after causing that awful incident.
+Dialogue: 0,0:16:09.20,0:16:10.70,Default,,0000,0000,0000,,Asuma… Kurenai…
+Dialogue: 0,0:16:11.70,0:16:13.41,Default,,0000,0000,0000,,Don’t interfere with me.
+Dialogue: 0,0:16:14.83,0:16:16.91,Default,,0000,0000,0000,,I don’t intend to kill you.
+Dialogue: 0,0:16:17.54,0:16:21.66,Default,,0000,0000,0000,,That’s not a line for you,\Nwho killed your comrades.
+Dialogue: 0,0:16:22.66,0:16:24.33,Default,,0000,0000,0000,,I know there’s no way\Nyou’d come here
+Dialogue: 0,0:16:24.50,0:16:28.95,Default,,0000,0000,0000,,without any clear purpose\Nin those suspicious appearance.
+Dialogue: 0,0:16:30.20,0:16:31.58,Default,,0000,0000,0000,,What are you after?
+Dialogue: 0,0:16:36.99,0:16:40.87,Default,,0000,0000,0000,,This guy is pretty annoying.\NShould we kill him?
+Dialogue: 0,0:16:41.41,0:16:43.99,Default,,0000,0000,0000,,It doesn’t look like we are able\Nto leave the village so smoothly…
+Dialogue: 0,0:16:45.12,0:16:49.16,Default,,0000,0000,0000,,But don’t overdo it,\Nyour techniques tend to stand out.
+Dialogue: 0,0:16:50.50,0:16:51.99,Default,,0000,0000,0000,,They're done for then.
+Dialogue: 0,0:17:34.08,0:17:34.99,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:17:36.75,0:17:37.83,Default,,0000,0000,0000,,Genjutsu.
+Dialogue: 0,0:17:46.37,0:17:50.29,Default,,0000,0000,0000,,Pressing down with the tip of his sword…\NWhat strength.
+Dialogue: 0,0:17:53.25,0:17:55.70,Default,,0000,0000,0000,,My large sword, Shark Skin…
+Dialogue: 0,0:18:04.87,0:18:07.83,Default,,0000,0000,0000,,doesn’t cut, but lops it off!
+Dialogue: 0,0:18:14.99,0:18:16.79,Default,,0000,0000,0000,,Kurenai… You’re late.
+Dialogue: 0,0:18:41.99,0:18:42.99,Default,,0000,0000,0000,,With this…
+Dialogue: 0,0:18:44.33,0:18:45.25,Default,,0000,0000,0000,,it’s over!
+Dialogue: 0,0:18:51.99,0:18:54.91,Default,,0000,0000,0000,,Genjutsu of that level doesn’t work on me.
+Dialogue: 0,0:18:55.50,0:18:57.99,Default,,0000,0000,0000,,This is…Genjutsu Reversal?
+Dialogue: 0,0:19:19.50,0:19:20.37,Default,,0000,0000,0000,,Kurenai!
+Dialogue: 0,0:19:20.41,0:19:22.95,Default,,0000,0000,0000,,There’s no time to look away.
+Dialogue: 0,0:19:23.99,0:19:26.45,Default,,0000,0000,0000,,That’s what’s expected from you, Kurenai.
+Dialogue: 0,0:19:26.50,0:19:27.16,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:19:29.62,0:19:31.99,Default,,0000,0000,0000,,“But” this is as far as it goes…
+Dialogue: 0,0:19:33.12,0:19:34.25,Default,,0000,0000,0000,,for you.
+Dialogue: 0,0:19:42.25,0:19:42.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:50.99,0:19:51.99,Default,,0000,0000,0000,,Water Style!
+Dialogue: 0,0:19:57.33,0:19:58.99,Default,,0000,0000,0000,,– Water Shark Bomb Jutsu!\N– Water Shark Bomb Jutsu!
+Dialogue: 0,0:20:03.99,0:20:05.70,Default,,0000,0000,0000,,The same Jutsu as me?!
+Dialogue: 0,0:20:06.16,0:20:08.87,Default,,0000,0000,0000,,Why have you shown up too?
+Dialogue: 0,0:20:09.33,0:20:13.08,Default,,0000,0000,0000,,Well…I asked you to take care\Nof them earlier.
+Dialogue: 0,0:20:13.99,0:20:16.08,Default,,0000,0000,0000,,But I kinda felt uneasy, you know.
+Dialogue: 0,0:20:17.16,0:20:18.20,Default,,0000,0000,0000,,Shadow clones.
+Dialogue: 0,0:20:19.87,0:20:21.20,Default,,0000,0000,0000,,Kakashi…
+Dialogue: 0,0:20:21.66,0:20:22.75,Default,,0000,0000,0000,,Hatake.
+Dialogue: 0,0:20:26.75,0:20:28.25,Default,,0000,0000,0000,,Cripes… So much fuss for nothing.
+Dialogue: 0,0:20:29.83,0:20:31.70,Default,,0000,0000,0000,,I…
+Dialogue: 0,0:20:31.99,0:20:33.95,Default,,0000,0000,0000,,I put it under my headband
+Dialogue: 0,0:20:33.99,0:20:38.95,Default,,0000,0000,0000,,in order not to drop the important ticket\Nduring morning training.
+Dialogue: 0,0:20:41.54,0:20:45.62,Default,,0000,0000,0000,,Okay, that’s fine…\NEat well and do your best.
+Dialogue: 0,0:20:45.79,0:20:46.54,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:20:47.41,0:20:49.99,Default,,0000,0000,0000,,You’re going to do it again\Nafter this, right? Training?
+Dialogue: 0,0:20:53.75,0:20:55.99,Default,,0000,0000,0000,,Of course! I’m full of motivation.
+Dialogue: 0,0:20:56.08,0:20:57.45,Default,,0000,0000,0000,,Good! Here you go.
+Dialogue: 0,0:21:00.99,0:21:03.62,Default,,0000,0000,0000,,Another serving for free! Go for it!
+Dialogue: 0,0:21:03.99,0:21:05.50,Default,,0000,0000,0000,,Thank you, sir!
+Dialogue: 0,0:21:07.83,0:21:08.99,Default,,0000,0000,0000,,Welcome.
+Dialogue: 0,0:21:08.99,0:21:11.04,Default,,0000,0000,0000,,Just like I heard…\NI had to come and see it.
+Dialogue: 0,0:21:11.99,0:21:15.37,Default,,0000,0000,0000,,It seems that you really\Nare just eating ramen.
+Dialogue: 0,0:21:15.99,0:21:17.99,Default,,0000,0000,0000,,Oh, Pervy Sage!
+Dialogue: 0,0:21:22.95,0:21:26.91,Default,,0000,0000,0000,,A cycle of hardship, right?
+Dialogue: 0,0:21:27.87,0:21:31.87,Default,,0000,0000,0000,,Inside, we were crying, right?
+Dialogue: 0,0:21:32.99,0:21:41.12,Default,,0000,0000,0000,,But the one thing we won't give up\Nis the dream we've chosen, right?
+Dialogue: 0,0:21:41.99,0:21:44.04,Default,,0000,0000,0000,,It's a secondary role,
+Dialogue: 0,0:21:46.95,0:21:49.99,Default,,0000,0000,0000,,a role in the shadows
+Dialogue: 0,0:21:50.29,0:21:55.25,Default,,0000,0000,0000,,But in reaching for that dream,
+Dialogue: 0,0:21:55.37,0:22:00.99,Default,,0000,0000,0000,,let us stay centered,\Nlet us stay true
+Dialogue: 0,0:22:01.12,0:22:06.04,Default,,0000,0000,0000,,Over and over,\Nwe hung on without giving up
+Dialogue: 0,0:22:06.08,0:22:11.00,Default,,0000,0000,0000,,Over and over,\Nwe kept coming back up
+Dialogue: 0,0:22:11.04,0:22:20.29,Default,,0000,0000,0000,,Over and over,\Nwe believed and dreamed
+Dialogue: 0,0:22:20.79,0:22:25.99,Default,,0000,0000,0000,,Over and over,\Nwe've seen fools
+Dialogue: 0,0:22:50.99,0:22:52.08,Default,,0000,0000,0000,,Itachi Uchiha…
+Dialogue: 0,0:22:52.99,0:22:55.04,Default,,0000,0000,0000,,who became a leader of\NAnbu Black Ops at the age of thirteen
+Dialogue: 0,0:22:55.66,0:22:58.83,Default,,0000,0000,0000,,and who destroyed\Nthe Uchiha clan single-handedly.
+Dialogue: 0,0:22:59.99,0:23:03.04,Default,,0000,0000,0000,,I don’t know why he has\Nsuddenly appeared after all this time…
+Dialogue: 0,0:23:03.58,0:23:07.12,Default,,0000,0000,0000,,But I don’t think we will\Nallow him to leave so easily.
+Dialogue: 0,0:23:08.70,0:23:12.04,Default,,0000,0000,0000,,What is your purpose?!
+Dialogue: 0,0:23:13.99,0:23:16.70,Default,,0000,0000,0000,,Next time: “Sharingan vs. Sharingan!”

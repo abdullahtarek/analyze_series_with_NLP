@@ -1,0 +1,276 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.99,0:00:21.54,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.58,0:00:26.29,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.33,0:00:28.99,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:28.99,0:00:31.58,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.62,0:00:36.08,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.12,0:00:45.99,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.25,0:00:55.41,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.33,0:01:06.20,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.37,0:01:15.79,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.29,0:01:20.95,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:02:10.29,0:02:11.08,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:02:36.95,0:02:37.87,Default,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:02:52.66,0:02:57.58,Default,,0000,0000,0000,,It was you…?\NYou killed him, didn’t you?
+Dialogue: 0,0:02:58.54,0:03:01.00,Default,,0000,0000,0000,,N-No… I don’t know anything…!
+Dialogue: 0,0:03:16.04,0:03:17.62,Default,,0000,0000,0000,,The Cursed Warrior…?
+Dialogue: 0,0:03:20.99,0:03:25.16,Default,,0000,0000,0000,,The Cursed Warrior
+Dialogue: 0,0:03:31.58,0:03:35.58,Default,,0000,0000,0000,,Old man’s…snot!
+Dialogue: 0,0:03:38.04,0:03:42.50,Default,,0000,0000,0000,,I just can’t get myself into\Ntraining doing it alone…
+Dialogue: 0,0:03:44.75,0:03:48.00,Default,,0000,0000,0000,,I wonder if we won’t get a mission\Nconnected to Sasuke or something.
+Dialogue: 0,0:03:56.00,0:03:59.87,Default,,0000,0000,0000,,The Land of Birds?\NFrom such a remote land…
+Dialogue: 0,0:04:00.16,0:04:02.12,Default,,0000,0000,0000,,That’s what’s troubling us.
+Dialogue: 0,0:04:03.12,0:04:07.25,Default,,0000,0000,0000,,The “Cursed Warrior” apparition has been\Ndisturbing the castle town
+Dialogue: 0,0:04:07.29,0:04:09.04,Default,,0000,0000,0000,,and misleading the public, huh?
+Dialogue: 0,0:04:10.33,0:04:12.79,Default,,0000,0000,0000,,So they want us to exterminate a ghost?
+Dialogue: 0,0:04:12.99,0:04:16.16,Default,,0000,0000,0000,,I declined once saying\Nwe can’t go so far
+Dialogue: 0,0:04:16.20,0:04:18.95,Default,,0000,0000,0000,,as to accept the extermination\Nof a ghost, but…
+Dialogue: 0,0:04:27.25,0:04:32.12,Default,,0000,0000,0000,,I must have you accept this at any cost.\NPlease accept!
+Dialogue: 0,0:04:38.41,0:04:40.58,Default,,0000,0000,0000,,Is it because the money isn’t enough?
+Dialogue: 0,0:04:41.37,0:04:44.12,Default,,0000,0000,0000,,We in the Land of Birds are\Nexperiencing financial difficulties.
+Dialogue: 0,0:04:44.16,0:04:46.87,Default,,0000,0000,0000,,Even this is the very limit\Nthe budget will allow…
+Dialogue: 0,0:04:47.00,0:04:48.87,Default,,0000,0000,0000,,It’s not an issue of money.
+Dialogue: 0,0:04:49.25,0:04:51.04,Default,,0000,0000,0000,,In other words,\Nit’s the mission details.
+Dialogue: 0,0:04:52.83,0:04:53.99,Default,,0000,0000,0000,,Be that as it may,
+Dialogue: 0,0:04:53.99,0:04:56.99,Default,,0000,0000,0000,,indeed there isn’t even enough to\Ncover travel expenses with this amount…
+Dialogue: 0,0:04:57.99,0:04:58.99,Default,,0000,0000,0000,,Now that things have come\Nto this pass…
+Dialogue: 0,0:04:59.37,0:05:01.50,Default,,0000,0000,0000,,I shall commit harakiri…!
+Dialogue: 0,0:05:02.99,0:05:03.99,Default,,0000,0000,0000,,Don’t be hasty!
+Dialogue: 0,0:05:04.16,0:05:05.58,Default,,0000,0000,0000,,Yikes!
+Dialogue: 0,0:05:15.54,0:05:17.70,Default,,0000,0000,0000,,It’s the little bit of pocket money\NI have saved up.
+Dialogue: 0,0:05:18.04,0:05:21.99,Default,,0000,0000,0000,,I’ll pay out of my own pocket.\NSo with this, please…!
+Dialogue: 0,0:05:31.99,0:05:33.54,Default,,0000,0000,0000,,And that’s why you accepted it?
+Dialogue: 0,0:05:33.58,0:05:35.04,Default,,0000,0000,0000,,It’s indulgent even for me…
+Dialogue: 0,0:05:35.50,0:05:39.66,Default,,0000,0000,0000,,Nonetheless, most of the\NJonin and Chunin are out on missions.
+Dialogue: 0,0:05:40.04,0:05:42.12,Default,,0000,0000,0000,,I was thinking of how to handle this…
+Dialogue: 0,0:05:46.25,0:05:48.62,Default,,0000,0000,0000,,I guess someone’s talking about you.
+Dialogue: 0,0:05:48.87,0:05:52.62,Default,,0000,0000,0000,,Everyone’s busy with missions,\Nso they don’t have time for such things.
+Dialogue: 0,0:06:04.41,0:06:05.75,Default,,0000,0000,0000,,Who’s that guy…?
+Dialogue: 0,0:06:05.79,0:06:08.12,Default,,0000,0000,0000,,He’s been like that since earlier.
+Dialogue: 0,0:06:17.75,0:06:21.00,Default,,0000,0000,0000,,Even tasty ramen won’t go down the throat\Nright being watched like that!
+Dialogue: 0,0:06:21.37,0:06:23.00,Default,,0000,0000,0000,,Come inside and eat if you’re hungry!
+Dialogue: 0,0:06:23.45,0:06:25.04,Default,,0000,0000,0000,,No, I’m not hungry…
+Dialogue: 0,0:06:40.99,0:06:42.99,Default,,0000,0000,0000,,So? Tasty, huh?
+Dialogue: 0,0:06:44.20,0:06:44.99,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:06:46.50,0:06:47.33,Default,,0000,0000,0000,,Thanks for your business.
+Dialogue: 0,0:06:47.37,0:06:49.37,Default,,0000,0000,0000,,Come back and have Naruto\Ntreat you again…
+Dialogue: 0,0:06:50.99,0:06:53.54,Default,,0000,0000,0000,,Again and again like that?\NGive me a break.
+Dialogue: 0,0:06:53.99,0:06:57.50,Default,,0000,0000,0000,,Thank you for treating me.\Nln appreciation…
+Dialogue: 0,0:06:57.54,0:07:00.54,Default,,0000,0000,0000,,N-No, you don’t need to worry about it…
+Dialogue: 0,0:07:00.91,0:07:02.99,Default,,0000,0000,0000,,But hey, what’s your name?
+Dialogue: 0,0:07:03.45,0:07:05.83,Default,,0000,0000,0000,,You’re not a familiar face\Nfrom this village…
+Dialogue: 0,0:07:06.25,0:07:09.70,Default,,0000,0000,0000,,Yes, my name is Chishima and\NI have come from the Land of Birds.
+Dialogue: 0,0:07:10.29,0:07:12.95,Default,,0000,0000,0000,,I came to the Village Hidden in\Nthe Leaves to commission a mission…
+Dialogue: 0,0:07:13.00,0:07:16.29,Default,,0000,0000,0000,,You’re flat broke even though\Nyou came as a messenger of your land?
+Dialogue: 0,0:07:17.37,0:07:18.99,Default,,0000,0000,0000,,There wasn’t enough money\Nfor the commission,
+Dialogue: 0,0:07:18.99,0:07:20.95,Default,,0000,0000,0000,,so I even used up\Nmy own pocket money…
+Dialogue: 0,0:07:20.99,0:07:24.45,Default,,0000,0000,0000,,Then it must be\Na very important mission, huh?
+Dialogue: 0,0:07:25.87,0:07:29.45,Default,,0000,0000,0000,,It might even cost an important friend\Nof mine’s very life…
+Dialogue: 0,0:07:29.83,0:07:33.25,Default,,0000,0000,0000,,Your friend…?\NWhat the heck do you mean?
+Dialogue: 0,0:07:35.95,0:07:37.66,Default,,0000,0000,0000,,Ever since I was little,
+Dialogue: 0,0:07:37.70,0:07:41.16,Default,,0000,0000,0000,,I was raised like a brother with Lord Sagi,\Nthe feudal lord of the Land of Birds…
+Dialogue: 0,0:07:41.62,0:07:44.54,Default,,0000,0000,0000,,You’re friends with a feudal lord?!
+Dialogue: 0,0:07:44.99,0:07:46.00,Default,,0000,0000,0000,,I said feudal lord,
+Dialogue: 0,0:07:46.04,0:07:50.91,Default,,0000,0000,0000,,but he was only just appointed last year\Nand actually he’s the same age as me.
+Dialogue: 0,0:07:51.79,0:07:55.20,Default,,0000,0000,0000,,No kidding?\NThen he’s a totally young feudal lord.
+Dialogue: 0,0:07:55.41,0:08:01.54,Default,,0000,0000,0000,,Y-Yes… The previous feudal lord,\Nhis father Lord Owashi died from illness
+Dialogue: 0,0:08:01.99,0:08:05.25,Default,,0000,0000,0000,,and after that he even lost his twin sister…
+Dialogue: 0,0:08:06.16,0:08:07.29,Default,,0000,0000,0000,,Ever since then,
+Dialogue: 0,0:08:07.33,0:08:11.75,Default,,0000,0000,0000,,Lord Sagi, who was so cheerful,\Nhas become a totally different person…
+Dialogue: 0,0:08:11.95,0:08:15.16,Default,,0000,0000,0000,,He wouldn’t show his face\Neven if I visited…
+Dialogue: 0,0:08:18.91,0:08:22.20,Default,,0000,0000,0000,,I’m worried about him as\Na friend rather than a feudal lord.
+Dialogue: 0,0:08:23.04,0:08:26.62,Default,,0000,0000,0000,,I was thinking something might\Nhave happened to him…
+Dialogue: 0,0:08:27.50,0:08:29.12,Default,,0000,0000,0000,,So if there is something\NI can do,
+Dialogue: 0,0:08:29.54,0:08:32.08,Default,,0000,0000,0000,,I want to do whatever I can,\Nas a friend…
+Dialogue: 0,0:08:33.58,0:08:39.99,Default,,0000,0000,0000,,I couldn’t…save Sasuke.\NBut this guy’s still…
+Dialogue: 0,0:08:40.45,0:08:42.12,Default,,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:08:42.45,0:08:43.04,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:43.99,0:08:46.45,Default,,0000,0000,0000,,Let’s save your friend!
+Dialogue: 0,0:08:47.62,0:08:48.25,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:08:54.33,0:08:56.99,Default,,0000,0000,0000,,Old Lady Tsunade! You’re mean!
+Dialogue: 0,0:08:58.33,0:09:02.75,Default,,0000,0000,0000,,Listen, you could at least knock\Nwhen entering my office.
+Dialogue: 0,0:09:02.91,0:09:07.25,Default,,0000,0000,0000,,More importantly! What do you mean\Nby fleecing bro of his pocket money
+Dialogue: 0,0:09:07.29,0:09:09.45,Default,,0000,0000,0000,,and then not accepting the mission?!
+Dialogue: 0,0:09:09.83,0:09:10.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:11.00,0:09:15.75,Default,,0000,0000,0000,,People call stuff like that devilish!\NYou old lady devil!
+Dialogue: 0,0:09:17.75,0:09:19.16,Default,,0000,0000,0000,,Try saying that again!
+Dialogue: 0,0:09:20.41,0:09:21.79,Default,,0000,0000,0000,,I’m sorry!
+Dialogue: 0,0:09:25.79,0:09:29.12,Default,,0000,0000,0000,,I wonder if Naruto…is okay…
+Dialogue: 0,0:09:29.83,0:09:31.45,Default,,0000,0000,0000,,He’ll be fine.
+Dialogue: 0,0:09:32.08,0:09:33.99,Default,,0000,0000,0000,,You’ve gotten to know a good guy…
+Dialogue: 0,0:09:34.99,0:09:37.20,Default,,0000,0000,0000,,He may not look it,\Nbut he’s quite dependable.
+Dialogue: 0,0:09:37.87,0:09:38.58,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:40.12,0:09:41.75,Default,,0000,0000,0000,,R-Right…
+Dialogue: 0,0:09:42.75,0:09:44.87,Default,,0000,0000,0000,,Who said I wouldn’t accept the mission?
+Dialogue: 0,0:09:45.16,0:09:49.95,Default,,0000,0000,0000,,Oh, I see. So you were waiting for Neji\Nto finish his mission and come back.
+Dialogue: 0,0:09:50.33,0:09:51.54,Default,,0000,0000,0000,,Half-cocked jerk.
+Dialogue: 0,0:09:54.41,0:09:56.62,Default,,0000,0000,0000,,Lee is on a mission with Guy.
+Dialogue: 0,0:09:57.12,0:10:02.50,Default,,0000,0000,0000,,You and Tenten will form a three-man team\Nwith Neji as the leader, got it?
+Dialogue: 0,0:10:04.41,0:10:07.58,Default,,0000,0000,0000,,Then did you hear from that kid\Nabout the mission details?
+Dialogue: 0,0:10:07.95,0:10:10.20,Default,,0000,0000,0000,,Well actually, not yet…
+Dialogue: 0,0:10:13.00,0:10:14.54,Default,,0000,0000,0000,,It’s the extermination of a ghost.
+Dialogue: 0,0:10:16.25,0:10:17.37,Default,,0000,0000,0000,,A ghost?
+Dialogue: 0,0:10:17.99,0:10:20.75,Default,,0000,0000,0000,,It seems that it appears when\Nyou’re walking through town at night…
+Dialogue: 0,0:10:21.50,0:10:24.29,Default,,0000,0000,0000,,A ghost clad in white armor.
+Dialogue: 0,0:10:26.41,0:10:27.45,Default,,0000,0000,0000,,That’s what you’ll…
+Dialogue: 0,0:10:30.75,0:10:34.99,Default,,0000,0000,0000,,I-I didn’t hear anything about a ghost…
+Dialogue: 0,0:10:35.33,0:10:37.16,Default,,0000,0000,0000,,Are you scared of it?
+Dialogue: 0,0:10:37.99,0:10:41.54,Default,,0000,0000,0000,,I’m not scared. I couldn’t be a Ninja\Nif I got scared at stuff like that!
+Dialogue: 0,0:10:45.50,0:10:48.70,Default,,0000,0000,0000,,But does Ninjutsu work on ghosts?
+Dialogue: 0,0:10:48.99,0:10:50.41,Default,,0000,0000,0000,,Who knows…?
+Dialogue: 0,0:10:51.50,0:10:53.54,Default,,0000,0000,0000,,Try testing it out yourself.
+Dialogue: 0,0:11:07.00,0:11:09.33,Default,,0000,0000,0000,,Jeez, why didn’t you say at the start
+Dialogue: 0,0:11:09.37,0:11:12.00,Default,,0000,0000,0000,,that it was a commission\Nto exterminate a ghost?!
+Dialogue: 0,0:11:12.66,0:11:14.00,Default,,0000,0000,0000,,I didn’t tell you?
+Dialogue: 0,0:11:14.66,0:11:19.99,Default,,0000,0000,0000,,Not even a word.\NBut that’s just a rumor anyway, right?
+Dialogue: 0,0:11:20.41,0:11:21.99,Default,,0000,0000,0000,,I haven’t seen it, but…
+Dialogue: 0,0:11:22.58,0:11:23.99,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:11:24.45,0:11:28.99,Default,,0000,0000,0000,,But it seems my master,\NLord Moso, saw it close up.
+Dialogue: 0,0:11:29.79,0:11:31.00,Default,,0000,0000,0000,,F-For real?!
+Dialogue: 0,0:11:31.95,0:11:35.25,Default,,0000,0000,0000,,The Land of Birds, huh…?\NThat’s sure far…
+Dialogue: 0,0:11:40.08,0:11:43.70,Default,,0000,0000,0000,,Village Hidden in the Leaves
+Dialogue: 0,0:11:44.91,0:11:46.62,Default,,0000,0000,0000,,Land of Birds
+Dialogue: 0,0:12:31.83,0:12:33.99,Default,,0000,0000,0000,,Umm, is there more…?
+Dialogue: 0,0:12:34.45,0:12:36.99,Default,,0000,0000,0000,,You sure eat a lot considering\Nyou’re thin.
+Dialogue: 0,0:12:37.79,0:12:40.99,Default,,0000,0000,0000,,I’m sorry. I’m often called\Na skinny voracious eater.
+Dialogue: 0,0:12:42.99,0:12:47.83,Default,,0000,0000,0000,,Hey, by the way, is there really such\Na thing as the Cursed Warrior?
+Dialogue: 0,0:12:48.16,0:12:49.58,Default,,0000,0000,0000,,There are people who say
+Dialogue: 0,0:12:49.62,0:12:52.00,Default,,0000,0000,0000,,it’s the disembodied spirit of\Nthe previous feudal lord, Lord Owashi.
+Dialogue: 0,0:12:52.95,0:12:55.25,Default,,0000,0000,0000,,The disembodied spirit of\Na dead feudal lord…
+Dialogue: 0,0:12:57.50,0:12:58.99,Default,,0000,0000,0000,,Rather than ghosts,
+Dialogue: 0,0:12:58.99,0:13:02.04,Default,,0000,0000,0000,,tell us a little more about\Nthe Land of Birds.
+Dialogue: 0,0:13:02.99,0:13:03.99,Default,,0000,0000,0000,,Sure…
+Dialogue: 0,0:13:03.99,0:13:07.62,Default,,0000,0000,0000,,The capitol of the Land of Birds\Nstretches across the banks of the lake
+Dialogue: 0,0:13:07.66,0:13:09.12,Default,,0000,0000,0000,,where migratory birds rest…
+Dialogue: 0,0:13:10.37,0:13:12.95,Default,,0000,0000,0000,,It was a peaceful town with\Nlots of green
+Dialogue: 0,0:13:12.99,0:13:16.29,Default,,0000,0000,0000,,and where water from the lake would\Nbe drawn into the canals…
+Dialogue: 0,0:13:16.54,0:13:20.87,Default,,0000,0000,0000,,However, after the sudden death of\Nthe previous feudal lord,
+Dialogue: 0,0:13:20.91,0:13:22.33,Default,,0000,0000,0000,,there was much uproar.
+Dialogue: 0,0:13:22.99,0:13:26.99,Default,,0000,0000,0000,,His son Lord Sagi and Lord Komei,\Nthe tactician from previously,
+Dialogue: 0,0:13:26.99,0:13:29.58,Default,,0000,0000,0000,,were nominated to be\Nthe next feudal lord…
+Dialogue: 0,0:13:30.54,0:13:33.50,Default,,0000,0000,0000,,But Lord Komei thought Lord Sagi\Nwas still too young
+Dialogue: 0,0:13:33.54,0:13:36.12,Default,,0000,0000,0000,,and was vehemently opposed\Nto him assuming the feudal lordship.
+Dialogue: 0,0:13:37.37,0:13:40.50,Default,,0000,0000,0000,,But in the end, Lord Sagi\Ntook the seat of feudal lord
+Dialogue: 0,0:13:40.54,0:13:42.99,Default,,0000,0000,0000,,and the matter was closed\Nwith Moso the high priest
+Dialogue: 0,0:13:42.99,0:13:46.00,Default,,0000,0000,0000,,providing tutelage as\Na superintendent official…
+Dialogue: 0,0:13:50.62,0:13:53.25,Default,,0000,0000,0000,,However, before even half\Na year passed,
+Dialogue: 0,0:13:53.29,0:13:56.04,Default,,0000,0000,0000,,Lady Toki, his twin sister,\Ndied suddenly…
+Dialogue: 0,0:14:05.37,0:14:07.99,Default,,0000,0000,0000,,After that, Lord Sagi\Nwho was so cheerful
+Dialogue: 0,0:14:08.00,0:14:10.99,Default,,0000,0000,0000,,turned into a totally different person,\Nbecame coldhearted
+Dialogue: 0,0:14:10.99,0:14:14.99,Default,,0000,0000,0000,,and he now conducts governmental\Nmatters confined in his mansion…
+Dialogue: 0,0:14:16.62,0:14:17.75,Default,,0000,0000,0000,,From about that time,
+Dialogue: 0,0:14:17.79,0:14:21.04,Default,,0000,0000,0000,,the “Cursed Warrior” began appearing\Nin the castle town…
+Dialogue: 0,0:14:22.29,0:14:26.95,Default,,0000,0000,0000,,Those in the castle town say\Nthat Lord Owashi was killed by someone…
+Dialogue: 0,0:14:28.16,0:14:30.04,Default,,0000,0000,0000,,There are even those who say\Nthat the Cursed Warrior
+Dialogue: 0,0:14:30.08,0:14:32.70,Default,,0000,0000,0000,,is the ghost of Lord Owashi\Nsearching for the person
+Dialogue: 0,0:14:32.75,0:14:36.62,Default,,0000,0000,0000,,who drove him to death and is attempting\Nto have his revenge…
+Dialogue: 0,0:14:37.54,0:14:38.99,Default,,0000,0000,0000,,That’s scary…
+Dialogue: 0,0:14:40.20,0:14:42.66,Default,,0000,0000,0000,,There’s no such thing as ghosts.
+Dialogue: 0,0:14:43.54,0:14:44.41,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:14:44.62,0:14:47.08,Default,,0000,0000,0000,,That priest Moso is the one
+Dialogue: 0,0:14:47.12,0:14:48.99,Default,,0000,0000,0000,,who gained the most\Nfrom Owashi’s death, huh…?
+Dialogue: 0,0:14:49.08,0:14:52.62,Default,,0000,0000,0000,,Lord Moso is a magnificent person\Nof virtue with no self-interests!
+Dialogue: 0,0:14:53.20,0:14:55.29,Default,,0000,0000,0000,,Then the suspicious one is…
+Dialogue: 0,0:14:55.37,0:14:58.33,Default,,0000,0000,0000,,The only one left is Komei the tactician!
+Dialogue: 0,0:14:58.70,0:15:00.87,Default,,0000,0000,0000,,I bet he assassinated Owashi
+Dialogue: 0,0:15:00.91,0:15:03.66,Default,,0000,0000,0000,,in an attempt to become\Nthe feudal lord, but failed!
+Dialogue: 0,0:15:04.54,0:15:07.20,Default,,0000,0000,0000,,He has complained whenever\Nopportunity offered itself,
+Dialogue: 0,0:15:07.25,0:15:08.99,Default,,0000,0000,0000,,after Lord Sagi became\Nthe feudal lord as well!
+Dialogue: 0,0:15:09.16,0:15:11.99,Default,,0000,0000,0000,,A tactic like tormenting Lord Sagi\Nby starting the rumor
+Dialogue: 0,0:15:11.99,0:15:15.50,Default,,0000,0000,0000,,about the Cursed Warrior might be\Na piece of cake for Lord Komei…!
+Dialogue: 0,0:15:16.04,0:15:18.45,Default,,0000,0000,0000,,All right! There’s no doubt.
+Dialogue: 0,0:15:18.70,0:15:22.16,Default,,0000,0000,0000,,It’s settled. The true identity of\Nthe Cursed Warrior is Komei!
+Dialogue: 0,0:15:23.37,0:15:25.37,Default,,0000,0000,0000,,The true identity of the ghost\Nis revealed, huh…?
+Dialogue: 0,0:15:45.25,0:15:48.99,Default,,0000,0000,0000,,Lord Komei, there was nothing unusual\Non the scheduled patrol.
+Dialogue: 0,0:15:54.41,0:15:55.99,Default,,0000,0000,0000,,You may step down…
+Dialogue: 0,0:15:55.99,0:15:56.99,Default,,0000,0000,0000,,Yes, sire.
+Dialogue: 0,0:16:54.33,0:16:55.99,Default,,0000,0000,0000,,Aren’t we at our destination yet?!
+Dialogue: 0,0:16:56.12,0:16:58.70,Default,,0000,0000,0000,,Just a little further until\NLord Moso’s residence.
+Dialogue: 0,0:17:05.25,0:17:06.79,Default,,0000,0000,0000,,Where is he?! This way?
+Dialogue: 0,0:17:07.70,0:17:08.70,Default,,0000,0000,0000,,Where did he go?!
+Dialogue: 0,0:17:09.12,0:17:10.99,Default,,0000,0000,0000,,Th-There he is!
+Dialogue: 0,0:17:12.37,0:17:14.12,Default,,0000,0000,0000,,Get him! Drag him down!
+Dialogue: 0,0:17:20.37,0:17:21.87,Default,,0000,0000,0000,,Cursed Warrior!
+Dialogue: 0,0:17:25.41,0:17:26.62,Default,,0000,0000,0000,,He vanished.
+Dialogue: 0,0:17:27.99,0:17:29.99,Default,,0000,0000,0000,,Lord Komei! Are you all right?!
+Dialogue: 0,0:17:32.12,0:17:34.83,Default,,0000,0000,0000,,I’m fine. Don’t panic!
+Dialogue: 0,0:17:39.99,0:17:40.91,Default,,0000,0000,0000,,What’s that?!
+Dialogue: 0,0:17:49.16,0:17:50.12,Default,,0000,0000,0000,,It’s flying?!
+Dialogue: 0,0:17:54.00,0:17:57.08,Default,,0000,0000,0000,,Clad in white armor,\Npossesses a halberd,
+Dialogue: 0,0:17:57.87,0:18:00.62,Default,,0000,0000,0000,,and wears a mask with\Na frightening look…
+Dialogue: 0,0:18:00.99,0:18:03.99,Default,,0000,0000,0000,,There’s no doubt…\Nlt’s the Cursed Warrior!
+Dialogue: 0,0:18:04.29,0:18:05.08,Default,,0000,0000,0000,,After him!
+Dialogue: 0,0:18:06.66,0:18:09.66,Default,,0000,0000,0000,,Are you going to ride on\Nmy shoulders forever?
+Dialogue: 0,0:18:09.99,0:18:13.70,Default,,0000,0000,0000,,Wait here! I’ll pin down\Nthe true identity of the ghost!
+Dialogue: 0,0:18:13.99,0:18:15.50,Default,,0000,0000,0000,,Huh? R-Right…
+Dialogue: 0,0:18:31.12,0:18:32.54,Default,,0000,0000,0000,,Where’d he go?!
+Dialogue: 0,0:18:32.70,0:18:33.54,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:18:51.50,0:18:52.20,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:19:02.66,0:19:03.37,Default,,0000,0000,0000,,I can’t see him…
+Dialogue: 0,0:19:04.91,0:19:06.33,Default,,0000,0000,0000,,What does that mean?!
+Dialogue: 0,0:19:06.75,0:19:09.37,Default,,0000,0000,0000,,There’s no human presence in here…
+Dialogue: 0,0:19:10.83,0:19:13.33,Default,,0000,0000,0000,,At least, a living presence…
+Dialogue: 0,0:19:13.62,0:19:16.99,Default,,0000,0000,0000,,Wh-Why do you put it that way…?
+Dialogue: 0,0:19:17.54,0:19:19.99,Default,,0000,0000,0000,,Shh! Didn’t you hear\Nsomething just now?
+Dialogue: 0,0:19:28.83,0:19:32.04,Default,,0000,0000,0000,,I thought you didn’t feel\Na human presence!
+Dialogue: 0,0:19:33.54,0:19:35.91,Default,,0000,0000,0000,,I told you…living presence.
+Dialogue: 0,0:19:42.91,0:19:45.16,Default,,0000,0000,0000,,Wh-What do you want?!
+Dialogue: 0,0:19:45.87,0:19:46.99,Default,,0000,0000,0000,,Damn it, damn it.
+Dialogue: 0,0:19:48.66,0:19:49.62,Default,,0000,0000,0000,,You little!
+Dialogue: 0,0:19:53.20,0:19:54.58,Default,,0000,0000,0000,,Chain Weight!
+Dialogue: 0,0:20:08.99,0:20:12.33,Default,,0000,0000,0000,,Th-There can’t be something like ghosts.\NNo such things as ghosts!
+Dialogue: 0,0:20:12.99,0:20:14.99,Default,,0000,0000,0000,,Stop, Naruto! He’s…!
+Dialogue: 0,0:20:16.00,0:20:18.08,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:20:24.41,0:20:24.99,Default,,0000,0000,0000,,U!
+Dialogue: 0,0:20:25.00,0:20:25.70,Default,,0000,0000,0000,,Zu!
+Dialogue: 0,0:20:25.75,0:20:26.33,Default,,0000,0000,0000,,Ma!
+Dialogue: 0,0:20:26.37,0:20:26.99,Default,,0000,0000,0000,,Ki!
+Dialogue: 0,0:20:30.54,0:20:32.16,Default,,0000,0000,0000,,Naruto Barrage!
+Dialogue: 0,0:20:47.33,0:20:51.20,Default,,0000,0000,0000,,Yes!  Now I’ll verify the true identity!
+Dialogue: 0,0:20:55.20,0:20:55.99,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:21:00.04,0:21:02.99,Default,,0000,0000,0000,,The insides are empty.
+Dialogue: 0,0:21:04.83,0:21:06.33,Default,,0000,0000,0000,,That means…
+Dialogue: 0,0:21:09.66,0:21:12.99,Default,,0000,0000,0000,,it’s a real ghost!
+Dialogue: 0,0:21:29.99,0:21:40.99,Default,,0000,0000,0000,,So many things happen\Non this endless road, huh?
+Dialogue: 0,0:21:41.54,0:21:52.66,Default,,0000,0000,0000,,Although you’re strong-willed,\Nyour voice wavered on the phone today
+Dialogue: 0,0:21:53.29,0:22:03.99,Default,,0000,0000,0000,,What dreams did you chase to get here?
+Dialogue: 0,0:22:04.29,0:22:16.08,Default,,0000,0000,0000,,Even I have times when\NI just don’t understand, baby
+Dialogue: 0,0:22:16.25,0:22:27.62,Default,,0000,0000,0000,,When you’re sad, I’ll be close to you
+Dialogue: 0,0:22:27.87,0:22:39.04,Default,,0000,0000,0000,,Even on nights when we’re apart,\NI’ll be close to you
+Dialogue: 0,0:22:39.33,0:22:44.99,Default,,0000,0000,0000,,I’ll be close to you
+Dialogue: 0,0:22:50.12,0:22:52.91,Default,,0000,0000,0000,,So that’s Sagi,\Nthe feudal lord of this land, huh?
+Dialogue: 0,0:22:53.87,0:22:56.16,Default,,0000,0000,0000,,He’s far away,\Nbut he might be quite cool.
+Dialogue: 0,0:22:56.20,0:22:57.58,Default,,0000,0000,0000,,Shh, be quiet!
+Dialogue: 0,0:22:57.66,0:22:58.99,Default,,0000,0000,0000,,What is it, Neji?
+Dialogue: 0,0:22:59.16,0:23:01.99,Default,,0000,0000,0000,,Something’s strange.\NWhat’s with this blood thirst?
+Dialogue: 0,0:23:02.04,0:23:04.99,Default,,0000,0000,0000,,What? Bloodthirsty?\NCould it be assassins?
+Dialogue: 0,0:23:05.16,0:23:09.12,Default,,0000,0000,0000,,They might be Shinobi.\Nls everyone ready?!
+Dialogue: 0,0:23:09.25,0:23:10.04,Default,,0000,0000,0000,,– Yeah. 					– Yeah.
+Dialogue: 0,0:23:10.20,0:23:12.83,Default,,0000,0000,0000,,I’ll protect the feudal lord!
+Dialogue: 0,0:23:13.16,0:23:15.87,Default,,0000,0000,0000,,Next: “The Tactician’s Intent.”

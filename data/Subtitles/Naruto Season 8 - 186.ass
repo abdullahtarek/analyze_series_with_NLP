@@ -1,0 +1,379 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.12,0:00:03.49,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.49,0:00:06.33,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.37,0:00:12.45,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.83,0:00:28.75,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.79,0:00:34.29,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.33,0:00:36.91,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:36.95,0:00:40.49,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.49,0:00:44.95,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.49,0:00:51.50,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.00,0:00:56.54,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.58,0:01:02.16,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.20,0:01:07.49,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.49,0:01:10.62,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.66,0:01:19.49,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:42.37,0:01:46.00,Default,,0000,0000,0000,,Laughing Shino
+Dialogue: 0,0:01:47.45,0:01:50.49,Default,,0000,0000,0000,,Shino! 					Let’s rest a little!
+Dialogue: 0,0:01:50.87,0:01:54.45,Default,,0000,0000,0000,,I’m tired from doing nothing but\Nwalk since this morning, believe it!
+Dialogue: 0,0:01:55.62,0:01:57.95,Default,,0000,0000,0000,,You’re okay while\Nyou can say you are tired.
+Dialogue: 0,0:01:58.29,0:02:01.49,Default,,0000,0000,0000,,It’s because you still have\Nenergy left to talk.
+Dialogue: 0,0:02:02.49,0:02:04.08,Default,,0000,0000,0000,,Nothing but quibbling as usual…
+Dialogue: 0,0:02:04.66,0:02:05.54,Default,,0000,0000,0000,,Man, I’m unlucky.
+Dialogue: 0,0:02:05.58,0:02:07.58,Default,,0000,0000,0000,,To be stuck on a mission alone\Nwith Shino.
+Dialogue: 0,0:02:14.75,0:02:15.75,Default,,0000,0000,0000,,Hey, old lady.
+Dialogue: 0,0:02:16.50,0:02:18.49,Default,,0000,0000,0000,,Is Motoyoshi Village still far ahead?
+Dialogue: 0,0:02:19.50,0:02:21.87,Default,,0000,0000,0000,,Are you going to Motoyoshi Village?
+Dialogue: 0,0:02:22.37,0:02:22.95,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:23.49,0:02:26.37,Default,,0000,0000,0000,,Then you’ll be right there\Nonce you cross this path.
+Dialogue: 0,0:02:26.54,0:02:28.58,Default,,0000,0000,0000,,Really? Thank goodness.
+Dialogue: 0,0:02:28.95,0:02:32.45,Default,,0000,0000,0000,,But exercise great caution…
+Dialogue: 0,0:02:32.58,0:02:33.33,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:33.95,0:02:37.00,Default,,0000,0000,0000,,Dead people also laugh\Nin Motoyoshi Village…
+Dialogue: 0,0:02:37.41,0:02:40.20,Default,,0000,0000,0000,,It will be all over if\Nyou’re lured into laughing.
+Dialogue: 0,0:02:49.20,0:02:49.83,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:02:50.79,0:02:51.75,Default,,0000,0000,0000,,It’s Motoyoshi Village.
+Dialogue: 0,0:02:53.00,0:02:56.08,Default,,0000,0000,0000,,We never imagined it at this time…
+Dialogue: 0,0:02:57.41,0:02:59.49,Default,,0000,0000,0000,,To think that in this village…
+Dialogue: 0,0:02:59.49,0:03:03.75,Default,,0000,0000,0000,,an incident too terrifying to\Neven talk about would occur…
+Dialogue: 0,0:03:07.91,0:03:09.49,Default,,0000,0000,0000,,In Mourning
+Dialogue: 0,0:03:22.49,0:03:24.70,Default,,0000,0000,0000,,I’m Futa Kagetsu, the chief mourner.
+Dialogue: 0,0:03:25.33,0:03:26.20,Default,,0000,0000,0000,,I’m Shino Aburame.
+Dialogue: 0,0:03:26.49,0:03:28.45,Default,,0000,0000,0000,,I’m Naruto Uzumaki!
+Dialogue: 0,0:03:29.00,0:03:32.41,Default,,0000,0000,0000,,Will\N		Getting right down to business…
+Dialogue: 0,0:03:32.58,0:03:37.00,Default,,0000,0000,0000,,This is the will of my father,\NTobei Kagetsu.
+Dialogue: 0,0:03:38.49,0:03:39.20,Default,,0000,0000,0000,,What’s this?!
+Dialogue: 0,0:03:40.29,0:03:42.54,Default,,0000,0000,0000,,My eldest son, Futa Kagetsu,
+Dialogue: 0,0:03:42.58,0:03:45.20,Default,,0000,0000,0000,,shall inherit the entire\NKagetsu family estate…
+Dialogue: 0,0:03:45.70,0:03:48.49,Default,,0000,0000,0000,,HOWEVER…
+Dialogue: 0,0:03:49.70,0:03:52.29,Default,,0000,0000,0000,,A funeral is to be held tomorrow\Nin Motoyoshi Village
+Dialogue: 0,0:03:52.33,0:03:55.12,Default,,0000,0000,0000,,for the head of the Kagetsu family\Nthat owns that stretch of mountains.
+Dialogue: 0,0:03:55.66,0:03:57.45,Default,,0000,0000,0000,,I’d like you two to go.
+Dialogue: 0,0:03:58.49,0:04:01.49,Default,,0000,0000,0000,,Funeral security, huh?\NNaruto can’t do it.
+Dialogue: 0,0:04:02.20,0:04:03.49,Default,,0000,0000,0000,,What do you mean?!
+Dialogue: 0,0:04:03.83,0:04:06.04,Default,,0000,0000,0000,,It’s because you have\Nthe most inappropriate face
+Dialogue: 0,0:04:06.08,0:04:07.70,Default,,0000,0000,0000,,in the Leaf Village.
+Dialogue: 0,0:04:07.95,0:04:09.20,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:04:09.37,0:04:10.49,Default,,0000,0000,0000,,I think so as well.
+Dialogue: 0,0:04:11.83,0:04:13.70,Default,,0000,0000,0000,,But there’s nobody else.
+Dialogue: 0,0:04:14.50,0:04:17.08,Default,,0000,0000,0000,,So I reluctantly decided\Nto add Naruto.
+Dialogue: 0,0:04:17.83,0:04:20.49,Default,,0000,0000,0000,,You’ll be the main guy\Non this mission, Shino.
+Dialogue: 0,0:04:22.00,0:04:24.91,Default,,0000,0000,0000,,You're probably the best suited\Nfor this mission.
+Dialogue: 0,0:04:25.29,0:04:25.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:26.16,0:04:26.79,Default,,0000,0000,0000,,As it happens,
+Dialogue: 0,0:04:26.83,0:04:29.49,Default,,0000,0000,0000,,there’s one more important mission\Nin addition to security.
+Dialogue: 0,0:04:30.49,0:04:33.79,Default,,0000,0000,0000,,You’ll understand when\Nyou see the will.
+Dialogue: 0,0:04:33.83,0:04:38.20,Default,,0000,0000,0000,,However, in the event that Futa raises\Nhis voice in laughter at the funeral,
+Dialogue: 0,0:04:38.25,0:04:41.00,Default,,0000,0000,0000,,he shall lose inheriting rights\Nand upon consultation,
+Dialogue: 0,0:04:41.04,0:04:43.58,Default,,0000,0000,0000,,the estate shall be divided up between\Nthe bereaved family members excluding Futa.
+Dialogue: 0,0:04:44.62,0:04:47.33,Default,,0000,0000,0000,,This will doesn’t make any sense at all…
+Dialogue: 0,0:04:47.58,0:04:50.12,Default,,0000,0000,0000,,An abundance of medicinal herbs\Ncan be picked in the mountains
+Dialogue: 0,0:04:50.16,0:04:51.66,Default,,0000,0000,0000,,owned by the Kagetsu family.
+Dialogue: 0,0:04:52.16,0:04:54.12,Default,,0000,0000,0000,,I would have no trouble getting\Nby for the rest of my life
+Dialogue: 0,0:04:54.16,0:04:55.20,Default,,0000,0000,0000,,if I were to inherit the estate.
+Dialogue: 0,0:04:55.49,0:05:00.49,Default,,0000,0000,0000,,But all that will all go down the drain\Njust by laughing at the funeral!
+Dialogue: 0,0:05:00.95,0:05:03.45,Default,,0000,0000,0000,,There’s no doubt that the relatives\Nwill be in a frenzy
+Dialogue: 0,0:05:03.49,0:05:05.91,Default,,0000,0000,0000,,trying to get me to laugh tomorrow.
+Dialogue: 0,0:05:06.49,0:05:07.25,Default,,0000,0000,0000,,To be honest,
+Dialogue: 0,0:05:07.29,0:05:09.16,Default,,0000,0000,0000,,I don’t have the confidence\Nto withstand it.
+Dialogue: 0,0:05:16.49,0:05:18.75,Default,,0000,0000,0000,,But there is one salvation!
+Dialogue: 0,0:05:19.41,0:05:20.25,Default,,0000,0000,0000,,According to the will,
+Dialogue: 0,0:05:20.29,0:05:23.50,Default,,0000,0000,0000,,it’s acceptable if I, the chief mourner,\Nwere to appoint a substitute!
+Dialogue: 0,0:05:23.75,0:05:25.70,Default,,0000,0000,0000,,And so I commissioned the Leaf!
+Dialogue: 0,0:05:26.00,0:05:29.49,Default,,0000,0000,0000,,I asked for someone who\Nabsolutely will not laugh!
+Dialogue: 0,0:05:29.70,0:05:32.33,Default,,0000,0000,0000,,This is no doubt the perfect mission\Nfor Shino.
+Dialogue: 0,0:05:32.49,0:05:34.91,Default,,0000,0000,0000,,I’ve never seen\Nthis guy laugh before.
+Dialogue: 0,0:05:35.16,0:05:37.91,Default,,0000,0000,0000,,Indeed, I leave it to you.
+Dialogue: 0,0:05:38.91,0:05:39.70,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:05:41.75,0:05:44.25,Default,,0000,0000,0000,,Big Brother, dinner’s ready.
+Dialogue: 0,0:05:44.75,0:05:47.04,Default,,0000,0000,0000,,This is my little sister Mai,\Nthe youngest.
+Dialogue: 0,0:05:47.58,0:05:50.49,Default,,0000,0000,0000,,She lived together with\Nmy father in this large home.
+Dialogue: 0,0:05:50.49,0:05:52.70,Default,,0000,0000,0000,,She was also the one at his deathbed\Nduring his final moments.
+Dialogue: 0,0:05:53.49,0:05:56.12,Default,,0000,0000,0000,,Mai, this is Shino and Naruto.
+Dialogue: 0,0:05:56.87,0:05:57.79,Default,,0000,0000,0000,,Nice to meet you…
+Dialogue: 0,0:06:00.75,0:06:02.37,Default,,0000,0000,0000,,Let’s eat!
+Dialogue: 0,0:06:02.75,0:06:03.45,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:06:04.29,0:06:05.62,Default,,0000,0000,0000,,First, I’ll taste for poison.
+Dialogue: 0,0:06:06.16,0:06:07.00,Default,,0000,0000,0000,,Taste for poison…?!
+Dialogue: 0,0:06:07.50,0:06:10.08,Default,,0000,0000,0000,,I don’t think there would be anyone\Namong the relatives
+Dialogue: 0,0:06:10.12,0:06:11.49,Default,,0000,0000,0000,,who would go that far…
+Dialogue: 0,0:06:11.58,0:06:14.37,Default,,0000,0000,0000,,But you can never be too careful.
+Dialogue: 0,0:06:15.08,0:06:16.29,Default,,0000,0000,0000,,You’ve got a point.
+Dialogue: 0,0:06:16.50,0:06:18.54,Default,,0000,0000,0000,,Will you be all right, Shino?
+Dialogue: 0,0:06:19.00,0:06:21.54,Default,,0000,0000,0000,,No problem.\NEven if it did contain poison,
+Dialogue: 0,0:06:22.04,0:06:24.37,Default,,0000,0000,0000,,the Parasitic Insects in\Nmy body will dissolve it for me.
+Dialogue: 0,0:06:25.62,0:06:28.08,Default,,0000,0000,0000,,Parasitic…lnsects?
+Dialogue: 0,0:06:39.37,0:06:40.33,Default,,0000,0000,0000,,How is it?
+Dialogue: 0,0:06:44.49,0:06:45.49,Default,,0000,0000,0000,,It's all right…
+Dialogue: 0,0:06:48.37,0:06:50.50,Default,,0000,0000,0000,,Shino…laughed?!
+Dialogue: 0,0:07:00.45,0:07:05.12,Default,,0000,0000,0000,,He seems to be in very high spirits.\NWhich means the food is fine…
+Dialogue: 0,0:07:05.16,0:07:06.49,Default,,0000,0000,0000,,Don’t eat!
+Dialogue: 0,0:07:07.12,0:07:10.37,Default,,0000,0000,0000,,Shino laughing like\Nthis is definitely strange, believe it!
+Dialogue: 0,0:07:11.83,0:07:14.29,Default,,0000,0000,0000,,There’s a laughing drug in this food!
+Dialogue: 0,0:07:17.83,0:07:19.25,Default,,0000,0000,0000,,Who cooked the food?
+Dialogue: 0,0:07:19.49,0:07:20.29,Default,,0000,0000,0000,,I did.
+Dialogue: 0,0:07:20.66,0:07:23.49,Default,,0000,0000,0000,,But the back door isn’t locked…
+Dialogue: 0,0:07:23.70,0:07:25.58,Default,,0000,0000,0000,,So anyone could get in if they wanted to.
+Dialogue: 0,0:07:27.45,0:07:30.37,Default,,0000,0000,0000,,To think there would be\Nsomeone in the family
+Dialogue: 0,0:07:30.41,0:07:32.12,Default,,0000,0000,0000,,who would go so far as to poison!
+Dialogue: 0,0:07:33.58,0:07:36.20,Default,,0000,0000,0000,,Oh, no…The drug has gotten to the insects!
+Dialogue: 0,0:07:38.12,0:07:40.25,Default,,0000,0000,0000,,No good…\NThey can’t dissolve the drug.
+Dialogue: 0,0:07:40.79,0:07:43.58,Default,,0000,0000,0000,,Then what will we do about\Nthe funeral tomorrow?!
+Dialogue: 0,0:07:45.54,0:07:48.58,Default,,0000,0000,0000,,This is a sight that doesn’t seem\Nof this world, believe it!
+Dialogue: 0,0:07:49.00,0:07:49.58,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:07:50.87,0:07:52.54,Default,,0000,0000,0000,,Even if we were to\Ncontact the village now,
+Dialogue: 0,0:07:52.58,0:07:55.49,Default,,0000,0000,0000,,we wouldn’t be in time…\Nfor the funeral…
+Dialogue: 0,0:07:58.41,0:07:59.29,Default,,0000,0000,0000,,So Naruto!
+Dialogue: 0,0:08:00.66,0:08:01.50,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:08:01.54,0:08:04.45,Default,,0000,0000,0000,,will have to participate in the funeral\Nas the chief mourner’s substitute!
+Dialogue: 0,0:08:06.49,0:08:07.49,Default,,0000,0000,0000,,No way…
+Dialogue: 0,0:08:07.95,0:08:09.08,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:08:10.04,0:08:13.66,Default,,0000,0000,0000,,I’m very uneasy, but I’ll be counting on you.
+Dialogue: 0,0:08:13.95,0:08:17.20,Default,,0000,0000,0000,,I’m also very uneasy, believe it…
+Dialogue: 0,0:08:25.87,0:08:29.08,Default,,0000,0000,0000,,Will you knock it off?! I can’t sleep!
+Dialogue: 0,0:08:33.41,0:08:34.75,Default,,0000,0000,0000,,You’re early, Tsukiko.
+Dialogue: 0,0:08:35.37,0:08:36.66,Default,,0000,0000,0000,,You’re already here, huh?
+Dialogue: 0,0:08:37.29,0:08:41.45,Default,,0000,0000,0000,,It’s dad’s funeral, after all.\NI came here in great haste.
+Dialogue: 0,0:08:44.12,0:08:44.87,Default,,0000,0000,0000,,Who’s that kid?
+Dialogue: 0,0:08:45.41,0:08:48.62,Default,,0000,0000,0000,,This is Naruto whom I’ve asked to\Nbe my substitute as chief mourner
+Dialogue: 0,0:08:48.66,0:08:49.66,Default,,0000,0000,0000,,since I’m not feeling so well.
+Dialogue: 0,0:08:49.70,0:08:50.49,Default,,0000,0000,0000,,Nice to meet you!
+Dialogue: 0,0:08:51.04,0:08:54.49,Default,,0000,0000,0000,,That’s how it’s going to be,\Nso I will be leaving just with the greetings.
+Dialogue: 0,0:08:54.70,0:08:58.12,Default,,0000,0000,0000,,I see. But it sure is a troublesome will.
+Dialogue: 0,0:08:58.49,0:09:01.29,Default,,0000,0000,0000,,To think you can’t inherit the estate\Nif you laugh at the funeral…
+Dialogue: 0,0:09:02.49,0:09:03.70,Default,,0000,0000,0000,,Be careful.
+Dialogue: 0,0:09:05.79,0:09:08.49,Default,,0000,0000,0000,,She’s my immediate younger sister\Nin question, Tsukiko.
+Dialogue: 0,0:09:08.75,0:09:11.45,Default,,0000,0000,0000,,Five years ago,\Nshe married into the next village over…
+Dialogue: 0,0:09:11.87,0:09:15.83,Default,,0000,0000,0000,,But she’s probably the one\Nafter this estate the most.
+Dialogue: 0,0:09:17.49,0:09:20.20,Default,,0000,0000,0000,,That kid will be a cinch.
+Dialogue: 0,0:09:22.54,0:09:26.83,Default,,0000,0000,0000,,Each and every one of them…\Nlooks greedy…
+Dialogue: 0,0:09:35.79,0:09:36.50,Default,,0000,0000,0000,,What’s that…?
+Dialogue: 0,0:09:47.49,0:09:49.33,Default,,0000,0000,0000,,The monk has arrived.
+Dialogue: 0,0:10:02.83,0:10:05.95,Default,,0000,0000,0000,,Why choose a monk like this,\Nof all people?
+Dialogue: 0,0:10:06.00,0:10:07.33,Default,,0000,0000,0000,,I have no knowledge of this!
+Dialogue: 0,0:10:07.37,0:10:09.83,Default,,0000,0000,0000,,It’s a different person from\Nthe monk at the meeting.
+Dialogue: 0,0:10:16.58,0:10:17.58,Default,,0000,0000,0000,,Don’t laugh…
+Dialogue: 0,0:10:17.62,0:10:18.70,Default,,0000,0000,0000,,Don’t laugh…
+Dialogue: 0,0:10:19.95,0:10:22.66,Default,,0000,0000,0000,,Laugh… Laugh… Laugh…
+Dialogue: 0,0:10:23.29,0:10:25.62,Default,,0000,0000,0000,,Now then, allow me to begin.
+Dialogue: 0,0:10:37.12,0:10:37.95,Default,,0000,0000,0000,,What was that sound?
+Dialogue: 0,0:10:38.49,0:10:40.29,Default,,0000,0000,0000,,Wasn’t it the wind blowing?
+Dialogue: 0,0:10:41.45,0:10:44.49,Default,,0000,0000,0000,,Naruto, did you not raise your voice\Nand laugh just now?
+Dialogue: 0,0:10:44.95,0:10:47.49,Default,,0000,0000,0000,,No, I didn’t!\NI didn’t laugh at all, believe it!
+Dialogue: 0,0:10:47.49,0:10:49.33,Default,,0000,0000,0000,,Mai, you heard it, right?
+Dialogue: 0,0:10:49.54,0:10:50.49,Default,,0000,0000,0000,,I don’t know…
+Dialogue: 0,0:10:50.49,0:10:53.49,Default,,0000,0000,0000,,I only heard the sound of\Nbarrels falling over.
+Dialogue: 0,0:10:55.37,0:10:56.49,Default,,0000,0000,0000,,Well, fine.
+Dialogue: 0,0:10:57.49,0:10:59.50,Default,,0000,0000,0000,,The funeral has only just begun.
+Dialogue: 0,0:10:59.54,0:11:02.04,Default,,0000,0000,0000,,There are still plenty of chances…
+Dialogue: 0,0:11:02.49,0:11:05.49,Default,,0000,0000,0000,,After all, the opponent is this kid\Nwith a stupid look.
+Dialogue: 0,0:11:06.49,0:11:07.70,Default,,0000,0000,0000,,I’m saved…
+Dialogue: 0,0:11:13.45,0:11:15.04,Default,,0000,0000,0000,,Shino, huh? Thanks!
+Dialogue: 0,0:11:17.00,0:11:18.49,Default,,0000,0000,0000,,That was a close shave…
+Dialogue: 0,0:11:24.50,0:11:26.49,Default,,0000,0000,0000,,In order, please.
+Dialogue: 0,0:11:27.00,0:11:28.49,Default,,0000,0000,0000,,Then I’ll go first.
+Dialogue: 0,0:11:36.33,0:11:39.16,Default,,0000,0000,0000,,Laugh… Laugh… Laugh…
+Dialogue: 0,0:11:39.49,0:11:42.49,Default,,0000,0000,0000,,No good… He won’t laugh at that...
+Dialogue: 0,0:11:42.87,0:11:44.83,Default,,0000,0000,0000,,I’ll give it one more push.
+Dialogue: 0,0:11:46.37,0:11:47.45,Default,,0000,0000,0000,,Don’t laugh…!
+Dialogue: 0,0:11:47.75,0:11:49.49,Default,,0000,0000,0000,,I must not laugh!
+Dialogue: 0,0:11:50.54,0:11:51.58,Default,,0000,0000,0000,,This kid is nothing.
+Dialogue: 0,0:11:52.41,0:11:55.08,Default,,0000,0000,0000,,I’ll kill him with laughter with\Nthat technique of mine…
+Dialogue: 0,0:11:56.45,0:11:58.33,Default,,0000,0000,0000,,This guy also intends on\Ndoing something, huh?
+Dialogue: 0,0:11:58.49,0:12:01.16,Default,,0000,0000,0000,,No matter what he does,\Nno way will I laugh!
+Dialogue: 0,0:12:05.20,0:12:06.41,Default,,0000,0000,0000,,Kiyoyasu!
+Dialogue: 0,0:12:06.62,0:12:09.62,Default,,0000,0000,0000,,–Kiyoyasu! 					–Kiyoyasu is…
+Dialogue: 0,0:12:09.70,0:12:10.58,Default,,0000,0000,0000,,Here it comes…
+Dialogue: 0,0:12:13.20,0:12:15.49,Default,,0000,0000,0000,,Whatever he hits me with. I…!
+Dialogue: 0,0:12:17.12,0:12:19.25,Default,,0000,0000,0000,,I must not laugh!
+Dialogue: 0,0:12:19.29,0:12:21.95,Default,,0000,0000,0000,,Laugh… Laugh… Laugh…
+Dialogue: 0,0:12:25.70,0:12:26.87,Default,,0000,0000,0000,,A flower came out…
+Dialogue: 0,0:12:27.45,0:12:28.62,Default,,0000,0000,0000,,Don’t laugh…!
+Dialogue: 0,0:12:28.66,0:12:31.75,Default,,0000,0000,0000,,Laugh… Laugh… Laugh…
+Dialogue: 0,0:12:38.95,0:12:42.49,Default,,0000,0000,0000,,Don’t laugh, don’t laugh, don’t laugh…
+Dialogue: 0,0:12:42.49,0:12:44.50,Default,,0000,0000,0000,,Laugh… Laugh… Laugh…
+Dialogue: 0,0:12:45.12,0:12:48.37,Default,,0000,0000,0000,,I won’t laugh…no matter what!
+Dialogue: 0,0:12:48.87,0:12:50.87,Default,,0000,0000,0000,,He’s pretty tough…
+Dialogue: 0,0:12:52.12,0:12:54.87,Default,,0000,0000,0000,,But how long can he hold on for?
+Dialogue: 0,0:12:55.50,0:13:00.70,Default,,0000,0000,0000,,We’ll make him laugh by the time\Nthe funeral ends without fail!
+Dialogue: 0,0:13:09.45,0:13:10.87,Default,,0000,0000,0000,,That…old woman…
+Dialogue: 0,0:13:11.95,0:13:15.12,Default,,0000,0000,0000,,Dead people also laugh\Nin Motoyoshi Village…
+Dialogue: 0,0:13:15.37,0:13:18.49,Default,,0000,0000,0000,,It will be all over if you’re lured\Ninto laughing.
+Dialogue: 0,0:13:19.37,0:13:21.49,Default,,0000,0000,0000,,What’s she doing in a place like this?
+Dialogue: 0,0:13:23.70,0:13:24.49,Default,,0000,0000,0000,,Who’s there?!
+Dialogue: 0,0:13:24.49,0:13:25.20,Default,,0000,0000,0000,,Uh, oh!
+Dialogue: 0,0:13:27.49,0:13:29.45,Default,,0000,0000,0000,,Oh, it’s you Mai…
+Dialogue: 0,0:13:49.49,0:13:54.49,Default,,0000,0000,0000,,With this, it’s over!\NWe’ll put this in everyone’s tea!
+Dialogue: 0,0:13:55.75,0:13:56.75,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:13:57.49,0:13:59.91,Default,,0000,0000,0000,,Everything will go well with this!
+Dialogue: 0,0:14:01.33,0:14:02.12,Default,,0000,0000,0000,,I don’t know about that.
+Dialogue: 0,0:14:03.04,0:14:04.04,Default,,0000,0000,0000,,Who’re you?!
+Dialogue: 0,0:14:04.08,0:14:05.33,Default,,0000,0000,0000,,Shino…
+Dialogue: 0,0:14:10.70,0:14:12.70,Default,,0000,0000,0000,,I heard everything…
+Dialogue: 0,0:14:24.00,0:14:25.49,Default,,0000,0000,0000,,How frustrating…
+Dialogue: 0,0:14:25.50,0:14:29.41,Default,,0000,0000,0000,,If this guy would just laugh,\NI’d get some of the estate…
+Dialogue: 0,0:14:29.45,0:14:32.49,Default,,0000,0000,0000,,Thank you indeed for today.\NAllow me to thank you all…
+Dialogue: 0,0:14:32.49,0:14:34.49,Default,,0000,0000,0000,,in place of the chief mourner.
+Dialogue: 0,0:14:35.12,0:14:37.49,Default,,0000,0000,0000,,With this, the mission is complete…
+Dialogue: 0,0:14:38.83,0:14:41.12,Default,,0000,0000,0000,,It looks like it will somehow\Nend all right.
+Dialogue: 0,0:14:41.66,0:14:44.29,Default,,0000,0000,0000,,Once the monk goes home,\Nthe funeral will be over.
+Dialogue: 0,0:14:44.49,0:14:45.49,Default,,0000,0000,0000,,Please wait!
+Dialogue: 0,0:14:46.45,0:14:51.00,Default,,0000,0000,0000,,Please let my husband say\Nthank you as well. Okay, dear.
+Dialogue: 0,0:15:00.49,0:15:03.20,Default,,0000,0000,0000,,Hi! Thanks for coming today.
+Dialogue: 0,0:15:03.49,0:15:04.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:04.37,0:15:05.00,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:05.54,0:15:07.70,Default,,0000,0000,0000,,Wh-What’s he going to do?!
+Dialogue: 0,0:15:07.87,0:15:12.29,Default,,0000,0000,0000,,It was a very nice funeral.\NI was so moved!
+Dialogue: 0,0:15:14.45,0:15:16.58,Default,,0000,0000,0000,,It’s tear-jerking.
+Dialogue: 0,0:15:21.49,0:15:24.83,Default,,0000,0000,0000,,That Tsukiko…\NTo think she would go this far.
+Dialogue: 0,0:15:25.25,0:15:27.45,Default,,0000,0000,0000,,Naruto, if you can get through this,\Nit will be over.
+Dialogue: 0,0:15:27.49,0:15:29.29,Default,,0000,0000,0000,,Please withstand it…!
+Dialogue: 0,0:15:31.33,0:15:33.75,Default,,0000,0000,0000,,It doesn’t hurt at all!
+Dialogue: 0,0:15:34.41,0:15:36.83,Default,,0000,0000,0000,,I must remember something sad\Nat a time like this!
+Dialogue: 0,0:15:39.08,0:15:41.49,Default,,0000,0000,0000,,Why do I think of the Pervy Sage\Nat a time like this?!
+Dialogue: 0,0:15:41.75,0:15:43.70,Default,,0000,0000,0000,,All right, now is the time\Nto finish him off.
+Dialogue: 0,0:15:45.79,0:15:49.49,Default,,0000,0000,0000,,This is awful!\NThe tears are causing my face to collapse.
+Dialogue: 0,0:15:49.49,0:15:50.66,Default,,0000,0000,0000,,What’re you talking about?
+Dialogue: 0,0:15:50.83,0:15:54.04,Default,,0000,0000,0000,,Your face…is right here!
+Dialogue: 0,0:15:55.45,0:15:56.83,Default,,0000,0000,0000,,N-No!
+Dialogue: 0,0:15:59.49,0:16:00.37,Default,,0000,0000,0000,,Oh, no…
+Dialogue: 0,0:16:00.91,0:16:01.62,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:16:04.12,0:16:04.70,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:11.70,0:16:14.49,Default,,0000,0000,0000,,D–Dad…
+Dialogue: 0,0:16:16.45,0:16:18.66,Default,,0000,0000,0000,,You’re alive? Dad?!
+Dialogue: 0,0:16:19.29,0:16:21.20,Default,,0000,0000,0000,,Stop it, Big Brother, Big Sister!
+Dialogue: 0,0:16:21.70,0:16:23.49,Default,,0000,0000,0000,,Dad hates fighting!
+Dialogue: 0,0:16:23.79,0:16:25.66,Default,,0000,0000,0000,,I’ve thought up a good joke.
+Dialogue: 0,0:16:26.12,0:16:28.49,Default,,0000,0000,0000,,I’ve thought up a good joke, too.
+Dialogue: 0,0:16:29.00,0:16:31.49,Default,,0000,0000,0000,,Who’re those kids…?\NWhere’d they come from?
+Dialogue: 0,0:16:31.62,0:16:34.12,Default,,0000,0000,0000,,I’d get dad to laugh, first!
+Dialogue: 0,0:16:34.16,0:16:36.50,Default,,0000,0000,0000,,I will be the first! You stay out of it!
+Dialogue: 0,0:16:36.54,0:16:39.12,Default,,0000,0000,0000,,Stop it! Fighting’s wrong!
+Dialogue: 0,0:16:39.87,0:16:44.00,Default,,0000,0000,0000,,It’s as Mai says.\NFighting’s wrong! Wrong.
+Dialogue: 0,0:16:44.66,0:16:46.54,Default,,0000,0000,0000,,Futa! Tsukiko!
+Dialogue: 0,0:16:47.45,0:16:48.49,Default,,0000,0000,0000,,–Futa?! 					–Tsukiko?!
+Dialogue: 0,0:16:49.00,0:16:51.37,Default,,0000,0000,0000,,N-Now that you mention it…
+Dialogue: 0,0:16:51.41,0:16:54.95,Default,,0000,0000,0000,,Yeah…They are indeed us\Nfrom our childhood!
+Dialogue: 0,0:16:56.33,0:17:00.37,Default,,0000,0000,0000,,Oh, fighting’s wrong! A kettle’s a kettle!
+Dialogue: 0,0:17:00.49,0:17:03.79,Default,,0000,0000,0000,,My mom dislikes ponkan mandarins!
+Dialogue: 0,0:17:04.37,0:17:07.58,Default,,0000,0000,0000,,Groping is wrong!\NHot sake is where it’s at.
+Dialogue: 0,0:17:07.62,0:17:11.04,Default,,0000,0000,0000,,My wife’s secret stash is kept in a safe.
+Dialogue: 0,0:17:11.37,0:17:12.58,Default,,0000,0000,0000,,Between my legs…
+Dialogue: 0,0:17:12.62,0:17:14.00,Default,,0000,0000,0000,,Ding, dong, ding.
+Dialogue: 0,0:17:14.04,0:17:17.49,Default,,0000,0000,0000,,Yeah, ding-dong-ding.\NYeah, ding-dong-ding.
+Dialogue: 0,0:17:17.49,0:17:21.04,Default,,0000,0000,0000,,Yeah, ding-dong-ding.\NYeah, ding-dong-ding.
+Dialogue: 0,0:17:21.08,0:17:23.16,Default,,0000,0000,0000,,Yeah, ding-dong-ding.
+Dialogue: 0,0:17:23.41,0:17:24.25,Default,,0000,0000,0000,,Ding-dong.
+Dialogue: 0,0:17:24.29,0:17:26.00,Default,,0000,0000,0000,,–That’s right…\N–Ding-dong. Ding-dong.
+Dialogue: 0,0:17:26.04,0:17:28.16,Default,,0000,0000,0000,,–When we were kids…\N–Ding. Yeah, ding-dong-ding.
+Dialogue: 0,0:17:28.20,0:17:30.16,Default,,0000,0000,0000,,–Dad made us laugh a lot\N–Ding-dong-ding.
+Dialogue: 0,0:17:30.20,0:17:31.54,Default,,0000,0000,0000,,–with his silly jokes…\N–Ding-dong.
+Dialogue: 0,0:17:31.58,0:17:32.91,Default,,0000,0000,0000,,–lt’s been a long time\N–Ding. Ding.
+Dialogue: 0,0:17:32.95,0:17:35.08,Default,,0000,0000,0000,,–since I laughed at dad’s jokes…\N–Dong-dong-dong. Dong
+Dialogue: 0,0:17:35.12,0:17:38.79,Default,,0000,0000,0000,,–Dong-dong\N–This is it! This is what I wanted to see!
+Dialogue: 0,0:17:46.95,0:17:47.95,Default,,0000,0000,0000,,Dad!
+Dialogue: 0,0:17:48.50,0:17:50.37,Default,,0000,0000,0000,,Then who’s this?
+Dialogue: 0,0:17:55.54,0:17:57.49,Default,,0000,0000,0000,,The laughter stopped.
+Dialogue: 0,0:17:57.91,0:17:58.58,Default,,0000,0000,0000,,Shino!
+Dialogue: 0,0:17:58.62,0:18:00.49,Default,,0000,0000,0000,,I’m sorry, everyone!
+Dialogue: 0,0:18:01.08,0:18:05.20,Default,,0000,0000,0000,,But I didn’t think you’d all come\Nif it weren’t my funeral…
+Dialogue: 0,0:18:06.29,0:18:10.16,Default,,0000,0000,0000,,Mai helped me out a bunch\Nand this was the plan.
+Dialogue: 0,0:18:10.50,0:18:13.49,Default,,0000,0000,0000,,Is that really you, Dad? You’re alive.
+Dialogue: 0,0:18:13.49,0:18:15.75,Default,,0000,0000,0000,,Why’d you do this?!
+Dialogue: 0,0:18:16.70,0:18:19.54,Default,,0000,0000,0000,,In the old days,\Nbefore we knew that
+Dialogue: 0,0:18:19.58,0:18:22.16,Default,,0000,0000,0000,,the medicinal herbs we could pick\Nin the mountains would be profitable…
+Dialogue: 0,0:18:22.49,0:18:24.50,Default,,0000,0000,0000,,We were poor…
+Dialogue: 0,0:18:24.54,0:18:26.25,Default,,0000,0000,0000,,But we were bursting with laughter.
+Dialogue: 0,0:18:29.41,0:18:34.70,Default,,0000,0000,0000,,However, we got rich from selling\Nthe medicinal herbs at a high price.
+Dialogue: 0,0:18:34.75,0:18:36.08,Default,,0000,0000,0000,,And when we’d open our mouths,
+Dialogue: 0,0:18:36.12,0:18:38.66,Default,,0000,0000,0000,,we’d start saying,\N“Money! Money! Money!”
+Dialogue: 0,0:18:39.33,0:18:42.29,Default,,0000,0000,0000,,And the smiles vanished from\Neveryone’s faces.
+Dialogue: 0,0:18:43.04,0:18:47.54,Default,,0000,0000,0000,,I wanted everyone to remember\Nwhat’s important.
+Dialogue: 0,0:18:48.12,0:18:50.95,Default,,0000,0000,0000,,I wanted to get back\Nthe family’s smiling faces!
+Dialogue: 0,0:18:51.49,0:18:53.79,Default,,0000,0000,0000,,If I wrote that ridiculous will,
+Dialogue: 0,0:18:53.83,0:18:56.54,Default,,0000,0000,0000,,everyone would do stupid things\Ntrying to get Futa to laugh.
+Dialogue: 0,0:18:57.16,0:19:02.33,Default,,0000,0000,0000,,And then not only Futa,\Nbut everyone would laugh and have fun…
+Dialogue: 0,0:19:02.37,0:19:04.49,Default,,0000,0000,0000,,Happiness isn’t money!
+Dialogue: 0,0:19:04.87,0:19:08.45,Default,,0000,0000,0000,,It’s living while getting along\Nwith everyone and laughing!
+Dialogue: 0,0:19:11.49,0:19:12.83,Default,,0000,0000,0000,,I remember…
+Dialogue: 0,0:19:14.66,0:19:17.08,Default,,0000,0000,0000,,Sure enough, laughter is important.
+Dialogue: 0,0:19:17.54,0:19:18.49,Default,,0000,0000,0000,,That’s right…
+Dialogue: 0,0:19:19.12,0:19:23.25,Default,,0000,0000,0000,,To be honest, I’m sick of living\Nat the mercy of money.
+Dialogue: 0,0:19:23.29,0:19:26.54,Default,,0000,0000,0000,,You liar! You’re the one saying\Nmoney this and money that the most.
+Dialogue: 0,0:19:26.58,0:19:29.79,Default,,0000,0000,0000,,There are different kinds of “money,”\Nand what I was talking about was…
+Dialogue: 0,0:19:31.49,0:19:32.66,Default,,0000,0000,0000,,This bell.
+Dialogue: 0,0:19:49.49,0:19:51.00,Default,,0000,0000,0000,,Could that be…?
+Dialogue: 0,0:19:51.33,0:19:52.41,Default,,0000,0000,0000,,It’s the laughing drug.
+Dialogue: 0,0:19:53.29,0:19:55.37,Default,,0000,0000,0000,,It’s still at experimental stage, though.
+Dialogue: 0,0:19:55.75,0:19:58.49,Default,,0000,0000,0000,,If I made it okay to appoint\Na substitute chief mourner,
+Dialogue: 0,0:19:58.49,0:20:02.83,Default,,0000,0000,0000,,Futa would summon someone\Nwho definitely wouldn’t laugh.
+Dialogue: 0,0:20:03.33,0:20:06.12,Default,,0000,0000,0000,,So I tested it out on that person first.
+Dialogue: 0,0:20:07.49,0:20:11.08,Default,,0000,0000,0000,,I was going to make everyone laugh\Nby putting this in everyone’s tea
+Dialogue: 0,0:20:11.12,0:20:14.49,Default,,0000,0000,0000,,if nobody had laughed by\Nthe end of the funeral.
+Dialogue: 0,0:20:14.95,0:20:15.75,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:20:17.95,0:20:20.45,Default,,0000,0000,0000,,There’s no point to laughter\Nusing a drug…
+Dialogue: 0,0:20:21.62,0:20:23.49,Default,,0000,0000,0000,,It’s because the people\Nwouldn’t be laughing
+Dialogue: 0,0:20:23.49,0:20:25.04,Default,,0000,0000,0000,,from the bottom of their hearts.
+Dialogue: 0,0:20:28.54,0:20:31.29,Default,,0000,0000,0000,,Instead, they’d be crying in their hearts…
+Dialogue: 0,0:20:32.83,0:20:34.49,Default,,0000,0000,0000,,Like me right now!
+Dialogue: 0,0:20:39.87,0:20:42.50,Default,,0000,0000,0000,,So at the end of the day,\Nwhat happened with the mission?
+Dialogue: 0,0:20:43.12,0:20:44.54,Default,,0000,0000,0000,,It's probably a success.
+Dialogue: 0,0:20:44.91,0:20:49.41,Default,,0000,0000,0000,,It’s because the Lady Hokage probably\Nknew about the real mission.
+Dialogue: 0,0:20:49.54,0:20:50.83,Default,,0000,0000,0000,,Say-say.
+Dialogue: 0,0:20:50.87,0:20:53.50,Default,,0000,0000,0000,,You transformed into that old man, right?
+Dialogue: 0,0:20:53.87,0:20:57.91,Default,,0000,0000,0000,,Then the “Between my legs,\Nding-dong-ding” thing was something you…
+Dialogue: 0,0:20:59.66,0:21:00.49,Default,,0000,0000,0000,,Forget about that.
+Dialogue: 0,0:21:02.00,0:21:04.29,Default,,0000,0000,0000,,Absolutely forget about that.
+Dialogue: 0,0:21:05.29,0:21:07.41,Default,,0000,0000,0000,,O-Okay, got it.
+Dialogue: 0,0:21:07.49,0:21:08.29,Default,,0000,0000,0000,,Then, fine.
+Dialogue: 0,0:21:11.41,0:21:12.58,Default,,0000,0000,0000,,Sure enough, I…
+Dialogue: 0,0:21:13.87,0:21:15.54,Default,,0000,0000,0000,,I can’t get used to this guy…
+Dialogue: 0,0:21:24.25,0:21:29.16,Default,,0000,0000,0000,,Yesterday’s Call Sign,\Nwas all from my cell phone.
+Dialogue: 0,0:21:30.91,0:21:35.75,Default,,0000,0000,0000,,In a strange park,\NI play the Fuzz Guitar without enthusiasm.
+Dialogue: 0,0:21:49.79,0:21:51.49,Default,,0000,0000,0000,,Yellow Moon.
+Dialogue: 0,0:21:51.49,0:21:58.33,Default,,0000,0000,0000,,Even now, counting to three,\NI open my eyes
+Dialogue: 0,0:21:58.37,0:22:03.49,Default,,0000,0000,0000,,Shadow Moon I am still dreaming.
+Dialogue: 0,0:22:03.49,0:22:10.49,Default,,0000,0000,0000,,Look at my eyes, look at my eyes,\Nas we face one another’s back
+Dialogue: 0,0:22:10.49,0:22:17.37,Default,,0000,0000,0000,,Look at my eyes, when can we meet?
+Dialogue: 0,0:22:17.41,0:22:24.08,Default,,0000,0000,0000,,EveryDay EveryNight\NWith every word I can think of
+Dialogue: 0,0:22:24.12,0:22:30.79,Default,,0000,0000,0000,,Right away, my messy feelings as is,
+Dialogue: 0,0:22:32.49,0:22:37.49,Default,,0000,0000,0000,,A magical chord change, in a restless city
+Dialogue: 0,0:22:39.49,0:22:44.49,Default,,0000,0000,0000,,A daily JAZZ Guitar played\Nin a soft minor key
+Dialogue: 0,0:22:50.45,0:22:52.33,Default,,0000,0000,0000,,The mission this time around is\Na commission from the Land of Greens
+Dialogue: 0,0:22:52.37,0:22:53.54,Default,,0000,0000,0000,,and is protection for\Nsome traveling merchants.
+Dialogue: 0,0:22:53.58,0:22:55.91,Default,,0000,0000,0000,,This is just a D-rank mission.
+Dialogue: 0,0:22:55.95,0:22:59.12,Default,,0000,0000,0000,,Don’t complain. The castle lord there\Nis a benefactor of mine.
+Dialogue: 0,0:22:59.41,0:23:01.25,Default,,0000,0000,0000,,Make sure you do nothing wrong.
+Dialogue: 0,0:23:01.29,0:23:03.49,Default,,0000,0000,0000,,I could manage a mission like\Nthat asleep, believe it.
+Dialogue: 0,0:23:03.49,0:23:04.12,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:23:04.49,0:23:06.62,Default,,0000,0000,0000,,However, I’ve got an important reminder\Nfor you.
+Dialogue: 0,0:23:06.66,0:23:07.49,Default,,0000,0000,0000,,Reminder?
+Dialogue: 0,0:23:07.49,0:23:09.66,Default,,0000,0000,0000,,Make sure you don’t forget to take this\Nwith you to the site.
+Dialogue: 0,0:23:09.70,0:23:10.49,Default,,0000,0000,0000,,That is all.
+Dialogue: 0,0:23:10.95,0:23:14.49,Default,,0000,0000,0000,,Next time:\N“Open for Business!\N		The Leaf Moving Service.”

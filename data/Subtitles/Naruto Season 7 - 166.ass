@@ -1,0 +1,268 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.85,0:00:21.55,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.59,0:00:26.30,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.35,0:00:28.85,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:28.89,0:00:31.59,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.59,0:00:36.10,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.14,0:00:45.97,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.26,0:00:55.43,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.35,0:01:06.22,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.39,0:01:15.59,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.30,0:01:20.72,Default,,0000,0000,0000,,What were you gazing at?\N10.01	01:51:41:26	01:51:45:16	                       When Time Stands Still
+Dialogue: 0,0:01:48.30,0:01:50.39,Default,,0000,0000,0000,,As long as the score isn’t settled,
+Dialogue: 0,0:01:50.43,0:01:54.39,Default,,0000,0000,0000,,the clock inside my heart will\Nremain stopped in the past!
+Dialogue: 0,0:01:56.76,0:01:59.59,Default,,0000,0000,0000,,Lord Sagi, if you live\Nfor revenge,
+Dialogue: 0,0:01:59.59,0:02:02.43,Default,,0000,0000,0000,,your heart will sink\Ninto darkness!
+Dialogue: 0,0:02:02.55,0:02:04.89,Default,,0000,0000,0000,,If it means that I am able\Nto carry out my revenge…
+Dialogue: 0,0:02:05.68,0:02:08.80,Default,,0000,0000,0000,,I don’t care if my heart sinks\Ninto darkness!
+Dialogue: 0,0:02:17.89,0:02:19.59,Default,,0000,0000,0000,,That’s exactly right.
+Dialogue: 0,0:02:20.59,0:02:23.05,Default,,0000,0000,0000,,I hold a grudge against you,\NI hate you…
+Dialogue: 0,0:02:23.10,0:02:27.05,Default,,0000,0000,0000,,My only purpose in living\Nhas been to kill you…
+Dialogue: 0,0:02:27.59,0:02:28.64,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:02:28.68,0:02:29.64,Default,,0000,0000,0000,,I've…
+Dialogue: 0,0:02:31.01,0:02:32.35,Default,,0000,0000,0000,,I’ve survived!
+Dialogue: 0,0:02:34.01,0:02:37.39,Default,,0000,0000,0000,,I’m finished with messing around\Nwith you Leaf Village guys.
+Dialogue: 0,0:02:39.05,0:02:41.30,Default,,0000,0000,0000,,I will go to Orochimaru!
+Dialogue: 0,0:02:43.97,0:02:45.93,Default,,0000,0000,0000,,I can’t…let you go there…
+Dialogue: 0,0:02:46.64,0:02:48.26,Default,,0000,0000,0000,,I cannot allow…!
+Dialogue: 0,0:02:48.76,0:02:50.43,Default,,0000,0000,0000,,you to go there!
+Dialogue: 0,0:02:55.64,0:02:58.59,Default,,0000,0000,0000,,I wasn’t able to stop a comrade\Nwho was sinking into darkness…
+Dialogue: 0,0:02:59.05,0:03:01.72,Default,,0000,0000,0000,,However, I won’t let you go there,\Nno matter what!
+Dialogue: 0,0:03:02.51,0:03:03.97,Default,,0000,0000,0000,,You pesky little…
+Dialogue: 0,0:03:04.60,0:03:06.93,Default,,0000,0000,0000,,If you get in my way,\NI’ll consider you an enemy too!
+Dialogue: 0,0:03:07.64,0:03:10.26,Default,,0000,0000,0000,,There’s no way you guys…\Ncould ever understand!
+Dialogue: 0,0:03:14.72,0:03:15.59,Default,,0000,0000,0000,,It’s a trick device!
+Dialogue: 0,0:03:20.39,0:03:24.59,Default,,0000,0000,0000,,No one can hinder my desire!
+Dialogue: 0,0:03:30.30,0:03:31.43,Default,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:03:32.97,0:03:33.89,Default,,0000,0000,0000,,It’s no good!
+Dialogue: 0,0:03:34.59,0:03:35.59,Default,,0000,0000,0000,,We can’t get out!
+Dialogue: 0,0:04:02.18,0:04:05.14,Default,,0000,0000,0000,,Farewell! Ninja of the Village Hidden\Nin the Leaves!
+Dialogue: 0,0:04:07.10,0:04:08.05,Default,,0000,0000,0000,,Lightning Blade!
+Dialogue: 0,0:04:20.22,0:04:21.14,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:04:30.59,0:04:33.35,Default,,0000,0000,0000,,How did you figure it out…?!
+Dialogue: 0,0:04:37.72,0:04:41.10,Default,,0000,0000,0000,,Because I’ve seen your Jutsu\Nwith these very eyes…
+Dialogue: 0,0:04:43.01,0:04:44.97,Default,,0000,0000,0000,,I remember now… 					You are…
+Dialogue: 0,0:04:45.93,0:04:47.97,Default,,0000,0000,0000,,Hatake…Kakashi…
+Dialogue: 0,0:04:48.80,0:04:51.59,Default,,0000,0000,0000,,The Copy Ninja with\Nthe Sharingan…
+Dialogue: 0,0:04:52.22,0:04:55.10,Default,,0000,0000,0000,,Your Jutsu doesn’t even faintly mirror\Nthat of Gaara’s…
+Dialogue: 0,0:04:55.93,0:04:57.89,Default,,0000,0000,0000,,You’ve only scratched its surface…
+Dialogue: 0,0:04:59.76,0:05:01.59,Default,,0000,0000,0000,,All you’re doing is leaving\Nyour main body elsewhere
+Dialogue: 0,0:05:01.59,0:05:05.14,Default,,0000,0000,0000,,and using your Chakra to manipulate\Nthe rocks and sand…
+Dialogue: 0,0:05:06.01,0:05:07.47,Default,,0000,0000,0000,,We are nomads…
+Dialogue: 0,0:05:08.14,0:05:11.85,Default,,0000,0000,0000,,ridiculed as lower-ranked Shinobi\Nwithout a village…
+Dialogue: 0,0:05:12.59,0:05:17.93,Default,,0000,0000,0000,,That’s why we travel around the country,\Nstealing Jutsu, sharpening our skills,
+Dialogue: 0,0:05:17.97,0:05:21.59,Default,,0000,0000,0000,,struggling to one day find our way\Ninto a place in the sun.
+Dialogue: 0,0:05:22.35,0:05:25.59,Default,,0000,0000,0000,,But no matter how dedicated\Nour efforts are…
+Dialogue: 0,0:05:25.59,0:05:29.39,Default,,0000,0000,0000,,to think there are dimensions\Nthat cannot be transgressed…
+Dialogue: 0,0:05:48.35,0:05:50.30,Default,,0000,0000,0000,,That’s the direction of\Nthe Feudal Lord’s palace…
+Dialogue: 0,0:05:59.60,0:06:02.76,Default,,0000,0000,0000,,Hurry up! Lord Sagi’s thought\Nto be buried beneath there!
+Dialogue: 0,0:06:10.59,0:06:13.39,Default,,0000,0000,0000,,Damn it!\NWe really got screwed…
+Dialogue: 0,0:06:14.59,0:06:16.55,Default,,0000,0000,0000,,That jerk!
+Dialogue: 0,0:06:18.18,0:06:20.26,Default,,0000,0000,0000,,What a jerk… Gimme a break!
+Dialogue: 0,0:06:20.72,0:06:21.93,Default,,0000,0000,0000,,What happened…
+Dialogue: 0,0:06:22.22,0:06:22.68,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:23.59,0:06:24.60,Default,,0000,0000,0000,,Kakashi Sensei!
+Dialogue: 0,0:06:25.55,0:06:29.72,Default,,0000,0000,0000,,Sagi totally squashed us just now\Nand went off somewhere!
+Dialogue: 0,0:06:30.14,0:06:31.93,Default,,0000,0000,0000,,Gimme a break…\Nthat guy’s some kind of jerk!
+Dialogue: 0,0:06:32.22,0:06:34.59,Default,,0000,0000,0000,,Please don’t blame him for\Nthe things he has done.
+Dialogue: 0,0:06:34.64,0:06:36.05,Default,,0000,0000,0000,,But…!
+Dialogue: 0,0:06:36.14,0:06:39.89,Default,,0000,0000,0000,,He is himself,\Nbut not himself right now.
+Dialogue: 0,0:06:40.14,0:06:42.47,Default,,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:06:42.64,0:06:44.59,Default,,0000,0000,0000,,He is obsessed with avenging
+Dialogue: 0,0:06:44.59,0:06:46.55,Default,,0000,0000,0000,,his father and\Nyounger sister’s deaths.
+Dialogue: 0,0:06:47.05,0:06:53.05,Default,,0000,0000,0000,,I believe he is possessed\Nby the ghost of the late Lord Owashi.
+Dialogue: 0,0:06:53.35,0:06:56.80,Default,,0000,0000,0000,,Oh come on… Stop joking…
+Dialogue: 0,0:06:58.59,0:07:00.14,Default,,0000,0000,0000,,That’s not necessarily a joke.
+Dialogue: 0,0:07:00.59,0:07:04.64,Default,,0000,0000,0000,,Stop it! That kind of thing gives me\Nthe creeps!
+Dialogue: 0,0:07:05.22,0:07:08.59,Default,,0000,0000,0000,,Get a grip! This isn’t the time to be\Nsquabbling over things like that!
+Dialogue: 0,0:07:08.80,0:07:10.47,Default,,0000,0000,0000,,What’s important right now\Nis to find Sagi!
+Dialogue: 0,0:07:11.97,0:07:14.43,Default,,0000,0000,0000,,But we have no idea\Nwhere he went.
+Dialogue: 0,0:07:14.51,0:07:16.39,Default,,0000,0000,0000,,If he is possessed,
+Dialogue: 0,0:07:16.43,0:07:18.76,Default,,0000,0000,0000,,it is certain that\Nhe will return to take revenge…
+Dialogue: 0,0:07:19.72,0:07:21.59,Default,,0000,0000,0000,,And moreover…very soon…
+Dialogue: 0,0:07:55.05,0:08:00.59,Default,,0000,0000,0000,,Elder Brother…lf I were to lose you too,\Nafter having lost our father…
+Dialogue: 0,0:08:01.59,0:08:04.59,Default,,0000,0000,0000,,I could not go on living…
+Dialogue: 0,0:08:20.51,0:08:22.68,Default,,0000,0000,0000,,Father…Elder Brother…
+Dialogue: 0,0:08:23.59,0:08:25.68,Default,,0000,0000,0000,,I shall join with you…
+Dialogue: 0,0:08:44.93,0:08:46.47,Default,,0000,0000,0000,,Elder Brother!
+Dialogue: 0,0:09:07.64,0:09:10.59,Default,,0000,0000,0000,,Elder Brother…\NI will avenge this without fail…
+Dialogue: 0,0:09:11.18,0:09:13.59,Default,,0000,0000,0000,,I will once more restart\Nthe hands of time for you, Elder Brother,
+Dialogue: 0,0:09:13.59,0:09:15.05,Default,,0000,0000,0000,,whose time was brought to a standstill…
+Dialogue: 0,0:09:40.59,0:09:42.59,Default,,0000,0000,0000,,Until the day that wish is realized…
+Dialogue: 0,0:09:43.47,0:09:47.59,Default,,0000,0000,0000,,I will live as you, Elder Brother,\Nas Sagi!
+Dialogue: 0,0:10:42.18,0:10:47.26,Default,,0000,0000,0000,,Sagi’s temperament is such that\Nhe will undoubtedly come here for Moso.
+Dialogue: 0,0:11:25.68,0:11:27.43,Default,,0000,0000,0000,,It’s actually quite convenient
+Dialogue: 0,0:11:27.47,0:11:30.01,Default,,0000,0000,0000,,that Lord Sagi comes\Nall the way here to see me…
+Dialogue: 0,0:11:30.85,0:11:33.39,Default,,0000,0000,0000,,Even if I can’t get my hands\Non Sagi, the Feudal Lord,
+Dialogue: 0,0:11:33.43,0:11:36.59,Default,,0000,0000,0000,,it’s not a crime to kill him\Nas the Cursed Warrior.
+Dialogue: 0,0:11:38.39,0:11:40.60,Default,,0000,0000,0000,,Fire Style: Fire Ball Jutsu!
+Dialogue: 0,0:11:46.68,0:11:51.47,Default,,0000,0000,0000,,What a joke… A ghost appearing\Nin a child’s toy…
+Dialogue: 0,0:12:23.14,0:12:24.68,Default,,0000,0000,0000,,You have some nerve appearing here\Nlike this…
+Dialogue: 0,0:12:24.72,0:12:26.18,Default,,0000,0000,0000,,Cursed Warrior…
+Dialogue: 0,0:12:30.47,0:12:31.39,Default,,0000,0000,0000,,Lord Sagi…
+Dialogue: 0,0:12:31.72,0:12:34.26,Default,,0000,0000,0000,,Huh…who are you…?
+Dialogue: 0,0:12:34.76,0:12:36.85,Default,,0000,0000,0000,,Aren’t you the high and mighty Moso?
+Dialogue: 0,0:12:37.43,0:12:38.80,Default,,0000,0000,0000,,I won't answer to words like that
+Dialogue: 0,0:12:38.85,0:12:40.43,Default,,0000,0000,0000,,from the likes of a ghost.
+Dialogue: 0,0:12:41.22,0:12:42.26,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:12:55.43,0:12:56.51,Default,,0000,0000,0000,,That’s right…
+Dialogue: 0,0:12:56.55,0:13:00.10,Default,,0000,0000,0000,,Moso is just a fictitious name\Nused to deceive the world…
+Dialogue: 0,0:13:00.59,0:13:02.26,Default,,0000,0000,0000,,My name is Hoki…
+Dialogue: 0,0:13:02.51,0:13:05.26,Default,,0000,0000,0000,,The Leader who heads\Nthe Wandering Ninja…
+Dialogue: 0,0:13:10.39,0:13:13.97,Default,,0000,0000,0000,,In place of not having a village,\Nwe the Wandering Ninja
+Dialogue: 0,0:13:14.01,0:13:18.01,Default,,0000,0000,0000,,steal Jutsu from every village\Nwe pass through and make them our own!
+Dialogue: 0,0:13:20.59,0:13:25.01,Default,,0000,0000,0000,,But our family has tired of living\Nfor so long as nomads.
+Dialogue: 0,0:13:26.26,0:13:30.22,Default,,0000,0000,0000,,And we have been searching\Nfor a Land to call our home.
+Dialogue: 0,0:13:30.89,0:13:32.14,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:13:32.59,0:13:33.47,Default,,0000,0000,0000,,From the very start,
+Dialogue: 0,0:13:33.51,0:13:35.59,Default,,0000,0000,0000,,you came here to the Land of Bird\Nwith the intention of taking it over!
+Dialogue: 0,0:13:35.85,0:13:37.59,Default,,0000,0000,0000,,There’s no way that\Nsomebody like you,
+Dialogue: 0,0:13:37.59,0:13:39.43,Default,,0000,0000,0000,,who was born destined to become\Na feudal lord…
+Dialogue: 0,0:13:39.47,0:13:42.14,Default,,0000,0000,0000,,could understand\Nthe suffering of Wandering Ninja
+Dialogue: 0,0:13:42.18,0:13:44.72,Default,,0000,0000,0000,,who do not have a homeland!
+Dialogue: 0,0:13:46.30,0:13:47.60,Default,,0000,0000,0000,,I don’t see a problem…
+Dialogue: 0,0:13:47.64,0:13:50.93,Default,,0000,0000,0000,,with the Wandering Ninja\Nseeking a safe homeland.
+Dialogue: 0,0:13:52.14,0:13:56.43,Default,,0000,0000,0000,,After all, your father was someone\Nwho easily trusted others…
+Dialogue: 0,0:13:57.14,0:13:59.29,Default,,0000,0000,0000,,He never even suspected anything
+Dialogue: 0,0:13:59.29,0:14:02.10,Default,,0000,0000,0000,,when I switched with the monk Moso,\Nhighly reputed for his virtue,
+Dialogue: 0,0:14:02.10,0:14:04.43,Default,,0000,0000,0000,,and neared him…
+Dialogue: 0,0:14:29.68,0:14:31.89,Default,,0000,0000,0000,,He misinterpreted\Nmy Genjutsu of deception
+Dialogue: 0,0:14:31.93,0:14:35.35,Default,,0000,0000,0000,,as being the holy power\Nof the virtuous Moso
+Dialogue: 0,0:14:35.47,0:14:37.97,Default,,0000,0000,0000,,and put me on the fast track…
+Dialogue: 0,0:14:38.93,0:14:42.55,Default,,0000,0000,0000,,The only person who suspected me\Nwas Komei.
+Dialogue: 0,0:14:44.22,0:14:48.18,Default,,0000,0000,0000,,I assassinated Owashi\Nand drove Komei away…
+Dialogue: 0,0:14:49.01,0:14:52.26,Default,,0000,0000,0000,,Y-You jerk…\Nso it was you, after all!
+Dialogue: 0,0:14:52.59,0:14:55.51,Default,,0000,0000,0000,,And the last step is to kill you, Sagi.
+Dialogue: 0,0:14:55.55,0:14:58.26,Default,,0000,0000,0000,,If I can do that, I will have accomplished\Nwhat I set out to do!
+Dialogue: 0,0:14:58.39,0:15:00.10,Default,,0000,0000,0000,,You jerk! I won’t forgive you!
+Dialogue: 0,0:15:00.35,0:15:02.10,Default,,0000,0000,0000,,Revenge for my clan!
+Dialogue: 0,0:15:13.39,0:15:14.60,Default,,0000,0000,0000,,You are…?!
+Dialogue: 0,0:15:16.59,0:15:18.26,Default,,0000,0000,0000,,Yes, that’s right!
+Dialogue: 0,0:15:19.47,0:15:21.35,Default,,0000,0000,0000,,My name is Toki!
+Dialogue: 0,0:15:22.59,0:15:23.76,Default,,0000,0000,0000,,Lady Toki…!
+Dialogue: 0,0:15:25.14,0:15:27.59,Default,,0000,0000,0000,,I will avenge my father\Nand brother’s death!
+Dialogue: 0,0:15:27.89,0:15:29.35,Default,,0000,0000,0000,,Shadow Possession Jutsu!
+Dialogue: 0,0:15:31.64,0:15:35.59,Default,,0000,0000,0000,,Look at that, Toki…\NOur shadows are overlapping, right…
+Dialogue: 0,0:15:36.01,0:15:37.64,Default,,0000,0000,0000,,That’s the Shadow Possession Jutsu!
+Dialogue: 0,0:15:38.22,0:15:40.26,Default,,0000,0000,0000,,With this, you won’t be able\Nto move anymore!
+Dialogue: 0,0:15:42.01,0:15:44.93,Default,,0000,0000,0000,,But I wouldn’t have imagined that\Nyou would be the younger sister Toki…
+Dialogue: 0,0:15:49.26,0:15:53.22,Default,,0000,0000,0000,,The Wandering Ninja will be successful\Nin taking control of this land.
+Dialogue: 0,0:15:53.97,0:15:56.76,Default,,0000,0000,0000,,You will die as Sagi just\Nas you desire!
+Dialogue: 0,0:15:59.89,0:16:02.01,Default,,0000,0000,0000,,Lady Toki! Keep your composure!
+Dialogue: 0,0:16:02.80,0:16:03.64,Default,,0000,0000,0000,,Chishima…
+Dialogue: 0,0:16:08.18,0:16:09.59,Default,,0000,0000,0000,,So you were alive, huh…
+Dialogue: 0,0:16:10.18,0:16:12.43,Default,,0000,0000,0000,,I was unaware of your feelings, Lady Toki.
+Dialogue: 0,0:16:12.59,0:16:14.26,Default,,0000,0000,0000,,Chishima is most ashamed!
+Dialogue: 0,0:16:15.01,0:16:16.72,Default,,0000,0000,0000,,Take this and die!
+Dialogue: 0,0:16:20.39,0:16:22.89,Default,,0000,0000,0000,,I overheard everything just now.
+Dialogue: 0,0:16:23.10,0:16:26.59,Default,,0000,0000,0000,,Sagi, I mean, Toki!\NLeave the rest to me!
+Dialogue: 0,0:16:26.68,0:16:27.59,Default,,0000,0000,0000,,Naruto…?!
+Dialogue: 0,0:16:28.18,0:16:31.59,Default,,0000,0000,0000,,That’s not gonna happen!\NYou will die by your own shadow!
+Dialogue: 0,0:16:31.59,0:16:33.59,Default,,0000,0000,0000,,The shadow has nothing to do with it!
+Dialogue: 0,0:16:34.14,0:16:36.97,Default,,0000,0000,0000,,You’re just under the influence\Nof his Genjutsu!
+Dialogue: 0,0:16:40.05,0:16:40.85,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:44.59,0:16:45.43,Default,,0000,0000,0000,,Lady Toki…
+Dialogue: 0,0:16:45.55,0:16:48.39,Default,,0000,0000,0000,,Shadow Possession is\NShikamaru’s Clan's Secret Jutsu!
+Dialogue: 0,0:16:48.59,0:16:51.35,Default,,0000,0000,0000,,There’s no way you could\Neven hope to imitate it!
+Dialogue: 0,0:16:51.68,0:16:55.22,Default,,0000,0000,0000,,Not only is your identity fake,\Nbut your Ninjutsu is too!
+Dialogue: 0,0:16:55.59,0:16:56.80,Default,,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:17:01.01,0:17:01.89,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:17:03.64,0:17:05.59,Default,,0000,0000,0000,,The heavens are watching your villainy!
+Dialogue: 0,0:17:05.72,0:17:08.22,Default,,0000,0000,0000,,There is no way we will forgive you!
+Dialogue: 0,0:17:08.85,0:17:12.89,Default,,0000,0000,0000,,Why you Leaf Ninja…\NBut it’s only a Clone Jutsu!
+Dialogue: 0,0:17:13.59,0:17:15.59,Default,,0000,0000,0000,,Fire Style: Phoenix Flower Jutsu!
+Dialogue: 0,0:17:20.55,0:17:21.80,Default,,0000,0000,0000,,They have substances?!
+Dialogue: 0,0:17:22.01,0:17:23.59,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:17:24.59,0:17:27.43,Default,,0000,0000,0000,,Sasuke’s Phoenix Flower Jutsu\Nis much more awesome!
+Dialogue: 0,0:17:27.76,0:17:29.80,Default,,0000,0000,0000,,It’s my turn this time!
+Dialogue: 0,0:17:30.14,0:17:30.93,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:17:43.59,0:17:44.59,Default,,0000,0000,0000,,Kakashi Hatake…
+Dialogue: 0,0:17:44.80,0:17:46.59,Default,,0000,0000,0000,,So you’re here too, huh…
+Dialogue: 0,0:17:46.97,0:17:50.14,Default,,0000,0000,0000,,Hoki, the leader who heads\Nthe Wandering Shinobi…huh…
+Dialogue: 0,0:17:50.35,0:17:51.89,Default,,0000,0000,0000,,I’ve heard rumors about you…
+Dialogue: 0,0:17:52.47,0:17:57.35,Default,,0000,0000,0000,,So you’re a Shinobi who wanders\Nfrom place to place like a bat…
+Dialogue: 0,0:17:58.59,0:18:03.60,Default,,0000,0000,0000,,Ninja from a rich village can’t possibly\Nimagine circumstances like ours…
+Dialogue: 0,0:18:04.01,0:18:05.68,Default,,0000,0000,0000,,Like hell I’ll understand it…
+Dialogue: 0,0:18:05.89,0:18:09.18,Default,,0000,0000,0000,,The Leaf are taught that the Way of Ninja\Nis to become a Ninja who can endure…
+Dialogue: 0,0:18:09.59,0:18:14.05,Default,,0000,0000,0000,,People like you who trick people\Nand wishfully try to seize land
+Dialogue: 0,0:18:14.10,0:18:16.22,Default,,0000,0000,0000,,have no right to call themselves Shinobi!
+Dialogue: 0,0:18:17.39,0:18:18.59,Default,,0000,0000,0000,,Elitist!
+Dialogue: 0,0:18:19.68,0:18:21.10,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:18:32.26,0:18:35.30,Default,,0000,0000,0000,,Damn! That’s a real dragon!
+Dialogue: 0,0:18:36.18,0:18:37.18,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:18:49.18,0:18:50.14,Default,,0000,0000,0000,,Wait…!
+Dialogue: 0,0:18:51.26,0:18:52.05,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:18:57.59,0:18:58.64,Default,,0000,0000,0000,,Over there, huh…
+Dialogue: 0,0:19:08.18,0:19:09.59,Default,,0000,0000,0000,,What’s up with that?
+Dialogue: 0,0:19:16.14,0:19:17.80,Default,,0000,0000,0000,,So the Summoning Dragons\Nwere fake too …
+Dialogue: 0,0:19:18.51,0:19:20.59,Default,,0000,0000,0000,,He fled off somewhere…
+Dialogue: 0,0:19:23.47,0:19:24.51,Default,,0000,0000,0000,,Inside the mansion!
+Dialogue: 0,0:19:24.55,0:19:25.39,Default,,0000,0000,0000,,I’m not letting him get away!
+Dialogue: 0,0:19:38.14,0:19:39.59,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:19:50.18,0:19:52.26,Default,,0000,0000,0000,,Hey you…wait!
+Dialogue: 0,0:19:56.26,0:19:57.89,Default,,0000,0000,0000,,Where did he vanish to?!
+Dialogue: 0,0:19:59.60,0:20:01.68,Default,,0000,0000,0000,,Hey, Leaf Ninja…
+Dialogue: 0,0:20:02.59,0:20:03.43,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:10.35,0:20:11.72,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:20:11.97,0:20:15.43,Default,,0000,0000,0000,,If you want to have Toki back,\Ncome over here…
+Dialogue: 0,0:20:15.55,0:20:17.10,Default,,0000,0000,0000,,H-How?!
+Dialogue: 0,0:20:22.59,0:20:25.14,Default,,0000,0000,0000,,Take that boat to come over here…
+Dialogue: 0,0:20:25.22,0:20:26.18,Default,,0000,0000,0000,,Genjutsu?
+Dialogue: 0,0:20:26.39,0:20:29.59,Default,,0000,0000,0000,,Are you scared,\Nyou Leaf apprentice Ninja?
+Dialogue: 0,0:20:30.85,0:20:33.05,Default,,0000,0000,0000,,I’m not an apprentice!
+Dialogue: 0,0:20:45.14,0:20:46.55,Default,,0000,0000,0000,,This place…don’t tell me it’s…
+Dialogue: 0,0:20:52.39,0:20:53.22,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:21:30.76,0:21:33.30,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:33.68,0:21:37.05,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:37.22,0:21:39.59,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:40.22,0:21:42.59,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:43.59,0:21:46.64,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:46.72,0:21:49.35,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:50.01,0:21:52.59,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:53.10,0:21:54.51,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:57.55,0:22:01.59,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:03.85,0:22:07.85,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:09.51,0:22:12.60,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:12.60,0:22:15.68,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:15.85,0:22:18.72,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:18.76,0:22:22.51,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:22.59,0:22:25.59,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:25.59,0:22:28.59,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:28.68,0:22:35.10,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:35.51,0:22:38.43,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:38.47,0:22:41.80,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:49.68,0:22:51.85,Default,,0000,0000,0000,,Chishima…
+Dialogue: 0,0:22:52.05,0:22:54.47,Default,,0000,0000,0000,,believed in you\Nuntil the very end.
+Dialogue: 0,0:22:54.64,0:22:57.59,Default,,0000,0000,0000,,He truly loved this land…
+Dialogue: 0,0:22:57.68,0:23:00.80,Default,,0000,0000,0000,,and he worried about his friends\Nfrom the bottom of his heart!
+Dialogue: 0,0:23:01.51,0:23:02.68,Default,,0000,0000,0000,,And yet…
+Dialogue: 0,0:23:02.76,0:23:04.10,Default,,0000,0000,0000,,And yet…!
+Dialogue: 0,0:23:04.14,0:23:06.35,Default,,0000,0000,0000,,I won't forgive you, you bastard!
+Dialogue: 0,0:23:06.60,0:23:10.76,Default,,0000,0000,0000,,I'm gonna beat the hell outta you!
+Dialogue: 0,0:23:11.59,0:23:14.05,Default,,0000,0000,0000,,Next time:\N "When Egrets Flap Their Wings"

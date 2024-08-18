@@ -1,0 +1,399 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.14,0:00:21.60,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.64,0:00:26.59,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.59,0:00:29.14,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.18,0:00:31.64,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.68,0:00:36.39,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.43,0:00:46.26,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.55,0:00:55.59,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.59,0:01:06.51,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.59,0:01:15.85,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.59,0:01:21.01,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:51.05,0:01:52.18,Default,,0000,0000,0000,,Look, Papa!
+Dialogue: 0,0:01:53.14,0:01:54.60,Default,,0000,0000,0000,,What is it, Kunihisa?
+Dialogue: 0,0:01:55.51,0:01:57.93,Default,,0000,0000,0000,,Look, it’s sparkly and pretty.
+Dialogue: 0,0:01:58.22,0:01:59.60,Default,,0000,0000,0000,,That’s right, Kunihisa.
+Dialogue: 0,0:02:02.51,0:02:06.59,Default,,0000,0000,0000,,Even though it’s so pretty,\Nhow can it have no value…
+Dialogue: 0,0:02:08.59,0:02:10.59,Default,,0000,0000,0000,,That’s horrible, isn’t it, Papa?
+Dialogue: 0,0:02:10.85,0:02:16.80,Default,,0000,0000,0000,,Impossible!\NCelebirty Ninja Art: Money Style Jutsu!
+Dialogue: 0,0:02:17.18,0:02:20.10,Default,,0000,0000,0000,,A-Are you serious, Grandma Tsunade!
+Dialogue: 0,0:02:20.72,0:02:21.59,Default,,0000,0000,0000,,Calm down!
+Dialogue: 0,0:02:22.72,0:02:25.10,Default,,0000,0000,0000,,Sorry, I’ll calm down.
+Dialogue: 0,0:02:29.60,0:02:31.51,Default,,0000,0000,0000,,Since he is an important person,
+Dialogue: 0,0:02:31.55,0:02:33.59,Default,,0000,0000,0000,,I believe there is no one appropriate\Nfor the job other than you.
+Dialogue: 0,0:02:33.80,0:02:38.72,Default,,0000,0000,0000,,Finally… Finally a mission\Nappropriate for my abilities.
+Dialogue: 0,0:02:39.47,0:02:43.59,Default,,0000,0000,0000,,Guarding an important person…\Nlt has such a nice ring to it!
+Dialogue: 0,0:02:45.85,0:02:47.51,Default,,0000,0000,0000,,Listen seriously!
+Dialogue: 0,0:02:49.80,0:02:50.60,Default,,0000,0000,0000,,Gotcha.
+Dialogue: 0,0:02:52.72,0:02:54.85,Default,,0000,0000,0000,,Okay, about this mission…
+Dialogue: 0,0:02:55.64,0:02:56.59,Default,,0000,0000,0000,,Shizune.
+Dialogue: 0,0:02:56.59,0:02:57.26,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:03:00.22,0:03:02.68,Default,,0000,0000,0000,,The details are written in\Nthose documents.
+Dialogue: 0,0:03:03.01,0:03:06.26,Default,,0000,0000,0000,,His name’s Kunihisa,\Nhe lives in the capital.
+Dialogue: 0,0:03:06.39,0:03:08.59,Default,,0000,0000,0000,,He’s the heir of\Nan old acquaintance of mine.
+Dialogue: 0,0:03:08.85,0:03:10.76,Default,,0000,0000,0000,,Your acquaintance, Grandma Tsunade?
+Dialogue: 0,0:03:11.47,0:03:14.59,Default,,0000,0000,0000,,Yes, his father’s name is Kunijiro.
+Dialogue: 0,0:03:15.30,0:03:17.97,Default,,0000,0000,0000,,He made his fortune in one generation.\NHe’s a successful jeweler.
+Dialogue: 0,0:03:19.93,0:03:21.97,Default,,0000,0000,0000,,The heir of a jeweler…
+Dialogue: 0,0:03:26.85,0:03:27.97,Default,,0000,0000,0000,,Hey, Papa?
+Dialogue: 0,0:03:29.39,0:03:30.68,Default,,0000,0000,0000,,Is this real, too?
+Dialogue: 0,0:03:31.43,0:03:33.68,Default,,0000,0000,0000,,Of course it’s real, little Kuni.
+Dialogue: 0,0:03:34.26,0:03:38.05,Default,,0000,0000,0000,,So, is that and that and this\Nand the one over there too?!
+Dialogue: 0,0:03:38.22,0:03:40.18,Default,,0000,0000,0000,,Of course, little Kuni!
+Dialogue: 0,0:03:40.35,0:03:43.05,Default,,0000,0000,0000,,Ninja! Ninja! Ninja!
+Dialogue: 0,0:03:46.43,0:03:48.64,Default,,0000,0000,0000,,Suddenly my motivation is boosted!
+Dialogue: 0,0:03:50.51,0:03:52.01,Default,,0000,0000,0000,,I’ll do it! I’ll do that mission!
+Dialogue: 0,0:03:52.22,0:03:54.93,Default,,0000,0000,0000,,So where is this Kunihisa at,\NGrandma Tsunade?!
+Dialogue: 0,0:03:57.10,0:03:57.97,Default,,0000,0000,0000,,Come in!
+Dialogue: 0,0:03:59.85,0:04:02.01,Default,,0000,0000,0000,,– Ninja! Ninja! Ninja!\N– Wow! What’s this brat?
+Dialogue: 0,0:04:02.05,0:04:04.35,Default,,0000,0000,0000,,Ninja! Ninja! Ninja! Ninja!
+Dialogue: 0,0:04:04.76,0:04:06.59,Default,,0000,0000,0000,,Ninja?
+Dialogue: 0,0:04:06.80,0:04:09.01,Default,,0000,0000,0000,,Don’t add that question mark at\Nthe end of your sentence, don’t!
+Dialogue: 0,0:04:09.59,0:04:10.59,Default,,0000,0000,0000,,So it must be you!
+Dialogue: 0,0:04:11.68,0:04:15.59,Default,,0000,0000,0000,,You are the kid who’s going with Kunihisa\Nto play be a-Ninja-for-a-day…
+Dialogue: 0,0:04:16.47,0:04:18.22,Default,,0000,0000,0000,,I’ll leave him to you, then.
+Dialogue: 0,0:04:18.39,0:04:23.10,Default,,0000,0000,0000,,What? Be a Ninja for a day…?
+Dialogue: 0,0:04:23.59,0:04:26.59,Default,,0000,0000,0000,,My little Kuni really admires Ninja,
+Dialogue: 0,0:04:26.59,0:04:29.64,Default,,0000,0000,0000,,and he aggravates me by saying\Nnothing but Ninja everyday.
+Dialogue: 0,0:04:32.93,0:04:34.35,Default,,0000,0000,0000,,Grandma Tsunade!
+Dialogue: 0,0:04:34.39,0:04:36.59,Default,,0000,0000,0000,,Wasn’t this\Nthe guarding-important-person mission?!
+Dialogue: 0,0:04:37.60,0:04:38.80,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:04:39.39,0:04:40.60,Default,,0000,0000,0000,,I did say he’s an important person,
+Dialogue: 0,0:04:40.64,0:04:42.64,Default,,0000,0000,0000,,but didn’t say a word about\Nguarding him.
+Dialogue: 0,0:04:42.72,0:04:44.59,Default,,0000,0000,0000,,I was fooled! Grandma!
+Dialogue: 0,0:04:44.59,0:04:45.59,Default,,0000,0000,0000,,Naruto Uzumaki!
+Dialogue: 0,0:04:46.18,0:04:50.59,Default,,0000,0000,0000,,I order you to play be\Na-Ninja-for-a-day with Kunihisa!
+Dialogue: 0,0:04:50.59,0:04:53.80,Default,,0000,0000,0000,,Damn… That’s a dirty trick, Grandma!
+Dialogue: 0,0:04:53.97,0:04:55.59,Default,,0000,0000,0000,,Oh, there’s one more thing.
+Dialogue: 0,0:04:56.39,0:04:58.47,Default,,0000,0000,0000,,I added your regular missions\Nas a service.
+Dialogue: 0,0:04:58.76,0:05:03.59,Default,,0000,0000,0000,,Oh, that’s cruel, Grandma Tsunade!
+Dialogue: 0,0:05:08.47,0:05:12.76,Default,,0000,0000,0000,,Clean the pond, repair the bridge,\Nget rid of the savage pig,
+Dialogue: 0,0:05:13.76,0:05:14.80,Default,,0000,0000,0000,,and…
+Dialogue: 0,0:05:16.97,0:05:21.10,Default,,0000,0000,0000,,It turns out that babysitting is just added\Nto the regular D-rank missions!
+Dialogue: 0,0:05:21.68,0:05:23.64,Default,,0000,0000,0000,,Ninja, Ninja.
+Dialogue: 0,0:05:29.22,0:05:30.76,Default,,0000,0000,0000,,Watch this, Kunihisa!
+Dialogue: 0,0:05:30.93,0:05:33.39,Default,,0000,0000,0000,,I’ll teach you the awesomeness\Nof a Ninja.
+Dialogue: 0,0:05:38.05,0:05:41.85,Default,,0000,0000,0000,,Hey, awesome Naruto! Awesome!
+Dialogue: 0,0:05:43.55,0:05:45.60,Default,,0000,0000,0000,,It’s “be-a-Ninja-for-a-day,” isn’t it?
+Dialogue: 0,0:05:45.80,0:05:48.59,Default,,0000,0000,0000,,So Kunihisa, you gather garbage\Nfrom over there, too.
+Dialogue: 0,0:05:48.89,0:05:49.80,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:50.51,0:05:52.47,Default,,0000,0000,0000,,Oh, that’s right.\NDon’t go into the marsh.
+Dialogue: 0,0:05:52.59,0:05:54.22,Default,,0000,0000,0000,,This marsh is bottomless,
+Dialogue: 0,0:05:54.26,0:05:57.76,Default,,0000,0000,0000,,so once you’re caught,\Nyou can’t get out.
+Dialogue: 0,0:05:58.43,0:05:59.59,Default,,0000,0000,0000,,Huh, what?
+Dialogue: 0,0:06:00.22,0:06:02.14,Default,,0000,0000,0000,,– Oh, no, Young Master is in trouble!\N– Naruto!
+Dialogue: 0,0:06:03.18,0:06:05.01,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:06:05.05,0:06:08.55,Default,,0000,0000,0000,,You fool! I’ll save you,\Nso you stay right there!
+Dialogue: 0,0:06:08.55,0:06:09.93,Default,,0000,0000,0000,,Fool! I’ll be fine.
+Dialogue: 0,0:06:10.55,0:06:11.30,Default,,0000,0000,0000,,You’ll be fine?
+Dialogue: 0,0:06:11.60,0:06:13.60,Default,,0000,0000,0000,,I can handle this kind of simple task\Nwith my Ninjutsu.
+Dialogue: 0,0:06:14.59,0:06:15.64,Default,,0000,0000,0000,,Ninjutsu?
+Dialogue: 0,0:06:16.26,0:06:18.43,Default,,0000,0000,0000,,– Oh no! Young Master!\N– Oh, no!
+Dialogue: 0,0:06:21.59,0:06:24.26,Default,,0000,0000,0000,,Alligator snapping turtle, Piranha, Toad!
+Dialogue: 0,0:06:24.59,0:06:25.72,Default,,0000,0000,0000,,Money Style:
+Dialogue: 0,0:06:27.47,0:06:29.26,Default,,0000,0000,0000,,Help Me Jutsu!
+Dialogue: 0,0:06:29.59,0:06:30.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:31.47,0:06:33.55,Default,,0000,0000,0000,,– Yay! 					– Mine!
+Dialogue: 0,0:06:33.59,0:06:35.68,Default,,0000,0000,0000,,Wha--?! Wh-Wh-Wha--?!
+Dialogue: 0,0:06:43.59,0:06:45.01,Default,,0000,0000,0000,,I’m fine!
+Dialogue: 0,0:06:48.01,0:06:49.76,Default,,0000,0000,0000,,What are you guys doing?!
+Dialogue: 0,0:06:50.59,0:06:53.59,Default,,0000,0000,0000,,If you want money hurry up\Nand rescue me.
+Dialogue: 0,0:06:58.18,0:07:00.85,Default,,0000,0000,0000,,What good would increasing\Nthe victims do?
+Dialogue: 0,0:07:06.76,0:07:08.59,Default,,0000,0000,0000,,Hey, Kunihisa.
+Dialogue: 0,0:07:08.64,0:07:09.39,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:11.93,0:07:13.68,Default,,0000,0000,0000,,Who are they?
+Dialogue: 0,0:07:13.93,0:07:15.30,Default,,0000,0000,0000,,Oh, them…
+Dialogue: 0,0:07:15.35,0:07:21.30,Default,,0000,0000,0000,,Papa employs them and\Nthey protect me if I get into trouble.
+Dialogue: 0,0:07:21.89,0:07:23.35,Default,,0000,0000,0000,,Really.
+Dialogue: 0,0:07:23.72,0:07:25.76,Default,,0000,0000,0000,,That’s right, for example…
+Dialogue: 0,0:07:27.59,0:07:28.14,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:07:36.05,0:07:36.59,Default,,0000,0000,0000,,See!
+Dialogue: 0,0:07:37.05,0:07:38.89,Default,,0000,0000,0000,,What do you mean “see”?!
+Dialogue: 0,0:07:40.35,0:07:41.85,Default,,0000,0000,0000,,Is it okay?
+Dialogue: 0,0:07:42.18,0:07:43.97,Default,,0000,0000,0000,,I said it’s okay!
+Dialogue: 0,0:07:44.80,0:07:46.89,Default,,0000,0000,0000,,Really, really okay?
+Dialogue: 0,0:07:47.64,0:07:50.97,Default,,0000,0000,0000,,What are you so freaked out about?\Nlt’s okay!
+Dialogue: 0,0:07:52.59,0:07:54.59,Default,,0000,0000,0000,,But still, it’s scary!
+Dialogue: 0,0:07:54.97,0:07:57.64,Default,,0000,0000,0000,,Cut the bull and come here now!
+Dialogue: 0,0:07:57.68,0:07:58.59,Default,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:07:59.55,0:08:01.14,Default,,0000,0000,0000,,But just before that…
+Dialogue: 0,0:08:02.14,0:08:04.10,Default,,0000,0000,0000,,Ninja Art: Scapegoat Jutsu!
+Dialogue: 0,0:08:08.68,0:08:11.47,Default,,0000,0000,0000,,See? It’s fine.\NC’mere, quick!
+Dialogue: 0,0:08:13.47,0:08:16.22,Default,,0000,0000,0000,,If I get on it next,\NI think it might break…
+Dialogue: 0,0:08:16.35,0:08:17.89,Default,,0000,0000,0000,,Let’s check out a bunch more.
+Dialogue: 0,0:08:23.97,0:08:26.43,Default,,0000,0000,0000,,I’m not finished yet! More of you!
+Dialogue: 0,0:08:26.64,0:08:27.68,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:08:33.47,0:08:35.01,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:08:40.59,0:08:42.01,Default,,0000,0000,0000,,Just as I thought.
+Dialogue: 0,0:08:45.30,0:08:46.43,Default,,0000,0000,0000,,I thought I was gonna die.
+Dialogue: 0,0:08:46.59,0:08:48.80,Default,,0000,0000,0000,,What were you doing, Kunihisa?!
+Dialogue: 0,0:08:50.59,0:08:53.59,Default,,0000,0000,0000,,What would have happened if\NI’d got on the bridge like that?
+Dialogue: 0,0:08:54.51,0:08:55.93,Default,,0000,0000,0000,,C’mon you!
+Dialogue: 0,0:08:56.39,0:08:58.35,Default,,0000,0000,0000,,Okay everyone, your compensation!
+Dialogue: 0,0:08:58.85,0:08:59.59,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:09:00.59,0:09:02.64,Default,,0000,0000,0000,,I’m telling you, stop that!
+Dialogue: 0,0:09:04.47,0:09:07.72,Default,,0000,0000,0000,,That kid…\NHe’s got money, huh, Big Brother.
+Dialogue: 0,0:09:08.10,0:09:12.18,Default,,0000,0000,0000,,Yeah… And his main guard\Nis a single Genin.
+Dialogue: 0,0:09:12.59,0:09:15.43,Default,,0000,0000,0000,,Big Brother, it’s decided.
+Dialogue: 0,0:09:16.05,0:09:16.60,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:25.01,0:09:25.72,Default,,0000,0000,0000,,What’s next?
+Dialogue: 0,0:09:26.59,0:09:29.59,Default,,0000,0000,0000,,Get rid of the savage pig\Nwho appears in the field ahead.
+Dialogue: 0,0:09:29.93,0:09:32.14,Default,,0000,0000,0000,,Okay! I’ll do my best!
+Dialogue: 0,0:09:33.59,0:09:35.30,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:09:35.35,0:09:36.76,Default,,0000,0000,0000,,A savage pig…?
+Dialogue: 0,0:09:38.60,0:09:39.89,Default,,0000,0000,0000,,More like a monster!
+Dialogue: 0,0:09:40.10,0:09:40.93,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:09:41.30,0:09:42.59,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:09:43.51,0:09:44.89,Default,,0000,0000,0000,,That’s cool!
+Dialogue: 0,0:09:50.72,0:09:51.59,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:09:52.47,0:09:54.26,Default,,0000,0000,0000,,Okay! It’s my turn this time!
+Dialogue: 0,0:09:55.59,0:09:58.76,Default,,0000,0000,0000,,F-Fool! What are you doing?\NHurry up and escape!
+Dialogue: 0,0:10:01.43,0:10:01.97,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:10:02.01,0:10:04.01,Default,,0000,0000,0000,,Ninja Art: Money Clone Jutsu!
+Dialogue: 0,0:10:06.30,0:10:07.59,Default,,0000,0000,0000,,Money Clone?!
+Dialogue: 0,0:10:11.59,0:10:12.01,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:10:12.85,0:10:14.59,Default,,0000,0000,0000,,Hey, you ugly savage pig!
+Dialogue: 0,0:10:14.59,0:10:17.97,Default,,0000,0000,0000,,Starting now,\NI, Kunihisa, will punish you!
+Dialogue: 0,0:10:20.05,0:10:21.47,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:10:24.18,0:10:27.51,Default,,0000,0000,0000,,Go! Get him! There!
+Dialogue: 0,0:10:30.60,0:10:36.51,Default,,0000,0000,0000,,What, nobody wants to eat your meat!\NYou dummy!
+Dialogue: 0,0:10:46.18,0:10:47.85,Default,,0000,0000,0000,,He ordered all of this!
+Dialogue: 0,0:10:47.97,0:10:48.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:48.80,0:10:51.59,Default,,0000,0000,0000,,I didn’t want to,\Nbut he forced me to…
+Dialogue: 0,0:10:51.64,0:10:52.85,Default,,0000,0000,0000,,Huh? W-Wait…
+Dialogue: 0,0:10:53.59,0:10:55.18,Default,,0000,0000,0000,,That’s a lie. It’s a misunderstanding!
+Dialogue: 0,0:10:56.10,0:10:58.59,Default,,0000,0000,0000,,Those are false charges!
+Dialogue: 0,0:11:05.51,0:11:06.85,Default,,0000,0000,0000,,Forgive me! Naruto…
+Dialogue: 0,0:11:08.59,0:11:10.26,Default,,0000,0000,0000,,I… How should I put this…?
+Dialogue: 0,0:11:10.59,0:11:13.39,Default,,0000,0000,0000,,really hate guys like you!
+Dialogue: 0,0:11:13.59,0:11:16.43,Default,,0000,0000,0000,,Why are you getting so testy?
+Dialogue: 0,0:11:16.59,0:11:19.68,Default,,0000,0000,0000,,Geez, poor people just can’t help\Nthat they have short tempers…
+Dialogue: 0,0:11:24.18,0:11:26.01,Default,,0000,0000,0000,,This’ll put you back in a good mood.
+Dialogue: 0,0:11:26.22,0:11:27.76,Default,,0000,0000,0000,,Take as much as you want!
+Dialogue: 0,0:11:27.93,0:11:29.01,Default,,0000,0000,0000,,Enough already!
+Dialogue: 0,0:11:30.18,0:11:32.01,Default,,0000,0000,0000,,I’m telling you to stop\Ndoing stuff like that!
+Dialogue: 0,0:11:32.35,0:11:33.10,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:11:33.43,0:11:36.10,Default,,0000,0000,0000,,It’s a big mistake to think that\Nanything can be resolved with money!
+Dialogue: 0,0:11:36.35,0:11:39.39,Default,,0000,0000,0000,,There are times when you have\Nto use your own power!
+Dialogue: 0,0:11:40.59,0:11:43.64,Default,,0000,0000,0000,,There hasn’t been anything that\NI couldn’t do with money so far!
+Dialogue: 0,0:11:44.64,0:11:46.97,Default,,0000,0000,0000,,You… Are you always like this?
+Dialogue: 0,0:11:47.26,0:11:49.60,Default,,0000,0000,0000,,With that personality,\Nyou can’t make friends!
+Dialogue: 0,0:11:49.85,0:11:52.43,Default,,0000,0000,0000,,It’s okay ‘cause\NI can buy friends with money!
+Dialogue: 0,0:11:52.89,0:11:53.59,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:11:54.80,0:11:57.35,Default,,0000,0000,0000,,You… Buy friends? You mean…
+Dialogue: 0,0:11:57.59,0:12:00.85,Default,,0000,0000,0000,,If I give ‘em money,\Neverybody will be my friend!
+Dialogue: 0,0:12:02.43,0:12:03.14,Default,,0000,0000,0000,,Kunihisa…
+Dialogue: 0,0:12:04.47,0:12:06.89,Default,,0000,0000,0000,,That’s why I hate country Ninjas.
+Dialogue: 0,0:12:07.64,0:12:10.05,Default,,0000,0000,0000,,They’re cheap and stink of poverty…
+Dialogue: 0,0:12:11.59,0:12:12.39,Default,,0000,0000,0000,,Stupid!
+Dialogue: 0,0:12:13.47,0:12:17.55,Default,,0000,0000,0000,,Oh, please wait, Master Kunihisa!
+Dialogue: 0,0:12:24.35,0:12:26.10,Default,,0000,0000,0000,,Running made me hungry.
+Dialogue: 0,0:12:27.39,0:12:28.97,Default,,0000,0000,0000,,Take this and buy a boxed lunch!
+Dialogue: 0,0:12:29.35,0:12:31.60,Default,,0000,0000,0000,,There’s nothing like a store\Nto buy lunch around here.
+Dialogue: 0,0:12:32.47,0:12:33.68,Default,,0000,0000,0000,,Well, snacks will be fine!
+Dialogue: 0,0:12:34.01,0:12:36.59,Default,,0000,0000,0000,,There’s no convenient store\Nor candy shop…
+Dialogue: 0,0:12:36.60,0:12:40.89,Default,,0000,0000,0000,,You’re useless!\NThis is why I hate the country!
+Dialogue: 0,0:12:44.51,0:12:45.59,Default,,0000,0000,0000,,Stupid Naruto.
+Dialogue: 0,0:12:49.59,0:12:50.22,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:12:51.26,0:12:52.59,Default,,0000,0000,0000,,Oh, Young Master!
+Dialogue: 0,0:12:54.22,0:12:55.59,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:56.97,0:12:59.43,Default,,0000,0000,0000,,Little fish, little fish!
+Dialogue: 0,0:13:00.59,0:13:02.85,Default,,0000,0000,0000,,Let’s eat!
+Dialogue: 0,0:13:03.89,0:13:07.10,Default,,0000,0000,0000,,The kid must be stupid to get\Ncaught in this cheap trick.
+Dialogue: 0,0:13:07.14,0:13:08.10,Default,,0000,0000,0000,,Don’t you agree, Bro?
+Dialogue: 0,0:13:08.14,0:13:08.97,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:13:18.97,0:13:20.85,Default,,0000,0000,0000,,Huh? Naruto?!
+Dialogue: 0,0:13:21.51,0:13:24.18,Default,,0000,0000,0000,,Aw man,\Nyou’re really high maintenance.
+Dialogue: 0,0:13:24.59,0:13:25.60,Default,,0000,0000,0000,,Those two guys just now…
+Dialogue: 0,0:13:25.68,0:13:27.60,Default,,0000,0000,0000,,They were going to catch you!
+Dialogue: 0,0:13:28.85,0:13:31.47,Default,,0000,0000,0000,,They were plotting a kidnapping, whatever…
+Dialogue: 0,0:13:32.59,0:13:33.59,Default,,0000,0000,0000,,Whatever…?
+Dialogue: 0,0:13:34.51,0:13:37.05,Default,,0000,0000,0000,,I’m often a target,\Nbecause I have money.
+Dialogue: 0,0:13:37.59,0:13:39.59,Default,,0000,0000,0000,,Often a target…? You…
+Dialogue: 0,0:13:40.01,0:13:43.30,Default,,0000,0000,0000,,More importantly,\NI want to eat more fish!
+Dialogue: 0,0:13:43.55,0:13:45.30,Default,,0000,0000,0000,,Go find a shop and buy some.
+Dialogue: 0,0:13:46.51,0:13:50.55,Default,,0000,0000,0000,,You… Still think you can do\Nanything with money?
+Dialogue: 0,0:13:51.93,0:13:54.59,Default,,0000,0000,0000,,All right, watch this!
+Dialogue: 0,0:13:59.43,0:14:01.97,Default,,0000,0000,0000,,Yay! Awesome! Awesome Naruto!
+Dialogue: 0,0:14:02.80,0:14:03.59,Default,,0000,0000,0000,,How’s that?!
+Dialogue: 0,0:14:03.72,0:14:08.30,Default,,0000,0000,0000,,You can just get things using\Nyour own power without using money.
+Dialogue: 0,0:14:09.59,0:14:12.59,Default,,0000,0000,0000,,Even… without using money?
+Dialogue: 0,0:14:14.80,0:14:15.72,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:14:16.59,0:14:18.59,Default,,0000,0000,0000,,He attacked us by surprise,\Nthat cowardly bastard.
+Dialogue: 0,0:14:18.68,0:14:20.60,Default,,0000,0000,0000,,I’ll give it back to him doubled!
+Dialogue: 0,0:14:20.97,0:14:22.43,Default,,0000,0000,0000,,Well, wait…
+Dialogue: 0,0:14:22.60,0:14:25.22,Default,,0000,0000,0000,,If we do it thoughtlessly,\Nwe’ll just get creamed again.
+Dialogue: 0,0:14:25.47,0:14:27.10,Default,,0000,0000,0000,,So what do we do?
+Dialogue: 0,0:14:27.39,0:14:28.64,Default,,0000,0000,0000,,We’ll use that thing.
+Dialogue: 0,0:14:29.01,0:14:29.72,Default,,0000,0000,0000,,That thing…?
+Dialogue: 0,0:14:36.14,0:14:38.59,Default,,0000,0000,0000,,Look close at the movement\Nof the fish…
+Dialogue: 0,0:14:38.89,0:14:41.59,Default,,0000,0000,0000,,Aim for the instant when\Nthey fall after jumping up.
+Dialogue: 0,0:14:41.80,0:14:42.76,Default,,0000,0000,0000,,Don’t get hasty.
+Dialogue: 0,0:14:44.64,0:14:45.43,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:14:46.47,0:14:47.14,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:14:47.72,0:14:49.14,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:14:49.93,0:14:51.51,Default,,0000,0000,0000,,O-One more time, Naruto!
+Dialogue: 0,0:14:51.64,0:14:53.97,Default,,0000,0000,0000,,I’ll get the Kunai knife,\Nso one more time!
+Dialogue: 0,0:14:54.76,0:14:55.76,Default,,0000,0000,0000,,Master Kunihisa!
+Dialogue: 0,0:14:56.10,0:14:58.55,Default,,0000,0000,0000,,– It’s deep over there!\N– Please be careful!
+Dialogue: 0,0:14:58.59,0:15:00.59,Default,,0000,0000,0000,,I know, I know…
+Dialogue: 0,0:15:01.97,0:15:03.97,Default,,0000,0000,0000,,Where did it go?
+Dialogue: 0,0:15:04.59,0:15:06.43,Default,,0000,0000,0000,,I think it’s in this area, but…
+Dialogue: 0,0:15:09.59,0:15:11.47,Default,,0000,0000,0000,,I won’t let you get away this time!
+Dialogue: 0,0:15:12.39,0:15:13.59,Default,,0000,0000,0000,,You guys…
+Dialogue: 0,0:15:13.93,0:15:17.72,Default,,0000,0000,0000,,We hired these guys with\Nthe money you threw away.
+Dialogue: 0,0:15:18.30,0:15:20.80,Default,,0000,0000,0000,,It means that now,\Nthey’re on our side…
+Dialogue: 0,0:15:21.18,0:15:24.72,Default,,0000,0000,0000,,Hey, you guys! I’ll pay you double\Nwhat those guys did!
+Dialogue: 0,0:15:24.89,0:15:26.59,Default,,0000,0000,0000,,So be on my side…
+Dialogue: 0,0:15:27.59,0:15:28.72,Default,,0000,0000,0000,,Wh-What the…?
+Dialogue: 0,0:15:32.18,0:15:34.43,Default,,0000,0000,0000,,Looks like you’ve run out of money.
+Dialogue: 0,0:15:34.85,0:15:38.89,Default,,0000,0000,0000,,How about you guys over there?\NWanna join us?
+Dialogue: 0,0:15:39.68,0:15:42.01,Default,,0000,0000,0000,,We’ll pay up stacks of money.
+Dialogue: 0,0:15:42.35,0:15:45.51,Default,,0000,0000,0000,,Humph! These guys have been\Nwith me for a long time.
+Dialogue: 0,0:15:45.59,0:15:46.89,Default,,0000,0000,0000,,That paltry sum won’t…
+Dialogue: 0,0:15:47.68,0:15:50.97,Default,,0000,0000,0000,,We’re not going along with\Nyour selfish acts any longer!
+Dialogue: 0,0:15:51.05,0:15:52.68,Default,,0000,0000,0000,,Y-You guys?!
+Dialogue: 0,0:15:55.85,0:15:57.68,Default,,0000,0000,0000,,No! I don’t like it!
+Dialogue: 0,0:15:58.10,0:16:01.59,Default,,0000,0000,0000,,Annoying brat. I’ll have to tie you up\Nso you won’t move.
+Dialogue: 0,0:16:08.10,0:16:10.01,Default,,0000,0000,0000,,What are you doing, Kunihisa?!
+Dialogue: 0,0:16:10.14,0:16:12.72,Default,,0000,0000,0000,,Naruto, I… I…
+Dialogue: 0,0:16:12.76,0:16:14.76,Default,,0000,0000,0000,,It’s fine already!
+Dialogue: 0,0:16:15.89,0:16:20.10,Default,,0000,0000,0000,,Hey you… I’ll pay you double what\Nyou get for your mission.
+Dialogue: 0,0:16:20.59,0:16:23.14,Default,,0000,0000,0000,,Won’t you hand that brat over to us?
+Dialogue: 0,0:16:23.55,0:16:27.55,Default,,0000,0000,0000,,We’re just going to demand\Nransom money from his parents is all.
+Dialogue: 0,0:16:27.59,0:16:31.26,Default,,0000,0000,0000,,We won’t kill him.\NRelax and hand him over.
+Dialogue: 0,0:16:33.35,0:16:36.76,Default,,0000,0000,0000,,I-It’s not enough?\NHere, how about this?
+Dialogue: 0,0:16:37.59,0:16:38.43,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:16:38.89,0:16:40.59,Default,,0000,0000,0000,,Kunihisa! Ride on my back!
+Dialogue: 0,0:16:40.68,0:16:41.85,Default,,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:16:43.51,0:16:48.05,Default,,0000,0000,0000,,S-Still not enough, huh? Here!\NThat’s all of it! Take it!
+Dialogue: 0,0:16:48.51,0:16:50.14,Default,,0000,0000,0000,,Like I said…
+Dialogue: 0,0:16:51.59,0:16:54.89,Default,,0000,0000,0000,,It’s a big mistake to think\Nyou can obtain anything with money!
+Dialogue: 0,0:16:55.59,0:16:56.59,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:16:56.89,0:16:57.97,Default,,0000,0000,0000,,After them!
+Dialogue: 0,0:17:00.51,0:17:02.59,Default,,0000,0000,0000,,Listen! Hold on tightly Kunihisa.
+Dialogue: 0,0:17:02.76,0:17:03.47,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:05.59,0:17:08.68,Default,,0000,0000,0000,,Damn! I can’t move\Nwith him on my back!
+Dialogue: 0,0:17:15.59,0:17:17.68,Default,,0000,0000,0000,,I can’t see the bottom, Naruto…
+Dialogue: 0,0:17:20.14,0:17:21.26,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:17:24.85,0:17:26.80,Default,,0000,0000,0000,,Okay! You go on ahead.
+Dialogue: 0,0:17:26.97,0:17:28.59,Default,,0000,0000,0000,,What?! Go on ahead?!
+Dialogue: 0,0:17:32.22,0:17:34.18,Default,,0000,0000,0000,,There he is! Let’s get him!
+Dialogue: 0,0:17:34.22,0:17:35.26,Default,,0000,0000,0000,,– Yeah! 					– Yeah!
+Dialogue: 0,0:17:35.64,0:17:36.93,Default,,0000,0000,0000,,Wh-What are you doing?!
+Dialogue: 0,0:17:36.97,0:17:38.59,Default,,0000,0000,0000,,It’s okay! Hurry up and jump!
+Dialogue: 0,0:17:39.18,0:17:43.18,Default,,0000,0000,0000,,I-I can’t… I’m scared, Naruto!
+Dialogue: 0,0:17:43.89,0:17:45.22,Default,,0000,0000,0000,,It’s not scary, c’mon!
+Dialogue: 0,0:17:45.26,0:17:46.89,Default,,0000,0000,0000,,I can’t… I’m scared…!
+Dialogue: 0,0:17:48.97,0:17:49.80,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:17:50.10,0:17:50.76,Default,,0000,0000,0000,,Do it!
+Dialogue: 0,0:17:53.10,0:17:54.10,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:17:56.05,0:17:57.59,Default,,0000,0000,0000,,Well, you’re coming with me!
+Dialogue: 0,0:17:58.51,0:17:59.93,Default,,0000,0000,0000,,Hurry! Kunihisa!
+Dialogue: 0,0:18:00.01,0:18:00.89,Default,,0000,0000,0000,,B-But……
+Dialogue: 0,0:18:01.01,0:18:04.51,Default,,0000,0000,0000,,It’s okay… You can definitely do this!\NBelieve it!
+Dialogue: 0,0:18:05.89,0:18:06.97,Default,,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:18:10.26,0:18:11.85,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:18:12.39,0:18:14.47,Default,,0000,0000,0000,,Go Kunihisa!
+Dialogue: 0,0:18:14.51,0:18:16.14,Default,,0000,0000,0000,,Oh, Big Brother!
+Dialogue: 0,0:18:23.18,0:18:25.35,Default,,0000,0000,0000,,Huh?! Kunihisa?!
+Dialogue: 0,0:18:28.97,0:18:30.39,Default,,0000,0000,0000,,It hurts!
+Dialogue: 0,0:18:32.64,0:18:34.64,Default,,0000,0000,0000,,I’m going to clean those guys out\Nand then I’ll be right over!
+Dialogue: 0,0:18:34.68,0:18:35.93,Default,,0000,0000,0000,,So wait a second!
+Dialogue: 0,0:18:37.30,0:18:40.10,Default,,0000,0000,0000,,D-Daruto…
+Dialogue: 0,0:18:44.68,0:18:46.30,Default,,0000,0000,0000,,D-Darudo!
+Dialogue: 0,0:18:46.85,0:18:50.18,Default,,0000,0000,0000,,The wall’s collapsing… Escape!
+Dialogue: 0,0:18:50.60,0:18:53.47,Default,,0000,0000,0000,,How long are you guys gonna be\Non top of me!
+Dialogue: 0,0:18:53.64,0:18:55.01,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:18:56.76,0:18:58.59,Default,,0000,0000,0000,,Wh-Wh-What’s going on?!
+Dialogue: 0,0:19:00.47,0:19:01.59,Default,,0000,0000,0000,,I have to go to him!
+Dialogue: 0,0:19:02.64,0:19:06.05,Default,,0000,0000,0000,,There are times when you have\Nto use your own power!
+Dialogue: 0,0:19:07.18,0:19:09.76,Default,,0000,0000,0000,,Use my own…power!
+Dialogue: 0,0:19:13.10,0:19:17.39,Default,,0000,0000,0000,,You can just get things using\Nyour own power with out using money.
+Dialogue: 0,0:19:18.59,0:19:20.05,Default,,0000,0000,0000,,Even without money…
+Dialogue: 0,0:19:20.85,0:19:22.47,Default,,0000,0000,0000,,with my own power!
+Dialogue: 0,0:19:24.60,0:19:26.72,Default,,0000,0000,0000,,I can…do this!
+Dialogue: 0,0:19:29.51,0:19:30.72,Default,,0000,0000,0000,,Just one step short!
+Dialogue: 0,0:19:31.72,0:19:33.80,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:19:34.97,0:19:35.76,Default,,0000,0000,0000,,Kunihisa!
+Dialogue: 0,0:19:41.60,0:19:44.01,Default,,0000,0000,0000,,No! A little bit more!
+Dialogue: 0,0:19:47.14,0:19:48.14,Default,,0000,0000,0000,,– We did it! 					– We did it!
+Dialogue: 0,0:19:48.55,0:19:49.59,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:19:53.59,0:19:56.60,Default,,0000,0000,0000,,I-It hurts but…\NI’m scared but…
+Dialogue: 0,0:19:57.05,0:19:58.35,Default,,0000,0000,0000,,I…!
+Dialogue: 0,0:20:00.51,0:20:02.47,Default,,0000,0000,0000,,You… What a face?!
+Dialogue: 0,0:20:04.93,0:20:05.80,Default,,0000,0000,0000,,Kunihisa…
+Dialogue: 0,0:20:08.22,0:20:09.64,Default,,0000,0000,0000,,You did a good job!
+Dialogue: 0,0:20:14.93,0:20:17.59,Default,,0000,0000,0000,,Darudo!
+Dialogue: 0,0:20:17.93,0:20:20.59,Default,,0000,0000,0000,,Wha--?!\NHold on, don’t drip snot!
+Dialogue: 0,0:20:20.59,0:20:22.80,Default,,0000,0000,0000,,But Naruto!
+Dialogue: 0,0:20:22.89,0:20:24.59,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:20:29.59,0:20:30.76,Default,,0000,0000,0000,,Well… See ya!
+Dialogue: 0,0:20:31.51,0:20:34.35,Default,,0000,0000,0000,,Yeah! Next time you come play\Nat my house, Naruto!
+Dialogue: 0,0:20:34.59,0:20:35.93,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:36.55,0:20:40.39,Default,,0000,0000,0000,,Really… You took great care of him.\NThank you!
+Dialogue: 0,0:20:40.59,0:20:41.47,Default,,0000,0000,0000,,Yeah, well…
+Dialogue: 0,0:20:43.18,0:20:43.89,Default,,0000,0000,0000,,Well then…
+Dialogue: 0,0:20:44.05,0:20:44.59,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:20:53.43,0:20:54.76,Default,,0000,0000,0000,,Papa, Papa!
+Dialogue: 0,0:20:55.05,0:20:56.59,Default,,0000,0000,0000,,What is it, little Kuni?
+Dialogue: 0,0:20:57.05,0:20:59.43,Default,,0000,0000,0000,,Look, it’s sparkly and pretty…
+Dialogue: 0,0:20:59.89,0:21:03.72,Default,,0000,0000,0000,,But it has no value,\Nit’s just a marble, little Kuni.
+Dialogue: 0,0:21:05.01,0:21:06.55,Default,,0000,0000,0000,,That’s true, Papa…
+Dialogue: 0,0:21:07.51,0:21:08.18,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:21:10.59,0:21:13.59,Default,,0000,0000,0000,,As long as it's pretty, it doesn't matter\Nwhether it's valueless, right?
+Dialogue: 0,0:21:31.68,0:21:34.22,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:34.60,0:21:37.97,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:38.14,0:21:40.59,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:41.14,0:21:43.59,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:44.59,0:21:47.59,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:47.64,0:21:50.26,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:50.93,0:21:53.59,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:54.01,0:21:55.43,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:58.47,0:22:02.51,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:04.76,0:22:08.76,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:10.43,0:22:13.59,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:13.59,0:22:16.60,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:16.76,0:22:19.64,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:19.68,0:22:23.43,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:23.51,0:22:26.55,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:26.59,0:22:29.51,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:29.60,0:22:36.01,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:36.43,0:22:39.35,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:39.39,0:22:42.72,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:50.72,0:22:54.26,Default,,0000,0000,0000,,All right, I’m fired up!\NOur mission this time is a treasure hunt!
+Dialogue: 0,0:22:54.35,0:22:58.05,Default,,0000,0000,0000,,But your recent low mission\Nsuccess rate concerns me.
+Dialogue: 0,0:22:58.14,0:23:01.18,Default,,0000,0000,0000,,No need to worry.\NWe’ve got a map, so it’ll be a cinch!
+Dialogue: 0,0:23:01.22,0:23:02.26,Default,,0000,0000,0000,,I’ve thought about it, you see…
+Dialogue: 0,0:23:02.30,0:23:03.93,Default,,0000,0000,0000,,No need to think, believe it!
+Dialogue: 0,0:23:03.93,0:23:05.60,Default,,0000,0000,0000,,If you fail this mission…
+Dialogue: 0,0:23:05.64,0:23:07.05,Default,,0000,0000,0000,,It’ll be okay, I tell you!
+Dialogue: 0,0:23:07.10,0:23:09.64,Default,,0000,0000,0000,,You’ll all start over again\Nfrom the Academy!
+Dialogue: 0,0:23:09.72,0:23:11.30,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:23:11.76,0:23:15.05,Default,,0000,0000,0000,,Next time: "The Treasure Hunt is On!"

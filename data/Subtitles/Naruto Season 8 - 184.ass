@@ -1,0 +1,319 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.14,0:00:03.55,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.59,0:00:06.35,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.39,0:00:12.47,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.85,0:00:28.76,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.80,0:00:34.30,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.35,0:00:36.93,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:36.97,0:00:40.55,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.59,0:00:44.97,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.59,0:00:51.59,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.01,0:00:56.59,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.60,0:01:02.18,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.22,0:01:07.59,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.59,0:01:10.64,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.68,0:01:19.59,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:43.30,0:01:46.59,Default,,0000,0000,0000,,What do you mean by\Nmonitoring Akamaru?
+Dialogue: 0,0:01:47.47,0:01:49.43,Default,,0000,0000,0000,,You know about the incident
+Dialogue: 0,0:01:49.47,0:01:52.60,Default,,0000,0000,0000,,where someone from outside\Ninfiltrated the village, right?
+Dialogue: 0,0:01:53.01,0:01:54.59,Default,,0000,0000,0000,,Yeah, I know about that.
+Dialogue: 0,0:01:54.59,0:01:58.51,Default,,0000,0000,0000,,But I heard that Kiba and the others\Nresolved that incident without any trouble.
+Dialogue: 0,0:01:58.60,0:01:59.51,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:01:59.59,0:02:02.59,Default,,0000,0000,0000,,Damn! That Kiba!
+Dialogue: 0,0:02:04.59,0:02:07.60,Default,,0000,0000,0000,,I want a mission where\NI totally kick an enemy’s butt.
+Dialogue: 0,0:02:07.76,0:02:09.55,Default,,0000,0000,0000,,To be exact, that’s wrong.
+Dialogue: 0,0:02:09.85,0:02:10.60,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:10.93,0:02:13.64,Default,,0000,0000,0000,,Before Kiba and the others\Nhad the intruder in custody…
+Dialogue: 0,0:02:13.68,0:02:15.59,Default,,0000,0000,0000,,he swallowed a pellet\Nand killed himself.
+Dialogue: 0,0:02:15.59,0:02:17.30,Default,,0000,0000,0000,,What? Suicide…?
+Dialogue: 0,0:02:17.59,0:02:19.05,Default,,0000,0000,0000,,In the investigation that followed,
+Dialogue: 0,0:02:19.10,0:02:20.76,Default,,0000,0000,0000,,it was revealed that the enemy\Nwas a Shinobi
+Dialogue: 0,0:02:20.80,0:02:22.72,Default,,0000,0000,0000,,from another land that uses\Na unique tactic.
+Dialogue: 0,0:02:23.60,0:02:29.10,Default,,0000,0000,0000,,Perhaps he took his own life\Nin order to seal that power.
+Dialogue: 0,0:02:31.55,0:02:34.47,Default,,0000,0000,0000,,What’s the “unique” tactic?
+Dialogue: 0,0:02:35.93,0:02:38.22,Default,,0000,0000,0000,,Something you would call\Na biological weapon.
+Dialogue: 0,0:02:39.59,0:02:40.85,Default,,0000,0000,0000,,Biological weapon?
+Dialogue: 0,0:02:44.18,0:02:45.72,Default,,0000,0000,0000,,It’s a particular pathogen…
+Dialogue: 0,0:02:46.22,0:02:49.51,Default,,0000,0000,0000,,a terrible weapon where someone\Ninfected will gradually lose oneself
+Dialogue: 0,0:02:49.59,0:02:52.59,Default,,0000,0000,0000,,and have their body taken over.
+Dialogue: 0,0:02:53.18,0:02:56.10,Default,,0000,0000,0000,,But how is that connected\Nwith monitoring Akamaru?
+Dialogue: 0,0:02:58.55,0:03:00.22,Default,,0000,0000,0000,,Could it be that Akamaru was…?!
+Dialogue: 0,0:03:05.05,0:03:07.01,Default,,0000,0000,0000,,There’s a possibility he’s infected.
+Dialogue: 0,0:03:19.05,0:03:21.18,Default,,0000,0000,0000,,He still doesn’t look so well.
+Dialogue: 0,0:03:22.01,0:03:23.26,Default,,0000,0000,0000,,Y-Yeah…
+Dialogue: 0,0:03:23.80,0:03:25.93,Default,,0000,0000,0000,,Since Akamaru’s not\Nin his best condition,
+Dialogue: 0,0:03:26.59,0:03:28.10,Default,,0000,0000,0000,,I’m skipping training today as well.
+Dialogue: 0,0:03:29.47,0:03:30.05,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:03:36.68,0:03:37.59,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:03:42.76,0:03:44.72,Default,,0000,0000,0000,,Wh-What’re you doing, Shino?!
+Dialogue: 0,0:03:49.76,0:03:51.80,Default,,0000,0000,0000,,Shino, do something quick!
+Dialogue: 0,0:03:56.89,0:03:57.60,Default,,0000,0000,0000,,Shino!
+Dialogue: 0,0:04:07.01,0:04:10.10,Default,,0000,0000,0000,,The insects suddenly\Nstopped listening to me.
+Dialogue: 0,0:04:10.55,0:04:12.59,Default,,0000,0000,0000,,Jeez, give me a break.
+Dialogue: 0,0:04:13.18,0:04:13.80,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:04:15.85,0:04:19.30,Default,,0000,0000,0000,,We’ll head back early\Nfor the time being. See ya.
+Dialogue: 0,0:04:20.97,0:04:23.80,Default,,0000,0000,0000,,I hope… Akamaru gets better soon.
+Dialogue: 0,0:04:25.76,0:04:26.60,Default,,0000,0000,0000,,Shino?
+Dialogue: 0,0:04:27.97,0:04:31.47,Default,,0000,0000,0000,,It’s the first time the insects\Nhave attacked a comrade…
+Dialogue: 0,0:04:39.64,0:04:40.68,Default,,0000,0000,0000,,What is it, Akamaru?
+Dialogue: 0,0:04:43.26,0:04:45.35,Default,,0000,0000,0000,,Oh, shoot! I’ve been spotted!
+Dialogue: 0,0:04:48.59,0:04:50.14,Default,,0000,0000,0000,,What’re you doing, Naruto?
+Dialogue: 0,0:04:50.59,0:04:51.76,Default,,0000,0000,0000,,Wh-What, you ask?
+Dialogue: 0,0:04:53.76,0:04:56.18,Default,,0000,0000,0000,,I’m developing a new Jutsu,\Nbelieve it!
+Dialogue: 0,0:04:56.80,0:04:59.14,Default,,0000,0000,0000,,So as for me, I’m busy and…
+Dialogue: 0,0:05:06.59,0:05:11.18,Default,,0000,0000,0000,,Kiba's Long Day
+Dialogue: 0,0:05:25.39,0:05:27.64,Default,,0000,0000,0000,,Is there no mistake, Sis?
+Dialogue: 0,0:05:28.43,0:05:31.51,Default,,0000,0000,0000,,I’d say the possibility\Nat this point is around fifty-fifty.
+Dialogue: 0,0:05:33.64,0:05:35.93,Default,,0000,0000,0000,,I still haven’t been able to identify it,
+Dialogue: 0,0:05:36.30,0:05:39.26,Default,,0000,0000,0000,,but these are the lab results of\Nthe blood drawn from Akamaru…
+Dialogue: 0,0:05:40.18,0:05:42.68,Default,,0000,0000,0000,,But! It could be some kind of mistake!
+Dialogue: 0,0:05:44.22,0:05:48.05,Default,,0000,0000,0000,,Do you think I, a veterinarian,\Nwould make such a mistake?
+Dialogue: 0,0:05:50.39,0:05:51.89,Default,,0000,0000,0000,,Yeah… You’re right.
+Dialogue: 0,0:05:56.93,0:05:57.85,Default,,0000,0000,0000,,What is it, Akamaru?!
+Dialogue: 0,0:06:02.59,0:06:04.97,Default,,0000,0000,0000,,Let go! Let go!
+Dialogue: 0,0:06:05.55,0:06:08.43,Default,,0000,0000,0000,,Akamaru, it’s Naruto. It’s okay to let go.
+Dialogue: 0,0:06:12.51,0:06:13.26,Default,,0000,0000,0000,,Hey, Akamaru!
+Dialogue: 0,0:06:14.59,0:06:15.35,Default,,0000,0000,0000,,Akamaru!
+Dialogue: 0,0:06:18.72,0:06:21.01,Default,,0000,0000,0000,,What did you do that for Akamaru?
+Dialogue: 0,0:06:23.47,0:06:26.89,Default,,0000,0000,0000,,I mean, what’re you doing\Nin the front yard of my house?
+Dialogue: 0,0:06:28.22,0:06:30.68,Default,,0000,0000,0000,,Huh? Well, that’s…
+Dialogue: 0,0:06:31.14,0:06:32.30,Default,,0000,0000,0000,,Anyway, come in.
+Dialogue: 0,0:06:33.18,0:06:36.18,Default,,0000,0000,0000,,For the time being, I have to fulfill\Nmy responsibility as the owner.
+Dialogue: 0,0:06:36.59,0:06:37.30,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:38.39,0:06:39.43,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:41.59,0:06:46.59,Default,,0000,0000,0000,,Geez! Biting a comrade\Nof the same village can’t be allowed!
+Dialogue: 0,0:06:46.64,0:06:48.76,Default,,0000,0000,0000,,Are you training him properly, Kiba?!
+Dialogue: 0,0:06:53.89,0:06:54.60,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:06:54.68,0:06:57.39,Default,,0000,0000,0000,,It’s finished! Perfect if\NI do say so myself!
+Dialogue: 0,0:07:05.14,0:07:09.14,Default,,0000,0000,0000,,Sis! That looks just like\Na surgical scar!
+Dialogue: 0,0:07:09.43,0:07:13.55,Default,,0000,0000,0000,,What? Really?\NI thought it turned out well, though…
+Dialogue: 0,0:07:14.10,0:07:15.59,Default,,0000,0000,0000,,Sorry, Naruto.
+Dialogue: 0,0:07:15.59,0:07:17.43,Default,,0000,0000,0000,,Have Sakura or someone\Npatch them up for you!
+Dialogue: 0,0:07:17.60,0:07:18.80,Default,,0000,0000,0000,,Hm? Right…
+Dialogue: 0,0:07:20.55,0:07:21.22,Default,,0000,0000,0000,,See ya.
+Dialogue: 0,0:07:21.35,0:07:21.85,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:07:22.55,0:07:24.30,Default,,0000,0000,0000,,See you later too, Miss Hana!
+Dialogue: 0,0:07:33.76,0:07:34.80,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:07:38.22,0:07:39.14,Default,,0000,0000,0000,,I’m telling you,
+Dialogue: 0,0:07:39.18,0:07:42.22,Default,,0000,0000,0000,,there’s nothing else other than\Nmy pants getting all torn up.
+Dialogue: 0,0:07:44.72,0:07:47.39,Default,,0000,0000,0000,,Shino’s insects attacked Akamaru…
+Dialogue: 0,0:07:47.59,0:07:50.05,Default,,0000,0000,0000,,He even attacked Naruto, whom\Nhe should know very well.
+Dialogue: 0,0:07:54.55,0:07:56.22,Default,,0000,0000,0000,,There’s trouble, Lady Tsunade!
+Dialogue: 0,0:08:06.59,0:08:08.22,Default,,0000,0000,0000,,It seems they were attacked\Nby someone
+Dialogue: 0,0:08:08.26,0:08:09.97,Default,,0000,0000,0000,,in the middle of night training.
+Dialogue: 0,0:08:10.80,0:08:13.60,Default,,0000,0000,0000,,Looks like they launched\Na sneak attack with quite a few men.
+Dialogue: 0,0:08:14.47,0:08:16.72,Default,,0000,0000,0000,,No, it seems there was just one culprit.
+Dialogue: 0,0:08:16.93,0:08:19.05,Default,,0000,0000,0000,,What?! All of this by one person?!
+Dialogue: 0,0:08:19.72,0:08:21.14,Default,,0000,0000,0000,,To be precise, that’s not correct.
+Dialogue: 0,0:08:26.39,0:08:27.35,Default,,0000,0000,0000,,It’s one animal.
+Dialogue: 0,0:08:29.59,0:08:30.59,Default,,0000,0000,0000,,There’s no doubt.
+Dialogue: 0,0:08:32.59,0:08:33.68,Default,,0000,0000,0000,,There’s trouble, Kiba!
+Dialogue: 0,0:08:34.51,0:08:35.72,Default,,0000,0000,0000,,You’re talking about the incident
+Dialogue: 0,0:08:35.76,0:08:38.01,Default,,0000,0000,0000,,where Shinobi were attacked during\Nnight training last night, right…?
+Dialogue: 0,0:08:38.47,0:08:39.76,Default,,0000,0000,0000,,It-It can’t be!
+Dialogue: 0,0:08:40.35,0:08:43.18,Default,,0000,0000,0000,,It seems it’s as you said, Sis…
+Dialogue: 0,0:08:43.80,0:08:45.59,Default,,0000,0000,0000,,I can smell blood from Akamaru.
+Dialogue: 0,0:08:59.85,0:09:03.59,Default,,0000,0000,0000,,That’s Kiba Inuzuka’s\NNinja Hound Akamaru, correct?
+Dialogue: 0,0:09:04.01,0:09:06.47,Default,,0000,0000,0000,,You jerks.\NWhat do you want with Akamaru?!
+Dialogue: 0,0:09:08.93,0:09:09.76,Default,,0000,0000,0000,,A warrant…?
+Dialogue: 0,0:09:10.43,0:09:11.01,Default,,0000,0000,0000,,Kiba…!
+Dialogue: 0,0:09:11.59,0:09:13.59,Default,,0000,0000,0000,,Yes, there’s no mistake.
+Dialogue: 0,0:09:14.22,0:09:16.93,Default,,0000,0000,0000,,Kiba Inuzuka, by order of the Hokage,
+Dialogue: 0,0:09:17.26,0:09:19.59,Default,,0000,0000,0000,,the Ninja Hound Akamaru is to be kept
+Dialogue: 0,0:09:19.59,0:09:21.59,Default,,0000,0000,0000,,under the supervision\Nof the Anbu Black Ops.
+Dialogue: 0,0:09:26.55,0:09:27.89,Default,,0000,0000,0000,,– Damn it! 					– Kiba!
+Dialogue: 0,0:09:29.39,0:09:32.35,Default,,0000,0000,0000,,We should obey\Nthe Lady Hokage’s order.
+Dialogue: 0,0:09:46.64,0:09:47.97,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:09:49.39,0:09:50.05,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:09:55.18,0:09:55.72,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:09:57.76,0:09:59.22,Default,,0000,0000,0000,,Thanks, Sis.
+Dialogue: 0,0:09:59.89,0:10:02.80,Default,,0000,0000,0000,,This contains medicine that I prepared,
+Dialogue: 0,0:10:03.18,0:10:05.01,Default,,0000,0000,0000,,so give it to the vet over there.
+Dialogue: 0,0:10:05.59,0:10:07.59,Default,,0000,0000,0000,,Right. I’m off, then.
+Dialogue: 0,0:10:31.01,0:10:31.85,Default,,0000,0000,0000,,Naruto…?
+Dialogue: 0,0:10:33.64,0:10:37.22,Default,,0000,0000,0000,,What’s the idea of Akamaru\Nbeing detained?!
+Dialogue: 0,0:10:37.72,0:10:40.01,Default,,0000,0000,0000,,Akamaru is the culprit from\Nlast night’s incident.
+Dialogue: 0,0:10:40.80,0:10:42.05,Default,,0000,0000,0000,,We have sufficient proof as well.
+Dialogue: 0,0:10:42.59,0:10:44.76,Default,,0000,0000,0000,,At this point, it’s an unavoidable measure.
+Dialogue: 0,0:10:45.72,0:10:50.05,Default,,0000,0000,0000,,The Medical Team is now desperately\Nlooking for a way to save Akamaru.
+Dialogue: 0,0:10:51.30,0:10:52.47,Default,,0000,0000,0000,,Don’t worry too much.
+Dialogue: 0,0:10:52.59,0:10:56.59,Default,,0000,0000,0000,,If…that doesn’t work either,\Nwhat’ll happen to Akamaru?
+Dialogue: 0,0:10:58.22,0:10:59.59,Default,,0000,0000,0000,,At that time…
+Dialogue: 0,0:11:00.39,0:11:02.22,Default,,0000,0000,0000,,there’ll be nothing left to do\Nbut to put Akamaru down!
+Dialogue: 0,0:11:04.35,0:11:05.97,Default,,0000,0000,0000,,Hidden Leaf Veterinary Hospital
+Dialogue: 0,0:11:06.47,0:11:08.01,Default,,0000,0000,0000,,You don’t need to worry.
+Dialogue: 0,0:11:08.47,0:11:10.30,Default,,0000,0000,0000,,The Medical Corps will figure\Nsomething out soon.
+Dialogue: 0,0:11:10.72,0:11:11.47,Default,,0000,0000,0000,,Right…
+Dialogue: 0,0:11:12.59,0:11:13.59,Default,,0000,0000,0000,,Take care on your way home.
+Dialogue: 0,0:11:14.51,0:11:15.14,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:11:19.43,0:11:20.30,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:11:22.35,0:11:24.47,Default,,0000,0000,0000,,I won’t hand you over to anyone.
+Dialogue: 0,0:11:28.55,0:11:31.59,Default,,0000,0000,0000,,It seems Kiba Inuzuka\Nhas taken Akamaru and fled.
+Dialogue: 0,0:11:32.10,0:11:34.26,Default,,0000,0000,0000,,Lady Tsunade, what shall we do?
+Dialogue: 0,0:11:34.72,0:11:37.05,Default,,0000,0000,0000,,In preparation for the worst,
+Dialogue: 0,0:11:37.10,0:11:39.39,Default,,0000,0000,0000,,have the Special Pursuit Corps\Nstand by here!
+Dialogue: 0,0:11:39.64,0:11:41.47,Default,,0000,0000,0000,,The Special Pursuit Corps…
+Dialogue: 0,0:11:41.60,0:11:45.68,Default,,0000,0000,0000,,C-Could it be that you’re really\Ngoing to kill Akamaru…Grandma?
+Dialogue: 0,0:11:48.18,0:11:49.72,Default,,0000,0000,0000,,Grandma Tsunade!
+Dialogue: 0,0:11:51.59,0:11:53.10,Default,,0000,0000,0000,,It’s hard for me, too.
+Dialogue: 0,0:11:58.26,0:11:59.43,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:12:03.30,0:12:03.85,Default,,0000,0000,0000,,Did you find them?!
+Dialogue: 0,0:12:04.51,0:12:05.05,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:12:06.72,0:12:07.59,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:12:08.55,0:12:09.85,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:12:18.59,0:12:20.59,Default,,0000,0000,0000,,He’s rapidly getting worse.
+Dialogue: 0,0:12:22.60,0:12:23.43,Default,,0000,0000,0000,,Akamaru!
+Dialogue: 0,0:12:24.68,0:12:25.59,Default,,0000,0000,0000,,Where are they?
+Dialogue: 0,0:12:25.85,0:12:27.01,Default,,0000,0000,0000,,They should be around here.
+Dialogue: 0,0:12:34.72,0:12:37.68,Default,,0000,0000,0000,,I swore to protect him,\Nno matter what!
+Dialogue: 0,0:12:40.35,0:12:43.59,Default,,0000,0000,0000,,I swore never I’d never let him go through\Nthat experience ever again…!
+Dialogue: 0,0:12:51.93,0:12:54.26,Default,,0000,0000,0000,,The Special Pursuit Corps\Nhas assembled.
+Dialogue: 0,0:12:56.30,0:12:57.22,Default,,0000,0000,0000,,Show the team in.
+Dialogue: 0,0:13:03.93,0:13:04.60,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:13:05.39,0:13:06.76,Default,,0000,0000,0000,,Where are you?!
+Dialogue: 0,0:13:25.59,0:13:27.22,Default,,0000,0000,0000,,I guess I was able to hide\Nmy tracks somewhat…
+Dialogue: 0,0:13:33.10,0:13:36.60,Default,,0000,0000,0000,,This is a serum for Akamaru\Nthat the Medical Corps whipped up.
+Dialogue: 0,0:13:37.72,0:13:39.43,Default,,0000,0000,0000,,I can’t guarantee the level of effect.
+Dialogue: 0,0:13:40.26,0:13:43.26,Default,,0000,0000,0000,,There’s maybe a fifty-percent chance\Nof survival.
+Dialogue: 0,0:13:44.14,0:13:45.80,Default,,0000,0000,0000,,There’s also a risk of side-effects
+Dialogue: 0,0:13:46.01,0:13:48.55,Default,,0000,0000,0000,,that would cause Akamaru\Nto go even more berserk.
+Dialogue: 0,0:13:49.68,0:13:51.05,Default,,0000,0000,0000,,In the event that happens…
+Dialogue: 0,0:13:51.89,0:13:54.64,Default,,0000,0000,0000,,It’s an unavoidable measure,\Nbut Akamaru must…
+Dialogue: 0,0:13:57.39,0:13:58.18,Default,,0000,0000,0000,,Reporting!
+Dialogue: 0,0:13:58.64,0:14:03.05,Default,,0000,0000,0000,,The Akamaru Pursuit Corps has\Nlost the trail of Kiba and Akamaru.
+Dialogue: 0,0:14:03.51,0:14:04.30,Default,,0000,0000,0000,,Lady Tsunade.
+Dialogue: 0,0:14:21.14,0:14:21.76,Default,,0000,0000,0000,,That way?!
+Dialogue: 0,0:14:22.72,0:14:23.59,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:14:24.30,0:14:25.30,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:14:33.85,0:14:36.30,Default,,0000,0000,0000,,Wh-What’s that?
+Dialogue: 0,0:14:37.22,0:14:38.05,Default,,0000,0000,0000,,It’s Akamaru…
+Dialogue: 0,0:14:38.59,0:14:39.47,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:14:40.76,0:14:42.97,Default,,0000,0000,0000,,I won’t hand over Akamaru to anyone!
+Dialogue: 0,0:14:44.26,0:14:45.72,Default,,0000,0000,0000,,What’re you doing?!
+Dialogue: 0,0:14:46.05,0:14:48.22,Default,,0000,0000,0000,,Have you come to kill Akamaru?!
+Dialogue: 0,0:14:48.55,0:14:51.26,Default,,0000,0000,0000,,No! I just came out of concern!
+Dialogue: 0,0:14:51.55,0:14:54.76,Default,,0000,0000,0000,,You lie! The Lady Hokage said it,\Ndidn’t she?!
+Dialogue: 0,0:14:55.59,0:14:57.59,Default,,0000,0000,0000,,There’ll be nothing else to do\Nbut to kill Akamaru.
+Dialogue: 0,0:15:02.47,0:15:04.85,Default,,0000,0000,0000,,You came to dispose of Akamaru, right?!
+Dialogue: 0,0:15:05.97,0:15:08.51,Default,,0000,0000,0000,,I won’t hand over Akamaru\Nto anyone!
+Dialogue: 0,0:15:08.68,0:15:11.26,Default,,0000,0000,0000,,This isn’t the time\Nto be doing that!
+Dialogue: 0,0:15:11.64,0:15:15.35,Default,,0000,0000,0000,,Something called the Special Pursuit Corps\Nor whatever is coming after Akamaru!
+Dialogue: 0,0:15:15.59,0:15:16.43,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:21.59,0:15:25.10,Default,,0000,0000,0000,,The Pursuit Corps should\Nbe here soon.
+Dialogue: 0,0:15:25.43,0:15:28.80,Default,,0000,0000,0000,,Akamaru will really be\Nin trouble if that happens!
+Dialogue: 0,0:15:29.14,0:15:32.14,Default,,0000,0000,0000,,You and I have to do\Nsomething before that!
+Dialogue: 0,0:15:32.59,0:15:34.85,Default,,0000,0000,0000,,This isn’t the time to be fighting!
+Dialogue: 0,0:15:39.59,0:15:41.22,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:48.10,0:15:49.93,Default,,0000,0000,0000,,Why don’t you get it, Kiba?!
+Dialogue: 0,0:15:50.43,0:15:51.51,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:52.59,0:15:54.43,Default,,0000,0000,0000,,All right! I’ve sighted Akamaru!
+Dialogue: 0,0:16:01.97,0:16:05.26,Default,,0000,0000,0000,,Kiba, Naruto! You guys step back!
+Dialogue: 0,0:16:05.85,0:16:08.68,Default,,0000,0000,0000,,C-Could it be…the Pursuit Corps is…
+Dialogue: 0,0:16:11.64,0:16:12.59,Default,,0000,0000,0000,,Sis!
+Dialogue: 0,0:16:13.76,0:16:18.64,Default,,0000,0000,0000,,You gotta be… joking, right?
+Dialogue: 0,0:16:19.43,0:16:20.10,Default,,0000,0000,0000,,Sis!
+Dialogue: 0,0:16:21.43,0:16:24.30,Default,,0000,0000,0000,,What’re you going to do\Nto Akamaru with that?
+Dialogue: 0,0:16:24.68,0:16:26.93,Default,,0000,0000,0000,,This is medicine I received\Nfrom the Hokage.
+Dialogue: 0,0:16:28.59,0:16:30.22,Default,,0000,0000,0000,,I’m going to inject it into Akamaru.
+Dialogue: 0,0:16:30.76,0:16:33.18,Default,,0000,0000,0000,,Then Akamaru will be saved?!
+Dialogue: 0,0:16:33.93,0:16:35.35,Default,,0000,0000,0000,,The probability is fifty-fifty.
+Dialogue: 0,0:16:38.72,0:16:40.89,Default,,0000,0000,0000,,If it fails and side-effects are produced,
+Dialogue: 0,0:16:41.10,0:16:43.39,Default,,0000,0000,0000,,Akamaru’s symptoms will\Nget even worse.
+Dialogue: 0,0:16:44.18,0:16:46.01,Default,,0000,0000,0000,,All we can do now is take\Na chance on this.
+Dialogue: 0,0:16:47.43,0:16:49.39,Default,,0000,0000,0000,,If the worst happens and it fails…
+Dialogue: 0,0:16:49.93,0:16:51.72,Default,,0000,0000,0000,,You understand, right, Kiba?
+Dialogue: 0,0:16:53.30,0:16:54.47,Default,,0000,0000,0000,,Damn it…
+Dialogue: 0,0:16:54.64,0:16:55.60,Default,,0000,0000,0000,,Even if it’s only fifty percent,
+Dialogue: 0,0:16:56.10,0:16:58.22,Default,,0000,0000,0000,,there’s a possibility that Akamaru\Nwill be saved.
+Dialogue: 0,0:16:58.59,0:17:02.80,Default,,0000,0000,0000,,We’ve gotta do this!\NI’ll also help out, miss!
+Dialogue: 0,0:17:05.51,0:17:07.01,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:17:09.64,0:17:10.60,Default,,0000,0000,0000,,Kiba, what about you?!
+Dialogue: 0,0:17:11.26,0:17:14.22,Default,,0000,0000,0000,,If you’re not going to do anything,\Nyou’re in the way, so beat it!
+Dialogue: 0,0:17:15.60,0:17:16.76,Default,,0000,0000,0000,,Let’s go, Kiba.
+Dialogue: 0,0:17:24.43,0:17:25.93,Default,,0000,0000,0000,,Just leave that coward be.
+Dialogue: 0,0:17:26.68,0:17:28.59,Default,,0000,0000,0000,,You’re ready, right?\NLet’s go, Naruto!
+Dialogue: 0,0:17:29.26,0:17:31.26,Default,,0000,0000,0000,,We’ll save you now, Akamaru!
+Dialogue: 0,0:17:33.51,0:17:36.39,Default,,0000,0000,0000,,Aim for the legs!\Nlmmobilize Akamaru!
+Dialogue: 0,0:17:36.51,0:17:37.01,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:18:03.55,0:18:04.68,Default,,0000,0000,0000,,Since it’s come to this,\NI have no choice.
+Dialogue: 0,0:18:06.01,0:18:07.68,Default,,0000,0000,0000,,I must terminate Akamaru.
+Dialogue: 0,0:18:08.55,0:18:09.18,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:18:11.18,0:18:13.47,Default,,0000,0000,0000,,I said stop… Akamaru.
+Dialogue: 0,0:18:14.59,0:18:15.26,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:18:15.97,0:18:16.59,Default,,0000,0000,0000,,Kiba?
+Dialogue: 0,0:18:20.30,0:18:21.10,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:18:27.59,0:18:30.97,Default,,0000,0000,0000,,Have you forgotten…my scent?
+Dialogue: 0,0:18:35.64,0:18:39.72,Default,,0000,0000,0000,,We were always together from\Nwhen we were little, weren’t we?
+Dialogue: 0,0:18:53.30,0:18:54.30,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:18:55.51,0:19:00.55,Default,,0000,0000,0000,,Why…why…did you become like this?
+Dialogue: 0,0:19:02.18,0:19:06.55,Default,,0000,0000,0000,,Please remember… Akamaru!
+Dialogue: 0,0:19:09.47,0:19:09.97,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:19:10.72,0:19:13.26,Default,,0000,0000,0000,,I'm sorry, Akamaru…
+Dialogue: 0,0:19:14.80,0:19:18.51,Default,,0000,0000,0000,,I put you through nothing but\Npainful experiences.
+Dialogue: 0,0:19:20.68,0:19:25.59,Default,,0000,0000,0000,,I’m sorry, Akamaru…\NI couldn’t protect you…
+Dialogue: 0,0:19:29.43,0:19:32.47,Default,,0000,0000,0000,,I’m sorry… Akamaru…
+Dialogue: 0,0:19:35.93,0:19:38.01,Default,,0000,0000,0000,,I'm a terrible master.
+Dialogue: 0,0:19:38.59,0:19:39.14,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:19:43.55,0:19:46.64,Default,,0000,0000,0000,,I’ll…always be with you.
+Dialogue: 0,0:20:13.68,0:20:14.59,Default,,0000,0000,0000,,Kiba…
+Dialogue: 0,0:20:20.43,0:20:21.97,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:20:24.93,0:20:27.59,Default,,0000,0000,0000,,It really would’ve been touch and go
+Dialogue: 0,0:20:27.93,0:20:29.55,Default,,0000,0000,0000,,if the Medical Corps had been\Neven a little late in arriving.
+Dialogue: 0,0:20:30.51,0:20:31.59,Default,,0000,0000,0000,,Without a doubt,
+Dialogue: 0,0:20:31.60,0:20:35.85,Default,,0000,0000,0000,,he would’ve lost his life if Akamaru’s attack\Nhad hit Kiba’s vital spot…
+Dialogue: 0,0:20:36.93,0:20:40.72,Default,,0000,0000,0000,,Really, it could have been\Nmuch worse.
+Dialogue: 0,0:20:42.55,0:20:43.22,Default,,0000,0000,0000,,That’s wrong…
+Dialogue: 0,0:20:43.60,0:20:44.85,Default,,0000,0000,0000,,Huh? Kiba?!
+Dialogue: 0,0:20:45.93,0:20:48.68,Default,,0000,0000,0000,,When he came at me with\Nhis final attack,
+Dialogue: 0,0:20:49.59,0:20:52.59,Default,,0000,0000,0000,,Akamaru just barely missed\Nmy vital spots.
+Dialogue: 0,0:20:55.68,0:21:00.59,Default,,0000,0000,0000,,He drained all his remaining strength\Nin order to desperately control himself.
+Dialogue: 0,0:21:01.85,0:21:05.39,Default,,0000,0000,0000,,Akamaru was battling desperately\Nwith himself.
+Dialogue: 0,0:21:06.76,0:21:08.59,Default,,0000,0000,0000,,That’s admirable, Akamaru!
+Dialogue: 0,0:21:11.51,0:21:12.47,Default,,0000,0000,0000,,Thanks…
+Dialogue: 0,0:21:12.85,0:21:13.60,Default,,0000,0000,0000,,Akamaru.
+Dialogue: 0,0:21:24.76,0:21:29.68,Default,,0000,0000,0000,,Yesterday’s Call Sign,\Nwas all from my cell phone.
+Dialogue: 0,0:21:31.59,0:21:36.51,Default,,0000,0000,0000,,In a strange park,\NI play the Fuzz Guitar without enthusiasm.
+Dialogue: 0,0:21:50.55,0:21:52.01,Default,,0000,0000,0000,,Yellow Moon.
+Dialogue: 0,0:21:52.05,0:21:58.85,Default,,0000,0000,0000,,Even now, counting to three,\NI open my eyes
+Dialogue: 0,0:21:58.89,0:22:04.05,Default,,0000,0000,0000,,Shadow Moon I am still dreaming.
+Dialogue: 0,0:22:04.14,0:22:11.01,Default,,0000,0000,0000,,Look at my eyes, look at my eyes,\Nas we face one another’s back
+Dialogue: 0,0:22:11.05,0:22:17.89,Default,,0000,0000,0000,,Look at my eyes, when can we meet?
+Dialogue: 0,0:22:17.93,0:22:24.60,Default,,0000,0000,0000,,EveryDay EveryNight\NWith every word I can think of
+Dialogue: 0,0:22:24.64,0:22:31.55,Default,,0000,0000,0000,,Right away, my messy feelings as is,
+Dialogue: 0,0:22:33.22,0:22:38.14,Default,,0000,0000,0000,,A magical chord change, in a restless city
+Dialogue: 0,0:22:40.01,0:22:45.18,Default,,0000,0000,0000,,A daily JAZZ Guitar played\Nin a soft minor key
+Dialogue: 0,0:22:51.05,0:22:54.80,Default,,0000,0000,0000,,In this world, there remain mysteries\Nyet unsolved.
+Dialogue: 0,0:22:55.59,0:22:59.55,Default,,0000,0000,0000,,We came to the Hidden Leaf Village\Nin search of mystery
+Dialogue: 0,0:22:59.97,0:23:02.64,Default,,0000,0000,0000,,and encountered a succession\Nof hair-raising terror.
+Dialogue: 0,0:23:03.10,0:23:05.51,Default,,0000,0000,0000,,However, we charge forward\Nwithout being daunted
+Dialogue: 0,0:23:05.55,0:23:06.80,Default,,0000,0000,0000,,by the forest that bares its fangs.
+Dialogue: 0,0:23:07.14,0:23:08.43,Default,,0000,0000,0000,,And then at last…!
+Dialogue: 0,0:23:08.55,0:23:09.43,Default,,0000,0000,0000,,We witness with our own eyes,
+Dialogue: 0,0:23:09.47,0:23:12.59,Default,,0000,0000,0000,,the creature of the legend handed down\Nfrom generation to generation.
+Dialogue: 0,0:23:12.85,0:23:17.22,Default,,0000,0000,0000,,Next time:\N“A Legend from the Hidden Leaf:\N		The Onbaa!

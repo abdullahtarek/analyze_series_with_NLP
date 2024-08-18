@@ -1,0 +1,251 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.79,0:00:12.30,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.34,0:00:15.80,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:15.84,0:00:19.42,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.46,0:00:23.00,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.05,0:00:26.42,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.46,0:00:28.42,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.13,0:00:33.09,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.13,0:00:36.92,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.38,0:00:44.21,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.46,0:00:51.59,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.79,0:00:57.88,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.00,0:01:02.46,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.50,0:01:06.05,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.09,0:01:09.55,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.59,0:01:13.17,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.21,0:01:16.79,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:16.80,0:01:20.46,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.50,0:01:24.05,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.09,0:01:28.25,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:02:18.79,0:02:24.79,Default,,0000,0000,0000,,A Dubious Offer!\NTsunade's Choice
+Dialogue: 0,0:02:30.17,0:02:31.09,Default,,0000,0000,0000,,Not good…
+Dialogue: 0,0:02:32.92,0:02:38.46,Default,,0000,0000,0000,,Dang it! Dang it!\NThis time for sure…no matter what!
+Dialogue: 0,0:02:50.71,0:02:54.55,Default,,0000,0000,0000,,You’re the only one who can treat\NLord Orochimaru’s arms.
+Dialogue: 0,0:02:57.05,0:02:58.79,Default,,0000,0000,0000,,Why don’t we make a deal?
+Dialogue: 0,0:03:01.84,0:03:07.17,Default,,0000,0000,0000,,I’ll resurrect the little brother\Nand man, both of whom you loved…
+Dialogue: 0,0:03:07.80,0:03:11.05,Default,,0000,0000,0000,,with the Forbidden Jutsu I’ve developed.
+Dialogue: 0,0:03:12.25,0:03:15.55,Default,,0000,0000,0000,,Don’t you want to see those two,\NTsunade…?
+Dialogue: 0,0:03:16.09,0:03:18.96,Default,,0000,0000,0000,,No! You must not believe\Nin their sweet talk…
+Dialogue: 0,0:03:20.38,0:03:23.50,Default,,0000,0000,0000,,Their wishes…\NMoreover, Tsunade, your wishes…
+Dialogue: 0,0:03:23.55,0:03:25.34,Default,,0000,0000,0000,,And dreams…\NDid you forget them?!
+Dialogue: 0,0:03:26.09,0:03:27.79,Default,,0000,0000,0000,,I’ll be straight with you.
+Dialogue: 0,0:03:27.92,0:03:33.92,Default,,0000,0000,0000,,Tsunade, the village has demanded\Nthat you become the Fifth Hokage.
+Dialogue: 0,0:03:35.09,0:03:36.80,Default,,0000,0000,0000,,The successive line of Hokages
+Dialogue: 0,0:03:36.84,0:03:39.79,Default,,0000,0000,0000,,have protected the Leaf Village\Nand those living in it.
+Dialogue: 0,0:03:39.79,0:03:41.46,Default,,0000,0000,0000,,They brought troubled times under control
+Dialogue: 0,0:03:41.50,0:03:43.96,Default,,0000,0000,0000,,and helped the village to prosper.
+Dialogue: 0,0:03:44.00,0:03:46.30,Default,,0000,0000,0000,,They risked their lives for\Nthis dream, this ideal!
+Dialogue: 0,0:03:49.50,0:03:51.84,Default,,0000,0000,0000,,You don’t have to answer right now.
+Dialogue: 0,0:03:53.59,0:03:56.79,Default,,0000,0000,0000,,However, I want it in a week.
+Dialogue: 0,0:03:57.79,0:04:01.50,Default,,0000,0000,0000,,Also, two human sacrifices are\Nneeded for this Forbidden Jutsu,
+Dialogue: 0,0:04:02.79,0:04:05.79,Default,,0000,0000,0000,,so do what you need to do\Nto prepare them.
+Dialogue: 0,0:04:17.88,0:04:19.21,Default,,0000,0000,0000,,We are starting!
+Dialogue: 0,0:04:23.79,0:04:25.71,Default,,0000,0000,0000,,C’mon. Place your bets!
+Dialogue: 0,0:04:28.71,0:04:31.00,Default,,0000,0000,0000,,Which will you bet on, ma’am?
+Dialogue: 0,0:04:32.92,0:04:34.80,Default,,0000,0000,0000,,Which one? C’mon!
+Dialogue: 0,0:04:36.79,0:04:38.13,Default,,0000,0000,0000,,Which one will she choose?
+Dialogue: 0,0:04:39.46,0:04:42.79,Default,,0000,0000,0000,,If she agrees to our conditions,
+Dialogue: 0,0:04:43.42,0:04:45.38,Default,,0000,0000,0000,,your arms will be healed,
+Dialogue: 0,0:04:45.42,0:04:47.84,Default,,0000,0000,0000,,and the destruction of the Leaf Village\Nwill continue immediately.
+Dialogue: 0,0:04:49.13,0:04:52.25,Default,,0000,0000,0000,,Lady Tsunade will also be able to\Nbe reunited with the two whom she loves.
+Dialogue: 0,0:04:54.50,0:04:57.79,Default,,0000,0000,0000,,But if she doesn’t agree…
+Dialogue: 0,0:04:57.92,0:05:02.09,Default,,0000,0000,0000,,I’ll have to force her to heal my arms…
+Dialogue: 0,0:05:04.38,0:05:06.21,Default,,0000,0000,0000,,Will it really be that easy?
+Dialogue: 0,0:05:06.79,0:05:08.09,Default,,0000,0000,0000,,I have you.
+Dialogue: 0,0:05:12.38,0:05:13.79,Default,,0000,0000,0000,,There’s no need to worry.
+Dialogue: 0,0:05:14.59,0:05:18.21,Default,,0000,0000,0000,,I’m the one who knows her the best.
+Dialogue: 0,0:05:19.59,0:05:21.79,Default,,0000,0000,0000,,And her greatest weakness!
+Dialogue: 0,0:05:23.09,0:05:28.30,Default,,0000,0000,0000,,She’ll definitely accept the conditions…\NDefinitely!
+Dialogue: 0,0:05:38.50,0:05:41.13,Default,,0000,0000,0000,,Listen, in this third step,
+Dialogue: 0,0:05:41.17,0:05:44.05,Default,,0000,0000,0000,,you’ve got to use 100%\Nof what you have learned…
+Dialogue: 0,0:05:44.09,0:05:45.55,Default,,0000,0000,0000,,And retain them.
+Dialogue: 0,0:05:58.50,0:05:59.63,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:05:59.67,0:06:02.46,Default,,0000,0000,0000,,imagine creating a single layer\Nwithin the balloon
+Dialogue: 0,0:06:02.50,0:06:05.42,Default,,0000,0000,0000,,and compressing the Chakra inside it.
+Dialogue: 0,0:06:07.25,0:06:10.59,Default,,0000,0000,0000,,I know that in my head…
+Dialogue: 0,0:06:11.17,0:06:12.79,Default,,0000,0000,0000,,But no matter what,
+Dialogue: 0,0:06:13.05,0:06:17.17,Default,,0000,0000,0000,,I can’t completely hold 100%\Nof my power in a neat ball…
+Dialogue: 0,0:06:39.17,0:06:43.59,Default,,0000,0000,0000,,Don’t give him false hope by teaching him\Nsomething he can't master.
+Dialogue: 0,0:06:44.59,0:06:50.38,Default,,0000,0000,0000,,That’s why the moony kid\Nstarts joking about becoming a Hokage!
+Dialogue: 0,0:07:04.96,0:07:05.96,Default,,0000,0000,0000,,Tomorrow, huh.
+Dialogue: 0,0:07:10.34,0:07:11.79,Default,,0000,0000,0000,,Come again, okay?
+Dialogue: 0,0:07:12.79,0:07:14.13,Default,,0000,0000,0000,,I certainly will!
+Dialogue: 0,0:07:29.79,0:07:31.79,Default,,0000,0000,0000,,Are you going to meet\NOrochimaru again?
+Dialogue: 0,0:07:39.79,0:07:42.34,Default,,0000,0000,0000,,To think she’d be that shaken up…
+Dialogue: 0,0:07:43.09,0:07:45.34,Default,,0000,0000,0000,,Something extreme must have happened.
+Dialogue: 0,0:07:47.13,0:07:50.63,Default,,0000,0000,0000,,That one week bugs me, somehow…
+Dialogue: 0,0:07:56.79,0:08:00.79,Default,,0000,0000,0000,,And Naruto hasn’t come back\Nto the inn for nearly a week.
+Dialogue: 0,0:08:02.00,0:08:05.50,Default,,0000,0000,0000,,I guess I’ll press Tsunade a little more.
+Dialogue: 0,0:08:18.67,0:08:19.75,Default,,0000,0000,0000,,No good…
+Dialogue: 0,0:08:23.30,0:08:24.80,Default,,0000,0000,0000,,No good… Why?
+Dialogue: 0,0:08:26.63,0:08:31.05,Default,,0000,0000,0000,,Here there’s no time…\Nlt’ll be too late.
+Dialogue: 0,0:08:39.71,0:08:40.67,Default,,0000,0000,0000,,What’s this…?!
+Dialogue: 0,0:08:43.96,0:08:45.79,Default,,0000,0000,0000,,What happened, Naruto?!
+Dialogue: 0,0:08:46.30,0:08:47.30,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:09:03.67,0:09:04.71,Default,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:09:05.79,0:09:07.09,Default,,0000,0000,0000,,The moon’s out.
+Dialogue: 0,0:09:09.50,0:09:10.84,Default,,0000,0000,0000,,How about going out for a drink?
+Dialogue: 0,0:09:20.84,0:09:24.79,Default,,0000,0000,0000,,Tomorrow will be the one week\Nyou promised to Naruto.
+Dialogue: 0,0:09:31.55,0:09:34.25,Default,,0000,0000,0000,,I wonder what became of Naruto?
+Dialogue: 0,0:09:37.67,0:09:38.79,Default,,0000,0000,0000,,Beats me.
+Dialogue: 0,0:09:44.92,0:09:46.50,Default,,0000,0000,0000,,I guess I’ll have something.
+Dialogue: 0,0:09:46.79,0:09:47.79,Default,,0000,0000,0000,,Radish, please.
+Dialogue: 0,0:09:47.88,0:09:48.79,Default,,0000,0000,0000,,Coming up.
+Dialogue: 0,0:10:01.00,0:10:02.30,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:10:07.38,0:10:08.38,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:10:09.59,0:10:12.38,Default,,0000,0000,0000,,Ooh! This looks good.
+Dialogue: 0,0:10:34.84,0:10:35.88,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:10:38.79,0:10:39.79,Default,,0000,0000,0000,,What happened to Naruto?
+Dialogue: 0,0:10:41.21,0:10:42.79,Default,,0000,0000,0000,,He’s quite exhausted and weakened.
+Dialogue: 0,0:10:44.59,0:10:46.79,Default,,0000,0000,0000,,And his right hand is severely burned\Nwith Chakra…
+Dialogue: 0,0:10:48.79,0:10:50.59,Default,,0000,0000,0000,,As it stands now,
+Dialogue: 0,0:10:50.79,0:10:52.84,Default,,0000,0000,0000,,this kid probably won’t wake up\Nuntil the day after tomorrow.
+Dialogue: 0,0:10:56.34,0:10:57.80,Default,,0000,0000,0000,,It’s as Jiraiya says…
+Dialogue: 0,0:10:59.42,0:11:02.05,Default,,0000,0000,0000,,Why did I make such a stupid bet?
+Dialogue: 0,0:11:03.96,0:11:07.13,Default,,0000,0000,0000,,What am I, of all people,\Ngetting so worked up for?
+Dialogue: 0,0:11:08.09,0:11:09.50,Default,,0000,0000,0000,,How stupid.
+Dialogue: 0,0:11:14.96,0:11:15.88,Default,,0000,0000,0000,,Tomorrow…
+Dialogue: 0,0:11:18.79,0:11:20.63,Default,,0000,0000,0000,,Please don’t go tomorrow!
+Dialogue: 0,0:11:24.67,0:11:26.92,Default,,0000,0000,0000,,Why don’t you say anything?!
+Dialogue: 0,0:11:27.46,0:11:30.59,Default,,0000,0000,0000,,Lady Tsunade! Please don’t be silent.\NPlease answer!
+Dialogue: 0,0:11:33.38,0:11:34.96,Default,,0000,0000,0000,,If you say that you’re going…
+Dialogue: 0,0:11:36.84,0:11:38.09,Default,,0000,0000,0000,,What will you do?
+Dialogue: 0,0:11:38.79,0:11:41.63,Default,,0000,0000,0000,,I’ll stop you with my life!
+Dialogue: 0,0:11:45.46,0:11:48.96,Default,,0000,0000,0000,,Shizune… Have you forgotten\Nwho you’re talking to?
+Dialogue: 0,0:12:12.59,0:12:16.79,Default,,0000,0000,0000,,Sir! It’s morning, now!\Nlt’s about time you went home!
+Dialogue: 0,0:12:18.75,0:12:19.63,Default,,0000,0000,0000,,Geez.
+Dialogue: 0,0:12:23.42,0:12:26.63,Default,,0000,0000,0000,,Hey! Get up, sir…
+Dialogue: 0,0:12:31.79,0:12:33.88,Default,,0000,0000,0000,,Hey! What’s wrong, you?!
+Dialogue: 0,0:12:44.00,0:12:47.30,Default,,0000,0000,0000,,It’ll be troublesome if we’re disturbed\Nduring the negotiations…
+Dialogue: 0,0:12:48.46,0:12:49.38,Default,,0000,0000,0000,,What do you want me to do?
+Dialogue: 0,0:12:50.55,0:12:55.42,Default,,0000,0000,0000,,It might be good to kill…\NTsunade’s attendant.
+Dialogue: 0,0:13:01.79,0:13:03.30,Default,,0000,0000,0000,,It seems that you…
+Dialogue: 0,0:13:03.59,0:13:06.21,Default,,0000,0000,0000,,You don’t trust me completely…yet.
+Dialogue: 0,0:13:07.80,0:13:10.17,Default,,0000,0000,0000,,Precisely because I trust you…
+Dialogue: 0,0:13:12.38,0:13:15.21,Default,,0000,0000,0000,,I would like to leave Sasuke\Nin your hands.
+Dialogue: 0,0:13:18.09,0:13:19.09,Default,,0000,0000,0000,,Well, then…
+Dialogue: 0,0:13:19.79,0:13:21.79,Default,,0000,0000,0000,,Kabuto…
+Dialogue: 0,0:13:22.30,0:13:24.71,Default,,0000,0000,0000,,If you wish to stop me…
+Dialogue: 0,0:13:25.42,0:13:29.55,Default,,0000,0000,0000,,You have no choice\Nbut to kill young Sasuke, now.
+Dialogue: 0,0:13:30.79,0:13:33.92,Default,,0000,0000,0000,,You can’t possibly kill me…
+Dialogue: 0,0:13:40.67,0:13:41.34,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:13:42.50,0:13:43.79,Default,,0000,0000,0000,,I said hey!
+Dialogue: 0,0:13:47.96,0:13:49.25,Default,,0000,0000,0000,,Naruto…?
+Dialogue: 0,0:13:50.88,0:13:55.79,Default,,0000,0000,0000,,Oh no! What time is it?\NNo, what day is it?
+Dialogue: 0,0:13:56.79,0:13:57.96,Default,,0000,0000,0000,,It’s Monday…
+Dialogue: 0,0:14:00.79,0:14:02.42,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:14:03.21,0:14:05.71,Default,,0000,0000,0000,,Is your body okay?
+Dialogue: 0,0:14:06.63,0:14:09.55,Default,,0000,0000,0000,,As I recall, you were supposed\Nto sleep for two full days…
+Dialogue: 0,0:14:10.88,0:14:12.13,Default,,0000,0000,0000,,No matter what the wound,
+Dialogue: 0,0:14:12.17,0:14:17.88,Default,,0000,0000,0000,,I’m always able to recover\Nif I sleep one night!
+Dialogue: 0,0:14:18.79,0:14:21.63,Default,,0000,0000,0000,,That’s right.\NThis kid has Nine-Tailed Fox’s power…
+Dialogue: 0,0:14:22.09,0:14:25.71,Default,,0000,0000,0000,,More importantly,\Nwhere’s that stupid old woman?!
+Dialogue: 0,0:14:26.05,0:14:28.96,Default,,0000,0000,0000,,Today’s the promised bet day.
+Dialogue: 0,0:14:29.00,0:14:30.79,Default,,0000,0000,0000,,Then, what about the Jutsu…
+Dialogue: 0,0:14:32.96,0:14:37.25,Default,,0000,0000,0000,,It’s still not complete, but I can wing it…\NBelieve it!
+Dialogue: 0,0:14:41.34,0:14:43.34,Default,,0000,0000,0000,,That’s right. This isn’t the time for this.
+Dialogue: 0,0:14:43.88,0:14:45.84,Default,,0000,0000,0000,,– Naruto, please stay…\N– Huh?
+Dialogue: 0,0:14:48.59,0:14:49.59,Default,,0000,0000,0000,,You are…!
+Dialogue: 0,0:14:50.30,0:14:51.84,Default,,0000,0000,0000,,What?! Oh!
+Dialogue: 0,0:14:57.25,0:14:58.88,Default,,0000,0000,0000,,Wait, Shizune!
+Dialogue: 0,0:15:01.75,0:15:06.59,Default,,0000,0000,0000,,That darned Tsunade spiked my drink.
+Dialogue: 0,0:15:07.46,0:15:09.96,Default,,0000,0000,0000,,I can’t build up my Chakra well…
+Dialogue: 0,0:15:10.17,0:15:14.34,Default,,0000,0000,0000,,And my body is so numb,\NI can barely throw a Kunai Knife.
+Dialogue: 0,0:15:15.79,0:15:18.55,Default,,0000,0000,0000,,What was he gonna do\Nif that had hit me?!
+Dialogue: 0,0:15:18.88,0:15:23.38,Default,,0000,0000,0000,,That’s lame! Here you’re always bragging\Nabout how you’re this awesome Ninja!
+Dialogue: 0,0:15:23.42,0:15:26.21,Default,,0000,0000,0000,,And you’re nailed by her perverted attack?\NYou, Pervy Pervy Sage?!
+Dialogue: 0,0:15:26.25,0:15:27.67,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:29.09,0:15:32.17,Default,,0000,0000,0000,,Even if she’s rotten,\Nshe’s still a medical specialist.
+Dialogue: 0,0:15:33.09,0:15:38.79,Default,,0000,0000,0000,,She’s the only one who could concoct\Na tasteless and odorless drug for Ninja.
+Dialogue: 0,0:15:40.13,0:15:43.84,Default,,0000,0000,0000,,But to think I’d be caught off-guard,
+Dialogue: 0,0:15:43.88,0:15:45.75,Default,,0000,0000,0000,,no matter how intoxicated I was…
+Dialogue: 0,0:16:01.92,0:16:04.05,Default,,0000,0000,0000,,I’m going to kill you, bastard!
+Dialogue: 0,0:16:15.79,0:16:17.79,Default,,0000,0000,0000,,How are you feeling,\NMaster Jiraiya?
+Dialogue: 0,0:16:18.84,0:16:21.96,Default,,0000,0000,0000,,Quite a bit better than this morning I guess.
+Dialogue: 0,0:16:22.59,0:16:24.79,Default,,0000,0000,0000,,But be that as it may,\Nmaybe around thirty percent…
+Dialogue: 0,0:16:28.79,0:16:32.42,Default,,0000,0000,0000,,I never thought I’d end up encountering\Nthat Master Jiraiya in a place like this…
+Dialogue: 0,0:16:33.79,0:16:37.79,Default,,0000,0000,0000,,Things have gotten difficult.\NI guess I’ll pull back for now.
+Dialogue: 0,0:16:39.71,0:16:44.09,Default,,0000,0000,0000,,At any rate, Naruto…\NTo think you’d be here, too…
+Dialogue: 0,0:16:53.46,0:16:54.79,Default,,0000,0000,0000,,Hey! Shizune.
+Dialogue: 0,0:16:54.79,0:16:56.21,Default,,0000,0000,0000,,Y-Yes?!
+Dialogue: 0,0:16:56.92,0:16:58.50,Default,,0000,0000,0000,,It’s about time you tell me
+Dialogue: 0,0:16:58.55,0:17:02.80,Default,,0000,0000,0000,,what the heck she was talking about\Nwith Orochimaru.
+Dialogue: 0,0:17:03.75,0:17:04.79,Default,,0000,0000,0000,,Orochimaru?!
+Dialogue: 0,0:17:09.88,0:17:12.25,Default,,0000,0000,0000,,I wanted to believe Lady Tsunade…
+Dialogue: 0,0:17:13.79,0:17:16.63,Default,,0000,0000,0000,,That’s why I couldn’t say until now.
+Dialogue: 0,0:17:18.42,0:17:19.21,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:17:21.79,0:17:24.79,Default,,0000,0000,0000,,There’s no time.\NPlease come with me!
+Dialogue: 0,0:17:25.42,0:17:26.79,Default,,0000,0000,0000,,I’ll explain as we run!
+Dialogue: 0,0:17:26.88,0:17:27.79,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:27.79,0:17:29.17,Default,,0000,0000,0000,,I’m going, too!
+Dialogue: 0,0:17:50.80,0:17:51.96,Default,,0000,0000,0000,,What’s your answer?
+Dialogue: 0,0:17:53.96,0:17:55.38,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:17:56.88,0:17:59.30,Default,,0000,0000,0000,,The answer to that is definitely no!
+Dialogue: 0,0:18:00.17,0:18:03.46,Default,,0000,0000,0000,,This might be really bad…
+Dialogue: 0,0:18:04.67,0:18:09.25,Default,,0000,0000,0000,,She’s probably still thinking\Nof those two.
+Dialogue: 0,0:18:13.09,0:18:17.79,Default,,0000,0000,0000,,Perhaps I may have no choice,\Nbut to kill Tsunade…
+Dialogue: 0,0:18:19.79,0:18:21.34,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:18:33.71,0:18:34.96,Default,,0000,0000,0000,,I’ll heal your arms…
+Dialogue: 0,0:18:36.38,0:18:39.38,Default,,0000,0000,0000,,In exchange for that,\Nkeep your hands off the village.
+Dialogue: 0,0:18:42.25,0:18:43.63,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:19:23.59,0:19:24.59,Default,,0000,0000,0000,,Now then…
+Dialogue: 0,0:19:40.79,0:19:42.79,Default,,0000,0000,0000,,He’s planning to once again attack
+Dialogue: 0,0:19:42.79,0:19:44.79,Default,,0000,0000,0000,,the Leaf Village if\Nhis arms are healed!
+Dialogue: 0,0:19:45.50,0:19:49.30,Default,,0000,0000,0000,,The situation will get\Neven more dangerous than that
+Dialogue: 0,0:19:49.34,0:19:51.38,Default,,0000,0000,0000,,if he’s not stopped now.
+Dialogue: 0,0:19:51.79,0:19:53.79,Default,,0000,0000,0000,,Him screwing around like that!
+Dialogue: 0,0:19:57.80,0:20:01.79,Default,,0000,0000,0000,,I have you.\NThere’s no need to worry…
+Dialogue: 0,0:21:03.17,0:21:04.80,Default,,0000,0000,0000,,What’s the meaning of this?
+Dialogue: 0,0:21:05.88,0:21:08.92,Default,,0000,0000,0000,,To think you’d betray me at this point…
+Dialogue: 0,0:21:16.38,0:21:17.46,Default,,0000,0000,0000,,Tsunade!
+Dialogue: 0,0:21:18.96,0:21:23.79,Default,,0000,0000,0000,,I believe your promise,\Nits a true heart give me courage
+Dialogue: 0,0:21:23.79,0:21:28.13,Default,,0000,0000,0000,,Always I feel it\Nthe precious time with you
+Dialogue: 0,0:21:28.79,0:21:32.30,Default,,0000,0000,0000,,On your still shoulder
+Dialogue: 0,0:21:33.55,0:21:37.92,Default,,0000,0000,0000,,I feel the wind that blows\Ntowards tomorrow
+Dialogue: 0,0:21:38.09,0:21:43.67,Default,,0000,0000,0000,,The city lights are like pieces of stars
+Dialogue: 0,0:21:44.00,0:21:48.42,Default,,0000,0000,0000,,That hold us together
+Dialogue: 0,0:21:48.79,0:21:58.05,Default,,0000,0000,0000,,“Each one of us glows differently,”
+Dialogue: 0,0:21:58.09,0:22:00.79,Default,,0000,0000,0000,,you say laughingly
+Dialogue: 0,0:22:00.96,0:22:06.79,Default,,0000,0000,0000,,but you look most dazzling
+Dialogue: 0,0:22:07.25,0:22:11.75,Default,,0000,0000,0000,,Like a comet,
+Dialogue: 0,0:22:11.79,0:22:17.79,Default,,0000,0000,0000,,like the rainbow after the storm
+Dialogue: 0,0:22:17.79,0:22:24.92,Default,,0000,0000,0000,,You bring light into my heart
+Dialogue: 0,0:22:25.88,0:22:35.38,Default,,0000,0000,0000,,Being lost can be the answer
+Dialogue: 0,0:22:36.75,0:22:44.21,Default,,0000,0000,0000,,Let’s promise we won’t cheat
+Dialogue: 0,0:22:44.25,0:22:48.30,Default,,0000,0000,0000,,Uh... like a shooting star,\Nwe do go ahead.
+Dialogue: 0,0:22:50.92,0:22:54.42,Default,,0000,0000,0000,,What the hell is this?! This castle\Nhas been destroyed even further!
+Dialogue: 0,0:22:54.46,0:22:58.05,Default,,0000,0000,0000,,It seems Tsunade has\Ndeclined the deal.
+Dialogue: 0,0:22:58.09,0:23:00.63,Default,,0000,0000,0000,,But…but the old lady is not here!
+Dialogue: 0,0:23:00.67,0:23:03.42,Default,,0000,0000,0000,,Calm down a second.\NShe shouldn't have gone far from here.
+Dialogue: 0,0:23:03.46,0:23:06.17,Default,,0000,0000,0000,,Oh, some incredible noise\Nfrom that direction, Pervy Sage!
+Dialogue: 0,0:23:06.21,0:23:08.67,Default,,0000,0000,0000,,Well, well…she started a flashy battle.
+Dialogue: 0,0:23:08.79,0:23:10.00,Default,,0000,0000,0000,,Naruto, we go after her!
+Dialogue: 0,0:23:10.05,0:23:12.79,Default,,0000,0000,0000,,Right! I'm ready anytime!
+Dialogue: 0,0:23:13.30,0:23:15.13,Default,,0000,0000,0000,,Next time:\N "Breakdown! The Deal is Off!"

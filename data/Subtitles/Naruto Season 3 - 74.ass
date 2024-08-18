@@ -1,0 +1,242 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.47,0:00:09.64,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.80,0:00:17.89,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.14,0:00:20.18,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.14,0:00:26.89,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:26.93,0:00:30.43,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.64,0:00:34.14,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.55,0:00:37.84,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.85,0:00:45.43,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.47,0:00:54.68,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.72,0:01:02.84,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.89,0:01:09.84,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.84,0:01:17.89,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.22,0:01:26.84,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.84,0:01:28.84,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:53.55,0:01:54.30,Default,,0000,0000,0000,,Uh oh!
+Dialogue: 0,0:01:55.55,0:01:56.22,Default,,0000,0000,0000,,Pakkun?
+Dialogue: 0,0:01:57.05,0:01:57.89,Default,,0000,0000,0000,,Sakura?
+Dialogue: 0,0:02:03.76,0:02:06.35,Default,,0000,0000,0000,,Why did you stop\Nall of a sudden?!
+Dialogue: 0,0:02:06.85,0:02:11.80,Default,,0000,0000,0000,,The scents of Sasuke and the other two…\Nare quickly moving away!
+Dialogue: 0,0:02:12.43,0:02:16.14,Default,,0000,0000,0000,,It smells like Sasuke is\Nchasing those two people…
+Dialogue: 0,0:02:17.01,0:02:17.84,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:17.89,0:02:18.84,Default,,0000,0000,0000,,Sasuke is?
+Dialogue: 0,0:02:19.39,0:02:21.26,Default,,0000,0000,0000,,There are no other signs\Nof movement.
+Dialogue: 0,0:02:21.84,0:02:22.84,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:02:23.55,0:02:27.43,Default,,0000,0000,0000,,Let’s not just stand around.\NLet’s go after Sasuke right away!
+Dialogue: 0,0:02:27.93,0:02:29.68,Default,,0000,0000,0000,,But…what?
+Dialogue: 0,0:02:30.18,0:02:32.84,Default,,0000,0000,0000,,The people who are left are going\Nto fight each other.
+Dialogue: 0,0:02:34.97,0:02:36.76,Default,,0000,0000,0000,,We’ll end up taking a little longer way…
+Dialogue: 0,0:02:37.05,0:02:38.76,Default,,0000,0000,0000,,but all there is for us to do\Nis to avoid it.
+Dialogue: 0,0:02:39.05,0:02:43.51,Default,,0000,0000,0000,,Why?! If we do that, it’ll only delay our\Ncatching up to Sasuke.
+Dialogue: 0,0:02:43.84,0:02:44.84,Default,,0000,0000,0000,,Let’s just speed on through!
+Dialogue: 0,0:02:44.84,0:02:46.76,Default,,0000,0000,0000,,What are you saying, Naruto?!
+Dialogue: 0,0:02:46.89,0:02:49.64,Default,,0000,0000,0000,,We don’t know what’ll happen\Nin the battle zone!
+Dialogue: 0,0:02:50.30,0:02:51.84,Default,,0000,0000,0000,,Even if we don't desire it,
+Dialogue: 0,0:02:51.84,0:02:55.47,Default,,0000,0000,0000,,there’s a possibility that\Nwe’ll be irrepressibly caught up in a battle.
+Dialogue: 0,0:02:55.72,0:02:57.80,Default,,0000,0000,0000,,That doesn’t have anything\Nto do with it!
+Dialogue: 0,0:02:57.84,0:03:01.64,Default,,0000,0000,0000,,Kid! Our mission is to bring\NSasuke back.
+Dialogue: 0,0:03:02.05,0:03:05.84,Default,,0000,0000,0000,,So the cardinal rule is to avoid battle\Nas much as possible until then!
+Dialogue: 0,0:03:05.85,0:03:07.43,Default,,0000,0000,0000,,– Let’s go! 					– Got it!
+Dialogue: 0,0:03:08.84,0:03:10.01,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:03:26.10,0:03:27.47,Default,,0000,0000,0000,,Puppet Master Jutsu!
+Dialogue: 0,0:04:13.01,0:04:15.84,Default,,0000,0000,0000,,I’m from the Aburame Clan\Nof the Leaf Village…
+Dialogue: 0,0:04:16.51,0:04:20.43,Default,,0000,0000,0000,,When we fight,\Nwe never underestimate our opponent,
+Dialogue: 0,0:04:20.47,0:04:21.84,Default,,0000,0000,0000,,no matter what puny insects\Nthey may be.
+Dialogue: 0,0:04:22.01,0:04:23.05,Default,,0000,0000,0000,,I’ll advance with full force!
+Dialogue: 0,0:04:24.72,0:04:25.64,Default,,0000,0000,0000,,Bring it!
+Dialogue: 0,0:04:47.93,0:04:50.05,Default,,0000,0000,0000,,Put me down, Temari.
+Dialogue: 0,0:04:50.68,0:04:52.10,Default,,0000,0000,0000,,Can you move, Gaara?
+Dialogue: 0,0:04:57.05,0:04:57.84,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:05:03.76,0:05:06.14,Default,,0000,0000,0000,,Kankuro is delaying Uchiha now.
+Dialogue: 0,0:05:06.85,0:05:07.93,Default,,0000,0000,0000,,We must use this opening…
+Dialogue: 0,0:05:11.55,0:05:13.64,Default,,0000,0000,0000,,If we don’t get a move on,\Nthe operation will…
+Dialogue: 0,0:05:14.84,0:05:15.60,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:16.26,0:05:18.84,Default,,0000,0000,0000,,Temari, go over there.
+Dialogue: 0,0:05:18.84,0:05:19.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:19.76,0:05:23.84,Default,,0000,0000,0000,,Just beat it! You’re in the way!
+Dialogue: 0,0:05:46.97,0:05:53.18,Default,,0000,0000,0000,,Astonishing Truth!\NGaara’s Identity Emerges!
+Dialogue: 0,0:06:22.51,0:06:23.72,Default,,0000,0000,0000,,Poison on the blade!
+Dialogue: 0,0:06:36.80,0:06:37.89,Default,,0000,0000,0000,,I won’t let you get away!
+Dialogue: 0,0:06:54.84,0:06:58.84,Default,,0000,0000,0000,,That’s… Sasuke Uchiha!\NDid he get past Kankuro?!
+Dialogue: 0,0:06:59.30,0:07:01.80,Default,,0000,0000,0000,,No… No matter how you look at it,\Nit’s too soon.
+Dialogue: 0,0:07:02.84,0:07:04.55,Default,,0000,0000,0000,,Did another assailant come?
+Dialogue: 0,0:07:05.39,0:07:08.18,Default,,0000,0000,0000,,I don’t know what you Sand Ninja\Nare scheming…
+Dialogue: 0,0:07:08.84,0:07:11.10,Default,,0000,0000,0000,,but I’ll stop you!
+Dialogue: 0,0:07:13.30,0:07:14.22,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:07:20.72,0:07:23.26,Default,,0000,0000,0000,,I’ll ascertain your true identity!
+Dialogue: 0,0:07:27.84,0:07:28.60,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:07:33.47,0:07:34.47,Default,,0000,0000,0000,,Don’t tell me…!
+Dialogue: 0,0:07:34.76,0:07:37.64,Default,,0000,0000,0000,,Is he going to rouse that thing\Nin a place like this?!
+Dialogue: 0,0:07:37.84,0:07:40.84,Default,,0000,0000,0000,,This is no joke…\Nlt’s out of my hands.
+Dialogue: 0,0:07:41.84,0:07:44.22,Default,,0000,0000,0000,,Stop, Gaara!\NHave you forgotten the operation?!
+Dialogue: 0,0:07:44.76,0:07:48.47,Default,,0000,0000,0000,,You who are strong…\NYou who are called Uchiha…
+Dialogue: 0,0:07:49.05,0:07:50.68,Default,,0000,0000,0000,,You who have friends…
+Dialogue: 0,0:07:51.30,0:07:52.93,Default,,0000,0000,0000,,You who have a purpose…
+Dialogue: 0,0:07:53.51,0:07:57.30,Default,,0000,0000,0000,,You who are like…me!
+Dialogue: 0,0:07:59.76,0:08:01.84,Default,,0000,0000,0000,,By killing you…
+Dialogue: 0,0:08:01.97,0:08:06.89,Default,,0000,0000,0000,,I will exist in this world as\Nthe one who destroyed all of that…
+Dialogue: 0,0:08:09.01,0:08:11.39,Default,,0000,0000,0000,,I can truly experience “life.”
+Dialogue: 0,0:08:14.14,0:08:15.10,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:15.89,0:08:18.85,Default,,0000,0000,0000,,It’s so obvious if you release\Nsuch a blood-thirsty aura…
+Dialogue: 0,0:08:19.05,0:08:20.84,Default,,0000,0000,0000,,Come on out.
+Dialogue: 0,0:08:27.14,0:08:28.35,Default,,0000,0000,0000,,So it’s you, eh…
+Dialogue: 0,0:08:29.80,0:08:34.84,Default,,0000,0000,0000,,What’s your purpose?\NWhy do you seek power?
+Dialogue: 0,0:08:41.05,0:08:43.14,Default,,0000,0000,0000,,It ‘s none of your business.
+Dialogue: 0,0:08:44.14,0:08:46.84,Default,,0000,0000,0000,,Beat it!\NYou’re a hindrance to my training.
+Dialogue: 0,0:08:59.47,0:09:00.47,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:09:02.30,0:09:04.30,Default,,0000,0000,0000,,have the same eyes as I do.
+Dialogue: 0,0:09:05.43,0:09:10.64,Default,,0000,0000,0000,,Eyes that seek power,\Nbrimming with hate and murderous intent.
+Dialogue: 0,0:09:10.84,0:09:12.14,Default,,0000,0000,0000,,You’re like me.
+Dialogue: 0,0:09:12.84,0:09:16.72,Default,,0000,0000,0000,,Don’t forget… You’re my…
+Dialogue: 0,0:09:18.60,0:09:19.51,Default,,0000,0000,0000,,You’re…
+Dialogue: 0,0:09:20.30,0:09:21.43,Default,,0000,0000,0000,,my…
+Dialogue: 0,0:09:36.10,0:09:40.60,Default,,0000,0000,0000,,You're…my…
+Dialogue: 0,0:09:43.10,0:09:46.76,Default,,0000,0000,0000,,my prey!
+Dialogue: 0,0:09:51.64,0:09:52.84,Default,,0000,0000,0000,,It’s started…!
+Dialogue: 0,0:10:04.93,0:10:05.84,Default,,0000,0000,0000,,A Substitution?!
+Dialogue: 0,0:10:09.72,0:10:10.55,Default,,0000,0000,0000,,You’re naive.
+Dialogue: 0,0:10:21.97,0:10:23.05,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:10:33.97,0:10:34.84,Default,,0000,0000,0000,,Insects?!
+Dialogue: 0,0:10:39.68,0:10:41.39,Default,,0000,0000,0000,,To think you’d make\Na clone out of insects and
+Dialogue: 0,0:10:41.43,0:10:43.10,Default,,0000,0000,0000,,wrap around behind me…
+Dialogue: 0,0:10:43.30,0:10:44.35,Default,,0000,0000,0000,,Not bad!
+Dialogue: 0,0:10:44.93,0:10:48.43,Default,,0000,0000,0000,,Your reach encompasses from medium\Nto long distance and you use a puppet.
+Dialogue: 0,0:10:48.84,0:10:50.80,Default,,0000,0000,0000,,I didn't think you would\Ndo well in close combat.
+Dialogue: 0,0:10:51.01,0:10:54.84,Default,,0000,0000,0000,,With that Puppet Master Jutsu\Nwhere you have to concentrate
+Dialogue: 0,0:10:54.84,0:10:56.84,Default,,0000,0000,0000,,on the control of the puppet…
+Dialogue: 0,0:10:57.76,0:11:00.47,Default,,0000,0000,0000,,the one casting the Jutsu is\Nprone to openings in defense.
+Dialogue: 0,0:11:01.84,0:11:05.39,Default,,0000,0000,0000,,You’re very aware of the weakness\Nof a puppet master!
+Dialogue: 0,0:11:05.84,0:11:08.01,Default,,0000,0000,0000,,However, from here on,
+Dialogue: 0,0:11:08.05,0:11:11.64,Default,,0000,0000,0000,,I’ll show you the essence of\Nthis Ninjutsu fighting style!
+Dialogue: 0,0:11:12.84,0:11:16.64,Default,,0000,0000,0000,,The real terror of Crow…\Nmy puppet of warfare!
+Dialogue: 0,0:11:26.72,0:11:28.84,Default,,0000,0000,0000,,This is Poison Smoke Bomb!
+Dialogue: 0,0:11:39.26,0:11:41.35,Default,,0000,0000,0000,,Did I inhale…a little bit?
+Dialogue: 0,0:11:42.10,0:11:46.39,Default,,0000,0000,0000,,I get it…\NAnd the caster of the Jutsu hides, eh?
+Dialogue: 0,0:12:09.10,0:12:10.10,Default,,0000,0000,0000,,Listen, everyone…
+Dialogue: 0,0:12:10.84,0:12:14.47,Default,,0000,0000,0000,,Even if enemy Shinobi appear,\Ndon’t panic.
+Dialogue: 0,0:12:14.51,0:12:16.35,Default,,0000,0000,0000,,Go into the hidden room quickly.
+Dialogue: 0,0:12:19.68,0:12:24.84,Default,,0000,0000,0000,,Your Jonin and Chunin Senseis\Nwill protect you all with their lives!
+Dialogue: 0,0:12:41.14,0:12:41.93,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:42.84,0:12:43.89,Default,,0000,0000,0000,,Konohamaru…
+Dialogue: 0,0:12:44.84,0:12:45.89,Default,,0000,0000,0000,,It’ll be okay!
+Dialogue: 0,0:12:46.84,0:12:48.30,Default,,0000,0000,0000,,Everyone’s doing their best.
+Dialogue: 0,0:12:49.05,0:12:51.14,Default,,0000,0000,0000,,They can drive away\Nthe enemies right away.
+Dialogue: 0,0:13:02.14,0:13:04.43,Default,,0000,0000,0000,,Cracks in the face rock\Nof the Hokage Lords…
+Dialogue: 0,0:13:05.05,0:13:06.84,Default,,0000,0000,0000,,How ominous…
+Dialogue: 0,0:13:09.01,0:13:09.97,Default,,0000,0000,0000,,Grandpa…
+Dialogue: 0,0:13:28.55,0:13:31.84,Default,,0000,0000,0000,,To have come this far…\NTo have come this far…!
+Dialogue: 0,0:13:32.85,0:13:39.89,Default,,0000,0000,0000,,Do I already lack the power\Nto drag out his soul?
+Dialogue: 0,0:13:41.30,0:13:43.39,Default,,0000,0000,0000,,With this feeble body…
+Dialogue: 0,0:13:43.43,0:13:46.60,Default,,0000,0000,0000,,even though I’m prepared to die,\Nis it not enough…?!
+Dialogue: 0,0:13:47.55,0:13:52.84,Default,,0000,0000,0000,,You probably could’ve killed me\Nif you’d been ten years younger.
+Dialogue: 0,0:14:05.84,0:14:10.84,Default,,0000,0000,0000,,Sarutobi! If you don’t kill him now,\Nthe village is doomed!
+Dialogue: 0,0:14:11.01,0:14:12.80,Default,,0000,0000,0000,,Do you understand?!
+Dialogue: 0,0:14:13.68,0:14:15.89,Default,,0000,0000,0000,,I…understand!
+Dialogue: 0,0:14:26.10,0:14:29.64,Default,,0000,0000,0000,,Useless…old man…
+Dialogue: 0,0:14:52.39,0:14:55.05,Default,,0000,0000,0000,,Now…Let me feel it!
+Dialogue: 0,0:14:57.01,0:14:57.84,Default,,0000,0000,0000,,That eye!
+Dialogue: 0,0:15:00.93,0:15:03.51,Default,,0000,0000,0000,,That eye…from before!
+Dialogue: 0,0:15:45.35,0:15:49.47,Default,,0000,0000,0000,,This doesn’t look like it’ll end\Nby the time you come for back-up…
+Dialogue: 0,0:15:50.26,0:15:51.14,Default,,0000,0000,0000,,Shino…
+Dialogue: 0,0:15:57.84,0:16:00.35,Default,,0000,0000,0000,,It looks like the poison has\Nslowly started to circulate.
+Dialogue: 0,0:16:01.22,0:16:02.85,Default,,0000,0000,0000,,I’ll finish this!
+Dialogue: 0,0:16:16.35,0:16:17.55,Default,,0000,0000,0000,,Insects, again?!
+Dialogue: 0,0:16:18.51,0:16:20.89,Default,,0000,0000,0000,,But he shouldn’t be able to\Nmove so much in that state…
+Dialogue: 0,0:16:29.84,0:16:31.80,Default,,0000,0000,0000,,I’ll make things easier for you…
+Dialogue: 0,0:16:34.72,0:16:35.84,Default,,0000,0000,0000,,Hey! What’s wrong?!
+Dialogue: 0,0:16:40.05,0:16:41.22,Default,,0000,0000,0000,,What’s happening…?
+Dialogue: 0,0:16:44.72,0:16:45.84,Default,,0000,0000,0000,,Don’t tell me…!
+Dialogue: 0,0:16:46.51,0:16:49.80,Default,,0000,0000,0000,,It’s futile…\NHe can’t move anymore…
+Dialogue: 0,0:16:50.84,0:16:53.97,Default,,0000,0000,0000,,I had the beetles burrow\Ninto every joint…
+Dialogue: 0,0:16:56.60,0:16:59.35,Default,,0000,0000,0000,,He stuffed beetles into its joints\Nso that the puppet can’t move?
+Dialogue: 0,0:17:00.35,0:17:02.72,Default,,0000,0000,0000,,That was his aim from the beginning!
+Dialogue: 0,0:17:03.84,0:17:06.35,Default,,0000,0000,0000,,The beetles are passing through\Nthe threads of my Chakra…
+Dialogue: 0,0:17:07.26,0:17:07.85,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:17:09.30,0:17:12.84,Default,,0000,0000,0000,,That’s it!\NAs I recall, their food is Chakra.
+Dialogue: 0,0:17:18.64,0:17:20.39,Default,,0000,0000,0000,,At this rate,\Nmy location will be found out!
+Dialogue: 0,0:17:24.18,0:17:27.01,Default,,0000,0000,0000,,He cut the Chakra threads himself…?
+Dialogue: 0,0:17:40.51,0:17:41.68,Default,,0000,0000,0000,,You got careless!
+Dialogue: 0,0:17:42.22,0:17:45.89,Default,,0000,0000,0000,,Instantly reattaching the Chakra threads\Nthat have once been cut
+Dialogue: 0,0:17:45.93,0:17:49.43,Default,,0000,0000,0000,,is simple for a first-rate puppet master.
+Dialogue: 0,0:17:49.84,0:17:50.55,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:17:50.97,0:17:53.84,Default,,0000,0000,0000,,Crow is a puppet…
+Dialogue: 0,0:17:54.30,0:17:57.85,Default,,0000,0000,0000,,that has a weapon in each\Nand every component of the body!
+Dialogue: 0,0:18:00.22,0:18:02.97,Default,,0000,0000,0000,,It’s a big mistake if you think\Nthis has ended…
+Dialogue: 0,0:18:03.84,0:18:05.26,Default,,0000,0000,0000,,by your stopping my movements!
+Dialogue: 0,0:18:05.84,0:18:08.76,Default,,0000,0000,0000,,There’s lots of poison\Non the tip of the needle…
+Dialogue: 0,0:18:09.64,0:18:10.47,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:18:20.80,0:18:21.51,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:31.84,0:18:33.43,Default,,0000,0000,0000,,Just like that, the insects…!
+Dialogue: 0,0:18:34.43,0:18:36.51,Default,,0000,0000,0000,,The Chakra threads have been\Nbitten through!
+Dialogue: 0,0:18:50.26,0:18:51.84,Default,,0000,0000,0000,,What?! Why…?!
+Dialogue: 0,0:18:52.18,0:18:54.97,Default,,0000,0000,0000,,Where did these insects\Nspring out from?!
+Dialogue: 0,0:18:56.26,0:18:59.84,Default,,0000,0000,0000,,By beating away the bait insects\Nalong the Chakra threads,
+Dialogue: 0,0:18:59.84,0:19:01.05,Default,,0000,0000,0000,,you dropped your guard.
+Dialogue: 0,0:19:01.55,0:19:06.47,Default,,0000,0000,0000,,You didn’t notice…\Nthe wriggling insects behind you.
+Dialogue: 0,0:19:09.30,0:19:11.47,Default,,0000,0000,0000,,The insects were moving\Nthe whole time…
+Dialogue: 0,0:19:12.47,0:19:15.05,Default,,0000,0000,0000,,heading for your headband.
+Dialogue: 0,0:19:15.68,0:19:17.26,Default,,0000,0000,0000,,W-What did you say?!
+Dialogue: 0,0:19:17.84,0:19:19.22,Default,,0000,0000,0000,,The one blow earlier…
+Dialogue: 0,0:19:19.68,0:19:24.84,Default,,0000,0000,0000,,I pretended to miss and\Nstuck one of those beetles on you.
+Dialogue: 0,0:19:29.85,0:19:33.84,Default,,0000,0000,0000,,But how did you know where I was\Nwith one such beetle…?
+Dialogue: 0,0:19:34.84,0:19:38.84,Default,,0000,0000,0000,,I…hate explaining the same thing twice.
+Dialogue: 0,0:19:42.30,0:19:45.89,Default,,0000,0000,0000,,Shino? 					Why are you here?!
+Dialogue: 0,0:19:49.35,0:19:53.76,Default,,0000,0000,0000,,I put a female beetle on you\Nbefore you left the arena!
+Dialogue: 0,0:19:55.10,0:19:57.43,Default,,0000,0000,0000,,The females have almost no smell…
+Dialogue: 0,0:19:58.97,0:20:03.68,Default,,0000,0000,0000,,Only a male can sniff out\Nthe subtle smell of the female.
+Dialogue: 0,0:20:04.72,0:20:06.55,Default,,0000,0000,0000,,Then, this one beetle on my forehead…
+Dialogue: 0,0:20:07.80,0:20:09.72,Default,,0000,0000,0000,,Right… It’s a female.
+Dialogue: 0,0:20:19.93,0:20:22.93,Default,,0000,0000,0000,,The poison has circulated\Nthrough my whole body, huh…
+Dialogue: 0,0:20:24.84,0:20:27.18,Default,,0000,0000,0000,,It looks like I won’t be able\Nto go to back you up…
+Dialogue: 0,0:20:27.84,0:20:31.51,Default,,0000,0000,0000,,I’m sorry, Sasuke Uchiha.
+Dialogue: 0,0:20:39.14,0:20:41.43,Default,,0000,0000,0000,,Is he a…monster?
+Dialogue: 0,0:20:46.43,0:20:50.76,Default,,0000,0000,0000,,Are you scared of me, Sasuke Uchiha?!
+Dialogue: 0,0:20:55.39,0:20:57.80,Default,,0000,0000,0000,,Of my existence?!
+Dialogue: 0,0:20:59.84,0:21:04.35,Default,,0000,0000,0000,,Come out… 					Sasuke Uchiha!
+Dialogue: 0,0:21:06.01,0:21:08.76,Default,,0000,0000,0000,,You’re…my…
+Dialogue: 0,0:21:09.14,0:21:13.64,Default,,0000,0000,0000,,prey!
+Dialogue: 0,0:21:17.85,0:21:27.97,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:21:28.47,0:21:39.30,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:49.39,0:21:54.97,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:55.01,0:22:00.01,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:00.43,0:22:05.43,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:05.47,0:22:10.68,Default,,0000,0000,0000,,Let’s go carve the badges in our chest\NYes, it’s Show Time, life begins now.
+Dialogue: 0,0:22:10.72,0:22:20.84,Default,,0000,0000,0000,,Everyone makes mistakes\N It’s nothing to be ashamed about
+Dialogue: 0,0:22:21.05,0:22:31.64,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:31.68,0:22:42.18,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:42.22,0:22:47.84,Default,,0000,0000,0000,,Forge on strong
+Dialogue: 0,0:23:00.84,0:23:02.84,Default,,0000,0000,0000,,What a speed and strength!
+Dialogue: 0,0:23:03.80,0:23:05.84,Default,,0000,0000,0000,,If I didn’t use my Sharingan\Nto foresee his movement,
+Dialogue: 0,0:23:05.84,0:23:07.47,Default,,0000,0000,0000,,I would have been in pieces!
+Dialogue: 0,0:23:08.39,0:23:10.60,Default,,0000,0000,0000,,But a merely defensive battle\Nwill do no good.
+Dialogue: 0,0:23:11.01,0:23:12.10,Default,,0000,0000,0000,,What do I do?
+Dialogue: 0,0:23:12.26,0:23:16.18,Default,,0000,0000,0000,,How should I stop him?\NDo I need to use that…?
+Dialogue: 0,0:23:16.84,0:23:18.93,Default,,0000,0000,0000,,But Chidori may not…
+Dialogue: 0,0:23:20.39,0:23:23.97,Default,,0000,0000,0000,,Next time: “Sasuke’s Decision:\NPushed to the Edge!”

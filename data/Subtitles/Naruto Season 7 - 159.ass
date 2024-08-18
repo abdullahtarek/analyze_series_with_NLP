@@ -1,0 +1,298 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.40,0:00:21.89,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.90,0:00:26.85,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.89,0:00:29.40,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.44,0:00:31.90,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.94,0:00:36.65,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.69,0:00:46.52,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.81,0:00:55.89,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.89,0:01:06.77,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.89,0:01:16.10,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.85,0:01:21.27,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:56.27,0:01:57.65,Default,,0000,0000,0000,,Hey, Akamaru!
+Dialogue: 0,0:02:04.10,0:02:05.81,Default,,0000,0000,0000,,Wait up, Akamaru.
+Dialogue: 0,0:02:09.69,0:02:10.69,Default,,0000,0000,0000,,Akamaru!
+Dialogue: 0,0:02:13.10,0:02:15.15,Default,,0000,0000,0000,,Naruto… Umm…
+Dialogue: 0,0:02:15.89,0:02:20.89,Default,,0000,0000,0000,,I made you a box lunch.\NEat it if you like.
+Dialogue: 0,0:02:21.06,0:02:22.35,Default,,0000,0000,0000,,Oh, thanks.
+Dialogue: 0,0:02:29.69,0:02:31.15,Default,,0000,0000,0000,,Wh-What’s this?
+Dialogue: 0,0:02:32.44,0:02:36.44,Default,,0000,0000,0000,,What the heck’s the idea, you guys…?\NThis isn’t a picnic.
+Dialogue: 0,0:02:37.48,0:02:38.40,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:02:38.81,0:02:40.40,Default,,0000,0000,0000,,Come on, it’s okay, right?
+Dialogue: 0,0:02:40.69,0:02:43.73,Default,,0000,0000,0000,,A cinch mission just\Nthe three of us can manage.
+Dialogue: 0,0:02:44.02,0:02:46.89,Default,,0000,0000,0000,,You yourself said\Nyou weren’t fired up, right?
+Dialogue: 0,0:02:50.90,0:02:52.89,Default,,0000,0000,0000,,I’m not fired up!
+Dialogue: 0,0:02:53.48,0:02:55.89,Default,,0000,0000,0000,,It’s a mission to catch a petty thief.
+Dialogue: 0,0:02:56.10,0:02:58.48,Default,,0000,0000,0000,,It’d be the same no matter\Nwho went on the mission.
+Dialogue: 0,0:02:58.98,0:03:00.98,Default,,0000,0000,0000,,Look. Under normal circumstances,
+Dialogue: 0,0:03:01.02,0:03:03.94,Default,,0000,0000,0000,,a three-man team of Kiba, Hinata\Nand Shino would be fundamental.
+Dialogue: 0,0:03:04.35,0:03:06.89,Default,,0000,0000,0000,,But unfortunately, Shino is absent\Nas he’s off on a different mission.
+Dialogue: 0,0:03:07.89,0:03:10.40,Default,,0000,0000,0000,,It’d be better if even you were there\Nthan not, right?
+Dialogue: 0,0:03:10.44,0:03:13.89,Default,,0000,0000,0000,,What, Old Lady?!\NThat’s taking it too far!
+Dialogue: 0,0:03:15.89,0:03:16.85,Default,,0000,0000,0000,,I’ll do my best.
+Dialogue: 0,0:03:17.31,0:03:19.73,Default,,0000,0000,0000,,This is a mission I kind of\Ncan’t get into, though.
+Dialogue: 0,0:03:21.31,0:03:23.89,Default,,0000,0000,0000,,There’s probably no need to take\Nthe trouble to determine a troop leader.
+Dialogue: 0,0:03:24.85,0:03:30.48,Default,,0000,0000,0000,,Anyway, your mission is\Nto capture the man who stole…
+Dialogue: 0,0:03:30.52,0:03:32.90,Default,,0000,0000,0000,,the Misogi tea jar owned by\Nthe feudal lord of the Land of Tea.
+Dialogue: 0,0:03:33.10,0:03:34.89,Default,,0000,0000,0000,,This man, Gosunkugi.
+Dialogue: 0,0:03:36.06,0:03:40.19,Default,,0000,0000,0000,,According to sources,\Nhe’s now hiding in the Land of Stone.
+Dialogue: 0,0:03:41.31,0:03:44.02,Default,,0000,0000,0000,,Get over there lickety-split\Nand catch him lickety-split.
+Dialogue: 0,0:03:44.90,0:03:49.40,Default,,0000,0000,0000,,Hearing that makes me feel\Nless fired up than ever.
+Dialogue: 0,0:03:52.89,0:03:54.31,Default,,0000,0000,0000,,Here, Akamaru.
+Dialogue: 0,0:03:57.69,0:03:59.98,Default,,0000,0000,0000,,Well, missions like this are okay\Nonce in a while, right?
+Dialogue: 0,0:04:00.52,0:04:01.89,Default,,0000,0000,0000,,Let’s take it easy.
+Dialogue: 0,0:04:02.10,0:04:05.40,Default,,0000,0000,0000,,It's a cinch mission, so all the more reason\NI want to finish it up quick.
+Dialogue: 0,0:04:05.44,0:04:08.81,Default,,0000,0000,0000,,What’ll happen if the Pervy Sage\Ncomes back while I’m gone?
+Dialogue: 0,0:04:08.89,0:04:10.52,Default,,0000,0000,0000,,I’m sorry, Naruto.
+Dialogue: 0,0:04:10.56,0:04:16.69,Default,,0000,0000,0000,,I…um, I was so happy to be\Non a mission…with you.
+Dialogue: 0,0:04:17.89,0:04:20.89,Default,,0000,0000,0000,,Huh? What did you say, Hinata?\NI can’t hear you.
+Dialogue: 0,0:04:22.02,0:04:24.94,Default,,0000,0000,0000,,What’re you blushing for?\NYou’re a weird one.
+Dialogue: 0,0:04:25.15,0:04:27.89,Default,,0000,0000,0000,,Well, hold your horses… Look.
+Dialogue: 0,0:04:28.90,0:04:31.19,Default,,0000,0000,0000,,We’ll be in the Land of Stone\Nonce we cross that mountain pass.
+Dialogue: 0,0:04:32.48,0:04:34.89,Default,,0000,0000,0000,,Be sure to fortify yourself\Nwith food by then.
+Dialogue: 0,0:04:39.89,0:04:43.23,Default,,0000,0000,0000,,It’s kind of complicated\Nwhen it’s like eating myself.
+Dialogue: 0,0:04:44.73,0:04:46.35,Default,,0000,0000,0000,,Hey, this is good!
+Dialogue: 0,0:04:46.89,0:04:49.89,Default,,0000,0000,0000,,Hinata, you’d make a great wife!
+Dialogue: 0,0:04:50.10,0:04:51.02,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:53.10,0:04:54.35,Default,,0000,0000,0000,,Wife…?
+Dialogue: 0,0:05:06.69,0:05:09.23,Default,,0000,0000,0000,,Land of Stone
+Dialogue: 0,0:05:21.85,0:05:23.89,Default,,0000,0000,0000,,This is the first post station\Nof the Land of Stone.
+Dialogue: 0,0:05:24.73,0:05:27.15,Default,,0000,0000,0000,,Doesn’t it look…kind of rough?
+Dialogue: 0,0:05:37.89,0:05:41.31,Default,,0000,0000,0000,,The Bounty Hunter\N                             from the Wilderness
+Dialogue: 0,0:06:04.73,0:06:08.35,Default,,0000,0000,0000,,What’re these guys doing…\Nstaring like that?
+Dialogue: 0,0:06:11.60,0:06:14.40,Default,,0000,0000,0000,,This doesn’t feel like\Nwe’ll be able to do this lickety-split.
+Dialogue: 0,0:06:18.19,0:06:19.56,Default,,0000,0000,0000,,What is it, Akamaru?
+Dialogue: 0,0:06:25.89,0:06:29.98,Default,,0000,0000,0000,,Could it be that Gosunkugi guy\Nis among them?
+Dialogue: 0,0:06:34.81,0:06:36.35,Default,,0000,0000,0000,,Got you, Gosunkugi!
+Dialogue: 0,0:06:41.60,0:06:42.52,Default,,0000,0000,0000,,It’s a photo.
+Dialogue: 0,0:06:42.89,0:06:45.69,Default,,0000,0000,0000,,What, this is Gosunkugi, isn’t it?
+Dialogue: 0,0:06:48.56,0:06:50.06,Default,,0000,0000,0000,,Three million ryo?
+Dialogue: 0,0:06:50.85,0:06:51.90,Default,,0000,0000,0000,,What’s the meaning of this?
+Dialogue: 0,0:06:52.15,0:06:54.89,Default,,0000,0000,0000,,Look…They’re hanging over there,\Nand here, too.
+Dialogue: 0,0:07:00.89,0:07:03.10,Default,,0000,0000,0000,,All right, I’ll try asking someone.
+Dialogue: 0,0:07:03.69,0:07:06.19,Default,,0000,0000,0000,,Asia Saloon
+Dialogue: 0,0:07:07.23,0:07:08.15,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:07:13.89,0:07:14.89,Default,,0000,0000,0000,,Can I help you?
+Dialogue: 0,0:07:15.19,0:07:17.48,Default,,0000,0000,0000,,I have something I’d like to ask you.
+Dialogue: 0,0:07:17.98,0:07:21.06,Default,,0000,0000,0000,,What, if you’re not a customer, beat it.
+Dialogue: 0,0:07:21.35,0:07:24.35,Default,,0000,0000,0000,,Then I’ll order something…\NI’ll have ramen.
+Dialogue: 0,0:07:24.48,0:07:27.10,Default,,0000,0000,0000,,I’ll have a hamburger steak with cheese.\NHe’ll have milk.
+Dialogue: 0,0:07:31.31,0:07:34.52,Default,,0000,0000,0000,,This is funny. Milk?\NHamburger steak with cheese?
+Dialogue: 0,0:07:34.73,0:07:36.81,Default,,0000,0000,0000,,And ramen on top of that?
+Dialogue: 0,0:07:40.77,0:07:43.44,Default,,0000,0000,0000,,Are you making a fool of me?\NGet out, brats!
+Dialogue: 0,0:07:43.89,0:07:45.73,Default,,0000,0000,0000,,If it’s the money, we have some.
+Dialogue: 0,0:07:45.89,0:07:47.19,Default,,0000,0000,0000,,That’s not the issue.
+Dialogue: 0,0:07:47.94,0:07:51.65,Default,,0000,0000,0000,,Oh… It’s dangerous for kids\Nto carry such a large amount of money…
+Dialogue: 0,0:07:51.85,0:07:53.81,Default,,0000,0000,0000,,I’ll take charge of it for you.
+Dialogue: 0,0:07:53.89,0:07:56.89,Default,,0000,0000,0000,,After all, there are lots of bad men\Nin this town.
+Dialogue: 0,0:07:57.52,0:08:00.06,Default,,0000,0000,0000,,Hey, what’re you doing?\NAre you still in?
+Dialogue: 0,0:08:00.31,0:08:03.94,Default,,0000,0000,0000,,Oh, just a minute.\NI got the money. I’ll be right over.
+Dialogue: 0,0:08:04.60,0:08:07.56,Default,,0000,0000,0000,,Huh? What’s with you?\NHey, let go!
+Dialogue: 0,0:08:07.60,0:08:10.19,Default,,0000,0000,0000,,You’re the one who’ll let go.
+Dialogue: 0,0:08:14.89,0:08:15.69,Default,,0000,0000,0000,,How about that?
+Dialogue: 0,0:08:16.65,0:08:18.77,Default,,0000,0000,0000,,You brat… You want to fight?!
+Dialogue: 0,0:08:18.98,0:08:21.81,Default,,0000,0000,0000,,That’s the plan… Bring it!
+Dialogue: 0,0:08:22.48,0:08:23.73,Default,,0000,0000,0000,,You punk!
+Dialogue: 0,0:08:23.89,0:08:24.94,Default,,0000,0000,0000,,Hold it, Naruto.
+Dialogue: 0,0:08:25.27,0:08:26.89,Default,,0000,0000,0000,,Naruto, look around.
+Dialogue: 0,0:08:34.23,0:08:35.19,Default,,0000,0000,0000,,This is bad.
+Dialogue: 0,0:08:36.15,0:08:38.06,Default,,0000,0000,0000,,Master, milk.
+Dialogue: 0,0:08:38.73,0:08:39.89,Default,,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:08:42.40,0:08:44.31,Default,,0000,0000,0000,,O-Okay, coming right up!
+Dialogue: 0,0:08:46.89,0:08:47.85,Default,,0000,0000,0000,,Here you are.
+Dialogue: 0,0:08:48.06,0:08:48.89,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:08:50.35,0:08:52.98,Default,,0000,0000,0000,,Now, no need to hesitate.\NDrink up.
+Dialogue: 0,0:08:53.27,0:08:56.65,Default,,0000,0000,0000,,It’s a treat from\Nold billiard-ball head over there.
+Dialogue: 0,0:08:58.89,0:09:02.85,Default,,0000,0000,0000,,"Billiard-ball head" means me?\NKnock it off, you jerk!
+Dialogue: 0,0:09:03.10,0:09:05.02,Default,,0000,0000,0000,,Who would treat some puppy milk?
+Dialogue: 0,0:09:05.56,0:09:07.10,Default,,0000,0000,0000,,You want to get killed?!
+Dialogue: 0,0:09:20.98,0:09:23.73,Default,,0000,0000,0000,,Bounty, Michizo Manaka.
+Dialogue: 0,0:09:24.89,0:09:26.56,Default,,0000,0000,0000,,You can take the credit, Master.
+Dialogue: 0,0:09:27.90,0:09:30.31,Default,,0000,0000,0000,,Take the money for the milk\Nfrom his bounty…
+Dialogue: 0,0:09:31.10,0:09:35.89,Default,,0000,0000,0000,,And the money to repair the table, too.\NI don’t need change.
+Dialogue: 0,0:09:36.89,0:09:38.06,Default,,0000,0000,0000,,He’s strong.
+Dialogue: 0,0:09:39.89,0:09:43.89,Default,,0000,0000,0000,,Are you in the same trade as I am?\NSorry about that.
+Dialogue: 0,0:09:49.52,0:09:50.77,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:09:53.06,0:09:54.06,Default,,0000,0000,0000,,Something you want?
+Dialogue: 0,0:09:54.60,0:09:56.85,Default,,0000,0000,0000,,Who the heck are you, old man?
+Dialogue: 0,0:09:57.48,0:09:58.89,Default,,0000,0000,0000,,"Old man," you say?
+Dialogue: 0,0:10:00.06,0:10:03.06,Default,,0000,0000,0000,,I’m Sazanami, a bounty hunter.
+Dialogue: 0,0:10:05.69,0:10:07.65,Default,,0000,0000,0000,,How cool!
+Dialogue: 0,0:10:08.69,0:10:09.40,Default,,0000,0000,0000,,Old man!
+Dialogue: 0,0:10:11.06,0:10:14.19,Default,,0000,0000,0000,,Say, say…\NThat thing earlier was cool.
+Dialogue: 0,0:10:14.56,0:10:16.52,Default,,0000,0000,0000,,Hm? The iai-nuki?
+Dialogue: 0,0:10:16.73,0:10:20.85,Default,,0000,0000,0000,,It was so fast I couldn’t see when\Nyou drew your sword.
+Dialogue: 0,0:10:21.10,0:10:22.85,Default,,0000,0000,0000,,It was really surprising…
+Dialogue: 0,0:10:22.98,0:10:26.98,Default,,0000,0000,0000,,I bet that’s what they mean\Nwhen they say “In a blink of an eye.”
+Dialogue: 0,0:10:28.27,0:10:31.31,Default,,0000,0000,0000,,Life and death is on the line\Nfor us bounty hunters…
+Dialogue: 0,0:10:31.89,0:10:33.90,Default,,0000,0000,0000,,No matter how many lives we can have,\Nit wouldn't be enough
+Dialogue: 0,0:10:33.94,0:10:36.85,Default,,0000,0000,0000,,if we couldn’t draw our sword\Nfaster than others.
+Dialogue: 0,0:10:36.98,0:10:39.90,Default,,0000,0000,0000,,Say, say! Say, say!\NWhat’s a bounty hunter?
+Dialogue: 0,0:10:40.40,0:10:41.31,Default,,0000,0000,0000,,Let’s see…
+Dialogue: 0,0:10:42.60,0:10:46.89,Default,,0000,0000,0000,,There are people who offer a bounty\Nin order to capture bad guys.
+Dialogue: 0,0:10:47.89,0:10:52.40,Default,,0000,0000,0000,,And a bounty hunter catches\Nthose bad guys and receives the bounty.
+Dialogue: 0,0:10:52.81,0:10:53.98,Default,,0000,0000,0000,,Hmm.
+Dialogue: 0,0:10:55.15,0:10:59.98,Default,,0000,0000,0000,,Then this guy has\Na bounty on him, right?
+Dialogue: 0,0:11:01.56,0:11:02.89,Default,,0000,0000,0000,,Boy, that’s…
+Dialogue: 0,0:11:03.48,0:11:05.94,Default,,0000,0000,0000,,Why’s there so much money on his head?
+Dialogue: 0,0:11:06.02,0:11:08.02,Default,,0000,0000,0000,,This guy’s just a simple thief…
+Dialogue: 0,0:11:08.89,0:11:10.31,Default,,0000,0000,0000,,A simple thief, you say?
+Dialogue: 0,0:11:10.85,0:11:13.89,Default,,0000,0000,0000,,Boy, this guy’s a super A-rank bounty
+Dialogue: 0,0:11:13.90,0:11:17.60,Default,,0000,0000,0000,,who has killed dozens of people\Nfor the sake of stealing.
+Dialogue: 0,0:11:17.89,0:11:18.31,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:18.89,0:11:19.85,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:11:20.06,0:11:21.15,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:11:22.19,0:11:25.02,Default,,0000,0000,0000,,What’s the meaning of this?\NI haven’t heard about that.
+Dialogue: 0,0:11:25.48,0:11:27.81,Default,,0000,0000,0000,,The feudal lord who commissioned\Nthis mission
+Dialogue: 0,0:11:27.85,0:11:29.81,Default,,0000,0000,0000,,might not have known about that.
+Dialogue: 0,0:11:30.89,0:11:31.73,Default,,0000,0000,0000,,Mission?
+Dialogue: 0,0:11:32.15,0:11:34.60,Default,,0000,0000,0000,,Yeah. We’re Hidden Leaf Ninja
+Dialogue: 0,0:11:34.65,0:11:38.27,Default,,0000,0000,0000,,and we came to this town\Nto capture Gosunkugi.
+Dialogue: 0,0:11:39.02,0:11:40.10,Default,,0000,0000,0000,,Leaf?
+Dialogue: 0,0:11:42.89,0:11:45.73,Default,,0000,0000,0000,,So you’re Ninja, huh?
+Dialogue: 0,0:11:47.89,0:11:48.89,Default,,0000,0000,0000,,This is interesting.
+Dialogue: 0,0:11:49.48,0:11:52.60,Default,,0000,0000,0000,,So even kids like this\Nare qualified to be Ninja?
+Dialogue: 0,0:11:52.85,0:11:55.40,Default,,0000,0000,0000,,What?! Don’t make fun of us!
+Dialogue: 0,0:11:55.89,0:11:58.27,Default,,0000,0000,0000,,Well, don’t get so mad.\NSorry about that…
+Dialogue: 0,0:11:58.81,0:12:01.89,Default,,0000,0000,0000,,I’ll treat you guys to something. Milk?
+Dialogue: 0,0:12:02.02,0:12:05.35,Default,,0000,0000,0000,,We’re not Akamaru.\NI want ramen!
+Dialogue: 0,0:12:05.81,0:12:07.81,Default,,0000,0000,0000,,Then I’ll have a hamburger steak\Nwith cheese.
+Dialogue: 0,0:12:08.23,0:12:11.73,Default,,0000,0000,0000,,I-I-I guess I’ll have ramen, too.
+Dialogue: 0,0:12:11.98,0:12:13.89,Default,,0000,0000,0000,,Okay. Come with me.
+Dialogue: 0,0:12:15.73,0:12:19.06,Default,,0000,0000,0000,,Jeez, no way would there be\Nramen in a bar.
+Dialogue: 0,0:12:20.15,0:12:22.89,Default,,0000,0000,0000,,Hey, old man. Would even miso ramen\Ntopped with pork be okay?
+Dialogue: 0,0:12:22.89,0:12:25.44,Default,,0000,0000,0000,,Sure, have anything you like.
+Dialogue: 0,0:12:36.81,0:12:40.89,Default,,0000,0000,0000,,What is this? We’re rapidly moving away\Nfrom town.
+Dialogue: 0,0:12:41.56,0:12:43.40,Default,,0000,0000,0000,,I don’t see a ramen shop anywhere.
+Dialogue: 0,0:12:48.89,0:12:49.81,Default,,0000,0000,0000,,Now then…
+Dialogue: 0,0:12:58.73,0:13:00.73,Default,,0000,0000,0000,,I don’t see any ramen shops.
+Dialogue: 0,0:13:01.52,0:13:03.89,Default,,0000,0000,0000,,So what I said earlier about treating\Nyou guys is canceled.
+Dialogue: 0,0:13:04.90,0:13:08.77,Default,,0000,0000,0000,,Sorry, but you guys are going to die here.
+Dialogue: 0,0:13:08.98,0:13:10.89,Default,,0000,0000,0000,,O-Old man…
+Dialogue: 0,0:13:22.89,0:13:26.23,Default,,0000,0000,0000,,You guys are going to die here.
+Dialogue: 0,0:13:26.94,0:13:29.85,Default,,0000,0000,0000,,Hey, old man…What’s the idea?
+Dialogue: 0,0:13:30.10,0:13:34.60,Default,,0000,0000,0000,,To think you guys would know\Nthat Gosunkugi is in this town.
+Dialogue: 0,0:13:35.10,0:13:37.48,Default,,0000,0000,0000,,So what if we do know?
+Dialogue: 0,0:13:38.31,0:13:43.81,Default,,0000,0000,0000,,Gosunkugi is my prey…\NI can’t hand him over to you.
+Dialogue: 0,0:13:44.06,0:13:47.89,Default,,0000,0000,0000,,Knock it off!\NYou should just go get him yourself.
+Dialogue: 0,0:13:48.15,0:13:51.27,Default,,0000,0000,0000,,No, even if you guys are kids,
+Dialogue: 0,0:13:51.31,0:13:54.35,Default,,0000,0000,0000,,it’s a different story when it comes\Nto Leaf Ninjas.
+Dialogue: 0,0:13:54.89,0:14:00.31,Default,,0000,0000,0000,,It’s better to have fewer…\Nwait, no competitors.
+Dialogue: 0,0:14:00.73,0:14:01.73,Default,,0000,0000,0000,,Old man.
+Dialogue: 0,0:14:03.89,0:14:04.77,Default,,0000,0000,0000,,Here I go.
+Dialogue: 0,0:14:12.02,0:14:12.81,Default,,0000,0000,0000,,Hinata!
+Dialogue: 0,0:14:12.94,0:14:14.06,Default,,0000,0000,0000,,That’s dirty!
+Dialogue: 0,0:14:14.98,0:14:15.89,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:14:16.44,0:14:18.94,Default,,0000,0000,0000,,Ninja Art of Beast Mimicry:\NAll-Four Jutsu!
+Dialogue: 0,0:14:20.60,0:14:21.48,Default,,0000,0000,0000,,Interesting.
+Dialogue: 0,0:14:23.19,0:14:23.89,Default,,0000,0000,0000,,Bring it.
+Dialogue: 0,0:14:23.98,0:14:25.89,Default,,0000,0000,0000,,I won’t lose at speed!
+Dialogue: 0,0:14:34.89,0:14:35.98,Default,,0000,0000,0000,,Damn it! Where are you?
+Dialogue: 0,0:14:36.52,0:14:37.48,Default,,0000,0000,0000,,Too slow.
+Dialogue: 0,0:14:45.23,0:14:46.15,Default,,0000,0000,0000,,Boy…
+Dialogue: 0,0:14:46.94,0:14:49.31,Default,,0000,0000,0000,,Now you’re the last one.
+Dialogue: 0,0:14:50.89,0:14:52.56,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:14:57.44,0:14:58.31,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:14:59.77,0:15:01.56,Default,,0000,0000,0000,,I won’t let you do as you please!
+Dialogue: 0,0:15:13.89,0:15:14.85,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:15:22.77,0:15:23.98,Default,,0000,0000,0000,,You’re mine.
+Dialogue: 0,0:15:30.52,0:15:31.85,Default,,0000,0000,0000,,Almost.
+Dialogue: 0,0:15:33.31,0:15:34.56,Default,,0000,0000,0000,,Forgive me, boy.
+Dialogue: 0,0:15:35.85,0:15:39.31,Default,,0000,0000,0000,,I’ll be the one to defeat him,\Nno matter what.
+Dialogue: 0,0:16:10.48,0:16:11.35,Default,,0000,0000,0000,,Akamaru.
+Dialogue: 0,0:16:12.60,0:16:15.89,Default,,0000,0000,0000,,Damn it! He got us good.
+Dialogue: 0,0:16:16.89,0:16:18.60,Default,,0000,0000,0000,,Hinata, you okay?
+Dialogue: 0,0:16:19.15,0:16:20.06,Default,,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:16:21.85,0:16:22.65,Default,,0000,0000,0000,,Where’s Sazanami?
+Dialogue: 0,0:16:24.60,0:16:26.89,Default,,0000,0000,0000,,Could it be he went after Gosunkugi?
+Dialogue: 0,0:16:26.89,0:16:30.19,Default,,0000,0000,0000,,I can’t just sit here like this!\NHe’ll beat us to the draw.
+Dialogue: 0,0:16:37.31,0:16:39.89,Default,,0000,0000,0000,,Damn it! Where is that old man?
+Dialogue: 0,0:16:44.85,0:16:47.35,Default,,0000,0000,0000,,Did he leave town?
+Dialogue: 0,0:16:48.31,0:16:50.44,Default,,0000,0000,0000,,Going after Gosunkugi?
+Dialogue: 0,0:16:52.89,0:16:54.31,Default,,0000,0000,0000,,Akamaru, we’re counting on you!
+Dialogue: 0,0:17:25.81,0:17:28.10,Default,,0000,0000,0000,,The most crucial treasure is missing here.
+Dialogue: 0,0:17:28.60,0:17:31.02,Default,,0000,0000,0000,,Filthy hyena.
+Dialogue: 0,0:17:37.27,0:17:40.56,Default,,0000,0000,0000,,I waited a long time for you\Nto make your move.
+Dialogue: 0,0:17:41.10,0:17:45.56,Default,,0000,0000,0000,,Unfortunately, I have\Nan important job to do.
+Dialogue: 0,0:17:46.10,0:17:50.40,Default,,0000,0000,0000,,Time is valuable.\NI’ll get right to taking care of you.
+Dialogue: 0,0:18:02.94,0:18:05.60,Default,,0000,0000,0000,,Ninja Art: Torpedo Nail.
+Dialogue: 0,0:18:05.89,0:18:08.10,Default,,0000,0000,0000,,Gosunkugi, here I come!
+Dialogue: 0,0:18:12.89,0:18:14.89,Default,,0000,0000,0000,,You can’t move anymore.
+Dialogue: 0,0:18:30.94,0:18:32.19,Default,,0000,0000,0000,,It’s over.
+Dialogue: 0,0:18:32.90,0:18:34.27,Default,,0000,0000,0000,,Finish him.
+Dialogue: 0,0:18:36.40,0:18:37.85,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:18:38.98,0:18:41.35,Default,,0000,0000,0000,,Gosunkugi, you’re under arrest!
+Dialogue: 0,0:18:46.44,0:18:48.06,Default,,0000,0000,0000,,Damn it. Reinforcements, huh?
+Dialogue: 0,0:18:48.48,0:18:49.48,Default,,0000,0000,0000,,Retreat!
+Dialogue: 0,0:18:51.23,0:18:52.19,Default,,0000,0000,0000,,I won’t let you get away!
+Dialogue: 0,0:18:53.06,0:18:53.89,Default,,0000,0000,0000,,Wait.
+Dialogue: 0,0:18:57.56,0:18:58.65,Default,,0000,0000,0000,,Boy…
+Dialogue: 0,0:18:59.56,0:19:01.06,Default,,0000,0000,0000,,You must not go.
+Dialogue: 0,0:19:06.19,0:19:06.89,Default,,0000,0000,0000,,Old man!
+Dialogue: 0,0:19:07.48,0:19:09.77,Default,,0000,0000,0000,,H-Hey, Old Man Sazanami.
+Dialogue: 0,0:19:11.77,0:19:16.65,Default,,0000,0000,0000,,Stay away from him.\NHe’s too much for you guys.
+Dialogue: 0,0:19:33.89,0:19:36.23,Default,,0000,0000,0000,,How could such a strong guy be beaten?
+Dialogue: 0,0:19:37.15,0:19:40.56,Default,,0000,0000,0000,,Gosunkugi isn’t a mere thief.
+Dialogue: 0,0:19:41.44,0:19:43.89,Default,,0000,0000,0000,,He’s a Shinobi, same as us.
+Dialogue: 0,0:19:44.85,0:19:45.89,Default,,0000,0000,0000,,Shinobi.
+Dialogue: 0,0:19:57.23,0:19:58.15,Default,,0000,0000,0000,,Sazanami!
+Dialogue: 0,0:20:09.89,0:20:11.89,Default,,0000,0000,0000,,Is this one of Gosunkugi’s comrades?
+Dialogue: 0,0:20:15.98,0:20:19.85,Default,,0000,0000,0000,,You! As I recall,\Nyou were in the bar before…
+Dialogue: 0,0:20:20.27,0:20:21.31,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:20:25.60,0:20:27.89,Default,,0000,0000,0000,,Who was that guy?
+Dialogue: 0,0:20:28.89,0:20:30.40,Default,,0000,0000,0000,,Hm, what?
+Dialogue: 0,0:20:33.31,0:20:34.48,Default,,0000,0000,0000,,A wanted flyer.
+Dialogue: 0,0:20:35.10,0:20:38.44,Default,,0000,0000,0000,,Did he mistake us for Gosunkugi?
+Dialogue: 0,0:20:38.89,0:20:40.69,Default,,0000,0000,0000,,No, that’s not it.
+Dialogue: 0,0:20:42.15,0:20:44.81,Default,,0000,0000,0000,,"This man who calls himself Tokichi\Nis a major criminal
+Dialogue: 0,0:20:45.15,0:20:48.31,Default,,0000,0000,0000,,who has killed a family of three…"
+Dialogue: 0,0:20:49.65,0:20:51.89,Default,,0000,0000,0000,,"He has a bird-shaped birthmark\Non his chest."
+Dialogue: 0,0:20:52.10,0:20:55.10,Default,,0000,0000,0000,,A bird-shaped birthmark…?\Nlt couldn’t be…
+Dialogue: 0,0:20:55.89,0:20:57.40,Default,,0000,0000,0000,,What is it, Hinata?
+Dialogue: 0,0:20:57.81,0:21:00.48,Default,,0000,0000,0000,,I can't tell because\Nhis face is covered with scars…
+Dialogue: 0,0:21:01.23,0:21:04.02,Default,,0000,0000,0000,,But he has…a bird-shaped birthmark.
+Dialogue: 0,0:21:05.48,0:21:06.10,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:21:07.56,0:21:09.89,Default,,0000,0000,0000,,He has a bounty on his head, too?
+Dialogue: 0,0:21:10.27,0:21:13.65,Default,,0000,0000,0000,,What the heck is going on\Nwith everything?
+Dialogue: 0,0:21:30.89,0:21:41.89,Default,,0000,0000,0000,,So many things happen\Non this endless road, huh?
+Dialogue: 0,0:21:42.40,0:21:53.52,Default,,0000,0000,0000,,Although you’re strong-willed,\Nyour voice wavered on the phone today
+Dialogue: 0,0:21:54.15,0:22:04.89,Default,,0000,0000,0000,,What dreams did you chase to get here?
+Dialogue: 0,0:22:05.15,0:22:16.94,Default,,0000,0000,0000,,Even I have times when\NI just don’t understand, baby
+Dialogue: 0,0:22:17.10,0:22:28.48,Default,,0000,0000,0000,,When you’re sad, I’ll be close to you
+Dialogue: 0,0:22:28.73,0:22:39.90,Default,,0000,0000,0000,,Even on nights when we’re apart,\NI’ll be close to you
+Dialogue: 0,0:22:40.19,0:22:45.85,Default,,0000,0000,0000,,I’ll be close to you
+Dialogue: 0,0:22:50.94,0:22:54.89,Default,,0000,0000,0000,,A long, long time ago just recently,\Non an overcast clear day…
+Dialogue: 0,0:22:54.98,0:22:56.89,Default,,0000,0000,0000,,It was night since morning.
+Dialogue: 0,0:22:56.98,0:23:01.10,Default,,0000,0000,0000,,The righteous rogue Sazanami’s\Nstring of his past unwinds and frays.
+Dialogue: 0,0:23:01.89,0:23:03.89,Default,,0000,0000,0000,,Ah, the fatal foe Gosunkugi!
+Dialogue: 0,0:23:03.89,0:23:05.89,Default,,0000,0000,0000,,Although the situation is\Nnow clear to me,
+Dialogue: 0,0:23:05.89,0:23:07.89,Default,,0000,0000,0000,,there are times when\Na Shinobi cannot back out!
+Dialogue: 0,0:23:07.94,0:23:09.89,Default,,0000,0000,0000,,Hey, hey, hey, Gosunkugi!
+Dialogue: 0,0:23:09.89,0:23:12.27,Default,,0000,0000,0000,,Give it up and submit to arrest!
+Dialogue: 0,0:23:12.89,0:23:16.31,Default,,0000,0000,0000,,Next time: “Hunt or Be Hunted?!\NShowdown at the OK Temple”

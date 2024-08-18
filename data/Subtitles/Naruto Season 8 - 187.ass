@@ -1,0 +1,348 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.60,0:00:03.89,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.89,0:00:06.81,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.85,0:00:12.89,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:23.31,0:00:29.23,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:29.27,0:00:34.77,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.81,0:00:37.40,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.44,0:00:40.89,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.89,0:00:45.44,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.94,0:00:51.98,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.48,0:00:57.02,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:57.06,0:01:02.65,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.69,0:01:07.90,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.94,0:01:11.10,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:11.15,0:01:19.89,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:49.89,0:01:52.85,Default,,0000,0000,0000,,It looks like\Nthe preparations are complete.
+Dialogue: 0,0:01:54.73,0:01:57.73,Default,,0000,0000,0000,,So this is the Land of Greens\Nyou were talking about, brother?
+Dialogue: 0,0:01:59.35,0:02:01.27,Default,,0000,0000,0000,,Well, it’s a small land,
+Dialogue: 0,0:02:01.31,0:02:03.40,Default,,0000,0000,0000,,but it could be a good stepping-stone\Nfor getting ahead in the world.
+Dialogue: 0,0:02:03.98,0:02:06.77,Default,,0000,0000,0000,,We’ve already bought off\Nhalf of the public officials.
+Dialogue: 0,0:02:07.27,0:02:10.31,Default,,0000,0000,0000,,This land will be overturned\Non our signal.
+Dialogue: 0,0:02:11.31,0:02:14.85,Default,,0000,0000,0000,,As of today,\Nwe’re the feudal lords of this land.
+Dialogue: 0,0:02:15.10,0:02:16.60,Default,,0000,0000,0000,,Feudal lords, huh…?
+Dialogue: 0,0:02:17.98,0:02:19.27,Default,,0000,0000,0000,,That has a nice ring to it.
+Dialogue: 0,0:02:22.40,0:02:26.06,Default,,0000,0000,0000,,Open for Business!\NThe Leaf Moving Service
+Dialogue: 0,0:02:26.89,0:02:27.89,Default,,0000,0000,0000,,This is a problem…
+Dialogue: 0,0:02:28.10,0:02:31.23,Default,,0000,0000,0000,,I thought about testing out\Nvarious combinations, but it backfired.
+Dialogue: 0,0:02:31.85,0:02:34.90,Default,,0000,0000,0000,,With these remaining members,\Nthere’s nobody who can take the lead…
+Dialogue: 0,0:02:35.40,0:02:38.60,Default,,0000,0000,0000,,But it’s merchant protection this time,
+Dialogue: 0,0:02:38.65,0:02:41.69,Default,,0000,0000,0000,,so no matter who goes,\Nthere probably isn’t much to worry about.
+Dialogue: 0,0:02:41.89,0:02:44.19,Default,,0000,0000,0000,,Mission difficulty isn’t the issue.
+Dialogue: 0,0:02:44.89,0:02:46.10,Default,,0000,0000,0000,,It’s a commission from\Nthe Land of Greens.
+Dialogue: 0,0:02:46.52,0:02:48.77,Default,,0000,0000,0000,,I wanted to send them\Na respectable team.
+Dialogue: 0,0:02:49.56,0:02:52.89,Default,,0000,0000,0000,,The lord of the castle there\Nwas good to me in the old days!
+Dialogue: 0,0:02:53.85,0:02:54.77,Default,,0000,0000,0000,,True indeed…
+Dialogue: 0,0:02:55.44,0:03:00.19,Default,,0000,0000,0000,,He generously assumed the debts\Nfor the bundle you blew on gambling.
+Dialogue: 0,0:03:00.60,0:03:03.81,Default,,0000,0000,0000,,It’s small,\Nbut it’s a nice and easygoing land.
+Dialogue: 0,0:03:04.52,0:03:09.89,Default,,0000,0000,0000,,There was an adorable princess,\Nand two boy Ninja looked after her…
+Dialogue: 0,0:03:10.65,0:03:14.85,Default,,0000,0000,0000,,At that time,\Nthey both said they’d marry me…
+Dialogue: 0,0:03:15.40,0:03:16.94,Default,,0000,0000,0000,,I wonder if they still feel that way…
+Dialogue: 0,0:03:17.40,0:03:18.89,Default,,0000,0000,0000,,I don’t think so.
+Dialogue: 0,0:03:19.65,0:03:21.60,Default,,0000,0000,0000,,I bet they’ve all gotten big…
+Dialogue: 0,0:03:31.56,0:03:32.89,Default,,0000,0000,0000,,We’ll be at the border soon.
+Dialogue: 0,0:03:33.44,0:03:35.89,Default,,0000,0000,0000,,This is our last look at this scenery\Nfor a while.
+Dialogue: 0,0:03:41.10,0:03:43.89,Default,,0000,0000,0000,,All right!\NA mission, a mission!
+Dialogue: 0,0:03:45.89,0:03:47.40,Default,,0000,0000,0000,,Wait up, Naruto!
+Dialogue: 0,0:03:47.89,0:03:49.85,Default,,0000,0000,0000,,Everyone else was off on missions,
+Dialogue: 0,0:03:49.89,0:03:53.44,Default,,0000,0000,0000,,but I've been doing nothing but\Nodd jobs in the village!
+Dialogue: 0,0:03:53.69,0:03:57.06,Default,,0000,0000,0000,,I was sick of hearing stories\Nabout everyone’s adventures.
+Dialogue: 0,0:03:57.27,0:04:00.23,Default,,0000,0000,0000,,Still,\Nwe’re guarding merchants this time.
+Dialogue: 0,0:04:00.27,0:04:02.31,Default,,0000,0000,0000,,It ‘s probably not something\Nto brag about.
+Dialogue: 0,0:04:02.81,0:04:05.52,Default,,0000,0000,0000,,Then I should exaggerate\Nthe story a bit
+Dialogue: 0,0:04:05.56,0:04:09.40,Default,,0000,0000,0000,,and say that I took out\Nabout a thousand bandits, right?
+Dialogue: 0,0:04:09.56,0:04:10.89,Default,,0000,0000,0000,,That’s just lying…
+Dialogue: 0,0:04:16.27,0:04:18.85,Default,,0000,0000,0000,,Oh! There they are.\NThat’s them!
+Dialogue: 0,0:04:19.15,0:04:20.52,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:04:25.85,0:04:26.52,Default,,0000,0000,0000,,Who’re you?
+Dialogue: 0,0:04:27.10,0:04:30.60,Default,,0000,0000,0000,,You guys are merchants\Nfrom the Land of Greens, right?
+Dialogue: 0,0:04:31.10,0:04:31.90,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:04:32.31,0:04:34.73,Default,,0000,0000,0000,,We’ve come from\Nthe Village Hidden in Leaves
+Dialogue: 0,0:04:34.77,0:04:36.35,Default,,0000,0000,0000,,to protect you guys.\NBelieve it.
+Dialogue: 0,0:04:36.60,0:04:37.85,Default,,0000,0000,0000,,The Village Hidden in Leaves?
+Dialogue: 0,0:04:38.35,0:04:40.06,Default,,0000,0000,0000,,See…? 					This, this.
+Dialogue: 0,0:04:40.48,0:04:43.65,Default,,0000,0000,0000,,We were told to protect you\Nfrom mountain bandits…
+Dialogue: 0,0:04:46.98,0:04:47.81,Default,,0000,0000,0000,,It’s for certain.
+Dialogue: 0,0:04:49.89,0:04:51.52,Default,,0000,0000,0000,,I’m Naruto Uzumaki.
+Dialogue: 0,0:04:51.89,0:04:53.52,Default,,0000,0000,0000,,And this is Hinata.
+Dialogue: 0,0:04:53.85,0:04:55.44,Default,,0000,0000,0000,,I’m Choji Akimichi.
+Dialogue: 0,0:04:55.60,0:05:00.06,Default,,0000,0000,0000,,Um, we received one more item\Nfrom the Hokage
+Dialogue: 0,0:05:00.10,0:05:02.40,Default,,0000,0000,0000,,to identify ourselves with.
+Dialogue: 0,0:05:06.52,0:05:07.81,Default,,0000,0000,0000,,Hey, Momiji.
+Dialogue: 0,0:05:07.98,0:05:08.90,Default,,0000,0000,0000,,Give it back.
+Dialogue: 0,0:05:09.60,0:05:10.90,Default,,0000,0000,0000,,Oh, it’s true.
+Dialogue: 0,0:05:11.23,0:05:13.94,Default,,0000,0000,0000,,These people are from\Nthe Village of the Hidden Leaf.
+Dialogue: 0,0:05:14.90,0:05:16.02,Default,,0000,0000,0000,,See…?\N74.01	01:30:15:10	01:30:17:11	The Leaf Moving Service
+Dialogue: 0,0:05:18.89,0:05:20.44,Default,,0000,0000,0000,,Wh-What’s that?
+Dialogue: 0,0:05:20.90,0:05:23.85,Default,,0000,0000,0000,,Old lady Tsunade…\Nshe’s done it this time!
+Dialogue: 0,0:05:26.35,0:05:26.89,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:05:27.40,0:05:28.48,Default,,0000,0000,0000,,I’m Kikusuke.
+Dialogue: 0,0:05:29.15,0:05:30.15,Default,,0000,0000,0000,,This is Yurinoshin.
+Dialogue: 0,0:05:30.89,0:05:31.89,Default,,0000,0000,0000,,He’s Shun.
+Dialogue: 0,0:05:32.69,0:05:36.19,Default,,0000,0000,0000,,I’m Momiji!\NWe’ll be counting on you movers!
+Dialogue: 0,0:05:49.89,0:05:51.15,Default,,0000,0000,0000,,You sure eat a lot.
+Dialogue: 0,0:05:51.48,0:05:53.19,Default,,0000,0000,0000,,That’s why you're so f…
+Dialogue: 0,0:05:53.23,0:05:53.81,Default,,0000,0000,0000,,Fa?!
+Dialogue: 0,0:05:53.85,0:05:54.81,Default,,0000,0000,0000,,…full figured.
+Dialogue: 0,0:05:56.31,0:05:56.89,Default,,0000,0000,0000,,For you.
+Dialogue: 0,0:05:57.69,0:05:59.89,Default,,0000,0000,0000,,I love people with great strength.
+Dialogue: 0,0:06:00.10,0:06:02.27,Default,,0000,0000,0000,,Something like this is a cinch.
+Dialogue: 0,0:06:02.40,0:06:03.69,Default,,0000,0000,0000,,See? Watch.
+Dialogue: 0,0:06:03.89,0:06:05.52,Default,,0000,0000,0000,,Roll-roll-roll-roll-roll-roll-roll…
+Dialogue: 0,0:06:05.56,0:06:06.94,Default,,0000,0000,0000,,Somebody help me!
+Dialogue: 0,0:06:09.73,0:06:12.56,Default,,0000,0000,0000,,That Choji, getting all carried away.
+Dialogue: 0,0:06:12.89,0:06:14.77,Default,,0000,0000,0000,,Move faster, mover.
+Dialogue: 0,0:06:15.48,0:06:16.89,Default,,0000,0000,0000,,We’re rapidly falling behind.
+Dialogue: 0,0:06:17.06,0:06:19.98,Default,,0000,0000,0000,,We’re not movers, I’m telling you.
+Dialogue: 0,0:06:20.27,0:06:22.90,Default,,0000,0000,0000,,Why don’t you help out\Nbefore complaining?!
+Dialogue: 0,0:06:23.23,0:06:24.48,Default,,0000,0000,0000,,No, it’s fine.
+Dialogue: 0,0:06:26.27,0:06:28.81,Default,,0000,0000,0000,,Our cousin Shun is in poor health.
+Dialogue: 0,0:06:30.94,0:06:34.10,Default,,0000,0000,0000,,You don’t need to worry,\NKikusuke, Yurinoshin.
+Dialogue: 0,0:06:34.89,0:06:36.31,Default,,0000,0000,0000,,I had no intention of\Nlistening to anything
+Dialogue: 0,0:06:36.35,0:06:38.15,Default,,0000,0000,0000,,this good-for-nothing has had to say\Nfrom the start.
+Dialogue: 0,0:06:38.35,0:06:42.23,Default,,0000,0000,0000,,Who’s a good-for-nothing?!\NJust you watch!
+Dialogue: 0,0:06:48.89,0:06:50.69,Default,,0000,0000,0000,,Honestly,\Nit’s because you push yourself too far…
+Dialogue: 0,0:06:50.98,0:06:53.77,Default,,0000,0000,0000,,I’m sorry…\NShun’s being unreasonable.
+Dialogue: 0,0:06:54.77,0:06:56.15,Default,,0000,0000,0000,,Water! 					Oh.
+Dialogue: 0,0:07:00.35,0:07:02.44,Default,,0000,0000,0000,,Mine’s empty, too.
+Dialogue: 0,0:07:02.65,0:07:04.23,Default,,0000,0000,0000,,Then there’s some fresh drawn water.
+Dialogue: 0,0:07:05.15,0:07:05.81,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:07:06.60,0:07:09.98,Default,,0000,0000,0000,,Wow,\Nhow’d you find water in a place like this?
+Dialogue: 0,0:07:10.85,0:07:12.77,Default,,0000,0000,0000,,My grandma taught me.
+Dialogue: 0,0:07:13.23,0:07:13.94,Default,,0000,0000,0000,,Your grandma?
+Dialogue: 0,0:07:14.69,0:07:15.73,Default,,0000,0000,0000,,It's this…
+Dialogue: 0,0:07:16.10,0:07:17.89,Default,,0000,0000,0000,,You can tell with this.
+Dialogue: 0,0:07:18.31,0:07:20.27,Default,,0000,0000,0000,,What?! 					With those?
+Dialogue: 0,0:07:20.56,0:07:22.23,Default,,0000,0000,0000,,It’s called dousing.
+Dialogue: 0,0:07:22.27,0:07:24.40,Default,,0000,0000,0000,,If you concentrate\Non the item you’re looking for…
+Dialogue: 0,0:07:24.44,0:07:28.48,Default,,0000,0000,0000,,these rods will react to that item\Nand will inform you when you're near it.
+Dialogue: 0,0:07:29.02,0:07:31.77,Default,,0000,0000,0000,,It’s knowledge passed on\Nfrom our predecessors.
+Dialogue: 0,0:07:33.06,0:07:34.81,Default,,0000,0000,0000,,When I get back to the village,
+Dialogue: 0,0:07:34.85,0:07:37.19,Default,,0000,0000,0000,,maybe I'll try to find money\Nthat people dropped with that.
+Dialogue: 0,0:07:40.06,0:07:40.90,Default,,0000,0000,0000,,Tasty!
+Dialogue: 0,0:07:51.89,0:07:55.19,Default,,0000,0000,0000,,It doesn’t compare to the water\Nin the Land of Greens, but it's good water.
+Dialogue: 0,0:07:55.60,0:07:58.23,Default,,0000,0000,0000,,Come to think of it,\Nwhat kind of place is the Land of Greens?
+Dialogue: 0,0:07:58.89,0:08:02.98,Default,,0000,0000,0000,,The Land of Greens is…\Na small land deep in the mountains.
+Dialogue: 0,0:08:03.52,0:08:07.40,Default,,0000,0000,0000,,Everyone in the land loves nature\Nand is warm-hearted.
+Dialogue: 0,0:08:08.15,0:08:10.15,Default,,0000,0000,0000,,It was indeed Shangri-La…
+Dialogue: 0,0:08:10.73,0:08:11.60,Default,,0000,0000,0000,,Was…?
+Dialogue: 0,0:08:11.94,0:08:12.77,Default,,0000,0000,0000,,Oh, it’s nothing…
+Dialogue: 0,0:08:12.81,0:08:17.27,Default,,0000,0000,0000,,But, you know, if it’s such a great place,\Nwhy do you need protection?
+Dialogue: 0,0:08:20.81,0:08:23.27,Default,,0000,0000,0000,,It’s targeted because\Nthe people take peace for granted!
+Dialogue: 0,0:08:27.73,0:08:29.31,Default,,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:08:29.85,0:08:33.85,Default,,0000,0000,0000,,Stuff like loving nature\Nand being warm-hearted sounds nice.
+Dialogue: 0,0:08:34.06,0:08:37.52,Default,,0000,0000,0000,,But the bottom line is that the people\Nin the Land of Greens are all softhearted.
+Dialogue: 0,0:08:38.15,0:08:39.60,Default,,0000,0000,0000,,We live in a troubled time now.
+Dialogue: 0,0:08:39.89,0:08:42.10,Default,,0000,0000,0000,,Something like believing in people\Nis ridiculous.
+Dialogue: 0,0:08:42.89,0:08:46.77,Default,,0000,0000,0000,,Hey, the Land of Greens\Nis not something to speak ill of like that.
+Dialogue: 0,0:08:47.48,0:08:53.60,Default,,0000,0000,0000,,The lord of the castle there was kind\Neven to us merchants passing through.
+Dialogue: 0,0:08:58.06,0:09:00.48,Default,,0000,0000,0000,,To think he’d take up that kind of attitude\Nwith an old lady…
+Dialogue: 0,0:09:00.85,0:09:02.89,Default,,0000,0000,0000,,He’s kind of disagreeable.
+Dialogue: 0,0:09:03.52,0:09:06.19,Default,,0000,0000,0000,,He’s your cousin, right?\NDo something about him.
+Dialogue: 0,0:09:06.81,0:09:07.94,Default,,0000,0000,0000,,R-Right.
+Dialogue: 0,0:09:08.23,0:09:10.98,Default,,0000,0000,0000,,He’s probably a bit touchy\Nfrom the bad things that have happened.
+Dialogue: 0,0:09:11.56,0:09:12.19,Default,,0000,0000,0000,,I’m sorry…
+Dialogue: 0,0:09:12.73,0:09:14.90,Default,,0000,0000,0000,,Oh, i-it’s okay…
+Dialogue: 0,0:09:19.60,0:09:21.56,Default,,0000,0000,0000,,Hey, that’s dangerous.
+Dialogue: 0,0:09:23.60,0:09:25.89,Default,,0000,0000,0000,,It’s dangerous\Nto wander around alone.
+Dialogue: 0,0:09:26.89,0:09:28.56,Default,,0000,0000,0000,,Brother Choji, look at that…
+Dialogue: 0,0:09:32.94,0:09:33.89,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:09:34.23,0:09:34.94,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:09:35.44,0:09:35.98,Default,,0000,0000,0000,,That.
+Dialogue: 0,0:09:36.23,0:09:37.27,Default,,0000,0000,0000,,Wh-What is that?
+Dialogue: 0,0:09:37.89,0:09:40.23,Default,,0000,0000,0000,,That’s in the direction of\Nthe Land of Greens, right?!
+Dialogue: 0,0:09:40.44,0:09:44.10,Default,,0000,0000,0000,,I’m going to go check it out…\NYou take the others and go on ahead.
+Dialogue: 0,0:09:44.44,0:09:45.89,Default,,0000,0000,0000,,I’ll be right back.
+Dialogue: 0,0:09:50.48,0:09:51.35,Default,,0000,0000,0000,,Listen.
+Dialogue: 0,0:09:51.65,0:09:53.15,Default,,0000,0000,0000,,What we saw here is a secret.
+Dialogue: 0,0:09:53.40,0:09:55.69,Default,,0000,0000,0000,,We don’t want everyone to get worried.
+Dialogue: 0,0:09:55.73,0:09:57.06,Default,,0000,0000,0000,,Yeah. 					Got it.
+Dialogue: 0,0:10:01.60,0:10:03.27,Default,,0000,0000,0000,,Huh? Where’s Naruto?
+Dialogue: 0,0:10:04.06,0:10:05.89,Default,,0000,0000,0000,,Th-The bathroom…
+Dialogue: 0,0:10:30.94,0:10:33.77,Default,,0000,0000,0000,,I’ll give this to you\Nif you tell me what you saw earlier.
+Dialogue: 0,0:10:37.06,0:10:39.69,Default,,0000,0000,0000,,Black smoke… 					was rising.
+Dialogue: 0,0:10:40.40,0:10:42.69,Default,,0000,0000,0000,,Black smoke…?! 					From where?
+Dialogue: 0,0:10:44.10,0:10:45.56,Default,,0000,0000,0000,,The direction of the Land of Greens.
+Dialogue: 0,0:10:47.27,0:10:48.02,Default,,0000,0000,0000,,Lord Shun…
+Dialogue: 0,0:10:48.73,0:10:49.35,Default,,0000,0000,0000,,It’s finally…
+Dialogue: 0,0:10:55.48,0:10:58.15,Default,,0000,0000,0000,,I should be at the Land of Greens\Nborder pretty soon.
+Dialogue: 0,0:11:05.77,0:11:09.89,Default,,0000,0000,0000,,Wh-What was that …?\NThere was no presence at all.
+Dialogue: 0,0:11:17.89,0:11:20.10,Default,,0000,0000,0000,,Who’re you guys!
+Dialogue: 0,0:11:28.06,0:11:30.06,Default,,0000,0000,0000,,Who’re you guys?
+Dialogue: 0,0:11:30.89,0:11:33.89,Default,,0000,0000,0000,,That headband. You’re with\Nthe Hidden Leaf Village, right?
+Dialogue: 0,0:11:34.35,0:11:38.44,Default,,0000,0000,0000,,So what if I am?\NWhy are you targeting me?
+Dialogue: 0,0:11:38.81,0:11:42.02,Default,,0000,0000,0000,,I have no intention\Nof fighting you guys.
+Dialogue: 0,0:11:42.56,0:11:47.31,Default,,0000,0000,0000,,It seems the ones we are looking for\Nare heading this direction, you see.
+Dialogue: 0,0:11:47.89,0:11:50.89,Default,,0000,0000,0000,,Those who prowl around here will die.
+Dialogue: 0,0:11:58.40,0:11:59.15,Default,,0000,0000,0000,,Did we do it…?
+Dialogue: 0,0:12:01.89,0:12:02.90,Default,,0000,0000,0000,,The Substitution Jutsu?!
+Dialogue: 0,0:12:03.19,0:12:05.15,Default,,0000,0000,0000,,The real one is over here!
+Dialogue: 0,0:12:27.19,0:12:29.27,Default,,0000,0000,0000,,These guys are pretty good.
+Dialogue: 0,0:12:31.77,0:12:33.06,Default,,0000,0000,0000,,Two left.
+Dialogue: 0,0:12:33.65,0:12:35.02,Default,,0000,0000,0000,,One of them is the real one!
+Dialogue: 0,0:12:43.56,0:12:44.06,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:49.44,0:12:52.89,Default,,0000,0000,0000,,Too bad!\NThose two are also clones.
+Dialogue: 0,0:12:53.19,0:12:55.89,Default,,0000,0000,0000,,I’m going to turn back for now…
+Dialogue: 0,0:13:03.40,0:13:04.81,Default,,0000,0000,0000,,Choji! Hinata!
+Dialogue: 0,0:13:06.60,0:13:07.69,Default,,0000,0000,0000,,How’d it go, Naruto?
+Dialogue: 0,0:13:07.98,0:13:09.31,Default,,0000,0000,0000,,Actually, there’s trouble…
+Dialogue: 0,0:13:09.89,0:13:12.89,Default,,0000,0000,0000,,Guys! Let’s take a break here\Nfor the time being!
+Dialogue: 0,0:13:21.31,0:13:22.90,Default,,0000,0000,0000,,Pursuers from the Land of Greens?
+Dialogue: 0,0:13:23.19,0:13:24.52,Default,,0000,0000,0000,,They said that…
+Dialogue: 0,0:13:24.56,0:13:26.65,Default,,0000,0000,0000,,The ones they were looking for\Nwere headed in this direction.
+Dialogue: 0,0:13:26.89,0:13:29.73,Default,,0000,0000,0000,,But why would Ninja\Nbe after this group?
+Dialogue: 0,0:13:30.27,0:13:33.15,Default,,0000,0000,0000,,These people are just merchants,\Naren’t they?
+Dialogue: 0,0:13:33.89,0:13:36.56,Default,,0000,0000,0000,,And they’re not even people\Nfrom the Land of Greens to begin with…
+Dialogue: 0,0:13:37.52,0:13:40.02,Default,,0000,0000,0000,,Now that you mention it,\Nthat’s right.
+Dialogue: 0,0:13:40.23,0:13:41.06,Default,,0000,0000,0000,,But what will we do?
+Dialogue: 0,0:13:41.52,0:13:44.85,Default,,0000,0000,0000,,We’re going to engage them if they come,\Nof course.
+Dialogue: 0,0:13:45.19,0:13:46.56,Default,,0000,0000,0000,,That might be impossible…
+Dialogue: 0,0:13:46.85,0:13:49.40,Default,,0000,0000,0000,,We have elderly people\Nand children with us.
+Dialogue: 0,0:13:49.44,0:13:50.65,Default,,0000,0000,0000,,You’re right…
+Dialogue: 0,0:13:51.06,0:13:52.02,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:13:52.35,0:13:55.98,Default,,0000,0000,0000,,It could be that\Nthey’re not chasing after us!
+Dialogue: 0,0:13:56.52,0:13:58.31,Default,,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:13:58.77,0:14:03.89,Default,,0000,0000,0000,,Basically, we’re moving\Nin the same direction as their true target
+Dialogue: 0,0:14:03.89,0:14:06.06,Default,,0000,0000,0000,,and we could just be\Nin their battle ground…or something.
+Dialogue: 0,0:14:07.35,0:14:08.69,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:14:08.73,0:14:14.27,Default,,0000,0000,0000,,That means if we clear the path,\Nthey’ll let us go right by.
+Dialogue: 0,0:14:14.65,0:14:15.15,Default,,0000,0000,0000,,Alright.
+Dialogue: 0,0:14:15.31,0:14:16.89,Default,,0000,0000,0000,,Listen up, guys!
+Dialogue: 0,0:14:17.35,0:14:21.02,Default,,0000,0000,0000,,Some kind of troublesome guys\Nare heading this way.
+Dialogue: 0,0:14:21.06,0:14:22.48,Default,,0000,0000,0000,,Troublesome guys?
+Dialogue: 0,0:14:22.52,0:14:26.65,Default,,0000,0000,0000,,Naruto, I think everyone will feel anxious\Nif you say it like that.
+Dialogue: 0,0:14:26.69,0:14:27.89,Default,,0000,0000,0000,,I-I see…
+Dialogue: 0,0:14:28.81,0:14:30.81,Default,,0000,0000,0000,,But you don’t need to worry.
+Dialogue: 0,0:14:30.98,0:14:34.90,Default,,0000,0000,0000,,They’re probably not after us…
+Dialogue: 0,0:14:35.40,0:14:38.06,Default,,0000,0000,0000,,It’ll kind of be the long way around,
+Dialogue: 0,0:14:38.10,0:14:41.27,Default,,0000,0000,0000,,but we’ll make it through\Nif we take a little side turn up ahead.
+Dialogue: 0,0:14:48.60,0:14:52.15,Default,,0000,0000,0000,,Does this feudal lord really have this little?
+Dialogue: 0,0:14:52.35,0:14:54.89,Default,,0000,0000,0000,,He’s a feudal lord\Nwho’s a prestigious ruler of virtue.
+Dialogue: 0,0:14:54.89,0:14:56.73,Default,,0000,0000,0000,,So he would never line his pockets.
+Dialogue: 0,0:14:56.94,0:14:58.89,Default,,0000,0000,0000,,But we’ll squeeze out a big pile\Nfrom now on.
+Dialogue: 0,0:14:59.73,0:15:02.69,Default,,0000,0000,0000,,More importantly, has\Nthe young girl in question been found?
+Dialogue: 0,0:15:02.94,0:15:03.73,Default,,0000,0000,0000,,Nope…
+Dialogue: 0,0:15:03.98,0:15:06.77,Default,,0000,0000,0000,,But the two who were tracking her\Ngot attacked.
+Dialogue: 0,0:15:07.44,0:15:09.56,Default,,0000,0000,0000,,We know the direction she fled in.
+Dialogue: 0,0:15:09.98,0:15:11.89,Default,,0000,0000,0000,,That young girl just would not be good.
+Dialogue: 0,0:15:12.31,0:15:17.77,Default,,0000,0000,0000,,If they get away, they may return\Nwith forces from other lands.
+Dialogue: 0,0:15:18.69,0:15:20.60,Default,,0000,0000,0000,,If the sun were a little stronger,
+Dialogue: 0,0:15:20.65,0:15:24.44,Default,,0000,0000,0000,,I could burned down a whole mountain\Nwith my Jutsu…
+Dialogue: 0,0:15:28.31,0:15:29.56,Default,,0000,0000,0000,,Then I’ll go…
+Dialogue: 0,0:15:36.77,0:15:41.89,Default,,0000,0000,0000,,Lord Renga, I gathered all collaborators\Nin the hall as you ordered…
+Dialogue: 0,0:15:42.56,0:15:44.10,Default,,0000,0000,0000,,Oh, good work.
+Dialogue: 0,0:15:44.77,0:15:50.31,Default,,0000,0000,0000,,Without your guys’ help, we couldn’t have\Nbrought down the castle this easily …
+Dialogue: 0,0:15:52.35,0:15:56.60,Default,,0000,0000,0000,,Then brother,\Nshall we go for the hall greeting?
+Dialogue: 0,0:15:56.69,0:15:58.94,Default,,0000,0000,0000,,Okay… I’ll take care of things here.
+Dialogue: 0,0:16:04.89,0:16:07.85,Default,,0000,0000,0000,,So, about the thing you promised…
+Dialogue: 0,0:16:08.69,0:16:10.06,Default,,0000,0000,0000,,Oh, that’s right.
+Dialogue: 0,0:16:10.69,0:16:13.02,Default,,0000,0000,0000,,Take as much there as you like.
+Dialogue: 0,0:16:13.40,0:16:15.65,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:16:20.44,0:16:24.23,Default,,0000,0000,0000,,Honestly. It’s so easy to deceive\Nsofthearted people…
+Dialogue: 0,0:16:24.52,0:16:26.85,Default,,0000,0000,0000,,It really is exactly so.
+Dialogue: 0,0:16:26.89,0:16:30.52,Default,,0000,0000,0000,,Our lord believed in us\Nuntil the very end…
+Dialogue: 0,0:16:30.77,0:16:31.65,Default,,0000,0000,0000,,Come on.
+Dialogue: 0,0:16:31.77,0:16:36.56,Default,,0000,0000,0000,,If you stuff that much in there,\Nthe ferry on death’s river will sink.
+Dialogue: 0,0:16:38.90,0:16:42.89,Default,,0000,0000,0000,,I make it a habit not to believe in people.
+Dialogue: 0,0:16:43.06,0:16:46.85,Default,,0000,0000,0000,,Especially people\Nwho have betrayed someone once…
+Dialogue: 0,0:16:46.89,0:16:49.02,Default,,0000,0000,0000,,Y-You’re joking, Lord Renga…
+Dialogue: 0,0:16:49.19,0:16:51.48,Default,,0000,0000,0000,,It’s no joke.
+Dialogue: 0,0:16:55.44,0:16:59.19,Default,,0000,0000,0000,,C-Could it be that you had me\Ngather the collaborators in the coup to…
+Dialogue: 0,0:17:06.52,0:17:09.35,Default,,0000,0000,0000,,You’re also softhearted!
+Dialogue: 0,0:17:19.40,0:17:20.23,Default,,0000,0000,0000,,That should do it.
+Dialogue: 0,0:17:32.31,0:17:36.35,Default,,0000,0000,0000,,Yurinojou, it seems they’re after us.
+Dialogue: 0,0:17:36.48,0:17:37.10,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:37.48,0:17:38.60,Default,,0000,0000,0000,,I leave Lady Haruna to you.
+Dialogue: 0,0:17:38.98,0:17:40.02,Default,,0000,0000,0000,,What are you going to do?
+Dialogue: 0,0:17:40.77,0:17:44.44,Default,,0000,0000,0000,,If we wait here for their attack,\Nthere will be too many to defend.
+Dialogue: 0,0:17:45.02,0:17:47.98,Default,,0000,0000,0000,,Since it’s come to this,\NI’ll slow them down.
+Dialogue: 0,0:17:48.48,0:17:50.44,Default,,0000,0000,0000,,But according to the information,
+Dialogue: 0,0:17:50.48,0:17:52.94,Default,,0000,0000,0000,,they are three Janin\Nwho use unknown Jutsu.
+Dialogue: 0,0:17:53.56,0:17:54.40,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:17:54.89,0:17:57.94,Default,,0000,0000,0000,,But my Jutsu will not be defeated\Nby the likes of them.
+Dialogue: 0,0:17:58.81,0:17:59.31,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:17:59.89,0:18:01.15,Default,,0000,0000,0000,,Go, Kikunojou.
+Dialogue: 0,0:18:01.98,0:18:03.52,Default,,0000,0000,0000,,Yes, Lady Haruna.
+Dialogue: 0,0:18:10.31,0:18:10.94,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:18:11.35,0:18:13.65,Default,,0000,0000,0000,,I set a trap for the time being.
+Dialogue: 0,0:18:13.89,0:18:15.98,Default,,0000,0000,0000,,Jeez, Hinata.\NYou’re such a worrywart.
+Dialogue: 0,0:18:16.31,0:18:17.69,Default,,0000,0000,0000,,You don’t need to go that far.
+Dialogue: 0,0:18:17.73,0:18:20.89,Default,,0000,0000,0000,,Huh? Yurinoshin,\Nwhere’s Kikusuke?
+Dialogue: 0,0:18:20.98,0:18:22.89,Default,,0000,0000,0000,,You’re right. 					Since when…?
+Dialogue: 0,0:18:23.60,0:18:26.73,Default,,0000,0000,0000,,Oh, he had some other business\Nand went on ahead…
+Dialogue: 0,0:18:26.89,0:18:31.15,Default,,0000,0000,0000,,Say what? Taking liberties like that\Nis really a problem…
+Dialogue: 0,0:18:32.06,0:18:33.89,Default,,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:18:34.06,0:18:35.31,Default,,0000,0000,0000,,So that’s it, huh?
+Dialogue: 0,0:18:37.02,0:18:37.89,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:18:38.23,0:18:41.31,Default,,0000,0000,0000,,Even Kikusuke makes sure\Nto go to the bathroom.
+Dialogue: 0,0:18:41.77,0:18:42.60,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:18:45.81,0:18:48.48,Default,,0000,0000,0000,,Lady Haruna, I shall protect you\N with my life!
+Dialogue: 0,0:18:51.69,0:18:52.65,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:18:59.48,0:19:00.23,Default,,0000,0000,0000,,Who’re you…?!
+Dialogue: 0,0:19:02.27,0:19:03.44,Default,,0000,0000,0000,,I’m Ruiga.
+Dialogue: 0,0:19:03.77,0:19:06.19,Default,,0000,0000,0000,,To think you’d\Njust come right on out nonchalantly.
+Dialogue: 0,0:19:06.85,0:19:09.52,Default,,0000,0000,0000,,Then she must in that group, right?
+Dialogue: 0,0:19:09.89,0:19:13.31,Default,,0000,0000,0000,,If it’s one against one,\NI won’t lose to a hired Ninja like you!
+Dialogue: 0,0:19:14.89,0:19:15.89,Default,,0000,0000,0000,,Can you do it?
+Dialogue: 0,0:19:16.27,0:19:18.81,Default,,0000,0000,0000,,Have a taste of\Nthe Land of Greens’ Flower Ninja Art!
+Dialogue: 0,0:19:30.40,0:19:33.69,Default,,0000,0000,0000,,Eat this! Flower Shuriken!\NFlying Flowers: Falling Foliage!
+Dialogue: 0,0:19:42.27,0:19:43.27,Default,,0000,0000,0000,,Too easy…
+Dialogue: 0,0:19:44.27,0:19:45.02,Default,,0000,0000,0000,,I don’t know about that!
+Dialogue: 0,0:19:50.85,0:19:53.10,Default,,0000,0000,0000,,Flower Ninja Art: Release!\NMyriad of Flowers!
+Dialogue: 0,0:19:55.98,0:19:57.94,Default,,0000,0000,0000,,Ninja Art: Mirror Flower Water Moon!
+Dialogue: 0,0:19:59.90,0:20:03.73,Default,,0000,0000,0000,,Flowers made of Letter Bombs, huh?\NFutile, futile!
+Dialogue: 0,0:20:04.77,0:20:07.23,Default,,0000,0000,0000,,And Genjutsu next, huh?
+Dialogue: 0,0:20:21.89,0:20:23.10,Default,,0000,0000,0000,,This is the finishing blow.
+Dialogue: 0,0:20:23.56,0:20:25.90,Default,,0000,0000,0000,,Flower Ninja Art: Bloom!\NMyriad of Flowers!
+Dialogue: 0,0:20:53.27,0:20:54.23,Default,,0000,0000,0000,,Too bad.
+Dialogue: 0,0:20:54.81,0:20:58.35,Default,,0000,0000,0000,,The Ninjutsu of a Flower Ninja\Ncan’t beat me.
+Dialogue: 0,0:21:01.69,0:21:03.52,Default,,0000,0000,0000,,Now it’s my turn!
+Dialogue: 0,0:21:05.41,0:21:06.23,Default,,0000,0000,0000,,Eat this.
+Dialogue: 0,0:21:06.42,0:21:08.77,Default,,0000,0000,0000,,Water Style: Liquid Memory!
+Dialogue: 0,0:21:24.40,0:21:29.31,Default,,0000,0000,0000,,Yesterday’s Call Sign,\Nwas all from my cell phone.
+Dialogue: 0,0:21:31.06,0:21:35.90,Default,,0000,0000,0000,,In a strange park,\NI play the Fuzz Guitar without enthusiasm.
+Dialogue: 0,0:21:49.94,0:21:51.65,Default,,0000,0000,0000,,Yellow Moon.
+Dialogue: 0,0:21:51.69,0:21:58.48,Default,,0000,0000,0000,,Even now, counting to three,\NI open my eyes
+Dialogue: 0,0:21:58.52,0:22:03.69,Default,,0000,0000,0000,,Shadow Moon I am still dreaming.
+Dialogue: 0,0:22:03.77,0:22:10.65,Default,,0000,0000,0000,,Look at my eyes, look at my eyes,\Nas we face one another’s back
+Dialogue: 0,0:22:10.69,0:22:17.52,Default,,0000,0000,0000,,Look at my eyes, when can we meet?
+Dialogue: 0,0:22:17.56,0:22:24.23,Default,,0000,0000,0000,,EveryDay EveryNight\NWith every word I can think of
+Dialogue: 0,0:22:24.27,0:22:30.94,Default,,0000,0000,0000,,Right away, my messy feelings as is,
+Dialogue: 0,0:22:32.85,0:22:37.77,Default,,0000,0000,0000,,A magical chord change, in a restless city
+Dialogue: 0,0:22:39.65,0:22:44.81,Default,,0000,0000,0000,,A daily JAZZ Guitar played\Nin a soft minor key
+Dialogue: 0,0:22:51.60,0:22:53.65,Default,,0000,0000,0000,,A running-ramen strategy, huh?
+Dialogue: 0,0:22:53.73,0:22:57.02,Default,,0000,0000,0000,,In other words, we split up\Nin order to avoid annihilation, right?
+Dialogue: 0,0:22:57.06,0:22:59.89,Default,,0000,0000,0000,,With this,\Nthe protection burden will decrease.
+Dialogue: 0,0:22:59.89,0:23:02.19,Default,,0000,0000,0000,,But won’t the soup spill if it runs?
+Dialogue: 0,0:23:02.23,0:23:03.48,Default,,0000,0000,0000,,This is an example.
+Dialogue: 0,0:23:03.52,0:23:05.15,Default,,0000,0000,0000,,It’d still be trouble\Neven if it’s just an example, believe it.
+Dialogue: 0,0:23:05.35,0:23:08.23,Default,,0000,0000,0000,,Then, let’s make it\Nthe running-ramen-with-a-lid strategy.
+Dialogue: 0,0:23:08.27,0:23:10.31,Default,,0000,0000,0000,,If you say so, Naruto.
+Dialogue: 0,0:23:10.35,0:23:12.98,Default,,0000,0000,0000,,I mean, do you really understand\Nthe strategy, Naruto?
+Dialogue: 0,0:23:13.44,0:23:16.19,Default,,0000,0000,0000,,Next time:\N“Mystery of the Targeted Merchants.”

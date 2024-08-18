@@ -1,0 +1,283 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.35,0:00:21.81,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.85,0:00:26.56,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.60,0:00:29.35,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.39,0:00:31.85,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.90,0:00:36.39,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.40,0:00:46.39,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.52,0:00:55.69,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.60,0:01:06.48,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.65,0:01:16.06,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.56,0:01:21.23,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:42.39,0:01:47.23,Default,,0000,0000,0000,,The Enemy of the Byakugan
+Dialogue: 0,0:02:04.73,0:02:08.39,Default,,0000,0000,0000,,They blew up…\NThey blew up and died!
+Dialogue: 0,0:02:10.94,0:02:12.81,Default,,0000,0000,0000,,As I expected, I’m not sad.
+Dialogue: 0,0:02:13.35,0:02:15.81,Default,,0000,0000,0000,,You really can’t hold funerals\Nfeeling like this, huh…
+Dialogue: 0,0:02:22.19,0:02:23.85,Default,,0000,0000,0000,,Four of them are still alive.
+Dialogue: 0,0:02:24.65,0:02:27.94,Default,,0000,0000,0000,,Can’t be! After being hit\Nby my Lightning Fang…
+Dialogue: 0,0:02:29.06,0:02:29.60,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:02:30.39,0:02:32.81,Default,,0000,0000,0000,,If you say so, it has to be true.
+Dialogue: 0,0:02:33.44,0:02:35.27,Default,,0000,0000,0000,,One…is troublesome…
+Dialogue: 0,0:02:40.39,0:02:45.15,Default,,0000,0000,0000,,The enemy was nearby…\NBut I couldn’t see anything.
+Dialogue: 0,0:02:47.06,0:02:48.02,Default,,0000,0000,0000,,It’s strange…
+Dialogue: 0,0:02:48.77,0:02:51.27,Default,,0000,0000,0000,,Even if it’s the Hidden Mist Jutsu,
+Dialogue: 0,0:02:51.31,0:02:53.44,Default,,0000,0000,0000,,my Byakugan should be able\Nto see through it.
+Dialogue: 0,0:02:55.19,0:02:55.90,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:02:57.39,0:02:58.40,Default,,0000,0000,0000,,For sure this time…
+Dialogue: 0,0:03:02.40,0:03:03.39,Default,,0000,0000,0000,,I can see it!
+Dialogue: 0,0:03:04.15,0:03:06.23,Default,,0000,0000,0000,,Southwest 52 degrees 2!
+Dialogue: 0,0:03:08.39,0:03:11.06,Default,,0000,0000,0000,,Southeast 12 degrees 3!
+Dialogue: 0,0:03:12.90,0:03:15.39,Default,,0000,0000,0000,,Southeast 8 degrees 1!
+Dialogue: 0,0:03:16.94,0:03:20.35,Default,,0000,0000,0000,,Northwest 24 degrees 11!
+Dialogue: 0,0:03:25.39,0:03:27.19,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:03:29.48,0:03:30.39,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:03:33.27,0:03:34.60,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:03:39.73,0:03:40.44,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:03:46.10,0:03:46.81,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:03:53.15,0:03:56.69,Default,,0000,0000,0000,,U-zu-ma-ki Barrage!
+Dialogue: 0,0:03:58.39,0:03:59.69,Default,,0000,0000,0000,,I missed!
+Dialogue: 0,0:04:00.65,0:04:02.48,Default,,0000,0000,0000,,H-Help me!
+Dialogue: 0,0:04:04.85,0:04:05.52,Default,,0000,0000,0000,,Bushy Brow…?
+Dialogue: 0,0:04:07.27,0:04:09.27,Default,,0000,0000,0000,,Th-The enemy disappeared!
+Dialogue: 0,0:04:20.48,0:04:24.19,Default,,0000,0000,0000,,It can’t be…\NThe false images with Chakra Networks?
+Dialogue: 0,0:04:28.02,0:04:32.02,Default,,0000,0000,0000,,One at the middle of the cliff,\None at the bottom of the cliff,
+Dialogue: 0,0:04:32.06,0:04:34.90,Default,,0000,0000,0000,,one on the right, one on the left.
+Dialogue: 0,0:04:35.56,0:04:37.56,Default,,0000,0000,0000,,We can’t hold funerals,
+Dialogue: 0,0:04:37.60,0:04:40.90,Default,,0000,0000,0000,,but I’ll take care of them\Nwithout leaving any trace.
+Dialogue: 0,0:04:45.27,0:04:48.35,Default,,0000,0000,0000,,Thunder Funeral: Feast of Lightning!
+Dialogue: 0,0:05:03.39,0:05:05.44,Default,,0000,0000,0000,,The corpses are warm.
+Dialogue: 0,0:05:07.39,0:05:10.15,Default,,0000,0000,0000,,We’re strong…you and I.
+Dialogue: 0,0:05:11.56,0:05:13.02,Default,,0000,0000,0000,,No, it’s you.
+Dialogue: 0,0:05:13.60,0:05:19.19,Default,,0000,0000,0000,,Ranmaru, you’re strong.\NWith you I’m also strong.
+Dialogue: 0,0:05:19.44,0:05:24.19,Default,,0000,0000,0000,,Wait… They aren’t dead yet.\NThey’re just unconscious.
+Dialogue: 0,0:05:24.90,0:05:26.73,Default,,0000,0000,0000,,They’re stubborn.
+Dialogue: 0,0:05:27.39,0:05:30.98,Default,,0000,0000,0000,,Okay, if grilling doesn’t work,\Nthen let’s chop them.
+Dialogue: 0,0:05:32.85,0:05:36.23,Default,,0000,0000,0000,,Flesh and even bone…\NI’ll crush them nicely.
+Dialogue: 0,0:05:41.39,0:05:42.77,Default,,0000,0000,0000,,Ranmaru…! Are you all right?!
+Dialogue: 0,0:05:48.06,0:05:50.39,Default,,0000,0000,0000,,Hang in there, Ranmaru!
+Dialogue: 0,0:05:50.65,0:05:51.60,Default,,0000,0000,0000,,Ranmaru…!
+Dialogue: 0,0:05:53.60,0:05:54.60,Default,,0000,0000,0000,,I’m okay.
+Dialogue: 0,0:05:56.73,0:05:57.69,Default,,0000,0000,0000,,Raiga…
+Dialogue: 0,0:05:58.77,0:06:01.31,Default,,0000,0000,0000,,This person…is still unconscious.
+Dialogue: 0,0:06:01.81,0:06:02.90,Default,,0000,0000,0000,,What did you say?
+Dialogue: 0,0:06:06.39,0:06:07.60,Default,,0000,0000,0000,,It’s amazing…
+Dialogue: 0,0:06:08.06,0:06:10.48,Default,,0000,0000,0000,,He is fighting\Nonly with muscle memory.
+Dialogue: 0,0:06:11.27,0:06:14.39,Default,,0000,0000,0000,,It’s a nice face.\Nlt burns into my heart.
+Dialogue: 0,0:06:15.77,0:06:18.15,Default,,0000,0000,0000,,Let’s hold a funeral for him…
+Dialogue: 0,0:06:18.39,0:06:21.02,Default,,0000,0000,0000,,I am sure it will be one\Nthat will make me cry!
+Dialogue: 0,0:06:21.39,0:06:21.90,Default,,0000,0000,0000,,From the right!
+Dialogue: 0,0:06:23.10,0:06:24.10,Default,,0000,0000,0000,,What’s with this guy…?
+Dialogue: 0,0:06:24.39,0:06:26.19,Default,,0000,0000,0000,,He’s hard to read. The moves…
+Dialogue: 0,0:06:26.44,0:06:29.39,Default,,0000,0000,0000,,But for your sake, Raiga,\NI’ll do my best.
+Dialogue: 0,0:06:30.52,0:06:31.94,Default,,0000,0000,0000,,Together, okay!
+Dialogue: 0,0:06:32.27,0:06:32.73,Default,,0000,0000,0000,,Left!
+Dialogue: 0,0:06:32.77,0:06:33.39,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:06:33.40,0:06:35.19,Default,,0000,0000,0000,,From the front! Jump! Now!
+Dialogue: 0,0:06:39.27,0:06:41.65,Default,,0000,0000,0000,,You…you…you!
+Dialogue: 0,0:06:43.23,0:06:43.69,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:43.81,0:06:46.27,Default,,0000,0000,0000,,How can this guy…\Nget to this point?
+Dialogue: 0,0:07:00.44,0:07:01.60,Default,,0000,0000,0000,,B-Bushy Brows…
+Dialogue: 0,0:07:10.65,0:07:13.73,Default,,0000,0000,0000,,Lee…\NCould he have lost consciousness…?
+Dialogue: 0,0:07:14.44,0:07:15.85,Default,,0000,0000,0000,,Tenten! Neji!
+Dialogue: 0,0:07:24.39,0:07:26.27,Default,,0000,0000,0000,,Raiga! Turn around!
+Dialogue: 0,0:07:27.39,0:07:29.39,Default,,0000,0000,0000,,What…? That voice right now…?
+Dialogue: 0,0:07:32.77,0:07:33.39,Default,,0000,0000,0000,,Wha–?!
+Dialogue: 0,0:07:33.48,0:07:34.77,Default,,0000,0000,0000,,Raiga!
+Dialogue: 0,0:07:35.31,0:07:36.23,Default,,0000,0000,0000,,Ranmaru!
+Dialogue: 0,0:07:37.90,0:07:38.65,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:07:38.85,0:07:39.44,Default,,0000,0000,0000,,Neji…
+Dialogue: 0,0:07:40.06,0:07:41.02,Default,,0000,0000,0000,,Ranmaru!
+Dialogue: 0,0:07:41.19,0:07:41.69,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:07:44.39,0:07:48.02,Default,,0000,0000,0000,,Huh? Somehow…it felt like\NI was fighting in my dreams…
+Dialogue: 0,0:07:50.39,0:07:51.44,Default,,0000,0000,0000,,Ranmaru…
+Dialogue: 0,0:07:56.02,0:07:57.19,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:08:02.27,0:08:04.73,Default,,0000,0000,0000,,Heh! Naruto Uzumaki arrives!
+Dialogue: 0,0:08:05.40,0:08:06.40,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:08:06.73,0:08:08.94,Default,,0000,0000,0000,,Just die already…
+Dialogue: 0,0:08:08.98,0:08:12.27,Default,,0000,0000,0000,,Hey! I have something\NI want to ask you!
+Dialogue: 0,0:08:12.48,0:08:16.10,Default,,0000,0000,0000,,You… I heard you’re one of\Nthe Seven Ninja Swords Men of the Mist.
+Dialogue: 0,0:08:20.39,0:08:21.85,Default,,0000,0000,0000,,So what if I was?!
+Dialogue: 0,0:08:22.39,0:08:24.15,Default,,0000,0000,0000,,You know Zabuza, right?!
+Dialogue: 0,0:08:26.65,0:08:29.15,Default,,0000,0000,0000,,You also know…\None called Kisame, right?!
+Dialogue: 0,0:08:32.06,0:08:37.02,Default,,0000,0000,0000,,I…hate them!\NWho wants to remember them?!
+Dialogue: 0,0:08:37.35,0:08:39.02,Default,,0000,0000,0000,,I hate you too!
+Dialogue: 0,0:08:39.98,0:08:40.69,Default,,0000,0000,0000,,Then!
+Dialogue: 0,0:08:40.73,0:08:42.77,Default,,0000,0000,0000,,I’ll make you tell me by force!
+Dialogue: 0,0:08:46.39,0:08:47.39,Default,,0000,0000,0000,,A clone?!
+Dialogue: 0,0:08:48.39,0:08:51.02,Default,,0000,0000,0000,,You… You’re weaker\Nthan a moment ago.
+Dialogue: 0,0:08:54.94,0:08:56.02,Default,,0000,0000,0000,,Wh-What…?
+Dialogue: 0,0:08:56.19,0:08:57.52,Default,,0000,0000,0000,,Lightning Ball!
+Dialogue: 0,0:09:06.77,0:09:07.52,Default,,0000,0000,0000,,Damn…
+Dialogue: 0,0:09:08.10,0:09:10.15,Default,,0000,0000,0000,,Huh, you are tough…
+Dialogue: 0,0:09:11.48,0:09:12.94,Default,,0000,0000,0000,,Lightning Ball!
+Dialogue: 0,0:09:25.39,0:09:26.39,Default,,0000,0000,0000,,Seconds, please…
+Dialogue: 0,0:09:43.65,0:09:45.15,Default,,0000,0000,0000,,Grandma Sansho?
+Dialogue: 0,0:09:45.39,0:09:46.56,Default,,0000,0000,0000,,What’s wrong?
+Dialogue: 0,0:09:47.27,0:09:50.56,Default,,0000,0000,0000,,Oh my. That’s bad lightning.
+Dialogue: 0,0:09:50.77,0:09:55.19,Default,,0000,0000,0000,,It was flashing like that too when\NKarashi went to the village.
+Dialogue: 0,0:09:55.90,0:09:59.27,Default,,0000,0000,0000,,Oh my…that light is like poison…
+Dialogue: 0,0:10:05.02,0:10:05.94,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:10:14.65,0:10:17.48,Default,,0000,0000,0000,,It’s not…working at all.
+Dialogue: 0,0:10:21.39,0:10:24.94,Default,,0000,0000,0000,,I’m not going to\Nremember your smile!
+Dialogue: 0,0:10:25.19,0:10:25.77,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:10:29.39,0:10:31.35,Default,,0000,0000,0000,,Ranmaru…where are you?
+Dialogue: 0,0:10:33.31,0:10:35.40,Default,,0000,0000,0000,,What is in this bag…?
+Dialogue: 0,0:10:37.35,0:10:38.06,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:10:45.23,0:10:46.31,Default,,0000,0000,0000,,There’s…in here…
+Dialogue: 0,0:10:51.06,0:10:51.85,Default,,0000,0000,0000,,Could it be?
+Dialogue: 0,0:11:01.48,0:11:05.02,Default,,0000,0000,0000,,This powder was…\Nhiding the Chakra Networks?
+Dialogue: 0,0:11:10.73,0:11:13.15,Default,,0000,0000,0000,,It’s even creating the Chakra Network!
+Dialogue: 0,0:11:20.65,0:11:22.44,Default,,0000,0000,0000,,Naruto!\NDo the Shadow Clone Jutsu!
+Dialogue: 0,0:11:24.15,0:11:26.52,Default,,0000,0000,0000,,But he saw all the shadow clones…
+Dialogue: 0,0:11:26.98,0:11:30.02,Default,,0000,0000,0000,,Don’t worry.\NHis eyes are right here!
+Dialogue: 0,0:11:31.56,0:11:35.39,Default,,0000,0000,0000,,Ranmaru! I’m gonna come save you\Nafter I defeat this guy!
+Dialogue: 0,0:11:36.73,0:11:38.39,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:11:41.35,0:11:43.10,Default,,0000,0000,0000,,Come bring it on!
+Dialogue: 0,0:11:45.39,0:11:46.60,Default,,0000,0000,0000,,Lightning Ball!
+Dialogue: 0,0:11:47.69,0:11:50.77,Default,,0000,0000,0000,,What? Was the one before a lucky hit?
+Dialogue: 0,0:11:51.40,0:11:55.19,Default,,0000,0000,0000,,Stop messing around.\NAll I have to do is defeat you all, right?!
+Dialogue: 0,0:11:55.81,0:11:57.27,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:11:59.94,0:12:01.27,Default,,0000,0000,0000,,We’re not done yet!
+Dialogue: 0,0:12:01.39,0:12:02.44,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:12:04.60,0:12:06.39,Default,,0000,0000,0000,,At this rate…my Chakra will…
+Dialogue: 0,0:12:08.06,0:12:11.02,Default,,0000,0000,0000,,The mist…\NThe Hidden Mist Jutsu is fading away…
+Dialogue: 0,0:12:11.06,0:12:13.39,Default,,0000,0000,0000,,Damn! I’ll finish them off at once!
+Dialogue: 0,0:12:15.02,0:12:15.65,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:12:21.39,0:12:22.85,Default,,0000,0000,0000,,I am not going to let you get away!
+Dialogue: 0,0:12:26.39,0:12:27.52,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:12:28.65,0:12:30.39,Default,,0000,0000,0000,,Ninja Art: Boulder Avalanche.
+Dialogue: 0,0:12:36.39,0:12:37.06,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:12:41.35,0:12:42.27,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:49.73,0:12:50.65,Default,,0000,0000,0000,,Did you see that…?!
+Dialogue: 0,0:12:50.69,0:12:51.90,Default,,0000,0000,0000,,Yeah, I saw it!
+Dialogue: 0,0:12:52.98,0:12:54.48,Default,,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:12:55.02,0:12:56.06,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:12:59.60,0:13:00.73,Default,,0000,0000,0000,,I can’t stop!
+Dialogue: 0,0:13:10.52,0:13:12.31,Default,,0000,0000,0000,,I…did it.
+Dialogue: 0,0:13:14.52,0:13:16.48,Default,,0000,0000,0000,,This is…Raiga’s eye…?
+Dialogue: 0,0:13:19.23,0:13:21.27,Default,,0000,0000,0000,,Such a big eye ball!
+Dialogue: 0,0:13:21.31,0:13:22.23,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:22.39,0:13:24.10,Default,,0000,0000,0000,,You’re wrong…\Nlt’s a human being!
+Dialogue: 0,0:13:29.15,0:13:29.56,Default,,0000,0000,0000,,Huh…?!
+Dialogue: 0,0:13:31.48,0:13:32.94,Default,,0000,0000,0000,,In my dream…
+Dialogue: 0,0:13:32.98,0:13:36.27,Default,,0000,0000,0000,,I guess you were the one\NI was fighting against.
+Dialogue: 0,0:13:36.39,0:13:39.52,Default,,0000,0000,0000,,It wasn’t me…\Nlt was Raiga and me together…
+Dialogue: 0,0:13:40.31,0:13:41.02,Default,,0000,0000,0000,,Together…?
+Dialogue: 0,0:13:41.81,0:13:44.65,Default,,0000,0000,0000,,Always…since that time…
+Dialogue: 0,0:14:18.94,0:14:23.56,Default,,0000,0000,0000,,Don’t act like you’re asleep.\NYou are going to die…
+Dialogue: 0,0:14:25.31,0:14:26.15,Default,,0000,0000,0000,,Don’t move!
+Dialogue: 0,0:14:26.94,0:14:31.02,Default,,0000,0000,0000,,There is a spy in this village\Nwho snuck into the Hidden Mist Village…
+Dialogue: 0,0:14:31.06,0:14:34.15,Default,,0000,0000,0000,,We came to kill those guys, but…
+Dialogue: 0,0:14:34.81,0:14:41.31,Default,,0000,0000,0000,,I got confused about who I had to kill.\NThat’s why I am doing it randomly…
+Dialogue: 0,0:14:44.23,0:14:47.31,Default,,0000,0000,0000,,Wh-What are you saying?
+Dialogue: 0,0:14:51.19,0:14:53.98,Default,,0000,0000,0000,,It’s fine…\Nlf I am going to be killed by you.
+Dialogue: 0,0:14:54.48,0:14:58.40,Default,,0000,0000,0000,,Huh…?\NWhy is it fine for me to kill you…?
+Dialogue: 0,0:14:59.40,0:15:02.39,Default,,0000,0000,0000,,You were…always crying…
+Dialogue: 0,0:15:03.06,0:15:05.39,Default,,0000,0000,0000,,Huh? Me…cry?
+Dialogue: 0,0:15:06.65,0:15:11.10,Default,,0000,0000,0000,,In your heart…\Nseeking the meaning of living.
+Dialogue: 0,0:15:13.35,0:15:16.56,Default,,0000,0000,0000,,I was always watching…you.
+Dialogue: 0,0:15:18.56,0:15:20.56,Default,,0000,0000,0000,,What…are you?
+Dialogue: 0,0:15:22.15,0:15:26.39,Default,,0000,0000,0000,,I am the same as you…\Nliving is painful.
+Dialogue: 0,0:15:26.94,0:15:29.02,Default,,0000,0000,0000,,I don’t understand\Nthe meaning of living.
+Dialogue: 0,0:15:30.39,0:15:32.39,Default,,0000,0000,0000,,Because of my sickness,\NI couldn’t go outside…
+Dialogue: 0,0:15:32.73,0:15:34.60,Default,,0000,0000,0000,,Shunned by everyone,
+Dialogue: 0,0:15:34.65,0:15:37.52,Default,,0000,0000,0000,,all I could do was to take\Na peek of the world from this blanket…
+Dialogue: 0,0:15:38.90,0:15:40.77,Default,,0000,0000,0000,,But …if with my death,
+Dialogue: 0,0:15:40.81,0:15:45.98,Default,,0000,0000,0000,,if you are able to feel\Nthe meaning of life even a little…
+Dialogue: 0,0:15:49.77,0:15:51.81,Default,,0000,0000,0000,,My life was not needed\Nfrom the beginning.
+Dialogue: 0,0:15:55.40,0:15:56.15,Default,,0000,0000,0000,,Please…
+Dialogue: 0,0:15:59.44,0:16:02.02,Default,,0000,0000,0000,,Are you…alone?
+Dialogue: 0,0:16:06.52,0:16:07.31,Default,,0000,0000,0000,,Come with me.
+Dialogue: 0,0:16:10.23,0:16:14.65,Default,,0000,0000,0000,,From now on,\Nyou and I are two as one.
+Dialogue: 0,0:16:20.98,0:16:25.23,Default,,0000,0000,0000,,From that day on,\NI became Raiga’s eyes and ears.
+Dialogue: 0,0:16:29.52,0:16:32.85,Default,,0000,0000,0000,,Raiga became my hands and feet.
+Dialogue: 0,0:16:37.48,0:16:40.23,Default,,0000,0000,0000,,The outside world that I dashed\Ninto for the very first time…
+Dialogue: 0,0:16:40.27,0:16:45.40,Default,,0000,0000,0000,,it was filled with things\NI had never seen or heard before.
+Dialogue: 0,0:16:46.90,0:16:48.23,Default,,0000,0000,0000,,It was fun.
+Dialogue: 0,0:16:53.19,0:16:55.98,Default,,0000,0000,0000,,Whenever and wherever,\NI was with Raiga.
+Dialogue: 0,0:16:57.06,0:16:58.60,Default,,0000,0000,0000,,No matter when it was,
+Dialogue: 0,0:16:58.65,0:17:01.39,Default,,0000,0000,0000,,there wasn’t a time\Nthat we were separated.
+Dialogue: 0,0:17:29.52,0:17:35.39,Default,,0000,0000,0000,,We were trying to find the meaning of life\Nby living for each other.
+Dialogue: 0,0:17:35.94,0:17:38.81,Default,,0000,0000,0000,,We were convinced that\Nwas the meaning to living.
+Dialogue: 0,0:17:48.39,0:17:49.27,Default,,0000,0000,0000,,That’s why…
+Dialogue: 0,0:17:49.48,0:17:52.85,Default,,0000,0000,0000,,If Raiga is not around,
+Dialogue: 0,0:17:52.90,0:17:56.06,Default,,0000,0000,0000,,I no longer have the power\Nto live by myself.
+Dialogue: 0,0:17:57.27,0:17:59.39,Default,,0000,0000,0000,,I’ve lost the purpose to live…
+Dialogue: 0,0:18:02.31,0:18:04.98,Default,,0000,0000,0000,,Do you have someone\Nprecious to you?
+Dialogue: 0,0:18:06.27,0:18:08.65,Default,,0000,0000,0000,,I want to protect\Nsomeone important to me…
+Dialogue: 0,0:18:09.15,0:18:13.35,Default,,0000,0000,0000,,I want to make his dream come true,\Nand that’s my dream.
+Dialogue: 0,0:18:15.48,0:18:19.31,Default,,0000,0000,0000,,Often people have it wrong…
+Dialogue: 0,0:18:19.90,0:18:23.56,Default,,0000,0000,0000,,mistakenly believing that showing mercy\Nto an enemy is kindness.
+Dialogue: 0,0:18:24.10,0:18:26.35,Default,,0000,0000,0000,,They spare the foe\Nwhose life is in their hands.
+Dialogue: 0,0:18:27.69,0:18:32.02,Default,,0000,0000,0000,,It’s not mercy to me at all…
+Dialogue: 0,0:18:34.39,0:18:43.39,Default,,0000,0000,0000,,Do you know the agony of just living\Nwithout dreams and being unwanted?
+Dialogue: 0,0:18:44.39,0:18:45.90,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:18:46.39,0:18:54.56,Default,,0000,0000,0000,,Zabuza has no use for a weak Shinobi.\NYou’ve taken away my reason for living.
+Dialogue: 0,0:18:55.90,0:18:58.39,Default,,0000,0000,0000,,I no longer need to live.
+Dialogue: 0,0:19:01.69,0:19:04.98,Default,,0000,0000,0000,,Don’t say such stupid things.
+Dialogue: 0,0:19:05.85,0:19:10.90,Default,,0000,0000,0000,,Naruto… Please kill me!
+Dialogue: 0,0:19:11.27,0:19:11.60,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:12.44,0:19:14.40,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:19:17.39,0:19:19.90,Default,,0000,0000,0000,,Now, quickly.
+Dialogue: 0,0:19:21.39,0:19:23.31,Default,,0000,0000,0000,,Why are you hesitating…?
+Dialogue: 0,0:19:24.23,0:19:28.15,Default,,0000,0000,0000,,With my arms and legs torn apart,\NI have no means to resist, you know.
+Dialogue: 0,0:19:32.27,0:19:34.56,Default,,0000,0000,0000,,You should carry out your mission….
+Dialogue: 0,0:19:35.48,0:19:37.23,Default,,0000,0000,0000,,Hurry and deliver your finishing blow.
+Dialogue: 0,0:19:41.56,0:19:45.77,Default,,0000,0000,0000,,Our mission is to force out\Nthe Kurosuki Family from this village…
+Dialogue: 0,0:19:46.81,0:19:50.98,Default,,0000,0000,0000,,Without Raiga, he cannot be\Nof any threat to this village.
+Dialogue: 0,0:19:54.56,0:19:56.39,Default,,0000,0000,0000,,The problem right now is that
+Dialogue: 0,0:19:56.40,0:19:59.31,Default,,0000,0000,0000,,the Kurosuki Family members\Nhave lost their leadership.
+Dialogue: 0,0:20:00.31,0:20:03.39,Default,,0000,0000,0000,,Once the hoop comes off,\Nwe don’t know what they will do.
+Dialogue: 0,0:20:09.31,0:20:12.39,Default,,0000,0000,0000,,For this mission…\Nthis is the finishing touch.
+Dialogue: 0,0:20:14.56,0:20:18.94,Default,,0000,0000,0000,,Yeah, but what are we\Ngoing to do with him?
+Dialogue: 0,0:20:28.31,0:20:30.65,Default,,0000,0000,0000,,Is he a villain worth tying up?
+Dialogue: 0,0:20:31.02,0:20:32.44,Default,,0000,0000,0000,,No, he is not.
+Dialogue: 0,0:20:33.02,0:20:35.39,Default,,0000,0000,0000,,He might kill himself, right?
+Dialogue: 0,0:20:36.69,0:20:40.02,Default,,0000,0000,0000,,Once the mission is over,\Nwe will come save you right away…
+Dialogue: 0,0:20:46.65,0:20:48.56,Default,,0000,0000,0000,,A Chakra Sealing tag?
+Dialogue: 0,0:20:49.35,0:20:52.39,Default,,0000,0000,0000,,We can’t help it.\NHe is an enemy, after all…
+Dialogue: 0,0:20:53.48,0:20:58.23,Default,,0000,0000,0000,,We should assume he has other Jutsu.\NJust in case!
+Dialogue: 0,0:21:30.27,0:21:41.39,Default,,0000,0000,0000,,So many things happen\Non this endless road, huh?
+Dialogue: 0,0:21:41.77,0:21:52.90,Default,,0000,0000,0000,,Although you’re strong-willed,\Nyour voice wavered on the phone today
+Dialogue: 0,0:21:53.52,0:22:04.35,Default,,0000,0000,0000,,What dreams did you chase to get here?
+Dialogue: 0,0:22:04.52,0:22:16.39,Default,,0000,0000,0000,,Even I have times when\NI just don’t understand, baby
+Dialogue: 0,0:22:16.48,0:22:27.85,Default,,0000,0000,0000,,When you’re sad, I’ll be close to you
+Dialogue: 0,0:22:28.10,0:22:39.39,Default,,0000,0000,0000,,Even on nights when we’re apart,\NI’ll be close to you
+Dialogue: 0,0:22:39.56,0:22:45.23,Default,,0000,0000,0000,,I’ll be close to you
+Dialogue: 0,0:22:50.52,0:22:52.94,Default,,0000,0000,0000,,Rokusuke and the others\Nwent back to the village,
+Dialogue: 0,0:22:52.98,0:22:54.39,Default,,0000,0000,0000,,so I say the mission is complete.
+Dialogue: 0,0:22:54.39,0:22:55.39,Default,,0000,0000,0000,,Except Lee.
+Dialogue: 0,0:22:55.39,0:22:56.40,Default,,0000,0000,0000,,Oh, oh yeah.
+Dialogue: 0,0:22:56.44,0:23:00.06,Default,,0000,0000,0000,,Bushy Brow said he was\Ngoing to straighten Karashi’s spirit.
+Dialogue: 0,0:23:00.10,0:23:02.27,Default,,0000,0000,0000,,I wonder if it’s going to be\Nthat easy.
+Dialogue: 0,0:23:02.31,0:23:03.44,Default,,0000,0000,0000,,It seems like\Nthere will be some trouble.
+Dialogue: 0,0:23:03.48,0:23:05.39,Default,,0000,0000,0000,,Hey, why are you saying that?!
+Dialogue: 0,0:23:05.39,0:23:09.06,Default,,0000,0000,0000,,No, not Karashi, but this weather.
+Dialogue: 0,0:23:09.56,0:23:11.94,Default,,0000,0000,0000,,Next episode:\N“The Dark Creeping Clouds”
+Dialogue: 0,0:23:12.06,0:23:14.69,Default,,0000,0000,0000,,I see. There’s going to be a storm.

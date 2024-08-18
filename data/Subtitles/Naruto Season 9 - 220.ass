@@ -1,0 +1,307 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.42,0:00:12.02,Default,,0000,0000,0000,,So this is the Shukaku?
+Dialogue: 0,0:00:12.56,0:00:14.69,Default,,0000,0000,0000,,It’s the first time I’ve seen\Nthe real thing…
+Dialogue: 0,0:00:17.40,0:00:19.30,Default,,0000,0000,0000,,It’s dangerous here!\NWe have to get away!
+Dialogue: 0,0:00:19.56,0:00:21.57,Default,,0000,0000,0000,,But! Gaara Sensei…
+Dialogue: 0,0:00:22.57,0:00:23.80,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:00:24.30,0:00:27.94,Default,,0000,0000,0000,,Gaara is trying…to protect you!
+Dialogue: 0,0:00:28.44,0:00:29.21,Default,,0000,0000,0000,,So hurry!
+Dialogue: 0,0:00:29.44,0:00:30.54,Default,,0000,0000,0000,,R-Right.
+Dialogue: 0,0:00:33.54,0:00:35.61,Default,,0000,0000,0000,,Hey! Could that be…?!
+Dialogue: 0,0:00:35.81,0:00:36.81,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:00:37.32,0:00:38.65,Default,,0000,0000,0000,,The Shukaku transformation\Nis starting.
+Dialogue: 0,0:00:40.55,0:00:41.55,Default,,0000,0000,0000,,Gaara…
+Dialogue: 0,0:00:42.39,0:00:43.39,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:00:44.42,0:00:45.42,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:00:45.69,0:00:47.56,Default,,0000,0000,0000,,Hinata, Sakura.
+Dialogue: 0,0:00:48.56,0:00:50.40,Default,,0000,0000,0000,,Matsuri, you okay?
+Dialogue: 0,0:00:50.46,0:00:53.36,Default,,0000,0000,0000,,Y-Yes. But Gaara Sensei…
+Dialogue: 0,0:00:54.27,0:00:56.33,Default,,0000,0000,0000,,I leave her to you…
+Dialogue: 0,0:01:04.54,0:01:06.88,Default,,0000,0000,0000,,Hold it! You are badly hurt!
+Dialogue: 0,0:01:09.75,0:01:10.85,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:01:10.88,0:01:13.52,Default,,0000,0000,0000,,You’ll just become unable\Nto move right away!
+Dialogue: 0,0:01:13.92,0:01:15.09,Default,,0000,0000,0000,,I’ll give you some first-aid treatment!
+Dialogue: 0,0:01:16.09,0:01:28.80,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:42.25,0:01:48.55,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:01:48.55,0:01:54.56,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:01:54.93,0:02:00.57,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:02:00.57,0:02:06.27,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:02:06.54,0:02:12.84,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:02:12.88,0:02:19.82,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:02:19.88,0:02:32.56,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:02:32.56,0:02:38.84,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:02:38.90,0:02:44.11,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:02:57.56,0:03:00.56,Default,,0000,0000,0000,,Departure
+Dialogue: 0,0:03:01.03,0:03:03.56,Default,,0000,0000,0000,,This is bad… It’s a matter of time.
+Dialogue: 0,0:03:04.20,0:03:05.20,Default,,0000,0000,0000,,I knew it.
+Dialogue: 0,0:03:05.56,0:03:09.23,Default,,0000,0000,0000,,Sakura! Hurry!\Nlt looks like we don’t have much time!
+Dialogue: 0,0:03:09.57,0:03:12.34,Default,,0000,0000,0000,,Got it! First, put your hands out.
+Dialogue: 0,0:03:12.54,0:03:13.57,Default,,0000,0000,0000,,R-Right…
+Dialogue: 0,0:03:24.55,0:03:25.65,Default,,0000,0000,0000,,What’s the meaning of this?
+Dialogue: 0,0:03:26.32,0:03:27.55,Default,,0000,0000,0000,,What is it, Neji?
+Dialogue: 0,0:03:28.55,0:03:32.32,Default,,0000,0000,0000,,That guy wearing the armor is\Nreleasing Chakra stronger than Gaara…
+Dialogue: 0,0:03:32.36,0:03:34.36,Default,,0000,0000,0000,,who’s half transformed into a beast.
+Dialogue: 0,0:03:35.56,0:03:39.60,Default,,0000,0000,0000,,That person called himself Seimei,\Nthe creator of the Village of Artisans.
+Dialogue: 0,0:03:40.40,0:03:42.90,Default,,0000,0000,0000,,He said something about being reborn\Nas the ultimate Ninja tool.
+Dialogue: 0,0:03:43.43,0:03:46.90,Default,,0000,0000,0000,,That jerk!\NHe’s taken away Gaara’s Chakra!
+Dialogue: 0,0:03:47.41,0:03:51.18,Default,,0000,0000,0000,,Come to think of it, the enemy\Nwe fought wore similar armor…
+Dialogue: 0,0:03:51.54,0:03:53.51,Default,,0000,0000,0000,,and took away a great deal\Nof my Chakra.
+Dialogue: 0,0:03:54.01,0:03:55.85,Default,,0000,0000,0000,,Armor that sucks up Chakra…
+Dialogue: 0,0:03:56.55,0:03:58.32,Default,,0000,0000,0000,,And that alarming form…
+Dialogue: 0,0:03:58.55,0:04:00.08,Default,,0000,0000,0000,,It doesn’t look like\Nwe can just carelessly get close.
+Dialogue: 0,0:04:00.55,0:04:03.19,Default,,0000,0000,0000,,Now… What do we do?
+Dialogue: 0,0:04:04.09,0:04:08.06,Default,,0000,0000,0000,,I didn’t figure on fighting\Nagainst the Shukaku…
+Dialogue: 0,0:04:08.56,0:04:11.13,Default,,0000,0000,0000,,However, this is fun, too.
+Dialogue: 0,0:04:11.56,0:04:14.60,Default,,0000,0000,0000,,As great as the Shukaku may be,\Nthis way, I can prove that
+Dialogue: 0,0:04:14.63,0:04:18.00,Default,,0000,0000,0000,,it’s no match for the ultimate Ninja tool\Nof the Village of Artisans.
+Dialogue: 0,0:04:29.25,0:04:33.18,Default,,0000,0000,0000,,Why is this guy so strong?
+Dialogue: 0,0:04:35.25,0:04:38.19,Default,,0000,0000,0000,,I won’t allow my important people…
+Dialogue: 0,0:04:38.42,0:04:40.19,Default,,0000,0000,0000,,to get hurt!
+Dialogue: 0,0:04:41.56,0:04:45.96,Default,,0000,0000,0000,,If not, I will stop you,
+Dialogue: 0,0:04:46.00,0:04:47.97,Default,,0000,0000,0000,,even if that means that\NI have to kill you!
+Dialogue: 0,0:04:48.63,0:04:49.67,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:04:50.64,0:04:53.70,Default,,0000,0000,0000,,How is it that you can fight\Nso much for other people…?
+Dialogue: 0,0:04:54.71,0:04:58.58,Default,,0000,0000,0000,,They saved me from\Nthe hell of being all alone.
+Dialogue: 0,0:04:59.54,0:05:01.61,Default,,0000,0000,0000,,They accepted me for\Nwho I was…
+Dialogue: 0,0:05:03.31,0:05:06.48,Default,,0000,0000,0000,,that’s why…\Nthey are important to me!
+Dialogue: 0,0:05:08.92,0:05:13.56,Default,,0000,0000,0000,,Love is a heart that desires to serve\Na precious person who is close to oneself,
+Dialogue: 0,0:05:13.56,0:05:16.26,Default,,0000,0000,0000,,and to love and watch over that person…
+Dialogue: 0,0:05:17.86,0:05:19.50,Default,,0000,0000,0000,,Love…
+Dialogue: 0,0:05:21.10,0:05:23.83,Default,,0000,0000,0000,,That is why he is so strong?
+Dialogue: 0,0:05:49.53,0:05:50.49,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:05:50.56,0:05:53.36,Default,,0000,0000,0000,,What’s that?\NGaara Sensei is returning to normal?
+Dialogue: 0,0:05:53.73,0:05:55.57,Default,,0000,0000,0000,,What happened to him?!
+Dialogue: 0,0:05:56.13,0:06:00.47,Default,,0000,0000,0000,,Gaara might be suppressing\NShukaku of his own volition.
+Dialogue: 0,0:06:00.54,0:06:04.64,Default,,0000,0000,0000,,Why? Wouldn’t he end up weakening\Nhis own battle strength?
+Dialogue: 0,0:06:05.21,0:06:10.21,Default,,0000,0000,0000,,Even so, he chose to fight\Nwith his own strength and will,
+Dialogue: 0,0:06:10.25,0:06:13.05,Default,,0000,0000,0000,,not Shukaku's power,\Nwhich he can’t control.
+Dialogue: 0,0:06:35.31,0:06:38.98,Default,,0000,0000,0000,,So you couldn’t maintain\Nthe Shukaku body with that Chakra?
+Dialogue: 0,0:06:39.38,0:06:44.18,Default,,0000,0000,0000,,I’ll…help the friends important\Nto me with my own power…
+Dialogue: 0,0:06:44.85,0:06:46.02,Default,,0000,0000,0000,,How absurd.
+Dialogue: 0,0:06:46.55,0:06:48.55,Default,,0000,0000,0000,,A Shinobi doesn’t need emotion.
+Dialogue: 0,0:06:48.89,0:06:53.36,Default,,0000,0000,0000,,It is those who suppress their emotions\Nwho can obtain great power.
+Dialogue: 0,0:06:53.59,0:06:58.26,Default,,0000,0000,0000,,Great power.\NThat power is the only justice.
+Dialogue: 0,0:06:58.56,0:07:00.56,Default,,0000,0000,0000,,You’re finished now.
+Dialogue: 0,0:07:05.77,0:07:06.84,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:07:16.21,0:07:19.55,Default,,0000,0000,0000,,That’s as far as you go,\Nmonster of the Sand Village.
+Dialogue: 0,0:07:25.56,0:07:26.72,Default,,0000,0000,0000,,Acting tough, huh…?
+Dialogue: 0,0:07:27.39,0:07:32.40,Default,,0000,0000,0000,,You shouldn’t have\Nany Chakra left to fight with.
+Dialogue: 0,0:07:32.73,0:07:35.43,Default,,0000,0000,0000,,Indeed,  I only have a little bit\Nof Chakra left…
+Dialogue: 0,0:07:35.93,0:07:41.34,Default,,0000,0000,0000,,But do you think I just sat around\Nin the cage doing nothing at all?
+Dialogue: 0,0:07:41.51,0:07:42.51,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:44.51,0:07:45.94,Default,,0000,0000,0000,,Sand Tsunami!
+Dialogue: 0,0:07:51.52,0:07:55.55,Default,,0000,0000,0000,,You shouldn’t have\Nany sand you can control!
+Dialogue: 0,0:07:55.72,0:07:57.56,Default,,0000,0000,0000,,I’m Gaara of the desert!
+Dialogue: 0,0:07:57.89,0:08:01.56,Default,,0000,0000,0000,,It’s simple for me to crush rocks\Nand turn them into sand.
+Dialogue: 0,0:08:50.37,0:08:52.18,Default,,0000,0000,0000,,Kujaku: Hurricane Formation!
+Dialogue: 0,0:08:56.68,0:08:59.55,Default,,0000,0000,0000,,So you still had\Nthat much power left, huh?
+Dialogue: 0,0:08:59.85,0:09:03.55,Default,,0000,0000,0000,,Then I’ll just suck up all of that power!
+Dialogue: 0,0:09:11.50,0:09:13.20,Default,,0000,0000,0000,,Gaara’s Chakra is being sucked out!
+Dialogue: 0,0:09:13.56,0:09:15.30,Default,,0000,0000,0000,,– Wha--?! 					– Gaara Sensei!
+Dialogue: 0,0:09:15.57,0:09:17.13,Default,,0000,0000,0000,,– Damn it! 					– Wait! Naruto!
+Dialogue: 0,0:09:17.54,0:09:19.54,Default,,0000,0000,0000,,What, Shikamaru? Don’t stop me!
+Dialogue: 0,0:09:19.80,0:09:21.57,Default,,0000,0000,0000,,You’ll just get in the way if you go!
+Dialogue: 0,0:09:22.11,0:09:24.11,Default,,0000,0000,0000,,Besides, our Gaara is strong!
+Dialogue: 0,0:09:27.01,0:09:28.01,Default,,0000,0000,0000,,Gaara…
+Dialogue: 0,0:09:37.02,0:09:38.89,Default,,0000,0000,0000,,Extreme Tempered Ultimate Attack:
+Dialogue: 0,0:09:39.72,0:09:40.96,Default,,0000,0000,0000,,Shukaku's Pike!
+Dialogue: 0,0:09:56.17,0:10:00.18,Default,,0000,0000,0000,,Wh-Why…? Why could you…?
+Dialogue: 0,0:10:00.54,0:10:04.48,Default,,0000,0000,0000,,Someone who gave up on being human\Nand was reborn as a Ninja tool
+Dialogue: 0,0:10:04.52,0:10:05.55,Default,,0000,0000,0000,,could never understand anyway.
+Dialogue: 0,0:10:08.55,0:10:10.55,Default,,0000,0000,0000,,I don’t understand. Why?
+Dialogue: 0,0:10:11.19,0:10:13.59,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:10:18.90,0:10:20.46,Default,,0000,0000,0000,,Giant Sand Burial!
+Dialogue: 0,0:10:32.58,0:10:33.94,Default,,0000,0000,0000,,He did it!
+Dialogue: 0,0:10:33.98,0:10:35.81,Default,,0000,0000,0000,,Gaara Sensei won!
+Dialogue: 0,0:10:35.85,0:10:37.51,Default,,0000,0000,0000,,Yeah! Gaara!
+Dialogue: 0,0:10:44.56,0:10:45.92,Default,,0000,0000,0000,,– Gaara! 					– Gaara!
+Dialogue: 0,0:10:50.86,0:10:51.93,Default,,0000,0000,0000,,He’s okay…
+Dialogue: 0,0:10:52.43,0:10:54.00,Default,,0000,0000,0000,,He’s just extremely fatigued
+Dialogue: 0,0:10:54.06,0:10:55.60,Default,,0000,0000,0000,,on account of using\Nhis Chakra all at once.
+Dialogue: 0,0:10:56.57,0:11:00.14,Default,,0000,0000,0000,,Gaara completely suppressed\Nthe Shukaku on his own volition.
+Dialogue: 0,0:11:00.64,0:11:01.64,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:11:05.68,0:11:07.18,Default,,0000,0000,0000,,I want to work hard
+Dialogue: 0,0:11:07.21,0:11:09.55,Default,,0000,0000,0000,,and become an existence acknowledged\Nby other people…
+Dialogue: 0,0:11:10.35,0:11:12.55,Default,,0000,0000,0000,,I thought that looking\Nat Naruto Uzumaki.
+Dialogue: 0,0:11:13.55,0:11:14.89,Default,,0000,0000,0000,,Ties with other people…
+Dialogue: 0,0:11:15.55,0:11:19.59,Default,,0000,0000,0000,,For me, until now, that was just hate\Nand murderous intent.
+Dialogue: 0,0:11:20.56,0:11:25.56,Default,,0000,0000,0000,,However, there’s something\NI’ve understood just a little…
+Dialogue: 0,0:11:26.56,0:11:29.80,Default,,0000,0000,0000,,about the ties he goes so far for\Nand talks about.
+Dialogue: 0,0:11:32.54,0:11:39.58,Default,,0000,0000,0000,,Suffering, sorrow and happiness\Ncan be shared with someone.
+Dialogue: 0,0:11:43.55,0:11:46.55,Default,,0000,0000,0000,,You’ve also made someone\Nyou can share with at last…
+Dialogue: 0,0:11:47.85,0:11:48.92,Default,,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:11:49.05,0:11:50.35,Default,,0000,0000,0000,,No, nothing…
+Dialogue: 0,0:11:55.23,0:11:56.73,Default,,0000,0000,0000,,We came to the trouble\Nof rushing here.
+Dialogue: 0,0:11:57.49,0:11:59.26,Default,,0000,0000,0000,,To think it’d be over…
+Dialogue: 0,0:12:00.56,0:12:02.63,Default,,0000,0000,0000,,It seems\Nthe inexperienced knuckleheads
+Dialogue: 0,0:12:02.67,0:12:06.17,Default,,0000,0000,0000,,have grown a teeny weeny bit…
+Dialogue: 0,0:12:07.17,0:12:08.47,Default,,0000,0000,0000,,You are very strict.
+Dialogue: 0,0:12:37.90,0:12:39.14,Default,,0000,0000,0000,,Pervy Sage!
+Dialogue: 0,0:12:39.54,0:12:42.27,Default,,0000,0000,0000,,Oh, long time no see, Naruto.
+Dialogue: 0,0:12:42.34,0:12:45.28,Default,,0000,0000,0000,,Don’t give me that “long time no see”\Ngarbage, you jerk Sage!
+Dialogue: 0,0:12:45.58,0:12:47.44,Default,,0000,0000,0000,,You were talking all big about\Nwatching my training,
+Dialogue: 0,0:12:47.48,0:12:49.68,Default,,0000,0000,0000,,making me into your protégé\Nand stuff!
+Dialogue: 0,0:12:49.88,0:12:52.25,Default,,0000,0000,0000,,Where were you traipsing\Naround until now?!
+Dialogue: 0,0:12:52.68,0:12:56.82,Default,,0000,0000,0000,,Well, how can I put this?\NI was gathering information.
+Dialogue: 0,0:12:56.85,0:13:00.52,Default,,0000,0000,0000,,It was probably just information\Non naked ladies anyway, right?
+Dialogue: 0,0:13:00.56,0:13:01.86,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:13:02.56,0:13:04.70,Default,,0000,0000,0000,,Even I come through when it counts…
+Dialogue: 0,0:13:05.20,0:13:08.57,Default,,0000,0000,0000,,I was mainly after information\Non the Akatsuki.
+Dialogue: 0,0:13:09.13,0:13:10.13,Default,,0000,0000,0000,,Akatsuki!
+Dialogue: 0,0:13:10.50,0:13:13.14,Default,,0000,0000,0000,,With this I’ve been able\Nto verify their actions.
+Dialogue: 0,0:13:13.54,0:13:15.84,Default,,0000,0000,0000,,And now as promised,
+Dialogue: 0,0:13:15.91,0:13:19.54,Default,,0000,0000,0000,,two years later when\Nthey’ll move into high gear,
+Dialogue: 0,0:13:19.54,0:13:22.21,Default,,0000,0000,0000,,I will thoroughly train you.
+Dialogue: 0,0:13:29.42,0:13:31.56,Default,,0000,0000,0000,,I wonder if you’re prepared?
+Dialogue: 0,0:13:33.36,0:13:34.96,Default,,0000,0000,0000,,I’ve been tired of waiting!
+Dialogue: 0,0:13:46.54,0:13:47.67,Default,,0000,0000,0000,,I owe you one.
+Dialogue: 0,0:13:48.17,0:13:51.81,Default,,0000,0000,0000,,No. I just repaid the debt\Nfrom last time.
+Dialogue: 0,0:13:52.54,0:13:54.85,Default,,0000,0000,0000,,Next time, I’ll settle things\Nmore properly.
+Dialogue: 0,0:13:55.38,0:13:58.68,Default,,0000,0000,0000,,Well, this time I’ll acknowledge\Nthat you didn’t cry.
+Dialogue: 0,0:13:59.05,0:14:00.42,Default,,0000,0000,0000,,Not again.
+Dialogue: 0,0:14:01.02,0:14:02.52,Default,,0000,0000,0000,,Just like a woman…
+Dialogue: 0,0:14:02.92,0:14:03.92,Default,,0000,0000,0000,,What about him?
+Dialogue: 0,0:14:04.09,0:14:05.09,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:05.19,0:14:06.72,Default,,0000,0000,0000,,Naruto?
+Dialogue: 0,0:14:07.56,0:14:10.46,Default,,0000,0000,0000,,I hear he’s leaving today on\Na training journey with Jiraiya.
+Dialogue: 0,0:14:10.63,0:14:13.06,Default,,0000,0000,0000,,Jiraiya? One of the Genius Sannin?
+Dialogue: 0,0:14:13.40,0:14:15.73,Default,,0000,0000,0000,,Yeah. 					lt’s such a pain.
+Dialogue: 0,0:14:16.10,0:14:19.40,Default,,0000,0000,0000,,He’s going to come back\Nhaving gotten stronger again.
+Dialogue: 0,0:14:20.77,0:14:21.77,Default,,0000,0000,0000,,See you around.
+Dialogue: 0,0:14:22.14,0:14:23.77,Default,,0000,0000,0000,,– Farewell… 					– See ya.
+Dialogue: 0,0:14:29.38,0:14:31.32,Default,,0000,0000,0000,,Please tell Naruto…
+Dialogue: 0,0:14:32.55,0:14:34.05,Default,,0000,0000,0000,,Thanks to him,
+Dialogue: 0,0:14:34.08,0:14:36.82,Default,,0000,0000,0000,,I figured out what the words\NGaara Sensei spoke of meant.
+Dialogue: 0,0:14:38.26,0:14:41.76,Default,,0000,0000,0000,,I’ll dedicate myself under\NGaara Sensei from now on…
+Dialogue: 0,0:14:50.27,0:14:51.60,Default,,0000,0000,0000,,What did he do?
+Dialogue: 0,0:15:04.48,0:15:06.25,Default,,0000,0000,0000,,Well, I guess that’s about it.
+Dialogue: 0,0:15:28.34,0:15:32.48,Default,,0000,0000,0000,,I read the Village of Artisans report\Nfrom the other day.
+Dialogue: 0,0:15:35.85,0:15:37.61,Default,,0000,0000,0000,,Although it didn’t go as far as\Na perfect 100,
+Dialogue: 0,0:15:37.65,0:15:38.65,Default,,0000,0000,0000,,I’ll give you a passing grade.
+Dialogue: 0,0:15:39.15,0:15:40.85,Default,,0000,0000,0000,,No! I’m still very much lacking\Nin experience.
+Dialogue: 0,0:15:40.88,0:15:41.89,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:15:42.32,0:15:45.19,Default,,0000,0000,0000,,I’ll have you carry out\Nseveral missions
+Dialogue: 0,0:15:45.22,0:15:47.46,Default,,0000,0000,0000,,and get you to build up\Nlots of experience,
+Dialogue: 0,0:15:47.52,0:15:48.53,Default,,0000,0000,0000,,so make sure to dedicate yourself!
+Dialogue: 0,0:15:48.56,0:15:52.56,Default,,0000,0000,0000,,What?! Does that mean\NI’m totally going to get overworked?
+Dialogue: 0,0:16:25.96,0:16:28.10,Default,,0000,0000,0000,,Umm, Sakura. Got a minute?
+Dialogue: 0,0:16:29.17,0:16:30.17,Default,,0000,0000,0000,,Ino?
+Dialogue: 0,0:16:30.63,0:16:32.64,Default,,0000,0000,0000,,Sure. What’s up?
+Dialogue: 0,0:16:33.74,0:16:37.54,Default,,0000,0000,0000,,As, as it happens,\NI was thinking about it the while…
+Dialogue: 0,0:16:38.94,0:16:41.14,Default,,0000,0000,0000,,But it became totally clear to me\Non this mission!
+Dialogue: 0,0:16:41.88,0:16:44.31,Default,,0000,0000,0000,,Clear that I’d be no good at all\Nat this rate!
+Dialogue: 0,0:16:45.85,0:16:46.85,Default,,0000,0000,0000,,Ino.
+Dialogue: 0,0:16:47.55,0:16:50.15,Default,,0000,0000,0000,,It’s frustrating,\Nbut I was envious of you.
+Dialogue: 0,0:16:50.92,0:16:52.56,Default,,0000,0000,0000,,You, who everyone depended on.
+Dialogue: 0,0:16:53.39,0:16:56.56,Default,,0000,0000,0000,,So, please.\NI also want to become a Medical Ninja.
+Dialogue: 0,0:16:57.86,0:16:59.23,Default,,0000,0000,0000,,I know it’ll be hard.
+Dialogue: 0,0:16:59.56,0:17:03.57,Default,,0000,0000,0000,,But I’ve got guts and I’ll manage\Nthe studying, no matter what.
+Dialogue: 0,0:17:04.07,0:17:06.54,Default,,0000,0000,0000,,So could you ask Lady Tsunade for me?
+Dialogue: 0,0:17:07.54,0:17:09.54,Default,,0000,0000,0000,,– Sure. 					– Really?!
+Dialogue: 0,0:17:09.54,0:17:11.27,Default,,0000,0000,0000,,But prepare yourself.
+Dialogue: 0,0:17:11.54,0:17:14.85,Default,,0000,0000,0000,,Once that happens,\Nyou’ll be my little sister protégé.
+Dialogue: 0,0:17:15.15,0:17:16.68,Default,,0000,0000,0000,,What’s that…?
+Dialogue: 0,0:17:16.85,0:17:18.18,Default,,0000,0000,0000,,Naturally!
+Dialogue: 0,0:17:18.22,0:17:24.22,Default,,0000,0000,0000,,After all, I’ll be your\NMedical Ninja superior, you know.
+Dialogue: 0,0:17:25.66,0:17:27.92,Default,,0000,0000,0000,,Man, I can’t wait.
+Dialogue: 0,0:17:27.96,0:17:29.83,Default,,0000,0000,0000,,You’ll be my lovable little sister protégé.
+Dialogue: 0,0:17:29.89,0:17:31.86,Default,,0000,0000,0000,,I’ll train you nice and hard.
+Dialogue: 0,0:17:32.50,0:17:35.57,Default,,0000,0000,0000,,Just you watch!\NI’ll pass you up right away!
+Dialogue: 0,0:17:35.97,0:17:38.67,Default,,0000,0000,0000,,Ha! Try it if you can! You Ino pig!
+Dialogue: 0,0:17:38.74,0:17:40.94,Default,,0000,0000,0000,,I’ll do it! Billboard Brow!
+Dialogue: 0,0:17:45.44,0:17:47.64,Default,,0000,0000,0000,,Why?! Why is it?!
+Dialogue: 0,0:17:47.84,0:17:49.01,Default,,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:17:49.05,0:17:53.22,Default,,0000,0000,0000,,Why was I the only one left out\Nof the mission the other day?!
+Dialogue: 0,0:17:53.35,0:17:57.32,Default,,0000,0000,0000,,But you were with\Na different team then, right?
+Dialogue: 0,0:17:57.35,0:17:59.72,Default,,0000,0000,0000,,But everyone had taken part!
+Dialogue: 0,0:18:00.56,0:18:01.93,Default,,0000,0000,0000,,She’s kind of in a rage.
+Dialogue: 0,0:18:02.56,0:18:05.56,Default,,0000,0000,0000,,It’s hard being the only one left out\Nof a mission.
+Dialogue: 0,0:18:06.23,0:18:07.80,Default,,0000,0000,0000,,Come to think of it,
+Dialogue: 0,0:18:07.86,0:18:09.80,Default,,0000,0000,0000,,it seems Naruto finally leaves\Nfor training.
+Dialogue: 0,0:18:10.93,0:18:14.54,Default,,0000,0000,0000,,I heard. It seems that Jiraiya\Nis going to be his mentor.
+Dialogue: 0,0:18:14.64,0:18:18.01,Default,,0000,0000,0000,,Damn it! That guy’s going\Nto get strong again.
+Dialogue: 0,0:18:19.88,0:18:22.95,Default,,0000,0000,0000,,It looks like the village will\Nget quiet for a while.
+Dialogue: 0,0:18:23.25,0:18:26.98,Default,,0000,0000,0000,,Viewed in that light,\Nit’s a little bit sad, isn’t it?
+Dialogue: 0,0:18:27.65,0:18:30.35,Default,,0000,0000,0000,,No! This isn’t the time\Nto be getting sad!
+Dialogue: 0,0:18:31.46,0:18:32.56,Default,,0000,0000,0000,,I must work hard!
+Dialogue: 0,0:18:32.86,0:18:34.56,Default,,0000,0000,0000,,Several times more,\Nseveral times more.
+Dialogue: 0,0:18:35.39,0:18:37.96,Default,,0000,0000,0000,,If I don’t work hard hundreds\Nof times more than Naruto,
+Dialogue: 0,0:18:37.99,0:18:41.06,Default,,0000,0000,0000,,I won’t be able to face him\Nthe next time we meet.
+Dialogue: 0,0:18:41.57,0:18:42.90,Default,,0000,0000,0000,,Your guard is off!
+Dialogue: 0,0:18:48.41,0:18:52.34,Default,,0000,0000,0000,,We also must grow by that time.
+Dialogue: 0,0:18:52.94,0:18:56.45,Default,,0000,0000,0000,,It’s because trying to improve\Nby learning from others,
+Dialogue: 0,0:18:56.48,0:18:58.68,Default,,0000,0000,0000,,that is what’s called friendship.
+Dialogue: 0,0:18:59.05,0:19:02.52,Default,,0000,0000,0000,,Good grief,\Nwe’d better not lose, Akamaru.
+Dialogue: 0,0:19:03.55,0:19:04.59,Default,,0000,0000,0000,,Same here!
+Dialogue: 0,0:19:05.09,0:19:06.92,Default,,0000,0000,0000,,Hey, you okay, Lee?!
+Dialogue: 0,0:19:06.96,0:19:09.19,Default,,0000,0000,0000,,I’m fine, I’m fine.
+Dialogue: 0,0:19:22.41,0:19:24.64,Default,,0000,0000,0000,,Lady Hinata, let’s call it a day.
+Dialogue: 0,0:19:24.77,0:19:26.14,Default,,0000,0000,0000,,What? I’m still…
+Dialogue: 0,0:19:27.54,0:19:30.01,Default,,0000,0000,0000,,It’s about time for his departure.
+Dialogue: 0,0:19:30.51,0:19:31.52,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:19:31.55,0:19:33.25,Default,,0000,0000,0000,,You won’t be able to\Nsee him for a while.
+Dialogue: 0,0:19:36.22,0:19:39.89,Default,,0000,0000,0000,,I see… It looks like you’ll be\Non a long journey…
+Dialogue: 0,0:19:40.02,0:19:41.02,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:45.13,0:19:48.17,Default,,0000,0000,0000,,Listen up.\NBe sure to train and don’t goof off.
+Dialogue: 0,0:19:48.60,0:19:50.57,Default,,0000,0000,0000,,Right! You can count on me!
+Dialogue: 0,0:19:55.01,0:19:56.97,Default,,0000,0000,0000,,It’s about time to go, Naruto.
+Dialogue: 0,0:19:57.47,0:19:58.48,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:20:03.85,0:20:06.35,Default,,0000,0000,0000,,Okay! I’m off, Iruka Sensei!
+Dialogue: 0,0:20:06.55,0:20:08.69,Default,,0000,0000,0000,,I’ll pay you back for the ramen\Nonce I’ve become a success.
+Dialogue: 0,0:20:09.55,0:20:10.82,Default,,0000,0000,0000,,Jeez…
+Dialogue: 0,0:20:19.76,0:20:21.57,Default,,0000,0000,0000,,Good luck, Naruto.
+Dialogue: 0,0:20:35.45,0:20:36.45,Default,,0000,0000,0000,,Keep your eyes on me.
+Dialogue: 0,0:20:43.52,0:20:46.19,Default,,0000,0000,0000,,What’re you doing?!\NI’ll leave you behind, Naruto.
+Dialogue: 0,0:20:46.56,0:20:49.63,Default,,0000,0000,0000,,Hey. H-Hey, wait up!
+Dialogue: 0,0:20:56.40,0:20:59.97,Default,,0000,0000,0000,,I also have to work hard in order\Nto catch up with Naruto.
+Dialogue: 0,0:21:18.89,0:21:23.36,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.39,0:21:29.57,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.07,0:21:39.51,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.54,0:21:44.01,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.05,0:21:48.92,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:48.99,0:21:53.76,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:53.82,0:21:58.73,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:58.76,0:22:03.10,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.13,0:22:07.54,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.54,0:22:14.94,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:14.98,0:22:18.82,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:18.85,0:22:24.15,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.19,0:22:28.33,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.36,0:22:33.13,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.40,0:22:37.77,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:37.80,0:22:43.94,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:48.75,0:22:50.18,Default,,0000,0000,0000,,It’s been two years since his departure.
+Dialogue: 0,0:22:50.55,0:22:52.55,Default,,0000,0000,0000,,Now the count down to\Nthe battle begins.
+Dialogue: 0,0:22:53.68,0:22:55.52,Default,,0000,0000,0000,,Those who pursue and those\Nwho are pursued.
+Dialogue: 0,0:22:56.05,0:22:57.82,Default,,0000,0000,0000,,Time will not wait for the boy.
+Dialogue: 0,0:22:58.66,0:23:01.19,Default,,0000,0000,0000,,As Akatsuki Organization begins\Nto take action,
+Dialogue: 0,0:23:01.22,0:23:03.53,Default,,0000,0000,0000,,the day of Orochimaru’s reincarnation\Ndraws near.
+Dialogue: 0,0:23:04.59,0:23:07.43,Default,,0000,0000,0000,,In order to take back what he lost,
+Dialogue: 0,0:23:07.46,0:23:13.54,Default,,0000,0000,0000,,the boy once again throws himself\Ninto the maelstrom of cruel fate…
+Dialogue: 0,0:23:14.50,0:23:18.27,Default,,0000,0000,0000,,Next time: “Homecoming”

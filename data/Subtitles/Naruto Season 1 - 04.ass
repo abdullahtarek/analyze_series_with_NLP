@@ -1,0 +1,365 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.02,0:00:10.82,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.50,0:00:20.03,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:21.03,0:00:23.27,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.84,0:00:27.71,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.77,0:00:31.38,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.94,0:00:36.11,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.68,0:00:39.82,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.35,0:00:45.72,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.23,0:00:50.13,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:50.19,0:00:51.90,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.96,0:00:54.40,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.83,0:00:57.77,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.80,0:00:59.74,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.77,0:01:02.21,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:04.04,0:01:10.78,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.68,0:01:14.29,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.79,0:01:17.82,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.66,0:01:23.90,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.53,0:01:28.00,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:43.82,0:01:45.78,Default,,0000,0000,0000,,He's late.
+Dialogue: 0,0:01:54.83,0:01:55.73,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:01:55.79,0:01:56.83,Default,,0000,0000,0000,,Stay still.
+Dialogue: 0,0:01:57.06,0:02:02.33,Default,,0000,0000,0000,,Why's it that only\Nour squad's teacher is late?
+Dialogue: 0,0:02:02.70,0:02:06.24,Default,,0000,0000,0000,,The other squads have gone off\Nsomewhere with their new teachers,
+Dialogue: 0,0:02:06.50,0:02:08.81,Default,,0000,0000,0000,,and Iruka Sensei's also left.
+Dialogue: 0,0:02:08.81,0:02:09.97,Default,,0000,0000,0000,,Don't look at me.
+Dialogue: 0,0:02:11.81,0:02:13.81,Default,,0000,0000,0000,,Hey, what're you doing, Naruto?!
+Dialogue: 0,0:02:18.25,0:02:18.92,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:19.98,0:02:22.95,Default,,0000,0000,0000,,It'll be his fault because he's late.
+Dialogue: 0,0:02:27.66,0:02:30.16,Default,,0000,0000,0000,,Man! You're asking for it!
+Dialogue: 0,0:02:30.83,0:02:33.16,Default,,0000,0000,0000,,I like stuff like this!
+Dialogue: 0,0:02:34.63,0:02:38.34,Default,,0000,0000,0000,,A Jonin wouldn't get caught\Nin such a weak booby trap.
+Dialogue: 0,0:02:38.60,0:02:41.87,Default,,0000,0000,0000,,That's right. You're such an idiot...!
+Dialogue: 0,0:02:49.81,0:02:51.42,Default,,0000,0000,0000,,I got him, I got him...
+Dialogue: 0,0:02:53.35,0:02:55.35,Default,,0000,0000,0000,,I-I'm sorry, sir.
+Dialogue: 0,0:02:55.65,0:02:58.79,Default,,0000,0000,0000,,I tried to stop him,\Nbut Naruto did it on his own...
+Dialogue: 0,0:02:59.19,0:03:00.22,Default,,0000,0000,0000,,It's all good.
+Dialogue: 0,0:03:01.83,0:03:04.76,Default,,0000,0000,0000,,Get real.\Nls he really a Jonin?
+Dialogue: 0,0:03:10.84,0:03:12.67,Default,,0000,0000,0000,,How can I put this?
+Dialogue: 0,0:03:12.70,0:03:14.81,Default,,0000,0000,0000,,As for my first impression\Nof you guys...?
+Dialogue: 0,0:03:15.07,0:03:16.71,Default,,0000,0000,0000,,Well, I hate you.
+Dialogue: 0,0:03:22.01,0:03:25.45,Default,,0000,0000,0000,,Pass or Fail: Survival Test
+Dialogue: 0,0:03:28.09,0:03:28.92,Default,,0000,0000,0000,,Let's see.
+Dialogue: 0,0:03:29.42,0:03:31.82,Default,,0000,0000,0000,,First off, let me have\Nyou guys introduce yourselves.
+Dialogue: 0,0:03:32.22,0:03:33.72,Default,,0000,0000,0000,,Introduce ourselves...
+Dialogue: 0,0:03:34.89,0:03:36.16,Default,,0000,0000,0000,,What should we say?
+Dialogue: 0,0:03:36.83,0:03:44.50,Default,,0000,0000,0000,,Your likes, dislikes, your future dream,\Nhobbies, things like that!
+Dialogue: 0,0:03:44.90,0:03:50.71,Default,,0000,0000,0000,,Hey!  Before that, please tell us\Nabout yourself.
+Dialogue: 0,0:03:51.21,0:03:55.61,Default,,0000,0000,0000,,Me? My name's Kakashi Hatake.
+Dialogue: 0,0:03:57.62,0:04:00.48,Default,,0000,0000,0000,,I don't feel like telling you\Nguys about my likes and dislikes.
+Dialogue: 0,0:04:02.49,0:04:05.19,Default,,0000,0000,0000,,I've never really thought\Nabout my future dream...
+Dialogue: 0,0:04:07.83,0:04:09.83,Default,,0000,0000,0000,,As for my hobbies, I have many.
+Dialogue: 0,0:04:10.39,0:04:13.40,Default,,0000,0000,0000,,In the end,\Nisn't all we know his name?
+Dialogue: 0,0:04:13.76,0:04:14.23,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:14.93,0:04:16.50,Default,,0000,0000,0000,,Next is you guys.
+Dialogue: 0,0:04:17.80,0:04:19.20,Default,,0000,0000,0000,,Let's start with you.
+Dialogue: 0,0:04:19.44,0:04:21.84,Default,,0000,0000,0000,,My name's Naruto Uzumaki!
+Dialogue: 0,0:04:22.37,0:04:23.81,Default,,0000,0000,0000,,I like instant ramen,
+Dialogue: 0,0:04:23.87,0:04:27.01,Default,,0000,0000,0000,,but what I like even more\Nis the ramen from Ichiraku
+Dialogue: 0,0:04:27.08,0:04:28.78,Default,,0000,0000,0000,,that Iruka Sensei treats me to.
+Dialogue: 0,0:04:28.98,0:04:30.15,Default,,0000,0000,0000,,What I dislike is the three minutes
+Dialogue: 0,0:04:30.18,0:04:32.15,Default,,0000,0000,0000,,after pouring hot water\Nin the instant ramen.
+Dialogue: 0,0:04:32.82,0:04:34.82,Default,,0000,0000,0000,,My hobby is eating and\Ncomparing ramen!
+Dialogue: 0,0:04:35.52,0:04:37.49,Default,,0000,0000,0000,,And my future dream...
+Dialogue: 0,0:04:37.79,0:04:39.19,Default,,0000,0000,0000,,is to surpass the Hokage!
+Dialogue: 0,0:04:39.82,0:04:41.73,Default,,0000,0000,0000,,And so I'm going to get\Nthe entire village
+Dialogue: 0,0:04:41.79,0:04:44.83,Default,,0000,0000,0000,,to acknowledge my existence!
+Dialogue: 0,0:04:46.66,0:04:47.63,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:04:48.00,0:04:50.80,Default,,0000,0000,0000,,this kid's grown up in\Nan interesting way.
+Dialogue: 0,0:04:51.80,0:04:53.80,Default,,0000,0000,0000,,Okay, next.
+Dialogue: 0,0:04:54.11,0:04:55.54,Default,,0000,0000,0000,,I'm Sakura Haruno.
+Dialogue: 0,0:04:56.04,0:05:00.04,Default,,0000,0000,0000,,What I like... I mean, who I like is...
+Dialogue: 0,0:05:02.78,0:05:05.15,Default,,0000,0000,0000,,And, my hobby is, 					I mean...
+Dialogue: 0,0:05:06.65,0:05:08.35,Default,,0000,0000,0000,,My future dream is...
+Dialogue: 0,0:05:10.59,0:05:13.79,Default,,0000,0000,0000,,And?\NWhat about your dislikes?
+Dialogue: 0,0:05:14.36,0:05:15.29,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:05:18.33,0:05:20.33,Default,,0000,0000,0000,,Girls at her age are probably\Nmore interested in love
+Dialogue: 0,0:05:20.36,0:05:21.83,Default,,0000,0000,0000,,than the Ninja Arts.
+Dialogue: 0,0:05:22.07,0:05:22.93,Default,,0000,0000,0000,,And lastly.
+Dialogue: 0,0:05:24.27,0:05:26.27,Default,,0000,0000,0000,,My name's... Sasuke Uchiha.
+Dialogue: 0,0:05:26.94,0:05:31.24,Default,,0000,0000,0000,,I have lots of dislikes,\Nbut no likes in particular.
+Dialogue: 0,0:05:32.64,0:05:33.14,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:05:34.25,0:05:34.81,Default,,0000,0000,0000,,And...
+Dialogue: 0,0:05:35.45,0:05:37.82,Default,,0000,0000,0000,,I don't feel like summing up\Nmy ambition as just a dream
+Dialogue: 0,0:05:37.82,0:05:39.02,Default,,0000,0000,0000,,but I do have an ambition!
+Dialogue: 0,0:05:39.82,0:05:43.82,Default,,0000,0000,0000,,The ambition to restore my clan\Nand without fail...
+Dialogue: 0,0:05:44.66,0:05:46.29,Default,,0000,0000,0000,,to kill a certain man!
+Dialogue: 0,0:05:54.70,0:05:55.67,Default,,0000,0000,0000,,He doesn't...
+Dialogue: 0,0:05:55.70,0:05:57.54,Default,,0000,0000,0000,,mean me, does he?
+Dialogue: 0,0:05:57.80,0:06:00.17,Default,,0000,0000,0000,,Sure enough, Sasuke's cool.
+Dialogue: 0,0:06:01.17,0:06:02.17,Default,,0000,0000,0000,,I knew it...
+Dialogue: 0,0:06:03.61,0:06:04.28,Default,,0000,0000,0000,,Good!
+Dialogue: 0,0:06:04.71,0:06:06.81,Default,,0000,0000,0000,,The three of you are very distinctive\Nand interesting!
+Dialogue: 0,0:06:08.41,0:06:10.08,Default,,0000,0000,0000,,We'll have a mission tomorrow!
+Dialogue: 0,0:06:10.45,0:06:12.82,Default,,0000,0000,0000,,Yes, sir! What kind of mission?
+Dialogue: 0,0:06:13.62,0:06:16.82,Default,,0000,0000,0000,,First, we'll do what we can do\Nwith just four people.
+Dialogue: 0,0:06:17.42,0:06:19.32,Default,,0000,0000,0000,,What-what-what?!
+Dialogue: 0,0:06:20.99,0:06:22.73,Default,,0000,0000,0000,,A survival exercise.
+Dialogue: 0,0:06:23.39,0:06:24.90,Default,,0000,0000,0000,,Survival exercise?
+Dialogue: 0,0:06:25.66,0:06:26.83,Default,,0000,0000,0000,,Why are we doing an exercise
+Dialogue: 0,0:06:26.83,0:06:28.67,Default,,0000,0000,0000,,even though this is supposed\Nto be a mission?
+Dialogue: 0,0:06:29.37,0:06:32.10,Default,,0000,0000,0000,,We've had more than our share\Nof exercises in the Academy!
+Dialogue: 0,0:06:32.80,0:06:34.27,Default,,0000,0000,0000,,This is no simple exercise.
+Dialogue: 0,0:06:34.91,0:06:38.41,Default,,0000,0000,0000,,Then... then what kind of exercise is it?
+Dialogue: 0,0:06:46.68,0:06:49.75,Default,,0000,0000,0000,,Hey! What's so funny, Sensei?
+Dialogue: 0,0:06:50.79,0:06:54.86,Default,,0000,0000,0000,,Uh, well, if I tell you,\NI know you'll grow disenchanted.
+Dialogue: 0,0:06:55.59,0:06:56.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:57.33,0:06:59.66,Default,,0000,0000,0000,,Of the twenty-seven graduates,
+Dialogue: 0,0:06:59.90,0:07:03.20,Default,,0000,0000,0000,,only nine will be recognized\Nas junior ninjas.
+Dialogue: 0,0:07:03.90,0:07:07.71,Default,,0000,0000,0000,,The remaining eighteen will\Nbe sent back to the Academy.
+Dialogue: 0,0:07:08.07,0:07:11.81,Default,,0000,0000,0000,,In other words, this exercise\Nis an extremely difficult test
+Dialogue: 0,0:07:11.81,0:07:14.48,Default,,0000,0000,0000,,with a failure rate of 66% or higher!
+Dialogue: 0,0:07:16.88,0:07:17.82,Default,,0000,0000,0000,,See, see?
+Dialogue: 0,0:07:17.82,0:07:19.15,Default,,0000,0000,0000,,You got disenchanted!
+Dialogue: 0,0:07:19.82,0:07:21.15,Default,,0000,0000,0000,,That's crazy!
+Dialogue: 0,0:07:21.49,0:07:22.82,Default,,0000,0000,0000,,To have suffered that much!
+Dialogue: 0,0:07:22.82,0:07:26.42,Default,,0000,0000,0000,,T-Then, what was\Nthe graduation test for?
+Dialogue: 0,0:07:27.09,0:07:27.83,Default,,0000,0000,0000,,Oh, that.
+Dialogue: 0,0:07:28.23,0:07:31.36,Default,,0000,0000,0000,,It was just to select those who have\Nthe potential of becoming Genin.
+Dialogue: 0,0:07:31.63,0:07:33.76,Default,,0000,0000,0000,,Whaaaat?!
+Dialogue: 0,0:07:34.03,0:07:35.57,Default,,0000,0000,0000,,Well, that's the way it is.
+Dialogue: 0,0:07:35.83,0:07:39.44,Default,,0000,0000,0000,,I'll be determining whether\Nyou pass or fail.
+Dialogue: 0,0:07:39.90,0:07:41.77,Default,,0000,0000,0000,,Bring your complete set\Nof Ninja tools!
+Dialogue: 0,0:07:41.81,0:07:43.44,Default,,0000,0000,0000,,We meet at five in the morning.
+Dialogue: 0,0:07:46.81,0:07:49.95,Default,,0000,0000,0000,,N-No way am I going to be\Ndropped now!
+Dialogue: 0,0:07:50.21,0:07:53.85,Default,,0000,0000,0000,,I've got to have my strength\Nrecognized for real.
+Dialogue: 0,0:07:54.79,0:07:58.32,Default,,0000,0000,0000,,I'll be separated from Sasuke\Nif I fail this test.
+Dialogue: 0,0:07:58.82,0:08:00.36,Default,,0000,0000,0000,,This is an exercise of love!
+Dialogue: 0,0:08:05.23,0:08:07.03,Default,,0000,0000,0000,,Okay! You're dismissed.
+Dialogue: 0,0:08:08.07,0:08:10.80,Default,,0000,0000,0000,,Oh... And you'd best skip breakfast.
+Dialogue: 0,0:08:11.27,0:08:11.87,Default,,0000,0000,0000,,You'll throw up.
+Dialogue: 0,0:08:24.25,0:08:25.78,Default,,0000,0000,0000,,Morning.
+Dialogue: 0,0:08:54.45,0:08:56.61,Default,,0000,0000,0000,,Hi, folks. Good morning!
+Dialogue: 0,0:08:57.01,0:08:59.32,Default,,0000,0000,0000,,You're late!
+Dialogue: 0,0:08:59.82,0:09:03.82,Default,,0000,0000,0000,,Well, a black cat crossed\Nmy path, you see.
+Dialogue: 0,0:09:06.49,0:09:08.63,Default,,0000,0000,0000,,Ahem! Oh well...
+Dialogue: 0,0:09:10.90,0:09:13.33,Default,,0000,0000,0000,,Okay, it's set for 12:00!
+Dialogue: 0,0:09:17.20,0:09:21.81,Default,,0000,0000,0000,,Today's assignment is to take\Nthese bells away from me by noon.
+Dialogue: 0,0:09:25.34,0:09:27.65,Default,,0000,0000,0000,,Those who can't do it won't get lunch.
+Dialogue: 0,0:09:28.45,0:09:30.38,Default,,0000,0000,0000,,They'll be tied to that...
+Dialogue: 0,0:09:30.41,0:09:32.82,Default,,0000,0000,0000,,and I'll eat my lunch\Nbefore your very eyes.
+Dialogue: 0,0:09:34.32,0:09:35.82,Default,,0000,0000,0000,,So that was the point...
+Dialogue: 0,0:09:36.62,0:09:38.12,Default,,0000,0000,0000,,for us not to eat breakfast...
+Dialogue: 0,0:09:38.49,0:09:39.82,Default,,0000,0000,0000,,But, hold on.
+Dialogue: 0,0:09:40.19,0:09:41.83,Default,,0000,0000,0000,,Why are there only two bells?
+Dialogue: 0,0:09:43.49,0:09:44.96,Default,,0000,0000,0000,,There are only two,\Nso at the very least,
+Dialogue: 0,0:09:45.00,0:09:46.56,Default,,0000,0000,0000,,one will have to\Ngo to the logs.
+Dialogue: 0,0:09:46.83,0:09:49.73,Default,,0000,0000,0000,,That person will be disqualified\Nfor failing the mission...
+Dialogue: 0,0:09:50.03,0:09:51.67,Default,,0000,0000,0000,,and will return to the Academy.
+Dialogue: 0,0:09:52.67,0:09:54.47,Default,,0000,0000,0000,,It might be one person\Nat the very least,
+Dialogue: 0,0:09:54.54,0:09:56.07,Default,,0000,0000,0000,,or it could be all three of you.
+Dialogue: 0,0:09:56.91,0:09:58.81,Default,,0000,0000,0000,,You can use your Shuriken.
+Dialogue: 0,0:09:59.21,0:10:02.15,Default,,0000,0000,0000,,You won't be able to take the bells\Nunless you come with the intent to kill me.
+Dialogue: 0,0:10:03.81,0:10:05.82,Default,,0000,0000,0000,,But, that's dangerous, sir!
+Dialogue: 0,0:10:06.12,0:10:07.65,Default,,0000,0000,0000,,Y-Yeah, that's right!
+Dialogue: 0,0:10:07.79,0:10:09.82,Default,,0000,0000,0000,,You couldn't even evade\Na chalkboard eraser!
+Dialogue: 0,0:10:09.82,0:10:10.99,Default,,0000,0000,0000,,In this world,
+Dialogue: 0,0:10:11.32,0:10:13.82,Default,,0000,0000,0000,,those who aren't skilled enough\Ntend to complain more.
+Dialogue: 0,0:10:14.16,0:10:16.36,Default,,0000,0000,0000,,Well, just ignore the loser...
+Dialogue: 0,0:10:18.00,0:10:19.83,Default,,0000,0000,0000,,Begin when I give\Nthe "ready-go" signal.
+Dialogue: 0,0:10:19.83,0:10:21.83,Default,,0000,0000,0000,,Loser, loser, loser.
+Dialogue: 0,0:10:37.58,0:10:41.62,Default,,0000,0000,0000,,Don't be so hasty.\NI didn't say start, yet.
+Dialogue: 0,0:10:49.36,0:10:50.03,Default,,0000,0000,0000,,No way...!
+Dialogue: 0,0:10:50.56,0:10:51.83,Default,,0000,0000,0000,,I didn't see him at all.
+Dialogue: 0,0:10:52.83,0:10:54.13,Default,,0000,0000,0000,,So this is a Jonin.
+Dialogue: 0,0:10:54.90,0:10:55.83,Default,,0000,0000,0000,,But, that's fine.
+Dialogue: 0,0:10:55.83,0:10:59.20,Default,,0000,0000,0000,,At least you came with\N the intent to kill me.
+Dialogue: 0,0:11:01.44,0:11:02.74,Default,,0000,0000,0000,,How can I put this...?
+Dialogue: 0,0:11:02.81,0:11:03.91,Default,,0000,0000,0000,,I feel like I'm finally starting...
+Dialogue: 0,0:11:03.94,0:11:05.24,Default,,0000,0000,0000,,to like you guys.
+Dialogue: 0,0:11:06.81,0:11:07.78,Default,,0000,0000,0000,,We're going to start.
+Dialogue: 0,0:11:08.81,0:11:11.12,Default,,0000,0000,0000,,Ready... start!
+Dialogue: 0,0:11:16.19,0:11:17.82,Default,,0000,0000,0000,,What do you want to know?
+Dialogue: 0,0:11:19.69,0:11:23.09,Default,,0000,0000,0000,,I didn't think you just\Ncame here to drink tea.
+Dialogue: 0,0:11:23.83,0:11:26.40,Default,,0000,0000,0000,,The Jonin in Naruto and company's\NGroup Seven...
+Dialogue: 0,0:11:27.00,0:11:30.73,Default,,0000,0000,0000,,What kind of teacher is he?\Nls he strict?
+Dialogue: 0,0:11:31.84,0:11:35.17,Default,,0000,0000,0000,,You mean Kakashi?\NDoes he concern you?
+Dialogue: 0,0:11:36.54,0:11:39.48,Default,,0000,0000,0000,,I heard a rumor that concerns me.
+Dialogue: 0,0:11:47.02,0:11:47.82,Default,,0000,0000,0000,,What's this?
+Dialogue: 0,0:11:49.02,0:11:51.49,Default,,0000,0000,0000,,It's a pass-fail list of\Nthe junior ninjas
+Dialogue: 0,0:11:51.52,0:11:53.66,Default,,0000,0000,0000,,Kakashi has been\Nin charge of up until now.
+Dialogue: 0,0:11:55.99,0:11:56.89,Default,,0000,0000,0000,,Let me have a look.
+Dialogue: 0,0:12:03.40,0:12:04.94,Default,,0000,0000,0000,,T-This is...!
+Dialogue: 0,0:12:08.81,0:12:12.28,Default,,0000,0000,0000,,Fundamentally, ninja must mask\Ntheir presence and hide.
+Dialogue: 0,0:12:20.95,0:12:23.69,Default,,0000,0000,0000,,Okay, everyone is hidden pretty well...
+Dialogue: 0,0:12:26.82,0:12:29.96,Default,,0000,0000,0000,,Alright! Let's face off\Nfair and square!
+Dialogue: 0,0:12:30.46,0:12:30.96,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:12:31.83,0:12:32.96,Default,,0000,0000,0000,,That goof.
+Dialogue: 0,0:12:34.36,0:12:37.03,Default,,0000,0000,0000,,Say, aren't you a bit\Noff kilter?
+Dialogue: 0,0:12:37.23,0:12:39.87,Default,,0000,0000,0000,,What's off kilter\Nis your hairstyle!
+Dialogue: 0,0:12:52.68,0:12:55.75,Default,,0000,0000,0000,,I'll teach you the first\NShinobi Battle Jutsu...
+Dialogue: 0,0:12:56.09,0:12:57.82,Default,,0000,0000,0000,,Taijutsu.
+Dialogue: 0,0:13:00.96,0:13:01.86,Default,,0000,0000,0000,,Taijutsu...?
+Dialogue: 0,0:13:01.96,0:13:03.83,Default,,0000,0000,0000,,That's ninja hand-to-hand combat...
+Dialogue: 0,0:13:04.16,0:13:06.36,Default,,0000,0000,0000,,That being said...\Nhe's going to use weapons?
+Dialogue: 0,0:13:08.40,0:13:13.44,Default,,0000,0000,0000,,Make-Out Paradise
+Dialogue: 0,0:13:16.07,0:13:16.91,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:13:17.24,0:13:18.44,Default,,0000,0000,0000,,Why don't you come at me?
+Dialogue: 0,0:13:18.81,0:13:22.28,Default,,0000,0000,0000,,But hey... what's with the book?
+Dialogue: 0,0:13:22.65,0:13:23.81,Default,,0000,0000,0000,,Why do you ask...?
+Dialogue: 0,0:13:24.28,0:13:27.28,Default,,0000,0000,0000,,It's because I was curious\Nabout what happens next.
+Dialogue: 0,0:13:27.82,0:13:28.62,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:13:29.15,0:13:30.79,Default,,0000,0000,0000,,With you guys as opponents,
+Dialogue: 0,0:13:30.82,0:13:32.12,Default,,0000,0000,0000,,it makes no difference\Nif I'm reading or not.
+Dialogue: 0,0:13:34.83,0:13:36.83,Default,,0000,0000,0000,,I'm going to rip you apart!
+Dialogue: 0,0:13:40.20,0:13:42.40,Default,,0000,0000,0000,,Darn! This time a spin kick!
+Dialogue: 0,0:13:43.83,0:13:44.80,Default,,0000,0000,0000,,Man!
+Dialogue: 0,0:13:47.81,0:13:48.61,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:13:49.34,0:13:51.98,Default,,0000,0000,0000,,Ninja shouldn't let the enemy take them\Nfrom behind multiple times, fool.
+Dialogue: 0,0:13:53.54,0:13:55.08,Default,,0000,0000,0000,,The way his hands are positioned...
+Dialogue: 0,0:13:55.81,0:13:56.88,Default,,0000,0000,0000,,Is that the Sign of the Tiger?!
+Dialogue: 0,0:13:57.41,0:13:57.92,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:13:57.98,0:13:59.38,Default,,0000,0000,0000,,With Naruto as his opponent,
+Dialogue: 0,0:13:59.42,0:14:01.32,Default,,0000,0000,0000,,that's too strong a Ninjutsu\Nno matter how you look at it.
+Dialogue: 0,0:14:01.85,0:14:04.52,Default,,0000,0000,0000,,That Sign...\Nlt's a fire-style skill.
+Dialogue: 0,0:14:05.46,0:14:07.99,Default,,0000,0000,0000,,That idiot teacher's doing more\Nthan just running around?
+Dialogue: 0,0:14:08.63,0:14:10.69,Default,,0000,0000,0000,,Naruto, get out of there quick!
+Dialogue: 0,0:14:10.73,0:14:11.86,Default,,0000,0000,0000,,You'll die!
+Dialogue: 0,0:14:13.06,0:14:13.86,Default,,0000,0000,0000,,Too late.
+Dialogue: 0,0:14:15.07,0:14:17.37,Default,,0000,0000,0000,,Leaf Village Secret!\NUltimate Taijutsu!
+Dialogue: 0,0:14:21.91,0:14:23.71,Default,,0000,0000,0000,,One Thousand Years of Death!
+Dialogue: 0,0:14:25.08,0:14:27.95,Default,,0000,0000,0000,,Oh, it's not a Ninjutsu.
+Dialogue: 0,0:14:29.01,0:14:31.45,Default,,0000,0000,0000,,Those two are idiots.
+Dialogue: 0,0:14:36.92,0:14:38.09,Default,,0000,0000,0000,,Alright...
+Dialogue: 0,0:14:45.83,0:14:48.50,Default,,0000,0000,0000,,Even so, isn't that against the rules?
+Dialogue: 0,0:14:48.53,0:14:51.27,Default,,0000,0000,0000,,What're we supposed to do\Nabout his strength?
+Dialogue: 0,0:14:56.44,0:14:57.74,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:14:57.77,0:14:59.08,Default,,0000,0000,0000,,It wasn't supposed to be\Nlike this.
+Dialogue: 0,0:15:11.82,0:15:13.12,Default,,0000,0000,0000,,It... can't be!
+Dialogue: 0,0:15:13.16,0:15:14.99,Default,,0000,0000,0000,,This is more than just a rumor.
+Dialogue: 0,0:15:16.09,0:15:19.83,Default,,0000,0000,0000,,Kakashi's test might\Nbe a bit difficult...
+Dialogue: 0,0:15:20.90,0:15:24.87,Default,,0000,0000,0000,,Even so, this means absolutely\Nno one has passed...!
+Dialogue: 0,0:15:25.60,0:15:26.24,Default,,0000,0000,0000,,That's right...
+Dialogue: 0,0:15:26.44,0:15:29.87,Default,,0000,0000,0000,,Kakashi has never had someone pass.
+Dialogue: 0,0:15:30.24,0:15:31.07,Default,,0000,0000,0000,,They have all...
+Dialogue: 0,0:15:31.58,0:15:32.81,Default,,0000,0000,0000,,been annihilated...
+Dialogue: 0,0:15:38.38,0:15:39.88,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:15:40.38,0:15:43.65,Default,,0000,0000,0000,,You won't get lunch if you can't\Ntake the bell by noon.
+Dialogue: 0,0:15:44.45,0:15:46.72,Default,,0000,0000,0000,,I know that, I say.
+Dialogue: 0,0:15:46.82,0:15:48.96,Default,,0000,0000,0000,,You're not very energetic,
+Dialogue: 0,0:15:48.99,0:15:50.83,Default,,0000,0000,0000,,considering you said that\Nyou'd surpass the Hokage.
+Dialogue: 0,0:15:52.36,0:15:55.90,Default,,0000,0000,0000,,Darn it! Darn it!\NI can fight even if I'm hungry.
+Dialogue: 0,0:15:59.27,0:16:02.77,Default,,0000,0000,0000,,I didn't even have dinner last night.
+Dialogue: 0,0:16:03.81,0:16:06.44,Default,,0000,0000,0000,,I shouldn't have gone on a diet.
+Dialogue: 0,0:16:07.08,0:16:10.28,Default,,0000,0000,0000,,I just got a bit careless earlier!
+Dialogue: 0,0:16:10.81,0:16:13.42,Default,,0000,0000,0000,,Darn! I'm hungry, so my strength...
+Dialogue: 0,0:16:14.02,0:16:17.72,Default,,0000,0000,0000,,But... I've got to take the bell,\Nno matter what.
+Dialogue: 0,0:16:18.36,0:16:19.82,Default,,0000,0000,0000,,No matter what...
+Dialogue: 0,0:16:20.29,0:16:22.73,Default,,0000,0000,0000,,I'm... not...
+Dialogue: 0,0:16:23.29,0:16:25.36,Default,,0000,0000,0000,,turning back now!
+Dialogue: 0,0:16:29.43,0:16:30.80,Default,,0000,0000,0000,,I'm going to become a Ninja!
+Dialogue: 0,0:16:41.14,0:16:42.81,Default,,0000,0000,0000,,Security is your greatest enemy!
+Dialogue: 0,0:16:42.81,0:16:46.48,Default,,0000,0000,0000,,Now for my favorite\NMulti-Shadow Clone Jutsu!
+Dialogue: 0,0:16:47.28,0:16:49.29,Default,,0000,0000,0000,,Seven... Narutos?
+Dialogue: 0,0:16:53.66,0:16:55.83,Default,,0000,0000,0000,,What? They're not just images?
+Dialogue: 0,0:16:56.49,0:16:58.83,Default,,0000,0000,0000,,Are they all real?\NThe real thing?
+Dialogue: 0,0:17:05.70,0:17:08.71,Default,,0000,0000,0000,,Not the clone,\Nbut the shadow clone, eh.
+Dialogue: 0,0:17:10.17,0:17:14.81,Default,,0000,0000,0000,,If you ever lay a hand on Iruka Sensei,\NI'll kill you!
+Dialogue: 0,0:17:14.81,0:17:17.11,Default,,0000,0000,0000,,Show me what you can do, Demon Fox!
+Dialogue: 0,0:17:24.22,0:17:28.66,Default,,0000,0000,0000,,Those aren't just images\Nbut actual clones!
+Dialogue: 0,0:17:28.69,0:17:29.83,Default,,0000,0000,0000,,That's an advanced Ninjutsu!
+Dialogue: 0,0:17:31.50,0:17:34.87,Default,,0000,0000,0000,,It's the forbidden Jutsu\Nthat did in Mizuki.
+Dialogue: 0,0:17:37.23,0:17:39.20,Default,,0000,0000,0000,,Judging from your ability,
+Dialogue: 0,0:17:39.24,0:17:41.77,Default,,0000,0000,0000,,that Jutsu should have\Na one-minute limit.
+Dialogue: 0,0:17:42.61,0:17:44.74,Default,,0000,0000,0000,,Even if you talk trash,
+Dialogue: 0,0:17:44.78,0:17:46.81,Default,,0000,0000,0000,,Naruto is Naruto\Nafter all is said and done...
+Dialogue: 0,0:17:47.44,0:17:50.65,Default,,0000,0000,0000,,You still can't beat me with that skill.
+Dialogue: 0,0:17:53.18,0:17:54.82,Default,,0000,0000,0000,,W-What?! Behind me?!
+Dialogue: 0,0:18:00.96,0:18:04.49,Default,,0000,0000,0000,,Ninja shouldn't let\Nthe enemy take them from behind.
+Dialogue: 0,0:18:04.53,0:18:06.26,Default,,0000,0000,0000,,Right, Kakashi Sensei?
+Dialogue: 0,0:18:06.86,0:18:08.33,Default,,0000,0000,0000,,Using the Shadow Clone,
+Dialogue: 0,0:18:08.37,0:18:09.83,Default,,0000,0000,0000,,I had one of them come up
+Dialogue: 0,0:18:09.83,0:18:12.84,Default,,0000,0000,0000,,from the bottom of the river\Nand sneak behind you!
+Dialogue: 0,0:18:13.74,0:18:16.27,Default,,0000,0000,0000,,Here's one for that attack\Non my butt earlier!
+Dialogue: 0,0:18:16.77,0:18:18.38,Default,,0000,0000,0000,,Naruto, not bad!
+Dialogue: 0,0:18:18.91,0:18:20.81,Default,,0000,0000,0000,,So... a diversionary tactic, eh?
+Dialogue: 0,0:18:23.08,0:18:24.82,Default,,0000,0000,0000,,Now... allow me to punch you!
+Dialogue: 0,0:18:34.36,0:18:35.36,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:42.07,0:18:43.63,Default,,0000,0000,0000,,The one who got punched was...
+Dialogue: 0,0:18:46.17,0:18:46.90,Default,,0000,0000,0000,,Naruto?
+Dialogue: 0,0:18:48.57,0:18:49.81,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:18:50.17,0:18:50.94,Default,,0000,0000,0000,,You...!
+Dialogue: 0,0:18:51.71,0:18:53.98,Default,,0000,0000,0000,,You're Kakashi Sensei, right?!
+Dialogue: 0,0:18:54.04,0:18:56.45,Default,,0000,0000,0000,,You used the Transformation Jutsu\Nto change yourself, didn't you?!
+Dialogue: 0,0:18:56.48,0:18:57.28,Default,,0000,0000,0000,,It's you!
+Dialogue: 0,0:18:57.31,0:18:58.82,Default,,0000,0000,0000,,You're Kakashi Sensei, I say.
+Dialogue: 0,0:18:59.62,0:19:01.45,Default,,0000,0000,0000,,You smell like Kakashi Sensei!
+Dialogue: 0,0:19:01.49,0:19:02.62,Default,,0000,0000,0000,,The smell of an old guy!
+Dialogue: 0,0:19:04.12,0:19:05.29,Default,,0000,0000,0000,,Why you--!
+Dialogue: 0,0:19:05.42,0:19:08.86,Default,,0000,0000,0000,,Hey! For the time being,\Nlet's try undoing the Jutsu.
+Dialogue: 0,0:19:09.39,0:19:11.83,Default,,0000,0000,0000,,If we do that,\Nonly the two will remain... so...
+Dialogue: 0,0:19:12.16,0:19:13.83,Default,,0000,0000,0000,,You should've realized that sooner,\Nyou idiot!
+Dialogue: 0,0:19:14.06,0:19:17.07,Default,,0000,0000,0000,,You're me, you idiot!\NJust undo the Jutsu!
+Dialogue: 0,0:19:25.81,0:19:26.81,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:19:27.41,0:19:28.45,Default,,0000,0000,0000,,You're embarrassing to watch...
+Dialogue: 0,0:19:28.98,0:19:31.78,Default,,0000,0000,0000,,That was the Substitution Jutsu,\Nyou fool.
+Dialogue: 0,0:19:32.32,0:19:35.35,Default,,0000,0000,0000,,Essentially, it's a skill used\Nto quickly switch one's own body
+Dialogue: 0,0:19:35.42,0:19:37.45,Default,,0000,0000,0000,,with an object or animal.
+Dialogue: 0,0:19:37.82,0:19:40.86,Default,,0000,0000,0000,,This makes your enemy think\Nyou're being attacked,
+Dialogue: 0,0:19:41.46,0:19:43.09,Default,,0000,0000,0000,,but then you strike during\Ntheir unguarded moment.
+Dialogue: 0,0:19:43.83,0:19:48.20,Default,,0000,0000,0000,,After letting himself get caught\Nby the real Naruto,
+Dialogue: 0,0:19:48.23,0:19:51.94,Default,,0000,0000,0000,,the Jonin fool switched bodies\Nwith one of the clone Narutos.
+Dialogue: 0,0:19:52.70,0:19:54.80,Default,,0000,0000,0000,,Not only did he make Naruto\Nthink he'd been nailed...
+Dialogue: 0,0:19:54.94,0:19:57.74,Default,,0000,0000,0000,,he used Naruto's own attack on him.
+Dialogue: 0,0:20:04.45,0:20:05.28,Default,,0000,0000,0000,,A bell?!
+Dialogue: 0,0:20:06.82,0:20:08.69,Default,,0000,0000,0000,,You really must have been in a hurry.
+Dialogue: 0,0:20:08.82,0:20:10.35,Default,,0000,0000,0000,,You've dropped a bell!
+Dialogue: 0,0:20:15.16,0:20:17.03,Default,,0000,0000,0000,,What the heck is this?!
+Dialogue: 0,0:20:19.76,0:20:21.77,Default,,0000,0000,0000,,Of course it's a trap...
+Dialogue: 0,0:20:22.17,0:20:24.90,Default,,0000,0000,0000,,H-H-Hey!
+Dialogue: 0,0:20:25.54,0:20:30.84,Default,,0000,0000,0000,,That jonin doesn't lower his guard\Neven when he's fighting Naruto.
+Dialogue: 0,0:20:31.37,0:20:33.11,Default,,0000,0000,0000,,The bell!
+Dialogue: 0,0:20:37.81,0:20:39.82,Default,,0000,0000,0000,,You have to think when using Jutsu.
+Dialogue: 0,0:20:40.78,0:20:42.82,Default,,0000,0000,0000,,They can be used against you.
+Dialogue: 0,0:20:44.82,0:20:45.79,Default,,0000,0000,0000,,Also...
+Dialogue: 0,0:20:46.92,0:20:50.29,Default,,0000,0000,0000,,...don't get caught in\Nan obvious trap, you fool.
+Dialogue: 0,0:20:52.83,0:20:54.90,Default,,0000,0000,0000,,A Ninja must see\Nthrough deception!
+Dialogue: 0,0:20:55.23,0:20:57.90,Default,,0000,0000,0000,,I know that, I say!
+Dialogue: 0,0:20:58.54,0:21:01.04,Default,,0000,0000,0000,,You know, I'm telling you\Nbecause you don't get it.
+Dialogue: 0,0:21:01.07,0:21:02.07,Default,,0000,0000,0000,,Listen up!
+Dialogue: 0,0:21:03.81,0:21:06.41,Default,,0000,0000,0000,,Your movements are wasteful.
+Dialogue: 0,0:21:07.11,0:21:07.98,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:21:11.88,0:21:13.48,Default,,0000,0000,0000,,He finally dropped his guard!
+Dialogue: 0,0:21:14.02,0:21:15.15,Default,,0000,0000,0000,,You're so...
+Dialogue: 0,0:21:19.32,0:21:20.49,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:21:20.86,0:21:22.13,Default,,0000,0000,0000,,You jerk Sasuke!
+Dialogue: 0,0:21:22.16,0:21:23.83,Default,,0000,0000,0000,,You're overdoing it!
+Dialogue: 0,0:23:07.50,0:23:08.37,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:23:08.53,0:23:11.13,Default,,0000,0000,0000,,At this rate, there's no way\NI can beat Kakashi Sensei.
+Dialogue: 0,0:23:11.33,0:23:12.54,Default,,0000,0000,0000,,But if I don't take the bell...
+Dialogue: 0,0:23:12.57,0:23:13.34,Default,,0000,0000,0000,,I won't get lunch...
+Dialogue: 0,0:23:13.37,0:23:15.67,Default,,0000,0000,0000,,No... I'll fail the test!
+Dialogue: 0,0:23:15.81,0:23:18.78,Default,,0000,0000,0000,,He says a Ninja must see\Nthrough deception,
+Dialogue: 0,0:23:18.81,0:23:20.71,Default,,0000,0000,0000,,but I have no idea what that means.
+Dialogue: 0,0:23:20.81,0:23:22.81,Default,,0000,0000,0000,,How in the world can I take\Nthe bell back
+Dialogue: 0,0:23:22.81,0:23:24.81,Default,,0000,0000,0000,,from Kakashi Sensei?!
+Dialogue: 0,0:23:25.92,0:23:28.82,Default,,0000,0000,0000,,Next episode:\N "You Failed! Kakashi's Final Decision"
+Dialogue: 0,0:23:28.82,0:23:31.52,Default,,0000,0000,0000,,Don't miss my outstanding performance!

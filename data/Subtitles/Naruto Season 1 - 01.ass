@@ -1,0 +1,329 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.95,0:00:11.99,Default,,0000,0000,0000,,A long time ago, a powerful demon fox\Nappeared with nine tails.
+Dialogue: 0,0:00:12.99,0:00:13.99,Default,,0000,0000,0000,,With its powerful tails,
+Dialogue: 0,0:00:13.99,0:00:17.12,Default,,0000,0000,0000,,it could smash mountains\Nand create tidal waves.
+Dialogue: 0,0:00:17.79,0:00:22.58,Default,,0000,0000,0000,,A band of Ninjas rose to\Ndefend their village from attack.
+Dialogue: 0,0:00:22.99,0:00:25.62,Default,,0000,0000,0000,,We have to wait until\Nthe Fourth Hokage gets here!
+Dialogue: 0,0:00:25.87,0:00:28.08,Default,,0000,0000,0000,,We can't let it get any closer\Nto our village!
+Dialogue: 0,0:00:31.99,0:00:38.66,Default,,0000,0000,0000,,One great Ninja was able to\Nimprison the monster,
+Dialogue: 0,0:00:38.99,0:00:40.99,Default,,0000,0000,0000,,but died in the process.
+Dialogue: 0,0:00:41.33,0:00:47.16,Default,,0000,0000,0000,,This Ninja was known as…\Nthe Fourth Hokage.
+Dialogue: 0,0:01:04.58,0:01:05.66,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:01:05.87,0:01:07.79,Default,,0000,0000,0000,,Why did you do such a thing?!
+Dialogue: 0,0:01:08.04,0:01:10.08,Default,,0000,0000,0000,,You're really gonna get it this time!
+Dialogue: 0,0:01:15.87,0:01:17.12,Default,,0000,0000,0000,,I don't care!
+Dialogue: 0,0:01:17.99,0:01:19.54,Default,,0000,0000,0000,,You know your problem?
+Dialogue: 0,0:01:19.66,0:01:21.99,Default,,0000,0000,0000,,You can't do the things I do!
+Dialogue: 0,0:01:22.08,0:01:23.99,Default,,0000,0000,0000,,Only I can do this!
+Dialogue: 0,0:01:24.08,0:01:26.37,Default,,0000,0000,0000,,I'm better than all of you!\NBelieve it!
+Dialogue: 0,0:01:26.83,0:01:27.99,Default,,0000,0000,0000,,There's a problem, sir!
+Dialogue: 0,0:01:27.99,0:01:28.83,Default,,0000,0000,0000,,Lord Hokage!
+Dialogue: 0,0:01:29.62,0:01:30.91,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:01:30.95,0:01:34.45,Default,,0000,0000,0000,,Did that Naruto do something again?
+Dialogue: 0,0:01:34.99,0:01:37.79,Default,,0000,0000,0000,,Yes. He climbed onto\Nthe Mountainside Images…
+Dialogue: 0,0:01:37.83,0:01:39.99,Default,,0000,0000,0000,,And he vandalized and\Ngraffitied all over them!
+Dialogue: 0,0:01:50.12,0:01:50.99,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:01:55.00,0:01:56.08,Default,,0000,0000,0000,,Ha ha…
+Dialogue: 0,0:01:56.58,0:01:58.20,Default,,0000,0000,0000,,Why should I?
+Dialogue: 0,0:01:58.99,0:02:00.12,Default,,0000,0000,0000,,Hey, Naruto!
+Dialogue: 0,0:02:04.99,0:02:08.08,Default,,0000,0000,0000,,How did you suddenly get here,\Nlruka Sensei?
+Dialogue: 0,0:02:08.25,0:02:11.08,Default,,0000,0000,0000,,The question is what are you doing here\Nwhen you should be in class now?
+Dialogue: 0,0:02:13.99,0:02:15.25,Default,,0000,0000,0000,,Now listen, Naruto.
+Dialogue: 0,0:02:15.83,0:02:19.99,Default,,0000,0000,0000,,You failed the last graduation test\Nand the one before that.
+Dialogue: 0,0:02:20.00,0:02:22.87,Default,,0000,0000,0000,,This is no time\Nto be goofing off, you fool!
+Dialogue: 0,0:02:24.99,0:02:27.99,Default,,0000,0000,0000,,We will have a re-test on\Nthe Transformation Jutsu!
+Dialogue: 0,0:02:28.16,0:02:30.79,Default,,0000,0000,0000,,Even those who already passed\Nwill take it!
+Dialogue: 0,0:02:30.83,0:02:31.99,Default,,0000,0000,0000,,Whaaaat?!
+Dialogue: 0,0:02:32.45,0:02:34.45,Default,,0000,0000,0000,,Sakura Haruno. Here I go…
+Dialogue: 0,0:02:34.70,0:02:35.12,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:02:40.20,0:02:40.99,Default,,0000,0000,0000,,OK!
+Dialogue: 0,0:02:42.33,0:02:43.87,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:02:44.50,0:02:45.99,Default,,0000,0000,0000,,Cha!
+Dialogue: 0,0:02:46.66,0:02:48.20,Default,,0000,0000,0000,,Did you see that, Sasuke?
+Dialogue: 0,0:02:48.29,0:02:49.99,Default,,0000,0000,0000,,Next, Sasuke Uchiha.
+Dialogue: 0,0:02:50.20,0:02:50.87,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:02:56.33,0:02:57.54,Default,,0000,0000,0000,,O-OK.
+Dialogue: 0,0:03:00.99,0:03:02.99,Default,,0000,0000,0000,,Next, Naruto Uzumaki.
+Dialogue: 0,0:03:03.70,0:03:05.29,Default,,0000,0000,0000,,This is a real pain.
+Dialogue: 0,0:03:06.16,0:03:07.99,Default,,0000,0000,0000,,And it's all your fault.
+Dialogue: 0,0:03:07.99,0:03:09.37,Default,,0000,0000,0000,,Like I care!!
+Dialogue: 0,0:03:11.99,0:03:13.04,Default,,0000,0000,0000,,OK…
+Dialogue: 0,0:03:14.95,0:03:17.66,Default,,0000,0000,0000,,Good luck, Naruto…
+Dialogue: 0,0:03:18.25,0:03:18.99,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:03:30.50,0:03:31.12,Default,,0000,0000,0000,,How was it?
+Dialogue: 0,0:03:31.16,0:03:32.62,Default,,0000,0000,0000,,I call it the "Sexy Jutsu"!
+Dialogue: 0,0:03:32.83,0:03:36.91,Default,,0000,0000,0000,,You fool!\NStop making idiotic spells!
+Dialogue: 0,0:03:51.99,0:03:52.75,Default,,0000,0000,0000,,Darn…
+Dialogue: 0,0:03:53.62,0:03:54.41,Default,,0000,0000,0000,,Darn…
+Dialogue: 0,0:03:55.00,0:03:58.12,Default,,0000,0000,0000,,I won't let you go home\Nunless you clean that all up.
+Dialogue: 0,0:03:59.83,0:04:01.12,Default,,0000,0000,0000,,I don't care…
+Dialogue: 0,0:04:01.37,0:04:03.83,Default,,0000,0000,0000,,There's nobody home anyway.
+Dialogue: 0,0:04:09.50,0:04:10.37,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:04:11.99,0:04:13.58,Default,,0000,0000,0000,,What is it this time?
+Dialogue: 0,0:04:13.99,0:04:15.91,Default,,0000,0000,0000,,What I meant was…
+Dialogue: 0,0:04:16.54,0:04:20.99,Default,,0000,0000,0000,,If you clean up all that mess,\NI'll buy you ramen tonight.
+Dialogue: 0,0:04:23.75,0:04:24.25,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:25.54,0:04:29.00,Default,,0000,0000,0000,,Yes!\NI-I will finish it no time!
+Dialogue: 0,0:04:30.66,0:04:32.54,Default,,0000,0000,0000,,Enter: Naruto Uzumaki!
+Dialogue: 0,0:04:43.99,0:04:44.79,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:04:46.37,0:04:48.99,Default,,0000,0000,0000,,Why did you vandalize those faces?
+Dialogue: 0,0:04:49.50,0:04:52.29,Default,,0000,0000,0000,,Don't you know who\Nthe Hokage leaders are?
+Dialogue: 0,0:04:52.91,0:04:54.20,Default,,0000,0000,0000,,Of course, I do!
+Dialogue: 0,0:05:00.62,0:05:04.08,Default,,0000,0000,0000,,I know they earned the title\NLord Hokage
+Dialogue: 0,0:05:04.29,0:05:06.91,Default,,0000,0000,0000,,because they were the best Ninja\Nof their time, right?
+Dialogue: 0,0:05:09.95,0:05:11.99,Default,,0000,0000,0000,,Especially the Fourth Hokage\Nwas a hero
+Dialogue: 0,0:05:11.99,0:05:14.99,Default,,0000,0000,0000,,who saved the village from\Nthe nine-tail demon fox.
+Dialogue: 0,0:05:15.75,0:05:16.99,Default,,0000,0000,0000,,Then why did you do that?
+Dialogue: 0,0:05:17.08,0:05:20.45,Default,,0000,0000,0000,,Because I'll become a Hokage myself.
+Dialogue: 0,0:05:20.99,0:05:24.99,Default,,0000,0000,0000,,And I'll be the greatest Hokage\Nof all time!
+Dialogue: 0,0:05:25.50,0:05:30.00,Default,,0000,0000,0000,,So that everyone will finally\Nlearn to accept me!
+Dialogue: 0,0:05:31.29,0:05:35.33,Default,,0000,0000,0000,,By the way, Sensei,\NI have a favor to ask.
+Dialogue: 0,0:05:36.08,0:05:37.33,Default,,0000,0000,0000,,You want another bowl?
+Dialogue: 0,0:05:37.45,0:05:38.91,Default,,0000,0000,0000,,Mmmm…No…
+Dialogue: 0,0:05:38.99,0:05:41.50,Default,,0000,0000,0000,,Can I borrow that Leaf headband\Nfor a while?
+Dialogue: 0,0:05:42.50,0:05:43.08,Default,,0000,0000,0000,,This?
+Dialogue: 0,0:05:43.75,0:05:44.79,Default,,0000,0000,0000,,No no!
+Dialogue: 0,0:05:45.04,0:05:49.99,Default,,0000,0000,0000,,This is worn only by those who\Nhave graduated from Ninja Academy.
+Dialogue: 0,0:05:50.62,0:05:51.99,Default,,0000,0000,0000,,Tomorrow, you will…
+Dialogue: 0,0:05:52.99,0:05:53.91,Default,,0000,0000,0000,,You're so mean!
+Dialogue: 0,0:05:55.12,0:05:56.99,Default,,0000,0000,0000,,So that's why you took off\Nyour goggles…
+Dialogue: 0,0:05:57.00,0:05:58.41,Default,,0000,0000,0000,,Humph...\NOne more bowl please!
+Dialogue: 0,0:06:00.99,0:06:03.58,Default,,0000,0000,0000,,We are now about to begin\Nthe graduation test.
+Dialogue: 0,0:06:04.37,0:06:07.04,Default,,0000,0000,0000,,When your name is called,\Nproceed to the next classroom.
+Dialogue: 0,0:06:07.95,0:06:10.20,Default,,0000,0000,0000,,The test is on the Clone Jutsu.
+Dialogue: 0,0:06:10.99,0:06:11.99,Default,,0000,0000,0000,,Oh no…
+Dialogue: 0,0:06:12.33,0:06:16.08,Default,,0000,0000,0000,,Of all the…! That is my weakest Jutsu!
+Dialogue: 0,0:06:20.45,0:06:23.58,Default,,0000,0000,0000,,But still…\NI will do it no matter what!
+Dialogue: 0,0:06:28.99,0:06:30.16,Default,,0000,0000,0000,,Clone Jutsu!
+Dialogue: 0,0:06:39.33,0:06:40.83,Default,,0000,0000,0000,,Disqualified!
+Dialogue: 0,0:06:42.99,0:06:44.00,Default,,0000,0000,0000,,Iruka Sensei.
+Dialogue: 0,0:06:45.50,0:06:48.99,Default,,0000,0000,0000,,His physical coordination\Nand stamina are excellent.
+Dialogue: 0,0:06:49.33,0:06:52.66,Default,,0000,0000,0000,,And he managed to come up\Nwith something.
+Dialogue: 0,0:06:53.08,0:06:55.00,Default,,0000,0000,0000,,Isn't that enough\Nfor him to pass?
+Dialogue: 0,0:06:55.75,0:07:00.95,Default,,0000,0000,0000,,Mizuki Sensei...\NAll the others created three or more clones.
+Dialogue: 0,0:07:02.25,0:07:04.08,Default,,0000,0000,0000,,Naruto created just one.
+Dialogue: 0,0:07:04.91,0:07:09.00,Default,,0000,0000,0000,,And it's practically useless.\NI can't give him a passing mark.
+Dialogue: 0,0:07:18.00,0:07:19.37,Default,,0000,0000,0000,,I 'm a Ninja now!
+Dialogue: 0,0:07:19.91,0:07:21.70,Default,,0000,0000,0000,,You did well. That's my son.
+Dialogue: 0,0:07:22.04,0:07:23.87,Default,,0000,0000,0000,,Congratulations for your graduation.
+Dialogue: 0,0:07:23.91,0:07:25.66,Default,,0000,0000,0000,,I'll cook something good tonight!
+Dialogue: 0,0:07:26.99,0:07:28.62,Default,,0000,0000,0000,,Look at that one.
+Dialogue: 0,0:07:29.37,0:07:33.04,Default,,0000,0000,0000,,It's that boy.\NI hear he's the only one who failed.
+Dialogue: 0,0:07:34.37,0:07:35.62,Default,,0000,0000,0000,,Serves him right.
+Dialogue: 0,0:07:35.87,0:07:38.33,Default,,0000,0000,0000,,Imagine what would happen\Nif he became a Ninja.
+Dialogue: 0,0:07:38.75,0:07:39.99,Default,,0000,0000,0000,,Isn't that the boy\Nwho is actually…
+Dialogue: 0,0:07:39.99,0:07:42.58,Default,,0000,0000,0000,,Hey! We're not supposed to\Ntalk about that.
+Dialogue: 0,0:07:50.54,0:07:55.29,Default,,0000,0000,0000,,Iruka.\NWe need to talk later.
+Dialogue: 0,0:07:56.08,0:07:56.79,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:08:02.95,0:08:06.79,Default,,0000,0000,0000,,Iruka Sensei isn't trying\Nto be mean to you.
+Dialogue: 0,0:08:07.08,0:08:09.83,Default,,0000,0000,0000,,Then why only me?
+Dialogue: 0,0:08:10.20,0:08:15.99,Default,,0000,0000,0000,,He wants you to become strong\Nfrom the bottom of his heart.
+Dialogue: 0,0:08:16.99,0:08:18.54,Default,,0000,0000,0000,,You both don't have parents.
+Dialogue: 0,0:08:20.29,0:08:24.08,Default,,0000,0000,0000,,But I really wanted to graduate.
+Dialogue: 0,0:08:24.99,0:08:28.33,Default,,0000,0000,0000,,Heh... I guess I have no choice…
+Dialogue: 0,0:08:30.79,0:08:33.79,Default,,0000,0000,0000,,I'll let you in on a big secret.
+Dialogue: 0,0:08:35.54,0:08:36.41,Default,,0000,0000,0000,,Secret?
+Dialogue: 0,0:08:40.25,0:08:41.37,Default,,0000,0000,0000,,Iruka.
+Dialogue: 0,0:08:42.41,0:08:44.45,Default,,0000,0000,0000,,What is it, Lord Hokage?
+Dialogue: 0,0:08:44.99,0:08:48.87,Default,,0000,0000,0000,,I know how you feel. But…
+Dialogue: 0,0:08:48.99,0:08:53.70,Default,,0000,0000,0000,,Naruto also grew up without knowing\Nthe love of his parents…like you.
+Dialogue: 0,0:09:00.99,0:09:01.99,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:09:01.99,0:09:04.58,Default,,0000,0000,0000,,My mom and dad are\Nstill out there fighting!
+Dialogue: 0,0:09:07.99,0:09:09.83,Default,,0000,0000,0000,,Wake up, Iruka Sensei!
+Dialogue: 0,0:09:12.12,0:09:13.45,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:09:13.95,0:09:16.04,Default,,0000,0000,0000,,Come to Lord Hokage's immediately!
+Dialogue: 0,0:09:16.83,0:09:20.91,Default,,0000,0000,0000,,I heard that Naruto…\Nstole the Scroll of Sealing.
+Dialogue: 0,0:09:22.20,0:09:23.54,Default,,0000,0000,0000,,The Scroll of Sealing?!
+Dialogue: 0,0:09:25.66,0:09:26.87,Default,,0000,0000,0000,,Let's see…
+Dialogue: 0,0:09:26.99,0:09:31.75,Default,,0000,0000,0000,,The first Jutsu is…\NMulti-Shadow Clone Jutsu?
+Dialogue: 0,0:09:32.62,0:09:35.70,Default,,0000,0000,0000,,What?! Already a Jutsu I'm no good at?
+Dialogue: 0,0:09:36.29,0:09:38.95,Default,,0000,0000,0000,,Lord Hokage!\NWe can't forgive him!
+Dialogue: 0,0:09:38.99,0:09:39.99,Default,,0000,0000,0000,,This is not just a prank!
+Dialogue: 0,0:09:39.99,0:09:43.99,Default,,0000,0000,0000,,The Scroll is a dangerous item\Nthat the First Hokage sealed!
+Dialogue: 0,0:09:44.37,0:09:45.95,Default,,0000,0000,0000,,Depending on its use…
+Dialogue: 0,0:09:46.66,0:09:49.99,Default,,0000,0000,0000,,It will be a major disaster if\Nit is taken out of the village!
+Dialogue: 0,0:09:51.87,0:09:54.37,Default,,0000,0000,0000,,Yes. Bring Naruto here at once!
+Dialogue: 0,0:09:54.79,0:09:55.37,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:10:06.00,0:10:07.50,Default,,0000,0000,0000,,Where did you go…Naruto?
+Dialogue: 0,0:10:16.04,0:10:19.79,Default,,0000,0000,0000,,I will tell everyone in the village\Nabout this and eliminate Naruto…
+Dialogue: 0,0:10:20.41,0:10:23.25,Default,,0000,0000,0000,,Then the Scroll of Sealing\Nwill be mine!
+Dialogue: 0,0:10:38.99,0:10:41.37,Default,,0000,0000,0000,,Hey you, Naruto!
+Dialogue: 0,0:10:47.04,0:10:48.99,Default,,0000,0000,0000,,You found me..
+Dialogue: 0,0:10:49.08,0:10:51.99,Default,,0000,0000,0000,,And I've only learned one Jutsu.
+Dialogue: 0,0:10:53.04,0:10:55.16,Default,,0000,0000,0000,,He's been practicing the Jutsu…
+Dialogue: 0,0:10:55.83,0:10:57.50,Default,,0000,0000,0000,,until he's become\Nthis exhausted and dirty…?
+Dialogue: 0,0:10:57.62,0:11:00.91,Default,,0000,0000,0000,,Listen, listen!\NI'm gonna show you this amazing Jutsu!
+Dialogue: 0,0:11:00.99,0:11:02.99,Default,,0000,0000,0000,,You're gonna let me graduate\Nif I can do it!
+Dialogue: 0,0:11:03.20,0:11:06.91,Default,,0000,0000,0000,,Isn't it true that I can graduate if\NI can do one of the Jutsu written here?
+Dialogue: 0,0:11:07.91,0:11:08.99,Default,,0000,0000,0000,,Who told you that?
+Dialogue: 0,0:11:09.37,0:11:14.99,Default,,0000,0000,0000,,Mizuki Sensei. He told me\Nabout this scroll, and this place…
+Dialogue: 0,0:11:18.41,0:11:19.29,Default,,0000,0000,0000,,Mizuki did?!
+Dialogue: 0,0:11:24.91,0:11:26.33,Default,,0000,0000,0000,,I'm impressed you found this place.
+Dialogue: 0,0:11:27.66,0:11:30.08,Default,,0000,0000,0000,,I see now…how it is.
+Dialogue: 0,0:11:33.25,0:11:36.66,Default,,0000,0000,0000,,Naruto, give me that scroll.
+Dialogue: 0,0:11:37.04,0:11:40.25,Default,,0000,0000,0000,,Wait, wait…\NWhat's going on here?
+Dialogue: 0,0:11:42.79,0:11:45.25,Default,,0000,0000,0000,,Naruto! Never give him that scroll!
+Dialogue: 0,0:11:45.99,0:11:50.20,Default,,0000,0000,0000,,It is a dangerous object that contains\Nforbidden Ninja Jutsu. It was sealed.
+Dialogue: 0,0:11:50.83,0:11:53.99,Default,,0000,0000,0000,,Mizuki used you in order to\Nget it for himself!
+Dialogue: 0,0:11:54.75,0:11:55.50,Default,,0000,0000,0000,,W-Wha--?
+Dialogue: 0,0:11:55.99,0:12:00.99,Default,,0000,0000,0000,,Naruto, Iruka is only afraid of\Nyou holding that scroll!
+Dialogue: 0,0:12:01.37,0:12:01.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:04.33,0:12:07.83,Default,,0000,0000,0000,,What are you saying, Mizuki!\NDon't let him fool you, Naruto!
+Dialogue: 0,0:12:09.37,0:12:11.25,Default,,0000,0000,0000,,I will tell you the truth.
+Dialogue: 0,0:12:11.50,0:12:12.66,Default,,0000,0000,0000,,Idiot! Don't do that!
+Dialogue: 0,0:12:13.41,0:12:17.37,Default,,0000,0000,0000,,After an incident 12 years ago,\Na rule was created.
+Dialogue: 0,0:12:18.99,0:12:20.25,Default,,0000,0000,0000,,A rule?
+Dialogue: 0,0:12:21.04,0:12:26.37,Default,,0000,0000,0000,,That is, Naruto, a rule everybody\Nbut you knows.
+Dialogue: 0,0:12:26.99,0:12:30.54,Default,,0000,0000,0000,,Except me?! 					What is it?
+Dialogue: 0,0:12:31.08,0:12:32.41,Default,,0000,0000,0000,,Stop it, Mizuki!
+Dialogue: 0,0:12:32.99,0:12:36.99,Default,,0000,0000,0000,,The rule forbids anyone from revealing\Nthat you are actually the Demon Fox Spirit!
+Dialogue: 0,0:12:37.99,0:12:38.37,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:39.50,0:12:43.04,Default,,0000,0000,0000,,You are actually the Demon,\NNine-Tailed Fox Spirit,
+Dialogue: 0,0:12:43.08,0:12:46.12,Default,,0000,0000,0000,,who killed Iruka's parents and\Ndestroyed our village!
+Dialogue: 0,0:12:46.54,0:12:47.54,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:12:48.99,0:12:52.08,Default,,0000,0000,0000,,Everyone has been\Ndeceiving you ever since.
+Dialogue: 0,0:12:53.25,0:12:55.37,Default,,0000,0000,0000,,Didn't you find it strange?
+Dialogue: 0,0:12:56.04,0:12:58.00,Default,,0000,0000,0000,,Why everyone hated you so much?
+Dialogue: 0,0:12:58.83,0:13:03.12,Default,,0000,0000,0000,,No! No! No! No! No!
+Dialogue: 0,0:13:03.99,0:13:05.08,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:13:05.66,0:13:10.75,Default,,0000,0000,0000,,Nobody accepts you.\NThat's why Iruka hates you so much!
+Dialogue: 0,0:13:12.50,0:13:16.99,Default,,0000,0000,0000,,Iruka... Naruto grew up\Nwithout the love of parents.
+Dialogue: 0,0:13:17.62,0:13:21.87,Default,,0000,0000,0000,,Everyone avoids him like\Nthe plague after what happened.
+Dialogue: 0,0:13:22.37,0:13:27.50,Default,,0000,0000,0000,,That's why he keeps misbehaving.
+Dialogue: 0,0:13:28.04,0:13:33.37,Default,,0000,0000,0000,,It's the only way for him to get\Nany attention or acknowledgement.
+Dialogue: 0,0:13:33.99,0:13:37.99,Default,,0000,0000,0000,,He pretends to be tough,\Nbut inside he is really hurting.
+Dialogue: 0,0:13:38.58,0:13:40.04,Default,,0000,0000,0000,,Die, Naruto!
+Dialogue: 0,0:13:42.91,0:13:44.12,Default,,0000,0000,0000,,Naruto! 					Get down!
+Dialogue: 0,0:13:57.33,0:13:59.54,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:14:01.54,0:14:03.08,Default,,0000,0000,0000,,Because you and I are the same.
+Dialogue: 0,0:14:04.20,0:14:05.99,Default,,0000,0000,0000,,After my parents died,
+Dialogue: 0,0:14:06.33,0:14:10.99,Default,,0000,0000,0000,,nobody paid attention to me\Nor gave me any support.
+Dialogue: 0,0:14:12.54,0:14:14.25,Default,,0000,0000,0000,,I wasn't a good student in school.
+Dialogue: 0,0:14:14.29,0:14:19.99,Default,,0000,0000,0000,,I was the class clown…\Nbecause I wanted people to notice me.
+Dialogue: 0,0:14:20.87,0:14:26.70,Default,,0000,0000,0000,,I couldn't get noticed through excellence,\Nso I kept doing stupid things.
+Dialogue: 0,0:14:30.08,0:14:31.20,Default,,0000,0000,0000,,It was so hard.
+Dialogue: 0,0:14:33.70,0:14:35.75,Default,,0000,0000,0000,,Isn't that right, Naruto?
+Dialogue: 0,0:14:36.83,0:14:41.66,Default,,0000,0000,0000,,You felt so lonely…right?\NAnd you suffered inside, right?
+Dialogue: 0,0:14:42.99,0:14:44.75,Default,,0000,0000,0000,,I'm sorry, Naruto….
+Dialogue: 0,0:14:45.58,0:14:50.95,Default,,0000,0000,0000,,If I had been more responsible,\Nmaybe you wouldn't have suffered so much.
+Dialogue: 0,0:14:54.16,0:14:55.79,Default,,0000,0000,0000,,Don't make me laugh!
+Dialogue: 0,0:14:55.99,0:15:00.25,Default,,0000,0000,0000,,Iruka has always hated you,\Never since you killed his parents!
+Dialogue: 0,0:15:01.12,0:15:04.99,Default,,0000,0000,0000,,He's just saying all that\Nto get the Scroll of Sealing back!
+Dialogue: 0,0:15:08.41,0:15:09.16,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:11.00,0:15:12.99,Default,,0000,0000,0000,,Narutoooooo!
+Dialogue: 0,0:15:15.50,0:15:18.45,Default,,0000,0000,0000,,He is not the type of kid\Nwho will change his mind.
+Dialogue: 0,0:15:19.50,0:15:22.83,Default,,0000,0000,0000,,He will take revenge against\Nour village using that scroll!
+Dialogue: 0,0:15:24.12,0:15:27.99,Default,,0000,0000,0000,,Didn't you see his eyes?\NThose are the eyes of a Demon Fox.
+Dialogue: 0,0:15:31.16,0:15:36.33,Default,,0000,0000,0000,,No…\NNaruto…isn't…like that at all!
+Dialogue: 0,0:15:39.12,0:15:42.99,Default,,0000,0000,0000,,All I want is to kill Naruto\Nand get the scroll.
+Dialogue: 0,0:15:43.79,0:15:45.20,Default,,0000,0000,0000,,I'll take care of you later!
+Dialogue: 0,0:15:45.75,0:15:47.37,Default,,0000,0000,0000,,I-I won't let you…
+Dialogue: 0,0:15:51.04,0:15:52.37,Default,,0000,0000,0000,,Well, well.
+Dialogue: 0,0:15:52.95,0:15:54.99,Default,,0000,0000,0000,,Mizuki has a big mouth!
+Dialogue: 0,0:15:55.41,0:15:58.29,Default,,0000,0000,0000,,Naruto feels worse than he's ever felt.
+Dialogue: 0,0:15:58.79,0:16:02.08,Default,,0000,0000,0000,,He might unleash\Nthe power locked up inside him.
+Dialogue: 0,0:16:02.83,0:16:07.08,Default,,0000,0000,0000,,The Scroll of Sealing is now with him.
+Dialogue: 0,0:16:07.66,0:16:11.41,Default,,0000,0000,0000,,There's a slight chance\Nhe might actually release
+Dialogue: 0,0:16:11.45,0:16:14.83,Default,,0000,0000,0000,,the Nine-Tailed Fox Spirit\Nsealed inside him!
+Dialogue: 0,0:16:15.87,0:16:16.99,Default,,0000,0000,0000,,If that happens…
+Dialogue: 0,0:16:19.66,0:16:20.54,Default,,0000,0000,0000,,I've found him!
+Dialogue: 0,0:16:22.58,0:16:23.41,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:16:23.79,0:16:25.58,Default,,0000,0000,0000,,Everything that Mizuki said\Nwas a lie!
+Dialogue: 0,0:16:25.87,0:16:29.79,Default,,0000,0000,0000,,Give me that scroll, quick!\NMizuki is after the scroll!
+Dialogue: 0,0:16:45.45,0:16:46.99,Default,,0000,0000,0000,,It can't be…
+Dialogue: 0,0:16:52.95,0:16:55.25,Default,,0000,0000,0000,,Why is it, Naruto?
+Dialogue: 0,0:16:57.08,0:16:58.12,Default,,0000,0000,0000,,How…
+Dialogue: 0,0:16:58.16,0:17:01.95,Default,,0000,0000,0000,,did you know I wasn't Iruka…?
+Dialogue: 0,0:17:05.91,0:17:07.87,Default,,0000,0000,0000,,Because I'm Iruka.
+Dialogue: 0,0:17:09.41,0:17:10.70,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:17:13.16,0:17:16.54,Default,,0000,0000,0000,,What's in it for you to protect\Nthe one who killed your family?
+Dialogue: 0,0:17:16.99,0:17:20.25,Default,,0000,0000,0000,,I'm not gonna let a stupid idiot\Nlike you get that scroll!
+Dialogue: 0,0:17:20.99,0:17:24.99,Default,,0000,0000,0000,,You're the idiot.\NNaruto is the same as me.
+Dialogue: 0,0:17:26.25,0:17:27.12,Default,,0000,0000,0000,,Same?
+Dialogue: 0,0:17:27.75,0:17:31.37,Default,,0000,0000,0000,,Anyone can do whatever\Nhe wants once he has the scroll.
+Dialogue: 0,0:17:31.58,0:17:33.58,Default,,0000,0000,0000,,There is no way that that monster…
+Dialogue: 0,0:17:33.62,0:17:37.08,Default,,0000,0000,0000,,that Fox Spirit, won't take advantage\Nof the power of that scroll!
+Dialogue: 0,0:17:38.00,0:17:39.20,Default,,0000,0000,0000,,You're right…
+Dialogue: 0,0:17:42.83,0:17:44.58,Default,,0000,0000,0000,,I guess it was true all along!
+Dialogue: 0,0:17:45.37,0:17:51.33,Default,,0000,0000,0000,,See, Iruka Sensei never really\Ncared for me at all!
+Dialogue: 0,0:17:51.91,0:17:53.50,Default,,0000,0000,0000,,...if he was the Demon Fox Spirit.
+Dialogue: 0,0:17:55.58,0:17:57.29,Default,,0000,0000,0000,,But Naruto is different!
+Dialogue: 0,0:17:57.62,0:18:02.62,Default,,0000,0000,0000,,I know that he is an exceptional student.
+Dialogue: 0,0:18:03.83,0:18:04.99,Default,,0000,0000,0000,,He works very hard,
+Dialogue: 0,0:18:05.29,0:18:09.12,Default,,0000,0000,0000,,and he's single-minded\Nand clumsy at the same time.
+Dialogue: 0,0:18:09.12,0:18:15.29,Default,,0000,0000,0000,,No one accepts him, but he knows\Nthe meaning of human suffering.
+Dialogue: 0,0:18:15.99,0:18:17.99,Default,,0000,0000,0000,,He is not the Demon Fox Spirit.
+Dialogue: 0,0:18:17.99,0:18:20.70,Default,,0000,0000,0000,,He's Naruto Uzumaki of\Nthe Village Hidden in the Leaves!
+Dialogue: 0,0:18:25.99,0:18:28.66,Default,,0000,0000,0000,,You are so gullible. 					lruka!
+Dialogue: 0,0:18:29.20,0:18:32.25,Default,,0000,0000,0000,,I was gonna take you down later,\Nbut I have changed my mind.
+Dialogue: 0,0:18:32.66,0:18:34.04,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:18:35.99,0:18:37.29,Default,,0000,0000,0000,,I guess this is the end for me…
+Dialogue: 0,0:18:44.99,0:18:45.87,Default,,0000,0000,0000,,Naruto?!
+Dialogue: 0,0:18:48.66,0:18:50.50,Default,,0000,0000,0000,,You surprised me there, freak.
+Dialogue: 0,0:18:51.79,0:18:56.12,Default,,0000,0000,0000,,If you ever lay a hand on Iruka Sensei,\NI'll kill you!
+Dialogue: 0,0:18:56.99,0:19:01.33,Default,,0000,0000,0000,,Shut up! I can take care of a kid\Nlike you with a single blow!
+Dialogue: 0,0:19:01.99,0:19:06.20,Default,,0000,0000,0000,,Why don't you try then?\NI'll strike you back a thousand-fold!
+Dialogue: 0,0:19:06.62,0:19:10.25,Default,,0000,0000,0000,,Let's see you try!\NShow me what you can do, Demon Fox!
+Dialogue: 0,0:19:11.54,0:19:13.12,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:19:22.37,0:19:24.04,Default,,0000,0000,0000,,Naruto! You've…
+Dialogue: 0,0:19:24.95,0:19:30.91,Default,,0000,0000,0000,,Those aren't just images but actual clones!\NThat's an advanced Ninjutsu!
+Dialogue: 0,0:19:32.99,0:19:33.79,Default,,0000,0000,0000,,What's this…?
+Dialogue: 0,0:19:34.08,0:19:36.75,Default,,0000,0000,0000,,What's the matter? 					C'mon!
+Dialogue: 0,0:19:36.79,0:19:40.41,Default,,0000,0000,0000,,Weren't you gonna get me\Nwith one blow? Here!
+Dialogue: 0,0:19:40.70,0:19:43.08,Default,,0000,0000,0000,,In that case…\NI'll come to you.
+Dialogue: 0,0:19:59.33,0:20:03.99,Default,,0000,0000,0000,,I kinda got carried away.\Nlruka Sensei, are you okay?
+Dialogue: 0,0:20:04.87,0:20:05.62,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:07.16,0:20:08.83,Default,,0000,0000,0000,,He's really something.
+Dialogue: 0,0:20:09.29,0:20:10.99,Default,,0000,0000,0000,,Maybe it is true.
+Dialogue: 0,0:20:10.99,0:20:13.00,Default,,0000,0000,0000,,Maybe he will surpass all\Nthe Hokage leaders…
+Dialogue: 0,0:20:15.99,0:20:20.45,Default,,0000,0000,0000,,Naruto, come over here.\NI'd like to give you something.
+Dialogue: 0,0:20:23.83,0:20:25.99,Default,,0000,0000,0000,,Has anyone found Naruto yet?
+Dialogue: 0,0:20:26.16,0:20:26.99,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:20:27.37,0:20:30.00,Default,,0000,0000,0000,,Darn, this is going to be bad…
+Dialogue: 0,0:20:30.99,0:20:33.25,Default,,0000,0000,0000,,There's no need to worry anymore.
+Dialogue: 0,0:20:34.54,0:20:35.66,Default,,0000,0000,0000,,Lord Hokage!
+Dialogue: 0,0:20:36.70,0:20:39.20,Default,,0000,0000,0000,,He'll be back soon.
+Dialogue: 0,0:20:40.79,0:20:42.87,Default,,0000,0000,0000,,Sensei, how much longer?
+Dialogue: 0,0:20:43.16,0:20:45.45,Default,,0000,0000,0000,,OK, you may open your eyes now.
+Dialogue: 0,0:20:56.99,0:20:59.87,Default,,0000,0000,0000,,Congratulations…on your graduation.
+Dialogue: 0,0:21:05.16,0:21:09.62,Default,,0000,0000,0000,,In celebration, we'll have ramen tonight!
+Dialogue: 0,0:21:16.79,0:21:18.12,Default,,0000,0000,0000,,Iruka Sensei!
+Dialogue: 0,0:21:18.62,0:21:19.87,Default,,0000,0000,0000,,That hurts!
+Dialogue: 0,0:21:20.95,0:21:21.99,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:21:22.50,0:21:24.83,Default,,0000,0000,0000,,I was going to lecture to you...
+Dialogue: 0,0:21:24.87,0:21:28.33,Default,,0000,0000,0000,,that the road gets more difficult\Nnow that you're a Ninja.
+Dialogue: 0,0:21:28.91,0:21:33.04,Default,,0000,0000,0000,,But I guess I'll just wait to tell you\Nthat until we get to the ramen stand…
+Dialogue: 0,0:23:09.62,0:23:13.41,Default,,0000,0000,0000,,W-What do you want, you little shrimp?\NQuit following me!
+Dialogue: 0,0:23:13.45,0:23:15.29,Default,,0000,0000,0000,,You're smaller than me and
+Dialogue: 0,0:23:15.33,0:23:17.54,Default,,0000,0000,0000,,you're saying that you're gonna\Nbecome the Fifth Hokage?
+Dialogue: 0,0:23:17.58,0:23:20.79,Default,,0000,0000,0000,,I don't care if you are the 3rd Hokage's\Ngrandson or not.
+Dialogue: 0,0:23:20.83,0:23:23.33,Default,,0000,0000,0000,,It's not that easy to be a Hokage!
+Dialogue: 0,0:23:23.54,0:23:27.99,Default,,0000,0000,0000,,If you want it that bad,\Nyou're gonna have to beat me first!
+Dialogue: 0,0:23:28.54,0:23:30.99,Default,,0000,0000,0000,,Next episode:\N "My Name Is Konohamaru!"
+Dialogue: 0,0:23:30.99,0:23:33.70,Default,,0000,0000,0000,,Watch my outstanding performance!

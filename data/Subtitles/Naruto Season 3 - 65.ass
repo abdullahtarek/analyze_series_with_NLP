@@ -1,0 +1,272 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.70,0:00:09.87,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.99,0:00:18.12,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.37,0:00:20.41,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.37,0:00:27.12,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.16,0:00:30.66,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.87,0:00:34.37,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.79,0:00:38.04,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:38.08,0:00:45.66,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.70,0:00:54.91,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.95,0:01:02.99,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:03.12,0:01:09.99,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:10.00,0:01:18.12,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.45,0:01:26.99,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.99,0:01:28.99,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:42.64,0:01:44.29,Default,,0000,0000,0000,,The winner is Temari.
+Dialogue: 0,0:02:04.99,0:02:07.08,Default,,0000,0000,0000,,Oh, I’m tired…
+Dialogue: 0,0:02:12.08,0:02:14.91,Default,,0000,0000,0000,,Oh, what a waste!
+Dialogue: 0,0:02:15.45,0:02:19.16,Default,,0000,0000,0000,,Why?! He had a chance to\Nbecome a Chunin!
+Dialogue: 0,0:02:19.99,0:02:21.91,Default,,0000,0000,0000,,Shikamaru is Shikamaru…
+Dialogue: 0,0:02:25.95,0:02:29.50,Default,,0000,0000,0000,,Really… Does he or doesn't he\Nhave the motivation?
+Dialogue: 0,0:02:29.87,0:02:33.79,Default,,0000,0000,0000,,Even I’m not sure about it.
+Dialogue: 0,0:02:35.58,0:02:39.99,Default,,0000,0000,0000,,But his intelligence and strategies\Nare no longer at the Genin level.
+Dialogue: 0,0:02:42.12,0:02:46.16,Default,,0000,0000,0000,,If it had been an actual mission\Nfor a basic platoon,
+Dialogue: 0,0:02:46.41,0:02:50.58,Default,,0000,0000,0000,,the win was decided when\Nhe captured Temari…
+Dialogue: 0,0:02:51.99,0:02:55.41,Default,,0000,0000,0000,,So, I suppose he won the competition,\Nbut he lost the match…
+Dialogue: 0,0:02:57.33,0:03:00.75,Default,,0000,0000,0000,,It’s unfortunate he shows no\Nsigns of being motivated,
+Dialogue: 0,0:03:02.04,0:03:07.33,Default,,0000,0000,0000,,on the other hand, he won’t get too\Nemotional or fall into a panic.
+Dialogue: 0,0:03:07.99,0:03:08.99,Default,,0000,0000,0000,,And that’s exactly why…
+Dialogue: 0,0:03:09.20,0:03:13.54,Default,,0000,0000,0000,,he’d be able to calmly pull back if\Nhe viewed a situation as totally hopeless.
+Dialogue: 0,0:03:14.50,0:03:17.62,Default,,0000,0000,0000,,That could be attributed to\Ncalm judgment.
+Dialogue: 0,0:03:18.12,0:03:19.20,Default,,0000,0000,0000,,Shikamaru probably possesses…
+Dialogue: 0,0:03:19.99,0:03:25.99,Default,,0000,0000,0000,,the most important psychological\Nelement required for a Chunin…
+Dialogue: 0,0:03:25.99,0:03:28.33,Default,,0000,0000,0000,,the disposition of a leader!
+Dialogue: 0,0:03:37.99,0:03:40.91,Default,,0000,0000,0000,,In order to evaluate someone\Nas a leader of a platoon…
+Dialogue: 0,0:03:40.99,0:03:43.70,Default,,0000,0000,0000,,it’s much more important to\Nprotect the platoon from danger,
+Dialogue: 0,0:03:43.75,0:03:47.58,Default,,0000,0000,0000,,than to carry out a mission.
+Dialogue: 0,0:03:47.99,0:03:51.04,Default,,0000,0000,0000,,Yeah…it’d hardly be worth mentioning\Na completed mission
+Dialogue: 0,0:03:51.08,0:03:53.75,Default,,0000,0000,0000,,if everyone was annihilated.
+Dialogue: 0,0:03:54.08,0:03:56.41,Default,,0000,0000,0000,,The risks and the mission\Nshould be put on a scale,
+Dialogue: 0,0:03:56.45,0:03:59.95,Default,,0000,0000,0000,,surviving should be thought of first,\Nand then action should be taken.
+Dialogue: 0,0:03:59.99,0:04:01.99,Default,,0000,0000,0000,,A person who can’t do this isn’t\Nqualified to become a Chunin.
+Dialogue: 0,0:04:02.66,0:04:06.41,Default,,0000,0000,0000,,Hyuga and Naruto from earlier\Nfail on that point.
+Dialogue: 0,0:04:12.91,0:04:15.16,Default,,0000,0000,0000,,Although they are all right\Nas insignificant Genin.
+Dialogue: 0,0:04:16.45,0:04:20.12,Default,,0000,0000,0000,,Well, I do feel like Shikamaru\Ngave up too soon too.
+Dialogue: 0,0:04:23.95,0:04:24.87,Default,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:04:26.20,0:04:27.79,Default,,0000,0000,0000,,What do I feel…?
+Dialogue: 0,0:04:29.33,0:04:32.00,Default,,0000,0000,0000,,He has more of a chance\Nthan Naruto, for sure!
+Dialogue: 0,0:04:32.45,0:04:33.08,Default,,0000,0000,0000,,Shoot…!
+Dialogue: 0,0:04:36.95,0:04:40.29,Default,,0000,0000,0000,,Why the heck did he give up!
+Dialogue: 0,0:04:41.16,0:04:42.75,Default,,0000,0000,0000,,Is he an idiot?!
+Dialogue: 0,0:04:42.99,0:04:44.75,Default,,0000,0000,0000,,This ticks me off!
+Dialogue: 0,0:04:45.99,0:04:48.87,Default,,0000,0000,0000,,I’m gonna really give him\Na lecture!
+Dialogue: 0,0:04:49.66,0:04:52.41,Default,,0000,0000,0000,,So the one that’s gonna\Nbecome a Chunin is…
+Dialogue: 0,0:04:53.99,0:04:55.16,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:04:55.95,0:04:57.54,Default,,0000,0000,0000,,Shut up, super idiot!
+Dialogue: 0,0:04:57.75,0:05:01.58,Default,,0000,0000,0000,,Why the heck did you give up?!
+Dialogue: 0,0:05:01.83,0:05:04.99,Default,,0000,0000,0000,,Let’s not talk about that anymore,\Nall right?
+Dialogue: 0,0:05:05.62,0:05:08.99,Default,,0000,0000,0000,,It’s not all right! It was a match\Nyou were close to winning!
+Dialogue: 0,0:05:09.00,0:05:12.99,Default,,0000,0000,0000,,– Let's just watch the next match.\N– But you just gave up! Unimaginable!
+Dialogue: 0,0:05:12.99,0:05:14.99,Default,,0000,0000,0000,,Simply unimaginable!
+Dialogue: 0,0:05:15.45,0:05:16.99,Default,,0000,0000,0000,,Huh? The next match?
+Dialogue: 0,0:05:23.99,0:05:24.99,Default,,0000,0000,0000,,Sasuke…!
+Dialogue: 0,0:05:25.87,0:05:31.79,Default,,0000,0000,0000,,"Dancing Leaf, Squirming Sand"
+Dialogue: 0,0:05:33.91,0:05:35.87,Default,,0000,0000,0000,,At last, Uchiha’s match is next.
+Dialogue: 0,0:05:36.04,0:05:39.20,Default,,0000,0000,0000,,Oh, but who’s this opponent Gaara?
+Dialogue: 0,0:05:39.50,0:05:40.12,Default,,0000,0000,0000,,I wonder…
+Dialogue: 0,0:05:40.41,0:05:43.33,Default,,0000,0000,0000,,But compared to Uchiha,\Nhe’s nothing much.
+Dialogue: 0,0:05:46.16,0:05:47.12,Default,,0000,0000,0000,,Do you know?
+Dialogue: 0,0:05:47.45,0:05:50.16,Default,,0000,0000,0000,,I hear Uchiha’s gonna\Nwithdraw from this match.
+Dialogue: 0,0:05:50.25,0:05:51.54,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:05:51.83,0:05:55.25,Default,,0000,0000,0000,,Yeah, he apparently sustained a serious\Ninjury while training before the match…
+Dialogue: 0,0:05:55.37,0:05:56.99,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:05:57.41,0:06:01.12,Default,,0000,0000,0000,,And to think I took time off\Nspecifically to see this match!
+Dialogue: 0,0:06:01.91,0:06:03.54,Default,,0000,0000,0000,,I’m counting on you, come on!
+Dialogue: 0,0:06:05.12,0:06:08.62,Default,,0000,0000,0000,,As you’d expect, this match\Nwill be won by Uchiha.
+Dialogue: 0,0:06:09.37,0:06:13.62,Default,,0000,0000,0000,,No way, I’ve got high hope\Nfor the new one of the Sand.
+Dialogue: 0,0:06:13.91,0:06:16.25,Default,,0000,0000,0000,,He won’t let this one slip by.
+Dialogue: 0,0:06:18.29,0:06:21.08,Default,,0000,0000,0000,,As they say about the world\Nof competition…
+Dialogue: 0,0:06:21.95,0:06:25.99,Default,,0000,0000,0000,,It’s impossible to predict\Nwhat will occur…
+Dialogue: 0,0:07:00.70,0:07:03.99,Default,,0000,0000,0000,,Lord Hokage, about Uchiha Sasuke,
+Dialogue: 0,0:07:04.12,0:07:06.37,Default,,0000,0000,0000,,he has not yet arrived at the arena.
+Dialogue: 0,0:07:07.45,0:07:10.08,Default,,0000,0000,0000,,Umm…it’s unavoidable…
+Dialogue: 0,0:07:11.25,0:07:14.75,Default,,0000,0000,0000,,We can’t make the guests\Nwait any longer.
+Dialogue: 0,0:07:15.41,0:07:16.62,Default,,0000,0000,0000,,Another ten minutes.
+Dialogue: 0,0:07:18.08,0:07:20.91,Default,,0000,0000,0000,,Why don’t we wait just\Nanother ten minutes?
+Dialogue: 0,0:07:21.25,0:07:21.99,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:07:22.50,0:07:26.50,Default,,0000,0000,0000,,The guests are looking forward\Nto the next match above all else.
+Dialogue: 0,0:07:27.62,0:07:29.99,Default,,0000,0000,0000,,Cancelling it would be cruel.
+Dialogue: 0,0:07:30.75,0:07:34.45,Default,,0000,0000,0000,,Since it’s come to this,\Nwaiting another ten minutes wouldn’t hurt.
+Dialogue: 0,0:07:37.20,0:07:38.29,Default,,0000,0000,0000,,Lord Hokage…?
+Dialogue: 0,0:07:38.99,0:07:39.75,Default,,0000,0000,0000,,Umm…
+Dialogue: 0,0:07:40.12,0:07:42.04,Default,,0000,0000,0000,,Uchiha, where are you!
+Dialogue: 0,0:07:42.08,0:07:43.95,Default,,0000,0000,0000,,What's keeping you?\NHurry up!
+Dialogue: 0,0:07:45.79,0:07:49.33,Default,,0000,0000,0000,,There is some truth to what\NKazekage says.
+Dialogue: 0,0:07:49.99,0:07:54.99,Default,,0000,0000,0000,,So shall we extend it for\Nten minutes from now.
+Dialogue: 0,0:08:00.37,0:08:03.08,Default,,0000,0000,0000,,So…let Genma know of this.
+Dialogue: 0,0:08:04.12,0:08:04.91,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:08:11.75,0:08:14.95,Default,,0000,0000,0000,,If it stays like this, Uchiha will really\Nbe forced to withdraw.
+Dialogue: 0,0:08:19.25,0:08:22.41,Default,,0000,0000,0000,,I see…a ten-minute extension…
+Dialogue: 0,0:08:28.08,0:08:29.00,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:08:35.66,0:08:37.20,Default,,0000,0000,0000,,Hey, isn’t that…
+Dialogue: 0,0:08:50.99,0:08:53.00,Default,,0000,0000,0000,,Y-You are…
+Dialogue: 0,0:08:56.45,0:09:00.79,Default,,0000,0000,0000,,But, what’s that idiot doing!\NHe’s still not here?!
+Dialogue: 0,0:09:04.99,0:09:06.04,Default,,0000,0000,0000,,Sasuke…!
+Dialogue: 0,0:09:07.54,0:09:08.29,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:09:10.62,0:09:12.54,Default,,0000,0000,0000,,Good of the two of you to make it!
+Dialogue: 0,0:09:12.87,0:09:14.87,Default,,0000,0000,0000,,Come now, hurry into the arena!
+Dialogue: 0,0:09:18.45,0:09:18.99,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:09:21.33,0:09:22.99,Default,,0000,0000,0000,,All right! Here we go!
+Dialogue: 0,0:09:22.99,0:09:24.08,Default,,0000,0000,0000,,Oh! Yeah!
+Dialogue: 0,0:09:24.99,0:09:27.25,Default,,0000,0000,0000,,Most of the first round is finished,
+Dialogue: 0,0:09:27.37,0:09:30.45,Default,,0000,0000,0000,,and the only one left is\NSasuke Uchiha and Gaara.
+Dialogue: 0,0:09:33.95,0:09:35.75,Default,,0000,0000,0000,,H-How about Naruto and\NNeji’s match…?!
+Dialogue: 0,0:09:36.33,0:09:38.29,Default,,0000,0000,0000,,Well, the interesting thing is…
+Dialogue: 0,0:09:41.04,0:09:42.99,Default,,0000,0000,0000,,That Hyuga lost…
+Dialogue: 0,0:09:50.95,0:09:53.75,Default,,0000,0000,0000,,Naruto beat Neji…
+Dialogue: 0,0:10:01.99,0:10:02.95,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:10:08.54,0:10:09.41,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:10:10.99,0:10:11.99,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:10:13.00,0:10:15.99,Default,,0000,0000,0000,,You’re such a…\Ngood guy really…
+Dialogue: 0,0:10:17.00,0:10:19.33,Default,,0000,0000,0000,,– What’s going on with the next match!\N– Let's get on with it!
+Dialogue: 0,0:10:19.37,0:10:21.00,Default,,0000,0000,0000,,Isn’t Uchiha up yet?!
+Dialogue: 0,0:10:21.12,0:10:23.08,Default,,0000,0000,0000,,We want Uchiha! Uchiha!
+Dialogue: 0,0:10:23.20,0:10:24.58,Default,,0000,0000,0000,,Uchiha!
+Dialogue: 0,0:10:26.95,0:10:28.62,Default,,0000,0000,0000,,Hey, it’s almost time.
+Dialogue: 0,0:10:29.29,0:10:30.99,Default,,0000,0000,0000,,Is he really gonna come?!
+Dialogue: 0,0:10:32.04,0:10:32.99,Default,,0000,0000,0000,,He’ll come…
+Dialogue: 0,0:10:38.50,0:10:39.99,Default,,0000,0000,0000,,He’ll definitely come!
+Dialogue: 0,0:10:45.37,0:10:49.70,Default,,0000,0000,0000,,Oh Sasuke, what’s he doing!
+Dialogue: 0,0:10:49.99,0:10:53.04,Default,,0000,0000,0000,,What the heck is Uchiha doing?!
+Dialogue: 0,0:10:55.33,0:10:59.66,Default,,0000,0000,0000,,It seems the rumor that\Nhe’d had a serious injury was true.
+Dialogue: 0,0:10:59.99,0:11:03.50,Default,,0000,0000,0000,,If there’s a win by default,\Nthen this match is mine.
+Dialogue: 0,0:11:07.29,0:11:08.99,Default,,0000,0000,0000,,Thirty more seconds…
+Dialogue: 0,0:11:09.87,0:11:10.45,Default,,0000,0000,0000,,Uchiha!
+Dialogue: 0,0:11:13.50,0:11:14.79,Default,,0000,0000,0000,,Uchiha!
+Dialogue: 0,0:11:21.04,0:11:23.58,Default,,0000,0000,0000,,Sasuke…please come!
+Dialogue: 0,0:11:23.95,0:11:24.87,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:11:25.54,0:11:27.25,Default,,0000,0000,0000,,Hurry up and come!
+Dialogue: 0,0:11:27.45,0:11:29.99,Default,,0000,0000,0000,,It won’t be good if it stays this way!
+Dialogue: 0,0:11:30.99,0:11:32.95,Default,,0000,0000,0000,,The time limit is up.
+Dialogue: 0,0:11:34.12,0:11:35.50,Default,,0000,0000,0000,,So this is it.
+Dialogue: 0,0:11:36.29,0:11:40.99,Default,,0000,0000,0000,,Because the time limit has expired,\Nthe last match…
+Dialogue: 0,0:12:22.00,0:12:24.08,Default,,0000,0000,0000,,See… Here he is…
+Dialogue: 0,0:12:25.25,0:12:28.20,Default,,0000,0000,0000,,Well, I’m sorry we’re late…
+Dialogue: 0,0:12:31.45,0:12:32.41,Default,,0000,0000,0000,,Sasu…
+Dialogue: 0,0:12:34.99,0:12:35.99,Default,,0000,0000,0000,,Your name?
+Dialogue: 0,0:12:39.75,0:12:42.04,Default,,0000,0000,0000,,Sasuke…Uchiha.
+Dialogue: 0,0:12:47.16,0:12:49.70,Default,,0000,0000,0000,,Sasuke…Uchiha.
+Dialogue: 0,0:12:51.16,0:12:52.16,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:12:54.16,0:12:55.41,Default,,0000,0000,0000,,It looks like he made it in time.
+Dialogue: 0,0:12:56.66,0:12:57.33,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:13:00.83,0:13:04.41,Default,,0000,0000,0000,,Darn… Causing others\Nthis much trouble…
+Dialogue: 0,0:13:04.45,0:13:05.50,Default,,0000,0000,0000,,and thinking himself so important!
+Dialogue: 0,0:13:06.66,0:13:09.33,Default,,0000,0000,0000,,Huh! You’re pretty late!
+Dialogue: 0,0:13:09.66,0:13:13.16,Default,,0000,0000,0000,,I thought you weren’t coming\N‘cause you were scared to take me on!
+Dialogue: 0,0:13:13.37,0:13:16.33,Default,,0000,0000,0000,,Who the heck was it that\Nsaid he’d come for sure?
+Dialogue: 0,0:13:17.20,0:13:19.99,Default,,0000,0000,0000,,The first round…did you win?
+Dialogue: 0,0:13:20.25,0:13:21.25,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:13:22.99,0:13:24.87,Default,,0000,0000,0000,,Don’t get too carried away…
+Dialogue: 0,0:13:25.16,0:13:26.33,Default,,0000,0000,0000,,Loser!
+Dialogue: 0,0:13:32.99,0:13:37.87,Default,,0000,0000,0000,,Well, I know it’s somewhat rude\Nto be showing up all flashy like this…
+Dialogue: 0,0:13:38.79,0:13:40.58,Default,,0000,0000,0000,,but was Sasuke…
+Dialogue: 0,0:13:41.58,0:13:42.75,Default,,0000,0000,0000,,disqualified?
+Dialogue: 0,0:13:46.41,0:13:50.45,Default,,0000,0000,0000,,So your habit of tardiness\Nrubbed off on him? Cripes…
+Dialogue: 0,0:13:51.00,0:13:52.83,Default,,0000,0000,0000,,And…what about it?
+Dialogue: 0,0:13:53.54,0:13:58.70,Default,,0000,0000,0000,,It’s all right, Sasuke’s match\Nhas been postponed anyway.
+Dialogue: 0,0:13:59.16,0:14:01.41,Default,,0000,0000,0000,,Your arrival was barely in time, but…
+Dialogue: 0,0:14:02.00,0:14:03.70,Default,,0000,0000,0000,,he hasn’t been disqualified.
+Dialogue: 0,0:14:04.99,0:14:07.20,Default,,0000,0000,0000,,That’s good to hear!
+Dialogue: 0,0:14:18.04,0:14:20.12,Default,,0000,0000,0000,,Don’t lose to a guy like that!
+Dialogue: 0,0:14:21.04,0:14:21.83,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:14:26.87,0:14:29.58,Default,,0000,0000,0000,,I want to fight you too…
+Dialogue: 0,0:14:30.37,0:14:31.20,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:14:35.45,0:14:39.45,Default,,0000,0000,0000,,I want…to fight you too!
+Dialogue: 0,0:14:44.95,0:14:45.41,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:14:48.95,0:14:51.29,Default,,0000,0000,0000,,Yay, Sasuke!
+Dialogue: 0,0:14:51.62,0:14:52.99,Default,,0000,0000,0000,,Uchiha's match is gonna start!
+Dialogue: 0,0:14:52.99,0:14:55.79,Default,,0000,0000,0000,,Shikamaru gave it so much,\Nbut already it’s Sasuke…
+Dialogue: 0,0:14:55.99,0:14:57.87,Default,,0000,0000,0000,,Poor Shikamaru…
+Dialogue: 0,0:14:58.70,0:14:59.99,Default,,0000,0000,0000,,Hey, is that Uchiha?
+Dialogue: 0,0:15:00.70,0:15:03.12,Default,,0000,0000,0000,,I‘m just second fiddle…
+Dialogue: 0,0:15:04.20,0:15:06.04,Default,,0000,0000,0000,,Well, I guess that’s just\Nthe way it goes…
+Dialogue: 0,0:15:07.00,0:15:08.99,Default,,0000,0000,0000,,I’m looking forward to it too.
+Dialogue: 0,0:15:10.70,0:15:13.79,Default,,0000,0000,0000,,Your team is sort of amazing, Sakura.
+Dialogue: 0,0:15:14.16,0:15:15.00,Default,,0000,0000,0000,,What is?
+Dialogue: 0,0:15:15.20,0:15:19.54,Default,,0000,0000,0000,,Well, Naruto did beat that\NNeji Hyuga and…
+Dialogue: 0,0:15:20.00,0:15:22.12,Default,,0000,0000,0000,,Sasuke is an elite member\Nof the Uchiha…
+Dialogue: 0,0:15:22.37,0:15:26.99,Default,,0000,0000,0000,,and it seems like everyone’s\Nanxious to see Sasuke’s match.
+Dialogue: 0,0:15:31.45,0:15:35.99,Default,,0000,0000,0000,,Sasuke will face that Gaara\Nof the Sand whom I couldn’t beat…
+Dialogue: 0,0:15:36.91,0:15:41.66,Default,,0000,0000,0000,,And Naruto beat that Neji\Nthat I had hoped to take down.
+Dialogue: 0,0:15:50.66,0:15:51.75,Default,,0000,0000,0000,,Why is it so…
+Dialogue: 0,0:15:55.70,0:15:57.12,Default,,0000,0000,0000,,Why am I so…
+Dialogue: 0,0:16:03.20,0:16:04.50,Default,,0000,0000,0000,,frustrated!
+Dialogue: 0,0:16:06.95,0:16:07.75,Default,,0000,0000,0000,,Lee…!
+Dialogue: 0,0:16:19.66,0:16:20.79,Default,,0000,0000,0000,,At last…
+Dialogue: 0,0:16:36.00,0:16:38.04,Default,,0000,0000,0000,,Gaara, come down here!
+Dialogue: 0,0:16:38.99,0:16:40.95,Default,,0000,0000,0000,,Naruto! Let’s go up!
+Dialogue: 0,0:16:41.37,0:16:42.08,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:45.41,0:16:48.25,Default,,0000,0000,0000,,When we go up,\Nwe’ll leisurely take the stairs.
+Dialogue: 0,0:16:48.37,0:16:49.83,Default,,0000,0000,0000,,What’s up with you!
+Dialogue: 0,0:16:49.87,0:16:52.00,Default,,0000,0000,0000,,Are you still upset that\NI pushed you down?!
+Dialogue: 0,0:16:59.99,0:17:00.99,Default,,0000,0000,0000,,T-This isn’t good…
+Dialogue: 0,0:17:01.99,0:17:03.99,Default,,0000,0000,0000,,It’s been quite awhile\Nsince I’ve seen Gaara like this.
+Dialogue: 0,0:17:04.45,0:17:06.50,Default,,0000,0000,0000,,H-Hey…Gaara.
+Dialogue: 0,0:17:06.99,0:17:08.70,Default,,0000,0000,0000,,Keep the strategy in mind--!
+Dialogue: 0,0:17:16.50,0:17:18.25,Default,,0000,0000,0000,,Don’t talk to Gaara right now!
+Dialogue: 0,0:17:21.20,0:17:22.20,Default,,0000,0000,0000,,You’ll be killed.
+Dialogue: 0,0:17:29.29,0:17:29.95,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:17:30.99,0:17:31.99,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:17:37.08,0:17:38.99,Default,,0000,0000,0000,,Hey, hurry up!
+Dialogue: 0,0:17:39.58,0:17:42.25,Default,,0000,0000,0000,,Nothing good’s gonna happen\Nin your life if you panic.
+Dialogue: 0,0:17:44.58,0:17:45.25,Default,,0000,0000,0000,,What’s wrong?
+Dialogue: 0,0:17:46.95,0:17:47.54,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:01.99,0:18:06.04,Default,,0000,0000,0000,,Low-level tournaments like this\NChunin Examination are ideal
+Dialogue: 0,0:18:06.08,0:18:08.54,Default,,0000,0000,0000,,as gambling matches.
+Dialogue: 0,0:18:08.99,0:18:12.50,Default,,0000,0000,0000,,A number of feudal lords\Nare here for that purpose.
+Dialogue: 0,0:18:12.99,0:18:16.83,Default,,0000,0000,0000,,So…would you lose this match for us.
+Dialogue: 0,0:18:26.37,0:18:29.25,Default,,0000,0000,0000,,Hey, come on,\Nat least give us an answer.
+Dialogue: 0,0:18:33.99,0:18:35.75,Default,,0000,0000,0000,,Too scared to say anything…
+Dialogue: 0,0:19:16.83,0:19:18.08,Default,,0000,0000,0000,,H-Help!
+Dialogue: 0,0:19:20.91,0:19:22.87,Default,,0000,0000,0000,,S-Stop! Stop!
+Dialogue: 0,0:20:48.66,0:20:50.83,Default,,0000,0000,0000,,If those two in front of us\Nhadn’t been there,
+Dialogue: 0,0:20:51.29,0:20:53.16,Default,,0000,0000,0000,,we probably would’ve been killed…
+Dialogue: 0,0:20:54.25,0:20:58.20,Default,,0000,0000,0000,,This is the first I’ve seen anyone\Nkill people without hesitation like that…
+Dialogue: 0,0:20:59.16,0:21:01.20,Default,,0000,0000,0000,,This isn’t looking good\Neven for Sasuke.
+Dialogue: 0,0:21:03.00,0:21:03.99,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:21:13.52,0:21:15.87,Default,,0000,0000,0000,,So now…at last…
+Dialogue: 0,0:21:19.99,0:21:29.99,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt's nothing to be ashamed about
+Dialogue: 0,0:21:30.37,0:21:41.20,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:51.29,0:21:56.99,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:56.99,0:22:02.00,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:02.41,0:22:07.33,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:07.54,0:22:10.83,Default,,0000,0000,0000,,Let’s go carve the badges\N                                in our chest
+Dialogue: 0,0:22:10.87,0:22:12.58,Default,,0000,0000,0000,,Yes, it’s Show Time,\Nlife begins now.
+Dialogue: 0,0:22:12.62,0:22:22.87,Default,,0000,0000,0000,,Everyone makes mistakes\N It’s nothing to be ashamed about
+Dialogue: 0,0:22:22.99,0:22:33.54,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:33.58,0:22:44.08,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:44.12,0:22:49.87,Default,,0000,0000,0000,,Forge on strong
+Dialogue: 0,0:23:02.83,0:23:04.99,Default,,0000,0000,0000,,Darn it!\NWhat kind of guy is that?!
+Dialogue: 0,0:23:04.99,0:23:09.99,Default,,0000,0000,0000,,Gaara is totally not normal!\NHe doesn't even look at us.
+Dialogue: 0,0:23:10.41,0:23:12.20,Default,,0000,0000,0000,,If anyone fights with him like that…
+Dialogue: 0,0:23:12.66,0:23:15.58,Default,,0000,0000,0000,,Darn! Hey Shikamaru!\NWe've got to go see Kakashi Sensei!
+Dialogue: 0,0:23:15.95,0:23:18.20,Default,,0000,0000,0000,,We've got to stop this fight,\Nno matter what!
+Dialogue: 0,0:23:19.08,0:23:23.20,Default,,0000,0000,0000,,Next time, "Bushy Brow's Jutsu:\NSasuke Style!"
+Dialogue: 0,0:23:23.66,0:23:26.87,Default,,0000,0000,0000,,If nothing's done,\NSasuke's a goner!

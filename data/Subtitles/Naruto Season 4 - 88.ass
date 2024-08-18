@@ -1,0 +1,298 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.02,0:00:12.60,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.65,0:00:16.10,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:16.15,0:00:19.73,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.77,0:00:23.31,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.35,0:00:26.73,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.77,0:00:28.73,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.44,0:00:33.40,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.44,0:00:37.23,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.69,0:00:44.52,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.77,0:00:51.89,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.98,0:00:58.19,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.31,0:01:02.77,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.81,0:01:06.35,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.40,0:01:09.85,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.89,0:01:13.48,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.52,0:01:17.06,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:17.10,0:01:20.77,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.81,0:01:24.35,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.40,0:01:28.56,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:01:59.89,0:02:00.89,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:02:11.94,0:02:13.85,Default,,0000,0000,0000,,My, my arm!
+Dialogue: 0,0:02:13.89,0:02:15.73,Default,,0000,0000,0000,,Are you okay, Lord Orochimaru?
+Dialogue: 0,0:02:16.19,0:02:17.69,Default,,0000,0000,0000,,Please take this medicine quickly.
+Dialogue: 0,0:02:37.10,0:02:38.27,Default,,0000,0000,0000,,Oh, my…
+Dialogue: 0,0:02:38.73,0:02:41.40,Default,,0000,0000,0000,,Just as I get back,\NI have to clean the room.
+Dialogue: 0,0:02:42.35,0:02:44.48,Default,,0000,0000,0000,,Please make sure you to take\Nyour medicine.
+Dialogue: 0,0:02:45.40,0:02:48.35,Default,,0000,0000,0000,,I don't need that kind\Nof lip service.
+Dialogue: 0,0:02:49.06,0:02:51.69,Default,,0000,0000,0000,,It's medicine that I prescribed.
+Dialogue: 0,0:02:52.06,0:02:54.69,Default,,0000,0000,0000,,The pain should subside\Nat least slightly.
+Dialogue: 0,0:02:54.98,0:02:57.56,Default,,0000,0000,0000,,The pain on this arm\Nthat seems to burn…
+Dialogue: 0,0:02:57.90,0:03:01.31,Default,,0000,0000,0000,,I never thought that it cause\Nthis much suffering.
+Dialogue: 0,0:03:01.77,0:03:07.31,Default,,0000,0000,0000,,Sarutobi…known as Third Hokage.\Nlt's his last curse, after all.
+Dialogue: 0,0:03:07.48,0:03:08.81,Default,,0000,0000,0000,,Enough of the talking…
+Dialogue: 0,0:03:09.31,0:03:11.48,Default,,0000,0000,0000,,More importantly,\Nhas that individual been found?
+Dialogue: 0,0:03:11.89,0:03:15.69,Default,,0000,0000,0000,,Yes… She seems to be at a place\Ncalled Tanzaku Town.
+Dialogue: 0,0:03:17.60,0:03:18.90,Default,,0000,0000,0000,,Tanzaku Town…
+Dialogue: 0,0:03:22.85,0:03:23.89,Default,,0000,0000,0000,,Is that so…?
+Dialogue: 0,0:03:24.85,0:03:28.69,Default,,0000,0000,0000,,But the opponent is one of the Sannin,\Nthe Legendary Three Ninjas.
+Dialogue: 0,0:03:29.56,0:03:31.15,Default,,0000,0000,0000,,It won’t be that simple.
+Dialogue: 0,0:03:34.85,0:03:37.89,Default,,0000,0000,0000,,Good medicine tends to taste bitter.
+Dialogue: 0,0:03:49.60,0:03:50.44,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:03:51.81,0:03:55.94,Default,,0000,0000,0000,,It’s the same one…\NBut this is the trick?
+Dialogue: 0,0:03:56.48,0:03:59.27,Default,,0000,0000,0000,,You’re the type who was yelled at\Nat the academy
+Dialogue: 0,0:03:59.31,0:04:00.65,Default,,0000,0000,0000,,for not having concentration, right?
+Dialogue: 0,0:04:01.02,0:04:03.23,Default,,0000,0000,0000,,That doesn’t have anything\Nto do with me now.
+Dialogue: 0,0:04:04.23,0:04:05.81,Default,,0000,0000,0000,,Look at this paper.
+Dialogue: 0,0:04:06.89,0:04:07.81,Default,,0000,0000,0000,,Uh?
+Dialogue: 0,0:04:08.73,0:04:09.56,Default,,0000,0000,0000,,I’ve seen it.
+Dialogue: 0,0:04:09.89,0:04:10.77,Default,,0000,0000,0000,,Fine, then.
+Dialogue: 0,0:04:10.89,0:04:12.94,Default,,0000,0000,0000,,Look at it again.
+Dialogue: 0,0:04:16.98,0:04:17.85,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:04:23.89,0:04:24.94,Default,,0000,0000,0000,,So what is this?
+Dialogue: 0,0:04:25.60,0:04:29.56,Default,,0000,0000,0000,,It’s not something that\NI need to explain in length,
+Dialogue: 0,0:04:29.60,0:04:32.02,Default,,0000,0000,0000,,but when you first looked\Nat this blank piece of paper,
+Dialogue: 0,0:04:32.06,0:04:34.65,Default,,0000,0000,0000,,you just glanced at\Nthe whole thing, correct?
+Dialogue: 0,0:04:35.19,0:04:36.15,Default,,0000,0000,0000,,Probably.
+Dialogue: 0,0:04:36.52,0:04:38.89,Default,,0000,0000,0000,,Then where do you look on this one?
+Dialogue: 0,0:04:41.40,0:04:43.56,Default,,0000,0000,0000,,Most likely the point in the middle?
+Dialogue: 0,0:04:45.02,0:04:48.44,Default,,0000,0000,0000,,When a human being looks at\Njust a blank piece of paper,
+Dialogue: 0,0:04:48.81,0:04:52.02,Default,,0000,0000,0000,,he doesn’t know where to look,\Nso the eyes wander.
+Dialogue: 0,0:04:55.89,0:04:58.65,Default,,0000,0000,0000,,But if you put even a single point on it,
+Dialogue: 0,0:04:58.89,0:05:00.44,Default,,0000,0000,0000,,the mind focuses there…
+Dialogue: 0,0:05:01.19,0:05:05.69,Default,,0000,0000,0000,,This is concentrating at a single point\Nand as you focus your mind,
+Dialogue: 0,0:05:05.73,0:05:10.27,Default,,0000,0000,0000,,you become spiritually stable and\Nyou are able to extract unexpected power.
+Dialogue: 0,0:05:11.10,0:05:12.35,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:13.31,0:05:16.02,Default,,0000,0000,0000,,When you opened a hole\Non the rubber ball,
+Dialogue: 0,0:05:16.44,0:05:17.56,Default,,0000,0000,0000,,you must have been\Nconcentrating desperately
+Dialogue: 0,0:05:17.60,0:05:21.10,Default,,0000,0000,0000,,to fill up the Chakra\Nin the palm of your hand.
+Dialogue: 0,0:05:21.65,0:05:22.60,Default,,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:05:23.52,0:05:25.48,Default,,0000,0000,0000,,When you concentrate,\Npower emerges.
+Dialogue: 0,0:05:25.89,0:05:29.89,Default,,0000,0000,0000,,But without a target,\Nit is difficult to concentrate.
+Dialogue: 0,0:05:30.89,0:05:32.15,Default,,0000,0000,0000,,That’s why we have this…
+Dialogue: 0,0:05:32.48,0:05:34.85,Default,,0000,0000,0000,,Listen Naruto, from now on,
+Dialogue: 0,0:05:34.89,0:05:37.52,Default,,0000,0000,0000,,when you store up the Chakra\Nyou build in your right hand,
+Dialogue: 0,0:05:37.73,0:05:41.23,Default,,0000,0000,0000,,try to store it up by concentrating\Non that mark.
+Dialogue: 0,0:05:42.27,0:05:43.35,Default,,0000,0000,0000,,Concentrate…
+Dialogue: 0,0:05:44.77,0:05:47.56,Default,,0000,0000,0000,,All right, I’ll try it!
+Dialogue: 0,0:05:48.02,0:05:53.89,Default,,0000,0000,0000,,Focal Point:\NThe Mark of the Leaf
+Dialogue: 0,0:05:57.60,0:05:59.89,Default,,0000,0000,0000,,Concentrate!
+Dialogue: 0,0:06:12.89,0:06:17.10,Default,,0000,0000,0000,,Darn it. It’s not supposed to be like this.
+Dialogue: 0,0:06:17.40,0:06:18.89,Default,,0000,0000,0000,,It has to break like “pang.”
+Dialogue: 0,0:06:25.19,0:06:26.48,Default,,0000,0000,0000,,Concentrate!
+Dialogue: 0,0:06:43.98,0:06:46.89,Default,,0000,0000,0000,,Hello… I’d like to make a little inquiry.
+Dialogue: 0,0:07:09.27,0:07:10.06,Default,,0000,0000,0000,,Dang it.
+Dialogue: 0,0:07:17.89,0:07:19.44,Default,,0000,0000,0000,,Concentrate.
+Dialogue: 0,0:07:43.89,0:07:45.89,Default,,0000,0000,0000,,Concentrate!
+Dialogue: 0,0:07:53.31,0:07:54.40,Default,,0000,0000,0000,,No good.
+Dialogue: 0,0:08:06.02,0:08:10.89,Default,,0000,0000,0000,,Dang it. What does it mean\Nto concentrate?!
+Dialogue: 0,0:08:26.89,0:08:29.89,Default,,0000,0000,0000,,Damn you, Sarutobi!
+Dialogue: 0,0:08:53.48,0:08:54.35,Default,,0000,0000,0000,,All right then…
+Dialogue: 0,0:08:54.40,0:08:57.10,Default,,0000,0000,0000,,I’m going again to gather\Nsome information.
+Dialogue: 0,0:08:57.19,0:08:59.81,Default,,0000,0000,0000,,What…? But you just came.
+Dialogue: 0,0:08:59.98,0:09:02.35,Default,,0000,0000,0000,,I don’t have any time to waste.
+Dialogue: 0,0:09:04.73,0:09:05.48,Default,,0000,0000,0000,,Hey, hey…!
+Dialogue: 0,0:09:05.89,0:09:08.31,Default,,0000,0000,0000,,Isn’t there going to be even\Na little soulful game of catch
+Dialogue: 0,0:09:08.35,0:09:09.89,Default,,0000,0000,0000,,between the master and pupil?
+Dialogue: 0,0:09:11.89,0:09:13.85,Default,,0000,0000,0000,,You scoundrel.
+Dialogue: 0,0:09:18.89,0:09:20.15,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:09:21.31,0:09:23.06,Default,,0000,0000,0000,,Here,  the game of catch is over.
+Dialogue: 0,0:09:25.60,0:09:27.06,Default,,0000,0000,0000,,See you later.
+Dialogue: 0,0:09:30.90,0:09:35.98,Default,,0000,0000,0000,,Humph… I’ll forget about that Pervy Sage\Nand work hard by myself.
+Dialogue: 0,0:09:39.02,0:09:42.60,Default,,0000,0000,0000,,That’s the only way, Naruto…
+Dialogue: 0,0:09:42.89,0:09:44.27,Default,,0000,0000,0000,,You have to do this training alone.
+Dialogue: 0,0:09:45.10,0:09:47.19,Default,,0000,0000,0000,,You have the ability to approach\Nthe Fourth Hokage’s level…
+Dialogue: 0,0:09:47.69,0:09:49.10,Default,,0000,0000,0000,,Grasp it by yourself!
+Dialogue: 0,0:09:53.06,0:09:56.89,Default,,0000,0000,0000,,Hmm… Never seen her.
+Dialogue: 0,0:09:57.23,0:09:58.52,Default,,0000,0000,0000,,If that’s the case…
+Dialogue: 0,0:09:58.89,0:10:00.35,Default,,0000,0000,0000,,Sorry to bother you.
+Dialogue: 0,0:10:00.89,0:10:02.89,Default,,0000,0000,0000,,I know the person.
+Dialogue: 0,0:10:05.69,0:10:07.94,Default,,0000,0000,0000,,As well as where she is right now.
+Dialogue: 0,0:10:08.89,0:10:10.02,Default,,0000,0000,0000,,I’ll buy you a drink.
+Dialogue: 0,0:10:11.40,0:10:15.69,Default,,0000,0000,0000,,There’s no need.\NI was able to win a tidy sum…
+Dialogue: 0,0:10:15.89,0:10:17.10,Default,,0000,0000,0000,,Thanks to that lady.
+Dialogue: 0,0:10:17.56,0:10:20.23,Default,,0000,0000,0000,,Yeah…you are indeed\Nthe Legendary Sitting Duck.
+Dialogue: 0,0:10:21.19,0:10:23.94,Default,,0000,0000,0000,,She lost again, huh.
+Dialogue: 0,0:10:24.89,0:10:26.89,Default,,0000,0000,0000,,Her losses started to pile up…
+Dialogue: 0,0:10:27.06,0:10:28.94,Default,,0000,0000,0000,,So she was talking about\Nchanging her location.
+Dialogue: 0,0:10:29.60,0:10:30.56,Default,,0000,0000,0000,,Where to?
+Dialogue: 0,0:10:32.48,0:10:37.89,Default,,0000,0000,0000,,One of the Sannin, Lady Tsunade,\Nis staying at Tanzaku Town over there.
+Dialogue: 0,0:10:38.90,0:10:41.35,Default,,0000,0000,0000,,Then this arm can finally…
+Dialogue: 0,0:10:41.81,0:10:43.10,Default,,0000,0000,0000,,Even if it’s good medicine,
+Dialogue: 0,0:10:43.52,0:10:46.56,Default,,0000,0000,0000,,you won’t get away with just\Na bitter taste with that person.
+Dialogue: 0,0:10:46.90,0:10:48.19,Default,,0000,0000,0000,,It’s fine.
+Dialogue: 0,0:10:55.06,0:10:57.89,Default,,0000,0000,0000,,Seven, seven, seven…
+Dialogue: 0,0:10:59.89,0:11:02.02,Default,,0000,0000,0000,,Seven, seven, seven…
+Dialogue: 0,0:11:04.31,0:11:07.31,Default,,0000,0000,0000,,Seven, seven, seven…
+Dialogue: 0,0:11:08.90,0:11:09.98,Default,,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:11:11.90,0:11:13.89,Default,,0000,0000,0000,,Congratulations to the customer!
+Dialogue: 0,0:11:13.89,0:11:16.65,Default,,0000,0000,0000,,Fever has started\Non machine number 44.
+Dialogue: 0,0:11:16.98,0:11:19.89,Default,,0000,0000,0000,,Now, please keep on getting it out\Nlike a flood.
+Dialogue: 0,0:11:20.10,0:11:23.44,Default,,0000,0000,0000,,Lady Tsunade, a rare thing does happen\Nonce in while.
+Dialogue: 0,0:11:24.89,0:11:26.81,Default,,0000,0000,0000,,A 3-7 for me?
+Dialogue: 0,0:11:32.73,0:11:34.85,Default,,0000,0000,0000,,Oh wow, lady.
+Dialogue: 0,0:11:34.89,0:11:36.89,Default,,0000,0000,0000,,Yeah, what a great work.
+Dialogue: 0,0:11:36.90,0:11:38.90,Default,,0000,0000,0000,,Wish I could be favored\Nby good fortune too.
+Dialogue: 0,0:11:39.89,0:11:41.89,Default,,0000,0000,0000,,– Oh, here it comes again!\N– Here it comes again!
+Dialogue: 0,0:11:42.06,0:11:44.89,Default,,0000,0000,0000,,Yay…it’s “fever” again!
+Dialogue: 0,0:11:49.35,0:11:51.89,Default,,0000,0000,0000,,A person like me pulls\Na big hit like this…
+Dialogue: 0,0:11:53.48,0:11:55.23,Default,,0000,0000,0000,,I have a bad premonition.
+Dialogue: 0,0:11:57.23,0:12:00.89,Default,,0000,0000,0000,,I also have some knowledge\Nregarding Lady Tsunade…
+Dialogue: 0,0:12:01.44,0:12:03.73,Default,,0000,0000,0000,,I did use to be part of\Nthe Medical Corps, after all.
+Dialogue: 0,0:12:05.06,0:12:08.77,Default,,0000,0000,0000,,She was the first person to propose\Nwhat is now an accepted practice
+Dialogue: 0,0:12:08.89,0:12:13.89,Default,,0000,0000,0000,,of assigning one medical specialist\Nto a small squad of four.
+Dialogue: 0,0:12:14.90,0:12:16.98,Default,,0000,0000,0000,,This was a very revolutionary- idea…
+Dialogue: 0,0:12:17.52,0:12:20.89,Default,,0000,0000,0000,,A small combat unit that doesn’t\Neven have emergency medical skills,
+Dialogue: 0,0:12:20.90,0:12:25.23,Default,,0000,0000,0000,,what would happen to them in a battlefield\Nis clearer than seeing fire.
+Dialogue: 0,0:12:28.44,0:12:30.77,Default,,0000,0000,0000,,Countless experiences in war
+Dialogue: 0,0:12:30.90,0:12:34.69,Default,,0000,0000,0000,,simply became knowledge\Nto equip themselves with.
+Dialogue: 0,0:12:34.90,0:12:39.31,Default,,0000,0000,0000,,Many who were sacrificed\Nled to the creation of that style.
+Dialogue: 0,0:12:40.02,0:12:42.85,Default,,0000,0000,0000,,A person understands the nature\Nof things for the first time
+Dialogue: 0,0:12:42.89,0:12:45.65,Default,,0000,0000,0000,,after losing them.
+Dialogue: 0,0:12:45.94,0:12:51.23,Default,,0000,0000,0000,,And the thing created by\None of the legendary Sannin,
+Dialogue: 0,0:12:51.89,0:12:54.48,Default,,0000,0000,0000,,who is known as the medical specialist
+Dialogue: 0,0:12:55.90,0:12:58.02,Default,,0000,0000,0000,,is that sacrifice.
+Dialogue: 0,0:13:03.65,0:13:04.73,Default,,0000,0000,0000,,Not working…
+Dialogue: 0,0:13:05.56,0:13:08.60,Default,,0000,0000,0000,,I got to concentrate even more.
+Dialogue: 0,0:13:11.60,0:13:13.15,Default,,0000,0000,0000,,Concentrate, concentrate.
+Dialogue: 0,0:13:14.40,0:13:15.94,Default,,0000,0000,0000,,Concentrate, concentrate.
+Dialogue: 0,0:13:16.89,0:13:17.89,Default,,0000,0000,0000,,Concentrate!
+Dialogue: 0,0:13:27.35,0:13:28.89,Default,,0000,0000,0000,,Concentrate…
+Dialogue: 0,0:13:31.56,0:13:33.85,Default,,0000,0000,0000,,Concentrate on one point.
+Dialogue: 0,0:13:42.52,0:13:43.89,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:13:50.98,0:13:52.44,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:13:55.60,0:13:57.89,Default,,0000,0000,0000,,That stupid perve’s face floats up\Nin my head
+Dialogue: 0,0:13:57.90,0:13:59.89,Default,,0000,0000,0000,,and I can’t even concentrate.
+Dialogue: 0,0:14:02.31,0:14:03.94,Default,,0000,0000,0000,,Oh boy…
+Dialogue: 0,0:14:04.27,0:14:08.15,Default,,0000,0000,0000,,Some gal somewhere is talking\Nabout me again.
+Dialogue: 0,0:14:08.40,0:14:10.52,Default,,0000,0000,0000,,Pinball Games
+Dialogue: 0,0:14:10.56,0:14:12.94,Default,,0000,0000,0000,,Wait for me, Lady Tsunade!
+Dialogue: 0,0:14:13.60,0:14:14.89,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:14:14.89,0:14:18.65,Default,,0000,0000,0000,,Your winning this much is like a miracle…
+Dialogue: 0,0:14:18.77,0:14:20.89,Default,,0000,0000,0000,,But you don’t look pleased at all.
+Dialogue: 0,0:14:22.10,0:14:23.10,Default,,0000,0000,0000,,This town.
+Dialogue: 0,0:14:23.90,0:14:24.81,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:24.89,0:14:26.40,Default,,0000,0000,0000,,I get a bad premonition.
+Dialogue: 0,0:14:27.06,0:14:28.23,Default,,0000,0000,0000,,We’re going to hurry up and leave.
+Dialogue: 0,0:14:28.27,0:14:31.23,Default,,0000,0000,0000,,But this is a tourist resort…
+Dialogue: 0,0:14:31.27,0:14:33.89,Default,,0000,0000,0000,,We should take our time and\Ngo see the famous castle and all.
+Dialogue: 0,0:14:33.89,0:14:36.65,Default,,0000,0000,0000,,Then we’re going to hurry up\Nand see it so we can leave.
+Dialogue: 0,0:14:36.89,0:14:38.44,Default,,0000,0000,0000,,But…Lady Tsunade!
+Dialogue: 0,0:14:40.89,0:14:41.85,Default,,0000,0000,0000,,Lord Orochimaru!
+Dialogue: 0,0:14:42.85,0:14:45.40,Default,,0000,0000,0000,,Let’s get this business over with.
+Dialogue: 0,0:14:46.06,0:14:49.23,Default,,0000,0000,0000,,Even if we have to use\Na slightly rough method.
+Dialogue: 0,0:14:56.15,0:14:57.31,Default,,0000,0000,0000,,I got to do it.
+Dialogue: 0,0:14:59.60,0:15:00.19,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:15:00.89,0:15:04.89,Default,,0000,0000,0000,,Ouch… It hurts so much,\NI can’t even build up my Chakra…
+Dialogue: 0,0:15:06.60,0:15:08.81,Default,,0000,0000,0000,,He might be reaching his limit soon.
+Dialogue: 0,0:15:18.89,0:15:22.85,Default,,0000,0000,0000,,Just a bit…just a bit more rest.
+Dialogue: 0,0:16:01.60,0:16:02.85,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:16:03.19,0:16:04.89,Default,,0000,0000,0000,,You guys, we’re in class right now.
+Dialogue: 0,0:16:06.69,0:16:08.89,Default,,0000,0000,0000,,You…fools!
+Dialogue: 0,0:16:13.60,0:16:17.89,Default,,0000,0000,0000,,You guys have no concentration at all…!
+Dialogue: 0,0:16:18.23,0:16:21.65,Default,,0000,0000,0000,,This is not the way to\Nbecome fine Ninja.
+Dialogue: 0,0:16:21.89,0:16:26.65,Default,,0000,0000,0000,,How can we stay still at a table,\Nright, Akamaru?
+Dialogue: 0,0:16:28.06,0:16:30.44,Default,,0000,0000,0000,,I’m hungry.
+Dialogue: 0,0:16:30.65,0:16:33.10,Default,,0000,0000,0000,,Sensei, if it’s a scolding,\Ndo it quickly.
+Dialogue: 0,0:16:34.89,0:16:37.23,Default,,0000,0000,0000,,What the--?! You, you guys…
+Dialogue: 0,0:16:37.89,0:16:39.89,Default,,0000,0000,0000,,From now, we will have\Nan after-school lesson
+Dialogue: 0,0:16:39.89,0:16:42.06,Default,,0000,0000,0000,,to teach you guys more concentration!
+Dialogue: 0,0:16:42.31,0:16:43.89,Default,,0000,0000,0000,,– What?! 					– What?!
+Dialogue: 0,0:16:48.90,0:16:50.06,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:16:50.89,0:16:52.94,Default,,0000,0000,0000,,You guys are going to do from now
+Dialogue: 0,0:16:52.98,0:16:54.89,Default,,0000,0000,0000,,what the predecessors of\Nthe Leaf Village
+Dialogue: 0,0:16:54.89,0:16:57.19,Default,,0000,0000,0000,,used to perform every day\Nas a concentration method!
+Dialogue: 0,0:16:58.56,0:17:00.15,Default,,0000,0000,0000,,It is training to build up Chakra
+Dialogue: 0,0:17:00.19,0:17:04.44,Default,,0000,0000,0000,,by concentrating your entire energy\Non the leaf on your forehead.
+Dialogue: 0,0:17:04.89,0:17:07.23,Default,,0000,0000,0000,,It’s an ancient way of learning
+Dialogue: 0,0:17:07.27,0:17:09.27,Default,,0000,0000,0000,,how not to become distracted\Nfrom anything else
+Dialogue: 0,0:17:09.31,0:17:10.85,Default,,0000,0000,0000,,by concentrating on a single point,\Nthe leaf.
+Dialogue: 0,0:17:12.89,0:17:16.19,Default,,0000,0000,0000,,The one who hones his concentration\N is truly a great Ninja…
+Dialogue: 0,0:17:16.89,0:17:19.89,Default,,0000,0000,0000,,This is the origin of the Leaf Symbol\Non the headband.
+Dialogue: 0,0:17:20.56,0:17:21.89,Default,,0000,0000,0000,,That sounds like a lie.
+Dialogue: 0,0:17:21.89,0:17:25.48,Default,,0000,0000,0000,,Aren’t you making that story up\Nto force us to try harder?
+Dialogue: 0,0:17:25.60,0:17:27.90,Default,,0000,0000,0000,,I’m not making this up!\Nlt’s a true story.
+Dialogue: 0,0:17:27.94,0:17:30.56,Default,,0000,0000,0000,,Anyhow, can you really become\Na great Ninja
+Dialogue: 0,0:17:30.60,0:17:31.98,Default,,0000,0000,0000,,by just polishing your concentration?
+Dialogue: 0,0:17:32.02,0:17:35.65,Default,,0000,0000,0000,,At any rate,\Na great Ninja is a guy who’s strong.
+Dialogue: 0,0:17:35.89,0:17:37.19,Default,,0000,0000,0000,,Hey, you have a point.
+Dialogue: 0,0:17:37.44,0:17:38.65,Default,,0000,0000,0000,,This stuff…
+Dialogue: 0,0:17:41.15,0:17:42.81,Default,,0000,0000,0000,,Bye, bye Sensei!
+Dialogue: 0,0:17:43.40,0:17:45.44,Default,,0000,0000,0000,,Hey, hey, you guys wait a minute.
+Dialogue: 0,0:17:45.48,0:17:47.65,Default,,0000,0000,0000,,– We won’t wait!\N– We don't have time for that!
+Dialogue: 0,0:17:48.06,0:17:51.52,Default,,0000,0000,0000,,Hey! You misfits!
+Dialogue: 0,0:17:56.02,0:17:57.81,Default,,0000,0000,0000,,This is the same thing.
+Dialogue: 0,0:18:00.19,0:18:04.56,Default,,0000,0000,0000,,I should have paid more attention\Nto what Iruka Sensei was saying…
+Dialogue: 0,0:18:05.89,0:18:07.15,Default,,0000,0000,0000,,I’m so stupid.
+Dialogue: 0,0:18:10.56,0:18:14.44,Default,,0000,0000,0000,,But nothing will start\Nif I just keep on regretting.
+Dialogue: 0,0:18:19.06,0:18:23.23,Default,,0000,0000,0000,,All right, I’m going to master this!
+Dialogue: 0,0:18:29.89,0:18:31.98,Default,,0000,0000,0000,,Concentrate, concentrate…
+Dialogue: 0,0:18:33.89,0:18:35.06,Default,,0000,0000,0000,,Concentrate!
+Dialogue: 0,0:18:36.94,0:18:42.23,Default,,0000,0000,0000,,Wow! Tanzaku Castle sure does have\Na commanding presence!
+Dialogue: 0,0:18:42.89,0:18:46.89,Default,,0000,0000,0000,,It’s worth being designated\Nas the cultural heritage.
+Dialogue: 0,0:18:47.06,0:18:48.94,Default,,0000,0000,0000,,Don’t dally…
+Dialogue: 0,0:18:49.52,0:18:51.19,Default,,0000,0000,0000,,We’re going to hurry up\Nand leave this town.
+Dialogue: 0,0:18:51.89,0:18:54.40,Default,,0000,0000,0000,,Lady Tsunade, please look more carefully…
+Dialogue: 0,0:18:54.44,0:18:56.40,Default,,0000,0000,0000,,It costs nothing to view.
+Dialogue: 0,0:19:00.89,0:19:01.89,Default,,0000,0000,0000,,Lady Tsunade?
+Dialogue: 0,0:19:05.23,0:19:07.48,Default,,0000,0000,0000,,What is this chill?
+Dialogue: 0,0:19:43.35,0:19:44.02,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:20:21.60,0:20:22.89,Default,,0000,0000,0000,,What a kid…
+Dialogue: 0,0:20:23.60,0:20:26.69,Default,,0000,0000,0000,,Raising the density in Chakra\Nto the point that it burns the palm.
+Dialogue: 0,0:20:27.94,0:20:30.77,Default,,0000,0000,0000,,He never ceases to amaze me.
+Dialogue: 0,0:20:36.60,0:20:37.73,Default,,0000,0000,0000,,It broke.
+Dialogue: 0,0:20:38.06,0:20:41.10,Default,,0000,0000,0000,,Good! The second step seems\N to be complete.
+Dialogue: 0,0:20:41.44,0:20:44.69,Default,,0000,0000,0000,,Hurry… The third step.
+Dialogue: 0,0:20:44.89,0:20:46.65,Default,,0000,0000,0000,,That will come later.
+Dialogue: 0,0:20:46.73,0:20:48.69,Default,,0000,0000,0000,,We’ll now go meet Tsunade.
+Dialogue: 0,0:21:01.02,0:21:01.90,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:21:06.65,0:21:07.77,Default,,0000,0000,0000,,Orochimaru.
+Dialogue: 0,0:21:15.69,0:21:17.48,Default,,0000,0000,0000,,I found you.
+Dialogue: 0,0:21:22.81,0:21:26.77,Default,,0000,0000,0000,,A cycle of hardship, right?
+Dialogue: 0,0:21:27.73,0:21:31.73,Default,,0000,0000,0000,,Inside, we were crying, right?
+Dialogue: 0,0:21:32.89,0:21:40.89,Default,,0000,0000,0000,,But the one thing we won't give up\Nis the dream we've chosen, right?
+Dialogue: 0,0:21:41.89,0:21:43.90,Default,,0000,0000,0000,,It's a secondary role,
+Dialogue: 0,0:21:46.81,0:21:49.89,Default,,0000,0000,0000,,a role in the shadows
+Dialogue: 0,0:21:50.15,0:21:55.10,Default,,0000,0000,0000,,But in reaching for that dream,
+Dialogue: 0,0:21:55.23,0:22:00.85,Default,,0000,0000,0000,,let us stay centered,\Nlet us stay true
+Dialogue: 0,0:22:00.89,0:22:05.89,Default,,0000,0000,0000,,Over and over,\Nwe hung on without giving up
+Dialogue: 0,0:22:05.89,0:22:10.89,Default,,0000,0000,0000,,Over and over,\Nwe kept coming back up
+Dialogue: 0,0:22:10.89,0:22:20.02,Default,,0000,0000,0000,,Over and over,\Nwe believed and dreamed
+Dialogue: 0,0:22:20.56,0:22:25.44,Default,,0000,0000,0000,,Over and over,\Nwe've seen fools
+Dialogue: 0,0:22:50.81,0:22:55.19,Default,,0000,0000,0000,,I can master the third step while walking?\NGive me a break!
+Dialogue: 0,0:22:55.23,0:22:58.56,Default,,0000,0000,0000,,Fool! If we don't hurry it up,\Nwe'll lose Tsunade!
+Dialogue: 0,0:22:58.60,0:23:01.15,Default,,0000,0000,0000,,Besides, she's short-tempered\Nand impatient!
+Dialogue: 0,0:23:01.19,0:23:02.52,Default,,0000,0000,0000,,Where are we heading?
+Dialogue: 0,0:23:02.52,0:23:05.73,Default,,0000,0000,0000,,If she's here in this town, we'll just\Nlook for her from somewhere high up.
+Dialogue: 0,0:23:05.77,0:23:07.31,Default,,0000,0000,0000,,– So we'll climb up a castle.\N– Castle?!
+Dialogue: 0,0:23:07.35,0:23:09.85,Default,,0000,0000,0000,,– Can't you see over there?!\N– Which way is "over there"?
+Dialogue: 0,0:23:09.89,0:23:10.89,Default,,0000,0000,0000,,I'm saying…
+Dialogue: 0,0:23:10.89,0:23:13.85,Default,,0000,0000,0000,,Oh! What the--?!
+Dialogue: 0,0:23:14.52,0:23:16.15,Default,,0000,0000,0000,,Next time: "An Impossible Choice:\NThe Pain Within Tsunade's Heart"

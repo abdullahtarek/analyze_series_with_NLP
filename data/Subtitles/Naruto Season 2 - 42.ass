@@ -1,0 +1,323 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.52,0:00:09.19,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.22,0:00:13.09,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.12,0:00:17.20,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.56,0:00:19.96,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.00,0:00:24.14,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.17,0:00:28.17,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.54,0:00:34.45,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.01,0:00:38.02,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.52,0:00:42.55,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.32,0:00:44.56,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.86,0:00:47.56,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.57,0:01:00.94,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.14,0:01:02.41,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.44,0:01:06.21,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.54,0:01:11.65,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:11.92,0:01:13.38,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.42,0:01:14.72,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.75,0:01:21.13,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:42.55,0:01:44.55,Default,,0000,0000,0000,,Sakura Haruno vs. Ino Yamanaka
+Dialogue: 0,0:01:46.12,0:01:47.52,Default,,0000,0000,0000,,At this point in time,
+Dialogue: 0,0:01:49.72,0:01:52.56,Default,,0000,0000,0000,,I don’t even plan to fight\Nover Sasuke with you.
+Dialogue: 0,0:01:53.46,0:01:54.46,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:01:54.56,0:01:57.56,Default,,0000,0000,0000,,Do you know who\Nyou’re lipping off to?!
+Dialogue: 0,0:01:58.40,0:02:00.93,Default,,0000,0000,0000,,Don’t press your luck,\Ncrybaby Sakura!
+Dialogue: 0,0:02:01.13,0:02:05.54,Default,,0000,0000,0000,,It seems like...\Nit seems like Sakura was out of line!
+Dialogue: 0,0:02:05.54,0:02:08.91,Default,,0000,0000,0000,,Ino’s eyes show incredible anger.\NShe’s scary.
+Dialogue: 0,0:02:09.21,0:02:10.54,Default,,0000,0000,0000,,Hmm.
+Dialogue: 0,0:02:11.38,0:02:12.31,Default,,0000,0000,0000,,That's not it…
+Dialogue: 0,0:02:12.34,0:02:12.78,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:13.54,0:02:16.01,Default,,0000,0000,0000,,Sakura’s not the kind of kid\Nto do things
+Dialogue: 0,0:02:16.05,0:02:18.75,Default,,0000,0000,0000,,like needlessly flaunt her\Nown power and hurt people.
+Dialogue: 0,0:02:19.88,0:02:23.86,Default,,0000,0000,0000,,She doesn’t like having Ino\Ntaking pity on her and pulling punches.
+Dialogue: 0,0:02:43.11,0:02:44.21,Default,,0000,0000,0000,,– This time for sure,\N– This time for sure,
+Dialogue: 0,0:02:45.68,0:02:46.81,Default,,0000,0000,0000,,– with full strength,\N– with full strength,
+Dialogue: 0,0:02:49.51,0:02:52.98,Default,,0000,0000,0000,,– a fair... fight!\N– a fair... fight!
+Dialogue: 0,0:02:53.85,0:02:59.56,Default,,0000,0000,0000,,The Ultimate Battle: Cha!
+Dialogue: 0,0:03:15.67,0:03:17.54,Default,,0000,0000,0000,,Just a Clone Jutsu…?!
+Dialogue: 0,0:03:18.18,0:03:20.71,Default,,0000,0000,0000,,This isn’t a Ninja Academy’s\Ngraduation exam!
+Dialogue: 0,0:03:21.21,0:03:23.01,Default,,0000,0000,0000,,You think you can beat me…
+Dialogue: 0,0:03:23.05,0:03:24.92,Default,,0000,0000,0000,,with a textbook ninja art?!
+Dialogue: 0,0:03:26.42,0:03:29.19,Default,,0000,0000,0000,,If I look carefully, I can find out,\Nwhich is the real one right away…
+Dialogue: 0,0:03:29.55,0:03:31.92,Default,,0000,0000,0000,,Chakra to my feet at a burst…Then…
+Dialogue: 0,0:03:32.19,0:03:33.39,Default,,0000,0000,0000,,repel off the ground!
+Dialogue: 0,0:03:33.56,0:03:34.13,Default,,0000,0000,0000,,Fast!
+Dialogue: 0,0:03:41.07,0:03:43.53,Default,,0000,0000,0000,,If you think I’m the crybaby Sakura\NI was until recently,
+Dialogue: 0,0:03:43.53,0:03:44.80,Default,,0000,0000,0000,,you’ll get your fingers burned!
+Dialogue: 0,0:03:46.17,0:03:47.94,Default,,0000,0000,0000,,Come like you mean it, Ino!
+Dialogue: 0,0:03:50.84,0:03:53.54,Default,,0000,0000,0000,,I appreciate you saying that…
+Dialogue: 0,0:03:54.55,0:03:57.25,Default,,0000,0000,0000,,I’ll go like I mean it, as you wish!
+Dialogue: 0,0:04:04.66,0:04:06.56,Default,,0000,0000,0000,,Way to go Sakura!
+Dialogue: 0,0:04:06.62,0:04:07.56,Default,,0000,0000,0000,,Great!
+Dialogue: 0,0:04:07.59,0:04:09.19,Default,,0000,0000,0000,,Really great!
+Dialogue: 0,0:04:09.56,0:04:11.56,Default,,0000,0000,0000,,With the fundamental movements\Nusing Chakra,
+Dialogue: 0,0:04:11.56,0:04:13.30,Default,,0000,0000,0000,,she’s topnotch among the rookies…
+Dialogue: 0,0:04:13.50,0:04:14.13,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:14.17,0:04:16.53,Default,,0000,0000,0000,,Sakura is at her best.
+Dialogue: 0,0:04:16.90,0:04:20.00,Default,,0000,0000,0000,,That means…\Nls she better than me?
+Dialogue: 0,0:04:20.47,0:04:21.07,Default,,0000,0000,0000,,Well!
+Dialogue: 0,0:04:21.27,0:04:22.11,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:04:22.41,0:04:23.57,Default,,0000,0000,0000,,Awww!
+Dialogue: 0,0:04:24.68,0:04:27.55,Default,,0000,0000,0000,,Sending Chakra all throughout\Nthe body and
+Dialogue: 0,0:04:27.61,0:04:30.18,Default,,0000,0000,0000,,using the technique\Nwith it at a right timing…
+Dialogue: 0,0:04:30.75,0:04:33.42,Default,,0000,0000,0000,,Those techniques alone\Nare better than Sasuke.
+Dialogue: 0,0:04:34.55,0:04:36.65,Default,,0000,0000,0000,,Well, from the start,\Nshe was extremely good at…
+Dialogue: 0,0:04:36.69,0:04:40.56,Default,,0000,0000,0000,,controlling her Chakra, so…
+Dialogue: 0,0:04:42.43,0:04:44.56,Default,,0000,0000,0000,,Magnificent movements, Sakura!
+Dialogue: 0,0:04:55.54,0:04:57.88,Default,,0000,0000,0000,,However, her opponent is good too.
+Dialogue: 0,0:04:58.38,0:05:00.85,Default,,0000,0000,0000,,This evenly-matched battle\Nlooks to take awhile!
+Dialogue: 0,0:05:09.89,0:05:12.82,Default,,0000,0000,0000,,Since when did this girl\Nget this strong?!
+Dialogue: 0,0:05:14.33,0:05:16.99,Default,,0000,0000,0000,,I can make it, too…!
+Dialogue: 0,0:05:18.56,0:05:19.56,Default,,0000,0000,0000,,You little…!
+Dialogue: 0,0:05:26.64,0:05:27.84,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:05:30.17,0:05:31.94,Default,,0000,0000,0000,,At this rate, it’ll never end.
+Dialogue: 0,0:05:34.65,0:05:35.81,Default,,0000,0000,0000,,This is long…
+Dialogue: 0,0:05:37.35,0:05:38.85,Default,,0000,0000,0000,,They’ve been going at it\Nfor ten minutes, at the least.
+Dialogue: 0,0:05:49.56,0:05:53.20,Default,,0000,0000,0000,,You shouldn’t be evenly\Nmatched with me!
+Dialogue: 0,0:05:54.57,0:05:58.54,Default,,0000,0000,0000,,What makes you think\NI’m evenly matched with you…
+Dialogue: 0,0:05:58.74,0:06:01.54,Default,,0000,0000,0000,,who’s only concerned with looks\Nand growing your hair frivolously?!
+Dialogue: 0,0:06:05.71,0:06:06.54,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:06:06.94,0:06:09.11,Default,,0000,0000,0000,,You carry your mocking\Nof me too far!
+Dialogue: 0,0:06:09.55,0:06:10.48,Default,,0000,0000,0000,,Idiot.
+Dialogue: 0,0:06:10.55,0:06:12.55,Default,,0000,0000,0000,,She’s going for the bait.
+Dialogue: 0,0:06:13.05,0:06:16.05,Default,,0000,0000,0000,,Who knows what Ino will do!
+Dialogue: 0,0:06:16.42,0:06:19.06,Default,,0000,0000,0000,,I don’t like Ino when she’s that way…!
+Dialogue: 0,0:06:37.84,0:06:39.31,Default,,0000,0000,0000,,You’re simple-minded…
+Dialogue: 0,0:06:40.21,0:06:41.35,Default,,0000,0000,0000,,Uh-oh.
+Dialogue: 0,0:06:41.98,0:06:43.55,Default,,0000,0000,0000,,She’s totally lost it!
+Dialogue: 0,0:06:47.89,0:06:49.15,Default,,0000,0000,0000,,I don’t need this!
+Dialogue: 0,0:06:55.56,0:06:57.80,Default,,0000,0000,0000,,S-Scary…
+Dialogue: 0,0:06:58.56,0:07:00.46,Default,,0000,0000,0000,,I’ll put an end to this right now!
+Dialogue: 0,0:07:01.43,0:07:04.60,Default,,0000,0000,0000,,I’ll make you say that you lost!
+Dialogue: 0,0:07:05.10,0:07:07.71,Default,,0000,0000,0000,,Hey, don’t tell me…
+Dialogue: 0,0:07:08.11,0:07:09.41,Default,,0000,0000,0000,,Could it be…?
+Dialogue: 0,0:07:13.28,0:07:14.75,Default,,0000,0000,0000,,As I recall, that Sign is…
+Dialogue: 0,0:07:15.25,0:07:16.55,Default,,0000,0000,0000,,I knew it…
+Dialogue: 0,0:07:17.15,0:07:19.15,Default,,0000,0000,0000,,She’s planning to do\Nthe Mind Transfer Jutsu!
+Dialogue: 0,0:07:19.55,0:07:21.65,Default,,0000,0000,0000,,Man…That idiot!
+Dialogue: 0,0:07:23.95,0:07:28.09,Default,,0000,0000,0000,,I understand your feelings of frustration,\Nbut that’s futile.
+Dialogue: 0,0:07:28.56,0:07:29.23,Default,,0000,0000,0000,,Humph!
+Dialogue: 0,0:07:29.56,0:07:31.13,Default,,0000,0000,0000,,I wonder!
+Dialogue: 0,0:07:31.56,0:07:34.17,Default,,0000,0000,0000,,Ninja Art, Mind Transfer Jutsu…
+Dialogue: 0,0:07:34.73,0:07:38.54,Default,,0000,0000,0000,,A Jutsu where the user can take\Nover the opponent’s spirit
+Dialogue: 0,0:07:38.57,0:07:40.81,Default,,0000,0000,0000,,and wrest their body away\Nfor a few minutes…
+Dialogue: 0,0:07:40.84,0:07:43.54,Default,,0000,0000,0000,,by discharging all of\Ntheir own spiritual energy
+Dialogue: 0,0:07:43.54,0:07:45.94,Default,,0000,0000,0000,,and striking the enemy with it.
+Dialogue: 0,0:07:46.71,0:07:51.55,Default,,0000,0000,0000,,But, there are major flaws\Nto this formidable Jutsu.
+Dialogue: 0,0:07:52.52,0:08:00.69,Default,,0000,0000,0000,,First, the discharged spiritual energy\Ncan only fly straight and at a slow speed.
+Dialogue: 0,0:08:01.56,0:08:08.17,Default,,0000,0000,0000,,Second, even in the case of failing\Nto hit the enemy and missing,
+Dialogue: 0,0:08:08.30,0:08:10.67,Default,,0000,0000,0000,,the user can’t return to her\Nown body for several minutes.
+Dialogue: 0,0:08:11.80,0:08:14.81,Default,,0000,0000,0000,,I should add that during\Nthat interval, the user’s,
+Dialogue: 0,0:08:14.84,0:08:19.64,Default,,0000,0000,0000,,in other words, your main body\Nwill turn into a doll that won’t move at all!
+Dialogue: 0,0:08:20.98,0:08:21.65,Default,,0000,0000,0000,,In the first place,
+Dialogue: 0,0:08:21.68,0:08:25.55,Default,,0000,0000,0000,,the Mind Transfer Jutsu is used\Nfor spying and is not a Jutsu for battle.
+Dialogue: 0,0:08:26.55,0:08:31.56,Default,,0000,0000,0000,,Ino, using that Jutsu here\Nwould be equal to suicide…
+Dialogue: 0,0:08:32.82,0:08:35.06,Default,,0000,0000,0000,,It shouldn’t be particularly\Nscary if she moves about…
+Dialogue: 0,0:08:35.76,0:08:38.43,Default,,0000,0000,0000,,And not only that,\Nif she dodges the Jutsu,
+Dialogue: 0,0:08:38.46,0:08:40.60,Default,,0000,0000,0000,,she can beat the heck out\Nof the non-moving opponent.
+Dialogue: 0,0:08:41.93,0:08:45.84,Default,,0000,0000,0000,,If that happens, Hayate will be forced\Nto put an end to the match…
+Dialogue: 0,0:08:46.77,0:08:48.34,Default,,0000,0000,0000,,So what?!
+Dialogue: 0,0:08:48.54,0:08:50.57,Default,,0000,0000,0000,,I won’t know unless I try!
+Dialogue: 0,0:08:52.11,0:08:53.54,Default,,0000,0000,0000,,If you miss, it’s over.
+Dialogue: 0,0:08:53.71,0:08:56.55,Default,,0000,0000,0000,,You know that, right?
+Dialogue: 0,0:08:57.55,0:09:01.55,Default,,0000,0000,0000,,In the first place,\Nit’s a combination Jutsu to be used
+Dialogue: 0,0:09:01.55,0:09:03.65,Default,,0000,0000,0000,,after stopping the opponent’s\Nmovements during a battle
+Dialogue: 0,0:09:03.69,0:09:04.92,Default,,0000,0000,0000,,with my Shadow Possession Jutsu.
+Dialogue: 0,0:09:05.26,0:09:06.56,Default,,0000,0000,0000,,There’s no way!
+Dialogue: 0,0:09:07.56,0:09:08.96,Default,,0000,0000,0000,,There is no way, it will hit…
+Dialogue: 0,0:09:15.90,0:09:16.83,Default,,0000,0000,0000,,Idiot! Stop!
+Dialogue: 0,0:09:17.23,0:09:19.80,Default,,0000,0000,0000,,Ninja Art, Mind Transfer Jutsu!
+Dialogue: 0,0:09:34.49,0:09:35.55,Default,,0000,0000,0000,,Which one…?
+Dialogue: 0,0:09:43.59,0:09:45.50,Default,,0000,0000,0000,,That was unfortunate…
+Dialogue: 0,0:09:48.57,0:09:49.40,Default,,0000,0000,0000,,Ino.
+Dialogue: 0,0:09:50.17,0:09:51.74,Default,,0000,0000,0000,,Has the fat lady sung…?
+Dialogue: 0,0:09:52.10,0:09:53.54,Default,,0000,0000,0000,,She went and did it…
+Dialogue: 0,0:09:55.67,0:09:57.37,Default,,0000,0000,0000,,Then, it’s over, eh.
+Dialogue: 0,0:10:02.95,0:10:03.68,Default,,0000,0000,0000,,This is…?!
+Dialogue: 0,0:10:06.72,0:10:09.19,Default,,0000,0000,0000,,You fell for it, Sakura!
+Dialogue: 0,0:10:11.56,0:10:13.36,Default,,0000,0000,0000,,I finally caught you!
+Dialogue: 0,0:10:15.23,0:10:16.26,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:10:18.56,0:10:19.60,Default,,0000,0000,0000,,Yes, it can.
+Dialogue: 0,0:10:20.63,0:10:23.97,Default,,0000,0000,0000,,My Sign weaving earlier was just an act,
+Dialogue: 0,0:10:24.67,0:10:28.57,Default,,0000,0000,0000,,to drive you who was running\Nabout into this contrivance.
+Dialogue: 0,0:10:29.44,0:10:30.31,Default,,0000,0000,0000,,So?
+Dialogue: 0,0:10:30.67,0:10:32.54,Default,,0000,0000,0000,,You can’t move at all, can you?
+Dialogue: 0,0:10:33.44,0:10:37.21,Default,,0000,0000,0000,,It’s special rope that’s my hair\Nwith Chakra poured in!
+Dialogue: 0,0:10:40.02,0:10:44.56,Default,,0000,0000,0000,,With this, it will be over when\NI enter your body and say “give up!”
+Dialogue: 0,0:10:46.59,0:10:49.56,Default,,0000,0000,0000,,It wouldn’t miss\Na hundred percent of the time!
+Dialogue: 0,0:10:50.29,0:10:51.60,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:10:52.56,0:10:56.13,Default,,0000,0000,0000,,That idiot… Her losing it\Nwas also an act?
+Dialogue: 0,0:10:56.57,0:10:58.27,Default,,0000,0000,0000,,Get out of there, Sakura!
+Dialogue: 0,0:10:59.64,0:11:00.54,Default,,0000,0000,0000,,I can’t move…!
+Dialogue: 0,0:11:01.64,0:11:02.47,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:11:02.97,0:11:04.54,Default,,0000,0000,0000,,Mind Transfer Jutsu!
+Dialogue: 0,0:11:29.13,0:11:30.83,Default,,0000,0000,0000,,That was unfortunate…
+Dialogue: 0,0:11:32.44,0:11:33.54,Default,,0000,0000,0000,,She missed!
+Dialogue: 0,0:11:35.41,0:11:36.21,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:36.64,0:11:37.54,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:11:37.98,0:11:39.11,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:11:41.68,0:11:42.65,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:12:03.27,0:12:05.84,Default,,0000,0000,0000,,W-What’s with Ino?
+Dialogue: 0,0:12:06.30,0:12:10.57,Default,,0000,0000,0000,,Also... Sakura’s acting kind of strange!\NBelieve it!
+Dialogue: 0,0:12:11.54,0:12:12.94,Default,,0000,0000,0000,,But…surely this is her chance!
+Dialogue: 0,0:12:13.31,0:12:15.61,Default,,0000,0000,0000,,Do it, Sakura!
+Dialogue: 0,0:12:16.88,0:12:17.85,Default,,0000,0000,0000,,It’s no use.
+Dialogue: 0,0:12:18.55,0:12:20.98,Default,,0000,0000,0000,,To think, the Mind Transfer Jutsu there…
+Dialogue: 0,0:12:21.55,0:12:22.59,Default,,0000,0000,0000,,Sakura’s had it.
+Dialogue: 0,0:12:24.46,0:12:25.36,Default,,0000,0000,0000,,Mind Transfer…?!
+Dialogue: 0,0:12:26.36,0:12:28.83,Default,,0000,0000,0000,,That means Sakura right now is…
+Dialogue: 0,0:12:30.56,0:12:31.43,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:32.23,0:12:35.43,Default,,0000,0000,0000,,Sakura’s spirit has been\Ncompletely taken over by Ino.
+Dialogue: 0,0:12:36.10,0:12:36.87,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:38.40,0:12:40.84,Default,,0000,0000,0000,,Ino is inside of Sakura’s body now!
+Dialogue: 0,0:12:41.54,0:12:42.41,Default,,0000,0000,0000,,Well.
+Dialogue: 0,0:12:42.57,0:12:44.94,Default,,0000,0000,0000,,Ino’s purpose is most likely…
+Dialogue: 0,0:12:47.54,0:12:48.88,Default,,0000,0000,0000,,With this, it’s over.
+Dialogue: 0,0:12:50.21,0:12:52.15,Default,,0000,0000,0000,,Good bye, Sakura…
+Dialogue: 0,0:13:04.50,0:13:08.40,Default,,0000,0000,0000,,I…Sakura Haruno concede…
+Dialogue: 0,0:13:09.57,0:13:11.24,Default,,0000,0000,0000,,– this match… 					– No!
+Dialogue: 0,0:13:11.84,0:13:13.40,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:13:14.54,0:13:15.27,Default,,0000,0000,0000,,Tsk!
+Dialogue: 0,0:13:15.64,0:13:17.61,Default,,0000,0000,0000,,He’s annoying!
+Dialogue: 0,0:13:18.14,0:13:20.28,Default,,0000,0000,0000,,You did your hardest to get here!
+Dialogue: 0,0:13:20.38,0:13:23.91,Default,,0000,0000,0000,,You’ll disgrace women if you lose\Nto that Sasuke-obsessed girl!
+Dialogue: 0,0:13:25.38,0:13:27.85,Default,,0000,0000,0000,,Like I said, those words\Nare useless…
+Dialogue: 0,0:13:31.86,0:13:32.56,Default,,0000,0000,0000,,What's...
+Dialogue: 0,0:13:38.40,0:13:39.56,Default,,0000,0000,0000,,this bad chill…?!
+Dialogue: 0,0:13:44.33,0:13:46.54,Default,,0000,0000,0000,,Naruto is annoying!
+Dialogue: 0,0:13:50.87,0:13:54.55,Default,,0000,0000,0000,,Anyway, that’s right…\Nnot to Ino I won’t …
+Dialogue: 0,0:13:55.55,0:13:56.65,Default,,0000,0000,0000,,Sakura?!
+Dialogue: 0,0:13:57.65,0:13:58.88,Default,,0000,0000,0000,,This can’t be happening…
+Dialogue: 0,0:14:02.55,0:14:03.55,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:14:04.92,0:14:05.82,Default,,0000,0000,0000,,Are you conceding?
+Dialogue: 0,0:14:09.56,0:14:11.40,Default,,0000,0000,0000,,I won’t be conceding!
+Dialogue: 0,0:14:11.43,0:14:13.10,Default,,0000,0000,0000,,No Way!
+Dialogue: 0,0:14:14.16,0:14:15.73,Default,,0000,0000,0000,,Cha!
+Dialogue: 0,0:14:18.07,0:14:19.34,Default,,0000,0000,0000,,Which is it?
+Dialogue: 0,0:14:20.17,0:14:22.44,Default,,0000,0000,0000,,W-What’s going on?!
+Dialogue: 0,0:14:23.07,0:14:23.67,Default,,0000,0000,0000,,Sakura…?!
+Dialogue: 0,0:14:24.68,0:14:25.71,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:14:29.55,0:14:31.55,Default,,0000,0000,0000,,I messed up my Jutsu…?
+Dialogue: 0,0:14:32.05,0:14:38.16,Default,,0000,0000,0000,,Ino…You’ll have a terrible time of it\Nif you don’t get out of me quick!
+Dialogue: 0,0:14:41.56,0:14:43.56,Default,,0000,0000,0000,,What’s wrong, with Ino?
+Dialogue: 0,0:14:48.57,0:14:52.77,Default,,0000,0000,0000,,No… I won’t hold on at this rate…
+Dialogue: 0,0:14:53.97,0:14:54.64,Default,,0000,0000,0000,,Release!
+Dialogue: 0,0:15:14.56,0:15:18.50,Default,,0000,0000,0000,,It can’t be…\NShe shattered Ino’s Jutsu!
+Dialogue: 0,0:15:19.36,0:15:22.07,Default,,0000,0000,0000,,She used too much energy\Nbefore the Jutsu…
+Dialogue: 0,0:15:23.43,0:15:25.50,Default,,0000,0000,0000,,So she didn’t have enough Chakra…?!
+Dialogue: 0,0:15:30.21,0:15:34.71,Default,,0000,0000,0000,,To think she has two spirits…\NWhat are you?!
+Dialogue: 0,0:15:38.55,0:15:41.15,Default,,0000,0000,0000,,Strength that ranks with beauty.
+Dialogue: 0,0:15:41.89,0:15:45.52,Default,,0000,0000,0000,,Girls can’t survive if they’re not tough!
+Dialogue: 0,0:15:46.39,0:15:47.93,Default,,0000,0000,0000,,If caught in that spell,
+Dialogue: 0,0:15:48.56,0:15:51.26,Default,,0000,0000,0000,,it’s not that easy to cast out\Nthe invader…
+Dialogue: 0,0:15:52.76,0:15:54.43,Default,,0000,0000,0000,,Ino’s lack of Chakra…
+Dialogue: 0,0:15:55.07,0:15:56.17,Default,,0000,0000,0000,,There’s also that…
+Dialogue: 0,0:15:56.90,0:15:58.60,Default,,0000,0000,0000,,But what was more effective\N than that…
+Dialogue: 0,0:15:59.30,0:16:03.54,Default,,0000,0000,0000,,was the combative spirit towards\Nlno she has inside her heart.
+Dialogue: 0,0:16:04.37,0:16:10.38,Default,,0000,0000,0000,,So that was awakened with Naruto’s voice\Nas the trigger and she cast Ino out…?
+Dialogue: 0,0:16:11.55,0:16:12.88,Default,,0000,0000,0000,,There’s nothing to it.
+Dialogue: 0,0:16:13.35,0:16:14.58,Default,,0000,0000,0000,,Like Naruto…
+Dialogue: 0,0:16:14.99,0:16:19.02,Default,,0000,0000,0000,,Sakura’s fighting spirit was\Nmuch stronger than others.
+Dialogue: 0,0:16:19.56,0:16:20.56,Default,,0000,0000,0000,,– This is…! 					– This is…!
+Dialogue: 0,0:16:21.89,0:16:26.60,Default,,0000,0000,0000,,But, both of them should\Nhave hardly any Chakra left.
+Dialogue: 0,0:16:30.93,0:16:32.07,Default,,0000,0000,0000,,– This is… 					– This is…
+Dialogue: 0,0:16:32.30,0:16:33.10,Default,,0000,0000,0000,,– the end! 					– the end!
+Dialogue: 0,0:17:42.77,0:17:45.34,Default,,0000,0000,0000,,Both parties are unable\Nto continue the match!
+Dialogue: 0,0:17:46.14,0:17:47.68,Default,,0000,0000,0000,,By double knockout,
+Dialogue: 0,0:17:48.01,0:17:51.21,Default,,0000,0000,0000,,no one gets through the\Nfourth battle of the preliminary!
+Dialogue: 0,0:17:52.32,0:17:53.22,Default,,0000,0000,0000,,– What?! 					– Huh?!
+Dialogue: 0,0:17:56.82,0:17:57.92,Default,,0000,0000,0000,,Now then...
+Dialogue: 0,0:17:58.56,0:17:59.56,Default,,0000,0000,0000,,Good grief.
+Dialogue: 0,0:18:01.59,0:18:03.13,Default,,0000,0000,0000,,Hey, Ino!
+Dialogue: 0,0:18:03.43,0:18:04.39,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:18:04.43,0:18:05.56,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:18:05.70,0:18:07.93,Default,,0000,0000,0000,,A-A-Are you okay?!
+Dialogue: 0,0:18:20.01,0:18:22.15,Default,,0000,0000,0000,,Treatment’s not necessary.
+Dialogue: 0,0:18:23.18,0:18:25.55,Default,,0000,0000,0000,,They’ll probably wake up after awhile.
+Dialogue: 0,0:18:30.39,0:18:33.16,Default,,0000,0000,0000,,But, that was surprising…
+Dialogue: 0,0:18:34.09,0:18:35.09,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:18:36.53,0:18:38.26,Default,,0000,0000,0000,,Naruto and Sasuke aside…
+Dialogue: 0,0:18:38.93,0:18:42.73,Default,,0000,0000,0000,,to think even that Sakura who didn’t\Nhave what it took has grown this much…
+Dialogue: 0,0:18:45.34,0:18:46.80,Default,,0000,0000,0000,,A lot happened,
+Dialogue: 0,0:18:47.40,0:18:50.14,Default,,0000,0000,0000,,but I really feel like it\Nwas a good thing…
+Dialogue: 0,0:18:51.58,0:18:53.44,Default,,0000,0000,0000,,sending her to this Chunin Exam.
+Dialogue: 0,0:19:01.35,0:19:05.16,Default,,0000,0000,0000,,Tenten vs. Temari
+Dialogue: 0,0:19:08.59,0:19:12.23,Default,,0000,0000,0000,,Seeing that made me all fired up, too!
+Dialogue: 0,0:19:13.60,0:19:14.56,Default,,0000,0000,0000,,Now…
+Dialogue: 0,0:19:15.30,0:19:16.77,Default,,0000,0000,0000,,The second one from the\NLand of Sand, huh…
+Dialogue: 0,0:19:17.43,0:19:19.90,Default,,0000,0000,0000,,– This looks to be an interesting match.\N– Do your best, Tenten!
+Dialogue: 0,0:19:28.61,0:19:32.32,Default,,0000,0000,0000,,It looks like you finally\Nwoke up, eh…Sakura.
+Dialogue: 0,0:19:33.85,0:19:34.55,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:34.55,0:19:37.55,Default,,0000,0000,0000,,Tenten, power of youth!
+Dialogue: 0,0:19:37.85,0:19:38.82,Default,,0000,0000,0000,,Go Go!
+Dialogue: 0,0:19:38.86,0:19:41.19,Default,,0000,0000,0000,,There is no limit to your youth!
+Dialogue: 0,0:19:42.03,0:19:44.76,Default,,0000,0000,0000,,Our match is already over.
+Dialogue: 0,0:19:50.00,0:19:53.27,Default,,0000,0000,0000,,Did I…lose?
+Dialogue: 0,0:19:57.41,0:19:59.54,Default,,0000,0000,0000,,I’m the one who wants to cry…
+Dialogue: 0,0:20:00.54,0:20:03.38,Default,,0000,0000,0000,,To think I tied with somebody like you…
+Dialogue: 0,0:20:04.55,0:20:05.42,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:07.02,0:20:07.58,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:20:10.95,0:20:13.32,Default,,0000,0000,0000,,You also got a flower to bloom, didn’t you?
+Dialogue: 0,0:20:13.89,0:20:15.46,Default,,0000,0000,0000,,A beautiful flower!
+Dialogue: 0,0:20:22.27,0:20:22.90,Default,,0000,0000,0000,,Ino…
+Dialogue: 0,0:20:33.08,0:20:34.08,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:20:35.18,0:20:36.55,Default,,0000,0000,0000,,the next time we fight,
+Dialogue: 0,0:20:36.55,0:20:38.55,Default,,0000,0000,0000,,it won’t end with you\Ngetting knocked out!
+Dialogue: 0,0:20:39.02,0:20:39.55,Default,,0000,0000,0000,,Hm…?!
+Dialogue: 0,0:20:40.55,0:20:44.92,Default,,0000,0000,0000,,And… I won’t hand over\NSasuke to you!
+Dialogue: 0,0:20:46.56,0:20:49.89,Default,,0000,0000,0000,,I return the same line to you!
+Dialogue: 0,0:20:52.56,0:20:53.43,Default,,0000,0000,0000,,– Humph! 					– Humph!
+Dialogue: 0,0:20:55.37,0:20:56.67,Default,,0000,0000,0000,,The fifth battle…
+Dialogue: 0,0:20:57.27,0:21:01.10,Default,,0000,0000,0000,,Tenten, Temari…\Ncome forward!
+Dialogue: 0,0:21:18.69,0:21:23.33,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:23.36,0:21:31.64,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:32.54,0:21:41.48,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:41.65,0:21:49.55,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:50.82,0:21:56.56,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:56.56,0:22:00.46,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:00.50,0:22:04.10,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:04.47,0:22:12.94,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:13.21,0:22:18.52,Default,,0000,0000,0000,,when you want to cry,\Nand you want to run away
+Dialogue: 0,0:22:18.55,0:22:22.85,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:22.89,0:22:26.66,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:26.89,0:22:32.13,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:32.20,0:22:34.46,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:34.56,0:22:40.67,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:41.27,0:22:46.44,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:50.55,0:22:52.18,Default,,0000,0000,0000,,You know! You know!
+Dialogue: 0,0:22:52.22,0:22:54.52,Default,,0000,0000,0000,,I feel like women battles\Nare incredible, or…
+Dialogue: 0,0:22:55.42,0:22:57.09,Default,,0000,0000,0000,,Women are scary.
+Dialogue: 0,0:22:57.35,0:22:57.82,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:57.95,0:22:58.82,Default,,0000,0000,0000,,Hey-hey!
+Dialogue: 0,0:22:58.96,0:23:00.96,Default,,0000,0000,0000,,This isn’t the time to be\Nwithdrawing, Shikamaru.
+Dialogue: 0,0:23:01.39,0:23:05.46,Default,,0000,0000,0000,,You’re kind of a plain, or a lousy,\Nor an unimpressive guy, aren’t you?
+Dialogue: 0,0:23:05.60,0:23:08.87,Default,,0000,0000,0000,,If you don’t really put your whole heart\Ninto it, things will get hairy for you.
+Dialogue: 0,0:23:09.57,0:23:13.97,Default,,0000,0000,0000,,Next episode:\N“Killer Kunoichi and a Shaky Shikamaru”
+Dialogue: 0,0:23:14.54,0:23:16.84,Default,,0000,0000,0000,,This is really, seriously bad!

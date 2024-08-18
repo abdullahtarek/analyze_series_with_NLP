@@ -1,0 +1,415 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.35,0:00:03.59,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.59,0:00:06.55,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.59,0:00:12.59,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:23.05,0:00:28.97,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:29.01,0:00:34.51,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.55,0:00:37.14,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.18,0:00:40.59,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.59,0:00:45.18,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.68,0:00:51.72,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.22,0:00:56.76,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.80,0:01:02.39,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.43,0:01:07.64,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.68,0:01:10.85,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.89,0:01:19.60,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:42.59,0:01:47.47,Default,,0000,0000,0000,,The Powerful Helper
+Dialogue: 0,0:01:56.97,0:01:58.47,Default,,0000,0000,0000,,Old Man Genno…
+Dialogue: 0,0:02:02.93,0:02:05.30,Default,,0000,0000,0000,,Yes! This is quite good!
+Dialogue: 0,0:02:05.35,0:02:06.55,Default,,0000,0000,0000,,Isn't it?!
+Dialogue: 0,0:02:08.59,0:02:10.55,Default,,0000,0000,0000,,Why’d he do something like this?
+Dialogue: 0,0:02:13.30,0:02:16.01,Default,,0000,0000,0000,,Now this detonator won’t activate.
+Dialogue: 0,0:02:16.43,0:02:17.80,Default,,0000,0000,0000,,Excellent, Tenten.
+Dialogue: 0,0:02:18.01,0:02:19.60,Default,,0000,0000,0000,,Now we can sigh with relief.
+Dialogue: 0,0:02:20.39,0:02:22.64,Default,,0000,0000,0000,,No, it’s still too soon to be relieved.
+Dialogue: 0,0:02:22.80,0:02:25.59,Default,,0000,0000,0000,,Right… When Genno realizes that
+Dialogue: 0,0:02:25.59,0:02:27.59,Default,,0000,0000,0000,,the detonator here has been removed…
+Dialogue: 0,0:02:28.39,0:02:30.60,Default,,0000,0000,0000,,he might activate\Nthe Paper Bombs with
+Dialogue: 0,0:02:30.64,0:02:32.72,Default,,0000,0000,0000,,some other method and blow up the Leaf.
+Dialogue: 0,0:02:35.51,0:02:36.59,Default,,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:02:39.93,0:02:42.85,Default,,0000,0000,0000,,You jerk. Don’t scare me like that, Choji!
+Dialogue: 0,0:02:43.22,0:02:44.26,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:02:47.72,0:02:49.76,Default,,0000,0000,0000,,At the moment,\Nit seems there’s no one here
+Dialogue: 0,0:02:49.80,0:02:51.51,Default,,0000,0000,0000,,who’s picked up on our movements.
+Dialogue: 0,0:02:52.55,0:02:55.39,Default,,0000,0000,0000,,All right, then put things back\Nthe way they were.
+Dialogue: 0,0:02:55.59,0:02:56.59,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:02:56.97,0:02:58.14,Default,,0000,0000,0000,,Now then…
+Dialogue: 0,0:03:00.76,0:03:03.68,Default,,0000,0000,0000,,You guys do the Kunai Knife practice\Nlike before.
+Dialogue: 0,0:03:04.55,0:03:05.60,Default,,0000,0000,0000,,Don’t hit the center.
+Dialogue: 0,0:03:05.72,0:03:07.01,Default,,0000,0000,0000,,We know.
+Dialogue: 0,0:03:07.22,0:03:11.30,Default,,0000,0000,0000,,But we were sure lucky…\NNobody hit the center.
+Dialogue: 0,0:03:11.47,0:03:14.68,Default,,0000,0000,0000,,But I hit it right in the center yesterday.
+Dialogue: 0,0:03:14.93,0:03:16.80,Default,,0000,0000,0000,,I bet you were off by a little.
+Dialogue: 0,0:03:17.05,0:03:18.72,Default,,0000,0000,0000,,What? I don’t know about that..
+Dialogue: 0,0:03:18.76,0:03:20.30,Default,,0000,0000,0000,,It hit, I tell you.
+Dialogue: 0,0:03:23.10,0:03:24.51,Default,,0000,0000,0000,,To think there’d be this many.
+Dialogue: 0,0:03:25.10,0:03:28.43,Default,,0000,0000,0000,,Lady Tsunade, let’s evacuate\Nthe villagers as quickly as possible.
+Dialogue: 0,0:03:28.72,0:03:30.76,Default,,0000,0000,0000,,Hey, you’re joking, right?
+Dialogue: 0,0:03:31.14,0:03:32.43,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:03:32.97,0:03:35.59,Default,,0000,0000,0000,,If you do that, Genno might…
+Dialogue: 0,0:03:36.59,0:03:38.22,Default,,0000,0000,0000,,blow up the remaining Paper Bombs
+Dialogue: 0,0:03:38.26,0:03:41.39,Default,,0000,0000,0000,,right under the cover\Nof the evacuation confusion.
+Dialogue: 0,0:03:43.26,0:03:44.22,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:03:45.26,0:03:48.10,Default,,0000,0000,0000,,Naruto and the others are removing\Nthe Paper Bombs now.
+Dialogue: 0,0:03:48.59,0:03:49.76,Default,,0000,0000,0000,,Could you wait for their report?
+Dialogue: 0,0:04:03.68,0:04:04.59,Default,,0000,0000,0000,,Akamaru?
+Dialogue: 0,0:04:08.68,0:04:10.10,Default,,0000,0000,0000,,Did you find one?
+Dialogue: 0,0:04:14.59,0:04:15.59,Default,,0000,0000,0000,,There it is!
+Dialogue: 0,0:04:15.59,0:04:16.59,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:04:16.76,0:04:18.30,Default,,0000,0000,0000,,Attaboy, Akamaru.
+Dialogue: 0,0:04:23.10,0:04:23.80,Default,,0000,0000,0000,,How’s it coming?
+Dialogue: 0,0:04:24.05,0:04:25.05,Default,,0000,0000,0000,,Just a little more.
+Dialogue: 0,0:04:29.05,0:04:29.80,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:30.18,0:04:31.59,Default,,0000,0000,0000,,I leave the rest to you.
+Dialogue: 0,0:04:31.68,0:04:32.68,Default,,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:04:42.43,0:04:43.68,Default,,0000,0000,0000,,Did you get it yet, Naruto?
+Dialogue: 0,0:04:43.72,0:04:45.39,Default,,0000,0000,0000,,Just a little more.
+Dialogue: 0,0:04:46.64,0:04:48.80,Default,,0000,0000,0000,,Just a little more, I tell you.
+Dialogue: 0,0:04:49.55,0:04:51.05,Default,,0000,0000,0000,,H-Hang in there, Naruto.
+Dialogue: 0,0:04:51.18,0:04:53.14,Default,,0000,0000,0000,,Damn it, you little…
+Dialogue: 0,0:04:54.80,0:04:57.39,Default,,0000,0000,0000,,Hey, what’re you guys doing?
+Dialogue: 0,0:04:57.43,0:04:59.76,Default,,0000,0000,0000,,Oh, umm…
+Dialogue: 0,0:05:00.01,0:05:02.59,Default,,0000,0000,0000,,Some money got into the opening.
+Dialogue: 0,0:05:02.59,0:05:05.22,Default,,0000,0000,0000,,Oh, I’ll get it out for you later.
+Dialogue: 0,0:05:05.26,0:05:07.22,Default,,0000,0000,0000,,No, no. That’d be dangerous…
+Dialogue: 0,0:05:07.55,0:05:11.10,Default,,0000,0000,0000,,I mean, there’s no time to waste with\Neating ramen.
+Dialogue: 0,0:05:11.18,0:05:12.59,Default,,0000,0000,0000,,Th-That’s right.
+Dialogue: 0,0:05:12.59,0:05:15.80,Default,,0000,0000,0000,,Ichiraku is sure tasty, isn’t it?\NWell, hang in there.
+Dialogue: 0,0:05:16.10,0:05:17.64,Default,,0000,0000,0000,,Yeah, thank you.
+Dialogue: 0,0:05:17.68,0:05:18.59,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:05:19.22,0:05:21.68,Default,,0000,0000,0000,,Phew, we got through it well.
+Dialogue: 0,0:05:21.85,0:05:23.35,Default,,0000,0000,0000,,Excellent, Naruto.
+Dialogue: 0,0:05:26.68,0:05:28.39,Default,,0000,0000,0000,,We’d like more manpower.
+Dialogue: 0,0:05:29.59,0:05:31.59,Default,,0000,0000,0000,,It takes too long just with us.
+Dialogue: 0,0:05:31.93,0:05:34.80,Default,,0000,0000,0000,,But there aren’t any other Shinobi\Nleft in the village.
+Dialogue: 0,0:05:36.43,0:05:37.76,Default,,0000,0000,0000,,Well, there are some here, though.
+Dialogue: 0,0:05:38.22,0:05:40.26,Default,,0000,0000,0000,,People of leisure who do nothing\Nbut tell about old stories and
+Dialogue: 0,0:05:40.30,0:05:43.80,Default,,0000,0000,0000,,complain about\Nwhat the young people do.
+Dialogue: 0,0:05:44.59,0:05:45.14,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:45.47,0:05:46.60,Default,,0000,0000,0000,,Could they be…?
+Dialogue: 0,0:05:47.30,0:05:49.59,Default,,0000,0000,0000,,Did you get that foul mouth from\Nthe Third Hokage?
+Dialogue: 0,0:05:51.35,0:05:55.47,Default,,0000,0000,0000,,It’s the job of us advisors to\Ngive advice to the youngsters.
+Dialogue: 0,0:05:56.26,0:05:58.18,Default,,0000,0000,0000,,What’s wrong with complaining?
+Dialogue: 0,0:05:58.60,0:06:02.72,Default,,0000,0000,0000,,It seems you have a good nose for\Nvillage crises due to your longevity.
+Dialogue: 0,0:06:03.39,0:06:06.59,Default,,0000,0000,0000,,You’re plenty older than\Nyou look yourself.
+Dialogue: 0,0:06:07.01,0:06:10.30,Default,,0000,0000,0000,,Wh-What did you say? You old bag!
+Dialogue: 0,0:06:11.22,0:06:15.18,Default,,0000,0000,0000,,Watch what you say, eh, Fifth Hokage.
+Dialogue: 0,0:06:16.39,0:06:20.59,Default,,0000,0000,0000,,We’ve grasped most of the situation.\NWhere should we head to?
+Dialogue: 0,0:06:21.14,0:06:23.64,Default,,0000,0000,0000,,Then there’s a place\NI’ve been saving for you.
+Dialogue: 0,0:06:24.14,0:06:26.26,Default,,0000,0000,0000,,Oh ho. I can’t wait.
+Dialogue: 0,0:06:26.59,0:06:28.35,Default,,0000,0000,0000,,To think the Fifth Hokage would be beaten.
+Dialogue: 0,0:06:28.39,0:06:30.01,Default,,0000,0000,0000,,That’s a powerful supporter.
+Dialogue: 0,0:06:30.43,0:06:31.39,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,0:06:31.43,0:06:32.59,Default,,0000,0000,0000,,But scary.
+Dialogue: 0,0:06:34.80,0:06:38.18,Default,,0000,0000,0000,,Hurry! Youth, full power!
+Dialogue: 0,0:06:38.22,0:06:40.35,Default,,0000,0000,0000,,The enemy’s in the Leaf!
+Dialogue: 0,0:06:43.60,0:06:47.80,Default,,0000,0000,0000,,I appreciate it,\Nbut I can’t stand those two.
+Dialogue: 0,0:06:48.30,0:06:50.59,Default,,0000,0000,0000,,But the removal operation\Nwill proceed swiftly
+Dialogue: 0,0:06:50.59,0:06:54.64,Default,,0000,0000,0000,,once Guy Senpai and the others who\Nheaded for the Hidden Waterfall get back.
+Dialogue: 0,0:06:55.01,0:06:57.59,Default,,0000,0000,0000,,It’ll be nice if things were to\Ngo conveniently like that, but…
+Dialogue: 0,0:06:58.01,0:06:59.97,Default,,0000,0000,0000,,Shikamaru, have you got something?
+Dialogue: 0,0:07:00.35,0:07:02.14,Default,,0000,0000,0000,,I mean, it’s not ordinary stuff.
+Dialogue: 0,0:07:02.59,0:07:06.18,Default,,0000,0000,0000,,When and how the hell\Ndid he set them?
+Dialogue: 0,0:07:06.59,0:07:10.76,Default,,0000,0000,0000,,There are too many Paper Bombs.\NAn abnormal amount of it.
+Dialogue: 0,0:07:11.05,0:07:12.05,Default,,0000,0000,0000,,No doubt about it.
+Dialogue: 0,0:07:12.10,0:07:12.97,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:07:13.59,0:07:16.30,Default,,0000,0000,0000,,And there’s one more thing\Nbugging me.
+Dialogue: 0,0:07:17.68,0:07:22.59,Default,,0000,0000,0000,,We’re overlooking something huge…\NI really get that feeling.
+Dialogue: 0,0:07:25.68,0:07:26.64,Default,,0000,0000,0000,,Almost.
+Dialogue: 0,0:07:26.89,0:07:30.01,Default,,0000,0000,0000,,What’re you doing?\NYou’re not supposed to hit the center.
+Dialogue: 0,0:07:30.22,0:07:31.68,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:07:32.14,0:07:34.59,Default,,0000,0000,0000,,I’m next. I’ll miss.
+Dialogue: 0,0:07:34.76,0:07:37.18,Default,,0000,0000,0000,,In your case,\Nyou’ll probably miss even if you aim.
+Dialogue: 0,0:07:40.01,0:07:41.18,Default,,0000,0000,0000,,How’s it going, Neji?
+Dialogue: 0,0:07:41.60,0:07:43.76,Default,,0000,0000,0000,,The Paper Bomb removal operation\Nis going smoothly.
+Dialogue: 0,0:07:44.51,0:07:46.59,Default,,0000,0000,0000,,I don’t see anyone\Nresembling Genno either.
+Dialogue: 0,0:07:47.59,0:07:49.18,Default,,0000,0000,0000,,I wonder where the enemy is.
+Dialogue: 0,0:07:54.72,0:07:57.10,Default,,0000,0000,0000,,Making us walk all the way to\Nthe outskirts of town.
+Dialogue: 0,0:07:57.30,0:07:59.68,Default,,0000,0000,0000,,She must’ve gotten this slave driver\Ntendency from the Third Hokage.
+Dialogue: 0,0:07:59.85,0:08:03.97,Default,,0000,0000,0000,,A place that wouldn’t be unusual\Nfor old people to tell old stories.
+Dialogue: 0,0:08:04.14,0:08:07.22,Default,,0000,0000,0000,,I’ll rake her over the coals\Nwhen we get back.
+Dialogue: 0,0:08:07.55,0:08:11.35,Default,,0000,0000,0000,,But what is that Genno fellow thinking?
+Dialogue: 0,0:08:11.59,0:08:14.93,Default,,0000,0000,0000,,There’s no point to setting\NPaper Bombs in a place like this.
+Dialogue: 0,0:08:15.59,0:08:17.47,Default,,0000,0000,0000,,Is that what you really think?
+Dialogue: 0,0:08:17.59,0:08:18.51,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:18.59,0:08:20.26,Default,,0000,0000,0000,,There was a plan to build
+Dialogue: 0,0:08:20.30,0:08:22.80,Default,,0000,0000,0000,,a shopping district\Naround here before, right?
+Dialogue: 0,0:08:23.01,0:08:25.93,Default,,0000,0000,0000,,That talk was over thirty years ago.
+Dialogue: 0,0:08:31.59,0:08:32.59,Default,,0000,0000,0000,,Hmm?!
+Dialogue: 0,0:08:47.14,0:08:47.93,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:08:48.39,0:08:50.59,Default,,0000,0000,0000,,H-Hey, isn’t that…?
+Dialogue: 0,0:08:51.18,0:08:51.85,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:58.05,0:08:58.80,Default,,0000,0000,0000,,Look at this.
+Dialogue: 0,0:08:59.14,0:08:59.80,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:09:02.14,0:09:05.55,Default,,0000,0000,0000,,The Jutsu form written here is different.
+Dialogue: 0,0:09:05.68,0:09:06.64,Default,,0000,0000,0000,,You’re right.
+Dialogue: 0,0:09:06.68,0:09:08.55,Default,,0000,0000,0000,,Now that you mention it, there’s no doubt.
+Dialogue: 0,0:09:08.80,0:09:11.10,Default,,0000,0000,0000,,It looks the same to me, though.
+Dialogue: 0,0:09:11.30,0:09:13.10,Default,,0000,0000,0000,,Where are your eyes pointing?
+Dialogue: 0,0:09:13.39,0:09:15.35,Default,,0000,0000,0000,,It’s the first time I’ve seen this.
+Dialogue: 0,0:09:15.64,0:09:18.59,Default,,0000,0000,0000,,It’s nothing new to us.
+Dialogue: 0,0:09:18.59,0:09:21.51,Default,,0000,0000,0000,,Speaking of Paper Bombs,\Nthat’s what they were in the old days.
+Dialogue: 0,0:09:21.59,0:09:24.10,Default,,0000,0000,0000,,Then this is an old version?
+Dialogue: 0,0:09:24.60,0:09:27.26,Default,,0000,0000,0000,,It seems most of the Paper Bombs
+Dialogue: 0,0:09:27.30,0:09:29.10,Default,,0000,0000,0000,,that have been set in\Nthe village are of that type.
+Dialogue: 0,0:09:29.60,0:09:31.72,Default,,0000,0000,0000,,Everyone, please look closely once more
+Dialogue: 0,0:09:31.76,0:09:34.30,Default,,0000,0000,0000,,at the locations where\Nthe Paper Bombs were set.
+Dialogue: 0,0:09:34.59,0:09:37.55,Default,,0000,0000,0000,,Although this is\Na residential area here,
+Dialogue: 0,0:09:37.59,0:09:39.76,Default,,0000,0000,0000,,there are hardly any Paper Bombs set.
+Dialogue: 0,0:09:40.01,0:09:42.89,Default,,0000,0000,0000,,On the other hand,\Na large number of Paper Bombs
+Dialogue: 0,0:09:42.93,0:09:45.01,Default,,0000,0000,0000,,have been set in places\Nwhere hardly anyone lives.
+Dialogue: 0,0:09:45.59,0:09:46.89,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:09:47.59,0:09:49.14,Default,,0000,0000,0000,,In the old plans,
+Dialogue: 0,0:09:49.18,0:09:51.59,Default,,0000,0000,0000,,that was supposed to become\Na bustling shopping district.
+Dialogue: 0,0:09:51.60,0:09:53.68,Default,,0000,0000,0000,,What? Could that be…?
+Dialogue: 0,0:09:54.01,0:09:56.14,Default,,0000,0000,0000,,If you think about it putting together\Nvarious factors
+Dialogue: 0,0:09:56.18,0:09:57.47,Default,,0000,0000,0000,,such as the antique Paper Bombs,
+Dialogue: 0,0:09:57.60,0:10:00.89,Default,,0000,0000,0000,,the places where they were set\Nand such…
+Dialogue: 0,0:10:02.59,0:10:05.97,Default,,0000,0000,0000,,This is a trap that was\Nset thirty years ago.
+Dialogue: 0,0:10:10.97,0:10:12.22,Default,,0000,0000,0000,,Thirty years ago…
+Dialogue: 0,0:10:13.10,0:10:18.93,Default,,0000,0000,0000,,It’s just ridiculous.\NNot one person noticed in thirty years.
+Dialogue: 0,0:10:19.59,0:10:20.59,Default,,0000,0000,0000,,It’s a blind spot.
+Dialogue: 0,0:10:20.80,0:10:22.43,Default,,0000,0000,0000,,Nobody would ever think
+Dialogue: 0,0:10:22.47,0:10:26.55,Default,,0000,0000,0000,,that this many Paper Bombs would\Nbe set here in this village.
+Dialogue: 0,0:10:26.72,0:10:29.01,Default,,0000,0000,0000,,Once buried in a wall,
+Dialogue: 0,0:10:29.05,0:10:32.35,Default,,0000,0000,0000,,it couldn’t be found unless Byakugan\Nor something was used.
+Dialogue: 0,0:10:32.43,0:10:35.51,Default,,0000,0000,0000,,Then you mean\Nthe Genno guy tried to use
+Dialogue: 0,0:10:35.55,0:10:38.64,Default,,0000,0000,0000,,the Paper Bombs someone\Nset thirty years ago?
+Dialogue: 0,0:10:38.76,0:10:41.14,Default,,0000,0000,0000,,But how did he find them?
+Dialogue: 0,0:10:41.60,0:10:44.59,Default,,0000,0000,0000,,Thirty years ago?\NCould it be…?!
+Dialogue: 0,0:10:44.59,0:10:46.59,Default,,0000,0000,0000,,Shikamaru, where are you going?
+Dialogue: 0,0:10:46.76,0:10:48.22,Default,,0000,0000,0000,,Hey! Wait up.
+Dialogue: 0,0:10:53.59,0:10:55.01,Default,,0000,0000,0000,,We’re finished here, too
+Dialogue: 0,0:10:55.26,0:10:56.59,Default,,0000,0000,0000,,Let’s go to the next spot, Hinata.
+Dialogue: 0,0:10:56.76,0:10:57.59,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:11:01.22,0:11:02.05,Default,,0000,0000,0000,,Hinata!
+Dialogue: 0,0:11:02.59,0:11:03.35,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:11:03.59,0:11:05.59,Default,,0000,0000,0000,,I was using the Byakugan the whole time,
+Dialogue: 0,0:11:05.72,0:11:08.89,Default,,0000,0000,0000,,so I’m just a little tired…\NI’m fine.
+Dialogue: 0,0:11:08.97,0:11:09.93,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:11:09.97,0:11:10.76,Default,,0000,0000,0000,,Let me see.
+Dialogue: 0,0:11:10.97,0:11:11.59,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:11:11.60,0:11:14.43,Default,,0000,0000,0000,,You’re kind of feverish.\NYour face is red, too.
+Dialogue: 0,0:11:14.59,0:11:16.55,Default,,0000,0000,0000,,No, it’s not like that.
+Dialogue: 0,0:11:16.59,0:11:18.59,Default,,0000,0000,0000,,I’ll be okay if I just rest a little…
+Dialogue: 0,0:11:18.93,0:11:22.14,Default,,0000,0000,0000,,Really? Then I’ll deliver\Nthe Paper Bombs
+Dialogue: 0,0:11:22.18,0:11:24.14,Default,,0000,0000,0000,,we’ve gathered thus far\Nto Grandma Tsunade,
+Dialogue: 0,0:11:24.18,0:11:25.59,Default,,0000,0000,0000,,so you wait here.
+Dialogue: 0,0:11:25.89,0:11:26.59,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:27.60,0:11:29.35,Default,,0000,0000,0000,,I’ll be right back!
+Dialogue: 0,0:11:34.59,0:11:35.80,Default,,0000,0000,0000,,Ichiraku Ramen
+Dialogue: 0,0:11:39.59,0:11:43.59,Default,,0000,0000,0000,,The old man was standing here\Nthe first time I met him.
+Dialogue: 0,0:11:51.22,0:11:54.89,Default,,0000,0000,0000,,I thought he was just\Na ramen-loving old man, but…
+Dialogue: 0,0:11:58.89,0:11:59.59,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:12:01.18,0:12:04.64,Default,,0000,0000,0000,,Could it be that what\Nhe was looking at then was…?
+Dialogue: 0,0:12:32.18,0:12:33.59,Default,,0000,0000,0000,,Why in a place like this?
+Dialogue: 0,0:12:34.35,0:12:35.35,Default,,0000,0000,0000,,Well well…
+Dialogue: 0,0:12:38.05,0:12:39.80,Default,,0000,0000,0000,,So you found it, huh?
+Dialogue: 0,0:12:41.76,0:12:42.76,Default,,0000,0000,0000,,Old man?
+Dialogue: 0,0:12:46.68,0:12:49.89,Default,,0000,0000,0000,,I guess I cannot let you\Ngo back now, can I?
+Dialogue: 0,0:12:51.22,0:12:52.59,Default,,0000,0000,0000,,Thirty years ago, huh?
+Dialogue: 0,0:12:53.22,0:12:55.59,Default,,0000,0000,0000,,That’s around the time when\Nmy dad was still the master carpenter.
+Dialogue: 0,0:12:56.59,0:12:57.59,Default,,0000,0000,0000,,It was probably a time
+Dialogue: 0,0:12:57.59,0:12:59.93,Default,,0000,0000,0000,,when many outsiders were hired\Njust like now.
+Dialogue: 0,0:13:00.80,0:13:03.68,Default,,0000,0000,0000,,But I wonder if there are records\Nfrom back then.
+Dialogue: 0,0:13:04.59,0:13:07.55,Default,,0000,0000,0000,,Anything would be fine.\NA blueprint or a ledger.
+Dialogue: 0,0:13:07.68,0:13:10.80,Default,,0000,0000,0000,,Hey, Shikamaru.\NWhat’re you talking about? Explain.
+Dialogue: 0,0:13:10.93,0:13:13.47,Default,,0000,0000,0000,,Why did the referral vanish?
+Dialogue: 0,0:13:13.59,0:13:16.72,Default,,0000,0000,0000,,Referral? You mean the real referral
+Dialogue: 0,0:13:16.76,0:13:19.80,Default,,0000,0000,0000,,that became the catalyst for\NGenno being suspected?
+Dialogue: 0,0:13:20.51,0:13:22.18,Default,,0000,0000,0000,,It was bugging me the whole time.
+Dialogue: 0,0:13:22.59,0:13:26.05,Default,,0000,0000,0000,,Perhaps the disappearance of\Nthe referral was Genno’s doing.
+Dialogue: 0,0:13:26.55,0:13:28.55,Default,,0000,0000,0000,,But why was it necessary\Nto get rid of it?
+Dialogue: 0,0:13:29.59,0:13:31.72,Default,,0000,0000,0000,,It all makes sense\Nif we consider the referral
+Dialogue: 0,0:13:31.76,0:13:33.59,Default,,0000,0000,0000,,that disappeared was a fake, too.
+Dialogue: 0,0:13:34.26,0:13:35.59,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:13:36.30,0:13:40.22,Default,,0000,0000,0000,,But that referral was always here.
+Dialogue: 0,0:13:40.68,0:13:42.68,Default,,0000,0000,0000,,So it was Genno himself
+Dialogue: 0,0:13:42.72,0:13:47.10,Default,,0000,0000,0000,,who came here to work with\Nthat referral thirty years ago.
+Dialogue: 0,0:13:47.59,0:13:48.35,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:13:48.85,0:13:50.85,Default,,0000,0000,0000,,That is to say…probably.
+Dialogue: 0,0:13:51.64,0:13:53.10,Default,,0000,0000,0000,,At that time, he used a referral
+Dialogue: 0,0:13:53.14,0:13:55.05,Default,,0000,0000,0000,,that couldn’t be distinguished\Nfrom the real thing.
+Dialogue: 0,0:13:55.59,0:13:58.01,Default,,0000,0000,0000,,And then he went to the trouble\Nof making one
+Dialogue: 0,0:13:58.05,0:14:00.72,Default,,0000,0000,0000,,that would be recognized as\Na fake if compared with that one.
+Dialogue: 0,0:14:00.85,0:14:01.72,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:14:02.59,0:14:04.14,Default,,0000,0000,0000,,Even with old referrals,
+Dialogue: 0,0:14:04.18,0:14:06.14,Default,,0000,0000,0000,,he would be discovered\Nif reinvestigated again.
+Dialogue: 0,0:14:06.80,0:14:09.68,Default,,0000,0000,0000,,So he got rid of it right after\Nyou blew the whistle on him.
+Dialogue: 0,0:14:10.60,0:14:14.47,Default,,0000,0000,0000,,In order to conceal the fact that\Nhe worked here thirty years ago.
+Dialogue: 0,0:14:15.72,0:14:17.51,Default,,0000,0000,0000,,It’s because at that time in the village,
+Dialogue: 0,0:14:17.55,0:14:21.18,Default,,0000,0000,0000,,he set as many Paper Bombs\Nas were available.
+Dialogue: 0,0:14:23.14,0:14:24.14,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:14:24.59,0:14:26.51,Default,,0000,0000,0000,,Why’d you do such a thing?!
+Dialogue: 0,0:14:27.55,0:14:29.05,Default,,0000,0000,0000,,Long ago, there was a village
+Dialogue: 0,0:14:29.10,0:14:31.59,Default,,0000,0000,0000,,called Heat Devil Village in\Nthe Land of Mountains.
+Dialogue: 0,0:14:32.47,0:14:34.68,Default,,0000,0000,0000,,This is the village where I was born.
+Dialogue: 0,0:14:36.35,0:14:37.59,Default,,0000,0000,0000,,Heat Devil Village?
+Dialogue: 0,0:14:38.26,0:14:39.18,Default,,0000,0000,0000,,You don’t know it?
+Dialogue: 0,0:14:39.51,0:14:40.18,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:14:40.59,0:14:42.85,Default,,0000,0000,0000,,The only thing recorded in\Nthe Bingo Book you brought
+Dialogue: 0,0:14:43.18,0:14:46.64,Default,,0000,0000,0000,,is that Genno’s homeland is\Nthe Land of Mountains.
+Dialogue: 0,0:14:47.22,0:14:50.39,Default,,0000,0000,0000,,To be precise, Heat Devil Village\Nin the Land of Mountains.
+Dialogue: 0,0:14:50.47,0:14:52.59,Default,,0000,0000,0000,,The village itself vanished,
+Dialogue: 0,0:14:52.59,0:14:54.51,Default,,0000,0000,0000,,so it probably ended up\Nnot being recorded.
+Dialogue: 0,0:14:55.51,0:14:56.59,Default,,0000,0000,0000,,Thirty years ago,
+Dialogue: 0,0:14:56.59,0:15:00.59,Default,,0000,0000,0000,,the Village Hidden in Leaves\Nand Heat Devil Village were at war.
+Dialogue: 0,0:15:01.55,0:15:06.59,Default,,0000,0000,0000,,Neither side didn’t give an inch\Nand the battle was in deadlock.
+Dialogue: 0,0:15:07.43,0:15:09.26,Default,,0000,0000,0000,,We launched a successful sneak attack\Non Heat Devil Village,
+Dialogue: 0,0:15:09.30,0:15:11.59,Default,,0000,0000,0000,,taking advantage of the absence\Nof their main forces.
+Dialogue: 0,0:15:13.64,0:15:16.80,Default,,0000,0000,0000,,The tide of the war turned to\Nthe Leaf’s advantage in one shot.
+Dialogue: 0,0:15:20.89,0:15:22.59,Default,,0000,0000,0000,,The only thing written\Nin the history books
+Dialogue: 0,0:15:22.60,0:15:25.51,Default,,0000,0000,0000,,is that an armistice was concluded\Nthree months after that.
+Dialogue: 0,0:15:26.55,0:15:28.59,Default,,0000,0000,0000,,These three months are what’s peculiar.
+Dialogue: 0,0:15:28.89,0:15:32.22,Default,,0000,0000,0000,,Heat Devil Village should’ve been thinking\Nabout a counterattack
+Dialogue: 0,0:15:32.26,0:15:33.93,Default,,0000,0000,0000,,before accepting a cease fire.
+Dialogue: 0,0:15:35.47,0:15:38.59,Default,,0000,0000,0000,,Here it is.\Nlt’s my dad’s diary from thirty years ago.
+Dialogue: 0,0:15:39.18,0:15:39.97,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:15:40.39,0:15:43.18,Default,,0000,0000,0000,,Yeah. It seems he left it faithfully.
+Dialogue: 0,0:15:43.22,0:15:43.89,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:15:44.05,0:15:44.85,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:15:46.43,0:15:48.68,Default,,0000,0000,0000,,"A middle-aged man from\Nthe Hidden Sand came
+Dialogue: 0,0:15:48.72,0:15:50.64,Default,,0000,0000,0000,,"with a master carpentry referral."
+Dialogue: 0,0:15:51.30,0:15:55.35,Default,,0000,0000,0000,,"His skills aren’t great, but I decided\Nto hire him as I want manpower."
+Dialogue: 0,0:15:55.59,0:15:59.18,Default,,0000,0000,0000,,The date is one week after\Nthe Heat Devil Village attack.
+Dialogue: 0,0:15:59.59,0:16:00.72,Default,,0000,0000,0000,,Then like you thought…
+Dialogue: 0,0:16:01.35,0:16:03.68,Default,,0000,0000,0000,,Checkmate. This is Genno.
+Dialogue: 0,0:16:05.59,0:16:07.55,Default,,0000,0000,0000,,It was my mission to infiltrate the Leaf
+Dialogue: 0,0:16:07.59,0:16:12.22,Default,,0000,0000,0000,,and to set Paper Bombs\Nthroughout the village.
+Dialogue: 0,0:16:13.22,0:16:15.39,Default,,0000,0000,0000,,The operation was for the main forces\Nof Heat Devil Village
+Dialogue: 0,0:16:15.43,0:16:18.64,Default,,0000,0000,0000,,to invade the Village Hidden\Nin the Leaves at the same time
+Dialogue: 0,0:16:18.68,0:16:22.76,Default,,0000,0000,0000,,as the Paper Bomb explosions\Nand inflict a devastating blow.
+Dialogue: 0,0:16:23.51,0:16:27.59,Default,,0000,0000,0000,,I went out to various sites and\Nset Paper Bombs.
+Dialogue: 0,0:16:28.10,0:16:31.76,Default,,0000,0000,0000,,The Leaf village did not have substantial\NAnbu Black Ops as they do now.
+Dialogue: 0,0:16:32.10,0:16:35.59,Default,,0000,0000,0000,,So I was able to move about with ease.
+Dialogue: 0,0:16:39.39,0:16:41.59,Default,,0000,0000,0000,,Right around the time when\Ntwo and a half months had passed,
+Dialogue: 0,0:16:41.59,0:16:43.68,Default,,0000,0000,0000,,I finished setting almost all\Nof the Paper Bombs…
+Dialogue: 0,0:16:43.97,0:16:47.85,Default,,0000,0000,0000,,and all that was left was to wait\Nfor my comrades to attack.
+Dialogue: 0,0:16:49.97,0:16:52.05,Default,,0000,0000,0000,,But my comrades never came.
+Dialogue: 0,0:16:52.59,0:16:53.93,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:16:54.59,0:16:58.14,Default,,0000,0000,0000,,The leader of Heat Devil Village who\Nhad insisted on “do-or-die” resistance;
+Dialogue: 0,0:16:58.18,0:17:00.14,Default,,0000,0000,0000,,lost his life in an accident.
+Dialogue: 0,0:17:00.68,0:17:02.89,Default,,0000,0000,0000,,And the man who assumed\Nthe position of leader in his place
+Dialogue: 0,0:17:02.93,0:17:05.10,Default,,0000,0000,0000,,agreed to a ceasefire with the Leaf.
+Dialogue: 0,0:17:05.39,0:17:06.01,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:07.30,0:17:10.89,Default,,0000,0000,0000,,"Genno doesn’t show up at the scene.\NI wonder what the deal is."
+Dialogue: 0,0:17:11.22,0:17:13.59,Default,,0000,0000,0000,,He disappeared having left\Nbehind the Paper Bombs.
+Dialogue: 0,0:17:13.93,0:17:18.93,Default,,0000,0000,0000,,As for me, my intention was to\Nimmediately return to the Hidden Leaf.
+Dialogue: 0,0:17:19.22,0:17:22.76,Default,,0000,0000,0000,,I thought the ceasefire would just\Nbe a temporary thing anyway.
+Dialogue: 0,0:17:23.30,0:17:28.14,Default,,0000,0000,0000,,But Heat Devil Village would never\Ngive me another mission.
+Dialogue: 0,0:17:29.01,0:17:30.59,Default,,0000,0000,0000,,Two weeks after the ceasefire,
+Dialogue: 0,0:17:30.59,0:17:33.47,Default,,0000,0000,0000,,the Village Hidden in the Vale launched\Na sneak attack on Heat Devil Village
+Dialogue: 0,0:17:33.51,0:17:34.76,Default,,0000,0000,0000,,and it was destroyed.
+Dialogue: 0,0:17:34.97,0:17:35.80,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:17:36.18,0:17:37.80,Default,,0000,0000,0000,,They were targeted at a moment
+Dialogue: 0,0:17:37.85,0:17:40.14,Default,,0000,0000,0000,,when they were weariest from\Nthe battle with the Leaf.
+Dialogue: 0,0:17:40.64,0:17:43.59,Default,,0000,0000,0000,,Their defenses were probably\Nalso down due to the ceasefire.
+Dialogue: 0,0:17:43.89,0:17:45.59,Default,,0000,0000,0000,,"Two months has passed since…
+Dialogue: 0,0:17:46.05,0:17:48.60,Default,,0000,0000,0000,,Where did Genno disappear off to…?"
+Dialogue: 0,0:17:50.60,0:17:55.39,Default,,0000,0000,0000,,Then why come back to the Leaf Village\Nnow after all this time?
+Dialogue: 0,0:17:55.64,0:17:58.68,Default,,0000,0000,0000,,You set Paper Bombs because\Nit was your mission, right?
+Dialogue: 0,0:17:59.10,0:18:01.22,Default,,0000,0000,0000,,If Heat Devil Village is no more,
+Dialogue: 0,0:18:01.26,0:18:04.59,Default,,0000,0000,0000,,then there should be no reason\Nto go to the trouble of smashing the Leaf!
+Dialogue: 0,0:18:05.18,0:18:08.72,Default,,0000,0000,0000,,Could it be…someone asked you\Nto smash the Leaf?
+Dialogue: 0,0:18:09.22,0:18:10.39,Default,,0000,0000,0000,,Rest easy.
+Dialogue: 0,0:18:10.47,0:18:13.43,Default,,0000,0000,0000,,I haven’t been commissioned\Nor commanded by anyone.
+Dialogue: 0,0:18:14.22,0:18:15.47,Default,,0000,0000,0000,,Then why?
+Dialogue: 0,0:18:18.59,0:18:22.10,Default,,0000,0000,0000,,How can I put this? It felt like a waste.
+Dialogue: 0,0:18:22.59,0:18:24.76,Default,,0000,0000,0000,,A waste? What’s up with that?
+Dialogue: 0,0:18:25.01,0:18:28.68,Default,,0000,0000,0000,,I’m getting old and I could be taken\Nto heaven any time now.
+Dialogue: 0,0:18:29.05,0:18:31.43,Default,,0000,0000,0000,,If I were to die as is,
+Dialogue: 0,0:18:31.47,0:18:36.30,Default,,0000,0000,0000,,I’d be buried in darkness without\Nanyone learning of my traps.
+Dialogue: 0,0:18:36.59,0:18:41.68,Default,,0000,0000,0000,,If so, then I thought I’d put them\Nto good use before I die.
+Dialogue: 0,0:18:42.10,0:18:43.22,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:18:43.97,0:18:48.18,Default,,0000,0000,0000,,You tried to kill people in the village\Njust for that reason?
+Dialogue: 0,0:18:49.59,0:18:51.80,Default,,0000,0000,0000,,I can’t believe that!
+Dialogue: 0,0:18:52.89,0:18:55.85,Default,,0000,0000,0000,,Then treating me to ramen was to…
+Dialogue: 0,0:18:58.89,0:19:00.39,Default,,0000,0000,0000,,It was to find out
+Dialogue: 0,0:19:00.43,0:19:02.22,Default,,0000,0000,0000,,about the present state\Nof affairs in the Leaf.
+Dialogue: 0,0:19:02.51,0:19:07.64,Default,,0000,0000,0000,,Damn you! You jerk!
+Dialogue: 0,0:19:08.10,0:19:10.22,Default,,0000,0000,0000,,You’ll understand when you get older!
+Dialogue: 0,0:19:10.39,0:19:12.80,Default,,0000,0000,0000,,I don’t understand!\NAs for me…
+Dialogue: 0,0:19:12.85,0:19:15.59,Default,,0000,0000,0000,,I won’t ever understand it!
+Dialogue: 0,0:19:15.59,0:19:20.93,Default,,0000,0000,0000,,I’ll show you my final big job\Nas a Trapper!
+Dialogue: 0,0:19:21.14,0:19:22.93,Default,,0000,0000,0000,,No way will I let you do that!
+Dialogue: 0,0:19:23.05,0:19:28.35,Default,,0000,0000,0000,,My friends are now in the middle\Nof removing all the Paper Bombs!
+Dialogue: 0,0:19:28.59,0:19:31.14,Default,,0000,0000,0000,,I won’t let the bombs blow up!
+Dialogue: 0,0:19:33.59,0:19:35.59,Default,,0000,0000,0000,,Sounds like quite a struggle.
+Dialogue: 0,0:19:35.59,0:19:38.97,Default,,0000,0000,0000,,But who said I was going to\Nblow up the Paper Bombs?
+Dialogue: 0,0:19:40.18,0:19:43.43,Default,,0000,0000,0000,,What’re you talking about?\NYou just said that before you die…
+Dialogue: 0,0:19:43.59,0:19:48.26,Default,,0000,0000,0000,,I said I would put them to good use.\NYou’re naïve, boy.
+Dialogue: 0,0:19:48.60,0:19:49.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:49.59,0:19:54.59,Default,,0000,0000,0000,,I can put them to sufficiently good use\Neven without blowing them up.
+Dialogue: 0,0:19:54.59,0:19:55.51,Default,,0000,0000,0000,,Katsu!
+Dialogue: 0,0:19:59.39,0:20:02.43,Default,,0000,0000,0000,,A Shinobi reads two\Nor three moves ahead
+Dialogue: 0,0:20:02.47,0:20:05.10,Default,,0000,0000,0000,,and prepares several moves\Nin advance.
+Dialogue: 0,0:20:05.39,0:20:06.43,Default,,0000,0000,0000,,Remember that!
+Dialogue: 0,0:20:12.97,0:20:13.60,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:20:14.59,0:20:15.30,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:20:15.60,0:20:18.59,Default,,0000,0000,0000,,The Academy students are saying\Nthey’re tired.
+Dialogue: 0,0:20:18.59,0:20:19.51,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:20:19.59,0:20:21.05,Default,,0000,0000,0000,,The Academy students?
+Dialogue: 0,0:20:21.51,0:20:23.05,Default,,0000,0000,0000,,The Kunai Knife practice, right?
+Dialogue: 0,0:20:23.22,0:20:25.14,Default,,0000,0000,0000,,What? They were still doing that?
+Dialogue: 0,0:20:25.59,0:20:28.47,Default,,0000,0000,0000,,You idiot! You were the one\Nwho had them do it.
+Dialogue: 0,0:20:28.59,0:20:32.76,Default,,0000,0000,0000,,Oh, oh yeah. Then have them\Ngo ahead wrap things up.
+Dialogue: 0,0:20:33.30,0:20:36.59,Default,,0000,0000,0000,,Rather, it’d be trouble if they were\Nto get lucky and hit the center.
+Dialogue: 0,0:20:37.51,0:20:38.10,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:20:38.80,0:20:39.59,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:20:40.68,0:20:42.60,Default,,0000,0000,0000,,I get it. So that’s it!
+Dialogue: 0,0:20:43.85,0:20:45.89,Default,,0000,0000,0000,,It’s unnatural for a guy so prepared
+Dialogue: 0,0:20:45.93,0:20:49.47,Default,,0000,0000,0000,,to casually entrust the\Nfinal explosive device to pure luck.
+Dialogue: 0,0:20:49.80,0:20:50.68,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:20:51.35,0:20:56.26,Default,,0000,0000,0000,,A Shinobi of Genno’s level should blow\Nit up with the most effective timing.
+Dialogue: 0,0:20:56.68,0:20:57.60,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:20:58.18,0:21:01.97,Default,,0000,0000,0000,,it doesn’t matter whether\Nthe Paper Bombs explode or not.
+Dialogue: 0,0:21:02.59,0:21:03.72,Default,,0000,0000,0000,,It’s just a diversion.
+Dialogue: 0,0:21:04.55,0:21:06.47,Default,,0000,0000,0000,,He’s really after something else!
+Dialogue: 0,0:21:41.59,0:21:43.89,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:43.93,0:21:46.51,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.55,0:21:50.89,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.43,0:21:54.05,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.59,0:21:58.80,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.59,0:22:05.59,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.59,0:22:12.10,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:12.14,0:22:17.14,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.18,0:22:22.35,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:51.14,0:22:53.51,Default,,0000,0000,0000,,Choji, things might get pretty ugly.
+Dialogue: 0,0:22:53.55,0:22:54.59,Default,,0000,0000,0000,,You’ve figured something out, huh?
+Dialogue: 0,0:22:54.59,0:22:55.97,Default,,0000,0000,0000,,We need to contact\Nthe Fifth Hokage.
+Dialogue: 0,0:22:56.14,0:22:58.59,Default,,0000,0000,0000,,To not let the returning forces\Nenter the village.
+Dialogue: 0,0:22:58.59,0:23:00.22,Default,,0000,0000,0000,,Got it! But… Why?
+Dialogue: 0,0:23:00.30,0:23:03.10,Default,,0000,0000,0000,,If the Paper Bombs were\Nall a diversion,
+Dialogue: 0,0:23:03.14,0:23:04.68,Default,,0000,0000,0000,,then the moment he makes his move
+Dialogue: 0,0:23:04.72,0:23:06.72,Default,,0000,0000,0000,,is most likely when\Nthe main forces return!
+Dialogue: 0,0:23:06.76,0:23:07.72,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:23:07.76,0:23:09.97,Default,,0000,0000,0000,,Shikamaru! Choji! We’ve got trouble!
+Dialogue: 0,0:23:10.01,0:23:10.93,Default,,0000,0000,0000,,What happened, Hinata?!
+Dialogue: 0,0:23:10.97,0:23:12.72,Default,,0000,0000,0000,,Naruto… Naruto’s in trouble!
+Dialogue: 0,0:23:13.39,0:23:16.59,Default,,0000,0000,0000,,Next time: “Multiple Traps!\NCountdown to Destruction”

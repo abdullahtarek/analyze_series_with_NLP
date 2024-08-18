@@ -1,0 +1,239 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.75,0:00:21.08,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.99,0:00:29.99,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.99,0:00:35.29,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.33,0:00:39.45,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.70,0:00:45.62,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.25,0:00:53.16,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.62,0:00:58.04,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:58.08,0:01:05.16,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.20,0:01:12.33,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.37,0:01:19.00,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.45,0:01:28.99,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:02:00.99,0:02:03.41,Default,,0000,0000,0000,,It’s close.
+Dialogue: 0,0:02:13.99,0:02:15.91,Default,,0000,0000,0000,,That’s strange.
+Dialogue: 0,0:02:16.45,0:02:19.16,Default,,0000,0000,0000,,There hasn’t been even\None trap set for a while…
+Dialogue: 0,0:02:20.12,0:02:22.20,Default,,0000,0000,0000,,Shikamaru, what do you think?
+Dialogue: 0,0:02:24.12,0:02:26.79,Default,,0000,0000,0000,,We’re being underestimated.
+Dialogue: 0,0:02:27.29,0:02:32.41,Default,,0000,0000,0000,,Those guys think the only one\Nfollowing them is that big guy.
+Dialogue: 0,0:02:33.00,0:02:35.99,Default,,0000,0000,0000,,They don’t need to set\Na trap on their man.
+Dialogue: 0,0:02:35.99,0:02:39.04,Default,,0000,0000,0000,,How dare they underestimate us!
+Dialogue: 0,0:02:39.91,0:02:41.87,Default,,0000,0000,0000,,It seems you’re right.
+Dialogue: 0,0:02:42.66,0:02:45.62,Default,,0000,0000,0000,,We are being\Ncompletely  underestimated.
+Dialogue: 0,0:02:46.83,0:02:49.99,Default,,0000,0000,0000,,However, this is our chance.
+Dialogue: 0,0:02:53.20,0:02:56.99,Default,,0000,0000,0000,,Yeah… We’ll take them by surprise.
+Dialogue: 0,0:03:00.66,0:03:06.08,Default,,0000,0000,0000,,Your Opponent is Me!
+Dialogue: 0,0:03:19.79,0:03:21.79,Default,,0000,0000,0000,,That Jirobo is late.
+Dialogue: 0,0:03:22.45,0:03:24.99,Default,,0000,0000,0000,,No, he’s already here.
+Dialogue: 0,0:03:30.70,0:03:33.99,Default,,0000,0000,0000,,Aw, c’mon, what took you so long?
+Dialogue: 0,0:03:34.70,0:03:35.99,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:03:36.91,0:03:40.16,Default,,0000,0000,0000,,It took time to eat the scums’ Chakra.
+Dialogue: 0,0:03:42.25,0:03:45.75,Default,,0000,0000,0000,,Hey fatso, don’t you dare drag!
+Dialogue: 0,0:03:46.29,0:03:48.70,Default,,0000,0000,0000,,Hurry up and carry that coffin…
+Dialogue: 0,0:03:48.75,0:03:52.83,Default,,0000,0000,0000,,That’s your job, you vulgar swine.
+Dialogue: 0,0:03:53.04,0:03:54.00,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:03:58.99,0:04:03.12,Default,,0000,0000,0000,,What, Jirobo…\NYou’re awfully easygoing today.
+Dialogue: 0,0:04:04.37,0:04:05.54,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:04:06.99,0:04:10.75,Default,,0000,0000,0000,,I’m just saying I’m not handing you\Nthe coffin.
+Dialogue: 0,0:04:10.91,0:04:13.12,Default,,0000,0000,0000,,Because you’re not Jirobo!
+Dialogue: 0,0:04:21.99,0:04:23.79,Default,,0000,0000,0000,,This time let me do it.
+Dialogue: 0,0:04:23.99,0:04:26.99,Default,,0000,0000,0000,,Sakon, Tayuya, you guys go ahead!
+Dialogue: 0,0:04:33.12,0:04:37.54,Default,,0000,0000,0000,,Jirobo always corrects\NTayuya’s choice of words.
+Dialogue: 0,0:04:41.41,0:04:43.37,Default,,0000,0000,0000,,Heh, I see.
+Dialogue: 0,0:04:44.99,0:04:46.95,Default,,0000,0000,0000,,Ninja Art: Spider Web Net.
+Dialogue: 0,0:04:56.79,0:04:58.99,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:05:05.00,0:05:06.87,Default,,0000,0000,0000,,Ninja Art: Spiral Spider Web
+Dialogue: 0,0:05:12.25,0:05:13.45,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:05:13.87,0:05:15.91,Default,,0000,0000,0000,,Now Kiba, Akamaru!
+Dialogue: 0,0:05:15.99,0:05:19.41,Default,,0000,0000,0000,,He shouldn’t be able to\Nmove in mid-air.
+Dialogue: 0,0:05:20.99,0:05:22.20,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:05:29.45,0:05:30.79,Default,,0000,0000,0000,,I won’t let you get away!
+Dialogue: 0,0:05:32.99,0:05:34.99,Default,,0000,0000,0000,,That’s my line.
+Dialogue: 0,0:05:35.87,0:05:37.33,Default,,0000,0000,0000,,Look at your feet.
+Dialogue: 0,0:05:40.50,0:05:41.66,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:05:41.99,0:05:44.99,Default,,0000,0000,0000,,It’s too soon for you to think\Nyou captured us with a thing like this!
+Dialogue: 0,0:05:47.70,0:05:48.83,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:05:50.91,0:05:55.16,Default,,0000,0000,0000,,C’mon, what the hell is\Nthat fatso doing, dammit!
+Dialogue: 0,0:05:55.83,0:06:00.66,Default,,0000,0000,0000,,It was a mistake to leave\Nbehind the weakest of us, after all.
+Dialogue: 0,0:06:13.41,0:06:14.54,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:06:23.79,0:06:25.54,Default,,0000,0000,0000,,– Neji! 					– What?!
+Dialogue: 0,0:06:26.99,0:06:29.25,Default,,0000,0000,0000,,Me, Naruto, Kiba and Neji…
+Dialogue: 0,0:06:29.33,0:06:31.95,Default,,0000,0000,0000,,Even though we’ve followed the plan,\Nit’s no good.
+Dialogue: 0,0:06:47.99,0:06:50.54,Default,,0000,0000,0000,,I’m going to cocoon you.
+Dialogue: 0,0:06:56.25,0:06:57.62,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:07:01.99,0:07:04.04,Default,,0000,0000,0000,,Damn it! Damn it!
+Dialogue: 0,0:07:04.41,0:07:07.54,Default,,0000,0000,0000,,What’s with this thread?! It won’t cut.
+Dialogue: 0,0:07:12.99,0:07:14.41,Default,,0000,0000,0000,,It’s useless.
+Dialogue: 0,0:07:14.79,0:07:17.99,Default,,0000,0000,0000,,My thread is so strong that\Neven if two elephants pulled away,
+Dialogue: 0,0:07:17.99,0:07:19.99,Default,,0000,0000,0000,,it wouldn’t break.
+Dialogue: 0,0:07:24.00,0:07:26.41,Default,,0000,0000,0000,,Shadow Clone… Interesting.
+Dialogue: 0,0:07:38.79,0:07:40.50,Default,,0000,0000,0000,,The thread is sticking…
+Dialogue: 0,0:07:41.08,0:07:43.75,Default,,0000,0000,0000,,This stickiness is probably made
+Dialogue: 0,0:07:43.79,0:07:47.37,Default,,0000,0000,0000,,by mixing Chakra with\Nhis special body fluid.
+Dialogue: 0,0:07:47.99,0:07:51.99,Default,,0000,0000,0000,,Moreover, this strength. Even after\Nit’s been released from his hands…
+Dialogue: 0,0:07:52.12,0:07:55.62,Default,,0000,0000,0000,,Chakra’s continuously flowing\Nin the thread.
+Dialogue: 0,0:07:57.12,0:08:02.79,Default,,0000,0000,0000,,It’s impossible…\NThe level of the Jutsu is unrealistic.
+Dialogue: 0,0:08:04.75,0:08:07.75,Default,,0000,0000,0000,,Calm down… Just calm down…
+Dialogue: 0,0:08:09.16,0:08:10.54,Default,,0000,0000,0000,,my Chakra.
+Dialogue: 0,0:08:26.66,0:08:29.29,Default,,0000,0000,0000,,Ninja Art:\NGum Style Spider Thread.
+Dialogue: 0,0:08:30.08,0:08:32.83,Default,,0000,0000,0000,,It’s a different color than\Nthe thread from before.
+Dialogue: 0,0:08:33.58,0:08:34.79,Default,,0000,0000,0000,,What’s he gonna do?
+Dialogue: 0,0:08:45.54,0:08:47.83,Default,,0000,0000,0000,,It’s quickly solidifying, huh…
+Dialogue: 0,0:08:50.45,0:08:53.79,Default,,0000,0000,0000,,You are the first one,\Nso it’s like a little entertainment.
+Dialogue: 0,0:08:53.99,0:08:58.00,Default,,0000,0000,0000,,Now I’ll play a game to see\Nwhich of you is the real one.
+Dialogue: 0,0:08:58.04,0:08:59.66,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:09:00.99,0:09:04.25,Default,,0000,0000,0000,,First is…you at the end.
+Dialogue: 0,0:09:06.50,0:09:07.95,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:09:10.75,0:09:14.45,Default,,0000,0000,0000,,It was a clone, huh.\NWell, this one next!
+Dialogue: 0,0:09:20.50,0:09:22.33,Default,,0000,0000,0000,,What a lucky guy.
+Dialogue: 0,0:09:22.99,0:09:27.08,Default,,0000,0000,0000,,Next, I’ll do two at a time.\NThe odds are 2 to 1.
+Dialogue: 0,0:09:42.99,0:09:48.04,Default,,0000,0000,0000,,This guy has a great luck,\Nbut it's either one or the other now!
+Dialogue: 0,0:09:59.99,0:10:02.70,Default,,0000,0000,0000,,Turns out he made it to the last.
+Dialogue: 0,0:10:03.29,0:10:09.79,Default,,0000,0000,0000,,Well, it was fun as a game,\Nbut now the game’s over.
+Dialogue: 0,0:10:14.16,0:10:14.99,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:10:18.54,0:10:20.33,Default,,0000,0000,0000,,The first one is done.
+Dialogue: 0,0:10:22.08,0:10:22.91,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:37.20,0:10:41.08,Default,,0000,0000,0000,,I see, the real body made\Nits shadow clones get caught,
+Dialogue: 0,0:10:41.12,0:10:44.54,Default,,0000,0000,0000,,and hid himself and\Nwaited for a chance, huh.
+Dialogue: 0,0:10:45.45,0:10:49.75,Default,,0000,0000,0000,,For a small fish like that to make\Nsuch a plan in those circumstances...
+Dialogue: 0,0:10:50.12,0:10:53.75,Default,,0000,0000,0000,,You're not too bad…but …
+Dialogue: 0,0:10:59.33,0:11:01.37,Default,,0000,0000,0000,,You’re at the end of the line. Die!
+Dialogue: 0,0:11:04.99,0:11:05.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:06.50,0:11:09.16,Default,,0000,0000,0000,,Naruto, your stall was helpful.
+Dialogue: 0,0:11:09.66,0:11:10.37,Default,,0000,0000,0000,,Neji!
+Dialogue: 0,0:11:12.62,0:11:15.99,Default,,0000,0000,0000,,You… How…?!
+Dialogue: 0,0:11:19.37,0:11:21.99,Default,,0000,0000,0000,,Substance with Chakra base…
+Dialogue: 0,0:11:22.99,0:11:24.99,Default,,0000,0000,0000,,It’s meaningless in front\Nof Gentle Fist
+Dialogue: 0,0:11:24.99,0:11:27.41,Default,,0000,0000,0000,,that destroys by pouring\NChakra through.
+Dialogue: 0,0:11:28.83,0:11:30.25,Default,,0000,0000,0000,,That guy’s Jutsu…
+Dialogue: 0,0:11:32.75,0:11:35.95,Default,,0000,0000,0000,,Evidently I’m the only one\Nwho can fight it.
+Dialogue: 0,0:11:38.12,0:11:38.99,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:11:40.95,0:11:42.00,Default,,0000,0000,0000,,I’ll take care of this.
+Dialogue: 0,0:12:02.62,0:12:05.62,Default,,0000,0000,0000,,What’s wrong? Hey, Akamaru.
+Dialogue: 0,0:12:06.99,0:12:10.54,Default,,0000,0000,0000,,Apparently, this guy’s stronger\Nthan the fatso before.
+Dialogue: 0,0:12:11.75,0:12:13.41,Default,,0000,0000,0000,,Quite a bit stronger.
+Dialogue: 0,0:12:19.99,0:12:22.20,Default,,0000,0000,0000,,If we’re not prepared for\N“one person, one kill,”
+Dialogue: 0,0:12:22.25,0:12:23.79,Default,,0000,0000,0000,,then it’s not going to work out.
+Dialogue: 0,0:12:24.99,0:12:26.16,Default,,0000,0000,0000,,That’s what you said earlier.
+Dialogue: 0,0:12:26.99,0:12:30.08,Default,,0000,0000,0000,,Yeah, that’s right.
+Dialogue: 0,0:12:31.45,0:12:35.83,Default,,0000,0000,0000,,Plus, we won’t be able to catch up\Nwith Sasuke if we stall here.
+Dialogue: 0,0:12:35.99,0:12:37.99,Default,,0000,0000,0000,,Choji hasn’t come back either.
+Dialogue: 0,0:12:44.99,0:12:46.87,Default,,0000,0000,0000,,The reason we’re doing this
+Dialogue: 0,0:12:46.91,0:12:49.16,Default,,0000,0000,0000,,is because of the mission\Nto bring back Sasuke.
+Dialogue: 0,0:12:50.41,0:12:51.99,Default,,0000,0000,0000,,But that’s not all.
+Dialogue: 0,0:12:52.99,0:12:56.12,Default,,0000,0000,0000,,What we are after and trying\Nto protect is the bond
+Dialogue: 0,0:12:56.16,0:12:58.99,Default,,0000,0000,0000,,of the Shinobi of\Nthe Village Hidden in the Leaves.
+Dialogue: 0,0:13:00.99,0:13:06.16,Default,,0000,0000,0000,,Do you remember Iruka’s words\Nat the Third Hokage’s funeral?
+Dialogue: 0,0:13:13.54,0:13:21.45,Default,,0000,0000,0000,,Iruka Sensei, why do people risk\Ntheir lives for others?
+Dialogue: 0,0:13:25.04,0:13:28.62,Default,,0000,0000,0000,,When someone dies,
+Dialogue: 0,0:13:29.99,0:13:34.08,Default,,0000,0000,0000,,they depart with their past,\Npresent and future.
+Dialogue: 0,0:13:34.99,0:13:38.37,Default,,0000,0000,0000,,Many people die on missions\Nor at war.
+Dialogue: 0,0:13:38.99,0:13:42.99,Default,,0000,0000,0000,,And their death is surprisingly\Nunceremonious…they simply die.
+Dialogue: 0,0:13:44.12,0:13:45.99,Default,,0000,0000,0000,,Hayate was one of those people.
+Dialogue: 0,0:13:46.99,0:13:50.91,Default,,0000,0000,0000,,Those who die have dreams\Nand goals, too…
+Dialogue: 0,0:13:51.95,0:13:56.16,Default,,0000,0000,0000,,But everyone has things that\Nare equally important.
+Dialogue: 0,0:13:57.54,0:14:02.20,Default,,0000,0000,0000,,Parents, siblings, friends, lovers,\Nthe people of their village,
+Dialogue: 0,0:14:02.25,0:14:04.25,Default,,0000,0000,0000,,the people important to you.
+Dialogue: 0,0:14:05.37,0:14:08.20,Default,,0000,0000,0000,,The connection to the people\Nyou trust and help mutually,
+Dialogue: 0,0:14:08.25,0:14:12.79,Default,,0000,0000,0000,,the people important to you\Nfrom the day you were born.
+Dialogue: 0,0:14:14.08,0:14:18.41,Default,,0000,0000,0000,,And the thread that\Nconnects you and your people
+Dialogue: 0,0:14:18.45,0:14:20.58,Default,,0000,0000,0000,,gets stronger through time.
+Dialogue: 0,0:14:22.08,0:14:23.83,Default,,0000,0000,0000,,It’s not a theory.
+Dialogue: 0,0:14:24.54,0:14:28.12,Default,,0000,0000,0000,,That’s what a person does\Nas the thread is established
+Dialogue: 0,0:14:28.87,0:14:30.70,Default,,0000,0000,0000,,because they’re important to you…
+Dialogue: 0,0:14:37.99,0:14:42.25,Default,,0000,0000,0000,,Look, Sasuke is heading\Ntowards Orochimaru.
+Dialogue: 0,0:14:42.95,0:14:45.99,Default,,0000,0000,0000,,We can’t let Orochimaru get\Na hold of someone from our village.
+Dialogue: 0,0:14:47.70,0:14:48.66,Default,,0000,0000,0000,,Absolutely not.
+Dialogue: 0,0:14:50.75,0:14:51.99,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:15:05.99,0:15:07.08,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:09.41,0:15:12.16,Default,,0000,0000,0000,,Your eyes are better than mine.
+Dialogue: 0,0:15:18.66,0:15:19.87,Default,,0000,0000,0000,,Right now, Sasuke is…
+Dialogue: 0,0:15:23.62,0:15:24.99,Default,,0000,0000,0000,,in the darkness.
+Dialogue: 0,0:15:35.41,0:15:39.54,Default,,0000,0000,0000,,Hurry up and go!\NI’ll catch up with you all!
+Dialogue: 0,0:15:41.99,0:15:42.95,Default,,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:15:45.41,0:15:47.41,Default,,0000,0000,0000,,Okay! Let’s go!
+Dialogue: 0,0:15:48.33,0:15:50.99,Default,,0000,0000,0000,,You along with Choji,\Nbe sure to catch up!
+Dialogue: 0,0:15:52.66,0:15:53.70,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:16:06.00,0:16:09.25,Default,,0000,0000,0000,,Neji, be absolutely sure to catch up!
+Dialogue: 0,0:16:14.25,0:16:16.58,Default,,0000,0000,0000,,Heh…think I’ll let them get away?!
+Dialogue: 0,0:16:18.91,0:16:19.83,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:16:26.99,0:16:27.99,Default,,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:16:39.99,0:16:42.54,Default,,0000,0000,0000,,This guy’s pretty good…
+Dialogue: 0,0:16:46.25,0:16:47.41,Default,,0000,0000,0000,,Neji!
+Dialogue: 0,0:16:47.70,0:16:48.99,Default,,0000,0000,0000,,That’s Neji all right!
+Dialogue: 0,0:16:51.99,0:16:55.25,Default,,0000,0000,0000,,Not yet…\NI won’t let you escape that easily!
+Dialogue: 0,0:16:58.75,0:17:00.70,Default,,0000,0000,0000,,I won’t let you go any further from here!
+Dialogue: 0,0:17:06.00,0:17:07.29,Default,,0000,0000,0000,,It’s useless.
+Dialogue: 0,0:17:11.25,0:17:12.79,Default,,0000,0000,0000,,Well, that’s fine.
+Dialogue: 0,0:17:13.20,0:17:17.45,Default,,0000,0000,0000,,It seems you’re the strongest\Nout of the lot.
+Dialogue: 0,0:17:20.25,0:17:24.20,Default,,0000,0000,0000,,Aw man, now I wanna play…
+Dialogue: 0,0:17:24.99,0:17:28.87,Default,,0000,0000,0000,,It’s such a waste if\Na game isn't played little by little.
+Dialogue: 0,0:17:51.37,0:17:54.62,Default,,0000,0000,0000,,For starters,\NI’ll play and kill you in three minutes.
+Dialogue: 0,0:18:55.99,0:18:57.20,Default,,0000,0000,0000,,I got you.
+Dialogue: 0,0:19:01.12,0:19:07.99,Default,,0000,0000,0000,,You’re pretty good at handling Chakra\Nand you’ve got sharp eyes.
+Dialogue: 0,0:19:08.99,0:19:11.83,Default,,0000,0000,0000,,You release Chakra from\Nthe Chakra points in your hands
+Dialogue: 0,0:19:11.87,0:19:13.54,Default,,0000,0000,0000,,like a sharp needle.
+Dialogue: 0,0:19:13.99,0:19:18.58,Default,,0000,0000,0000,,You see the thin part of the thread\Nwith Chakra running through it, and attack.
+Dialogue: 0,0:19:22.70,0:19:25.41,Default,,0000,0000,0000,,I see, I’ve heard from Lord Orochimaru…
+Dialogue: 0,0:19:25.45,0:19:27.99,Default,,0000,0000,0000,,This is what’s called Gentle Fist, isn’t it?
+Dialogue: 0,0:19:30.70,0:19:33.83,Default,,0000,0000,0000,,But if you can’t use\Nthose annoying hands,
+Dialogue: 0,0:19:33.87,0:19:36.12,Default,,0000,0000,0000,,they can’t cut my threads either.
+Dialogue: 0,0:19:39.45,0:19:43.99,Default,,0000,0000,0000,,Man, games. The instant you know\Nthe rules of engagement,
+Dialogue: 0,0:19:43.99,0:19:46.45,Default,,0000,0000,0000,,they’re no longer interesting.
+Dialogue: 0,0:19:47.29,0:19:51.66,Default,,0000,0000,0000,,It’s only been a minute,\Nbut I’m already tired of you.
+Dialogue: 0,0:20:08.41,0:20:09.66,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:20:13.58,0:20:15.87,Default,,0000,0000,0000,,Ninja Art:\NGum Style Spider Thread
+Dialogue: 0,0:20:32.45,0:20:33.12,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:45.16,0:20:46.99,Default,,0000,0000,0000,,How did he…?!
+Dialogue: 0,0:20:48.00,0:20:50.66,Default,,0000,0000,0000,,I’ll explain, specially to you.
+Dialogue: 0,0:20:51.54,0:20:53.00,Default,,0000,0000,0000,,It’s not just my hands
+Dialogue: 0,0:20:54.41,0:20:58.20,Default,,0000,0000,0000,,I can release Chakra from\Nall of the Chakra points on my body.
+Dialogue: 0,0:20:59.99,0:21:03.70,Default,,0000,0000,0000,,And it’s game over.
+Dialogue: 0,0:21:08.95,0:21:12.99,Default,,0000,0000,0000,,Gentle Fist: 8 trigrams 64 palms.
+Dialogue: 0,0:21:25.50,0:21:32.66,Default,,0000,0000,0000,,Once in a long while, once in a while
+Dialogue: 0,0:21:32.79,0:21:38.25,Default,,0000,0000,0000,,The remnants of a person\Nbroken by dreams
+Dialogue: 0,0:21:38.41,0:21:43.54,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:21:46.87,0:21:53.91,Default,,0000,0000,0000,,Clinging to the Divine,\Nclinging to Buddha
+Dialogue: 0,0:21:53.95,0:21:59.41,Default,,0000,0000,0000,,The remnants of a person crying
+Dialogue: 0,0:21:59.87,0:22:03.45,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:05.00,0:22:08.12,Default,,0000,0000,0000,,Rendezvous with a happy dance circle
+Dialogue: 0,0:22:08.16,0:22:11.99,Default,,0000,0000,0000,,This is my victory pose, round and around\N (round around)
+Dialogue: 0,0:22:12.33,0:22:15.29,Default,,0000,0000,0000,,Shake shake shake\NLet’s look
+Dialogue: 0,0:22:15.33,0:22:19.54,Default,,0000,0000,0000,,With a bye-bye rhythm that never ends
+Dialogue: 0,0:22:28.70,0:22:33.87,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:35.75,0:22:38.99,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:39.33,0:22:42.62,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:42.91,0:22:46.95,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:51.99,0:22:53.83,Default,,0000,0000,0000,,The attack on his Chakra points\Nis ineffective.
+Dialogue: 0,0:22:53.87,0:22:54.70,Default,,0000,0000,0000,,On top of that,
+Dialogue: 0,0:22:54.75,0:22:58.20,Default,,0000,0000,0000,,he switched to a long-distance attack\Nto avoid Gentle Fist.
+Dialogue: 0,0:22:58.62,0:23:02.95,Default,,0000,0000,0000,,This guy blocks my every move\Nand he quickly reads my hands.
+Dialogue: 0,0:23:03.16,0:23:06.99,Default,,0000,0000,0000,,This is bad. I’m at a disadvantage\Nif the fight drags on.
+Dialogue: 0,0:23:07.54,0:23:10.25,Default,,0000,0000,0000,,And if he noticed that, then…
+Dialogue: 0,0:23:11.00,0:23:14.99,Default,,0000,0000,0000,,Next time: “360 Degrees of Vision:\NThe Byakugan’s Blind Spot!”

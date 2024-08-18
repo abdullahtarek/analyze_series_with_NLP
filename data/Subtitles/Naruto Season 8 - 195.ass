@@ -1,0 +1,395 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.04,0:00:03.45,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.49,0:00:06.25,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.29,0:00:12.37,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.75,0:00:28.66,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.70,0:00:34.20,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.25,0:00:36.83,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:36.87,0:00:40.45,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.49,0:00:44.87,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.49,0:00:51.49,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:51.91,0:00:56.49,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.50,0:01:02.08,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.12,0:01:07.49,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.49,0:01:10.54,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.58,0:01:19.49,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:48.75,0:01:52.83,Default,,0000,0000,0000,,Say, Grandma Tsunada,\Nam I really so…?
+Dialogue: 0,0:01:55.20,0:01:58.50,Default,,0000,0000,0000,,Come to think of it, recently I feel dull
+Dialogue: 0,0:01:58.54,0:02:01.49,Default,,0000,0000,0000,,and I make more mistakes\N with Jutsu than before.
+Dialogue: 0,0:02:01.66,0:02:03.00,Default,,0000,0000,0000,,And, what’s more, even worse…
+Dialogue: 0,0:02:03.70,0:02:07.62,Default,,0000,0000,0000,,I can’t eat more than five of\Nthe large-size ramen noodles at Ichiraku…
+Dialogue: 0,0:02:08.08,0:02:10.91,Default,,0000,0000,0000,,Might I perhaps have\Nsome terrible illness?!
+Dialogue: 0,0:02:11.04,0:02:14.49,Default,,0000,0000,0000,,Come on, and tell me.\NI’m prepared to hear the worst!
+Dialogue: 0,0:02:14.83,0:02:16.08,Default,,0000,0000,0000,,You are in good health.
+Dialogue: 0,0:02:16.25,0:02:17.00,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:17.91,0:02:21.62,Default,,0000,0000,0000,,Hey! That’s Bushy Brow’s\Nmedical record, isn’t it?
+Dialogue: 0,0:02:21.95,0:02:24.20,Default,,0000,0000,0000,,Recently he’s been avoiding\Nhis regular check-ups.
+Dialogue: 0,0:02:24.25,0:02:25.29,Default,,0000,0000,0000,,Bring him in, will you?
+Dialogue: 0,0:02:25.49,0:02:27.33,Default,,0000,0000,0000,,Huh? But, what about me…?
+Dialogue: 0,0:02:28.49,0:02:30.04,Default,,0000,0000,0000,,You are stupid. That’s all!
+Dialogue: 0,0:02:30.08,0:02:31.08,Default,,0000,0000,0000,,Be on your way!
+Dialogue: 0,0:02:33.16,0:02:35.08,Default,,0000,0000,0000,,– Put your clothes back on, you idiot!\N– Yes!
+Dialogue: 0,0:02:35.12,0:02:36.20,Default,,0000,0000,0000,,Unbelievable!
+Dialogue: 0,0:02:37.29,0:02:38.50,Default,,0000,0000,0000,,How was it?
+Dialogue: 0,0:02:39.41,0:02:41.45,Default,,0000,0000,0000,,I’m fit as a fiddle!
+Dialogue: 0,0:02:41.58,0:02:43.49,Default,,0000,0000,0000,,I could tell that just by looking at you.
+Dialogue: 0,0:02:44.08,0:02:45.16,Default,,0000,0000,0000,,What’s that all about?
+Dialogue: 0,0:02:45.20,0:02:47.20,Default,,0000,0000,0000,,He doesn’t seem to be in\Na very good mood, does he?
+Dialogue: 0,0:02:47.25,0:02:51.33,Default,,0000,0000,0000,,Oh, by the way,\Nhave you seen Bushy Brow?
+Dialogue: 0,0:02:51.37,0:02:53.12,Default,,0000,0000,0000,,No, but I know where he is.
+Dialogue: 0,0:02:55.00,0:02:56.70,Default,,0000,0000,0000,,These days,\Nyou can always find him here.
+Dialogue: 0,0:02:56.75,0:02:57.91,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:02:59.58,0:03:04.16,Default,,0000,0000,0000,,2954… 2955…
+Dialogue: 0,0:03:04.41,0:03:10.29,Default,,0000,0000,0000,,2956… 2957… 2958…
+Dialogue: 0,0:03:11.49,0:03:12.91,Default,,0000,0000,0000,,That’s just amazing…
+Dialogue: 0,0:03:14.08,0:03:15.91,Default,,0000,0000,0000,,Even after having surgery\Nfor the kind of injury
+Dialogue: 0,0:03:15.95,0:03:17.91,Default,,0000,0000,0000,,that could prevent him from\Ncontinuing on as a Ninja…
+Dialogue: 0,0:03:22.33,0:03:23.87,Default,,0000,0000,0000,,– Bushy Brow! 					– Lee!
+Dialogue: 0,0:03:23.91,0:03:24.83,Default,,0000,0000,0000,,Bushy Brow!
+Dialogue: 0,0:03:27.08,0:03:28.00,Default,,0000,0000,0000,,Lee…
+Dialogue: 0,0:03:28.49,0:03:30.66,Default,,0000,0000,0000,,It’s nothing.
+Dialogue: 0,0:03:31.25,0:03:35.33,Default,,0000,0000,0000,,Grandma Tsunada told me to bring you\Nfor your regular check-up.
+Dialogue: 0,0:03:35.49,0:03:41.00,Default,,0000,0000,0000,,It slipped my mind.\NI’ve been feeling fine lately, so I just…
+Dialogue: 0,0:03:41.49,0:03:43.37,Default,,0000,0000,0000,,You don’t look like it though.
+Dialogue: 0,0:03:43.87,0:03:46.54,Default,,0000,0000,0000,,HIDDEN LEAF HOSPITAL
+Dialogue: 0,0:03:50.91,0:03:52.49,Default,,0000,0000,0000,,Rest for a while.
+Dialogue: 0,0:03:52.49,0:03:54.25,Default,,0000,0000,0000,,You are forbidden from engaging in\Nany missions or training for the duration.
+Dialogue: 0,0:03:55.50,0:03:58.45,Default,,0000,0000,0000,,There is cumulative damage\Nto your Chakra Network.
+Dialogue: 0,0:03:58.70,0:04:00.49,Default,,0000,0000,0000,,You were once injured so badly
+Dialogue: 0,0:04:00.49,0:04:02.95,Default,,0000,0000,0000,,that you had to give up on being\Na Ninja for a while.
+Dialogue: 0,0:04:04.12,0:04:05.49,Default,,0000,0000,0000,,It’s my self-rule.
+Dialogue: 0,0:04:09.66,0:04:10.91,Default,,0000,0000,0000,,Your self-rule?
+Dialogue: 0,0:04:10.95,0:04:13.45,Default,,0000,0000,0000,,Yes! To never forget\Nmy original intentions!
+Dialogue: 0,0:04:13.49,0:04:17.70,Default,,0000,0000,0000,,As long as I keep on trying,\NI will be able to continue on as a Ninja!
+Dialogue: 0,0:04:24.50,0:04:25.54,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:04:25.75,0:04:27.70,Default,,0000,0000,0000,,I will remove you from active duty\Nfor a while,
+Dialogue: 0,0:04:27.75,0:04:30.49,Default,,0000,0000,0000,,but you may continue training.\NJust don't overdo it.
+Dialogue: 0,0:04:30.58,0:04:31.37,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:31.41,0:04:34.45,Default,,0000,0000,0000,,In particular,\NI prohibit you to use Hidden Lotus!
+Dialogue: 0,0:04:35.08,0:04:35.83,Default,,0000,0000,0000,,Got that?
+Dialogue: 0,0:04:35.87,0:04:37.49,Default,,0000,0000,0000,,Y-Yes…
+Dialogue: 0,0:04:43.83,0:04:46.16,Default,,0000,0000,0000,,Oh! Hey, Bushy Brow, how did it go?
+Dialogue: 0,0:04:48.87,0:04:51.70,Default,,0000,0000,0000,,What’s wrong? Hey!
+Dialogue: 0,0:04:53.49,0:04:55.49,Default,,0000,0000,0000,,The results were bad.
+Dialogue: 0,0:04:55.83,0:04:57.75,Default,,0000,0000,0000,,Judging from the way he looked,\NI’d say considerably…
+Dialogue: 0,0:04:57.79,0:05:00.00,Default,,0000,0000,0000,,By “considerably,”\Ndo you mean that “considerably”?
+Dialogue: 0,0:05:00.04,0:05:02.37,Default,,0000,0000,0000,,Yes.\NConsiderable, to be sure.
+Dialogue: 0,0:05:02.70,0:05:05.20,Default,,0000,0000,0000,,Considerable?!
+Dialogue: 0,0:05:10.91,0:05:12.49,Default,,0000,0000,0000,,What are you so down about?! Lee!
+Dialogue: 0,0:05:14.45,0:05:15.49,Default,,0000,0000,0000,,Guy Sensei!
+Dialogue: 0,0:05:15.49,0:05:19.29,Default,,0000,0000,0000,,I heard the results of the exam.\NYou have permission to train, don’t you?
+Dialogue: 0,0:05:19.79,0:05:23.00,Default,,0000,0000,0000,,Yes, but the Hidden Lotus…
+Dialogue: 0,0:05:25.70,0:05:28.49,Default,,0000,0000,0000,,That day, you were crying right there…
+Dialogue: 0,0:05:33.45,0:05:34.91,Default,,0000,0000,0000,,Your surgery will be a success
+Dialogue: 0,0:05:34.95,0:05:37.49,Default,,0000,0000,0000,,because you have worked hard\Nall the way through.
+Dialogue: 0,0:05:38.87,0:05:41.75,Default,,0000,0000,0000,,You have the power to bring\Nyour own future in the heavens.
+Dialogue: 0,0:05:42.49,0:05:43.49,Default,,0000,0000,0000,,And in the one in a thousand—
+Dialogue: 0,0:05:43.49,0:05:47.25,Default,,0000,0000,0000,,no, one in a million chance\Nthat something goes wrong…
+Dialogue: 0,0:05:49.25,0:05:50.83,Default,,0000,0000,0000,,I’m going to die with you!
+Dialogue: 0,0:05:56.50,0:05:58.12,Default,,0000,0000,0000,,Ever since the time I met you,
+Dialogue: 0,0:05:58.16,0:06:02.70,Default,,0000,0000,0000,,my Way of Ninja has been\Nbringing you up to be a fine Ninja.
+Dialogue: 0,0:06:04.49,0:06:05.58,Default,,0000,0000,0000,,I promise you!
+Dialogue: 0,0:06:08.20,0:06:11.25,Default,,0000,0000,0000,,You believed me then and had the surgery.\NAnd it was successful.
+Dialogue: 0,0:06:11.29,0:06:13.49,Default,,0000,0000,0000,,You must have faith in me\None more time!
+Dialogue: 0,0:06:14.75,0:06:16.91,Default,,0000,0000,0000,,If you can no longer use the Hidden Lotus,
+Dialogue: 0,0:06:16.95,0:06:19.49,Default,,0000,0000,0000,,then strive to attain an even\Ngreater technique through your efforts!
+Dialogue: 0,0:06:20.04,0:06:22.54,Default,,0000,0000,0000,,There are no limits in\Nthe face of your efforts.
+Dialogue: 0,0:06:22.58,0:06:23.70,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:06:27.25,0:06:29.87,Default,,0000,0000,0000,,You are a genius at effort!
+Dialogue: 0,0:06:34.66,0:06:35.49,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:35.70,0:06:38.49,Default,,0000,0000,0000,,I'll give you some training for\Nthe first time in quite a spell!
+Dialogue: 0,0:06:38.49,0:06:40.33,Default,,0000,0000,0000,,First, dash to the Academy practice hall!
+Dialogue: 0,0:06:40.37,0:06:41.49,Default,,0000,0000,0000,,Please instruct me!
+Dialogue: 0,0:06:41.49,0:06:45.04,Default,,0000,0000,0000,,If you don’t get there in ten seconds,\N it’s 500 push-ups!
+Dialogue: 0,0:06:45.16,0:06:45.87,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:06:46.25,0:06:50.49,Default,,0000,0000,0000,,The Third Super-Beast!
+Dialogue: 0,0:06:52.70,0:06:55.49,Default,,0000,0000,0000,,It was rash of us to think we could\Nmake it in ten seconds, after all.
+Dialogue: 0,0:06:56.29,0:06:57.91,Default,,0000,0000,0000,,Just as well!
+Dialogue: 0,0:06:59.25,0:07:00.49,Default,,0000,0000,0000,,Five hundred…
+Dialogue: 0,0:07:05.91,0:07:08.25,Default,,0000,0000,0000,,It’s been a long time since\N I smelled this smell…
+Dialogue: 0,0:07:32.62,0:07:33.87,Default,,0000,0000,0000,,Who is he?
+Dialogue: 0,0:07:34.12,0:07:36.70,Default,,0000,0000,0000,,That’s Yagura.\NHe’s been here for a week.
+Dialogue: 0,0:07:36.83,0:07:40.79,Default,,0000,0000,0000,,An acquaintance asked me to determine\Nwhether he has aptitude as a Ninja.
+Dialogue: 0,0:07:41.49,0:07:43.08,Default,,0000,0000,0000,,His name is Yagura, you say?
+Dialogue: 0,0:07:45.41,0:07:46.79,Default,,0000,0000,0000,,He’s pretty good, isn’t he?
+Dialogue: 0,0:07:47.00,0:07:49.41,Default,,0000,0000,0000,,Yes, he has the instincts for it.
+Dialogue: 0,0:07:49.49,0:07:53.91,Default,,0000,0000,0000,,He absorbs the things I teach him\Nlike sand absorbs water.
+Dialogue: 0,0:07:54.49,0:07:56.95,Default,,0000,0000,0000,,Oh! You’re Rock Lee, aren’t you?
+Dialogue: 0,0:07:57.00,0:07:58.25,Default,,0000,0000,0000,,Y-Yes…
+Dialogue: 0,0:07:58.62,0:08:00.95,Default,,0000,0000,0000,,I hear that you have superb techniques.
+Dialogue: 0,0:08:01.00,0:08:03.00,Default,,0000,0000,0000,,Sensei has told me about you.
+Dialogue: 0,0:08:03.49,0:08:05.54,Default,,0000,0000,0000,,No, nothing that great…
+Dialogue: 0,0:08:06.66,0:08:07.87,Default,,0000,0000,0000,,Don’t be bashful, you.
+Dialogue: 0,0:08:08.45,0:08:09.95,Default,,0000,0000,0000,,– Master Guy? 					– Yes?
+Dialogue: 0,0:08:10.33,0:08:13.29,Default,,0000,0000,0000,,I would like to receive some instruction\N from my senior.
+Dialogue: 0,0:08:13.66,0:08:15.12,Default,,0000,0000,0000,,Fine, then. Begin!
+Dialogue: 0,0:08:15.16,0:08:15.75,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:16.95,0:08:18.20,Default,,0000,0000,0000,,Guy Sensei!
+Dialogue: 0,0:08:18.25,0:08:20.25,Default,,0000,0000,0000,,You came to train, anyway.
+Dialogue: 0,0:08:20.54,0:08:24.00,Default,,0000,0000,0000,,First, lend a bit of aid to your junior partner\N and warm up.
+Dialogue: 0,0:08:24.04,0:08:24.95,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:08:25.12,0:08:28.79,Default,,0000,0000,0000,,He’s a spring chick who has just arrived,\Nso try not to let him get hurt.
+Dialogue: 0,0:08:29.12,0:08:29.91,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:08:30.49,0:08:33.66,Default,,0000,0000,0000,,What’s Bushy Brow doing in\N the Academy practice hall of all places?
+Dialogue: 0,0:08:33.70,0:08:36.00,Default,,0000,0000,0000,,I thought his condition was\Nconsiderably bad!
+Dialogue: 0,0:08:36.04,0:08:38.25,Default,,0000,0000,0000,,Yes, considerably! Considerably!
+Dialogue: 0,0:08:39.83,0:08:40.49,Default,,0000,0000,0000,,– Huh?! 					– Huh?
+Dialogue: 0,0:08:42.95,0:08:46.49,Default,,0000,0000,0000,,I’m inexperienced,\Nbut please instruct me.
+Dialogue: 0,0:08:46.62,0:08:50.00,Default,,0000,0000,0000,,Oh, please bear with me, too.
+Dialogue: 0,0:08:54.37,0:08:57.25,Default,,0000,0000,0000,,Now, Lee and Yagura, I want you both\Nto give it all you've got
+Dialogue: 0,0:08:57.29,0:08:59.45,Default,,0000,0000,0000,,but to also observe\Nthe greatest courtesy.
+Dialogue: 0,0:08:59.58,0:09:05.49,Default,,0000,0000,0000,,That is friendship!\NThat is youth. Get ready. Fight!
+Dialogue: 0,0:09:07.04,0:09:07.87,Default,,0000,0000,0000,,H-He’s fast!
+Dialogue: 0,0:09:08.08,0:09:09.49,Default,,0000,0000,0000,,Let’s have you show me…
+Dialogue: 0,0:09:09.49,0:09:12.49,Default,,0000,0000,0000,,The depth of the Taijutsu that\NMight Guy drilled into you!
+Dialogue: 0,0:09:16.49,0:09:17.79,Default,,0000,0000,0000,,What power!
+Dialogue: 0,0:09:24.33,0:09:25.91,Default,,0000,0000,0000,,Every single blow is heavy!
+Dialogue: 0,0:09:26.20,0:09:27.45,Default,,0000,0000,0000,,I haven’t the strength to absorb them!
+Dialogue: 0,0:09:30.37,0:09:31.75,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:09:34.49,0:09:37.29,Default,,0000,0000,0000,,Closing off the escape path above\N and strike from a low position…
+Dialogue: 0,0:09:37.70,0:09:38.70,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:09:42.45,0:09:44.49,Default,,0000,0000,0000,,The Leaf Hurricane was defeated!
+Dialogue: 0,0:09:48.45,0:09:50.12,Default,,0000,0000,0000,,Stop! Hold it right there!
+Dialogue: 0,0:09:50.49,0:09:52.00,Default,,0000,0000,0000,,Lee! Are you all right?
+Dialogue: 0,0:09:55.29,0:09:56.58,Default,,0000,0000,0000,,Pull yourself together, Bushy Brow!
+Dialogue: 0,0:09:57.12,0:09:58.70,Default,,0000,0000,0000,,What was that that just happened?
+Dialogue: 0,0:09:59.66,0:10:01.12,Default,,0000,0000,0000,,The Cross Method…
+Dialogue: 0,0:10:06.12,0:10:07.49,Default,,0000,0000,0000,,Meeting the opponent’s kick
+Dialogue: 0,0:10:07.49,0:10:09.49,Default,,0000,0000,0000,,and pinning his foot between\Nthe knee and elbow simultaneously—
+Dialogue: 0,0:10:09.49,0:10:11.49,Default,,0000,0000,0000,,a “bone-crushing daring technique .”
+Dialogue: 0,0:10:12.29,0:10:14.95,Default,,0000,0000,0000,,Where on earth\Ndid you learn that, Yagura!
+Dialogue: 0,0:10:15.00,0:10:16.45,Default,,0000,0000,0000,,I didn’t intend to do that.
+Dialogue: 0,0:10:16.62,0:10:19.08,Default,,0000,0000,0000,,My body just moved\Nlike that involuntarily…
+Dialogue: 0,0:10:19.70,0:10:22.45,Default,,0000,0000,0000,,Sorry, Lee. Are you all right?
+Dialogue: 0,0:10:24.75,0:10:28.49,Default,,0000,0000,0000,,If Lee hadn’t been wearing his weights,\Nhis ankle would have been crushed.
+Dialogue: 0,0:10:30.49,0:10:33.95,Default,,0000,0000,0000,,It was a splendid move.\NWell then, let’s continue with the practice.
+Dialogue: 0,0:10:34.04,0:10:35.49,Default,,0000,0000,0000,,Let’s stop here for today.
+Dialogue: 0,0:10:35.54,0:10:37.50,Default,,0000,0000,0000,,I’ll take you to the hospital to\Nhave them look at it.
+Dialogue: 0,0:10:37.66,0:10:39.49,Default,,0000,0000,0000,,No, I’m completely fine, I tell you…
+Dialogue: 0,0:10:40.49,0:10:42.25,Default,,0000,0000,0000,,We knew from the health check-up
+Dialogue: 0,0:10:42.29,0:10:44.54,Default,,0000,0000,0000,,that Bushy Brow’s injuries were\Nconsiderable to begin with, didn’t we?
+Dialogue: 0,0:10:44.58,0:10:45.49,Default,,0000,0000,0000,,Considerable!
+Dialogue: 0,0:10:46.45,0:10:47.58,Default,,0000,0000,0000,,What was considerable?
+Dialogue: 0,0:10:47.62,0:10:50.66,Default,,0000,0000,0000,,I’m telling you,\Njust considerable, right?!
+Dialogue: 0,0:10:51.25,0:10:54.41,Default,,0000,0000,0000,,– Probably considerable…\N– Considerable, I tell you!
+Dialogue: 0,0:10:54.45,0:10:56.49,Default,,0000,0000,0000,,Even with the weights on, that speed…
+Dialogue: 0,0:10:56.49,0:10:57.95,Default,,0000,0000,0000,,What was considerable?!
+Dialogue: 0,0:11:05.49,0:11:07.45,Default,,0000,0000,0000,,Fortunately, there’s nothing wrong\Nwith the bone.
+Dialogue: 0,0:11:07.49,0:11:08.41,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:11:15.45,0:11:17.54,Default,,0000,0000,0000,,Um… When can I begin training again?
+Dialogue: 0,0:11:17.66,0:11:20.08,Default,,0000,0000,0000,,Huh? What are you saying?!
+Dialogue: 0,0:11:20.12,0:11:21.70,Default,,0000,0000,0000,,You’re going to need complete rest\Nfor a while.
+Dialogue: 0,0:11:22.79,0:11:25.54,Default,,0000,0000,0000,,It’s amazing that your Achilles tendon\N remained uninjured, you know…
+Dialogue: 0,0:11:32.49,0:11:34.50,Default,,0000,0000,0000,,You said considerable, so…
+Dialogue: 0,0:11:36.29,0:11:39.87,Default,,0000,0000,0000,,I misunderstood it to mean that\Nhe was in a considerable condition.
+Dialogue: 0,0:11:40.04,0:11:41.45,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:11:41.49,0:11:44.20,Default,,0000,0000,0000,,he came out from the examining room\Nlooking very down,
+Dialogue: 0,0:11:44.25,0:11:45.83,Default,,0000,0000,0000,,so I just assumed…
+Dialogue: 0,0:11:48.04,0:11:50.20,Default,,0000,0000,0000,,To be sure, he seems dispirited.
+Dialogue: 0,0:11:50.25,0:11:53.41,Default,,0000,0000,0000,,He was beaten by a trainee\Nwho isn’t even enrolled in the Academy.
+Dialogue: 0,0:11:53.45,0:11:55.58,Default,,0000,0000,0000,,A trainee? Lee?
+Dialogue: 0,0:11:55.75,0:11:59.20,Default,,0000,0000,0000,,Yes, a kid who has been studying Taijutsu\Nfor only one week.
+Dialogue: 0,0:11:59.25,0:12:01.49,Default,,0000,0000,0000,,In any case,\Nhe was incredibly skilled, that…
+Dialogue: 0,0:12:01.49,0:12:04.37,Default,,0000,0000,0000,,What’s it called…?
+Dialogue: 0,0:12:04.49,0:12:05.49,Default,,0000,0000,0000,,The Cross Method!
+Dialogue: 0,0:12:05.49,0:12:06.50,Default,,0000,0000,0000,,Yes, that!
+Dialogue: 0,0:12:06.54,0:12:09.33,Default,,0000,0000,0000,,He's a genius to deploy\Nthat at the instant!
+Dialogue: 0,0:12:09.49,0:12:11.70,Default,,0000,0000,0000,,I hope Lee isn’t feeling down, though.
+Dialogue: 0,0:12:12.45,0:12:14.49,Default,,0000,0000,0000,,If he were the kind of guy to get\Ndownhearted about a thing like that,
+Dialogue: 0,0:12:14.49,0:12:16.62,Default,,0000,0000,0000,,Lee would have quit being\Na Shinobi a long time ago.
+Dialogue: 0,0:12:16.66,0:12:17.50,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:12:17.95,0:12:19.45,Default,,0000,0000,0000,,When Lee was in the Academy,
+Dialogue: 0,0:12:19.49,0:12:21.00,Default,,0000,0000,0000,,he was told that he had neither\Nthe talent for Ninjutsu,
+Dialogue: 0,0:12:21.04,0:12:23.16,Default,,0000,0000,0000,,nor any talent for Genjutsu.
+Dialogue: 0,0:12:24.91,0:12:27.45,Default,,0000,0000,0000,,Had it been me,\NI would have given up long ago.
+Dialogue: 0,0:12:28.33,0:12:31.49,Default,,0000,0000,0000,,But Lee got to where he is now purely\Nthrough effort and persistence.
+Dialogue: 0,0:12:32.25,0:12:33.49,Default,,0000,0000,0000,,If he can just heal his injuries,
+Dialogue: 0,0:12:33.50,0:12:36.62,Default,,0000,0000,0000,,he’ll soon outstrip anyone with\Nnatural talent alone.
+Dialogue: 0,0:12:36.79,0:12:38.62,Default,,0000,0000,0000,,– That’s true.\N– Darn right!
+Dialogue: 0,0:12:38.87,0:12:39.83,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:12:40.70,0:12:43.29,Default,,0000,0000,0000,,I’ve heard that if you train too hard,
+Dialogue: 0,0:12:43.33,0:12:45.49,Default,,0000,0000,0000,,you can wreck your body and\Nbecome a decrepit…
+Dialogue: 0,0:12:45.49,0:12:47.66,Default,,0000,0000,0000,,Don't say such a thing!\NYou’re talking about Bushy Brow!
+Dialogue: 0,0:12:48.62,0:12:50.91,Default,,0000,0000,0000,,I’m only kidding.\NJust a slip of the tongue.
+Dialogue: 0,0:12:50.95,0:12:53.20,Default,,0000,0000,0000,,– Don’t even say that in jest!\N– Decrepit?
+Dialogue: 0,0:12:53.25,0:12:55.49,Default,,0000,0000,0000,,I know, I know.
+Dialogue: 0,0:12:56.16,0:12:59.33,Default,,0000,0000,0000,,But actually, we are grateful to Lee.
+Dialogue: 0,0:12:59.37,0:13:00.87,Default,,0000,0000,0000,,Huh? Grateful?
+Dialogue: 0,0:13:01.49,0:13:02.83,Default,,0000,0000,0000,,Yes, grateful.
+Dialogue: 0,0:13:04.04,0:13:08.49,Default,,0000,0000,0000,,Okay, today I’m going to teach you\Nabout self-rule.
+Dialogue: 0,0:13:08.62,0:13:09.49,Default,,0000,0000,0000,,Self…
+Dialogue: 0,0:13:09.70,0:13:11.25,Default,,0000,0000,0000,,…rule, you say?
+Dialogue: 0,0:13:11.29,0:13:12.91,Default,,0000,0000,0000,,Yes! Yes! Yes!
+Dialogue: 0,0:13:12.95,0:13:15.66,Default,,0000,0000,0000,,Please teach me! Me! Me!
+Dialogue: 0,0:13:15.70,0:13:16.95,Default,,0000,0000,0000,,All right, ready?
+Dialogue: 0,0:13:17.00,0:13:19.29,Default,,0000,0000,0000,,To all things there are principles,
+Dialogue: 0,0:13:19.33,0:13:24.58,Default,,0000,0000,0000,,and to efficiently make use of things\Nin daily life, human beings have rules.
+Dialogue: 0,0:13:25.49,0:13:28.25,Default,,0000,0000,0000,,Okay, today I have something good\Nto give you all.
+Dialogue: 0,0:13:29.25,0:13:31.33,Default,,0000,0000,0000,,– Something… 					– …good?
+Dialogue: 0,0:13:31.49,0:13:32.70,Default,,0000,0000,0000,,This!
+Dialogue: 0,0:13:33.95,0:13:35.33,Default,,0000,0000,0000,,O-Oh!
+Dialogue: 0,0:13:35.37,0:13:37.50,Default,,0000,0000,0000,,These tights of the type that\NI habitually use…!
+Dialogue: 0,0:13:37.54,0:13:39.49,Default,,0000,0000,0000,,They have outstanding ventilation\Nand moisture-wicking properties!
+Dialogue: 0,0:13:39.50,0:13:42.25,Default,,0000,0000,0000,,Developed for ultimate ease of movement,\Nit's a complete of of super-athletic wear!
+Dialogue: 0,0:13:42.29,0:13:44.70,Default,,0000,0000,0000,,If you wear them when you’re training,\Nyou’ll feel the difference immediately!
+Dialogue: 0,0:13:44.75,0:13:46.00,Default,,0000,0000,0000,,You won’t be able to do without them!
+Dialogue: 0,0:13:46.04,0:13:48.33,Default,,0000,0000,0000,,Next thing you know,\Nyou’ll be wearing them all the time!
+Dialogue: 0,0:13:48.37,0:13:51.58,Default,,0000,0000,0000,,Yes, yes, yes!\NPlease, by all means, give me a pair!
+Dialogue: 0,0:13:51.62,0:13:55.12,Default,,0000,0000,0000,,Oh, I got a pair of those myself.\NThey look cool, don’t they?
+Dialogue: 0,0:13:55.29,0:13:57.00,Default,,0000,0000,0000,,Oh… Is that so?
+Dialogue: 0,0:13:58.87,0:14:00.75,Default,,0000,0000,0000,,If it weren’t for Lee…
+Dialogue: 0,0:14:03.33,0:14:04.49,Default,,0000,0000,0000,,This is youth!
+Dialogue: 0,0:14:04.49,0:14:05.79,Default,,0000,0000,0000,,This is guts!
+Dialogue: 0,0:14:06.08,0:14:07.83,Default,,0000,0000,0000,,This is Harutaro Minami,\Nspring chicken of the South!
+Dialogue: 0,0:14:08.33,0:14:09.49,Default,,0000,0000,0000,,– You got that all wrong!\N– You got that all wrong!
+Dialogue: 0,0:14:11.41,0:14:13.66,Default,,0000,0000,0000,,I’m really glad that we’ve had Lee around.
+Dialogue: 0,0:14:14.49,0:14:15.49,Default,,0000,0000,0000,,Yeah, me too…
+Dialogue: 0,0:14:18.00,0:14:20.29,Default,,0000,0000,0000,,I’m sure a C-rank mission would\Nfeel insufficient for you,
+Dialogue: 0,0:14:20.33,0:14:22.62,Default,,0000,0000,0000,,but there’s nobody left to ask but you.
+Dialogue: 0,0:14:23.08,0:14:24.49,Default,,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:14:24.58,0:14:28.49,Default,,0000,0000,0000,,Oh, by the way,\Nthere’s someone I’d like to take with me…
+Dialogue: 0,0:14:31.87,0:14:33.04,Default,,0000,0000,0000,,Yagura!
+Dialogue: 0,0:14:35.08,0:14:36.91,Default,,0000,0000,0000,,When my foot heals,\Nlet’s train together aga--?
+Dialogue: 0,0:14:38.25,0:14:41.45,Default,,0000,0000,0000,,I feel no need to take lessons from you.
+Dialogue: 0,0:14:42.58,0:14:45.12,Default,,0000,0000,0000,,Even ruling out the fact that\Nyou were wearing weight,
+Dialogue: 0,0:14:45.16,0:14:48.00,Default,,0000,0000,0000,,there seems to be nothing worth\Nstealing from you…
+Dialogue: 0,0:14:48.49,0:14:49.58,Default,,0000,0000,0000,,Stealing?
+Dialogue: 0,0:14:50.16,0:14:52.87,Default,,0000,0000,0000,,After all, skills acquired\Npurely through effort
+Dialogue: 0,0:14:52.91,0:14:56.20,Default,,0000,0000,0000,,make you nothing\Nbut a pale imitation of Guy Sensei.
+Dialogue: 0,0:14:56.50,0:14:57.54,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:14:57.70,0:15:01.50,Default,,0000,0000,0000,,As proof of that,\Neven Sensei has given up on you.
+Dialogue: 0,0:15:01.87,0:15:03.49,Default,,0000,0000,0000,,That can’t be!
+Dialogue: 0,0:15:03.62,0:15:06.29,Default,,0000,0000,0000,,Guy Sensei promised me…
+Dialogue: 0,0:15:06.49,0:15:10.08,Default,,0000,0000,0000,,that his own Way of Ninja was to\Nturn me into a splendid Ninja, too!
+Dialogue: 0,0:15:12.20,0:15:15.00,Default,,0000,0000,0000,,Well then, I wonder why he’s gone\Nso far as to ask me
+Dialogue: 0,0:15:15.04,0:15:17.54,Default,,0000,0000,0000,,to come on a mission with him\Nfor practical training…
+Dialogue: 0,0:15:17.91,0:15:19.70,Default,,0000,0000,0000,,Not you, but me!
+Dialogue: 0,0:15:20.49,0:15:21.49,Default,,0000,0000,0000,,You?
+Dialogue: 0,0:15:22.62,0:15:26.58,Default,,0000,0000,0000,,Too bad. There’s no way effort\Ncan win out over talent.
+Dialogue: 0,0:15:27.83,0:15:29.08,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:15:29.49,0:15:30.95,Default,,0000,0000,0000,,Did Sensei really asked you to…?
+Dialogue: 0,0:15:37.26,0:15:39.51,Default,,0000,0000,0000,,No, it…can’t be true…
+Dialogue: 0,0:15:51.59,0:15:52.59,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:15:53.43,0:15:54.80,Default,,0000,0000,0000,,Wh-What is it?
+Dialogue: 0,0:15:54.89,0:15:56.80,Default,,0000,0000,0000,,Yagura has been injured and\Nis under protection.
+Dialogue: 0,0:15:57.10,0:16:00.01,Default,,0000,0000,0000,,What? Guy was with him.\NWhat on earth happened?
+Dialogue: 0,0:16:00.43,0:16:04.35,Default,,0000,0000,0000,,No! Yagura is said to have been attacked\Nbefore reaching Hidden Leaf Village.
+Dialogue: 0,0:16:05.14,0:16:07.85,Default,,0000,0000,0000,,Then the trainee Yagura\Nthat accompanied Guy is…
+Dialogue: 0,0:16:08.05,0:16:09.59,Default,,0000,0000,0000,,A total imposter.
+Dialogue: 0,0:16:11.64,0:16:14.60,Default,,0000,0000,0000,,Damn it, one nuisance after another…!
+Dialogue: 0,0:16:16.18,0:16:18.59,Default,,0000,0000,0000,,So, these three are the ones\Nthat can be mobilized?
+Dialogue: 0,0:16:18.68,0:16:19.60,Default,,0000,0000,0000,,What shall we do?
+Dialogue: 0,0:16:22.47,0:16:24.80,Default,,0000,0000,0000,,Fine! Have Neji, Tenten, and Naruto…
+Dialogue: 0,0:16:24.85,0:16:27.51,Default,,0000,0000,0000,,these three go after Guy\Nand the phony Yagura!
+Dialogue: 0,0:16:27.55,0:16:28.35,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:16:28.59,0:16:29.39,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:16:30.59,0:16:32.55,Default,,0000,0000,0000,,Have Sakura keep an eye on Lee.
+Dialogue: 0,0:16:33.35,0:16:34.59,Default,,0000,0000,0000,,If he learns about this,
+Dialogue: 0,0:16:34.59,0:16:36.39,Default,,0000,0000,0000,,he’s apt to dash out,\Neven in the shape he’s in.
+Dialogue: 0,0:16:36.59,0:16:37.39,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:16:39.55,0:16:42.59,Default,,0000,0000,0000,,Are you sure that Intense Brow Sensei\Nwent this way?
+Dialogue: 0,0:16:42.59,0:16:43.59,Default,,0000,0000,0000,,Without a doubt!
+Dialogue: 0,0:16:43.59,0:16:45.14,Default,,0000,0000,0000,,His destination was\Nthe Land of Mountain Streams.
+Dialogue: 0,0:16:45.18,0:16:46.59,Default,,0000,0000,0000,,He must have gone through this forest.
+Dialogue: 0,0:16:46.76,0:16:49.80,Default,,0000,0000,0000,,There’s another way to go,\Ncutting through the mountains,
+Dialogue: 0,0:16:49.85,0:16:51.26,Default,,0000,0000,0000,,but it’s too dangerous.
+Dialogue: 0,0:16:55.64,0:16:57.59,Default,,0000,0000,0000,,Yagura, are you with me?
+Dialogue: 0,0:16:57.76,0:16:59.30,Default,,0000,0000,0000,,Yes, Guy Sensei!
+Dialogue: 0,0:16:59.55,0:17:00.59,Default,,0000,0000,0000,,Don’t slow down!
+Dialogue: 0,0:17:00.59,0:17:03.76,Default,,0000,0000,0000,,Take each step after first taking\Nthe measure of the mountain terrain!
+Dialogue: 0,0:17:03.89,0:17:04.60,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:17:04.89,0:17:07.59,Default,,0000,0000,0000,,Lee could run through here blindfolded.
+Dialogue: 0,0:17:09.10,0:17:10.22,Default,,0000,0000,0000,,What’s wrong? Yagura?
+Dialogue: 0,0:17:11.30,0:17:12.26,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:17:16.18,0:17:18.85,Default,,0000,0000,0000,,Yagura! Where are you?! Yagura!
+Dialogue: 0,0:17:19.26,0:17:20.39,Default,,0000,0000,0000,,Yagura!
+Dialogue: 0,0:17:21.10,0:17:23.30,Default,,0000,0000,0000,,He may be a genius,\Nbut he’s still a trainee…
+Dialogue: 0,0:17:23.51,0:17:25.39,Default,,0000,0000,0000,,I wonder if I expected\Ntoo much from him…
+Dialogue: 0,0:17:26.80,0:17:27.85,Default,,0000,0000,0000,,Yagura!
+Dialogue: 0,0:17:28.35,0:17:30.18,Default,,0000,0000,0000,,What? Were you in such a place?
+Dialogue: 0,0:17:38.26,0:17:40.60,Default,,0000,0000,0000,,Wooden Training Dummies\Nfor kung fu training…
+Dialogue: 0,0:17:44.85,0:17:48.59,Default,,0000,0000,0000,,Oh my… It takes me back to my youth.
+Dialogue: 0,0:17:48.76,0:17:53.05,Default,,0000,0000,0000,,I trained with a burning spirit on\Nthe same kinds of Wooden Dummies.
+Dialogue: 0,0:17:53.43,0:17:55.55,Default,,0000,0000,0000,,It makes my body to just start\Nmoving uncontrollably.
+Dialogue: 0,0:17:58.59,0:18:02.18,Default,,0000,0000,0000,,But why are there Wooden Dummies\Nin such a place?
+Dialogue: 0,0:18:02.59,0:18:03.76,Default,,0000,0000,0000,,Who in the world…?
+Dialogue: 0,0:18:06.30,0:18:07.68,Default,,0000,0000,0000,,And for what purpose?
+Dialogue: 0,0:18:19.05,0:18:21.39,Default,,0000,0000,0000,,They move well for dummies.
+Dialogue: 0,0:18:22.97,0:18:26.01,Default,,0000,0000,0000,,But, after all, they just look\Nlike automated dolls.
+Dialogue: 0,0:18:26.55,0:18:28.64,Default,,0000,0000,0000,,They only have one pattern of movement,
+Dialogue: 0,0:18:28.68,0:18:30.93,Default,,0000,0000,0000,,and no matter\Nhow many of them there are,
+Dialogue: 0,0:18:30.97,0:18:34.59,Default,,0000,0000,0000,,their reach only extends for\Na diameter of 3.5 meters,
+Dialogue: 0,0:18:34.59,0:18:35.93,Default,,0000,0000,0000,,so they cannot attack.
+Dialogue: 0,0:18:38.60,0:18:41.43,Default,,0000,0000,0000,,What? Mister, you can move?!
+Dialogue: 0,0:18:45.76,0:18:46.80,Default,,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:18:52.59,0:18:54.64,Default,,0000,0000,0000,,Hey? Can’t you see anything yet? Neji!
+Dialogue: 0,0:18:54.89,0:18:57.72,Default,,0000,0000,0000,,Even using the Byakugan,\NI can’t find a single footprint.
+Dialogue: 0,0:18:58.68,0:19:00.59,Default,,0000,0000,0000,,They can’t have gotten that far away,\Ncan they?
+Dialogue: 0,0:19:00.85,0:19:03.85,Default,,0000,0000,0000,,They wouldn't have used excessively\Ndangerous mountain paths either…
+Dialogue: 0,0:19:09.72,0:19:11.76,Default,,0000,0000,0000,,However they seem to be able to move,
+Dialogue: 0,0:19:11.80,0:19:14.26,Default,,0000,0000,0000,,they’re just stick figures crawling\Nover the surface of the ground…
+Dialogue: 0,0:19:15.39,0:19:18.39,Default,,0000,0000,0000,,Mister, you can jump, too?!
+Dialogue: 0,0:19:23.18,0:19:25.51,Default,,0000,0000,0000,,Not just yet!
+Dialogue: 0,0:19:47.89,0:19:50.39,Default,,0000,0000,0000,,Wh-What a…!
+Dialogue: 0,0:19:53.59,0:19:56.18,Default,,0000,0000,0000,,pleasant, high-energy training place…!
+Dialogue: 0,0:20:00.80,0:20:09.10,Default,,0000,0000,0000,,6,985… 6,986… 6,987… 6,988
+Dialogue: 0,0:20:09.47,0:20:14.59,Default,,0000,0000,0000,,6,989… 6,990… 6,991…
+Dialogue: 0,0:20:14.59,0:20:17.10,Default,,0000,0000,0000,,– There is no limit to training.\N– 6,992…
+Dialogue: 0,0:20:17.14,0:20:18.68,Default,,0000,0000,0000,,– Even if I cannot use my legs,\N– 6,993…
+Dialogue: 0,0:20:18.72,0:20:20.64,Default,,0000,0000,0000,,– my upper half is still in good shape.\N– 6,994…
+Dialogue: 0,0:20:20.68,0:20:22.14,Default,,0000,0000,0000,,– Guy Sensei thinks…\N– 6,995…
+Dialogue: 0,0:20:22.18,0:20:24.43,Default,,0000,0000,0000,,– my training is inadequate.\N– 6,996…
+Dialogue: 0,0:20:24.47,0:20:27.60,Default,,0000,0000,0000,,– That’s why he compared me with Yagura.\N– 6,997… 6,996…
+Dialogue: 0,0:20:27.64,0:20:30.59,Default,,0000,0000,0000,,– to show me that I wasn't doing enough.\N– 6,998… 6,999…
+Dialogue: 0,0:20:31.39,0:20:32.59,Default,,0000,0000,0000,,7,000!
+Dialogue: 0,0:20:35.22,0:20:38.01,Default,,0000,0000,0000,,– I have faith in Guy Sensei!\N– 7,001… 7,002…
+Dialogue: 0,0:20:39.60,0:20:42.35,Default,,0000,0000,0000,,They’re moderately powerful, but…
+Dialogue: 0,0:20:42.39,0:20:44.05,Default,,0000,0000,0000,,their movements are monotonous.
+Dialogue: 0,0:20:45.55,0:20:47.47,Default,,0000,0000,0000,,Or…so I thought…!
+Dialogue: 0,0:20:50.72,0:20:54.59,Default,,0000,0000,0000,,Shall I say I am outnumbered?\NThere seems to be no limit to them!
+Dialogue: 0,0:20:57.59,0:20:59.39,Default,,0000,0000,0000,,Wh-What is this sound?
+Dialogue: 0,0:21:08.05,0:21:08.93,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:41.59,0:21:43.89,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:43.93,0:21:46.51,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.55,0:21:50.89,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.43,0:21:54.05,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.59,0:21:58.80,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.59,0:22:05.59,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.59,0:22:12.10,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:12.14,0:22:17.14,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.18,0:22:22.35,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:51.01,0:22:53.59,Default,,0000,0000,0000,,I thought I knew,\Nbut you do have incredible power, after all.
+Dialogue: 0,0:22:53.97,0:22:55.89,Default,,0000,0000,0000,,To think you have such\Nan amazing kick.
+Dialogue: 0,0:22:55.93,0:22:58.10,Default,,0000,0000,0000,,Looks like I have to put out\Neverything in myself.
+Dialogue: 0,0:22:58.14,0:23:01.59,Default,,0000,0000,0000,,Then I would put everything\NI've got into this too.
+Dialogue: 0,0:23:01.59,0:23:04.39,Default,,0000,0000,0000,,Fine! Why don’t  you come at me\Nwith intent to beat me?!
+Dialogue: 0,0:23:04.43,0:23:05.72,Default,,0000,0000,0000,,Please forgive me Guy Sensei.
+Dialogue: 0,0:23:05.80,0:23:08.35,Default,,0000,0000,0000,,But to me, this is the moment…
+Dialogue: 0,0:23:08.59,0:23:11.85,Default,,0000,0000,0000,,– to follow through with my own Ninja Way!\N– to follow through with my own Ninja Way!
+Dialogue: 0,0:23:12.14,0:23:15.89,Default,,0000,0000,0000,,Next time: “Hot-Blooded Confrontation:\NStudent vs. Sensei”

@@ -1,0 +1,332 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.85,0:00:10.66,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.06,0:00:19.63,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.63,0:00:22.90,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.50,0:00:27.31,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.41,0:00:30.98,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.58,0:00:35.71,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.48,0:00:39.52,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:40.99,0:00:45.49,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:47.99,0:00:49.73,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:49.83,0:00:51.53,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.56,0:00:54.03,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.53,0:00:57.40,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.44,0:00:59.37,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.40,0:01:01.81,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.64,0:01:10.38,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.48,0:01:13.89,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.55,0:01:17.52,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.43,0:01:23.59,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.16,0:01:27.60,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:58.53,0:02:00.77,Default,,0000,0000,0000,,I think we almost finished\Nshaking off the losers.
+Dialogue: 0,0:02:02.03,0:02:03.50,Default,,0000,0000,0000,,Then I guess I'll move\Nonto the main issue.
+Dialogue: 0,0:02:04.50,0:02:06.90,Default,,0000,0000,0000,,It has been 45 minutes, so I'll start.
+Dialogue: 0,0:02:08.44,0:02:09.17,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:02:10.48,0:02:13.18,Default,,0000,0000,0000,,Here is the tenth question!
+Dialogue: 0,0:02:15.11,0:02:16.01,Default,,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:02:16.48,0:02:19.35,Default,,0000,0000,0000,,I have to put everything on\Nthe line for this question!
+Dialogue: 0,0:02:20.52,0:02:26.42,Default,,0000,0000,0000,,The Tenth Question: All or Nothing!
+Dialogue: 0,0:02:29.16,0:02:31.53,Default,,0000,0000,0000,,Hmph! Making such a big deal.
+Dialogue: 0,0:02:32.70,0:02:34.93,Default,,0000,0000,0000,,This is the final obstacle.
+Dialogue: 0,0:02:35.87,0:02:37.94,Default,,0000,0000,0000,,Kankuro, come back already!
+Dialogue: 0,0:02:38.44,0:02:41.94,Default,,0000,0000,0000,,If he starts the tenth question,\Nyour cheat sheet has no meaning!
+Dialogue: 0,0:02:42.61,0:02:45.74,Default,,0000,0000,0000,,But before that,
+Dialogue: 0,0:02:46.51,0:02:51.52,Default,,0000,0000,0000,,I'm going to add\Nsome rules for the last question.
+Dialogue: 0,0:03:02.06,0:03:04.53,Default,,0000,0000,0000,,Aren't you lucky?
+Dialogue: 0,0:03:06.93,0:03:10.07,Default,,0000,0000,0000,,It looks like playing with\Nthe dolls wasn't a waste, after all?
+Dialogue: 0,0:03:10.74,0:03:11.60,Default,,0000,0000,0000,,This guy.
+Dialogue: 0,0:03:12.27,0:03:13.97,Default,,0000,0000,0000,,He's figured Crow out!
+Dialogue: 0,0:03:15.11,0:03:17.41,Default,,0000,0000,0000,,Anyway, sit down.
+Dialogue: 0,0:03:33.36,0:03:35.03,Default,,0000,0000,0000,,Let me explain!
+Dialogue: 0,0:03:36.03,0:03:37.53,Default,,0000,0000,0000,,These are
+Dialogue: 0,0:03:39.03,0:03:40.97,Default,,0000,0000,0000,,the hopeless rules!
+Dialogue: 0,0:03:45.44,0:03:46.97,Default,,0000,0000,0000,,Well, anyhow.
+Dialogue: 0,0:03:47.47,0:03:50.51,Default,,0000,0000,0000,,There's nothing to do when\Nthe subordinates are gone, huh?
+Dialogue: 0,0:03:50.81,0:03:54.51,Default,,0000,0000,0000,,Well, it'll get busy soon enough.
+Dialogue: 0,0:03:55.15,0:03:56.11,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:03:58.45,0:04:00.48,Default,,0000,0000,0000,,This year's first proctor...
+Dialogue: 0,0:04:00.52,0:04:02.95,Default,,0000,0000,0000,,I hear it's that Ibiki Morino.
+Dialogue: 0,0:04:05.32,0:04:08.19,Default,,0000,0000,0000,,Well then, passing the first exam\Nalready seems iffy.
+Dialogue: 0,0:04:10.03,0:04:12.90,Default,,0000,0000,0000,,Of all the people, that sadist...
+Dialogue: 0,0:04:13.53,0:04:14.53,Default,,0000,0000,0000,,Sadist?
+Dialogue: 0,0:04:14.73,0:04:20.97,Default,,0000,0000,0000,,Kurenai, you're a new Jonin,\N so you wouldn't know.
+Dialogue: 0,0:04:22.57,0:04:24.41,Default,,0000,0000,0000,,Who is this person?
+Dialogue: 0,0:04:25.61,0:04:28.08,Default,,0000,0000,0000,,He is a pro, a professional.
+Dialogue: 0,0:04:28.51,0:04:31.15,Default,,0000,0000,0000,,Professional? Of what?
+Dialogue: 0,0:04:37.52,0:04:40.32,Default,,0000,0000,0000,,Torture and interrogation.
+Dialogue: 0,0:04:40.52,0:04:41.49,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:42.33,0:04:46.63,Default,,0000,0000,0000,,Well, there maybe no physical torture\Nin the exam itself,
+Dialogue: 0,0:04:46.90,0:04:49.57,Default,,0000,0000,0000,,but he's sure to use his\Nhis skills as an interrogator
+Dialogue: 0,0:04:49.60,0:04:52.64,Default,,0000,0000,0000,,to torment them psychologically.
+Dialogue: 0,0:04:54.54,0:04:55.67,Default,,0000,0000,0000,,That is...
+Dialogue: 0,0:04:57.07,0:05:01.51,Default,,0000,0000,0000,,Leaf Village Anbu's\NTorture and Interrogation Unit Marshall,
+Dialogue: 0,0:05:01.95,0:05:03.51,Default,,0000,0000,0000,,Ibiki Morino!
+Dialogue: 0,0:05:07.82,0:05:10.52,Default,,0000,0000,0000,,Hopeless rules...?!
+Dialogue: 0,0:05:12.06,0:05:14.49,Default,,0000,0000,0000,,First, you guys will have to choose
+Dialogue: 0,0:05:14.66,0:05:19.53,Default,,0000,0000,0000,,whether or not you will take\Nthis 10th question!
+Dialogue: 0,0:05:20.20,0:05:20.90,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:22.77,0:05:25.50,Default,,0000,0000,0000,,Choose whether or not\Nto take the exam?
+Dialogue: 0,0:05:26.60,0:05:27.67,Default,,0000,0000,0000,,What, choose?!
+Dialogue: 0,0:05:27.94,0:05:30.51,Default,,0000,0000,0000,,What happens if you choose not\Nto take the 10th exam?
+Dialogue: 0,0:05:31.11,0:05:36.71,Default,,0000,0000,0000,,If you chose not to take the exam,\Nthen your score will be zero.
+Dialogue: 0,0:05:37.98,0:05:39.65,Default,,0000,0000,0000,,In other words, you fail!
+Dialogue: 0,0:05:40.38,0:05:43.52,Default,,0000,0000,0000,,And of course, the same goes for\Nthe two others in the same group!
+Dialogue: 0,0:05:44.02,0:05:45.16,Default,,0000,0000,0000,,W-What does that mean!
+Dialogue: 0,0:05:45.19,0:05:47.69,Default,,0000,0000,0000,,Of course, everybody is going to\Nchoose to take the exam!
+Dialogue: 0,0:05:48.06,0:05:50.43,Default,,0000,0000,0000,,This is ridiculous!\NAs if we have a choice!
+Dialogue: 0,0:05:50.73,0:05:54.70,Default,,0000,0000,0000,,And... one more rule...
+Dialogue: 0,0:05:55.10,0:05:56.07,Default,,0000,0000,0000,,Another one?!
+Dialogue: 0,0:05:56.53,0:05:57.90,Default,,0000,0000,0000,,Finish with it already!
+Dialogue: 0,0:05:58.94,0:06:02.51,Default,,0000,0000,0000,,If you chose to take it and\Nare unable to answer it correctly,
+Dialogue: 0,0:06:03.27,0:06:05.18,Default,,0000,0000,0000,,then you will have to...
+Dialogue: 0,0:06:06.71,0:06:10.78,Default,,0000,0000,0000,,relinquish your right\Nof taking the Chunin Exam forever.
+Dialogue: 0,0:06:14.12,0:06:16.19,Default,,0000,0000,0000,,What kind of ridiculous rule is that?!
+Dialogue: 0,0:06:16.52,0:06:19.02,Default,,0000,0000,0000,,Besides, there are plenty\Nof people here
+Dialogue: 0,0:06:19.06,0:06:20.93,Default,,0000,0000,0000,,who have taken the\NChunin Exam many times!
+Dialogue: 0,0:06:28.87,0:06:31.90,Default,,0000,0000,0000,,You're just unlucky.
+Dialogue: 0,0:06:33.94,0:06:36.31,Default,,0000,0000,0000,,I make the rule this year.
+Dialogue: 0,0:06:38.51,0:06:41.85,Default,,0000,0000,0000,,But I did give you\Nthe option to go back!
+Dialogue: 0,0:06:44.35,0:06:47.62,Default,,0000,0000,0000,,For those of you who aren't confident,\Nyou can choose not to take it
+Dialogue: 0,0:06:47.72,0:06:50.52,Default,,0000,0000,0000,,and take the exam\Nnext year or the year after that.
+Dialogue: 0,0:06:54.33,0:06:55.69,Default,,0000,0000,0000,,Oh! How terrible!
+Dialogue: 0,0:06:56.53,0:06:59.66,Default,,0000,0000,0000,,If one out of the three\Nchooses not to take the exam,
+Dialogue: 0,0:06:59.93,0:07:02.13,Default,,0000,0000,0000,,then all three will be failed.
+Dialogue: 0,0:07:03.50,0:07:06.57,Default,,0000,0000,0000,,If you do choose to take it,\Nbut get the wrong answer...
+Dialogue: 0,0:07:06.97,0:07:09.41,Default,,0000,0000,0000,,then that person will be a\NGenin for the rest of their life!
+Dialogue: 0,0:07:10.17,0:07:12.08,Default,,0000,0000,0000,,No matter what,\Nthe odds are against us!
+Dialogue: 0,0:07:12.84,0:07:14.85,Default,,0000,0000,0000,,It's an impossible choice\Nfor anyone with normal nerves!
+Dialogue: 0,0:07:20.38,0:07:21.99,Default,,0000,0000,0000,,Then, let's begin...
+Dialogue: 0,0:07:23.52,0:07:25.16,Default,,0000,0000,0000,,The 10th question…
+Dialogue: 0,0:07:25.49,0:07:28.03,Default,,0000,0000,0000,,Those who will not be taking it,\Nraise your hands!
+Dialogue: 0,0:07:29.33,0:07:32.53,Default,,0000,0000,0000,,Once I confirm your number,\NI'll ask you to leave!
+Dialogue: 0,0:07:38.60,0:07:41.51,Default,,0000,0000,0000,,What kind of a question\Nis it going to be….?
+Dialogue: 0,0:07:42.31,0:07:43.51,Default,,0000,0000,0000,,Darn!
+Dialogue: 0,0:07:43.51,0:07:46.08,Default,,0000,0000,0000,,If I get it wrong,\NI'll be a Genin for the rest of my life.
+Dialogue: 0,0:07:46.11,0:07:47.21,Default,,0000,0000,0000,,I don't want that!
+Dialogue: 0,0:07:47.45,0:07:49.51,Default,,0000,0000,0000,,But if I choose not take it...!
+Dialogue: 0,0:07:49.58,0:07:53.62,Default,,0000,0000,0000,,then I'll fail Sasuke and Sakura, too!\NI don't want that either!
+Dialogue: 0,0:07:54.89,0:07:56.32,Default,,0000,0000,0000,,I won't raise my hand!
+Dialogue: 0,0:07:57.05,0:08:00.29,Default,,0000,0000,0000,,I'm confident that\NI can answer it correctly.
+Dialogue: 0,0:08:01.53,0:08:02.19,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:08:03.59,0:08:05.93,Default,,0000,0000,0000,,But Naruto! You're different!
+Dialogue: 0,0:08:06.73,0:08:10.47,Default,,0000,0000,0000,,You should retreat this time\Neven if it means to ignore us
+Dialogue: 0,0:08:10.50,0:08:12.50,Default,,0000,0000,0000,,and think of your next chance\Nto take the Exam!
+Dialogue: 0,0:08:16.17,0:08:19.58,Default,,0000,0000,0000,,I... I...
+Dialogue: 0,0:08:21.58,0:08:23.85,Default,,0000,0000,0000,,I'm quitting!\NI'm not going to take it!
+Dialogue: 0,0:08:25.52,0:08:26.82,Default,,0000,0000,0000,,#50 failed!
+Dialogue: 0,0:08:27.95,0:08:31.99,Default,,0000,0000,0000,,# 130, #111 will be\Nfailed as well...
+Dialogue: 0,0:08:33.52,0:08:36.53,Default,,0000,0000,0000,,I-I'm sorry...\NGennai! Inaho!
+Dialogue: 0,0:08:39.70,0:08:40.63,Default,,0000,0000,0000,,Darn...
+Dialogue: 0,0:08:41.47,0:08:42.53,Default,,0000,0000,0000,,M-Me too!
+Dialogue: 0,0:08:44.97,0:08:46.30,Default,,0000,0000,0000,,Me too!
+Dialogue: 0,0:08:57.52,0:08:58.52,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:09:00.22,0:09:02.22,Default,,0000,0000,0000,,Why don't you raise your hand?
+Dialogue: 0,0:09:07.69,0:09:08.76,Default,,0000,0000,0000,,That guy...
+Dialogue: 0,0:09:09.53,0:09:11.16,Default,,0000,0000,0000,,I am the super elite ninja
+Dialogue: 0,0:09:11.20,0:09:12.93,Default,,0000,0000,0000,,who will be carrying\Nthe name of the Hokage!
+Dialogue: 0,0:09:12.96,0:09:17.20,Default,,0000,0000,0000,,My name is Naruto Uzumaki,\Nremember that!
+Dialogue: 0,0:09:17.54,0:09:19.50,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:09:19.64,0:09:23.74,Default,,0000,0000,0000,,I'm prepared to do anything\Nto become a Hokage!
+Dialogue: 0,0:09:24.28,0:09:25.54,Default,,0000,0000,0000,,I will surpass the Hokage!
+Dialogue: 0,0:09:25.94,0:09:28.58,Default,,0000,0000,0000,,And I will make all of\Nthe people in the village
+Dialogue: 0,0:09:28.61,0:09:31.22,Default,,0000,0000,0000,,acknowledge my presence!
+Dialogue: 0,0:09:35.62,0:09:38.39,Default,,0000,0000,0000,,He's always got such a one-track mind.
+Dialogue: 0,0:09:38.42,0:09:40.89,Default,,0000,0000,0000,,Saying Hokage, Hokage\Nall the time like a fool.
+Dialogue: 0,0:09:44.23,0:09:45.76,Default,,0000,0000,0000,,I'm sorry, Naruto.
+Dialogue: 0,0:09:46.70,0:09:48.20,Default,,0000,0000,0000,,It seems like...
+Dialogue: 0,0:09:48.23,0:09:50.43,Default,,0000,0000,0000,,I don't want to...
+Dialogue: 0,0:09:53.64,0:09:55.44,Default,,0000,0000,0000,,crush your unachievable dreams.
+Dialogue: 0,0:10:34.51,0:10:35.41,Default,,0000,0000,0000,,That guy...
+Dialogue: 0,0:10:38.22,0:10:41.52,Default,,0000,0000,0000,,Ibiki completely understands how\Nthe human psyche works.
+Dialogue: 0,0:10:42.52,0:10:45.52,Default,,0000,0000,0000,,And the most horrifying part is...
+Dialogue: 0,0:10:46.19,0:10:51.86,Default,,0000,0000,0000,,that by cornering people psychologically\Nhe controls their psyche and
+Dialogue: 0,0:10:53.03,0:10:56.93,Default,,0000,0000,0000,,reveals the fundamental\Nweakness of a human.
+Dialogue: 0,0:11:07.51,0:11:10.35,Default,,0000,0000,0000,,Don't underestimate me!\NI won't run!
+Dialogue: 0,0:11:11.95,0:11:13.08,Default,,0000,0000,0000,,I'll take it!
+Dialogue: 0,0:11:13.52,0:11:15.65,Default,,0000,0000,0000,,But even if I'm stuck being\Na Genin forever,
+Dialogue: 0,0:11:16.35,0:11:19.52,Default,,0000,0000,0000,,I will  become a Hokage\Nno matter what it takes!
+Dialogue: 0,0:11:22.86,0:11:24.73,Default,,0000,0000,0000,,I'm not scared!
+Dialogue: 0,0:11:32.04,0:11:36.37,Default,,0000,0000,0000,,That guy, he wasn't even\Nthinking of us at all.
+Dialogue: 0,0:11:37.11,0:11:38.61,Default,,0000,0000,0000,,Such audacity!
+Dialogue: 0,0:11:39.28,0:11:40.44,Default,,0000,0000,0000,,That's right…
+Dialogue: 0,0:11:40.61,0:11:42.68,Default,,0000,0000,0000,,That's exactly the kind of fool you are!
+Dialogue: 0,0:11:45.02,0:11:46.62,Default,,0000,0000,0000,,I'll ask again.
+Dialogue: 0,0:11:48.22,0:11:50.42,Default,,0000,0000,0000,,It's a choice that will alter your life.
+Dialogue: 0,0:11:51.19,0:11:52.89,Default,,0000,0000,0000,,If you want to quit, now is your chance!
+Dialogue: 0,0:11:53.52,0:11:56.43,Default,,0000,0000,0000,,I'm not going to take back\Nmy words!
+Dialogue: 0,0:11:56.83,0:11:58.53,Default,,0000,0000,0000,,That is my Way of Ninja!
+Dialogue: 0,0:12:07.50,0:12:10.34,Default,,0000,0000,0000,,Huh... What a funny kid.
+Dialogue: 0,0:12:10.97,0:12:14.51,Default,,0000,0000,0000,,He completely brushed away\Nthose kids' anxieties.
+Dialogue: 0,0:12:16.51,0:12:21.05,Default,,0000,0000,0000,,78, huh? Much more left\Nthan I expected.
+Dialogue: 0,0:12:22.22,0:12:24.92,Default,,0000,0000,0000,,It's going to be the same.\NNo matter how much more I push it.
+Dialogue: 0,0:12:33.36,0:12:34.60,Default,,0000,0000,0000,,I like your determination!
+Dialogue: 0,0:12:35.53,0:12:36.53,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:12:37.50,0:12:39.50,Default,,0000,0000,0000,,For those who are still here...
+Dialogue: 0,0:12:40.50,0:12:42.24,Default,,0000,0000,0000,,The first exam...
+Dialogue: 0,0:12:45.41,0:12:47.34,Default,,0000,0000,0000,,You have passed it!
+Dialogue: 0,0:12:53.78,0:12:54.55,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:55.99,0:12:58.49,Default,,0000,0000,0000,,H-Hey, what does that mean?
+Dialogue: 0,0:12:58.52,0:13:00.52,Default,,0000,0000,0000,,All of a sudden you're telling us\Nthat we've passed!
+Dialogue: 0,0:13:00.52,0:13:01.93,Default,,0000,0000,0000,,What about the 10th question?
+Dialogue: 0,0:13:04.70,0:13:07.33,Default,,0000,0000,0000,,There wasn't such\Na thing to begin with!
+Dialogue: 0,0:13:07.60,0:13:11.03,Default,,0000,0000,0000,,Well, you can look at the choice you\Njust had to make as the 10th question!
+Dialogue: 0,0:13:11.50,0:13:12.24,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:12.50,0:13:13.44,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:13:14.14,0:13:17.11,Default,,0000,0000,0000,,Then, what were all\Nthose nine questions for!
+Dialogue: 0,0:13:17.14,0:13:18.51,Default,,0000,0000,0000,,It was just a waste of time!
+Dialogue: 0,0:13:18.51,0:13:20.04,Default,,0000,0000,0000,,Not a waste...
+Dialogue: 0,0:13:20.58,0:13:25.12,Default,,0000,0000,0000,,The objective of the nine questions\Nwere already accomplished.
+Dialogue: 0,0:13:26.52,0:13:31.89,Default,,0000,0000,0000,,To test your individual ability\Nto gather information!
+Dialogue: 0,0:13:33.16,0:13:35.16,Default,,0000,0000,0000,,Ability to gather information?
+Dialogue: 0,0:13:35.83,0:13:36.53,Default,,0000,0000,0000,,First…
+Dialogue: 0,0:13:37.36,0:13:39.26,Default,,0000,0000,0000,,The focus of this test was
+Dialogue: 0,0:13:39.33,0:13:41.53,Default,,0000,0000,0000,,on the system of determining\Nthe pass or failure
+Dialogue: 0,0:13:41.53,0:13:46.04,Default,,0000,0000,0000,,based on the three-person groups\Nthat was proposed in the first rule.
+Dialogue: 0,0:13:46.80,0:13:48.31,Default,,0000,0000,0000,,By grading the exam on\Na group basis,
+Dialogue: 0,0:13:48.37,0:13:54.18,Default,,0000,0000,0000,,I added the unimaginable pressure\Nof dragging down your teammates.
+Dialogue: 0,0:13:55.78,0:13:56.81,Default,,0000,0000,0000,,I see, I see.
+Dialogue: 0,0:13:56.85,0:14:00.28,Default,,0000,0000,0000,,I kind of felt that was\Nthe point of this test!
+Dialogue: 0,0:14:00.98,0:14:02.45,Default,,0000,0000,0000,,No , you didn't!
+Dialogue: 0,0:14:05.06,0:14:05.86,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:14:06.42,0:14:08.49,Default,,0000,0000,0000,,The questions on these tests weren't\Nthings that
+Dialogue: 0,0:14:08.53,0:14:11.33,Default,,0000,0000,0000,,you Genin Ninja would\Nhave been able to solve...
+Dialogue: 0,0:14:12.20,0:14:14.53,Default,,0000,0000,0000,,So in that case…
+Dialogue: 0,0:14:15.07,0:14:18.54,Default,,0000,0000,0000,,I imagined that most of you here\Nwould have come to this conclusion:
+Dialogue: 0,0:14:18.57,0:14:21.91,Default,,0000,0000,0000,,"In order to score points,\NI'll have to cheat."
+Dialogue: 0,0:14:22.94,0:14:23.77,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:14:23.81,0:14:27.11,Default,,0000,0000,0000,,this exam was created under the premise\Nthat you all would cheat!
+Dialogue: 0,0:14:37.72,0:14:40.82,Default,,0000,0000,0000,,That being said,
+Dialogue: 0,0:14:40.86,0:14:43.96,Default,,0000,0000,0000,,I had two Chunin in the group\Nwho knew all of the answers
+Dialogue: 0,0:14:44.03,0:14:47.13,Default,,0000,0000,0000,,from whom you could cheat.
+Dialogue: 0,0:14:47.46,0:14:50.87,Default,,0000,0000,0000,,What?! That's what it was?
+Dialogue: 0,0:14:51.40,0:14:53.50,Default,,0000,0000,0000,,I had a hard time figuring\Nout the guy.
+Dialogue: 0,0:14:53.50,0:14:55.27,Default,,0000,0000,0000,,Yeah. Really...
+Dialogue: 0,0:14:57.51,0:14:59.44,Default,,0000,0000,0000,,It was so obvious!
+Dialogue: 0,0:14:59.48,0:15:01.51,Default,,0000,0000,0000,,There's something wrong with you\Nif you didn't notice!
+Dialogue: 0,0:15:01.51,0:15:03.15,Default,,0000,0000,0000,,Right, Hinata?!
+Dialogue: 0,0:15:03.78,0:15:07.52,Default,,0000,0000,0000,,He... didn't realize it...
+Dialogue: 0,0:15:07.89,0:15:09.32,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:15:10.12,0:15:14.52,Default,,0000,0000,0000,,those who just foolishly cheated,\Nnaturally were disqualified.
+Dialogue: 0,0:15:16.59,0:15:18.06,Default,,0000,0000,0000,,That's because...
+Dialogue: 0,0:15:18.53,0:15:21.03,Default,,0000,0000,0000,,Information, depending on\Nthe time and situation,
+Dialogue: 0,0:15:21.06,0:15:23.53,Default,,0000,0000,0000,,it will be more valuable than life.
+Dialogue: 0,0:15:23.60,0:15:25.57,Default,,0000,0000,0000,,And in a mission or on a battlefield,
+Dialogue: 0,0:15:27.54,0:15:30.27,Default,,0000,0000,0000,,you will always have to risk your life\Nto fight for it!
+Dialogue: 0,0:15:32.18,0:15:36.45,Default,,0000,0000,0000,,Horrible burn marks, nail punctures\Nand scratches...
+Dialogue: 0,0:15:37.21,0:15:38.52,Default,,0000,0000,0000,,Those are signs of physical torture!
+Dialogue: 0,0:15:43.62,0:15:45.39,Default,,0000,0000,0000,,When information is gathered
+Dialogue: 0,0:15:45.42,0:15:47.52,Default,,0000,0000,0000,,and the enemy or a third party\Nfinds out about it,
+Dialogue: 0,0:15:47.52,0:15:51.03,Default,,0000,0000,0000,,that information is no longer\Nguaranteed to be correct.
+Dialogue: 0,0:15:53.43,0:15:55.40,Default,,0000,0000,0000,,Just remember this.
+Dialogue: 0,0:15:57.13,0:15:59.60,Default,,0000,0000,0000,,To be given the wrong information
+Dialogue: 0,0:16:00.04,0:16:03.54,Default,,0000,0000,0000,,can bring a catastrophic blow\Nto your friends and town.
+Dialogue: 0,0:16:05.11,0:16:08.21,Default,,0000,0000,0000,,So that is why, out of necessity,\Nwe forced you guys to cheat
+Dialogue: 0,0:16:08.28,0:16:10.58,Default,,0000,0000,0000,,in order to test your ability\Nto collect information.
+Dialogue: 0,0:16:11.58,0:16:16.52,Default,,0000,0000,0000,,And we filtered out those who\Nwere clearly lacking in those abilities.
+Dialogue: 0,0:16:17.35,0:16:18.29,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:18.52,0:16:21.59,Default,,0000,0000,0000,,The last question doesn't\Nmake any sense.
+Dialogue: 0,0:16:22.09,0:16:23.39,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:16:24.46,0:16:28.77,Default,,0000,0000,0000,,this 10th question was\Nthe main issue of this first exam.
+Dialogue: 0,0:16:29.33,0:16:29.90,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:30.37,0:16:32.24,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:16:32.70,0:16:33.97,Default,,0000,0000,0000,,I'll explain.
+Dialogue: 0,0:16:34.50,0:16:38.11,Default,,0000,0000,0000,,The tenth question was to\Ntake on the question, or not.
+Dialogue: 0,0:16:39.31,0:16:43.81,Default,,0000,0000,0000,,Needless to say, it is\Na painful decision to make.
+Dialogue: 0,0:16:44.58,0:16:45.85,Default,,0000,0000,0000,,Those who chose not to\Ntake on the question,
+Dialogue: 0,0:16:45.88,0:16:48.32,Default,,0000,0000,0000,,would be immediately failed\Nalong with their whole squad!
+Dialogue: 0,0:16:48.52,0:16:52.72,Default,,0000,0000,0000,,Those who chose to answer\Nthe question and got it wrong…
+Dialogue: 0,0:16:53.52,0:16:56.53,Default,,0000,0000,0000,,would be robbed of their chance\Nto take the Exam forever.
+Dialogue: 0,0:16:57.26,0:17:00.20,Default,,0000,0000,0000,,It really is an unfair question.
+Dialogue: 0,0:17:03.60,0:17:06.24,Default,,0000,0000,0000,,Then, how about these two choices?
+Dialogue: 0,0:17:07.04,0:17:09.64,Default,,0000,0000,0000,,Let's say that you guys did\Nbecome a Chunin.
+Dialogue: 0,0:17:10.67,0:17:13.44,Default,,0000,0000,0000,,The mission is to steal\Na secret document!
+Dialogue: 0,0:17:15.11,0:17:16.51,Default,,0000,0000,0000,,You have no idea how many\NNinjas the enemy has,
+Dialogue: 0,0:17:16.58,0:17:19.98,Default,,0000,0000,0000,,their ability, and other armament\Nthey may have.
+Dialogue: 0,0:17:20.88,0:17:25.16,Default,,0000,0000,0000,,On top of that, there maybe\Nthe pitfall of an enemy trap.
+Dialogue: 0,0:17:25.69,0:17:29.49,Default,,0000,0000,0000,,Now this mission...\NWill you take it? Or not take it?
+Dialogue: 0,0:17:29.86,0:17:31.46,Default,,0000,0000,0000,,Because you want your life spared...
+Dialogue: 0,0:17:31.53,0:17:33.96,Default,,0000,0000,0000,,Because your partners will\Nbe put in danger...
+Dialogue: 0,0:17:34.70,0:17:37.07,Default,,0000,0000,0000,,Can you get away from\Ndangerous missions?
+Dialogue: 0,0:17:38.07,0:17:39.14,Default,,0000,0000,0000,,The answer is...
+Dialogue: 0,0:17:42.41,0:17:43.04,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:44.84,0:17:46.78,Default,,0000,0000,0000,,There are going to be missions\Nyou cannot avoid
+Dialogue: 0,0:17:46.81,0:17:48.81,Default,,0000,0000,0000,,no matter how risky or\Ndangerous it may be!
+Dialogue: 0,0:17:51.58,0:17:54.28,Default,,0000,0000,0000,,Showing your courage to\Nyour teammates in a tight spot,
+Dialogue: 0,0:17:54.82,0:17:57.15,Default,,0000,0000,0000,,and the ability to get through\Nthe hardships...
+Dialogue: 0,0:18:00.36,0:18:04.06,Default,,0000,0000,0000,,This is the quality that is needed\Nin a Chunin troop leader!
+Dialogue: 0,0:18:08.57,0:18:13.07,Default,,0000,0000,0000,,In a pinch, there are\Nthose who cannot risk their own fate,
+Dialogue: 0,0:18:13.50,0:18:17.41,Default,,0000,0000,0000,,and those who waver and give up\Ntheir chances
+Dialogue: 0,0:18:17.44,0:18:21.51,Default,,0000,0000,0000,,because they think they\Nwill have another chance.
+Dialogue: 0,0:18:22.31,0:18:25.52,Default,,0000,0000,0000,,I believe that such fools who don't have\Nstrong determination
+Dialogue: 0,0:18:25.98,0:18:30.12,Default,,0000,0000,0000,,have no right to become a Chunin!
+Dialogue: 0,0:18:31.52,0:18:33.52,Default,,0000,0000,0000,,For those of you who chose\Nto take on the question,
+Dialogue: 0,0:18:33.52,0:18:36.69,Default,,0000,0000,0000,,you can say that you have successfully\Nanswered the difficult 10th question!
+Dialogue: 0,0:18:38.23,0:18:41.53,Default,,0000,0000,0000,,You shall be able to take on\Nthe adversity that may lie in your way.
+Dialogue: 0,0:18:43.47,0:18:45.07,Default,,0000,0000,0000,,You've passed through the gates!
+Dialogue: 0,0:18:46.40,0:18:49.77,Default,,0000,0000,0000,,The fist exam for the Chunin Exam\Nhas been completed.
+Dialogue: 0,0:18:50.91,0:18:53.81,Default,,0000,0000,0000,,I wish you well!
+Dialogue: 0,0:18:54.01,0:18:56.61,Default,,0000,0000,0000,,All right! Wish us well!
+Dialogue: 0,0:18:56.68,0:18:59.38,Default,,0000,0000,0000,,I did it! I did it! 					Yeaah!
+Dialogue: 0,0:19:01.38,0:19:02.52,Default,,0000,0000,0000,,What a funny guy...
+Dialogue: 0,0:19:13.53,0:19:15.07,Default,,0000,0000,0000,,W-What's going on?!
+Dialogue: 0,0:19:19.37,0:19:21.30,Default,,0000,0000,0000,,Gosh, this one...
+Dialogue: 0,0:19:21.64,0:19:23.17,Default,,0000,0000,0000,,You guys!
+Dialogue: 0,0:19:23.24,0:19:26.11,Default,,0000,0000,0000,,This isn't the time to be\Ncelebrating!
+Dialogue: 0,0:19:27.51,0:19:30.88,Default,,0000,0000,0000,,I'm the proctor for the second exam!\NAnko Mitarashi!
+Dialogue: 0,0:19:31.88,0:19:34.22,Default,,0000,0000,0000,,Let's move onto\Nthe next stage! Next!
+Dialogue: 0,0:19:34.52,0:19:36.52,Default,,0000,0000,0000,,Follow me!
+Dialogue: 0,0:19:42.93,0:19:44.53,Default,,0000,0000,0000,,Read the atmosphere.
+Dialogue: 0,0:19:47.73,0:19:51.13,Default,,0000,0000,0000,,This proctor...\Nls kind of like Naruto.
+Dialogue: 0,0:19:52.04,0:19:56.87,Default,,0000,0000,0000,,78?! Ibiki!\NYou let 26 teams slide by?
+Dialogue: 0,0:19:57.51,0:20:00.98,Default,,0000,0000,0000,,I guess, the first exam this time around\Nwas too easy.
+Dialogue: 0,0:20:01.41,0:20:04.85,Default,,0000,0000,0000,,It seems like this time,\Nthere are a lot of excellent candidates.
+Dialogue: 0,0:20:05.35,0:20:07.98,Default,,0000,0000,0000,,Huh! Well, all right...
+Dialogue: 0,0:20:08.79,0:20:12.72,Default,,0000,0000,0000,,I'll drop more than half of them\Nin the second exam!
+Dialogue: 0,0:20:13.39,0:20:15.66,Default,,0000,0000,0000,,M-More than half?
+Dialogue: 0,0:20:16.49,0:20:18.96,Default,,0000,0000,0000,,I'm getting excited.
+Dialogue: 0,0:20:19.60,0:20:21.53,Default,,0000,0000,0000,,I'll give you the details tomorrow.
+Dialogue: 0,0:20:21.53,0:20:23.23,Default,,0000,0000,0000,,We'll be changing locations,
+Dialogue: 0,0:20:23.40,0:20:27.44,Default,,0000,0000,0000,,so get information from your Jonin\Nabout the location and the time!
+Dialogue: 0,0:20:28.31,0:20:30.11,Default,,0000,0000,0000,,That's it. You're dismissed.
+Dialogue: 0,0:20:50.06,0:20:53.53,Default,,0000,0000,0000,,I didn't think that there would be a guy\Nthat would pass with a blank sheet.
+Dialogue: 0,0:20:54.26,0:20:58.50,Default,,0000,0000,0000,,Naruto Uzumaki...\NHe really is a funny guy.
+Dialogue: 0,0:21:03.31,0:21:05.68,Default,,0000,0000,0000,,W-What is this place?!
+Dialogue: 0,0:21:05.78,0:21:07.68,Default,,0000,0000,0000,,NO TRESPASSING
+Dialogue: 0,0:21:14.82,0:21:17.69,Default,,0000,0000,0000,,This is the location for\Nthe "second exam",
+Dialogue: 0,0:21:17.72,0:21:20.56,Default,,0000,0000,0000,,the 44th Training Field.
+Dialogue: 0,0:21:21.86,0:21:24.89,Default,,0000,0000,0000,,Also known as... the Forest of Death.
+Dialogue: 0,0:21:27.33,0:21:29.53,Default,,0000,0000,0000,,The Forest of... Death?!
+Dialogue: 0,0:23:06.36,0:23:08.23,Default,,0000,0000,0000,,I passed the first exam!
+Dialogue: 0,0:23:08.53,0:23:11.23,Default,,0000,0000,0000,,I'm just going to hop, jump\Nand take a big step and...
+Dialogue: 0,0:23:11.27,0:23:13.40,Default,,0000,0000,0000,,Huh? Konohamaru and the gang?
+Dialogue: 0,0:23:13.50,0:23:14.77,Default,,0000,0000,0000,,Hey, you guys!
+Dialogue: 0,0:23:14.80,0:23:16.51,Default,,0000,0000,0000,,if you want to play a Ninja game...
+Dialogue: 0,0:23:16.87,0:23:21.01,Default,,0000,0000,0000,,No? What?\NYou came here for a mission?!
+Dialogue: 0,0:23:22.11,0:23:27.52,Default,,0000,0000,0000,,Next episode:\N"Special Report:\N		Live from the Forest of Death!"
+Dialogue: 0,0:23:27.62,0:23:30.52,Default,,0000,0000,0000,,As for me, I'm going to kick-butt again!

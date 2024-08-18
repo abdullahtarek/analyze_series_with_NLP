@@ -1,0 +1,283 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.15,0:00:10.86,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.46,0:00:19.93,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:21.07,0:00:23.20,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.80,0:00:27.61,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.81,0:00:31.58,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:33.08,0:00:36.25,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.81,0:00:39.92,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.29,0:00:45.66,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.33,0:00:50.19,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:50.26,0:00:52.00,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:52.03,0:00:54.50,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.87,0:00:57.80,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.80,0:00:59.80,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.80,0:01:02.27,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:04.11,0:01:10.82,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.78,0:01:14.35,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.92,0:01:17.92,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.79,0:01:23.96,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.63,0:01:28.07,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:59.83,0:02:02.50,Default,,0000,0000,0000,,This is quite some fog.\NI can't see ahead.
+Dialogue: 0,0:02:14.81,0:02:16.75,Default,,0000,0000,0000,,The bridge should be visible soon.
+Dialogue: 0,0:02:17.78,0:02:20.52,Default,,0000,0000,0000,,When we reach the side of the bridge,\Nwe'll be in the Land of the Waves.
+Dialogue: 0,0:02:42.34,0:02:45.28,Default,,0000,0000,0000,,Wooow! 					 It's huge!
+Dialogue: 0,0:02:45.81,0:02:47.88,Default,,0000,0000,0000,,H-Hey! 					Please keep it down.
+Dialogue: 0,0:02:48.71,0:02:50.68,Default,,0000,0000,0000,,I took this boat out under cover of fog.
+Dialogue: 0,0:02:51.42,0:02:53.82,Default,,0000,0000,0000,,And I cut the engine\Nand am rowing by hand.
+Dialogue: 0,0:02:54.59,0:02:57.12,Default,,0000,0000,0000,,If they find us,\Nwe'll be in deep trouble.
+Dialogue: 0,0:03:03.09,0:03:04.06,Default,,0000,0000,0000,,Mr. Tazuna.
+Dialogue: 0,0:03:07.63,0:03:12.34,Default,,0000,0000,0000,,I want to ask you something\Nbefore we arrive at the pier.
+Dialogue: 0,0:03:16.44,0:03:21.08,Default,,0000,0000,0000,,The identity of your assailants,\Nand the reason why they are after you.
+Dialogue: 0,0:03:21.48,0:03:23.08,Default,,0000,0000,0000,,If you don't tell us…
+Dialogue: 0,0:03:23.11,0:03:27.82,Default,,0000,0000,0000,,our mission may end\Nwhen you make landfall.
+Dialogue: 0,0:03:31.62,0:03:37.53,Default,,0000,0000,0000,,The Assassin of the Mist
+Dialogue: 0,0:03:50.81,0:03:53.11,Default,,0000,0000,0000,,It appears I have no choice\Nbut to tell you.
+Dialogue: 0,0:03:53.78,0:03:56.15,Default,,0000,0000,0000,,Frankly, I'd like you to listen.
+Dialogue: 0,0:03:57.18,0:03:58.88,Default,,0000,0000,0000,,Just as you said,
+Dialogue: 0,0:03:58.92,0:04:02.09,Default,,0000,0000,0000,,this may be beyond\Nthe scope of your mission.
+Dialogue: 0,0:04:02.92,0:04:07.96,Default,,0000,0000,0000,,Actually, I am being targeted\Nby a terrifying man.
+Dialogue: 0,0:04:08.96,0:04:10.63,Default,,0000,0000,0000,,A terrifying man?
+Dialogue: 0,0:04:13.40,0:04:14.00,Default,,0000,0000,0000,,Who?
+Dialogue: 0,0:04:16.53,0:04:19.90,Default,,0000,0000,0000,,You guys have probably heard at\N least his name before.
+Dialogue: 0,0:04:20.81,0:04:25.84,Default,,0000,0000,0000,,A shipping magnate\Nby the name of Gato.
+Dialogue: 0,0:04:26.14,0:04:30.08,Default,,0000,0000,0000,,What? Gato…of the Gato Company?
+Dialogue: 0,0:04:30.82,0:04:33.48,Default,,0000,0000,0000,,One of the world's richest men?
+Dialogue: 0,0:04:33.75,0:04:35.82,Default,,0000,0000,0000,,Who? What?
+Dialogue: 0,0:04:36.82,0:04:37.59,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:04:38.12,0:04:42.46,Default,,0000,0000,0000,,On the surface, he's the chief executive\Nof a shipping company…
+Dialogue: 0,0:04:43.83,0:04:45.76,Default,,0000,0000,0000,,But underneath,\Nhe is into drug-trafficking
+Dialogue: 0,0:04:45.83,0:04:48.83,Default,,0000,0000,0000,,and deals in contraband\Nusing gangs and Ninjas.
+Dialogue: 0,0:04:49.07,0:04:51.44,Default,,0000,0000,0000,,Moreover, he runs a despicable business,
+Dialogue: 0,0:04:51.50,0:04:55.11,Default,,0000,0000,0000,,ruthlessly taking over nations\Nand enterprises.
+Dialogue: 0,0:05:00.38,0:05:01.81,Default,,0000,0000,0000,,It was about one year ago…
+Dialogue: 0,0:05:02.25,0:05:05.62,Default,,0000,0000,0000,,when that man first set his eyes on\Nthe Land of the Waves…
+Dialogue: 0,0:05:05.98,0:05:09.65,Default,,0000,0000,0000,,He used his wealth and violence\Nto enter this country,
+Dialogue: 0,0:05:09.82,0:05:11.29,Default,,0000,0000,0000,,and before anyone knew it,
+Dialogue: 0,0:05:11.32,0:05:16.36,Default,,0000,0000,0000,,he had taken complete control of the island's\Nmaritime transportation and shipping.
+Dialogue: 0,0:05:17.63,0:05:22.03,Default,,0000,0000,0000,,Having a tight grip on the ocean, in an\Nisland nation like the Land of the Waves,
+Dialogue: 0,0:05:22.07,0:05:26.37,Default,,0000,0000,0000,,means having control of finance,\Nthe government, the people... everything.
+Dialogue: 0,0:05:27.47,0:05:30.81,Default,,0000,0000,0000,,The one thing Gato fears...
+Dialogue: 0,0:05:31.84,0:05:34.15,Default,,0000,0000,0000,,is the completion of the bridge...
+Dialogue: 0,0:05:36.48,0:05:38.78,Default,,0000,0000,0000,,that has been under construction\Nfor some time now.
+Dialogue: 0,0:05:41.82,0:05:42.82,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:05:42.82,0:05:46.79,Default,,0000,0000,0000,,Since you're the one building the bridge,\Nyou've become a hindrance.
+Dialogue: 0,0:05:47.73,0:05:51.83,Default,,0000,0000,0000,,Then, those Ninjas from before\Nwere Gato's men…?
+Dialogue: 0,0:05:55.23,0:05:57.40,Default,,0000,0000,0000,,But I don't understand.
+Dialogue: 0,0:05:57.74,0:06:00.57,Default,,0000,0000,0000,,Your opponent is a dangerous one,\N who will even use Ninja.
+Dialogue: 0,0:06:00.81,0:06:03.64,Default,,0000,0000,0000,,Why did you hide that fact from us\Nwhen you made your request?
+Dialogue: 0,0:06:04.58,0:06:06.14,Default,,0000,0000,0000,,The Land of the Waves…
+Dialogue: 0,0:06:07.08,0:06:12.52,Default,,0000,0000,0000,,is a very poor nation,\Nand even feudal lords have no money.
+Dialogue: 0,0:06:15.19,0:06:17.82,Default,,0000,0000,0000,,Of course, we ordinary citizens\Nhave no money either.
+Dialogue: 0,0:06:18.52,0:06:22.79,Default,,0000,0000,0000,,We cannot afford to make requests of\NRank B or higher...
+Dialogue: 0,0:06:23.83,0:06:28.37,Default,,0000,0000,0000,,Well, if you pull out\Nof the mission when I land ashore,
+Dialogue: 0,0:06:28.63,0:06:31.34,Default,,0000,0000,0000,,I will, no doubt, be killed.
+Dialogue: 0,0:06:31.74,0:06:34.44,Default,,0000,0000,0000,,Killed sometime before I make it home.
+Dialogue: 0,0:06:35.44,0:06:37.81,Default,,0000,0000,0000,,But there's no need for concern!
+Dialogue: 0,0:06:38.64,0:06:42.61,Default,,0000,0000,0000,,Should I die, my cute grandchild\Nwho will turn eight...
+Dialogue: 0,0:06:42.75,0:06:45.82,Default,,0000,0000,0000,,will only cry his heart out!
+Dialogue: 0,0:06:46.42,0:06:47.45,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:06:48.25,0:06:51.86,Default,,0000,0000,0000,,And... my daughter will only blame\Nthe Hidden Leaves Ninja
+Dialogue: 0,0:06:51.92,0:06:56.49,Default,,0000,0000,0000,,for the rest of her life\Nand grieve in solitude!
+Dialogue: 0,0:06:59.83,0:07:02.83,Default,,0000,0000,0000,,Oh, it's not your fault at all!
+Dialogue: 0,0:07:08.94,0:07:09.77,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:07:09.81,0:07:11.14,Default,,0000,0000,0000,,I guess we have no choice.
+Dialogue: 0,0:07:11.44,0:07:12.94,Default,,0000,0000,0000,,Let's continue as his bodyguards.
+Dialogue: 0,0:07:13.38,0:07:15.78,Default,,0000,0000,0000,,Oh! I am most grateful!
+Dialogue: 0,0:07:18.52,0:07:19.45,Default,,0000,0000,0000,,I won!
+Dialogue: 0,0:07:23.29,0:07:24.82,Default,,0000,0000,0000,,We'll be arriving soon.
+Dialogue: 0,0:07:31.13,0:07:31.90,Default,,0000,0000,0000,,Tazuna.
+Dialogue: 0,0:07:31.96,0:07:35.03,Default,,0000,0000,0000,,It appears we haven't been noticed\Nup until this point…
+Dialogue: 0,0:07:35.83,0:07:36.83,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:08:17.54,0:08:18.81,Default,,0000,0000,0000,,This is as far as I go.
+Dialogue: 0,0:08:19.24,0:08:20.08,Default,,0000,0000,0000,,See you around.
+Dialogue: 0,0:08:20.48,0:08:22.91,Default,,0000,0000,0000,,Yeah. You've been a big help.
+Dialogue: 0,0:08:23.95,0:08:24.82,Default,,0000,0000,0000,,Be careful.
+Dialogue: 0,0:08:37.33,0:08:38.06,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:08:38.13,0:08:41.63,Default,,0000,0000,0000,,Get me home safely.
+Dialogue: 0,0:08:41.83,0:08:42.93,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:08:43.80,0:08:49.04,Default,,0000,0000,0000,,When they next attack,\Nit won't be Chunin, but elite level Jonin.
+Dialogue: 0,0:08:49.81,0:08:51.28,Default,,0000,0000,0000,,Cripes!
+Dialogue: 0,0:09:03.45,0:09:06.32,Default,,0000,0000,0000,,I won't let this guy do\Nall the fun stuff anymore!
+Dialogue: 0,0:09:12.63,0:09:13.20,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:09:26.04,0:09:28.48,Default,,0000,0000,0000,,Heh… Just a mouse.
+Dialogue: 0,0:09:28.51,0:09:30.81,Default,,0000,0000,0000,,Quit trying to show off!
+Dialogue: 0,0:09:30.81,0:09:33.12,Default,,0000,0000,0000,,There was nothing there\N in the first place!
+Dialogue: 0,0:09:33.42,0:09:34.82,Default,,0000,0000,0000,,Please, Naruto.
+Dialogue: 0,0:09:34.82,0:09:36.62,Default,,0000,0000,0000,,Don't use Kunai Knives recklessly.
+Dialogue: 0,0:09:36.65,0:09:37.82,Default,,0000,0000,0000,,They're really dangerous.
+Dialogue: 0,0:09:38.86,0:09:41.83,Default,,0000,0000,0000,,Hey brat!\NDon't be doing anything confusing!
+Dialogue: 0,0:09:41.99,0:09:44.16,Default,,0000,0000,0000,,Huh? I sense a presence there!
+Dialogue: 0,0:09:44.26,0:09:45.96,Default,,0000,0000,0000,,No, over here?!
+Dialogue: 0,0:09:49.27,0:09:49.83,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:09:51.90,0:09:53.70,Default,,0000,0000,0000,,Stop it, already!
+Dialogue: 0,0:09:56.27,0:10:00.98,Default,,0000,0000,0000,,S-Someone's really been targeting us\N the whole time!
+Dialogue: 0,0:10:01.01,0:10:02.41,Default,,0000,0000,0000,,Yeah right!
+Dialogue: 0,0:10:02.45,0:10:04.82,Default,,0000,0000,0000,,Knock it off, you!
+Dialogue: 0,0:10:10.02,0:10:12.19,Default,,0000,0000,0000,,Naruto!\NWhat have you done?!
+Dialogue: 0,0:10:12.22,0:10:13.59,Default,,0000,0000,0000,,It's a bunny!
+Dialogue: 0,0:10:15.96,0:10:17.09,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:17.13,0:10:20.26,Default,,0000,0000,0000,,I didn't mean to…\NI'm sorry, bunny.
+Dialogue: 0,0:10:20.33,0:10:21.83,Default,,0000,0000,0000,,It's just a rabbit, eh.
+Dialogue: 0,0:10:23.87,0:10:25.40,Default,,0000,0000,0000,,That's a snow rabbit.
+Dialogue: 0,0:10:26.10,0:10:28.81,Default,,0000,0000,0000,,But that doesn't explain\Nits fur color...
+Dialogue: 0,0:10:29.81,0:10:33.81,Default,,0000,0000,0000,,The coat turns white only during winter\Nwhen there is little sunlight.
+Dialogue: 0,0:10:44.49,0:10:45.96,Default,,0000,0000,0000,,Which means...
+Dialogue: 0,0:10:45.99,0:10:51.13,Default,,0000,0000,0000,,that snow rabbit was raised indoors\Nwithout sunlight to be used as a substitution.
+Dialogue: 0,0:11:00.57,0:11:02.27,Default,,0000,0000,0000,,Guess they're already here…
+Dialogue: 0,0:11:02.47,0:11:03.94,Default,,0000,0000,0000,,I'm sorry…
+Dialogue: 0,0:11:04.71,0:11:10.08,Default,,0000,0000,0000,,I see… The Demon Brothers wouldn't\Nbe enough to take on these guys.
+Dialogue: 0,0:11:11.08,0:11:13.45,Default,,0000,0000,0000,,The Copy Ninja from the\NVillage of the Hidden Leaves.
+Dialogue: 0,0:11:14.12,0:11:17.19,Default,,0000,0000,0000,,"Sharingan" Kakashi is with them…
+Dialogue: 0,0:11:22.09,0:11:22.89,Default,,0000,0000,0000,,Everyone, get down!
+Dialogue: 0,0:11:42.81,0:11:44.42,Default,,0000,0000,0000,,If I'm not mistaken, he's…
+Dialogue: 0,0:11:50.35,0:11:51.52,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:11:51.59,0:11:53.36,Default,,0000,0000,0000,,Here we go, here we go,\Nhere we go!
+Dialogue: 0,0:11:53.82,0:11:56.16,Default,,0000,0000,0000,,I'm going to do it this time.
+Dialogue: 0,0:11:56.19,0:11:58.20,Default,,0000,0000,0000,,I won't lose to Sasuke!
+Dialogue: 0,0:11:59.23,0:12:00.93,Default,,0000,0000,0000,,Well, well.
+Dialogue: 0,0:12:01.00,0:12:04.90,Default,,0000,0000,0000,,If it isn't the Rogue Ninja\Nof the Hidden Mist, Zabuza Momochi!
+Dialogue: 0,0:12:05.80,0:12:09.37,Default,,0000,0000,0000,,Rogue Ninja? Whatever.\NWhat's important now is…
+Dialogue: 0,0:12:09.81,0:12:11.04,Default,,0000,0000,0000,,Ready…
+Dialogue: 0,0:12:11.08,0:12:11.78,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:12:14.71,0:12:15.25,Default,,0000,0000,0000,,You're in the way.
+Dialogue: 0,0:12:16.31,0:12:17.48,Default,,0000,0000,0000,,Get back, you guys.
+Dialogue: 0,0:12:17.65,0:12:18.65,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:12:18.88,0:12:22.09,Default,,0000,0000,0000,,He's on a totally different level from\Nthe guys from the other day.
+Dialogue: 0,0:12:24.82,0:12:26.59,Default,,0000,0000,0000,,His being our opponent means…
+Dialogue: 0,0:12:27.89,0:12:28.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:28.96,0:12:29.83,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:12:31.16,0:12:33.70,Default,,0000,0000,0000,,that things might be tricky\Nas I am now.
+Dialogue: 0,0:12:34.73,0:12:37.40,Default,,0000,0000,0000,,I assume you are Kakashi,\Nthe Sharingan user…
+Dialogue: 0,0:12:42.81,0:12:44.44,Default,,0000,0000,0000,,Sorry, but…
+Dialogue: 0,0:12:44.81,0:12:47.24,Default,,0000,0000,0000,,I'll have you hand over the old man.
+Dialogue: 0,0:13:02.83,0:13:06.20,Default,,0000,0000,0000,,Huh? Huh? Sharingan?\NWhat's that?
+Dialogue: 0,0:13:06.73,0:13:09.13,Default,,0000,0000,0000,,What? What is he talking about?
+Dialogue: 0,0:13:09.83,0:13:11.07,Default,,0000,0000,0000,,Is this guy strong?
+Dialogue: 0,0:13:11.40,0:13:12.54,Default,,0000,0000,0000,,Sharingan…
+Dialogue: 0,0:13:12.87,0:13:15.81,Default,,0000,0000,0000,,Get in Manji battle formation, you guys.
+Dialogue: 0,0:13:15.81,0:13:17.27,Default,,0000,0000,0000,,Protect Tazuna…
+Dialogue: 0,0:13:18.81,0:13:20.81,Default,,0000,0000,0000,,Don't involve yourselves in the fight.
+Dialogue: 0,0:13:20.91,0:13:21.51,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:22.38,0:13:24.58,Default,,0000,0000,0000,,That's the teamwork\Nin this situation.
+Dialogue: 0,0:13:28.82,0:13:29.75,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:34.16,0:13:35.59,Default,,0000,0000,0000,,Fight me.
+Dialogue: 0,0:13:37.66,0:13:39.83,Default,,0000,0000,0000,,W-What's this eye…?
+Dialogue: 0,0:13:40.83,0:13:41.83,Default,,0000,0000,0000,,Well now...
+Dialogue: 0,0:13:41.83,0:13:45.57,Default,,0000,0000,0000,,I never expected to see\Nthe rumored Sharingan this soon…
+Dialogue: 0,0:13:45.60,0:13:46.80,Default,,0000,0000,0000,,This is an honor.
+Dialogue: 0,0:13:47.34,0:13:49.81,Default,,0000,0000,0000,,Everyone's been saying Sharingan...
+Dialogue: 0,0:13:49.81,0:13:50.81,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:13:51.94,0:13:52.98,Default,,0000,0000,0000,,…Sharingan.
+Dialogue: 0,0:13:53.81,0:13:56.81,Default,,0000,0000,0000,,Power that the light of the eye generates,\Nand the pupil emanates.
+Dialogue: 0,0:13:59.18,0:14:01.02,Default,,0000,0000,0000,,The user of\Nthe so-called Visual Jutsu (Art)
+Dialogue: 0,0:14:01.08,0:14:03.82,Default,,0000,0000,0000,,is said to possess the vision to see through\Nall Genjutsu (Illusionary Art),
+Dialogue: 0,0:14:03.82,0:14:06.19,Default,,0000,0000,0000,,Taijutsu (Physical Art),\Nand Ninjutsu (Ninja Art),
+Dialogue: 0,0:14:06.22,0:14:08.19,Default,,0000,0000,0000,,and is able to deflect them.
+Dialogue: 0,0:14:10.89,0:14:14.43,Default,,0000,0000,0000,,The Sharingan is a type of eye\Nthat is unique
+Dialogue: 0,0:14:14.50,0:14:16.40,Default,,0000,0000,0000,,to the user of the Visual Art.
+Dialogue: 0,0:14:17.80,0:14:21.74,Default,,0000,0000,0000,,However, that is not the only power of\Nthe Sharingan.
+Dialogue: 0,0:14:26.08,0:14:27.81,Default,,0000,0000,0000,,Well said.
+Dialogue: 0,0:14:27.88,0:14:29.81,Default,,0000,0000,0000,,That is not all.
+Dialogue: 0,0:14:30.25,0:14:33.52,Default,,0000,0000,0000,,What's more frightening is that\Nsuch an eye
+Dialogue: 0,0:14:33.58,0:14:37.25,Default,,0000,0000,0000,,can assess an opponent's techniques\Nand copy them.
+Dialogue: 0,0:14:44.83,0:14:47.83,Default,,0000,0000,0000,,When I was in the Anbu Black Ops\Nof the Hidden Mist,
+Dialogue: 0,0:14:47.83,0:14:50.13,Default,,0000,0000,0000,,search information\Nabout you was in the Bingo Book
+Dialogue: 0,0:14:50.17,0:14:52.80,Default,,0000,0000,0000,,I would carry around with me.
+Dialogue: 0,0:14:54.07,0:14:56.37,Default,,0000,0000,0000,,There was also something\Nelse in the book...
+Dialogue: 0,0:14:56.91,0:15:00.21,Default,,0000,0000,0000,,About the man who has copied\Nover one thousand skills…
+Dialogue: 0,0:15:00.24,0:15:02.15,Default,,0000,0000,0000,,Kakashi the Copy Ninja.
+Dialogue: 0,0:15:07.82,0:15:11.82,Default,,0000,0000,0000,,What? Kakashi Sensei\Nis that incredible a Ninja?
+Dialogue: 0,0:15:12.66,0:15:14.36,Default,,0000,0000,0000,,W-Wow!
+Dialogue: 0,0:15:17.66,0:15:18.83,Default,,0000,0000,0000,,What does this mean?
+Dialogue: 0,0:15:19.36,0:15:22.00,Default,,0000,0000,0000,,The Sharingan…is a special trait
+Dialogue: 0,0:15:22.03,0:15:25.00,Default,,0000,0000,0000,,that appears in only a select few\Neven among the Uchiha clan.
+Dialogue: 0,0:15:26.57,0:15:28.11,Default,,0000,0000,0000,,Could it be, that this guy…
+Dialogue: 0,0:15:31.61,0:15:33.84,Default,,0000,0000,0000,,Let's end the talking here.
+Dialogue: 0,0:15:34.81,0:15:37.81,Default,,0000,0000,0000,,I must kill that old man immediately.
+Dialogue: 0,0:15:48.96,0:15:53.83,Default,,0000,0000,0000,,But, Kakashi, it seems\NI have to defeat you first.
+Dialogue: 0,0:16:02.57,0:16:03.44,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:16:03.47,0:16:04.61,Default,,0000,0000,0000,,And he's even on the water?
+Dialogue: 0,0:16:14.48,0:16:16.52,Default,,0000,0000,0000,,He's building up quite a bit of Chakra!
+Dialogue: 0,0:16:24.83,0:16:27.70,Default,,0000,0000,0000,,Ninja Art, Hidden Mist Jutsu.
+Dialogue: 0,0:16:37.81,0:16:38.61,Default,,0000,0000,0000,,He's vanished?!
+Dialogue: 0,0:16:41.11,0:16:41.81,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:16:42.28,0:16:44.82,Default,,0000,0000,0000,,He'll probably come to erase me first…
+Dialogue: 0,0:16:45.62,0:16:47.02,Default,,0000,0000,0000,,What is he?
+Dialogue: 0,0:16:47.75,0:16:48.82,Default,,0000,0000,0000,,Zabuza Momochi.
+Dialogue: 0,0:16:49.59,0:16:51.72,Default,,0000,0000,0000,,He's a Anbu Black Ops member\Nin the Hidden Mist and
+Dialogue: 0,0:16:51.79,0:16:54.59,Default,,0000,0000,0000,,is known as "the silent killing"\Ntechnique expert.
+Dialogue: 0,0:16:54.79,0:16:55.83,Default,,0000,0000,0000,,S-Silen...?
+Dialogue: 0,0:16:56.16,0:16:57.73,Default,,0000,0000,0000,,As the name suggests…
+Dialogue: 0,0:16:58.13,0:17:02.83,Default,,0000,0000,0000,,it's a killing skill that's implemented\Nin an instant in silence.
+Dialogue: 0,0:17:10.81,0:17:11.81,Default,,0000,0000,0000,,By the time you realize it,
+Dialogue: 0,0:17:11.81,0:17:13.88,Default,,0000,0000,0000,,it's possible you may find yourself\Nin the afterlife.
+Dialogue: 0,0:17:14.81,0:17:17.91,Default,,0000,0000,0000,,I haven't totally mastered\Nthe use of my Sharingan.
+Dialogue: 0,0:17:18.58,0:17:20.28,Default,,0000,0000,0000,,So don't lower your guard, you guys.
+Dialogue: 0,0:17:25.96,0:17:28.36,Default,,0000,0000,0000,,Well, if we fail, we'll only die.
+Dialogue: 0,0:17:28.79,0:17:30.19,Default,,0000,0000,0000,,How can you be so carefree?!
+Dialogue: 0,0:17:36.77,0:17:39.00,Default,,0000,0000,0000,,The mist is steadily getting thicker!
+Dialogue: 0,0:17:39.34,0:17:41.81,Default,,0000,0000,0000,,The Land of the Waves\Nis surrounded by ocean.
+Dialogue: 0,0:17:42.27,0:17:44.41,Default,,0000,0000,0000,,So mist rises very easily.
+Dialogue: 0,0:17:47.81,0:17:48.41,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:17:58.99,0:18:00.12,Default,,0000,0000,0000,,Eight spots.
+Dialogue: 0,0:18:00.46,0:18:02.03,Default,,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:18:03.16,0:18:06.16,Default,,0000,0000,0000,,The larynx, the spine,\Nthe lungs, the liver...
+Dialogue: 0,0:18:06.83,0:18:09.40,Default,,0000,0000,0000,,The jugular and the subclavian veins.
+Dialogue: 0,0:18:09.77,0:18:12.04,Default,,0000,0000,0000,,The kidneys, the heart.
+Dialogue: 0,0:18:13.37,0:18:16.17,Default,,0000,0000,0000,,Now then, which vulnerable spot\Nwould be good?
+Dialogue: 0,0:18:43.83,0:18:45.54,Default,,0000,0000,0000,,What an intense thirst for blood!
+Dialogue: 0,0:18:46.80,0:18:49.74,Default,,0000,0000,0000,,If I take even one breath,\Nor move my eyes,
+Dialogue: 0,0:18:49.77,0:18:53.41,Default,,0000,0000,0000,,I will be marked and killed -\Nthat's what I'm feeling.
+Dialogue: 0,0:18:54.51,0:18:58.38,Default,,0000,0000,0000,,If I'm stuck like this for an hour,\NI'll go mad!
+Dialogue: 0,0:19:00.08,0:19:02.19,Default,,0000,0000,0000,,Facing a Jonin's intent to kill…
+Dialogue: 0,0:19:03.12,0:19:06.22,Default,,0000,0000,0000,,This sensation is like having\Nmy life being held in limbo…
+Dialogue: 0,0:19:08.73,0:19:12.83,Default,,0000,0000,0000,,No way! I'd rather die\Nto escape this feeling!
+Dialogue: 0,0:19:14.83,0:19:15.70,Default,,0000,0000,0000,,Sasuke.
+Dialogue: 0,0:19:16.43,0:19:20.07,Default,,0000,0000,0000,,Don't worry.\NI'll protect you with my life.
+Dialogue: 0,0:19:22.81,0:19:26.84,Default,,0000,0000,0000,,I will not allow\Nmy comrades to get killed.
+Dialogue: 0,0:19:32.15,0:19:34.82,Default,,0000,0000,0000,,I wonder about that...
+Dialogue: 0,0:19:41.32,0:19:42.33,Default,,0000,0000,0000,,It's over.
+Dialogue: 0,0:20:13.22,0:20:14.59,Default,,0000,0000,0000,,Sensei! 					Behind you!
+Dialogue: 0,0:20:19.73,0:20:20.96,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:20:32.58,0:20:33.91,Default,,0000,0000,0000,,The Water Clone Jutsu?
+Dialogue: 0,0:20:35.75,0:20:36.65,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:20:50.83,0:20:52.50,Default,,0000,0000,0000,,In this mist…
+Dialogue: 0,0:20:58.20,0:21:00.44,Default,,0000,0000,0000,,did he actually copy me?
+Dialogue: 0,0:21:04.81,0:21:05.48,Default,,0000,0000,0000,,Don't move.
+Dialogue: 0,0:21:20.49,0:21:21.39,Default,,0000,0000,0000,,It's over.
+Dialogue: 0,0:23:07.33,0:23:08.70,Default,,0000,0000,0000,,O-Oh no!
+Dialogue: 0,0:23:08.73,0:23:11.40,Default,,0000,0000,0000,,Even Kakashi Sensei fell under\NZabuza's Jutsu.
+Dialogue: 0,0:23:11.80,0:23:12.60,Default,,0000,0000,0000,,I've got to escape.
+Dialogue: 0,0:23:12.67,0:23:14.84,Default,,0000,0000,0000,,I'll get killed, for real.
+Dialogue: 0,0:23:16.17,0:23:17.17,Default,,0000,0000,0000,,This pain.
+Dialogue: 0,0:23:17.91,0:23:20.41,Default,,0000,0000,0000,,What am I doing?!
+Dialogue: 0,0:23:20.81,0:23:24.75,Default,,0000,0000,0000,,I'd decided, hadn't I?\NNot to run away no matter what happens.
+Dialogue: 0,0:23:25.78,0:23:28.12,Default,,0000,0000,0000,,Next episode:\N "The Oath of Pain!"
+Dialogue: 0,0:23:28.49,0:23:31.42,Default,,0000,0000,0000,,I'm going to kick butt once again!

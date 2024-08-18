@@ -1,0 +1,247 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.57,0:00:09.73,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.77,0:00:17.98,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.23,0:00:20.28,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.23,0:00:26.98,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.03,0:00:30.53,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.73,0:00:34.23,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.65,0:00:37.90,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.94,0:00:45.53,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.57,0:00:54.77,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.77,0:01:02.77,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.98,0:01:09.82,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.86,0:01:17.98,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.32,0:01:26.77,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.77,0:01:28.82,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:45.40,0:01:46.77,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:01:46.78,0:01:49.65,Default,,0000,0000,0000,,He came in totally late.
+Dialogue: 0,0:01:53.77,0:01:56.77,Default,,0000,0000,0000,,Hmm? Where’s Sasuke?
+Dialogue: 0,0:01:56.86,0:01:59.32,Default,,0000,0000,0000,,The Dosu guy I’m supposed\Nto fight isn’t here, either.
+Dialogue: 0,0:01:59.73,0:02:01.48,Default,,0000,0000,0000,,Hey, you guys over there.
+Dialogue: 0,0:02:01.77,0:02:06.82,Default,,0000,0000,0000,,Throw out your chests and\Nshow your faces to the spectators!
+Dialogue: 0,0:02:25.19,0:02:29.11,Default,,0000,0000,0000,,You guys are the stars\Nof this “final round”!
+Dialogue: 0,0:02:31.82,0:02:34.77,Default,,0000,0000,0000,,Sasuke hasn’t been found yet?
+Dialogue: 0,0:02:35.44,0:02:38.44,Default,,0000,0000,0000,,A team of several Anbu members\Nare searching all over,
+Dialogue: 0,0:02:38.48,0:02:39.77,Default,,0000,0000,0000,,but they have found nothing.
+Dialogue: 0,0:02:41.23,0:02:44.36,Default,,0000,0000,0000,,He might already be in\Nthe hands of Orochimaru…
+Dialogue: 0,0:02:45.15,0:02:48.40,Default,,0000,0000,0000,,If that’s the case,\Nwe may never find him.
+Dialogue: 0,0:02:51.77,0:02:53.19,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:02:56.65,0:03:00.61,Default,,0000,0000,0000,,Well-well… Lord Kazekage.
+Dialogue: 0,0:03:16.32,0:03:19.44,Default,,0000,0000,0000,,You must be tired having\Ncome all this way.
+Dialogue: 0,0:03:19.77,0:03:23.03,Default,,0000,0000,0000,,No…I’m glad the arena\Nis in the Leaf Village.
+Dialogue: 0,0:03:23.90,0:03:28.57,Default,,0000,0000,0000,,Even though you’re still young, it would\Nprobably be a tough journey for you
+Dialogue: 0,0:03:28.61,0:03:31.32,Default,,0000,0000,0000,,if you had to go to the trouble\Nof traveling someplace else.
+Dialogue: 0,0:03:32.73,0:03:35.77,Default,,0000,0000,0000,,Shouldn’t you decide on\Nthe Fifth Hokage soon?
+Dialogue: 0,0:03:41.65,0:03:44.98,Default,,0000,0000,0000,,Please don’t treat me\Nlike an old person.
+Dialogue: 0,0:03:45.53,0:03:48.69,Default,,0000,0000,0000,,I’m still planning on\Nbeing Hokage for another five years…
+Dialogue: 0,0:03:56.69,0:04:00.94,Default,,0000,0000,0000,,Now then, I guess it’s\Nabout time to begin.
+Dialogue: 0,0:04:05.77,0:04:11.77,Default,,0000,0000,0000,,Everyone, thank you very much\Nfor coming
+Dialogue: 0,0:04:11.77,0:04:16.61,Default,,0000,0000,0000,,to the Village Hidden in Leaves\NChunin Exam.
+Dialogue: 0,0:04:17.03,0:04:20.48,Default,,0000,0000,0000,,We will now begin the\N“final round” matches
+Dialogue: 0,0:04:20.53,0:04:24.23,Default,,0000,0000,0000,,for the eight who made it\Nthrough the preliminaries!
+Dialogue: 0,0:04:24.61,0:04:27.77,Default,,0000,0000,0000,,Please watch until the end!
+Dialogue: 0,0:04:29.40,0:04:34.07,Default,,0000,0000,0000,,If there are supposed to be eight,\Nit looks like there’s one missing.
+Dialogue: 0,0:04:40.77,0:04:43.61,Default,,0000,0000,0000,,I have something to tell\Nyou before the match.
+Dialogue: 0,0:04:46.15,0:04:47.36,Default,,0000,0000,0000,,Look at this.
+Dialogue: 0,0:04:47.77,0:04:48.40,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:52.61,0:04:55.44,Default,,0000,0000,0000,,There was a slight change\Nto the tournament.
+Dialogue: 0,0:04:56.15,0:04:59.82,Default,,0000,0000,0000,,Check who you’ll be facing\None more time.
+Dialogue: 0,0:05:00.77,0:05:04.77,Default,,0000,0000,0000,,Here, I had more preliminary\Nmatches than the others…
+Dialogue: 0,0:05:05.77,0:05:08.44,Default,,0000,0000,0000,,So the Dosu guy dropped out?
+Dialogue: 0,0:05:13.15,0:05:16.77,Default,,0000,0000,0000,,I thought I’d pound you here…
+Dialogue: 0,0:05:17.48,0:05:20.86,Default,,0000,0000,0000,,If I did that,\Nthere’d be the possibility for me,
+Dialogue: 0,0:05:20.90,0:05:24.77,Default,,0000,0000,0000,,as the one remaining after\Nthe first battle, to fight Sasuke.
+Dialogue: 0,0:05:27.77,0:05:30.77,Default,,0000,0000,0000,,W-What are you?!
+Dialogue: 0,0:05:38.11,0:05:39.07,Default,,0000,0000,0000,,Say…
+Dialogue: 0,0:05:39.53,0:05:40.36,Default,,0000,0000,0000,,…say.
+Dialogue: 0,0:05:41.36,0:05:41.98,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:42.23,0:05:45.32,Default,,0000,0000,0000,,Umm…Sasuke still hasn’t come.
+Dialogue: 0,0:05:45.77,0:05:46.77,Default,,0000,0000,0000,,What’ll happen?
+Dialogue: 0,0:05:51.48,0:05:55.07,Default,,0000,0000,0000,,I wonder if Sasuke really did sneak out\Nof the hospital room at that time.
+Dialogue: 0,0:06:00.65,0:06:03.19,Default,,0000,0000,0000,,Something could’ve happened to him…
+Dialogue: 0,0:06:04.32,0:06:08.48,Default,,0000,0000,0000,,In case a competitor does not arrive\Nby the start time of his match…
+Dialogue: 0,0:06:10.44,0:06:12.28,Default,,0000,0000,0000,,he or she will lose by default!
+Dialogue: 0,0:06:14.90,0:06:16.65,Default,,0000,0000,0000,,It doesn’t make sense.
+Dialogue: 0,0:06:16.77,0:06:20.77,Default,,0000,0000,0000,,Knowing his character,\Nhe’d come even if he had to drag himself.
+Dialogue: 0,0:06:30.32,0:06:32.73,Default,,0000,0000,0000,,Where are you going, Gaara?
+Dialogue: 0,0:06:33.86,0:06:36.61,Default,,0000,0000,0000,,To verify my existence…\None more time.
+Dialogue: 0,0:06:54.40,0:06:55.77,Default,,0000,0000,0000,,One more time.
+Dialogue: 0,0:06:56.15,0:06:59.07,Default,,0000,0000,0000,,What’s wrong?\NYou should still be able to move, right?!
+Dialogue: 0,0:07:03.82,0:07:05.48,Default,,0000,0000,0000,,Sasuke! Come on!
+Dialogue: 0,0:07:17.03,0:07:18.40,Default,,0000,0000,0000,,Could it be…?
+Dialogue: 0,0:07:18.44,0:07:21.11,Default,,0000,0000,0000,,Even after I warned him to avoid\Ndoing anything to stand out…
+Dialogue: 0,0:07:21.78,0:07:26.44,Default,,0000,0000,0000,,He didn’t kill that Sasuke Uchiha\Nalso, did he…?
+Dialogue: 0,0:07:29.40,0:07:30.94,Default,,0000,0000,0000,,Listen up, you guys.
+Dialogue: 0,0:07:31.73,0:07:35.07,Default,,0000,0000,0000,,The terrain is different,\Nbut the rule is that there are no rules,
+Dialogue: 0,0:07:35.11,0:07:36.57,Default,,0000,0000,0000,,the same as\Nin the preliminaries.
+Dialogue: 0,0:07:37.53,0:07:41.77,Default,,0000,0000,0000,,The matches will continue until one\Nor the other dies, or acknowledges defeat.
+Dialogue: 0,0:07:44.77,0:07:49.90,Default,,0000,0000,0000,,However, if I judge that it has been settled,\NI’ll stop the match there.
+Dialogue: 0,0:07:50.65,0:07:52.15,Default,,0000,0000,0000,,Arguments will not be allowed.
+Dialogue: 0,0:07:53.19,0:07:54.28,Default,,0000,0000,0000,,Understood?
+Dialogue: 0,0:07:57.03,0:07:59.23,Default,,0000,0000,0000,,So the first match is…
+Dialogue: 0,0:08:00.07,0:08:02.11,Default,,0000,0000,0000,,Naruto Uzumaki.
+Dialogue: 0,0:08:04.28,0:08:05.73,Default,,0000,0000,0000,,Neji Hyuga.
+Dialogue: 0,0:08:06.40,0:08:10.11,Default,,0000,0000,0000,,Just those two remain and\Nthe rest of you go to the waiting room.
+Dialogue: 0,0:08:15.82,0:08:22.11,Default,,0000,0000,0000,,Byakugan vs. Shadow Clone!
+Dialogue: 0,0:08:28.69,0:08:31.23,Default,,0000,0000,0000,,Hey, Hinata! These seats are open.
+Dialogue: 0,0:08:34.90,0:08:35.77,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:08:36.78,0:08:38.77,Default,,0000,0000,0000,,This match will be quite interesting!
+Dialogue: 0,0:08:41.77,0:08:43.28,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:08:44.23,0:08:45.77,Default,,0000,0000,0000,,Say, Sakura.
+Dialogue: 0,0:08:47.57,0:08:50.57,Default,,0000,0000,0000,,I understand that you’re worried\Nabout Sasuke.
+Dialogue: 0,0:08:50.69,0:08:53.77,Default,,0000,0000,0000,,But why don’t you cheer\Nfor Naruto at least a little bit?
+Dialogue: 0,0:08:55.11,0:08:58.65,Default,,0000,0000,0000,,Hmm. You’re right.
+Dialogue: 0,0:08:58.77,0:08:59.98,Default,,0000,0000,0000,,That being said,
+Dialogue: 0,0:09:00.03,0:09:02.98,Default,,0000,0000,0000,,with Neji as his opponent,\NNaruto has no chance of winning.
+Dialogue: 0,0:09:03.77,0:09:04.77,Default,,0000,0000,0000,,That is…!
+Dialogue: 0,0:09:04.78,0:09:06.32,Default,,0000,0000,0000,,Not so, is what you’re\Ngoing to say?
+Dialogue: 0,0:09:11.03,0:09:14.28,Default,,0000,0000,0000,,But to think that brat would\Nsurvive until this point…
+Dialogue: 0,0:09:15.77,0:09:17.94,Default,,0000,0000,0000,,I wonder if this is\Nas far as it goes
+Dialogue: 0,0:09:17.98,0:09:19.86,Default,,0000,0000,0000,,for those who survived\Njust by luck, after all.
+Dialogue: 0,0:09:19.90,0:09:21.77,Default,,0000,0000,0000,,That Naruto.
+Dialogue: 0,0:09:22.98,0:09:25.11,Default,,0000,0000,0000,,This is not a good opponent at all.
+Dialogue: 0,0:09:25.44,0:09:28.73,Default,,0000,0000,0000,,No matter how you look at it,\Nhe can’t beat the Hyuga clan.
+Dialogue: 0,0:09:32.15,0:09:35.61,Default,,0000,0000,0000,,Well, that’s what I thought\Nat the beginning…
+Dialogue: 0,0:09:35.77,0:09:39.77,Default,,0000,0000,0000,,But you’ll all be surprised\Nif you underestimate him.
+Dialogue: 0,0:09:42.11,0:09:43.90,Default,,0000,0000,0000,,Akamaru, what’s wrong?
+Dialogue: 0,0:09:46.11,0:09:47.15,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:09:50.77,0:09:51.77,Default,,0000,0000,0000,,What?! Where?!
+Dialogue: 0,0:09:56.86,0:09:57.82,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:10:01.69,0:10:03.78,Default,,0000,0000,0000,,What’s Anbu, the Black Ops,\Ndoing here?
+Dialogue: 0,0:10:04.77,0:10:06.53,Default,,0000,0000,0000,,Is something going on…?
+Dialogue: 0,0:10:15.98,0:10:18.48,Default,,0000,0000,0000,,You seem like you want\Nto say something.
+Dialogue: 0,0:10:30.77,0:10:32.77,Default,,0000,0000,0000,,I said it before, too, didn’t I?
+Dialogue: 0,0:10:34.19,0:10:38.86,Default,,0000,0000,0000,,A failure is a failure.\NYou can’t change.
+Dialogue: 0,0:10:42.48,0:10:44.28,Default,,0000,0000,0000,,I promise …
+Dialogue: 0,0:10:54.69,0:10:56.07,Default,,0000,0000,0000,,I’ll win, no matter what!
+Dialogue: 0,0:11:02.11,0:11:04.19,Default,,0000,0000,0000,,He has the look…\Nof being sure of himself…
+Dialogue: 0,0:11:04.82,0:11:06.90,Default,,0000,0000,0000,,It’s as if he’s not all worked up…
+Dialogue: 0,0:11:09.90,0:11:11.78,Default,,0000,0000,0000,,That makes it\Nmore worthwhile for me.
+Dialogue: 0,0:11:12.28,0:11:15.65,Default,,0000,0000,0000,,I look forward to your look\Nof disappointment…
+Dialogue: 0,0:11:15.69,0:11:20.44,Default,,0000,0000,0000,,when you know the true reality…
+Dialogue: 0,0:11:20.77,0:11:22.77,Default,,0000,0000,0000,,Stop whining.
+Dialogue: 0,0:11:27.19,0:11:31.11,Default,,0000,0000,0000,,Let’s…get started!
+Dialogue: 0,0:11:36.61,0:11:38.86,Default,,0000,0000,0000,,Now then, round one.
+Dialogue: 0,0:11:39.77,0:11:40.69,Default,,0000,0000,0000,,Begin!
+Dialogue: 0,0:12:44.65,0:12:46.65,Default,,0000,0000,0000,,Watch carefully, Hanabi.
+Dialogue: 0,0:12:46.78,0:12:51.69,Default,,0000,0000,0000,,Nobody has inherited such\Na strong Hyuga Kekkei Genkai.
+Dialogue: 0,0:12:52.23,0:12:54.77,Default,,0000,0000,0000,,To say nothing of your older sister.
+Dialogue: 0,0:12:55.77,0:12:57.19,Default,,0000,0000,0000,,More than big sister?
+Dialogue: 0,0:12:57.61,0:12:59.86,Default,,0000,0000,0000,,Perhaps more than you, too.
+Dialogue: 0,0:13:04.61,0:13:07.77,Default,,0000,0000,0000,,This time, it’s not an opponent\Nthat can be managed easily.
+Dialogue: 0,0:13:07.98,0:13:10.36,Default,,0000,0000,0000,,He has that Byakugan.
+Dialogue: 0,0:13:19.78,0:13:21.90,Default,,0000,0000,0000,,Close combat is no good…
+Dialogue: 0,0:13:22.82,0:13:25.77,Default,,0000,0000,0000,,Does Naruto know that?
+Dialogue: 0,0:14:01.23,0:14:04.07,Default,,0000,0000,0000,,Idiot! Why would anyone\Nattack from the front?!
+Dialogue: 0,0:14:25.65,0:14:26.90,Default,,0000,0000,0000,,No! Naruto.
+Dialogue: 0,0:15:09.65,0:15:11.77,Default,,0000,0000,0000,,The opponent can see\Nyour Chakra Points!
+Dialogue: 0,0:15:14.36,0:15:15.82,Default,,0000,0000,0000,,They're called Chakra Points.
+Dialogue: 0,0:15:16.23,0:15:18.23,Default,,0000,0000,0000,,If those pressure points\Nare pressed accurately…
+Dialogue: 0,0:15:18.40,0:15:21.07,Default,,0000,0000,0000,,the flow of an opponent’s Chakra\Ncan be stopped,
+Dialogue: 0,0:15:21.11,0:15:26.36,Default,,0000,0000,0000,,amplified or controlled at will.
+Dialogue: 0,0:15:28.57,0:15:30.07,Default,,0000,0000,0000,,Uh-oh!
+Dialogue: 0,0:15:39.36,0:15:40.77,Default,,0000,0000,0000,,I missed, huh…?
+Dialogue: 0,0:15:43.07,0:15:46.11,Default,,0000,0000,0000,,In other words, he’ll press\Nthe pressure point if I get too close
+Dialogue: 0,0:15:46.15,0:15:47.77,Default,,0000,0000,0000,,and I’ll become unable\Nto use Jutsu.
+Dialogue: 0,0:15:47.90,0:15:51.15,Default,,0000,0000,0000,,That means all I can do\Nis fight from a distance.
+Dialogue: 0,0:15:52.40,0:15:56.53,Default,,0000,0000,0000,,You understand, right?\NYou have no way of winning.
+Dialogue: 0,0:15:57.82,0:16:02.28,Default,,0000,0000,0000,,Heh… All I did was to verify your power.
+Dialogue: 0,0:16:12.15,0:16:15.69,Default,,0000,0000,0000,,The real fight is just getting started!
+Dialogue: 0,0:16:20.77,0:16:22.40,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:16:26.73,0:16:28.53,Default,,0000,0000,0000,,You used your head,\Ndidn’t you, Naruto?!
+Dialogue: 0,0:16:28.77,0:16:30.28,Default,,0000,0000,0000,,With the Shadow Clone Jutsu…
+Dialogue: 0,0:16:30.82,0:16:33.19,Default,,0000,0000,0000,,Heh. He’s an interesting kid.
+Dialogue: 0,0:16:33.98,0:16:36.82,Default,,0000,0000,0000,,Shadow Clone Jutsu is\Na Jonin level technique.
+Dialogue: 0,0:16:37.77,0:16:40.28,Default,,0000,0000,0000,,To think he could use\Nsuch an Jutsu…
+Dialogue: 0,0:16:40.78,0:16:43.65,Default,,0000,0000,0000,,Who knows how this’ll turn out?
+Dialogue: 0,0:16:48.77,0:16:49.98,Default,,0000,0000,0000,,Shadow Clone Jutsu?!
+Dialogue: 0,0:16:50.86,0:16:55.77,Default,,0000,0000,0000,,I get it. If Chakra is evenly distributed\Namong the clones,
+Dialogue: 0,0:16:55.78,0:17:00.32,Default,,0000,0000,0000,,indeed, I can’t detect the\Nreal one even with my Byakugan.
+Dialogue: 0,0:17:01.73,0:17:05.07,Default,,0000,0000,0000,,But there’s only one real one,\Nafter all!
+Dialogue: 0,0:17:06.03,0:17:08.69,Default,,0000,0000,0000,,Heh. Don’t be acting tough!
+Dialogue: 0,0:17:09.77,0:17:11.61,Default,,0000,0000,0000,,If you’re going to come,\Nthen come.
+Dialogue: 0,0:17:15.77,0:17:16.77,Default,,0000,0000,0000,,It’s pointless.
+Dialogue: 0,0:17:17.57,0:17:22.77,Default,,0000,0000,0000,,In front of that Neji’s defense,\Nit’s not just all attacking.
+Dialogue: 0,0:17:25.48,0:17:26.73,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:27.57,0:17:31.19,Default,,0000,0000,0000,,Don’t…you…underestimate…
+Dialogue: 0,0:17:31.23,0:17:32.48,Default,,0000,0000,0000,,…me!
+Dialogue: 0,0:17:34.65,0:17:35.78,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:17:51.48,0:17:52.53,Default,,0000,0000,0000,,He hit!
+Dialogue: 0,0:17:56.61,0:17:57.77,Default,,0000,0000,0000,,Fool.
+Dialogue: 0,0:18:02.98,0:18:03.77,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:18:06.40,0:18:07.73,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:18:07.77,0:18:09.03,Default,,0000,0000,0000,,I’ll get you next time!
+Dialogue: 0,0:18:14.15,0:18:14.98,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:18:26.32,0:18:27.69,Default,,0000,0000,0000,,This guy…
+Dialogue: 0,0:18:53.32,0:18:57.77,Default,,0000,0000,0000,,Does he have eyes behind him…?
+Dialogue: 0,0:19:08.73,0:19:10.53,Default,,0000,0000,0000,,You’re going to become…\Nthe Hokage…?
+Dialogue: 0,0:19:12.77,0:19:14.73,Default,,0000,0000,0000,,With this level, it’s impossible.
+Dialogue: 0,0:19:17.77,0:19:21.77,Default,,0000,0000,0000,,I can generally tell\Nwith these eyes…
+Dialogue: 0,0:19:22.77,0:19:25.07,Default,,0000,0000,0000,,Intrinsic abilities are set.
+Dialogue: 0,0:19:26.36,0:19:30.86,Default,,0000,0000,0000,,Figuratively speaking,\Neverything inherent about people is set.
+Dialogue: 0,0:19:34.94,0:19:36.23,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:19:38.57,0:19:43.44,Default,,0000,0000,0000,,Why are you always so\Njudgmental like that?
+Dialogue: 0,0:19:43.61,0:19:47.44,Default,,0000,0000,0000,,Then…are you going to say\Nthat anybody can become the Hokage…
+Dialogue: 0,0:19:47.48,0:19:48.77,Default,,0000,0000,0000,,if they just work hard?
+Dialogue: 0,0:19:51.77,0:19:55.86,Default,,0000,0000,0000,,Only a very small percentage of\NShinobi are chosen to be the Hokage!
+Dialogue: 0,0:19:56.73,0:19:58.40,Default,,0000,0000,0000,,Look more at reality!
+Dialogue: 0,0:19:59.69,0:20:03.19,Default,,0000,0000,0000,,Those who become the Hokage\Nare born with a destiny.
+Dialogue: 0,0:20:04.03,0:20:06.65,Default,,0000,0000,0000,,It’s not something you become\Nby trying to become it.
+Dialogue: 0,0:20:07.07,0:20:09.48,Default,,0000,0000,0000,,It’s determined by destiny.
+Dialogue: 0,0:20:10.86,0:20:14.19,Default,,0000,0000,0000,,People must live within\Ntheir different respective currents
+Dialogue: 0,0:20:14.23,0:20:16.15,Default,,0000,0000,0000,,that can’t be defied.
+Dialogue: 0,0:20:19.23,0:20:26.07,Default,,0000,0000,0000,,The one single…\Ndestiny everyone has equally…
+Dialogue: 0,0:20:35.07,0:20:36.32,Default,,0000,0000,0000,,...is death.
+Dialogue: 0,0:20:43.77,0:20:44.78,Default,,0000,0000,0000,,Those eyes…
+Dialogue: 0,0:20:45.15,0:20:47.98,Default,,0000,0000,0000,,He still holds a grudge\Nagainst the head family, huh?
+Dialogue: 0,0:20:52.78,0:20:53.94,Default,,0000,0000,0000,,So…
+Dialogue: 0,0:20:55.61,0:20:57.32,Default,,0000,0000,0000,,So what?!
+Dialogue: 0,0:21:04.90,0:21:10.48,Default,,0000,0000,0000,,I don’t know when to give up!\NShadow Clone Jutsu!
+Dialogue: 0,0:21:26.07,0:21:29.57,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:29.61,0:21:32.82,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.86,0:21:36.44,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:36.48,0:21:39.77,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:39.77,0:21:46.11,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:46.15,0:21:53.48,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:03.77,0:22:07.32,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:07.36,0:22:10.77,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:10.77,0:22:13.98,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:14.03,0:22:17.40,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:17.61,0:22:23.69,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:23.73,0:22:30.94,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:31.03,0:22:37.61,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:37.65,0:22:44.77,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:52.32,0:22:55.69,Default,,0000,0000,0000,,Darn it! What is going on?!
+Dialogue: 0,0:22:55.73,0:22:59.61,Default,,0000,0000,0000,,It was clear that my punch got him,\Nbut I’m the one who was thrown!
+Dialogue: 0,0:22:59.73,0:23:02.82,Default,,0000,0000,0000,,Darn it!\NEven though I promised Hinata….
+Dialogue: 0,0:23:03.03,0:23:05.73,Default,,0000,0000,0000,,I really cannot lose at\Na place like this!
+Dialogue: 0,0:23:05.77,0:23:08.44,Default,,0000,0000,0000,,The next hit will be the big one\Nthat I’m gonna give him!
+Dialogue: 0,0:23:08.48,0:23:09.77,Default,,0000,0000,0000,,Just prepare for it!
+Dialogue: 0,0:23:10.23,0:23:13.77,Default,,0000,0000,0000,,Next time, “Ultimate Defense:\NZero Blind Spot!”
+Dialogue: 0,0:23:13.98,0:23:16.77,Default,,0000,0000,0000,,I hardly give up things!

@@ -1,0 +1,295 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.21,0:00:13.93,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.41,0:00:33.61,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.64,0:00:39.55,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:40.05,0:00:45.56,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.59,0:00:51.30,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.56,0:00:57.90,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:57.94,0:01:04.94,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:05.01,0:01:17.56,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.66,0:01:23.96,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:24.00,0:01:29.23,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:01:49.55,0:01:52.52,Default,,0000,0000,0000,,This is as far as you go.\NGive Matsuri back.
+Dialogue: 0,0:01:53.59,0:01:55.56,Default,,0000,0000,0000,,You think you’ve got me cornered now?
+Dialogue: 0,0:01:57.56,0:02:01.57,Default,,0000,0000,0000,,Don’t get the wrong idea.\NYou’re the one who’s been cornered!
+Dialogue: 0,0:02:01.80,0:02:02.57,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:05.14,0:02:05.94,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:02:08.54,0:02:11.64,Default,,0000,0000,0000,,He has the final enemy cornered\Nin a dead-end valley.
+Dialogue: 0,0:02:14.25,0:02:16.81,Default,,0000,0000,0000,,The area around the valley\Nis eerily calm.
+Dialogue: 0,0:02:17.55,0:02:19.15,Default,,0000,0000,0000,,I don’t see his comrades.
+Dialogue: 0,0:02:21.25,0:02:23.09,Default,,0000,0000,0000,,Is Shikamaru’s final move finished?
+Dialogue: 0,0:02:24.39,0:02:24.86,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:02:25.56,0:02:28.06,Default,,0000,0000,0000,,We can’t state definitively that\Nthey’ve reached a deadlock.
+Dialogue: 0,0:02:28.86,0:02:33.13,Default,,0000,0000,0000,,It’s because it’s possible that\Nthe battles thus far were diversions.
+Dialogue: 0,0:02:41.47,0:02:42.84,Default,,0000,0000,0000,,Just a little more, Lee.
+Dialogue: 0,0:02:43.54,0:02:45.64,Default,,0000,0000,0000,,It’ll be over once I connect\Ntwo or three more muscles.
+Dialogue: 0,0:02:47.75,0:02:51.05,Default,,0000,0000,0000,,Sakura’s Medical Ninja technique\Nis really becoming…
+Dialogue: 0,0:02:52.52,0:02:53.65,Default,,0000,0000,0000,,And yet I…
+Dialogue: 0,0:02:56.75,0:03:02.56,Default,,0000,0000,0000,,The treatment is over for now.\NHow do you fight to get like this?
+Dialogue: 0,0:03:03.13,0:03:04.06,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:03:04.63,0:03:08.10,Default,,0000,0000,0000,,You saved me.\NThank you, Sakura.
+Dialogue: 0,0:03:08.90,0:03:09.93,Default,,0000,0000,0000,,You’re welcome.
+Dialogue: 0,0:03:10.54,0:03:12.30,Default,,0000,0000,0000,,Oh, you can’t, yet.
+Dialogue: 0,0:03:12.54,0:03:16.81,Default,,0000,0000,0000,,As one of the Medical Team members,\NI prohibit you from fighting any further.
+Dialogue: 0,0:03:17.07,0:03:19.01,Default,,0000,0000,0000,,No, please let me go.
+Dialogue: 0,0:03:19.54,0:03:22.55,Default,,0000,0000,0000,,I can’t just leave Gaara like this…
+Dialogue: 0,0:03:23.18,0:03:25.55,Default,,0000,0000,0000,,We’re Team Return-the-Favor, after all.
+Dialogue: 0,0:03:26.52,0:03:30.56,Default,,0000,0000,0000,,The Ultimate Weapon Reborn
+Dialogue: 0,0:03:31.56,0:03:35.36,Default,,0000,0000,0000,,Gaara, you may very well be\Ncalled the ultimate weapon,
+Dialogue: 0,0:03:35.39,0:03:39.26,Default,,0000,0000,0000,,but have you not used up all of\Nyour sand in the fight earlier?
+Dialogue: 0,0:03:41.63,0:03:43.80,Default,,0000,0000,0000,,This is my weapon.
+Dialogue: 0,0:03:44.60,0:03:49.54,Default,,0000,0000,0000,,Indeed I have used up almost all\Nof the sand with Chakra built up inside.
+Dialogue: 0,0:03:50.31,0:03:51.11,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:03:51.54,0:03:57.48,Default,,0000,0000,0000,,No matter what Jutsu you use,\NI must not lose in a one-on-one battle.
+Dialogue: 0,0:03:58.68,0:04:01.52,Default,,0000,0000,0000,,There’s nothing scary about\Na Shinobi with no weapon!
+Dialogue: 0,0:04:06.19,0:04:08.56,Default,,0000,0000,0000,,Come, Infinite Kujaku Armor!
+Dialogue: 0,0:04:19.50,0:04:22.84,Default,,0000,0000,0000,,Fang Release: Dark Sword!\NFlying Double Edge Sword!
+Dialogue: 0,0:04:30.38,0:04:34.02,Default,,0000,0000,0000,,You’ll realize that the likes\Nof a mere Ninja
+Dialogue: 0,0:04:34.05,0:04:37.56,Default,,0000,0000,0000,,is no match for the Ninja tools\Ncreated by us artisans.
+Dialogue: 0,0:04:53.90,0:04:55.71,Default,,0000,0000,0000,,Fang Release: Dark Sword!
+Dialogue: 0,0:05:04.55,0:05:06.92,Default,,0000,0000,0000,,It seems your own body’s Chakra\Nhas run out.
+Dialogue: 0,0:05:07.55,0:05:10.82,Default,,0000,0000,0000,,You’re carrying\Na monster inside you, right?
+Dialogue: 0,0:05:13.26,0:05:17.30,Default,,0000,0000,0000,,Now, isn’t it about time\Nyou used the power of Shukaku?
+Dialogue: 0,0:05:37.25,0:05:38.02,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:05:38.52,0:05:39.55,Default,,0000,0000,0000,,Gaara Sensei is…
+Dialogue: 0,0:05:39.55,0:05:41.65,Default,,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:05:42.82,0:05:46.06,Default,,0000,0000,0000,,Listen up.\NYou hide in a safe place somewhere.
+Dialogue: 0,0:05:46.52,0:05:47.09,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:05:48.09,0:05:52.20,Default,,0000,0000,0000,,Although Gaara received\NSakura’s treatment, he's still…
+Dialogue: 0,0:05:59.27,0:06:02.77,Default,,0000,0000,0000,,That’s as far as you go,\Nultimate weapon of the Sand Village!
+Dialogue: 0,0:06:04.54,0:06:05.58,Default,,0000,0000,0000,,Damn it.
+Dialogue: 0,0:06:06.08,0:06:08.51,Default,,0000,0000,0000,,Use the power of the Shukaku already.
+Dialogue: 0,0:06:08.55,0:06:09.55,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:06:09.88,0:06:11.32,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:06:12.55,0:06:14.02,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:06:14.35,0:06:17.82,Default,,0000,0000,0000,,I’ll be your opponent from here on.
+Dialogue: 0,0:06:18.42,0:06:19.76,Default,,0000,0000,0000,,You’re in the way, boy.
+Dialogue: 0,0:06:19.89,0:06:22.23,Default,,0000,0000,0000,,Kujaku Hurricane!
+Dialogue: 0,0:06:27.93,0:06:29.40,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:29.43,0:06:31.60,Default,,0000,0000,0000,,Leaf Shinobi, you watch.
+Dialogue: 0,0:06:31.84,0:06:34.71,Default,,0000,0000,0000,,The era of control by\Nthe Five Great Nations will end.
+Dialogue: 0,0:06:35.14,0:06:36.61,Default,,0000,0000,0000,,No, it won’t be just that.
+Dialogue: 0,0:06:37.64,0:06:41.65,Default,,0000,0000,0000,,If the ultimate Ninja tool created by\Nthe Artisan Village is completed,
+Dialogue: 0,0:06:41.75,0:06:46.02,Default,,0000,0000,0000,,the existence of the Ninja\Nwill no longer be necessary.
+Dialogue: 0,0:06:46.25,0:06:48.55,Default,,0000,0000,0000,,What’re you talking about?!
+Dialogue: 0,0:06:48.92,0:06:51.82,Default,,0000,0000,0000,,We are people from the Village\Nof Artisans who for many years
+Dialogue: 0,0:06:51.86,0:06:54.56,Default,,0000,0000,0000,,have equally shared\Nexceptional Ninja tools
+Dialogue: 0,0:06:54.59,0:06:56.56,Default,,0000,0000,0000,,with you in the Five Great Nations.
+Dialogue: 0,0:06:57.40,0:07:00.13,Default,,0000,0000,0000,,However, each time relations\Nworsened between fellow villages,
+Dialogue: 0,0:07:00.16,0:07:02.17,Default,,0000,0000,0000,,the Village of Artisans would be attacked
+Dialogue: 0,0:07:02.23,0:07:04.84,Default,,0000,0000,0000,,over fear of Ninja tools crossing\Nover to the other village.
+Dialogue: 0,0:07:05.54,0:07:08.14,Default,,0000,0000,0000,,You Ninja of the Five Great Nations\Nhave forgotten
+Dialogue: 0,0:07:08.17,0:07:10.98,Default,,0000,0000,0000,,that you are kept alive by our power,
+Dialogue: 0,0:07:11.01,0:07:13.34,Default,,0000,0000,0000,,and have returned the favor\Nwith vengeance time and again.
+Dialogue: 0,0:07:13.54,0:07:16.85,Default,,0000,0000,0000,,Although we the people of\Nthe Village of Artisans have advanced skills,
+Dialogue: 0,0:07:16.88,0:07:21.32,Default,,0000,0000,0000,,we have had to survive by currying favor\Nfrom the Five Great Nations!
+Dialogue: 0,0:07:22.52,0:07:25.16,Default,,0000,0000,0000,,However, that era will now end!
+Dialogue: 0,0:07:25.52,0:07:27.76,Default,,0000,0000,0000,,First, I will take out the Leaf Village.
+Dialogue: 0,0:07:27.83,0:07:29.83,Default,,0000,0000,0000,,Fang Release Dark Sword!
+Dialogue: 0,0:07:33.43,0:07:35.57,Default,,0000,0000,0000,,How long can you run away for?
+Dialogue: 0,0:07:42.54,0:07:45.18,Default,,0000,0000,0000,,I’ll stake you like a shrike!
+Dialogue: 0,0:07:50.55,0:07:51.32,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:58.46,0:07:59.56,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:07:59.96,0:08:01.39,Default,,0000,0000,0000,,Gaara Sensei!
+Dialogue: 0,0:08:01.56,0:08:06.36,Default,,0000,0000,0000,,Gaara Sensei’s sand\Nprotected the Leaf Ninja.
+Dialogue: 0,0:08:09.57,0:08:12.90,Default,,0000,0000,0000,,That dome created with hard minerals\Nin the ground mixed with sand…
+Dialogue: 0,0:08:13.54,0:08:16.54,Default,,0000,0000,0000,,can’t be smashed by such junk.
+Dialogue: 0,0:08:17.54,0:08:19.31,Default,,0000,0000,0000,,I’ll protect him until the end…
+Dialogue: 0,0:08:20.31,0:08:21.75,Default,,0000,0000,0000,,with my power!
+Dialogue: 0,0:08:23.11,0:08:24.18,Default,,0000,0000,0000,,Gaara Sensei!
+Dialogue: 0,0:08:24.88,0:08:26.25,Default,,0000,0000,0000,,Don’t make me laugh!
+Dialogue: 0,0:08:26.72,0:08:31.42,Default,,0000,0000,0000,,You, who are called the greatest creation\Nof the Sand, a terrifying weapon,
+Dialogue: 0,0:08:31.46,0:08:33.16,Default,,0000,0000,0000,,are going to protect someone else?
+Dialogue: 0,0:08:33.56,0:08:35.63,Default,,0000,0000,0000,,And you’re going to use\Nwhat little Chakra you have left
+Dialogue: 0,0:08:35.69,0:08:37.29,Default,,0000,0000,0000,,for the sake of a comrade?
+Dialogue: 0,0:08:37.93,0:08:41.37,Default,,0000,0000,0000,,But that will be your death!
+Dialogue: 0,0:08:49.54,0:08:50.54,Default,,0000,0000,0000,,Gaara Sensei!
+Dialogue: 0,0:08:51.14,0:08:53.88,Default,,0000,0000,0000,,With this,\Nall preparations are complete.
+Dialogue: 0,0:08:54.65,0:08:55.65,Default,,0000,0000,0000,,Damn it.
+Dialogue: 0,0:09:01.32,0:09:01.75,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:09:08.26,0:09:08.93,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:09:11.80,0:09:13.93,Default,,0000,0000,0000,,We were contacted by someone\Nfrom the Village of Artisans.
+Dialogue: 0,0:09:15.17,0:09:17.50,Default,,0000,0000,0000,,It seems ones calling themselves\Nthe Four Celestials,
+Dialogue: 0,0:09:17.54,0:09:19.54,Default,,0000,0000,0000,,bearing long-withstanding hostilities\Nagainst the Five Great Nations…
+Dialogue: 0,0:09:19.90,0:09:23.84,Default,,0000,0000,0000,,have completed forbidden research and\Nare attempting to resurrect
+Dialogue: 0,0:09:23.87,0:09:25.78,Default,,0000,0000,0000,,the ultimate weapon of folklore\Nin the village.
+Dialogue: 0,0:09:26.51,0:09:29.35,Default,,0000,0000,0000,,It seems the villagers got\Nwind of the crisis
+Dialogue: 0,0:09:29.38,0:09:31.42,Default,,0000,0000,0000,,and have evacuated to\Na different location.
+Dialogue: 0,0:09:31.55,0:09:35.25,Default,,0000,0000,0000,,I see. So that’s why the village\Nwas completely empty.
+Dialogue: 0,0:09:36.09,0:09:39.22,Default,,0000,0000,0000,,So what exactly is this ultimate weapon?
+Dialogue: 0,0:09:40.56,0:09:43.56,Default,,0000,0000,0000,,The resurrection of Seimei,\Nthe founder of the Village of Artisans.
+Dialogue: 0,0:09:44.13,0:09:45.23,Default,,0000,0000,0000,,Seimei?!
+Dialogue: 0,0:09:45.56,0:09:47.57,Default,,0000,0000,0000,,Are you saying\Nthey’re trying to raise the dead?!
+Dialogue: 0,0:09:48.73,0:09:52.54,Default,,0000,0000,0000,,I see. It makes sense that\Nthe mausoleum was violated.
+Dialogue: 0,0:09:53.10,0:09:55.97,Default,,0000,0000,0000,,As for us, we must prevent\Nthe resurrection
+Dialogue: 0,0:09:56.01,0:09:57.78,Default,,0000,0000,0000,,of the ultimate weapon at all costs.
+Dialogue: 0,0:09:58.54,0:10:00.14,Default,,0000,0000,0000,,I understand. I’ll be off.
+Dialogue: 0,0:10:01.35,0:10:02.55,Default,,0000,0000,0000,,Oh, hold on.
+Dialogue: 0,0:10:03.15,0:10:03.75,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:10:03.81,0:10:06.85,Default,,0000,0000,0000,,I’ll be having one more person\Naccompany you on this mission.
+Dialogue: 0,0:10:07.25,0:10:08.82,Default,,0000,0000,0000,,What? Who would that be?
+Dialogue: 0,0:10:15.76,0:10:18.56,Default,,0000,0000,0000,,What we wanted was\Nthe Shukaku’s Chakra.
+Dialogue: 0,0:10:19.13,0:10:20.10,Default,,0000,0000,0000,,What did you say?
+Dialogue: 0,0:10:20.60,0:10:22.73,Default,,0000,0000,0000,,How we’ve waited for this time.
+Dialogue: 0,0:10:23.53,0:10:26.54,Default,,0000,0000,0000,,Now Gaara, turn into the Shukaku now.
+Dialogue: 0,0:10:26.77,0:10:29.41,Default,,0000,0000,0000,,And infuse me with that power.
+Dialogue: 0,0:10:29.51,0:10:30.11,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:10:31.21,0:10:32.54,Default,,0000,0000,0000,,I’ll save you now.
+Dialogue: 0,0:10:33.11,0:10:33.74,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:10:36.88,0:10:38.38,Default,,0000,0000,0000,,Matsuri, take this.
+Dialogue: 0,0:10:43.32,0:10:44.56,Default,,0000,0000,0000,,My rope javelin.
+Dialogue: 0,0:10:56.10,0:10:57.80,Default,,0000,0000,0000,,The optic nerves have connected…
+Dialogue: 0,0:10:59.24,0:11:00.34,Default,,0000,0000,0000,,Open…
+Dialogue: 0,0:11:01.61,0:11:02.67,Default,,0000,0000,0000,,third eye!
+Dialogue: 0,0:11:06.68,0:11:08.31,Default,,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:11:09.55,0:11:11.75,Default,,0000,0000,0000,,What the heck do you intend to start?
+Dialogue: 0,0:11:12.32,0:11:13.55,Default,,0000,0000,0000,,I’ll show you.
+Dialogue: 0,0:11:13.75,0:11:16.55,Default,,0000,0000,0000,,The ultimate Ninja tool created\Nby Lord Seimei,
+Dialogue: 0,0:11:16.55,0:11:19.09,Default,,0000,0000,0000,,the founder of our Village of Artisans.
+Dialogue: 0,0:11:19.56,0:11:21.46,Default,,0000,0000,0000,,Ultimate Ninja tool?
+Dialogue: 0,0:11:22.96,0:11:25.20,Default,,0000,0000,0000,,Now is the time of its completion.
+Dialogue: 0,0:11:44.68,0:11:45.55,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:12:03.40,0:12:05.50,Default,,0000,0000,0000,,Oh, Lord Seimei.
+Dialogue: 0,0:12:05.54,0:12:09.84,Default,,0000,0000,0000,,Please take possession of my flesh\Nand complete your resurrection!
+Dialogue: 0,0:12:13.84,0:12:16.55,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:31.30,0:12:34.50,Default,,0000,0000,0000,,What’s going on? He vanished.
+Dialogue: 0,0:12:51.48,0:12:52.98,Default,,0000,0000,0000,,The dead body came back to life!
+Dialogue: 0,0:12:55.32,0:12:59.56,Default,,0000,0000,0000,,My name is Seimei.\NThe founder of the Village of Artisans.
+Dialogue: 0,0:13:01.36,0:13:03.56,Default,,0000,0000,0000,,A hundred years have passed and
+Dialogue: 0,0:13:03.56,0:13:06.13,Default,,0000,0000,0000,,I have now been resurrected\Nas the ultimate Ninja tool
+Dialogue: 0,0:13:06.20,0:13:07.56,Default,,0000,0000,0000,,of the Village of Artisans!
+Dialogue: 0,0:13:16.54,0:13:18.68,Default,,0000,0000,0000,,What in the world is happening here?!
+Dialogue: 0,0:13:29.35,0:13:33.69,Default,,0000,0000,0000,,My long-awaited wish has at last\Ncome to fruition.
+Dialogue: 0,0:13:34.53,0:13:38.56,Default,,0000,0000,0000,,With this, my Village of Artisans will reign\Nover the Shinobi apex.
+Dialogue: 0,0:13:40.06,0:13:41.06,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:13:41.73,0:13:45.84,Default,,0000,0000,0000,,So the monster from the Sand Village\Nbecame the source of my power.
+Dialogue: 0,0:13:46.54,0:13:47.64,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:13:47.94,0:13:50.01,Default,,0000,0000,0000,,Hoko said this.
+Dialogue: 0,0:13:50.71,0:13:53.31,Default,,0000,0000,0000,,There is a monster lying\Nwithin the body
+Dialogue: 0,0:13:53.34,0:13:55.55,Default,,0000,0000,0000,,of the one called Gaara\Nfrom the Sand Village.
+Dialogue: 0,0:13:55.65,0:13:57.65,Default,,0000,0000,0000,,Once that person is in a cage,
+Dialogue: 0,0:13:57.68,0:14:00.92,Default,,0000,0000,0000,,soon he will become\Na complete monster, the Shukaku.
+Dialogue: 0,0:14:02.55,0:14:07.52,Default,,0000,0000,0000,,I will take away what you could\Nconsider infinite Chakra from the Shukaku.
+Dialogue: 0,0:14:08.23,0:14:10.56,Default,,0000,0000,0000,,I won’t let you do that!
+Dialogue: 0,0:14:37.45,0:14:38.46,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:14:45.86,0:14:48.93,Default,,0000,0000,0000,,Just wait, Gaara.\NI’ll get you out now.
+Dialogue: 0,0:14:52.40,0:14:53.77,Default,,0000,0000,0000,,What a waste…
+Dialogue: 0,0:14:54.91,0:14:56.44,Default,,0000,0000,0000,,Vortex Wind.
+Dialogue: 0,0:15:02.21,0:15:03.31,Default,,0000,0000,0000,,I’m just getting started!
+Dialogue: 0,0:15:04.11,0:15:05.42,Default,,0000,0000,0000,,What a fool!
+Dialogue: 0,0:15:12.56,0:15:15.03,Default,,0000,0000,0000,,I’ll get you out now!
+Dialogue: 0,0:15:16.56,0:15:18.36,Default,,0000,0000,0000,,Damn it, damn it!
+Dialogue: 0,0:15:19.60,0:15:22.47,Default,,0000,0000,0000,,Gaara! Can you hear my voice?!
+Dialogue: 0,0:15:23.57,0:15:26.67,Default,,0000,0000,0000,,Gaara, answer me!\NWhat’s going on in there?!
+Dialogue: 0,0:15:27.40,0:15:28.27,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:15:28.51,0:15:29.54,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:15:37.55,0:15:39.25,Default,,0000,0000,0000,,N-Naruto…
+Dialogue: 0,0:15:58.47,0:15:59.44,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:15:59.74,0:16:00.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:00.97,0:16:03.31,Default,,0000,0000,0000,,Where are Gaara and Naruto?
+Dialogue: 0,0:16:03.77,0:16:07.11,Default,,0000,0000,0000,,Neji, Hinata, tell me the situation.
+Dialogue: 0,0:16:07.54,0:16:10.15,Default,,0000,0000,0000,,There’s a cage behind an area\Nsurrounded by rocks…
+Dialogue: 0,0:16:10.91,0:16:14.02,Default,,0000,0000,0000,,There’s a massive amount of Chakra\Nbeing extracted from there.
+Dialogue: 0,0:16:14.55,0:16:16.15,Default,,0000,0000,0000,,Gaara must be inside.
+Dialogue: 0,0:16:16.75,0:16:18.02,Default,,0000,0000,0000,,Hey, Shikamaru!
+Dialogue: 0,0:16:20.42,0:16:21.09,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:21.39,0:16:25.56,Default,,0000,0000,0000,,You know there’s a terrifying power\Nlying dormant inside Gaara, right?
+Dialogue: 0,0:16:25.90,0:16:27.80,Default,,0000,0000,0000,,Yeah, generally.
+Dialogue: 0,0:16:28.57,0:16:30.93,Default,,0000,0000,0000,,Something terrible will happen…
+Dialogue: 0,0:16:30.97,0:16:35.61,Default,,0000,0000,0000,,if Gaara has Chakra extracted like this\Nand he loses himself!
+Dialogue: 0,0:16:36.54,0:16:38.68,Default,,0000,0000,0000,,The Shukaku that had been kept\Nunder control will go out of control.
+Dialogue: 0,0:16:39.01,0:16:42.35,Default,,0000,0000,0000,,Once it starts going berserk,\Nthere will be no way to stop Gaara.
+Dialogue: 0,0:16:42.88,0:16:43.85,Default,,0000,0000,0000,,For real?
+Dialogue: 0,0:16:44.82,0:16:47.99,Default,,0000,0000,0000,,I must not waste any more time.
+Dialogue: 0,0:16:48.19,0:16:50.05,Default,,0000,0000,0000,,The entertainment ends here.
+Dialogue: 0,0:16:56.13,0:16:57.56,Default,,0000,0000,0000,,Hot-hot-hot-hot.
+Dialogue: 0,0:16:58.70,0:17:02.37,Default,,0000,0000,0000,,Damn it! Just wait, Gaara!
+Dialogue: 0,0:17:02.47,0:17:03.63,Default,,0000,0000,0000,,I’ll get you out now!
+Dialogue: 0,0:17:05.40,0:17:06.90,Default,,0000,0000,0000,,You’re a pest!
+Dialogue: 0,0:17:07.10,0:17:08.64,Default,,0000,0000,0000,,Give it up already!
+Dialogue: 0,0:17:14.81,0:17:16.18,Default,,0000,0000,0000,,I’m just getting started!
+Dialogue: 0,0:17:23.55,0:17:25.52,Default,,0000,0000,0000,,Solid Blanks!
+Dialogue: 0,0:17:44.57,0:17:48.81,Default,,0000,0000,0000,,Oh, how I have waited for this time.
+Dialogue: 0,0:17:50.05,0:17:53.68,Default,,0000,0000,0000,,Now, Shukaku! Give me power!
+Dialogue: 0,0:18:02.56,0:18:06.26,Default,,0000,0000,0000,,I feel it. This is an amazing power!
+Dialogue: 0,0:18:29.49,0:18:31.56,Default,,0000,0000,0000,,Cut out the futile resistance.
+Dialogue: 0,0:18:31.56,0:18:34.46,Default,,0000,0000,0000,,The power of the Shukaku\Nis already mine!
+Dialogue: 0,0:18:34.83,0:18:37.63,Default,,0000,0000,0000,,I declare war on the Five Great Nations.
+Dialogue: 0,0:18:38.23,0:18:42.77,Default,,0000,0000,0000,,The Shinobi in the Five Great Nations\Nwho made light of the Artisan Shinobi
+Dialogue: 0,0:18:43.17,0:18:47.84,Default,,0000,0000,0000,,will fully realize the 100-year grudge\Nof the Artisan Ninja.
+Dialogue: 0,0:18:48.77,0:18:51.88,Default,,0000,0000,0000,,And they will inevitably\Nbecome our sacrifices.
+Dialogue: 0,0:18:52.01,0:18:53.31,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:18:53.44,0:18:54.14,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:54.44,0:19:00.02,Default,,0000,0000,0000,,We won’t hand over our power\Nto the likes of you.
+Dialogue: 0,0:19:00.72,0:19:04.89,Default,,0000,0000,0000,,I won’t let you take away any more\Nof Gaara’s Chakra.
+Dialogue: 0,0:19:04.96,0:19:06.09,Default,,0000,0000,0000,,You got that?!
+Dialogue: 0,0:19:08.43,0:19:13.00,Default,,0000,0000,0000,,How can that person fight\Nwhile getting that beaten up?
+Dialogue: 0,0:19:13.90,0:19:16.97,Default,,0000,0000,0000,,Why do you go this far, kid?
+Dialogue: 0,0:19:17.77,0:19:21.51,Default,,0000,0000,0000,,What is the monster of\Nthe Sand Village to you?
+Dialogue: 0,0:19:21.81,0:19:23.01,Default,,0000,0000,0000,,Gaara…
+Dialogue: 0,0:19:24.61,0:19:28.38,Default,,0000,0000,0000,,Gaara is an important comrade to me!
+Dialogue: 0,0:19:29.38,0:19:33.32,Default,,0000,0000,0000,,He said he fights for\Nthose important to him.
+Dialogue: 0,0:19:34.89,0:19:38.42,Default,,0000,0000,0000,,Fights for someone important.
+Dialogue: 0,0:19:40.59,0:19:43.53,Default,,0000,0000,0000,,Very well. Then die!
+Dialogue: 0,0:19:53.90,0:19:55.91,Default,,0000,0000,0000,,What’re you doing, little girl?
+Dialogue: 0,0:19:57.11,0:20:00.44,Default,,0000,0000,0000,,I finally figured out what\NGaara Sensei taught me.
+Dialogue: 0,0:20:00.88,0:20:03.55,Default,,0000,0000,0000,,Weapons took away the lives\Nof my mother and father.
+Dialogue: 0,0:20:04.15,0:20:07.88,Default,,0000,0000,0000,,But I can also protect those important\Nto me with a weapon!
+Dialogue: 0,0:20:09.32,0:20:10.55,Default,,0000,0000,0000,,Foolishness.
+Dialogue: 0,0:20:20.50,0:20:21.36,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:20:27.30,0:20:28.84,Default,,0000,0000,0000,,It has finally begun, huh…?
+Dialogue: 0,0:20:41.69,0:20:43.19,Default,,0000,0000,0000,,Gaara Sensei…
+Dialogue: 0,0:20:52.10,0:20:52.80,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:21:08.95,0:21:09.68,Default,,0000,0000,0000,,Gaara.
+Dialogue: 0,0:21:18.89,0:21:23.36,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.39,0:21:29.57,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.07,0:21:39.51,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.54,0:21:44.01,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.05,0:21:48.92,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:48.99,0:21:53.76,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:53.82,0:21:58.73,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:58.76,0:22:03.10,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.13,0:22:07.54,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.54,0:22:14.94,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:14.98,0:22:18.82,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:18.85,0:22:24.15,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.19,0:22:28.33,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.36,0:22:33.13,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.40,0:22:37.77,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:37.80,0:22:43.94,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.75,0:22:52.12,Default,,0000,0000,0000,,Hey, that’s…
+Dialogue: 0,0:22:52.62,0:22:54.55,Default,,0000,0000,0000,,– We were too late.\N– Then, you mean…
+Dialogue: 0,0:22:54.55,0:22:56.55,Default,,0000,0000,0000,,Yes. He is starting to transform\Nto Shukaku.
+Dialogue: 0,0:22:56.59,0:22:58.15,Default,,0000,0000,0000,,Damn! What should we do?
+Dialogue: 0,0:22:58.19,0:23:01.52,Default,,0000,0000,0000,,This is bad.\Nlf Gaara loses his conscious in that state,
+Dialogue: 0,0:23:01.56,0:23:03.33,Default,,0000,0000,0000,,the true Shukaku will come out.
+Dialogue: 0,0:23:03.39,0:23:05.50,Default,,0000,0000,0000,,When that happens\Nhe won’t know a foe from friend,
+Dialogue: 0,0:23:05.56,0:23:07.56,Default,,0000,0000,0000,,he will just destroy everything.
+Dialogue: 0,0:23:07.56,0:23:10.77,Default,,0000,0000,0000,,All we can do is just stand here\Nand watch?!
+Dialogue: 0,0:23:12.00,0:23:15.17,Default,,0000,0000,0000,,Next time: “Departure”

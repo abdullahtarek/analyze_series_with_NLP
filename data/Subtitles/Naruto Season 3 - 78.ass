@@ -1,0 +1,305 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.01,0:00:12.60,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.64,0:00:16.10,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:16.14,0:00:19.72,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.76,0:00:23.30,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.35,0:00:26.72,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.76,0:00:28.72,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.43,0:00:33.39,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.43,0:00:37.22,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.68,0:00:44.51,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.76,0:00:51.84,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.97,0:00:58.18,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.30,0:01:02.76,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.80,0:01:06.35,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.39,0:01:09.84,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.84,0:01:13.47,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.51,0:01:17.05,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:17.10,0:01:20.76,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.80,0:01:24.35,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.39,0:01:28.55,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:01:47.84,0:01:48.84,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:01:49.39,0:01:51.97,Default,,0000,0000,0000,,After pursuing me like that,\Nwhat’s up with you?
+Dialogue: 0,0:01:52.43,0:01:55.43,Default,,0000,0000,0000,,You’re not even able to touch me…
+Dialogue: 0,0:01:56.01,0:01:57.47,Default,,0000,0000,0000,,What a laugh!
+Dialogue: 0,0:01:59.55,0:02:00.26,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:02:04.76,0:02:07.51,Default,,0000,0000,0000,,I don’t know how far I can go, but…
+Dialogue: 0,0:02:08.84,0:02:12.05,Default,,0000,0000,0000,,I have to give it…my best shot!
+Dialogue: 0,0:02:12.84,0:02:18.84,Default,,0000,0000,0000,,Naruto’s Ninja Handbook
+Dialogue: 0,0:02:19.18,0:02:20.76,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:02:26.47,0:02:27.68,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:02:27.84,0:02:30.30,Default,,0000,0000,0000,,From this moment on,\NSecret Ultimate Taijutsu technique!
+Dialogue: 0,0:02:30.60,0:02:34.76,Default,,0000,0000,0000,,Naruto Uzumaki…\NClone Body Slam!
+Dialogue: 0,0:02:40.18,0:02:40.84,Default,,0000,0000,0000,,– Now! 					– Now!
+Dialogue: 0,0:02:40.89,0:02:42.05,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:02:44.14,0:02:45.84,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:02:47.05,0:02:50.10,Default,,0000,0000,0000,,Once again…\NShadow Clone Jutsu!
+Dialogue: 0,0:02:51.85,0:02:52.84,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:02:52.84,0:02:54.85,Default,,0000,0000,0000,,Leaf Village Secret Ultimate\NTaijutsu technique
+Dialogue: 0,0:02:54.89,0:02:56.55,Default,,0000,0000,0000,,learned from Kakashi Sensei!
+Dialogue: 0,0:02:57.84,0:02:59.85,Default,,0000,0000,0000,,A Thousand Years of Death!
+Dialogue: 0,0:03:03.80,0:03:05.01,Default,,0000,0000,0000,,An enema?
+Dialogue: 0,0:03:14.18,0:03:15.35,Default,,0000,0000,0000,,Boom.
+Dialogue: 0,0:03:22.72,0:03:23.43,Default,,0000,0000,0000,,Sasuke…?
+Dialogue: 0,0:03:25.84,0:03:27.84,Default,,0000,0000,0000,,That was a splendid blow.
+Dialogue: 0,0:03:29.84,0:03:31.93,Default,,0000,0000,0000,,D-Did that get him?
+Dialogue: 0,0:03:34.84,0:03:35.60,Default,,0000,0000,0000,,Gaara…
+Dialogue: 0,0:03:42.47,0:03:45.84,Default,,0000,0000,0000,,Doing all that work…\NAnd managing just one blow, huh?
+Dialogue: 0,0:03:45.93,0:03:48.26,Default,,0000,0000,0000,,S-Shut up!
+Dialogue: 0,0:03:50.39,0:03:54.76,Default,,0000,0000,0000,,He attacked the base of the tail\Nwhich has the weakest defense…
+Dialogue: 0,0:03:55.26,0:03:59.18,Default,,0000,0000,0000,,Even though I’m not wounded,\NI can’t absorb the impact.
+Dialogue: 0,0:04:00.93,0:04:02.60,Default,,0000,0000,0000,,Did I underestimate him too much?
+Dialogue: 0,0:04:06.80,0:04:07.89,Default,,0000,0000,0000,,Hey, Naruto…
+Dialogue: 0,0:04:09.68,0:04:13.10,Default,,0000,0000,0000,,Sakura… Go rescue her\Nif it’s the last thing you do!
+Dialogue: 0,0:04:14.64,0:04:15.80,Default,,0000,0000,0000,,And after you’ve rescued her…
+Dialogue: 0,0:04:16.93,0:04:18.85,Default,,0000,0000,0000,,take Sakura and\Nlose no time in fleeing.
+Dialogue: 0,0:04:20.26,0:04:21.55,Default,,0000,0000,0000,,You, if anyone, can do it!
+Dialogue: 0,0:04:24.14,0:04:26.84,Default,,0000,0000,0000,,Sasuke… You…
+Dialogue: 0,0:04:27.76,0:04:31.89,Default,,0000,0000,0000,,I still have the ability…\Nto hold him in check for a while.
+Dialogue: 0,0:04:33.93,0:04:35.35,Default,,0000,0000,0000,,If things end here…
+Dialogue: 0,0:04:36.43,0:04:38.85,Default,,0000,0000,0000,,it would just mean that\Nwas the extent of the man I am.
+Dialogue: 0,0:04:41.68,0:04:44.14,Default,,0000,0000,0000,,I lost everything once…
+Dialogue: 0,0:04:45.01,0:04:47.84,Default,,0000,0000,0000,,I don’t want to see…
+Dialogue: 0,0:04:48.64,0:04:51.93,Default,,0000,0000,0000,,any precious comrades die\Nright before my eyes again.
+Dialogue: 0,0:04:53.39,0:04:55.97,Default,,0000,0000,0000,,Precious…comrades…
+Dialogue: 0,0:04:57.55,0:04:58.84,Default,,0000,0000,0000,,I will not allow my comrades…
+Dialogue: 0,0:04:59.84,0:05:02.47,Default,,0000,0000,0000,,to be killed, no matter what.
+Dialogue: 0,0:05:08.14,0:05:09.10,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:05:13.84,0:05:14.89,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:05:17.80,0:05:19.47,Default,,0000,0000,0000,,Because he resembles me…
+Dialogue: 0,0:05:19.84,0:05:21.72,Default,,0000,0000,0000,,Because he has gone through life
+Dialogue: 0,0:05:21.76,0:05:24.22,Default,,0000,0000,0000,,with the same loneliness\Nand sadness as I have…
+Dialogue: 0,0:05:24.84,0:05:29.60,Default,,0000,0000,0000,,That guy who continued to fight\Nin solitude for himself,
+Dialogue: 0,0:05:29.64,0:05:31.84,Default,,0000,0000,0000,,I thought…he was strong.
+Dialogue: 0,0:05:33.84,0:05:34.84,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:05:35.30,0:05:39.84,Default,,0000,0000,0000,,But that’s not the meaning\Nof true strength…
+Dialogue: 0,0:05:40.60,0:05:42.84,Default,,0000,0000,0000,,If one fights just for\Noneself in solitude…
+Dialogue: 0,0:05:43.18,0:05:45.84,Default,,0000,0000,0000,,one can’t really become strong…
+Dialogue: 0,0:05:48.43,0:05:52.80,Default,,0000,0000,0000,,Is there someone who\Nis precious to you?
+Dialogue: 0,0:05:55.18,0:05:59.68,Default,,0000,0000,0000,,When a person wants to protect\Nsomeone who is precious to him…
+Dialogue: 0,0:06:02.89,0:06:07.35,Default,,0000,0000,0000,,it’s then that they truly…\Nbecome…strong.
+Dialogue: 0,0:06:12.47,0:06:15.76,Default,,0000,0000,0000,,You will…become strong.
+Dialogue: 0,0:06:24.64,0:06:27.26,Default,,0000,0000,0000,,He’s releasing such\Nmassive amount of Chakra!
+Dialogue: 0,0:06:28.72,0:06:30.85,Default,,0000,0000,0000,,That’s…Naruto?!
+Dialogue: 0,0:06:33.14,0:06:35.35,Default,,0000,0000,0000,,No matter what, I will…
+Dialogue: 0,0:06:38.39,0:06:40.68,Default,,0000,0000,0000,,protect you!
+Dialogue: 0,0:06:49.84,0:06:51.85,Default,,0000,0000,0000,,Multi-Shadow Clone Jutsu!
+Dialogue: 0,0:07:01.89,0:07:04.30,Default,,0000,0000,0000,,He’s pretty good, this one.
+Dialogue: 0,0:07:06.26,0:07:09.14,Default,,0000,0000,0000,,I’ve kept you waiting\Na long time!
+Dialogue: 0,0:07:09.93,0:07:13.84,Default,,0000,0000,0000,,The spiraling series of Naruto Uzumaki’s\NNinja Handbook starts now!
+Dialogue: 0,0:07:13.89,0:07:17.84,Default,,0000,0000,0000,,W-What’s up with this…\Nlarge number of clones?!
+Dialogue: 0,0:07:18.26,0:07:19.84,Default,,0000,0000,0000,,What the heck is this?
+Dialogue: 0,0:07:20.14,0:07:23.51,Default,,0000,0000,0000,,T-This is…amazing!
+Dialogue: 0,0:07:24.80,0:07:27.84,Default,,0000,0000,0000,,You are pretty promising.
+Dialogue: 0,0:07:28.26,0:07:30.26,Default,,0000,0000,0000,,You… This is…
+Dialogue: 0,0:07:30.72,0:07:33.84,Default,,0000,0000,0000,,Sasuke, you get yourself\Na good rest.
+Dialogue: 0,0:07:34.60,0:07:38.10,Default,,0000,0000,0000,,Leave the rest to Naruto Uzumaki!
+Dialogue: 0,0:07:40.51,0:07:41.39,Default,,0000,0000,0000,,This guy is…
+Dialogue: 0,0:07:42.51,0:07:46.22,Default,,0000,0000,0000,,All right! Everyone! Here I go!
+Dialogue: 0,0:07:47.51,0:07:50.05,Default,,0000,0000,0000,,that Naruto?!
+Dialogue: 0,0:07:55.22,0:07:56.55,Default,,0000,0000,0000,,Jump!
+Dialogue: 0,0:07:57.39,0:08:00.64,Default,,0000,0000,0000,,Naruto’s…Ninja…Handbook!
+Dialogue: 0,0:08:03.84,0:08:05.26,Default,,0000,0000,0000,,Everywhere…
+Dialogue: 0,0:08:05.51,0:08:07.14,Default,,0000,0000,0000,,Shuriken!
+Dialogue: 0,0:08:08.10,0:08:10.01,Default,,0000,0000,0000,,My body hasn’t fully recovered…
+Dialogue: 0,0:08:10.05,0:08:12.22,Default,,0000,0000,0000,,My only choice is to\Nuse Sand as a defense!
+Dialogue: 0,0:08:17.84,0:08:22.84,Default,,0000,0000,0000,,– Na! Ru! To! 2K Uzumaki…!\N– Na! Ru! To! 2K Uzumaki…!
+Dialogue: 0,0:08:38.84,0:08:40.30,Default,,0000,0000,0000,,– Barrage! 					– Barrage!
+Dialogue: 0,0:08:50.14,0:08:52.47,Default,,0000,0000,0000,,T-This guy…!
+Dialogue: 0,0:08:52.80,0:08:54.35,Default,,0000,0000,0000,,– This time, I’ll use both legs…\N– This time, I’ll use both legs…
+Dialogue: 0,0:08:54.39,0:08:56.55,Default,,0000,0000,0000,,– and go for a 4K Barrage!\N– and go for a 4K Barrage!
+Dialogue: 0,0:08:57.60,0:09:01.60,Default,,0000,0000,0000,,Who the heck is that…?\NSuddenly…
+Dialogue: 0,0:09:01.85,0:09:04.97,Default,,0000,0000,0000,,Unbelievable…\NTo get Gaara in that state…
+Dialogue: 0,0:09:05.84,0:09:08.84,Default,,0000,0000,0000,,Where does that strength come from?
+Dialogue: 0,0:09:09.80,0:09:13.72,Default,,0000,0000,0000,,No way! 					There's no way…
+Dialogue: 0,0:09:15.85,0:09:21.01,Default,,0000,0000,0000,,No way I’ll…lose to…a guy like this…!
+Dialogue: 0,0:09:33.22,0:09:35.10,Default,,0000,0000,0000,,W-What’s…that?
+Dialogue: 0,0:09:42.64,0:09:44.89,Default,,0000,0000,0000,,It finally…emerged.
+Dialogue: 0,0:10:01.84,0:10:03.10,Default,,0000,0000,0000,,The Perfect Possession!
+Dialogue: 0,0:10:07.72,0:10:11.84,Default,,0000,0000,0000,,This is…\Nthe monster inside that guy.
+Dialogue: 0,0:10:12.76,0:10:18.22,Default,,0000,0000,0000,,I didn’t think you would\Nexpose this form!
+Dialogue: 0,0:10:23.60,0:10:24.51,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:10:26.89,0:10:28.89,Default,,0000,0000,0000,,Darn…my body…!
+Dialogue: 0,0:10:30.85,0:10:34.22,Default,,0000,0000,0000,,My Chakra has…\Nwith all those clones earlier on…
+Dialogue: 0,0:10:40.30,0:10:41.01,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:10:41.89,0:10:43.55,Default,,0000,0000,0000,,D-Darn…!
+Dialogue: 0,0:10:49.84,0:10:54.14,Default,,0000,0000,0000,,I, Inu, Tori, Saru, Hitsuji…
+Dialogue: 0,0:10:54.39,0:10:56.35,Default,,0000,0000,0000,,This will mark your end…
+Dialogue: 0,0:10:56.93,0:10:59.51,Default,,0000,0000,0000,,– Sand Burial!\N– Summoning Jutsu!
+Dialogue: 0,0:11:07.64,0:11:10.35,Default,,0000,0000,0000,,It’s amazing that he can utilize\Na Summoning Jutsu in that state…
+Dialogue: 0,0:11:12.51,0:11:13.84,Default,,0000,0000,0000,,I will protect…
+Dialogue: 0,0:11:15.22,0:11:16.84,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:11:29.35,0:11:31.84,Default,,0000,0000,0000,,Naruto Uzumaki…
+Dialogue: 0,0:11:35.22,0:11:39.35,Default,,0000,0000,0000,,You continue to give me\Nsuch pleasure…
+Dialogue: 0,0:11:39.84,0:11:43.84,Default,,0000,0000,0000,,Naruto… 					What in the…world…?
+Dialogue: 0,0:11:44.80,0:11:47.72,Default,,0000,0000,0000,,My hours of practice\Nare finally paying off!
+Dialogue: 0,0:11:48.01,0:11:50.10,Default,,0000,0000,0000,,I can do it!
+Dialogue: 0,0:11:50.60,0:11:52.60,Default,,0000,0000,0000,,– What is this? 					– Huh?
+Dialogue: 0,0:11:52.93,0:11:56.35,Default,,0000,0000,0000,,Not you again!\NWhat in the world do you want?
+Dialogue: 0,0:11:57.35,0:11:58.26,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:02.84,0:12:07.01,Default,,0000,0000,0000,,That must be…\Nthe Shukaku of the Sand.
+Dialogue: 0,0:12:07.84,0:12:11.47,Default,,0000,0000,0000,,Chief Toad!\NCome join me in this fight!
+Dialogue: 0,0:12:15.84,0:12:16.84,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:12:16.85,0:12:18.05,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:18.84,0:12:22.30,Default,,0000,0000,0000,,Why would I go out of my way\Nand fight a guy like that?
+Dialogue: 0,0:12:22.84,0:12:24.55,Default,,0000,0000,0000,,That’s idiotic!
+Dialogue: 0,0:12:24.60,0:12:25.84,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:12:25.93,0:12:28.89,Default,,0000,0000,0000,,You told me the other day that you\Nwould make me your henchman!
+Dialogue: 0,0:12:29.18,0:12:32.43,Default,,0000,0000,0000,,It’s only natural for a chief\Nto help out his henchman!
+Dialogue: 0,0:12:32.80,0:12:34.60,Default,,0000,0000,0000,,That’s respect and duty, right?!
+Dialogue: 0,0:12:35.14,0:12:38.85,Default,,0000,0000,0000,,It’s true I told you\NI’d make you my henchman…
+Dialogue: 0,0:12:39.84,0:12:44.01,Default,,0000,0000,0000,,But we haven’t even exchanged\Ncups of sake to seal our relationship yet…
+Dialogue: 0,0:12:44.05,0:12:47.84,Default,,0000,0000,0000,,Gimme a break! I’m still underage!
+Dialogue: 0,0:12:47.84,0:12:49.43,Default,,0000,0000,0000,,I can’t drink alcohol!
+Dialogue: 0,0:12:50.43,0:12:53.84,Default,,0000,0000,0000,,Don’t say that and just listen\Nto what this guy says, Pop!
+Dialogue: 0,0:12:53.84,0:12:55.43,Default,,0000,0000,0000,,Huh?! Pop?!
+Dialogue: 0,0:12:55.84,0:12:59.84,Default,,0000,0000,0000,,Why are you here, Gamakichi?
+Dialogue: 0,0:13:00.05,0:13:02.64,Default,,0000,0000,0000,,I had lots of time on my hands,\Nso I came to visit…
+Dialogue: 0,0:13:02.97,0:13:05.51,Default,,0000,0000,0000,,Huh? Huh?\NYou’re father and son?
+Dialogue: 0,0:13:05.93,0:13:08.84,Default,,0000,0000,0000,,Then that guy over there\Ntried to bully me!
+Dialogue: 0,0:13:10.05,0:13:11.93,Default,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:13:12.84,0:13:15.89,Default,,0000,0000,0000,,When that happened,\Nthis guy here rescued me…
+Dialogue: 0,0:13:16.30,0:13:18.60,Default,,0000,0000,0000,,He clashed with that monster…
+Dialogue: 0,0:13:18.64,0:13:21.43,Default,,0000,0000,0000,,Pretty interesting guy.
+Dialogue: 0,0:13:23.76,0:13:25.01,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:13:32.84,0:13:37.01,Default,,0000,0000,0000,,Kid… I recognize you\Nas my henchman…
+Dialogue: 0,0:13:37.89,0:13:42.80,Default,,0000,0000,0000,,and I’ll show you what duty\Nand respect means!
+Dialogue: 0,0:13:57.84,0:14:04.84,Default,,0000,0000,0000,,I’ll make you pay the price\Ngood and proper, you underling!
+Dialogue: 0,0:14:09.01,0:14:11.35,Default,,0000,0000,0000,,Hang on tight!
+Dialogue: 0,0:14:17.85,0:14:20.43,Default,,0000,0000,0000,,How’s that?!
+Dialogue: 0,0:14:26.85,0:14:28.05,Default,,0000,0000,0000,,Awesome…
+Dialogue: 0,0:14:50.60,0:14:52.43,Default,,0000,0000,0000,,What a guy…
+Dialogue: 0,0:14:52.68,0:14:53.84,Default,,0000,0000,0000,,He’s so heavy,
+Dialogue: 0,0:14:53.85,0:14:56.22,Default,,0000,0000,0000,,I could barely manage to\Nthrust my dagger through him.
+Dialogue: 0,0:14:56.85,0:14:58.68,Default,,0000,0000,0000,,If I don’t hurry up,
+Dialogue: 0,0:14:58.72,0:15:00.84,Default,,0000,0000,0000,,this battle will change\Nthe shape of the landscape.
+Dialogue: 0,0:15:01.64,0:15:03.43,Default,,0000,0000,0000,,Hey! Hey! Chief!
+Dialogue: 0,0:15:03.55,0:15:06.84,Default,,0000,0000,0000,,Sakura is over that way,\Nso don’t move that way!
+Dialogue: 0,0:15:06.84,0:15:09.10,Default,,0000,0000,0000,,Please lure him in this direction.
+Dialogue: 0,0:15:09.72,0:15:11.35,Default,,0000,0000,0000,,Sakura…?
+Dialogue: 0,0:15:11.84,0:15:14.43,Default,,0000,0000,0000,,That’s his girlfriend, Pop.
+Dialogue: 0,0:15:14.84,0:15:16.60,Default,,0000,0000,0000,,I’ve got to take that guy down.
+Dialogue: 0,0:15:17.01,0:15:19.05,Default,,0000,0000,0000,,Otherwise, I won’t be able\Nto rescue Sakura!
+Dialogue: 0,0:15:22.55,0:15:23.97,Default,,0000,0000,0000,,Interesting!
+Dialogue: 0,0:15:24.80,0:15:28.80,Default,,0000,0000,0000,,This is interesting!\NNaruto Uzumaki!
+Dialogue: 0,0:15:28.84,0:15:29.97,Default,,0000,0000,0000,,T-This isn’t good!
+Dialogue: 0,0:15:30.84,0:15:33.10,Default,,0000,0000,0000,,That Gaara…\NHe’s intending to do that thing.
+Dialogue: 0,0:15:33.51,0:15:34.84,Default,,0000,0000,0000,,I better get out of here!
+Dialogue: 0,0:15:49.05,0:15:51.55,Default,,0000,0000,0000,,Huh…? That is…
+Dialogue: 0,0:15:52.85,0:15:56.22,Default,,0000,0000,0000,,That’s…the medium…?
+Dialogue: 0,0:15:57.26,0:16:00.51,Default,,0000,0000,0000,,To thank you for entertaining me\Nup to now…
+Dialogue: 0,0:16:01.84,0:16:05.39,Default,,0000,0000,0000,,I’ll show you the real power…
+Dialogue: 0,0:16:05.43,0:16:07.39,Default,,0000,0000,0000,,of the Sand Spirit!
+Dialogue: 0,0:16:08.68,0:16:10.30,Default,,0000,0000,0000,,The circles under his eyes…
+Dialogue: 0,0:16:11.55,0:16:14.47,Default,,0000,0000,0000,,Those are symptoms of\Ninsomnia which indicate
+Dialogue: 0,0:16:14.51,0:16:17.97,Default,,0000,0000,0000,,that the medium is also possessed\Nby the Shukaku of the Sand.
+Dialogue: 0,0:16:19.39,0:16:20.43,Default,,0000,0000,0000,,Insomnia…?
+Dialogue: 0,0:16:22.51,0:16:25.72,Default,,0000,0000,0000,,Those who are possessed\Nby the Demon Raccoon Shukaku
+Dialogue: 0,0:16:25.84,0:16:30.14,Default,,0000,0000,0000,,are unable to sleep soundly\Nthrough the entire night.
+Dialogue: 0,0:16:30.84,0:16:32.55,Default,,0000,0000,0000,,Because of the terror…
+Dialogue: 0,0:16:33.97,0:16:39.89,Default,,0000,0000,0000,,If one sleeps, Shukaku will slowly\Neat away at their personality
+Dialogue: 0,0:16:40.10,0:16:43.89,Default,,0000,0000,0000,,and eventually that person\Nis no longer himself.
+Dialogue: 0,0:16:47.80,0:16:50.43,Default,,0000,0000,0000,,Because he normally\Ndoesn’t get much sleep…
+Dialogue: 0,0:16:50.47,0:16:55.85,Default,,0000,0000,0000,,the medium’s personality\Ntends to…become unstable.
+Dialogue: 0,0:16:57.35,0:16:58.05,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:17:00.14,0:17:04.43,Default,,0000,0000,0000,,Therefore, usually while\Nthe medium is awake,
+Dialogue: 0,0:17:04.64,0:17:08.51,Default,,0000,0000,0000,,the power of Shukaku is\Nnormally controlled.
+Dialogue: 0,0:17:09.30,0:17:10.84,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:17:12.84,0:17:16.84,Default,,0000,0000,0000,,when that medium sleeps…
+Dialogue: 0,0:17:16.97,0:17:18.47,Default,,0000,0000,0000,,Playing Possum Jutsu!
+Dialogue: 0,0:17:30.84,0:17:32.18,Default,,0000,0000,0000,,He’s done it…!
+Dialogue: 0,0:17:33.60,0:17:36.47,Default,,0000,0000,0000,,W-What’s gonna happen, Chief?
+Dialogue: 0,0:17:37.68,0:17:41.01,Default,,0000,0000,0000,,If one sets Playing Possum Jutsu\Ninto motion…
+Dialogue: 0,0:17:41.10,0:17:43.55,Default,,0000,0000,0000,,…the Shukaku will appear!
+Dialogue: 0,0:17:49.97,0:17:54.18,Default,,0000,0000,0000,,I’m finally able to emerge!
+Dialogue: 0,0:17:56.05,0:17:58.01,Default,,0000,0000,0000,,That’s the Shukaku?
+Dialogue: 0,0:17:58.85,0:18:00.55,Default,,0000,0000,0000,,He’s pretty funky…
+Dialogue: 0,0:18:02.76,0:18:07.76,Default,,0000,0000,0000,,Right away!\NThe guy I wanna kill! You!
+Dialogue: 0,0:18:08.89,0:18:09.97,Default,,0000,0000,0000,,I’m gonna jump…
+Dialogue: 0,0:18:10.39,0:18:10.85,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:11.18,0:18:14.30,Default,,0000,0000,0000,,Wind Style: Air Bullets!
+Dialogue: 0,0:18:17.05,0:18:19.64,Default,,0000,0000,0000,,Water Style: Water Bullets!
+Dialogue: 0,0:18:28.72,0:18:31.35,Default,,0000,0000,0000,,That’s practically a storm…
+Dialogue: 0,0:18:32.01,0:18:34.39,Default,,0000,0000,0000,,What kind of a battle is this…?!
+Dialogue: 0,0:18:37.97,0:18:39.97,Default,,0000,0000,0000,,Chief! I told you,\Nnot in that direction!
+Dialogue: 0,0:18:40.10,0:18:43.01,Default,,0000,0000,0000,,Shut up! I know!
+Dialogue: 0,0:18:44.80,0:18:46.18,Default,,0000,0000,0000,,Air Bullets!
+Dialogue: 0,0:18:47.14,0:18:48.43,Default,,0000,0000,0000,,Water Bullets!
+Dialogue: 0,0:18:52.01,0:18:53.43,Default,,0000,0000,0000,,Too bad…
+Dialogue: 0,0:18:53.76,0:18:55.68,Default,,0000,0000,0000,,This isn’t good, Chief!\NThere's one shot left…!
+Dialogue: 0,0:19:04.76,0:19:06.68,Default,,0000,0000,0000,,Yeah! I killed it…
+Dialogue: 0,0:19:06.72,0:19:08.30,Default,,0000,0000,0000,,I killed it!
+Dialogue: 0,0:19:12.18,0:19:14.51,Default,,0000,0000,0000,,That hurts…!
+Dialogue: 0,0:19:14.93,0:19:16.64,Default,,0000,0000,0000,,How dare you shoot me
+Dialogue: 0,0:19:16.68,0:19:18.89,Default,,0000,0000,0000,,with bullets containing\Nstupid amounts of Chakra!
+Dialogue: 0,0:19:19.84,0:19:23.64,Default,,0000,0000,0000,,Even I can’t take that many shots!
+Dialogue: 0,0:19:23.76,0:19:25.47,Default,,0000,0000,0000,,What should we do?!
+Dialogue: 0,0:19:25.80,0:19:30.72,Default,,0000,0000,0000,,For a start,\Nwake up that medium kid!
+Dialogue: 0,0:19:31.05,0:19:32.39,Default,,0000,0000,0000,,It will release that Jutsu!
+Dialogue: 0,0:19:32.43,0:19:33.97,Default,,0000,0000,0000,,How do we go about waking him?!
+Dialogue: 0,0:19:34.01,0:19:36.97,Default,,0000,0000,0000,,Give him a good punch!
+Dialogue: 0,0:19:38.84,0:19:40.14,Default,,0000,0000,0000,,Water Bullets!
+Dialogue: 0,0:19:40.84,0:19:42.55,Default,,0000,0000,0000,,Like I’ll take that!
+Dialogue: 0,0:19:46.60,0:19:47.35,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:19:54.76,0:19:58.64,Default,,0000,0000,0000,,Chief, I can’t hit him\Nunless you hold him down!
+Dialogue: 0,0:20:00.01,0:20:05.43,Default,,0000,0000,0000,,This Toad doesn’t have fangs or claws\Nto hold that guy’s movement.
+Dialogue: 0,0:20:05.84,0:20:08.10,Default,,0000,0000,0000,,What should we do then?!
+Dialogue: 0,0:20:08.35,0:20:12.51,Default,,0000,0000,0000,,We’ll use the Transform Jutsu to\Nchange into something that has those!
+Dialogue: 0,0:20:14.51,0:20:15.64,Default,,0000,0000,0000,,But with that said…
+Dialogue: 0,0:20:15.68,0:20:18.55,Default,,0000,0000,0000,,I’m not particularly good\Nat transformations.
+Dialogue: 0,0:20:18.60,0:20:19.22,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:19.47,0:20:24.47,Default,,0000,0000,0000,,So you will act as my will\Nand make the Sign!
+Dialogue: 0,0:20:24.51,0:20:25.84,Default,,0000,0000,0000,,Whaaaat?!
+Dialogue: 0,0:20:25.84,0:20:27.72,Default,,0000,0000,0000,,Time for a combined transformation!
+Dialogue: 0,0:20:27.84,0:20:29.10,Default,,0000,0000,0000,,Uh…Okay!
+Dialogue: 0,0:20:29.84,0:20:32.64,Default,,0000,0000,0000,,We got to have fangs and claws!
+Dialogue: 0,0:20:32.84,0:20:34.35,Default,,0000,0000,0000,,Umm…
+Dialogue: 0,0:20:34.80,0:20:36.60,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:20:37.43,0:20:39.84,Default,,0000,0000,0000,,Wait…\NSay, w-wait a second…!
+Dialogue: 0,0:20:40.84,0:20:43.30,Default,,0000,0000,0000,,F- Fangs and claws… Fangs and claws…\NFangs and claws!
+Dialogue: 0,0:20:45.01,0:20:47.47,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:20:53.51,0:20:54.93,Default,,0000,0000,0000,,Transform Jutsu!
+Dialogue: 0,0:21:02.30,0:21:03.14,Default,,0000,0000,0000,,That’s the…!
+Dialogue: 0,0:21:21.84,0:21:25.72,Default,,0000,0000,0000,,A cycle of hardship, right?
+Dialogue: 0,0:21:26.84,0:21:30.68,Default,,0000,0000,0000,,Inside, we were crying, right?
+Dialogue: 0,0:21:32.05,0:21:39.93,Default,,0000,0000,0000,,But the one thing we won't give up\Nis the dream we've chosen, right?
+Dialogue: 0,0:21:40.85,0:21:42.85,Default,,0000,0000,0000,,It's a secondary role,
+Dialogue: 0,0:21:45.84,0:21:48.84,Default,,0000,0000,0000,,a role in the shadows
+Dialogue: 0,0:21:49.22,0:21:54.39,Default,,0000,0000,0000,,But in reaching for that dream,
+Dialogue: 0,0:21:54.43,0:21:59.89,Default,,0000,0000,0000,,let us stay centered,\Nlet us stay true
+Dialogue: 0,0:21:59.97,0:22:04.85,Default,,0000,0000,0000,,Over and over,\Nwe hung on without giving up
+Dialogue: 0,0:22:04.89,0:22:09.84,Default,,0000,0000,0000,,Over and over,\Nwe kept coming back up
+Dialogue: 0,0:22:09.85,0:22:19.10,Default,,0000,0000,0000,,Over and over,\Nwe believed and dreamed
+Dialogue: 0,0:22:49.84,0:22:53.84,Default,,0000,0000,0000,,I don’t know about your past,\Nand my past doesn’t matter either!
+Dialogue: 0,0:22:54.39,0:22:57.35,Default,,0000,0000,0000,,I only have people who I must protect.
+Dialogue: 0,0:22:57.85,0:22:59.01,Default,,0000,0000,0000,,Hey you with no eyebrows!
+Dialogue: 0,0:22:59.26,0:23:02.84,Default,,0000,0000,0000,,Let’s just end this as similar fighters.
+Dialogue: 0,0:23:03.05,0:23:04.85,Default,,0000,0000,0000,,I will finish this with my next hit.
+Dialogue: 0,0:23:05.26,0:23:09.89,Default,,0000,0000,0000,,This will be, absolutely and totally,\Nthe last one!
+Dialogue: 0,0:23:10.84,0:23:14.39,Default,,0000,0000,0000,,Next time:\N“Beyond the Limit of Darkness and Light”

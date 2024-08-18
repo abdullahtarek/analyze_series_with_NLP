@@ -1,0 +1,309 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.66,0:00:20.99,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.82,0:00:29.82,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.82,0:00:35.20,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.24,0:00:39.37,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.62,0:00:45.53,Default,,0000,0000,0000,,I'll laugh with  you\Nand live for the moment
+Dialogue: 0,0:00:46.16,0:00:53.08,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.53,0:00:57.95,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:57.99,0:01:05.08,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.12,0:01:12.24,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.28,0:01:18.91,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.45,0:01:28.87,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:51.99,0:01:54.53,Default,,0000,0000,0000,,This is not good,\Nlooks like a storm is coming.
+Dialogue: 0,0:01:54.83,0:01:55.58,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:01:58.28,0:01:59.12,Default,,0000,0000,0000,,Idate…
+Dialogue: 0,0:01:59.78,0:02:05.82,Default,,0000,0000,0000,,Run Idate Run!\NNagi Island Awaits!
+Dialogue: 0,0:02:13.49,0:02:14.82,Default,,0000,0000,0000,,Aoi…Rokusho!
+Dialogue: 0,0:02:16.20,0:02:18.16,Default,,0000,0000,0000,,I thought you had run away.
+Dialogue: 0,0:02:20.24,0:02:22.82,Default,,0000,0000,0000,,Wasn’t running away\Nyour specialty?
+Dialogue: 0,0:02:23.82,0:02:24.70,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:02:25.33,0:02:26.62,Default,,0000,0000,0000,,I’m different from you!
+Dialogue: 0,0:02:27.20,0:02:30.82,Default,,0000,0000,0000,,No, you are the same kind\Nof human as I am.
+Dialogue: 0,0:02:31.82,0:02:33.91,Default,,0000,0000,0000,,A betrayer who doesn’t trust others.
+Dialogue: 0,0:02:34.70,0:02:38.33,Default,,0000,0000,0000,,Betraying your own brother,\Nwalking away from the village,
+Dialogue: 0,0:02:38.83,0:02:42.70,Default,,0000,0000,0000,,and capable of thinking only of yourself.\NThe worst kind of man.
+Dialogue: 0,0:02:47.20,0:02:49.82,Default,,0000,0000,0000,,Such a man…\Ndoesn't deserve to live!
+Dialogue: 0,0:03:02.82,0:03:03.70,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:03:09.82,0:03:11.99,Default,,0000,0000,0000,,Sakura, is your wound okay?
+Dialogue: 0,0:03:12.37,0:03:12.87,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:03:13.70,0:03:15.28,Default,,0000,0000,0000,,A wound like this is nothing.
+Dialogue: 0,0:03:15.99,0:03:16.83,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:03:17.91,0:03:19.33,Default,,0000,0000,0000,,Those Rain Ninja…huh?
+Dialogue: 0,0:03:19.74,0:03:20.24,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:20.45,0:03:23.45,Default,,0000,0000,0000,,Hah, they’re nothing!
+Dialogue: 0,0:03:23.49,0:03:27.20,Default,,0000,0000,0000,,No, it’s not that!\Nlf they’re headed towards Idate…
+Dialogue: 0,0:03:29.99,0:03:32.16,Default,,0000,0000,0000,,Oh! Idate is in danger!
+Dialogue: 0,0:03:32.24,0:03:34.41,Default,,0000,0000,0000,,That’s what I’ve been saying!
+Dialogue: 0,0:03:37.82,0:03:40.49,Default,,0000,0000,0000,,Hey, Naruto!\NThis is no time to be playing around.
+Dialogue: 0,0:03:41.03,0:03:41.82,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:03:42.28,0:03:43.62,Default,,0000,0000,0000,,They’re here now.
+Dialogue: 0,0:03:49.99,0:03:50.82,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:51.58,0:03:52.53,Default,,0000,0000,0000,,Lucky us!
+Dialogue: 0,0:03:53.03,0:03:55.24,Default,,0000,0000,0000,,We are invincible in water.
+Dialogue: 0,0:03:58.66,0:04:00.24,Default,,0000,0000,0000,,Geez, what a troublesome guy.
+Dialogue: 0,0:04:01.37,0:04:03.66,Default,,0000,0000,0000,,They’ve now fallen into our trap.
+Dialogue: 0,0:04:04.82,0:04:06.28,Default,,0000,0000,0000,,Water Clone Jutsu!
+Dialogue: 0,0:04:15.83,0:04:16.82,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:04:24.87,0:04:26.91,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:04:36.82,0:04:41.41,Default,,0000,0000,0000,,How stupid. What use can\NShadow Clones have in this situation?
+Dialogue: 0,0:04:41.82,0:04:45.87,Default,,0000,0000,0000,,There’s no way they can defeat\Nour Water Clones in water.
+Dialogue: 0,0:04:46.53,0:04:48.91,Default,,0000,0000,0000,,Even if you try to trick us,
+Dialogue: 0,0:04:49.41,0:04:52.82,Default,,0000,0000,0000,,I'm hanging on to the real body\Nright here.
+Dialogue: 0,0:05:17.82,0:05:19.24,Default,,0000,0000,0000,,What are they trying to do?
+Dialogue: 0,0:05:40.66,0:05:41.95,Default,,0000,0000,0000,,N-No way!
+Dialogue: 0,0:05:43.53,0:05:46.83,Default,,0000,0000,0000,,What a whirlpool…\NChakra is intertwined in it!
+Dialogue: 0,0:05:47.33,0:05:48.82,Default,,0000,0000,0000,,Naruto…you…
+Dialogue: 0,0:05:55.16,0:05:56.58,Default,,0000,0000,0000,,This is the application\Nof the first step
+Dialogue: 0,0:05:56.62,0:05:59.53,Default,,0000,0000,0000,,in my training for\Nthe Rasengan!
+Dialogue: 0,0:06:06.37,0:06:07.16,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:06:11.66,0:06:13.70,Default,,0000,0000,0000,,Sakura, hang in there!
+Dialogue: 0,0:06:25.91,0:06:27.82,Default,,0000,0000,0000,,Sakura! Just hang in there!
+Dialogue: 0,0:06:28.41,0:06:29.82,Default,,0000,0000,0000,,Come on! Sakura!
+Dialogue: 0,0:06:46.58,0:06:47.24,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:06:47.82,0:06:49.20,Default,,0000,0000,0000,,Pull yourself together! Sakura!
+Dialogue: 0,0:06:50.28,0:06:53.78,Default,,0000,0000,0000,,I-I guess…I’ve got…to…do it…
+Dialogue: 0,0:06:58.62,0:06:59.99,Default,,0000,0000,0000,,S-Sasuke.…
+Dialogue: 0,0:07:01.70,0:07:03.62,Default,,0000,0000,0000,,I’d like it if Sasuke is the one to do…
+Dialogue: 0,0:07:04.53,0:07:06.28,Default,,0000,0000,0000,,the CPR…
+Dialogue: 0,0:07:11.82,0:07:13.82,Default,,0000,0000,0000,,S-Sakura…
+Dialogue: 0,0:07:17.12,0:07:18.91,Default,,0000,0000,0000,,What the hell are you doing, idiot!
+Dialogue: 0,0:07:23.08,0:07:23.82,Default,,0000,0000,0000,,Sasuke?
+Dialogue: 0,0:07:24.12,0:07:27.82,Default,,0000,0000,0000,,We don’t have any time to spare.\NWe need to meet up with Idate.
+Dialogue: 0,0:07:29.28,0:07:30.58,Default,,0000,0000,0000,,Wait, Sasuke.
+Dialogue: 0,0:07:34.78,0:07:36.74,Default,,0000,0000,0000,,Hey… Don’t leave me.
+Dialogue: 0,0:07:52.66,0:07:53.66,Default,,0000,0000,0000,,It's about time…
+Dialogue: 0,0:07:54.82,0:07:57.58,Default,,0000,0000,0000,,Fukusuke reaches Modoroki Shrine.
+Dialogue: 0,0:08:01.87,0:08:04.83,Default,,0000,0000,0000,,There’s no chance for you\Nto win now.
+Dialogue: 0,0:08:11.08,0:08:14.70,Default,,0000,0000,0000,,You can’t even run\Nor stand up now.
+Dialogue: 0,0:08:18.49,0:08:21.03,Default,,0000,0000,0000,,When that pain spreads\Nthroughout your whole body,
+Dialogue: 0,0:08:21.78,0:08:24.12,Default,,0000,0000,0000,,you’ll reach a different finish line.
+Dialogue: 0,0:08:29.83,0:08:32.16,Default,,0000,0000,0000,,The finish line of death.
+Dialogue: 0,0:08:42.82,0:08:47.53,Default,,0000,0000,0000,,What are you thinking of doing\Nwith that dirty knife?
+Dialogue: 0,0:08:50.24,0:08:51.28,Default,,0000,0000,0000,,Don’t touch it!
+Dialogue: 0,0:09:04.82,0:09:08.62,Default,,0000,0000,0000,,Looks like you still don’t understand\Nyour situation.
+Dialogue: 0,0:09:10.37,0:09:13.41,Default,,0000,0000,0000,,All you have to do is run away.
+Dialogue: 0,0:09:14.33,0:09:17.62,Default,,0000,0000,0000,,You have no right to even\Nthe slightest bit of integrity.
+Dialogue: 0,0:09:34.45,0:09:35.12,Default,,0000,0000,0000,,Boss…
+Dialogue: 0,0:09:40.53,0:09:41.28,Default,,0000,0000,0000,,I'm sorry…
+Dialogue: 0,0:09:42.28,0:09:42.91,Default,,0000,0000,0000,,Boss…
+Dialogue: 0,0:09:45.33,0:09:46.83,Default,,0000,0000,0000,,I couldn't keep…
+Dialogue: 0,0:09:49.66,0:09:50.91,Default,,0000,0000,0000,,the promise I made with you.
+Dialogue: 0,0:09:53.82,0:09:54.91,Default,,0000,0000,0000,,Idate!
+Dialogue: 0,0:10:07.37,0:10:08.82,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:10:19.20,0:10:20.99,Default,,0000,0000,0000,,Darn, what a downpour.
+Dialogue: 0,0:10:21.82,0:10:24.16,Default,,0000,0000,0000,,Are you the boss of the Rain Ninja?!
+Dialogue: 0,0:10:26.70,0:10:29.45,Default,,0000,0000,0000,,Looks like it was too hard\Na task for them.
+Dialogue: 0,0:10:29.87,0:10:31.58,Default,,0000,0000,0000,,Even if they were\Nthe same Genin as you,
+Dialogue: 0,0:10:31.62,0:10:33.82,Default,,0000,0000,0000,,seems like the Hidden Leaf ones\Nare better.
+Dialogue: 0,0:10:35.82,0:10:36.66,Default,,0000,0000,0000,,This is terrible…
+Dialogue: 0,0:10:38.82,0:10:42.70,Default,,0000,0000,0000,,But can Genin-level Ninja\Nfight against me?
+Dialogue: 0,0:10:43.62,0:10:44.82,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:10:49.45,0:10:49.91,Default,,0000,0000,0000,,Above!
+Dialogue: 0,0:11:04.82,0:11:06.87,Default,,0000,0000,0000,,Humph… So that's your level, after all.
+Dialogue: 0,0:11:07.82,0:11:10.74,Default,,0000,0000,0000,,I'll use the same method\NI used on Idate,
+Dialogue: 0,0:11:12.16,0:11:14.08,Default,,0000,0000,0000,,and send you to hell.
+Dialogue: 0,0:11:16.82,0:11:19.16,Default,,0000,0000,0000,,No need to waste my Chakra.
+Dialogue: 0,0:11:21.87,0:11:22.78,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:11:27.82,0:11:29.24,Default,,0000,0000,0000,,Th-These darned things…
+Dialogue: 0,0:11:29.91,0:11:32.33,Default,,0000,0000,0000,,Those are poisoned needles specially\Nmade by the Hidden Rain Village.
+Dialogue: 0,0:11:32.82,0:11:34.82,Default,,0000,0000,0000,,They will send you to hell\Nin a few minutes,
+Dialogue: 0,0:11:34.82,0:11:36.82,Default,,0000,0000,0000,,no matter how strong you are.
+Dialogue: 0,0:11:36.82,0:11:38.82,Default,,0000,0000,0000,,Don’t you look down on us! Bastard--!
+Dialogue: 0,0:11:44.12,0:11:46.41,Default,,0000,0000,0000,,Looks like Fukusuke has reached\NModoroki Shrine.
+Dialogue: 0,0:11:47.12,0:11:48.91,Default,,0000,0000,0000,,Die gasping.
+Dialogue: 0,0:11:49.20,0:11:51.87,Default,,0000,0000,0000,,It’s a death\Nthat fits you Genin brats well.
+Dialogue: 0,0:12:00.78,0:12:02.83,Default,,0000,0000,0000,,Is Wagarashi winning this one too?
+Dialogue: 0,0:12:03.12,0:12:05.58,Default,,0000,0000,0000,,Isn’t there a God or Buddha\Nin this world?
+Dialogue: 0,0:12:06.49,0:12:09.70,Default,,0000,0000,0000,,I miss the old times when\NJirocho was in charge.
+Dialogue: 0,0:12:16.03,0:12:18.87,Default,,0000,0000,0000,,Terrible, terrible, I’m drenched.
+Dialogue: 0,0:12:19.03,0:12:20.82,Default,,0000,0000,0000,,You are amazing, Fukusuke.
+Dialogue: 0,0:12:20.82,0:12:24.70,Default,,0000,0000,0000,,Keep on running to the goal,\Nand make our Boss Wagarashi happy.
+Dialogue: 0,0:12:25.74,0:12:27.16,Default,,0000,0000,0000,,Watch it, you scum.
+Dialogue: 0,0:12:27.70,0:12:29.45,Default,,0000,0000,0000,,Who do you think you are talking to?
+Dialogue: 0,0:12:29.82,0:12:30.70,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:30.83,0:12:35.03,Default,,0000,0000,0000,,My victory is already assured.\NLet me relax for a while.
+Dialogue: 0,0:12:35.08,0:12:36.82,Default,,0000,0000,0000,,Bastard, think you're so hot?!
+Dialogue: 0,0:12:36.82,0:12:37.62,Default,,0000,0000,0000,,Cut it out…
+Dialogue: 0,0:12:37.70,0:12:38.20,Default,,0000,0000,0000,,Brother…
+Dialogue: 0,0:12:38.82,0:12:40.70,Default,,0000,0000,0000,,What if something goes wrong\Nduring the race?
+Dialogue: 0,0:12:40.82,0:12:42.99,Default,,0000,0000,0000,,Who knows what our boss\Nwill do to us.
+Dialogue: 0,0:12:43.82,0:12:44.82,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:12:45.45,0:12:46.58,Default,,0000,0000,0000,,Just wait and see.
+Dialogue: 0,0:12:54.82,0:12:56.28,Default,,0000,0000,0000,,Darn, that bastard!
+Dialogue: 0,0:12:56.58,0:12:58.03,Default,,0000,0000,0000,,Naruto, Sasuke…
+Dialogue: 0,0:12:58.83,0:12:59.70,Default,,0000,0000,0000,,Take this.
+Dialogue: 0,0:13:00.53,0:13:01.91,Default,,0000,0000,0000,,Sakura… What's that?
+Dialogue: 0,0:13:04.91,0:13:06.58,Default,,0000,0000,0000,,Before leaving the Leaf Village,
+Dialogue: 0,0:13:08.03,0:13:09.82,Default,,0000,0000,0000,,Lady Tsunade handed this to me.
+Dialogue: 0,0:13:10.49,0:13:13.70,Default,,0000,0000,0000,,Take this with you.\NI am sure it will come in handy.
+Dialogue: 0,0:13:14.08,0:13:15.62,Default,,0000,0000,0000,,Old Lady Tsunade?
+Dialogue: 0,0:13:20.28,0:13:22.33,Default,,0000,0000,0000,,I think he’ll recover\Nconsciousness now.
+Dialogue: 0,0:13:23.82,0:13:25.70,Default,,0000,0000,0000,,Sasuke and Naruto,\Nyou take this, too.
+Dialogue: 0,0:13:25.83,0:13:27.12,Default,,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:13:27.78,0:13:32.20,Default,,0000,0000,0000,,Also, we’ll be too cold here,\Nso we need to move somewhere else.
+Dialogue: 0,0:13:36.66,0:13:37.58,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:13:44.95,0:13:47.99,Default,,0000,0000,0000,,Look! I’ve finally become\Na Ninja, too!
+Dialogue: 0,0:13:48.95,0:13:49.78,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:13:49.82,0:13:52.53,Default,,0000,0000,0000,,I’ve got to become the best\Nin everything!
+Dialogue: 0,0:13:53.08,0:13:56.82,Default,,0000,0000,0000,,I’ll train hard,\Nand complete lots of missions.
+Dialogue: 0,0:13:57.12,0:13:59.24,Default,,0000,0000,0000,,And I’ll become a Chunin super fast.
+Dialogue: 0,0:14:00.12,0:14:01.70,Default,,0000,0000,0000,,Then after that, a Jonin.
+Dialogue: 0,0:14:01.99,0:14:04.16,Default,,0000,0000,0000,,I’m going to be like you, Brother!
+Dialogue: 0,0:14:04.82,0:14:07.66,Default,,0000,0000,0000,,I’m Idate, the Swift Runner\Nmaking headway in life.
+Dialogue: 0,0:14:08.70,0:14:09.20,Default,,0000,0000,0000,,Brother?
+Dialogue: 0,0:14:12.91,0:14:14.82,Default,,0000,0000,0000,,Listen Idate…
+Dialogue: 0,0:14:16.08,0:14:17.70,Default,,0000,0000,0000,,In the world of Shinobi,
+Dialogue: 0,0:14:17.83,0:14:21.20,Default,,0000,0000,0000,,there is something more important\Nthan success or power.
+Dialogue: 0,0:14:21.58,0:14:22.78,Default,,0000,0000,0000,,Something more important?
+Dialogue: 0,0:14:23.66,0:14:27.82,Default,,0000,0000,0000,,Until you understand that,\Nit’s too early for you to talk that way.
+Dialogue: 0,0:14:37.49,0:14:38.03,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:14:38.24,0:14:39.82,Default,,0000,0000,0000,,He’s conscious now.
+Dialogue: 0,0:14:40.95,0:14:41.87,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:14:42.45,0:14:44.45,Default,,0000,0000,0000,,What happened to Aoi?!
+Dialogue: 0,0:14:45.45,0:14:46.41,Default,,0000,0000,0000,,He disappeared…
+Dialogue: 0,0:14:46.82,0:14:49.08,Default,,0000,0000,0000,,So that Rain Ninja is called Aoi?
+Dialogue: 0,0:14:51.66,0:14:54.45,Default,,0000,0000,0000,,Idate, do you know him?
+Dialogue: 0,0:14:56.12,0:14:56.83,Default,,0000,0000,0000,,He…
+Dialogue: 0,0:14:57.83,0:15:00.12,Default,,0000,0000,0000,,was a teacher when\NI was in the Leaf Village.
+Dialogue: 0,0:15:00.45,0:15:02.70,Default,,0000,0000,0000,,You…are from the Leaf Village?
+Dialogue: 0,0:15:03.28,0:15:06.28,Default,,0000,0000,0000,,Aoi…betrayed the Leaf Village
+Dialogue: 0,0:15:06.82,0:15:08.33,Default,,0000,0000,0000,,and became a Jonin of the Hidden Rain.
+Dialogue: 0,0:15:08.91,0:15:11.28,Default,,0000,0000,0000,,What the hell do you mean?
+Dialogue: 0,0:15:13.95,0:15:15.16,Default,,0000,0000,0000,,Not yet.
+Dialogue: 0,0:15:15.82,0:15:17.12,Default,,0000,0000,0000,,You have to rest a little more.
+Dialogue: 0,0:15:18.82,0:15:19.82,Default,,0000,0000,0000,,How is your hand there?
+Dialogue: 0,0:15:21.91,0:15:22.82,Default,,0000,0000,0000,,That hand…
+Dialogue: 0,0:15:22.99,0:15:24.82,Default,,0000,0000,0000,,You kept it clenched all this time.
+Dialogue: 0,0:15:30.70,0:15:33.82,Default,,0000,0000,0000,,Darn! I’d come all this way,\Nand yet I…!
+Dialogue: 0,0:15:33.82,0:15:35.82,Default,,0000,0000,0000,,It’s too early to give up!
+Dialogue: 0,0:15:36.08,0:15:38.82,Default,,0000,0000,0000,,And you tell us that you were once\Na Shinobi of the Leaf?!
+Dialogue: 0,0:15:40.37,0:15:43.37,Default,,0000,0000,0000,,I forgot all about the Leaf…
+Dialogue: 0,0:15:43.82,0:15:45.53,Default,,0000,0000,0000,,the moment\NI walked away from the village.
+Dialogue: 0,0:15:46.45,0:15:47.82,Default,,0000,0000,0000,,You walked away from the village?
+Dialogue: 0,0:15:50.24,0:15:55.95,Default,,0000,0000,0000,,I was depressed after failing\Nthe first test of the Chunin Exam.
+Dialogue: 0,0:15:57.87,0:15:59.91,Default,,0000,0000,0000,,That was close, Idate…
+Dialogue: 0,0:16:04.28,0:16:05.70,Default,,0000,0000,0000,,Don’t take it so hard.
+Dialogue: 0,0:16:06.33,0:16:09.99,Default,,0000,0000,0000,,There are ways to become\Na Chunin other than the Chunin Exam.
+Dialogue: 0,0:16:10.83,0:16:11.82,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:16:14.74,0:16:15.70,Default,,0000,0000,0000,,Yes, really.
+Dialogue: 0,0:16:16.82,0:16:18.45,Default,,0000,0000,0000,,Just do as I tell you.
+Dialogue: 0,0:16:19.33,0:16:20.03,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:27.83,0:16:28.83,Default,,0000,0000,0000,,Aoi Sensei…
+Dialogue: 0,0:16:30.03,0:16:30.87,Default,,0000,0000,0000,,Idate…
+Dialogue: 0,0:16:31.82,0:16:35.28,Default,,0000,0000,0000,,Aoi Sensei,\NI’d brought them as you told me to.
+Dialogue: 0,0:16:38.03,0:16:38.82,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:16:39.58,0:16:43.33,Default,,0000,0000,0000,,These are indeed the Scroll of Sealing\Nand the legendary blade,
+Dialogue: 0,0:16:43.37,0:16:46.82,Default,,0000,0000,0000,,the Blade of the Thunder God, believed to\Nhave been used by the Second Hokage.
+Dialogue: 0,0:16:47.70,0:16:48.83,Default,,0000,0000,0000,,Well done, Idate.
+Dialogue: 0,0:16:49.74,0:16:52.20,Default,,0000,0000,0000,,Now I can become a Chunin, right?
+Dialogue: 0,0:16:52.95,0:16:54.82,Default,,0000,0000,0000,,Sure you can…
+Dialogue: 0,0:16:57.03,0:16:58.82,Default,,0000,0000,0000,,in the Village Hidden in the Rain.
+Dialogue: 0,0:17:02.74,0:17:05.24,Default,,0000,0000,0000,,You are leaving\Nthe Leaf together with me,
+Dialogue: 0,0:17:05.82,0:17:07.49,Default,,0000,0000,0000,,taking these as gifts to them.
+Dialogue: 0,0:17:07.83,0:17:08.74,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:17:11.95,0:17:13.28,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:17:13.62,0:17:17.24,Default,,0000,0000,0000,,There's no way you can get away with\Nstealing the village’s treasures.
+Dialogue: 0,0:17:17.33,0:17:18.66,Default,,0000,0000,0000,,You tricked me!
+Dialogue: 0,0:17:19.28,0:17:23.82,Default,,0000,0000,0000,,To survive in this world,\Nyou must not believe in others…
+Dialogue: 0,0:17:24.24,0:17:25.82,Default,,0000,0000,0000,,Remember that.
+Dialogue: 0,0:17:28.12,0:17:30.74,Default,,0000,0000,0000,,Well, what are you going to do, Idate?
+Dialogue: 0,0:17:31.66,0:17:34.70,Default,,0000,0000,0000,,Either way, you are already\Na Rogue Ninja.
+Dialogue: 0,0:17:36.95,0:17:40.33,Default,,0000,0000,0000,,You’ll be chained in jail for life,\Nif you are lucky.
+Dialogue: 0,0:17:44.91,0:17:50.37,Default,,0000,0000,0000,,You’ll be chained in jail for life,\Nif you are lucky.
+Dialogue: 0,0:17:57.82,0:18:00.82,Default,,0000,0000,0000,,Ever since then,\NI haven’t returned to the village.
+Dialogue: 0,0:18:02.12,0:18:05.78,Default,,0000,0000,0000,,I am an irresponsible man\Nwho can’t do a single thing right.
+Dialogue: 0,0:18:06.41,0:18:08.37,Default,,0000,0000,0000,,But Boss Jirocho believed in me.
+Dialogue: 0,0:18:09.78,0:18:14.37,Default,,0000,0000,0000,,Even though I'd never\Nbeen of any use to him.
+Dialogue: 0,0:18:14.83,0:18:16.62,Default,,0000,0000,0000,,Boss Jirocho had faith in me!
+Dialogue: 0,0:18:17.37,0:18:19.37,Default,,0000,0000,0000,,And yet, I…!
+Dialogue: 0,0:18:25.78,0:18:26.37,Default,,0000,0000,0000,,He’s…
+Dialogue: 0,0:18:28.12,0:18:30.82,Default,,0000,0000,0000,,He’s…like the old me…
+Dialogue: 0,0:18:33.16,0:18:37.45,Default,,0000,0000,0000,,No one will ever accept you!\NDie Naruto!
+Dialogue: 0,0:18:39.82,0:18:41.08,Default,,0000,0000,0000,,Duck down, Naruto!
+Dialogue: 0,0:18:46.82,0:18:49.53,Default,,0000,0000,0000,,I’m…a worthless guy…
+Dialogue: 0,0:18:50.41,0:18:52.70,Default,,0000,0000,0000,,W-Why?
+Dialogue: 0,0:18:54.33,0:18:55.91,Default,,0000,0000,0000,,Because we are the same.
+Dialogue: 0,0:18:56.82,0:18:58.82,Default,,0000,0000,0000,,He’s like me of the old days.
+Dialogue: 0,0:18:59.62,0:19:01.08,Default,,0000,0000,0000,,I go around and around,\Nand get nowhere…
+Dialogue: 0,0:19:02.53,0:19:04.08,Default,,0000,0000,0000,,I can’t do anything right.
+Dialogue: 0,0:19:04.82,0:19:06.16,Default,,0000,0000,0000,,Aoi is right.
+Dialogue: 0,0:19:06.20,0:19:09.12,Default,,0000,0000,0000,,I have…no right to live--
+Dialogue: 0,0:19:09.16,0:19:10.49,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:19:11.12,0:19:14.87,Default,,0000,0000,0000,,There’s a person\Nwho still trusts you, right?
+Dialogue: 0,0:19:15.82,0:19:17.91,Default,,0000,0000,0000,,I know, Naruto.
+Dialogue: 0,0:19:18.82,0:19:23.82,Default,,0000,0000,0000,,You felt alone…\Nand you were suffering!
+Dialogue: 0,0:19:24.03,0:19:26.82,Default,,0000,0000,0000,,One is enough!
+Dialogue: 0,0:19:30.74,0:19:32.49,Default,,0000,0000,0000,,The race isn’t over yet!
+Dialogue: 0,0:19:32.91,0:19:36.74,Default,,0000,0000,0000,,You never know how things will turn out\Nunless you try until the very end.
+Dialogue: 0,0:19:38.70,0:19:39.24,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:19:40.62,0:19:41.82,Default,,0000,0000,0000,,Stand up now!
+Dialogue: 0,0:19:41.82,0:19:44.45,Default,,0000,0000,0000,,Naruto, it’s not possible!\Nldate’s body is still…
+Dialogue: 0,0:19:44.49,0:19:48.03,Default,,0000,0000,0000,,If he can’t run,\Nthen I’ll carry him on my back and run!
+Dialogue: 0,0:19:49.82,0:19:51.83,Default,,0000,0000,0000,,The opponent must already be\Nin Modoroki Shrine…
+Dialogue: 0,0:19:52.82,0:19:54.28,Default,,0000,0000,0000,,Don’t give up!
+Dialogue: 0,0:19:54.45,0:19:55.58,Default,,0000,0000,0000,,Hey… Naruto…
+Dialogue: 0,0:19:56.41,0:19:57.37,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:19:58.82,0:20:00.62,Default,,0000,0000,0000,,Let’s leave it to Naruto here.
+Dialogue: 0,0:20:01.28,0:20:03.91,Default,,0000,0000,0000,,Jirocho is waiting for you, right?
+Dialogue: 0,0:20:04.58,0:20:05.82,Default,,0000,0000,0000,,Pull yourself together!
+Dialogue: 0,0:20:24.53,0:20:27.20,Default,,0000,0000,0000,,Boss, don’t you think\Nhe actually ran away?
+Dialogue: 0,0:20:29.16,0:20:29.82,Default,,0000,0000,0000,,He’ll come.
+Dialogue: 0,0:20:30.99,0:20:32.83,Default,,0000,0000,0000,,I believe in Idate!
+Dialogue: 0,0:20:41.49,0:20:45.24,Default,,0000,0000,0000,,If you run away now,\Nyou’ll be a loser for your entire life!
+Dialogue: 0,0:20:46.03,0:20:49.24,Default,,0000,0000,0000,,For the people who believe\Nin you and wait for you…
+Dialogue: 0,0:20:53.20,0:20:55.12,Default,,0000,0000,0000,,It’s the fastest boat around here.
+Dialogue: 0,0:20:55.58,0:20:56.45,Default,,0000,0000,0000,,I'm grateful.
+Dialogue: 0,0:20:56.82,0:20:57.82,Default,,0000,0000,0000,,No problem.
+Dialogue: 0,0:20:58.37,0:21:01.99,Default,,0000,0000,0000,,Edged tools aren’t\Nfor hurting people…
+Dialogue: 0,0:21:02.91,0:21:04.82,Default,,0000,0000,0000,,Show them what you’ve got!
+Dialogue: 0,0:21:07.03,0:21:09.82,Default,,0000,0000,0000,,Naruto! Please take me there!
+Dialogue: 0,0:21:12.49,0:21:13.87,Default,,0000,0000,0000,,All right. Leave it to me!
+Dialogue: 0,0:21:25.74,0:21:32.82,Default,,0000,0000,0000,,Once in a long while, once in a while
+Dialogue: 0,0:21:32.83,0:21:38.53,Default,,0000,0000,0000,,The remnants of a person\Nbroken by dreams
+Dialogue: 0,0:21:38.70,0:21:43.82,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:21:46.91,0:21:53.95,Default,,0000,0000,0000,,Clinging to the Divine,\Nclinging to Buddha
+Dialogue: 0,0:21:53.99,0:21:59.70,Default,,0000,0000,0000,,The remnants of a person crying
+Dialogue: 0,0:21:59.91,0:22:03.74,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:05.28,0:22:08.41,Default,,0000,0000,0000,,Rendezvous with a happy dance circle
+Dialogue: 0,0:22:08.45,0:22:12.24,Default,,0000,0000,0000,,This is my victory pose, round and around\N (round around)
+Dialogue: 0,0:22:12.62,0:22:15.58,Default,,0000,0000,0000,,Shake shake shake\NLet’s look
+Dialogue: 0,0:22:15.62,0:22:19.82,Default,,0000,0000,0000,,With a bye-bye rhythm that never ends
+Dialogue: 0,0:22:28.82,0:22:33.91,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:35.82,0:22:39.16,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:39.62,0:22:42.82,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:42.99,0:22:46.95,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:50.83,0:22:52.16,Default,,0000,0000,0000,,Hey you!
+Dialogue: 0,0:22:52.20,0:22:56.99,Default,,0000,0000,0000,,What're you jabbering about,\Nlecturing like you're something else?!
+Dialogue: 0,0:22:57.08,0:22:58.82,Default,,0000,0000,0000,,You are so annoying!
+Dialogue: 0,0:22:59.24,0:23:00.82,Default,,0000,0000,0000,,Come on, Idate.
+Dialogue: 0,0:23:00.95,0:23:02.91,Default,,0000,0000,0000,,Boss Jirochi is waiting for you\Nat the finish line, right?
+Dialogue: 0,0:23:03.58,0:23:06.12,Default,,0000,0000,0000,,I don't care if this guy\Nis a Jonin or whatever.
+Dialogue: 0,0:23:06.49,0:23:09.91,Default,,0000,0000,0000,,I'm gonna beat him and make for\Nthe finish line with all my might!
+Dialogue: 0,0:23:10.78,0:23:15.12,Default,,0000,0000,0000,,Next time:\N"A Fierce Battle of Rolling Thunder!'

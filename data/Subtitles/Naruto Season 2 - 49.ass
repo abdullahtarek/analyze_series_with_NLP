@@ -1,0 +1,354 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.52,0:00:09.19,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.22,0:00:13.09,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.12,0:00:17.20,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.56,0:00:19.96,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.00,0:00:24.14,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.17,0:00:28.17,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.54,0:00:34.45,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.01,0:00:38.02,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.52,0:00:42.55,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.32,0:00:44.56,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.86,0:00:47.56,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.57,0:01:00.94,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.14,0:01:02.41,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.44,0:01:06.21,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.54,0:01:11.65,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:11.92,0:01:13.38,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.42,0:01:14.72,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.75,0:01:21.13,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:44.72,0:01:45.55,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:01:47.55,0:01:48.02,Default,,0000,0000,0000,,O-Oh!
+Dialogue: 0,0:01:50.89,0:01:51.56,Default,,0000,0000,0000,,T-That’s…
+Dialogue: 0,0:01:53.19,0:01:54.26,Default,,0000,0000,0000,,It's the empty shell of sand!
+Dialogue: 0,0:01:58.46,0:02:04.47,Default,,0000,0000,0000,,Lee's Hidden Strength:\NForbidden Secret Jutsu!
+Dialogue: 0,0:02:05.44,0:02:06.17,Default,,0000,0000,0000,,When did that…?!
+Dialogue: 0,0:02:06.24,0:02:07.54,Default,,0000,0000,0000,,That’s not possible!
+Dialogue: 0,0:02:08.21,0:02:10.84,Default,,0000,0000,0000,,While you had your eyes closed\Nand were praying.
+Dialogue: 0,0:02:11.11,0:02:11.61,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:12.84,0:02:15.71,Default,,0000,0000,0000,,For a moment, Lee stopped moving\Nbecause of the pain in his body.
+Dialogue: 0,0:02:17.98,0:02:19.22,Default,,0000,0000,0000,,At that moment…that’s when!
+Dialogue: 0,0:02:29.23,0:02:29.93,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:02:46.71,0:02:47.55,Default,,0000,0000,0000,,That's...!
+Dialogue: 0,0:02:47.88,0:02:50.01,Default,,0000,0000,0000,,There’s no doubt about it – his eyes…
+Dialogue: 0,0:02:50.98,0:02:52.72,Default,,0000,0000,0000,,He’s completely awake…
+Dialogue: 0,0:02:53.75,0:02:57.09,Default,,0000,0000,0000,,The demon…inside him.
+Dialogue: 0,0:03:20.24,0:03:21.45,Default,,0000,0000,0000,,Run away!
+Dialogue: 0,0:03:33.76,0:03:36.56,Default,,0000,0000,0000,,That Bowl-Cut’s totally worn down…
+Dialogue: 0,0:03:37.50,0:03:39.40,Default,,0000,0000,0000,,Gaara is toying with him.
+Dialogue: 0,0:03:41.97,0:03:45.00,Default,,0000,0000,0000,,W-Why doesn’t Lee dodge?
+Dialogue: 0,0:03:45.90,0:03:50.47,Default,,0000,0000,0000,,With Lee’s speed, he should easily be\Nable to dodge that level of attack.
+Dialogue: 0,0:03:51.44,0:03:54.65,Default,,0000,0000,0000,,It’s not that he doesn’t dodge,\Nit’s that he can’t dodge.
+Dialogue: 0,0:03:55.01,0:03:55.55,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:55.81,0:03:56.65,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:03:57.55,0:04:01.19,Default,,0000,0000,0000,,The Lotus is a double-edged sword.
+Dialogue: 0,0:04:01.39,0:04:02.92,Default,,0000,0000,0000,,What do you mean double-edged sword?
+Dialogue: 0,0:04:03.55,0:04:07.33,Default,,0000,0000,0000,,Why do you think the Lotus is\Na forbidden technique?
+Dialogue: 0,0:04:08.09,0:04:08.83,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:04:10.26,0:04:13.10,Default,,0000,0000,0000,,The Lotus isn’t a Ninjutsu or a Genjutsu.
+Dialogue: 0,0:04:13.93,0:04:16.43,Default,,0000,0000,0000,,It’s a Taijutsu, with that much\Nhigh-speed movement.
+Dialogue: 0,0:04:17.17,0:04:20.50,Default,,0000,0000,0000,,The load it puts on a person’s body\Nis beyond imagination.
+Dialogue: 0,0:04:20.71,0:04:22.84,Default,,0000,0000,0000,,So Lee’s entire body is in\Nso much pain right now
+Dialogue: 0,0:04:22.91,0:04:24.34,Default,,0000,0000,0000,,that even moving is out of the question.
+Dialogue: 0,0:04:25.31,0:04:26.21,Default,,0000,0000,0000,,Isn’t that so…
+Dialogue: 0,0:04:26.64,0:04:27.51,Default,,0000,0000,0000,,Guy?
+Dialogue: 0,0:04:28.75,0:04:29.75,Default,,0000,0000,0000,,But that’s…!
+Dialogue: 0,0:04:59.51,0:05:02.21,Default,,0000,0000,0000,,He has no Ninjutsu, not even\None Genjutsu …
+Dialogue: 0,0:05:02.81,0:05:04.85,Default,,0000,0000,0000,,Moreover, the Taijutsu he depends on,
+Dialogue: 0,0:05:04.88,0:05:06.22,Default,,0000,0000,0000,,it’s now even less than\Nan average person’s …
+Dialogue: 0,0:05:06.52,0:05:08.55,Default,,0000,0000,0000,,There’s no way he can win!
+Dialogue: 0,0:05:08.75,0:05:10.86,Default,,0000,0000,0000,,He’s had it if this goes on…
+Dialogue: 0,0:05:15.26,0:05:15.93,Default,,0000,0000,0000,,Lee…
+Dialogue: 0,0:05:22.37,0:05:24.54,Default,,0000,0000,0000,,Hey, get a move on all of you.
+Dialogue: 0,0:05:25.64,0:05:27.61,Default,,0000,0000,0000,,I’ll add another 200 laps!
+Dialogue: 0,0:05:29.54,0:05:33.34,Default,,0000,0000,0000,,Stupid! There’s no way\Nyou’ll become a Ninja.
+Dialogue: 0,0:05:34.75,0:05:35.55,Default,,0000,0000,0000,,Yes, I will.
+Dialogue: 0,0:05:35.68,0:05:39.65,Default,,0000,0000,0000,,There’s no way a chump who can’t\Neven use Ninjutsu can become a Ninja!
+Dialogue: 0,0:05:39.72,0:05:40.55,Default,,0000,0000,0000,,Yes, I will!
+Dialogue: 0,0:05:40.55,0:05:43.55,Default,,0000,0000,0000,,Whatever, but the fact that a guy like\Nyou without Ninjutsu or Genjutsu
+Dialogue: 0,0:05:43.55,0:05:45.42,Default,,0000,0000,0000,,and with less Taijutsu than\Nan average person
+Dialogue: 0,0:05:45.46,0:05:48.76,Default,,0000,0000,0000,,is in this Ninja academy is nonsense.
+Dialogue: 0,0:05:48.86,0:05:51.80,Default,,0000,0000,0000,,Do you know what you’re called here?
+Dialogue: 0,0:05:52.80,0:05:54.43,Default,,0000,0000,0000,,Hot-Blooded!
+Dialogue: 0,0:05:54.57,0:05:55.90,Default,,0000,0000,0000,,Hot-Blooded!
+Dialogue: 0,0:05:56.27,0:05:57.67,Default,,0000,0000,0000,,Hot-Blooded lose-
+Dialogue: 0,0:05:58.60,0:06:00.54,Default,,0000,0000,0000,,Hey, get in line, Lee!
+Dialogue: 0,0:06:00.54,0:06:01.71,Default,,0000,0000,0000,,Hey Lee!
+Dialogue: 0,0:06:03.94,0:06:07.11,Default,,0000,0000,0000,,So that’s the hot-blooded loser\Neveryone’s talking about.
+Dialogue: 0,0:06:07.48,0:06:09.91,Default,,0000,0000,0000,,Doesn’t he look like\Nsomeone we know?
+Dialogue: 0,0:06:10.21,0:06:10.75,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:11.55,0:06:13.52,Default,,0000,0000,0000,,In particular…his eyebrows.
+Dialogue: 0,0:06:14.02,0:06:14.55,Default,,0000,0000,0000,,Hmm…
+Dialogue: 0,0:06:15.72,0:06:17.02,Default,,0000,0000,0000,,Rock Lee…
+Dialogue: 0,0:06:17.72,0:06:20.56,Default,,0000,0000,0000,,The chump who can only perform\Nless than average Taijutsu…
+Dialogue: 0,0:06:27.97,0:06:29.23,Default,,0000,0000,0000,,But you...
+Dialogue: 0,0:06:29.57,0:06:31.77,Default,,0000,0000,0000,,You practiced your less\Nthan average Taijutsu …
+Dialogue: 0,0:06:32.47,0:06:34.34,Default,,0000,0000,0000,,You practiced it over and\Nover again like crazy…
+Dialogue: 0,0:06:34.47,0:06:39.68,Default,,0000,0000,0000,,396…397…398…399…
+Dialogue: 0,0:06:39.94,0:06:43.65,Default,,0000,0000,0000,,400…401…402…403…
+Dialogue: 0,0:06:44.42,0:06:48.55,Default,,0000,0000,0000,,If I can’t do a log kick 500 times,\Nthen it’s 1,000 squats!
+Dialogue: 0,0:06:49.25,0:06:51.56,Default,,0000,0000,0000,,413... 414...
+Dialogue: 0,0:06:52.06,0:06:57.56,Default,,0000,0000,0000,,415... 416... 417... 418...!
+Dialogue: 0,0:06:58.20,0:07:00.43,Default,,0000,0000,0000,,419... 420…
+Dialogue: 0,0:07:00.50,0:07:01.63,Default,,0000,0000,0000,,So someone’s here before me…
+Dialogue: 0,0:07:02.13,0:07:06.54,Default,,0000,0000,0000,,422… 423... 424...
+Dialogue: 0,0:07:06.97,0:07:09.54,Default,,0000,0000,0000,,425... 426...
+Dialogue: 0,0:07:09.54,0:07:10.71,Default,,0000,0000,0000,,I suppose I’ll come back…
+Dialogue: 0,0:07:16.91,0:07:21.32,Default,,0000,0000,0000,,If I can’t do 1,000 squats,\Nthen it’s 2,000 punches!
+Dialogue: 0,0:07:22.32,0:07:27.56,Default,,0000,0000,0000,,795… 796… 797… 798…
+Dialogue: 0,0:07:34.40,0:07:35.80,Default,,0000,0000,0000,,He’s still at it…!
+Dialogue: 0,0:07:36.57,0:07:38.64,Default,,0000,0000,0000,,2,000 punches!
+Dialogue: 0,0:07:38.67,0:07:41.54,Default,,0000,0000,0000,,If I can’t, it’s 2,000 jump ropes!
+Dialogue: 0,0:07:50.55,0:07:55.52,Default,,0000,0000,0000,,You recklessly practiced only\NTaijutsu and eventually…
+Dialogue: 0,0:07:57.25,0:08:00.32,Default,,0000,0000,0000,,All right, you’ve all become\NGenin as of today,
+Dialogue: 0,0:08:01.19,0:08:03.96,Default,,0000,0000,0000,,so I’d like to know what\Nit is you’re all aiming for!
+Dialogue: 0,0:08:05.50,0:08:07.40,Default,,0000,0000,0000,,Yes, yes, yes, yes!
+Dialogue: 0,0:08:07.43,0:08:08.47,Default,,0000,0000,0000,,Tenten.
+Dialogue: 0,0:08:08.97,0:08:14.67,Default,,0000,0000,0000,,I’d like to become a powerful Ninja\Nlike the legendary Kunoichi Tsunade!
+Dialogue: 0,0:08:15.34,0:08:15.77,Default,,0000,0000,0000,,Hmm...
+Dialogue: 0,0:08:16.54,0:08:17.98,Default,,0000,0000,0000,,And, how about you, Neji?
+Dialogue: 0,0:08:20.74,0:08:21.88,Default,,0000,0000,0000,,I don’t want to answer…
+Dialogue: 0,0:08:23.15,0:08:24.42,Default,,0000,0000,0000,,I…!
+Dialogue: 0,0:08:25.35,0:08:27.69,Default,,0000,0000,0000,,I’d like to prove that I could\Nbecome a respectable Ninja
+Dialogue: 0,0:08:28.25,0:08:31.19,Default,,0000,0000,0000,,even though I can’t use\NNinjutsu or Genjutsu!
+Dialogue: 0,0:08:32.02,0:08:33.96,Default,,0000,0000,0000,,That would be the ultimate for me!
+Dialogue: 0,0:08:35.26,0:08:36.26,Default,,0000,0000,0000,,Those are good serious eyes…
+Dialogue: 0,0:08:37.56,0:08:38.00,Default,,0000,0000,0000,,Humph!
+Dialogue: 0,0:08:38.36,0:08:39.10,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:08:39.13,0:08:40.16,Default,,0000,0000,0000,,What’s so funny?!
+Dialogue: 0,0:08:40.36,0:08:41.47,Default,,0000,0000,0000,,I’m serious!
+Dialogue: 0,0:08:41.57,0:08:45.54,Default,,0000,0000,0000,,I will become a respectable Ninja\Neven only with Taijutsu!
+Dialogue: 0,0:08:47.54,0:08:50.11,Default,,0000,0000,0000,,He should give up already…
+Dialogue: 0,0:08:50.61,0:08:51.94,Default,,0000,0000,0000,,At this rate…
+Dialogue: 0,0:08:52.48,0:08:55.11,Default,,0000,0000,0000,,He will simply die with Gaara\Njust toying with him…
+Dialogue: 0,0:08:57.38,0:08:58.55,Default,,0000,0000,0000,,Bushy Brows…!
+Dialogue: 0,0:09:01.19,0:09:01.72,Default,,0000,0000,0000,,Lee…
+Dialogue: 0,0:09:21.54,0:09:23.44,Default,,0000,0000,0000,,Not yet… Not yet!
+Dialogue: 0,0:09:23.54,0:09:27.71,Default,,0000,0000,0000,,Lee, you just won’t learn\Nyour lesson, will you?
+Dialogue: 0,0:09:28.18,0:09:29.55,Default,,0000,0000,0000,,There’s no way you can win…
+Dialogue: 0,0:09:29.88,0:09:33.35,Default,,0000,0000,0000,,Unlike you, Neji is a genius.
+Dialogue: 0,0:09:34.65,0:09:35.55,Default,,0000,0000,0000,,A genius…?
+Dialogue: 0,0:09:35.75,0:09:37.39,Default,,0000,0000,0000,,What is a genius?!
+Dialogue: 0,0:09:37.59,0:09:41.56,Default,,0000,0000,0000,,Even though I may not have talent,\NI’ll exceed genius with my efforts.
+Dialogue: 0,0:09:41.76,0:09:44.13,Default,,0000,0000,0000,,That is my entire being!
+Dialogue: 0,0:09:44.36,0:09:46.43,Default,,0000,0000,0000,,That is my Way of the Ninja!
+Dialogue: 0,0:09:46.80,0:09:48.23,Default,,0000,0000,0000,,You’ll get nowhere, Lee…
+Dialogue: 0,0:09:49.60,0:09:51.54,Default,,0000,0000,0000,,No matter how much effort you make,
+Dialogue: 0,0:09:52.14,0:09:53.80,Default,,0000,0000,0000,,there’s no way you can take me down.
+Dialogue: 0,0:09:54.67,0:09:56.57,Default,,0000,0000,0000,,That’s simply a fact.
+Dialogue: 0,0:09:56.81,0:09:57.88,Default,,0000,0000,0000,,That's not true!
+Dialogue: 0,0:09:59.44,0:10:00.34,Default,,0000,0000,0000,,That’s not…
+Dialogue: 0,0:10:11.66,0:10:16.56,Default,,0000,0000,0000,,But you…refused to give up, not ever!
+Dialogue: 0,0:10:48.03,0:10:49.76,Default,,0000,0000,0000,,Such meaningless actions…
+Dialogue: 0,0:10:51.86,0:10:55.57,Default,,0000,0000,0000,,The Bowl-Cut was unlucky to\Nhave Gaara as his opponent!
+Dialogue: 0,0:10:56.10,0:10:56.67,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:10:57.23,0:11:00.64,Default,,0000,0000,0000,,Lee’s not one to give up\Nwith this much.
+Dialogue: 0,0:11:00.67,0:11:01.54,Default,,0000,0000,0000,,– What? 					– Huh?
+Dialogue: 0,0:11:02.47,0:11:03.94,Default,,0000,0000,0000,,The reason is that Lee…
+Dialogue: 0,0:11:13.02,0:11:14.49,Default,,0000,0000,0000,,The reason is that Lee…
+Dialogue: 0,0:11:14.75,0:11:17.55,Default,,0000,0000,0000,,You…continued to make effort.
+Dialogue: 0,0:11:19.56,0:11:24.50,Default,,0000,0000,0000,,If I can’t jump rope 1,200 times,\NI’ll log kick 2,000 times!
+Dialogue: 0,0:11:24.63,0:11:27.16,Default,,0000,0000,0000,,1,116... 1,117...!
+Dialogue: 0,0:11:27.36,0:11:29.43,Default,,0000,0000,0000,,1,118... 1,11--!
+Dialogue: 0,0:11:29.57,0:11:30.27,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:46.22,0:11:47.15,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:11:47.58,0:11:48.99,Default,,0000,0000,0000,,Are you taking a break already?
+Dialogue: 0,0:11:58.56,0:11:59.50,Default,,0000,0000,0000,,Guy Sensei…
+Dialogue: 0,0:12:00.43,0:12:01.47,Default,,0000,0000,0000,,What is it that you want?
+Dialogue: 0,0:12:02.47,0:12:04.30,Default,,0000,0000,0000,,If it’s about my blunder with\Nthe recent assignment,
+Dialogue: 0,0:12:06.27,0:12:07.54,Default,,0000,0000,0000,,I believe I’ve apologized.
+Dialogue: 0,0:12:08.91,0:12:12.21,Default,,0000,0000,0000,,Lee… It’s true you’re different from Neji.
+Dialogue: 0,0:12:13.01,0:12:17.31,Default,,0000,0000,0000,,You have no Ninjutsu or Genjutsu skills,\Nand you’re not a Taijutsu genius either…
+Dialogue: 0,0:12:18.98,0:12:19.98,Default,,0000,0000,0000,,But Lee...
+Dialogue: 0,0:12:20.68,0:12:23.15,Default,,0000,0000,0000,,you have powers\Nthat exceed Neji…
+Dialogue: 0,0:12:23.65,0:12:26.66,Default,,0000,0000,0000,,you’re a genius with hidden potential.
+Dialogue: 0,0:12:27.19,0:12:29.93,Default,,0000,0000,0000,,If you’re trying to make me feel better,\Nplease stop!
+Dialogue: 0,0:12:30.36,0:12:31.13,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:12:31.56,0:12:33.43,Default,,0000,0000,0000,,I’m not trying to make you feel better\Nor anything!
+Dialogue: 0,0:12:34.26,0:12:35.57,Default,,0000,0000,0000,,The reason is that you are…
+Dialogue: 0,0:12:39.07,0:12:40.54,Default,,0000,0000,0000,,a genius of effort!
+Dialogue: 0,0:12:45.58,0:12:46.71,Default,,0000,0000,0000,,I wonder if…
+Dialogue: 0,0:12:48.01,0:12:49.05,Default,,0000,0000,0000,,If that’s true…?
+Dialogue: 0,0:12:52.02,0:12:55.15,Default,,0000,0000,0000,,I've…I’ve believed that to be true…
+Dialogue: 0,0:12:56.09,0:13:00.02,Default,,0000,0000,0000,,That if I trained harder than Neji…\N2 or 3 times as much…
+Dialogue: 0,0:13:00.36,0:13:02.03,Default,,0000,0000,0000,,that I’d surely become stronger.
+Dialogue: 0,0:13:03.33,0:13:03.93,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:05.23,0:13:07.87,Default,,0000,0000,0000,,I’ve recently begun to think that…
+Dialogue: 0,0:13:09.57,0:13:11.54,Default,,0000,0000,0000,,I can’t beat a real genius.
+Dialogue: 0,0:13:12.74,0:13:15.51,Default,,0000,0000,0000,,Is effort really rewarded…?
+Dialogue: 0,0:13:16.57,0:13:17.54,Default,,0000,0000,0000,,I’ve wanted to know this and
+Dialogue: 0,0:13:17.54,0:13:20.28,Default,,0000,0000,0000,,so I’ve taken on Neji,\Nbut it’s always been the same…!
+Dialogue: 0,0:13:21.75,0:13:23.55,Default,,0000,0000,0000,,I’m no match for him at all!
+Dialogue: 0,0:13:24.88,0:13:26.02,Default,,0000,0000,0000,,Even when I’m on a mission…
+Dialogue: 0,0:13:27.15,0:13:29.55,Default,,0000,0000,0000,,My legs still tremble even now…
+Dialogue: 0,0:13:30.55,0:13:35.39,Default,,0000,0000,0000,,I think that I’ll never become\Nstronger though I strive and strive…
+Dialogue: 0,0:13:36.36,0:13:39.40,Default,,0000,0000,0000,,I am so afraid that I can’t bear it!
+Dialogue: 0,0:13:42.07,0:13:44.57,Default,,0000,0000,0000,,What am I to do…?
+Dialogue: 0,0:13:45.47,0:13:49.91,Default,,0000,0000,0000,,There’s no point in making the effort\Nif you don’t believe in yourself!
+Dialogue: 0,0:13:55.25,0:13:58.55,Default,,0000,0000,0000,,Lee, you’re very similar to me.
+Dialogue: 0,0:13:58.82,0:14:00.05,Default,,0000,0000,0000,,Do you mean our eyebrows?
+Dialogue: 0,0:14:00.25,0:14:02.39,Default,,0000,0000,0000,,No, not just our eyebrows…
+Dialogue: 0,0:14:03.52,0:14:06.56,Default,,0000,0000,0000,,I was actually a failure once too…
+Dialogue: 0,0:14:07.42,0:14:08.56,Default,,0000,0000,0000,,You were, Sensei?
+Dialogue: 0,0:14:09.09,0:14:13.56,Default,,0000,0000,0000,,But now, I can even win against\Nthe genius elite Kakashi,
+Dialogue: 0,0:14:14.73,0:14:16.47,Default,,0000,0000,0000,,because of my efforts…
+Dialogue: 0,0:14:16.97,0:14:19.54,Default,,0000,0000,0000,,“I’d like to prove that I can become\Na respectable Ninja
+Dialogue: 0,0:14:19.64,0:14:23.14,Default,,0000,0000,0000,,even though I can’t use Ninjutsu\Nand Genjutsu” you said.
+Dialogue: 0,0:14:23.64,0:14:26.21,Default,,0000,0000,0000,,That’s your Ninja way, right?
+Dialogue: 0,0:14:26.54,0:14:28.25,Default,,0000,0000,0000,,That’s a fine goal…
+Dialogue: 0,0:14:28.88,0:14:32.15,Default,,0000,0000,0000,,It’s a fine goal worth sticking to!
+Dialogue: 0,0:14:35.75,0:14:40.42,Default,,0000,0000,0000,,That’s why you should believe in\Nyour path and forge straight ahead!
+Dialogue: 0,0:14:41.96,0:14:46.20,Default,,0000,0000,0000,,Become a man powerful enough\Nso that I can just watch you smiling!
+Dialogue: 0,0:14:47.23,0:14:48.77,Default,,0000,0000,0000,,Understand, Lee?!
+Dialogue: 0,0:14:49.37,0:14:50.37,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:15:06.55,0:15:09.85,Default,,0000,0000,0000,,Thank you…Guy Sensei…!
+Dialogue: 0,0:15:18.56,0:15:19.56,Default,,0000,0000,0000,,Stop, Lee!
+Dialogue: 0,0:15:19.90,0:15:22.23,Default,,0000,0000,0000,,If you fight any more, you’ll die!
+Dialogue: 0,0:15:23.93,0:15:24.94,Default,,0000,0000,0000,,Bushy Brows…
+Dialogue: 0,0:15:33.51,0:15:34.11,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:34.34,0:15:35.55,Default,,0000,0000,0000,,Movement has...
+Dialogue: 0,0:15:35.71,0:15:36.55,Default,,0000,0000,0000,,...returned to Lee!
+Dialogue: 0,0:15:39.55,0:15:41.65,Default,,0000,0000,0000,,Sensei is smiling and watching me…
+Dialogue: 0,0:15:42.99,0:15:46.56,Default,,0000,0000,0000,,And just because of that,\NI can come back stronger!
+Dialogue: 0,0:15:47.22,0:15:50.43,Default,,0000,0000,0000,,Stronger… stronger still!
+Dialogue: 0,0:15:51.13,0:15:54.60,Default,,0000,0000,0000,,Lee’s smiling…even though\Nhe’s been driven into corner.
+Dialogue: 0,0:15:55.43,0:15:55.97,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:15:56.57,0:15:58.54,Default,,0000,0000,0000,,It’s his turn to do the driving.
+Dialogue: 0,0:15:58.97,0:15:59.54,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:00.94,0:16:03.64,Default,,0000,0000,0000,,The Leaf’s Lotus blossoms twice.
+Dialogue: 0,0:16:04.14,0:16:05.81,Default,,0000,0000,0000,,Blossoms twice…?
+Dialogue: 0,0:16:07.11,0:16:09.25,Default,,0000,0000,0000,,Lee said that too!
+Dialogue: 0,0:16:11.52,0:16:13.55,Default,,0000,0000,0000,,The Leaf’s Lotus blossoms twice.
+Dialogue: 0,0:16:14.52,0:16:20.36,Default,,0000,0000,0000,,When we meet the next time,\NI vow that I will be an even stronger man.
+Dialogue: 0,0:16:20.89,0:16:21.69,Default,,0000,0000,0000,,No, Guy!
+Dialogue: 0,0:16:21.73,0:16:22.56,Default,,0000,0000,0000,,You haven’t?!
+Dialogue: 0,0:16:24.39,0:16:26.23,Default,,0000,0000,0000,,It’s exactly as you imagine.
+Dialogue: 0,0:16:26.76,0:16:28.43,Default,,0000,0000,0000,,So that Genin…
+Dialogue: 0,0:16:28.93,0:16:32.74,Default,,0000,0000,0000,,that boy can open the Eight Inner Gates\Nin his body and use the Hidden Lotus…
+Dialogue: 0,0:16:33.54,0:16:34.54,Default,,0000,0000,0000,,The Hidden Lotus?
+Dialogue: 0,0:16:36.17,0:16:37.11,Default,,0000,0000,0000,,That’s right …
+Dialogue: 0,0:16:38.21,0:16:38.94,Default,,0000,0000,0000,,This is incredible…
+Dialogue: 0,0:16:42.18,0:16:42.85,Default,,0000,0000,0000,,Guy…
+Dialogue: 0,0:16:43.61,0:16:47.82,Default,,0000,0000,0000,,How many of the Eight Inner Gates\Ncan that boy open now…?
+Dialogue: 0,0:16:49.55,0:16:50.52,Default,,0000,0000,0000,,Five gates.
+Dialogue: 0,0:16:50.59,0:16:52.22,Default,,0000,0000,0000,,What exactly is it?
+Dialogue: 0,0:16:52.52,0:16:55.56,Default,,0000,0000,0000,,These Eight Inner Gates and\Nthat Hidden Lotus?
+Dialogue: 0,0:16:56.39,0:16:58.56,Default,,0000,0000,0000,,The Eight Inner Gates are\N“Limiter Releases”
+Dialogue: 0,0:16:58.56,0:17:03.57,Default,,0000,0000,0000,,used in preparations for\Nreaching the Hidden Lotus.
+Dialogue: 0,0:17:03.97,0:17:05.57,Default,,0000,0000,0000,,A “Limiter Releases”?
+Dialogue: 0,0:17:07.70,0:17:08.54,Default,,0000,0000,0000,,That’s right …
+Dialogue: 0,0:17:09.81,0:17:11.98,Default,,0000,0000,0000,,In the Chakra Network\Nwhere chakra flows,
+Dialogue: 0,0:17:12.68,0:17:15.01,Default,,0000,0000,0000,,there are eight places where the\Nchakra points are concentrated
+Dialogue: 0,0:17:15.05,0:17:17.21,Default,,0000,0000,0000,,in each area of the body from the\Nhead area down--
+Dialogue: 0,0:17:17.25,0:17:21.25,Default,,0000,0000,0000,,the Gate of Opening, Gate of Rest,\NGate of Life, Gate of Pain,
+Dialogue: 0,0:17:21.32,0:17:26.42,Default,,0000,0000,0000,,Gate of Closing, Gate of Joy,\NGate of Shock and Gate of Death.
+Dialogue: 0,0:17:27.56,0:17:29.39,Default,,0000,0000,0000,,These are called the Eight Inner Gates.
+Dialogue: 0,0:17:30.89,0:17:32.36,Default,,0000,0000,0000,,These eight gates\Ncontinually “limit”
+Dialogue: 0,0:17:32.56,0:17:36.30,Default,,0000,0000,0000,,the amount of Chakra flowing\Nthrough the body…
+Dialogue: 0,0:17:37.53,0:17:43.17,Default,,0000,0000,0000,,However, the Lotus’s essence is to force\Nthe boundaries of these “limits” to open…
+Dialogue: 0,0:17:43.91,0:17:47.71,Default,,0000,0000,0000,,and bring out several\Ntens of times the body’s strength.
+Dialogue: 0,0:17:49.95,0:17:51.25,Default,,0000,0000,0000,,The Primary Lotus…
+Dialogue: 0,0:17:51.55,0:17:54.58,Default,,0000,0000,0000,,opens only the first gate,\Nthe Gate of Opening,
+Dialogue: 0,0:17:55.22,0:17:57.05,Default,,0000,0000,0000,,and releases the brains restraints
+Dialogue: 0,0:17:57.55,0:18:01.22,Default,,0000,0000,0000,,to bring forth a person’s muscles’ strength\Nto its fullest!
+Dialogue: 0,0:18:01.26,0:18:02.69,Default,,0000,0000,0000,,That’s the kind of technique it is.
+Dialogue: 0,0:18:06.93,0:18:09.23,Default,,0000,0000,0000,,So…what is the Hidden Lotus?
+Dialogue: 0,0:18:10.07,0:18:15.21,Default,,0000,0000,0000,,After forcing the stamina to increase\Nat the second gate, the Gate of Rest…
+Dialogue: 0,0:18:15.57,0:18:19.01,Default,,0000,0000,0000,,From the third gate, the Gate of Life,\None enters the Hidden Lotus!
+Dialogue: 0,0:18:19.14,0:18:20.01,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:18:20.48,0:18:24.15,Default,,0000,0000,0000,,Even after using just the Primary Lotus,\Nhis body was in shambles.
+Dialogue: 0,0:18:24.48,0:18:26.25,Default,,0000,0000,0000,,So if he uses a technique beyond that…
+Dialogue: 0,0:18:26.65,0:18:27.52,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:18:27.88,0:18:28.55,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:28.99,0:18:31.05,Default,,0000,0000,0000,,By opening all the 8 gates,
+Dialogue: 0,0:18:31.56,0:18:37.03,Default,,0000,0000,0000,,one attains strength exceeding\Neven the Hokage, but in return…
+Dialogue: 0,0:18:38.50,0:18:38.93,Default,,0000,0000,0000,,one dies!
+Dialogue: 0,0:18:41.57,0:18:44.80,Default,,0000,0000,0000,,I don’t intend to pry into what that\Nboy means to you
+Dialogue: 0,0:18:45.54,0:18:47.44,Default,,0000,0000,0000,,or to tell you not to bring\Nyour personal feelings into play…
+Dialogue: 0,0:18:48.31,0:18:49.34,Default,,0000,0000,0000,,But there is a limit!
+Dialogue: 0,0:18:50.21,0:18:51.54,Default,,0000,0000,0000,,I’ve misjudged you…Guy!
+Dialogue: 0,0:18:53.58,0:18:57.98,Default,,0000,0000,0000,,What do you know…about that boy?!
+Dialogue: 0,0:19:01.55,0:19:04.02,Default,,0000,0000,0000,,There is something important which
+Dialogue: 0,0:19:04.05,0:19:06.86,Default,,0000,0000,0000,,that boy wants to prove and\Nprotect even if it costs him his life.
+Dialogue: 0,0:19:09.13,0:19:11.56,Default,,0000,0000,0000,,I’d like to prove that I can become\Na respectable Ninja
+Dialogue: 0,0:19:12.06,0:19:14.97,Default,,0000,0000,0000,,even though I can’t use\NNinjutsu and Genjutsu!
+Dialogue: 0,0:19:15.77,0:19:17.77,Default,,0000,0000,0000,,That would be the ultimate for me!
+Dialogue: 0,0:19:18.57,0:19:19.64,Default,,0000,0000,0000,,That’s why I…
+Dialogue: 0,0:19:20.27,0:19:22.77,Default,,0000,0000,0000,,wanted to make him a man\Nthat could protect that thing.
+Dialogue: 0,0:19:24.11,0:19:25.38,Default,,0000,0000,0000,,That’s all there is…
+Dialogue: 0,0:19:27.11,0:19:27.61,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:19:28.11,0:19:30.98,Default,,0000,0000,0000,,I’m going to teach you\Na new technique.
+Dialogue: 0,0:19:31.25,0:19:32.55,Default,,0000,0000,0000,,Yippie, yeah!
+Dialogue: 0,0:19:32.55,0:19:35.02,Default,,0000,0000,0000,,– One that will be your trump card.\N– Yeah, that's great!
+Dialogue: 0,0:19:35.05,0:19:37.59,Default,,0000,0000,0000,,Yippie, yeah! Yippie yeah!
+Dialogue: 0,0:19:37.65,0:19:40.89,Default,,0000,0000,0000,,Lee, listen to my explanation\Nseriously, all right?!
+Dialogue: 0,0:19:43.69,0:19:45.26,Default,,0000,0000,0000,,Y-Yes, Sensei!
+Dialogue: 0,0:19:45.86,0:19:47.56,Default,,0000,0000,0000,,Let me first say that...
+Dialogue: 0,0:19:47.63,0:19:50.77,Default,,0000,0000,0000,,this is more of a forbidden Jutsu\Nthan the Primary Lotus!
+Dialogue: 0,0:19:51.40,0:19:54.77,Default,,0000,0000,0000,,And it will become the\Nmost special technique for you.
+Dialogue: 0,0:19:56.14,0:19:57.17,Default,,0000,0000,0000,,Special...?
+Dialogue: 0,0:19:58.01,0:19:58.94,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:19:59.21,0:20:04.55,Default,,0000,0000,0000,,there is one strict condition\Nfor using this technique.
+Dialogue: 0,0:20:05.52,0:20:06.22,Default,,0000,0000,0000,,That is...
+Dialogue: 0,0:20:09.35,0:20:10.15,Default,,0000,0000,0000,,That is…
+Dialogue: 0,0:20:16.06,0:20:16.56,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:18.30,0:20:20.70,Default,,0000,0000,0000,,I don’t know what\Nyou’re planning to do…
+Dialogue: 0,0:20:21.43,0:20:23.57,Default,,0000,0000,0000,,But this is the end for you.
+Dialogue: 0,0:20:24.07,0:20:24.80,Default,,0000,0000,0000,,That’s true…
+Dialogue: 0,0:20:26.60,0:20:29.61,Default,,0000,0000,0000,,In any case…\Nit will be the end with the next.
+Dialogue: 0,0:20:31.01,0:20:31.58,Default,,0000,0000,0000,,Neji…
+Dialogue: 0,0:20:32.54,0:20:34.54,Default,,0000,0000,0000,,Sasuke…and…
+Dialogue: 0,0:20:38.55,0:20:42.69,Default,,0000,0000,0000,,There is no way that I alone\Ncan lose in a place like this!
+Dialogue: 0,0:20:44.65,0:20:47.72,Default,,0000,0000,0000,,Guy Sensei…please allow this…!
+Dialogue: 0,0:20:49.09,0:20:49.96,Default,,0000,0000,0000,,It is now!
+Dialogue: 0,0:21:01.54,0:21:05.54,Default,,0000,0000,0000,,The time to carry through and\Nprotect one’s own Way of the Ninja!
+Dialogue: 0,0:21:06.54,0:21:09.31,Default,,0000,0000,0000,,The Third Gate of Life…open!
+Dialogue: 0,0:21:21.22,0:21:25.60,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:25.73,0:21:34.17,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:35.14,0:21:43.75,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:44.21,0:21:52.06,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:53.36,0:21:58.63,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:58.70,0:22:02.87,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:02.90,0:22:06.54,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:06.77,0:22:15.48,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:15.55,0:22:20.82,Default,,0000,0000,0000,,When you want to cry,\Nand you want to run away
+Dialogue: 0,0:22:20.85,0:22:25.39,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:25.42,0:22:29.19,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:29.43,0:22:34.56,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:34.56,0:22:36.77,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:36.87,0:22:43.21,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:43.57,0:22:48.71,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:53.92,0:22:58.25,Default,,0000,0000,0000,,Effort is always rewarded.\NMy belief in this has brought me this far.
+Dialogue: 0,0:22:58.56,0:23:01.52,Default,,0000,0000,0000,,Neji, Sasuke, and Naruto…
+Dialogue: 0,0:23:01.62,0:23:04.86,Default,,0000,0000,0000,,There’s no way that I can lose\Nin a place like this!
+Dialogue: 0,0:23:05.50,0:23:07.43,Default,,0000,0000,0000,,Even though this technique is\Nmy ace in the hole,
+Dialogue: 0,0:23:07.56,0:23:09.07,Default,,0000,0000,0000,,I’ll show it especially to you!
+Dialogue: 0,0:23:09.47,0:23:12.10,Default,,0000,0000,0000,,This is my ultimate secret\NTaijutsu technique!
+Dialogue: 0,0:23:12.80,0:23:16.91,Default,,0000,0000,0000,,Next Episode: “The Fifth Gate:\NA Splendid Ninja is Born”
+Dialogue: 0,0:23:17.01,0:23:18.54,Default,,0000,0000,0000,,This is the end!

@@ -1,0 +1,325 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.55,0:00:14.26,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.74,0:00:33.95,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.98,0:00:39.88,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:40.39,0:00:45.89,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.92,0:00:51.63,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.90,0:00:58.24,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:58.27,0:01:05.28,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:05.34,0:01:17.89,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.99,0:01:24.30,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:24.33,0:01:29.57,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:01:44.05,0:01:48.05,Default,,0000,0000,0000,,A Past to Be Erased
+Dialogue: 0,0:01:49.32,0:01:50.52,Default,,0000,0000,0000,,That mark…
+Dialogue: 0,0:01:51.06,0:01:53.29,Default,,0000,0000,0000,,I saw the same one on the guys\N that attacked this village!
+Dialogue: 0,0:01:53.89,0:01:54.89,Default,,0000,0000,0000,,That’s a lie!
+Dialogue: 0,0:01:54.89,0:01:57.90,Default,,0000,0000,0000,,It’s not a lie! This mark…
+Dialogue: 0,0:01:58.20,0:01:59.10,Default,,0000,0000,0000,,Same from that night…
+Dialogue: 0,0:02:15.78,0:02:18.55,Default,,0000,0000,0000,,N-No! Spare me!
+Dialogue: 0,0:02:22.22,0:02:22.89,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:02:42.87,0:02:45.61,Default,,0000,0000,0000,,This is the same mark from\Nthat time.
+Dialogue: 0,0:02:45.88,0:02:46.78,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:02:46.88,0:02:50.45,Default,,0000,0000,0000,,But this wasn’t in\Nthe medical team’s report.
+Dialogue: 0,0:02:50.88,0:02:52.02,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:02:53.22,0:02:56.75,Default,,0000,0000,0000,,It seems this is a particular mark\Nthat only emerges
+Dialogue: 0,0:02:56.79,0:02:58.16,Default,,0000,0000,0000,,when he sweats…
+Dialogue: 0,0:02:58.89,0:03:00.02,Default,,0000,0000,0000,,You guys get out!
+Dialogue: 0,0:03:00.36,0:03:01.89,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:03:02.36,0:03:03.96,Default,,0000,0000,0000,,I’m going to take care of him.
+Dialogue: 0,0:03:04.26,0:03:07.13,Default,,0000,0000,0000,,Say what?! I won’t let you do that!
+Dialogue: 0,0:03:07.80,0:03:10.87,Default,,0000,0000,0000,,Why do you protect him?\Nls the Leaf Village also in cahoots?
+Dialogue: 0,0:03:11.07,0:03:12.30,Default,,0000,0000,0000,,No, that’s not it!
+Dialogue: 0,0:03:13.17,0:03:17.01,Default,,0000,0000,0000,,He doesn’t remember\Na thing from the past…
+Dialogue: 0,0:03:17.98,0:03:19.94,Default,,0000,0000,0000,,He has no memory.
+Dialogue: 0,0:03:20.88,0:03:22.01,Default,,0000,0000,0000,,No memory?
+Dialogue: 0,0:03:22.78,0:03:26.55,Default,,0000,0000,0000,,It’s memory loss.\NWe came in search of his memory.
+Dialogue: 0,0:03:26.88,0:03:30.99,Default,,0000,0000,0000,,Then you should know now.\NHe’s a dirty bandit!
+Dialogue: 0,0:03:31.26,0:03:34.06,Default,,0000,0000,0000,,Whether or not he has a memory\Nmakes no difference to me!
+Dialogue: 0,0:03:34.53,0:03:35.39,Default,,0000,0000,0000,,Calm down!
+Dialogue: 0,0:03:35.89,0:03:37.70,Default,,0000,0000,0000,,It would only be in vain\N to kill someone
+Dialogue: 0,0:03:37.73,0:03:39.60,Default,,0000,0000,0000,,who has no memory of\N committing a crime.
+Dialogue: 0,0:03:39.83,0:03:40.63,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:03:41.40,0:03:43.87,Default,,0000,0000,0000,,If you really want to have\Nyour revenge,
+Dialogue: 0,0:03:43.87,0:03:46.97,Default,,0000,0000,0000,,do so as much as you like\Nafter getting his memory back…
+Dialogue: 0,0:03:47.81,0:03:48.97,Default,,0000,0000,0000,,I won’t stop you at that time.
+Dialogue: 0,0:03:52.11,0:03:55.21,Default,,0000,0000,0000,,I won’t let you do that even if\Nhe gets his memory back!
+Dialogue: 0,0:03:56.55,0:03:57.88,Default,,0000,0000,0000,,It’s as Neji says.
+Dialogue: 0,0:03:58.08,0:04:00.25,Default,,0000,0000,0000,,We’ll also find out the identity\Nof the guys who attacked
+Dialogue: 0,0:04:00.32,0:04:02.72,Default,,0000,0000,0000,,if his memory returns\Nand we get him to talk.
+Dialogue: 0,0:04:02.89,0:04:06.36,Default,,0000,0000,0000,,We might be able to save the village\Nif we can use him to cut a deal…
+Dialogue: 0,0:04:06.89,0:04:10.90,Default,,0000,0000,0000,,We have to keep him alive now.\NWe won’t run away or hide!
+Dialogue: 0,0:04:11.23,0:04:15.90,Default,,0000,0000,0000,,Keep quiet… He won’t let Menma live\Nunless we tell him this.
+Dialogue: 0,0:04:20.44,0:04:22.87,Default,,0000,0000,0000,,I’m going to sew up the wound.\NHold his arms and legs.
+Dialogue: 0,0:04:32.18,0:04:33.02,Default,,0000,0000,0000,,That girl is…
+Dialogue: 0,0:05:02.51,0:05:06.45,Default,,0000,0000,0000,,I just can’t believe it.\NHe’s the embodiment of good nature…
+Dialogue: 0,0:05:06.68,0:05:08.35,Default,,0000,0000,0000,,To think he’d be a comrade\Nof the bandits.
+Dialogue: 0,0:05:08.85,0:05:11.69,Default,,0000,0000,0000,,I wonder if he became a good guy\N after losing his memory.
+Dialogue: 0,0:05:11.92,0:05:16.29,Default,,0000,0000,0000,,He just has the same mark as those guys\Ndue to some sort of circumstance.
+Dialogue: 0,0:05:16.86,0:05:18.26,Default,,0000,0000,0000,,Even if he lost his memory,
+Dialogue: 0,0:05:18.30,0:05:21.40,Default,,0000,0000,0000,,he wouldn’t become this good-natured\Nof a guy if he was a bad person.
+Dialogue: 0,0:05:21.90,0:05:25.17,Default,,0000,0000,0000,,Either way, we’ll know everything\N if he get his memory back.
+Dialogue: 0,0:05:26.57,0:05:29.87,Default,,0000,0000,0000,,I was…a comrade of the bandits,\Nwasn’t I?
+Dialogue: 0,0:05:30.01,0:05:32.54,Default,,0000,0000,0000,,You heard us talking earlier?
+Dialogue: 0,0:05:35.58,0:05:40.89,Default,,0000,0000,0000,,Don’t worry about it.\NWe don’t know any of the details. Okay?
+Dialogue: 0,0:05:43.59,0:05:45.52,Default,,0000,0000,0000,,Heal that wound for now…
+Dialogue: 0,0:05:54.93,0:05:56.57,Default,,0000,0000,0000,,I’m going to have\Na look around the area.
+Dialogue: 0,0:05:56.93,0:05:58.00,Default,,0000,0000,0000,,You understand, right?
+Dialogue: 0,0:05:58.14,0:06:01.17,Default,,0000,0000,0000,,Your friends and that guy will die\N if you try anything funny.
+Dialogue: 0,0:06:01.87,0:06:03.17,Default,,0000,0000,0000,,Do as you like when that happens.
+Dialogue: 0,0:07:13.61,0:07:14.31,Default,,0000,0000,0000,,It’s done…
+Dialogue: 0,0:07:20.48,0:07:21.22,Default,,0000,0000,0000,,Fuki…
+Dialogue: 0,0:07:23.99,0:07:25.22,Default,,0000,0000,0000,,You heard, didn’t you?
+Dialogue: 0,0:07:27.89,0:07:29.39,Default,,0000,0000,0000,,I can’t stand it, after all!
+Dialogue: 0,0:07:29.43,0:07:31.26,Default,,0000,0000,0000,,Let’s get him. Let’s avenge everyone!
+Dialogue: 0,0:07:31.63,0:07:32.26,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:07:32.90,0:07:36.07,Default,,0000,0000,0000,,It’s still not certain that\NMenma’s one of their comrades!
+Dialogue: 0,0:07:36.20,0:07:38.84,Default,,0000,0000,0000,,You’re just as much to blame\Nif you protect him!
+Dialogue: 0,0:07:38.87,0:07:39.90,Default,,0000,0000,0000,,– Right! 					– Right!
+Dialogue: 0,0:07:40.00,0:07:41.04,Default,,0000,0000,0000,,What’s the ruckus?!
+Dialogue: 0,0:07:41.87,0:07:42.87,Default,,0000,0000,0000,,Naruto?
+Dialogue: 0,0:07:43.14,0:07:43.87,Default,,0000,0000,0000,,Tenten…!
+Dialogue: 0,0:07:45.11,0:07:46.18,Default,,0000,0000,0000,,Why did you let him out of the hut?!
+Dialogue: 0,0:07:46.21,0:07:48.38,Default,,0000,0000,0000,,Sorry. I dozed off…
+Dialogue: 0,0:07:48.88,0:07:51.75,Default,,0000,0000,0000,,I got careless thinking\N he couldn’t move…
+Dialogue: 0,0:07:52.88,0:07:55.92,Default,,0000,0000,0000,,Guys, stop! He has no memory!
+Dialogue: 0,0:07:56.22,0:07:59.86,Default,,0000,0000,0000,,So he doesn’t even know if\N he’s one of their comrades or not…!
+Dialogue: 0,0:08:00.36,0:08:01.89,Default,,0000,0000,0000,,We warned you before!
+Dialogue: 0,0:08:01.96,0:08:05.06,Default,,0000,0000,0000,,You guys are just as much to blame\Nif you protect him any further!
+Dialogue: 0,0:08:06.60,0:08:07.26,Default,,0000,0000,0000,,Get them!
+Dialogue: 0,0:08:07.90,0:08:08.70,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:08:10.50,0:08:12.17,Default,,0000,0000,0000,,We should get away for now!
+Dialogue: 0,0:08:12.40,0:08:14.34,Default,,0000,0000,0000,,I’m…fine…
+Dialogue: 0,0:08:14.77,0:08:15.31,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:15.97,0:08:20.54,Default,,0000,0000,0000,,Of course, everyone’s angry.\NI…should be punished.
+Dialogue: 0,0:08:20.88,0:08:21.88,Default,,0000,0000,0000,,You’ll be killed!
+Dialogue: 0,0:08:21.88,0:08:22.88,Default,,0000,0000,0000,,That’s fine!
+Dialogue: 0,0:08:23.18,0:08:24.75,Default,,0000,0000,0000,,What’re you saying, Menma?!
+Dialogue: 0,0:08:29.82,0:08:30.35,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:08:37.80,0:08:38.80,Default,,0000,0000,0000,,It’s them!
+Dialogue: 0,0:08:38.90,0:08:40.76,Default,,0000,0000,0000,,The bridge! Raise the bridge!
+Dialogue: 0,0:08:40.90,0:08:41.57,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:08:41.70,0:08:42.70,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:09:06.42,0:09:09.53,Default,,0000,0000,0000,,Be careful of the Leaf Ninja and\Nsecure an entrance route!
+Dialogue: 0,0:09:09.59,0:09:10.39,Default,,0000,0000,0000,,– Yes, sir! 					– Yes, sir!
+Dialogue: 0,0:09:10.90,0:09:12.73,Default,,0000,0000,0000,,Now’s our chance.\NEveryone hide!
+Dialogue: 0,0:09:14.73,0:09:15.50,Default,,0000,0000,0000,,You, too!
+Dialogue: 0,0:09:16.07,0:09:18.44,Default,,0000,0000,0000,,We can take care of this ourselves!
+Dialogue: 0,0:09:20.64,0:09:21.74,Default,,0000,0000,0000,,Come on, Fuki!
+Dialogue: 0,0:09:32.88,0:09:33.88,Default,,0000,0000,0000,,They’ve come from two spots!
+Dialogue: 0,0:09:34.72,0:09:36.39,Default,,0000,0000,0000,,Where’d they go?!
+Dialogue: 0,0:09:36.89,0:09:37.99,Default,,0000,0000,0000,,They vanished.
+Dialogue: 0,0:09:38.29,0:09:39.02,Default,,0000,0000,0000,,Be quiet!
+Dialogue: 0,0:09:46.93,0:09:47.90,Default,,0000,0000,0000,,The wind…
+Dialogue: 0,0:09:49.40,0:09:50.07,Default,,0000,0000,0000,,I get it.
+Dialogue: 0,0:09:51.00,0:09:52.50,Default,,0000,0000,0000,,They’ve trapped us\N in a Genjutsu
+Dialogue: 0,0:09:52.57,0:09:54.87,Default,,0000,0000,0000,,with a different tone mixed in\Nwith the sound of the wind!
+Dialogue: 0,0:09:55.91,0:09:59.84,Default,,0000,0000,0000,,Be careful!\NWe’re now inside their Jutsu!
+Dialogue: 0,0:10:01.15,0:10:02.88,Default,,0000,0000,0000,,You noticed too late!
+Dialogue: 0,0:10:06.58,0:10:08.55,Default,,0000,0000,0000,,M-My body…
+Dialogue: 0,0:10:08.85,0:10:09.59,Default,,0000,0000,0000,,It’s heavy…
+Dialogue: 0,0:10:09.65,0:10:11.56,Default,,0000,0000,0000,,This is bad… Is it Paralysis?!
+Dialogue: 0,0:10:13.89,0:10:15.03,Default,,0000,0000,0000,,Canceling Sound!
+Dialogue: 0,0:10:18.83,0:10:20.46,Default,,0000,0000,0000,,The Paralysis is released.
+Dialogue: 0,0:10:21.27,0:10:22.80,Default,,0000,0000,0000,,You backstabber!
+Dialogue: 0,0:10:23.30,0:10:23.97,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:10:24.27,0:10:25.97,Default,,0000,0000,0000,,I’ll leave those guys to you!
+Dialogue: 0,0:10:27.14,0:10:28.67,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:10:30.14,0:10:31.04,Default,,0000,0000,0000,,It’s futile!
+Dialogue: 0,0:10:33.78,0:10:36.88,Default,,0000,0000,0000,,Heh, what’s the matter?\NFinished already?!
+Dialogue: 0,0:10:37.31,0:10:39.85,Default,,0000,0000,0000,,I don’t even have a scratch on me…
+Dialogue: 0,0:10:41.65,0:10:43.82,Default,,0000,0000,0000,,This is what I was after!
+Dialogue: 0,0:10:44.42,0:10:44.99,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:10:49.16,0:10:51.33,Default,,0000,0000,0000,,What’s happening?\NI’m getting an amazing power.
+Dialogue: 0,0:10:51.90,0:10:52.76,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:10:53.40,0:10:54.26,Default,,0000,0000,0000,,Rotation!
+Dialogue: 0,0:10:56.93,0:10:59.10,Default,,0000,0000,0000,,Now, prepare yourself!
+Dialogue: 0,0:11:00.84,0:11:01.87,Default,,0000,0000,0000,,You won’t get away!
+Dialogue: 0,0:11:26.43,0:11:26.96,Default,,0000,0000,0000,,Here…
+Dialogue: 0,0:11:28.13,0:11:29.40,Default,,0000,0000,0000,,This is precious to you, right?
+Dialogue: 0,0:11:38.78,0:11:39.98,Default,,0000,0000,0000,,Behind you!
+Dialogue: 0,0:11:40.48,0:11:41.81,Default,,0000,0000,0000,,You jerk!
+Dialogue: 0,0:11:46.82,0:11:48.05,Default,,0000,0000,0000,,Your voice… It’s back!
+Dialogue: 0,0:11:48.59,0:11:50.52,Default,,0000,0000,0000,,Th-Thank you…
+Dialogue: 0,0:11:51.59,0:11:53.89,Default,,0000,0000,0000,,Now, let’s go back to the others.
+Dialogue: 0,0:11:54.19,0:11:54.89,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:11:58.10,0:11:59.80,Default,,0000,0000,0000,,Menma! You okay?
+Dialogue: 0,0:12:00.40,0:12:00.96,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:12:01.90,0:12:03.50,Default,,0000,0000,0000,,We took care of most of them!
+Dialogue: 0,0:12:04.57,0:12:06.84,Default,,0000,0000,0000,,What about their leader?\NWhat about Shiin?!
+Dialogue: 0,0:12:08.61,0:12:10.71,Default,,0000,0000,0000,,I chased after him,\N but he got away…
+Dialogue: 0,0:12:11.21,0:12:12.01,Default,,0000,0000,0000,,This is bad…
+Dialogue: 0,0:12:12.48,0:12:15.88,Default,,0000,0000,0000,,Now that Shiin knows the villagers\Nwon’t abandon their homes and get out,
+Dialogue: 0,0:12:15.88,0:12:17.48,Default,,0000,0000,0000,,he’ll use his last resort.
+Dialogue: 0,0:12:19.08,0:12:23.99,Default,,0000,0000,0000,,There is a dam built upriver to secure\Nwater resources during a drought.
+Dialogue: 0,0:12:24.89,0:12:29.03,Default,,0000,0000,0000,,There is enough water for the village\N to last a year, even if it doesn’t rain.
+Dialogue: 0,0:12:30.89,0:12:32.53,Default,,0000,0000,0000,,The dam has been rigged to blow up
+Dialogue: 0,0:12:32.56,0:12:35.70,Default,,0000,0000,0000,,and to sweep away\Nthe entire village with a flood.
+Dialogue: 0,0:12:37.87,0:12:39.97,Default,,0000,0000,0000,,All they care about\Nis the mine.
+Dialogue: 0,0:12:41.74,0:12:43.11,Default,,0000,0000,0000,,We can’t stop something like a flood
+Dialogue: 0,0:12:43.14,0:12:45.31,Default,,0000,0000,0000,,unless we move mountains\Nor something!
+Dialogue: 0,0:12:45.61,0:12:46.51,Default,,0000,0000,0000,,Mountains…
+Dialogue: 0,0:12:48.15,0:12:49.98,Default,,0000,0000,0000,,That’s it.\NWe should move mountains!
+Dialogue: 0,0:12:50.88,0:12:53.85,Default,,0000,0000,0000,,Naruto! Take me to the mine.
+Dialogue: 0,0:12:54.08,0:12:54.89,Default,,0000,0000,0000,,Wha--?
+Dialogue: 0,0:12:55.49,0:12:57.99,Default,,0000,0000,0000,,There should be a bunch of\NLetter Bombs in the mine!
+Dialogue: 0,0:12:58.89,0:13:01.93,Default,,0000,0000,0000,,Letter Bombs?!\NWhat’re you going to do with those?!
+Dialogue: 0,0:13:02.89,0:13:04.80,Default,,0000,0000,0000,,I’m going to blow up\N the mine itself.
+Dialogue: 0,0:13:05.06,0:13:07.06,Default,,0000,0000,0000,,The crumbled dirt and sand will\N fill up the valley
+Dialogue: 0,0:13:07.26,0:13:09.00,Default,,0000,0000,0000,,and the flood can be stopped.
+Dialogue: 0,0:13:15.04,0:13:18.28,Default,,0000,0000,0000,,Damn it! He’s started!\NLet’s hurry, Menma!
+Dialogue: 0,0:13:18.98,0:13:23.35,Default,,0000,0000,0000,,Naruto… There’s something\N I have to tell you.
+Dialogue: 0,0:13:23.88,0:13:25.18,Default,,0000,0000,0000,,Make it later!
+Dialogue: 0,0:13:25.22,0:13:27.85,Default,,0000,0000,0000,,I haven’t lost my memory.
+Dialogue: 0,0:13:28.09,0:13:32.42,Default,,0000,0000,0000,,Yeah… But stopping\Nthe flood comes first!
+Dialogue: 0,0:13:32.86,0:13:35.39,Default,,0000,0000,0000,,No, I’d like you to listen now.
+Dialogue: 0,0:13:36.16,0:13:40.90,Default,,0000,0000,0000,,I lost my parents when I was little\Nand was raised in Shiin’s clan.
+Dialogue: 0,0:13:42.20,0:13:45.87,Default,,0000,0000,0000,,They were a small Shinobi clan even\Nin the Land of Rice Paddies.
+Dialogue: 0,0:13:46.87,0:13:50.41,Default,,0000,0000,0000,,But they still had ambitious plans…
+Dialogue: 0,0:13:51.11,0:13:54.14,Default,,0000,0000,0000,,However, a Shinobi village was created\N in the Land of Rice Paddies
+Dialogue: 0,0:13:54.18,0:13:55.35,Default,,0000,0000,0000,,about a year ago.
+Dialogue: 0,0:13:55.88,0:13:57.88,Default,,0000,0000,0000,,It was the Village Hidden in the Sound.
+Dialogue: 0,0:13:58.88,0:14:00.35,Default,,0000,0000,0000,,The Village Hidden in the Sound!
+Dialogue: 0,0:14:00.85,0:14:03.92,Default,,0000,0000,0000,,Clan members confident in their skill
+Dialogue: 0,0:14:03.99,0:14:06.86,Default,,0000,0000,0000,,drifted over to Hidden Sound Village\N one after another.
+Dialogue: 0,0:14:07.52,0:14:10.89,Default,,0000,0000,0000,,Eventually jobs from\Nthe feudal lord stopped coming.
+Dialogue: 0,0:14:12.60,0:14:16.30,Default,,0000,0000,0000,,Shiin the leader of the clan that\Nhad lost its means of livelihood
+Dialogue: 0,0:14:16.33,0:14:19.30,Default,,0000,0000,0000,,set his eyes on the mine in this village…
+Dialogue: 0,0:14:22.67,0:14:25.28,Default,,0000,0000,0000,,The plan was to just threaten\Nand chase off the villagers.
+Dialogue: 0,0:14:26.21,0:14:30.05,Default,,0000,0000,0000,,But I encountered\Nunexpected resistance,
+Dialogue: 0,0:14:30.51,0:14:33.22,Default,,0000,0000,0000,,and I got scared and tried to escape…
+Dialogue: 0,0:14:35.49,0:14:38.89,Default,,0000,0000,0000,,What’re you hesitating for?\N Hurry up and take care of him.
+Dialogue: 0,0:14:39.29,0:14:41.79,Default,,0000,0000,0000,,Father! Father!
+Dialogue: 0,0:14:45.13,0:14:46.90,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:14:50.23,0:14:51.87,Default,,0000,0000,0000,,You… You jerk!
+Dialogue: 0,0:14:54.74,0:14:55.41,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:15:03.48,0:15:06.88,Default,,0000,0000,0000,,I’m a member of a clan that\Nhas committed crimes.
+Dialogue: 0,0:15:07.75,0:15:09.89,Default,,0000,0000,0000,,It would’ve been better if\NI’d just died like that…
+Dialogue: 0,0:15:10.65,0:15:13.92,Default,,0000,0000,0000,,How easy things would’ve been\N if I could’ve died then…
+Dialogue: 0,0:15:17.09,0:15:20.30,Default,,0000,0000,0000,,I got scared thinking about\N the villagers who died…
+Dialogue: 0,0:15:21.70,0:15:23.20,Default,,0000,0000,0000,,I wanted to forget.
+Dialogue: 0,0:15:24.23,0:15:27.44,Default,,0000,0000,0000,,And so I cowardly escaped into\Na Jutsu passed down through the clan
+Dialogue: 0,0:15:27.47,0:15:29.41,Default,,0000,0000,0000,,that erases memory.
+Dialogue: 0,0:15:30.64,0:15:32.91,Default,,0000,0000,0000,,However, the Jutsu didn’t work\N very well…
+Dialogue: 0,0:15:34.01,0:15:39.25,Default,,0000,0000,0000,,I only temporarily lost my memory\Nand it came back in a few hours.
+Dialogue: 0,0:15:43.32,0:15:46.89,Default,,0000,0000,0000,,Then you had your memory\N the whole time?!
+Dialogue: 0,0:15:47.69,0:15:48.36,Default,,0000,0000,0000,,I’m sorry…
+Dialogue: 0,0:15:49.39,0:15:50.53,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:15:51.33,0:15:55.70,Default,,0000,0000,0000,,Then why didn’t you tell me about\Nthat honestly from the start?!
+Dialogue: 0,0:15:55.73,0:15:56.90,Default,,0000,0000,0000,,If you had, it would’ve been…
+Dialogue: 0,0:15:57.20,0:16:01.47,Default,,0000,0000,0000,,I didn’t have the courage to make\Nthe crimes of the clan public.
+Dialogue: 0,0:16:03.41,0:16:07.58,Default,,0000,0000,0000,,But I thought the clan must\Nnot commit any further crimes.
+Dialogue: 0,0:16:10.05,0:16:12.88,Default,,0000,0000,0000,,So I pretended to lose\Nmy memory.
+Dialogue: 0,0:16:13.88,0:16:16.72,Default,,0000,0000,0000,,And to prevent the clan from\Nadding to their crimes…
+Dialogue: 0,0:16:17.85,0:16:21.26,Default,,0000,0000,0000,,I wanted to bring some of you\N Leaf Shinobi here
+Dialogue: 0,0:16:21.29,0:16:23.03,Default,,0000,0000,0000,,and have you help out.
+Dialogue: 0,0:16:23.79,0:16:25.83,Default,,0000,0000,0000,,I knew of Shiin’s next plan.
+Dialogue: 0,0:16:26.70,0:16:29.93,Default,,0000,0000,0000,,There must not be any\N more village casualties.
+Dialogue: 0,0:16:30.87,0:16:34.60,Default,,0000,0000,0000,,Stopping that is my duty\Nfor having survived.
+Dialogue: 0,0:16:35.17,0:16:36.17,Default,,0000,0000,0000,,Duty…?
+Dialogue: 0,0:16:36.34,0:16:39.51,Default,,0000,0000,0000,,I needed the help\Nof the Leaf Shinobi
+Dialogue: 0,0:16:39.54,0:16:44.15,Default,,0000,0000,0000,,before Shiin could\Nexecute his next plan…
+Dialogue: 0,0:16:46.82,0:16:50.35,Default,,0000,0000,0000,,I wanted to round them all up\N during the attack earlier.
+Dialogue: 0,0:16:51.19,0:16:54.16,Default,,0000,0000,0000,,But since things have come this far,\NI’ll stop the flood.
+Dialogue: 0,0:16:56.39,0:16:57.89,Default,,0000,0000,0000,,Thanks, Naruto…
+Dialogue: 0,0:17:00.40,0:17:05.24,Default,,0000,0000,0000,,I leave Shiin to you.\NFind and stop him, no matter what.
+Dialogue: 0,0:17:06.10,0:17:07.94,Default,,0000,0000,0000,,You… This…?
+Dialogue: 0,0:17:08.51,0:17:09.84,Default,,0000,0000,0000,,This is goodbye.
+Dialogue: 0,0:17:10.54,0:17:13.51,Default,,0000,0000,0000,,Somebody has to blow up\Nthe Letter Bombs inside…
+Dialogue: 0,0:17:14.71,0:17:16.18,Default,,0000,0000,0000,,If you do that, you’ll…!
+Dialogue: 0,0:17:16.65,0:17:20.88,Default,,0000,0000,0000,,Thanks to you, my life has\N taken on more meaning…
+Dialogue: 0,0:17:29.53,0:17:30.89,Default,,0000,0000,0000,,What’s that sound?
+Dialogue: 0,0:17:31.56,0:17:34.90,Default,,0000,0000,0000,,There are intermittent explosions\Noccurring upriver…
+Dialogue: 0,0:17:35.30,0:17:38.50,Default,,0000,0000,0000,,The village will be engulfed in\Na mudslide if the dam breaks!
+Dialogue: 0,0:17:38.57,0:17:39.40,Default,,0000,0000,0000,,No…!
+Dialogue: 0,0:17:39.97,0:17:40.87,Default,,0000,0000,0000,,Neji…
+Dialogue: 0,0:17:56.22,0:17:57.25,Default,,0000,0000,0000,,It’s coming!
+Dialogue: 0,0:18:12.10,0:18:13.14,Default,,0000,0000,0000,,Goodbye…
+Dialogue: 0,0:18:13.84,0:18:14.64,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:18:20.01,0:18:20.88,Default,,0000,0000,0000,,Menma!
+Dialogue: 0,0:18:26.38,0:18:28.22,Default,,0000,0000,0000,,Wh-What happened…?
+Dialogue: 0,0:18:29.39,0:18:32.29,Default,,0000,0000,0000,,It seems the crumbled mountain\N stopped the mudslide…
+Dialogue: 0,0:18:32.89,0:18:35.03,Default,,0000,0000,0000,,Then, that means the village is saved?
+Dialogue: 0,0:18:35.66,0:18:36.26,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:18:36.43,0:18:38.30,Default,,0000,0000,0000,,– Thank goodness!\N– That’s a relief…
+Dialogue: 0,0:18:52.84,0:18:55.88,Default,,0000,0000,0000,,H-How can that be?!
+Dialogue: 0,0:18:56.35,0:18:58.55,Default,,0000,0000,0000,,Menma!!
+Dialogue: 0,0:19:06.89,0:19:08.23,Default,,0000,0000,0000,,That jerk…!
+Dialogue: 0,0:19:08.59,0:19:11.60,Default,,0000,0000,0000,,He won’t get away!\NShadow Clone Jutsu!
+Dialogue: 0,0:19:14.90,0:19:15.93,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:19:17.63,0:19:20.07,Default,,0000,0000,0000,,Interfering with our plan!
+Dialogue: 0,0:19:24.34,0:19:26.14,Default,,0000,0000,0000,,You think such a Jutsu will work\N on me… Huh?!
+Dialogue: 0,0:19:31.48,0:19:32.52,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:19:35.49,0:19:38.05,Default,,0000,0000,0000,,I’ll stop you in Menma’s place!
+Dialogue: 0,0:19:39.52,0:19:40.19,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:40.89,0:19:42.06,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:19:55.97,0:19:58.14,Default,,0000,0000,0000,,He sacrificed his life to save\N the village, huh…?
+Dialogue: 0,0:19:59.18,0:20:02.58,Default,,0000,0000,0000,,No matter what his past was,\Nhe was a good guy at heart…
+Dialogue: 0,0:20:03.05,0:20:04.08,Default,,0000,0000,0000,,Mister…
+Dialogue: 0,0:20:05.98,0:20:07.72,Default,,0000,0000,0000,,I wanted to say a word of apology.
+Dialogue: 0,0:20:08.89,0:20:12.22,Default,,0000,0000,0000,,Not being able to remember\Nanything until the end
+Dialogue: 0,0:20:12.26,0:20:15.06,Default,,0000,0000,0000,,might have been salvation for him…
+Dialogue: 0,0:20:28.41,0:20:32.68,Default,,0000,0000,0000,,It was a promise, right?\NTo eat this with you.
+Dialogue: 0,0:20:33.04,0:20:35.58,Default,,0000,0000,0000,,You don’t need\Nto say anything to him?
+Dialogue: 0,0:20:35.95,0:20:39.32,Default,,0000,0000,0000,,He’ll be fine if he has an appetite.\NI know how he is.
+Dialogue: 0,0:20:39.65,0:20:42.35,Default,,0000,0000,0000,,He’ll overcome it on his own\Nas time passes.
+Dialogue: 0,0:20:43.02,0:20:47.09,Default,,0000,0000,0000,,For a while he’ll probably remember\Neach time he eats ramen…
+Dialogue: 0,0:20:47.89,0:20:48.89,Default,,0000,0000,0000,,That’s fine.
+Dialogue: 0,0:20:49.39,0:20:51.90,Default,,0000,0000,0000,,People can get stronger\Nprecisely because
+Dialogue: 0,0:20:52.10,0:20:53.53,Default,,0000,0000,0000,,they have feelings\Nthat are never forgotten…
+Dialogue: 0,0:20:54.73,0:20:56.60,Default,,0000,0000,0000,,That’s what’s called growth.
+Dialogue: 0,0:21:03.11,0:21:06.18,Default,,0000,0000,0000,,Damn… This is good!
+Dialogue: 0,0:21:13.98,0:21:14.88,Default,,0000,0000,0000,,Menma…
+Dialogue: 0,0:21:19.56,0:21:23.89,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.89,0:21:30.20,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.74,0:21:39.94,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.98,0:21:44.68,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.71,0:21:49.59,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:49.65,0:21:54.42,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:54.49,0:21:59.40,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:59.43,0:22:03.77,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.80,0:22:08.10,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:08.14,0:22:15.58,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:15.65,0:22:19.48,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:19.52,0:22:24.79,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.85,0:22:28.89,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.89,0:22:33.80,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.90,0:22:38.44,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:38.47,0:22:44.61,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:51.31,0:22:53.45,Default,,0000,0000,0000,,The Village Hidden in the Sand\Nrequested an auxiliary force?
+Dialogue: 0,0:22:53.65,0:22:55.72,Default,,0000,0000,0000,,Ones who call themselves\Nthe Four Celestials
+Dialogue: 0,0:22:55.75,0:22:57.82,Default,,0000,0000,0000,,took one of Sand Village’s Ninja\N candidates as a hostage
+Dialogue: 0,0:22:57.89,0:22:59.79,Default,,0000,0000,0000,,and escaped towards\Nthe Land of Fire.
+Dialogue: 0,0:23:00.39,0:23:01.96,Default,,0000,0000,0000,,Presently, Gaara and others\Nare chasing them.
+Dialogue: 0,0:23:02.03,0:23:03.93,Default,,0000,0000,0000,,That means an ambush, doesn’t it?
+Dialogue: 0,0:23:04.09,0:23:05.53,Default,,0000,0000,0000,,I will leave the strategy up to you.
+Dialogue: 0,0:23:05.76,0:23:09.33,Default,,0000,0000,0000,,Take some Genin you can use\Nand leave within half an hour.
+Dialogue: 0,0:23:09.40,0:23:10.80,Default,,0000,0000,0000,,– That’s all.\N– Hold on please.
+Dialogue: 0,0:23:10.83,0:23:11.47,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:23:11.87,0:23:12.87,Default,,0000,0000,0000,,Let me borrow Sakura.
+Dialogue: 0,0:23:13.50,0:23:16.77,Default,,0000,0000,0000,,Next time: “The Targeted Shukaku”

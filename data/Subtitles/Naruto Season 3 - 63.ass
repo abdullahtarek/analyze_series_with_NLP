@@ -1,0 +1,303 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.60,0:00:09.77,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.89,0:00:18.02,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.27,0:00:20.31,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.27,0:00:27.02,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.06,0:00:30.56,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.77,0:00:34.27,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.69,0:00:37.94,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.98,0:00:45.56,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.60,0:00:54.81,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.85,0:01:02.89,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:03.02,0:01:09.89,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.90,0:01:18.02,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.35,0:01:26.89,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.89,0:01:28.89,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:50.52,0:01:56.48,Default,,0000,0000,0000,,Hit it or Quit it:\NThe Final Rounds Get Complicated!
+Dialogue: 0,0:02:07.27,0:02:07.90,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:02:07.94,0:02:09.73,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:02:13.40,0:02:17.85,Default,,0000,0000,0000,,So that fox kid can fight like this…
+Dialogue: 0,0:02:28.19,0:02:29.44,Default,,0000,0000,0000,,That was awesome!
+Dialogue: 0,0:02:29.89,0:02:30.89,Default,,0000,0000,0000,,Well done!
+Dialogue: 0,0:02:31.56,0:02:32.98,Default,,0000,0000,0000,,That was a great fight!
+Dialogue: 0,0:02:44.94,0:02:46.15,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:02:48.69,0:02:51.44,Default,,0000,0000,0000,,And he still has the energy\Nto run around…
+Dialogue: 0,0:02:51.65,0:02:54.89,Default,,0000,0000,0000,,Man… He’s got crazy stamina that guy…
+Dialogue: 0,0:02:56.89,0:02:57.94,Default,,0000,0000,0000,,That Naruto…
+Dialogue: 0,0:02:58.35,0:02:59.89,Default,,0000,0000,0000,,He keeps getting stronger…
+Dialogue: 0,0:03:00.35,0:03:02.10,Default,,0000,0000,0000,,He did it…that kid.
+Dialogue: 0,0:03:02.40,0:03:04.73,Default,,0000,0000,0000,,Yeah! He’s on the right track!
+Dialogue: 0,0:03:05.27,0:03:06.77,Default,,0000,0000,0000,,And he’s a little cute…
+Dialogue: 0,0:03:09.77,0:03:11.15,Default,,0000,0000,0000,,Something about it…
+Dialogue: 0,0:03:11.40,0:03:12.81,Default,,0000,0000,0000,,I’m envious of you…
+Dialogue: 0,0:03:13.81,0:03:17.89,Default,,0000,0000,0000,,Watching your battle makes me think\Nthat I have to work really hard too…
+Dialogue: 0,0:03:18.44,0:03:20.02,Default,,0000,0000,0000,,That’s amazing, you know?
+Dialogue: 0,0:03:24.89,0:03:29.15,Default,,0000,0000,0000,,He won. Is it for real?
+Dialogue: 0,0:03:29.56,0:03:33.89,Default,,0000,0000,0000,,I thought he was the same as me,\Nin the not going anywhere class…
+Dialogue: 0,0:03:34.31,0:03:35.60,Default,,0000,0000,0000,,Not going anywhere?
+Dialogue: 0,0:03:35.89,0:03:37.98,Default,,0000,0000,0000,,Now people are squealing...
+Dialogue: 0,0:03:38.02,0:03:39.90,Default,,0000,0000,0000,,Looks like he’s part of the group\Nthat’s going somewhere.
+Dialogue: 0,0:03:40.10,0:03:42.60,Default,,0000,0000,0000,,Maybe I couldn’t beat him…
+Dialogue: 0,0:03:43.10,0:03:46.60,Default,,0000,0000,0000,,This is really bad.\Nlt kinda depresses me…
+Dialogue: 0,0:03:46.77,0:03:50.56,Default,,0000,0000,0000,,To retain himself and draw out\Nthe Chakras of the Nine-Tailed Fox…
+Dialogue: 0,0:03:50.65,0:03:54.89,Default,,0000,0000,0000,,Yeah… Most of the Leaf Village people\Nhere are surprised.
+Dialogue: 0,0:03:55.89,0:03:57.44,Default,,0000,0000,0000,,That Naruto…
+Dialogue: 0,0:03:57.48,0:04:02.10,Default,,0000,0000,0000,,When did he learn to control the strength\Nof Nine-Tailed Fox to that extent?
+Dialogue: 0,0:04:08.35,0:04:11.40,Default,,0000,0000,0000,,Even a bird who gets caught,\Nonce it learns how,
+Dialogue: 0,0:04:11.44,0:04:15.02,Default,,0000,0000,0000,,will open the lid of its basket\Nwith its own beak.
+Dialogue: 0,0:04:19.52,0:04:23.98,Default,,0000,0000,0000,,He won't give up, for he wants to\Nfly freely in the sky again.
+Dialogue: 0,0:04:33.10,0:04:35.52,Default,,0000,0000,0000,,This time you lost!
+Dialogue: 0,0:04:44.69,0:04:45.89,Default,,0000,0000,0000,,Father…
+Dialogue: 0,0:04:48.10,0:04:50.89,Default,,0000,0000,0000,,It’s okay, there’s no damage\Nto his internal organs.
+Dialogue: 0,0:04:51.15,0:04:53.89,Default,,0000,0000,0000,,It seems like his Chakra\Nis almost used up.
+Dialogue: 0,0:04:55.65,0:04:59.40,Default,,0000,0000,0000,,You are not the only one special.
+Dialogue: 0,0:04:59.81,0:05:03.02,Default,,0000,0000,0000,,Why do you act against\Nyour fate that much?!
+Dialogue: 0,0:05:03.69,0:05:07.85,Default,,0000,0000,0000,,Because I was called a failure…
+Dialogue: 0,0:05:08.15,0:05:11.89,Default,,0000,0000,0000,,Those who become Hokage\Nare born to that fate.
+Dialogue: 0,0:05:12.23,0:05:14.69,Default,,0000,0000,0000,,So what?!
+Dialogue: 0,0:05:19.89,0:05:21.10,Default,,0000,0000,0000,,Lord Hyuga!
+Dialogue: 0,0:05:23.06,0:05:26.85,Default,,0000,0000,0000,,I’m sorry but…\NCould you step out for a moment?
+Dialogue: 0,0:05:27.89,0:05:29.65,Default,,0000,0000,0000,,B-But…
+Dialogue: 0,0:05:29.81,0:05:31.15,Default,,0000,0000,0000,,It won’t take long.
+Dialogue: 0,0:05:31.52,0:05:32.65,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:05:43.60,0:05:45.44,Default,,0000,0000,0000,,What do you need from me?
+Dialogue: 0,0:05:46.31,0:05:47.73,Default,,0000,0000,0000,,That day…
+Dialogue: 0,0:05:49.52,0:05:52.69,Default,,0000,0000,0000,,I came to tell you the truth…\Nabout that day.
+Dialogue: 0,0:05:53.89,0:05:54.94,Default,,0000,0000,0000,,That day…?
+Dialogue: 0,0:06:22.98,0:06:27.19,Default,,0000,0000,0000,,At that time, I intended to die!
+Dialogue: 0,0:06:29.89,0:06:32.40,Default,,0000,0000,0000,,W-What are you talking about?!
+Dialogue: 0,0:06:32.89,0:06:34.52,Default,,0000,0000,0000,,That day my father…
+Dialogue: 0,0:06:34.56,0:06:36.89,Default,,0000,0000,0000,,He was killed\Nas your body double!
+Dialogue: 0,0:06:46.15,0:06:49.77,Default,,0000,0000,0000,,The truth of that day…is here.
+Dialogue: 0,0:06:51.10,0:06:56.19,Default,,0000,0000,0000,,They're probably only excuses made\Nat the convenience of the head family.
+Dialogue: 0,0:06:56.89,0:07:00.89,Default,,0000,0000,0000,,The person you are now…\Nshould be able to understand.
+Dialogue: 0,0:07:07.89,0:07:08.89,Default,,0000,0000,0000,,This writing…!
+Dialogue: 0,0:07:15.52,0:07:20.56,Default,,0000,0000,0000,,Neji… I only have a little time left.
+Dialogue: 0,0:07:21.69,0:07:25.98,Default,,0000,0000,0000,,I want to use that limited time\Nto convey something to you…
+Dialogue: 0,0:07:26.65,0:07:28.23,Default,,0000,0000,0000,,Convey something to me?
+Dialogue: 0,0:07:31.56,0:07:33.52,Default,,0000,0000,0000,,The head of Ninjas from the\NLand of Lightning,
+Dialogue: 0,0:07:33.56,0:07:37.69,Default,,0000,0000,0000,,who was trying to kidnap Miss Hinata,\Nwas killed by Lord Hiashi…
+Dialogue: 0,0:07:38.06,0:07:43.02,Default,,0000,0000,0000,,But the Land of Lightning didn’t\Nacknowledge the abduction of Miss Hinata,
+Dialogue: 0,0:07:43.06,0:07:45.98,Default,,0000,0000,0000,,made only the killing\Nof the head Ninja a problem,
+Dialogue: 0,0:07:46.02,0:07:48.56,Default,,0000,0000,0000,,and made unreasonable demands.
+Dialogue: 0,0:07:51.19,0:07:52.89,Default,,0000,0000,0000,,It can’t be helped.
+Dialogue: 0,0:07:52.98,0:07:56.65,Default,,0000,0000,0000,,With my one life,\Nthe village can be saved…
+Dialogue: 0,0:07:58.35,0:08:01.89,Default,,0000,0000,0000,,Wait, Hiashi. Don’t be so hasty!
+Dialogue: 0,0:08:03.31,0:08:08.48,Default,,0000,0000,0000,,The Hyuga’s Kekkei Genkai\Nis an important strength of this land.
+Dialogue: 0,0:08:08.89,0:08:12.98,Default,,0000,0000,0000,,It is the duty of the head family\Nto protect it forever…
+Dialogue: 0,0:08:13.02,0:08:15.81,Default,,0000,0000,0000,,However, for the sake of that duty…
+Dialogue: 0,0:08:15.85,0:08:19.23,Default,,0000,0000,0000,,if we involve our land\Nin a desperate war…!
+Dialogue: 0,0:08:19.60,0:08:22.89,Default,,0000,0000,0000,,I understand that!\NThat’s why…
+Dialogue: 0,0:08:24.23,0:08:27.10,Default,,0000,0000,0000,,Isn’t that why\Nwe have branch families?
+Dialogue: 0,0:08:28.23,0:08:32.94,Default,,0000,0000,0000,,Hizashi’s corpse…\NWe’ll hand it over as your body double.
+Dialogue: 0,0:08:34.77,0:08:38.48,Default,,0000,0000,0000,,Hizashi too…\Nunderstands the situation.
+Dialogue: 0,0:08:44.69,0:08:49.65,Default,,0000,0000,0000,,However, what they want is\Nthe secret of the power of the Byakugan.
+Dialogue: 0,0:08:50.90,0:08:53.27,Default,,0000,0000,0000,,The point in time that\NHizashi becomes a corpse,
+Dialogue: 0,0:08:53.31,0:08:55.69,Default,,0000,0000,0000,,that power will be sealed.
+Dialogue: 0,0:08:56.40,0:08:59.31,Default,,0000,0000,0000,,I don’t believe that the Land of Lightning\Nwill consent to that.
+Dialogue: 0,0:09:00.98,0:09:03.35,Default,,0000,0000,0000,,That’s their true intent,
+Dialogue: 0,0:09:03.40,0:09:10.35,Default,,0000,0000,0000,,but the condition made by Lightning is to\N“Hand over Hiashi Hyuga’s dead body.”
+Dialogue: 0,0:09:10.89,0:09:12.89,Default,,0000,0000,0000,,We pretend that we agreed\Nto their terms,
+Dialogue: 0,0:09:12.89,0:09:16.73,Default,,0000,0000,0000,,and hand Hizashi,\Nwho is identical to you, over...
+Dialogue: 0,0:09:16.77,0:09:19.65,Default,,0000,0000,0000,,and they can’t pursue it\Nany further than that.
+Dialogue: 0,0:09:19.89,0:09:21.77,Default,,0000,0000,0000,,B-But…
+Dialogue: 0,0:09:25.19,0:09:28.89,Default,,0000,0000,0000,,Hiashi… The time has come…
+Dialogue: 0,0:09:29.35,0:09:33.65,Default,,0000,0000,0000,,Your predecessors have done the same\Nto protect the power of Hyuga clan.
+Dialogue: 0,0:09:34.77,0:09:38.90,Default,,0000,0000,0000,,Even siblings…\Nhave the heart to write each other off.
+Dialogue: 0,0:09:41.19,0:09:45.89,Default,,0000,0000,0000,,That is the fate of the head family.
+Dialogue: 0,0:09:46.15,0:09:51.40,Default,,0000,0000,0000,,And this…is the destiny of\Nones born into Hyuga!
+Dialogue: 0,0:09:53.52,0:09:56.89,Default,,0000,0000,0000,,Where has Lord Hiashi,\Nwho is always bullish, go?
+Dialogue: 0,0:09:57.69,0:10:00.60,Default,,0000,0000,0000,,The scale of this issue is different\Nfrom the ones in the past!
+Dialogue: 0,0:10:00.89,0:10:01.98,Default,,0000,0000,0000,,It’s not that easy…
+Dialogue: 0,0:10:12.02,0:10:16.44,Default,,0000,0000,0000,,H-Hizashi…you…
+Dialogue: 0,0:10:16.89,0:10:19.56,Default,,0000,0000,0000,,Please…let me go.
+Dialogue: 0,0:10:22.89,0:10:28.35,Default,,0000,0000,0000,,You… You…have Neji.
+Dialogue: 0,0:10:28.90,0:10:32.89,Default,,0000,0000,0000,,Why do you choose death…\Nfor the head family?!
+Dialogue: 0,0:10:33.52,0:10:34.81,Default,,0000,0000,0000,,That’s not so!
+Dialogue: 0,0:10:37.44,0:10:39.98,Default,,0000,0000,0000,,I have been resenting\Nthe head family.
+Dialogue: 0,0:10:40.69,0:10:43.06,Default,,0000,0000,0000,,To tell the truth\Neven now I’m bitter.
+Dialogue: 0,0:10:43.56,0:10:45.02,Default,,0000,0000,0000,,That’s why…
+Dialogue: 0,0:10:45.56,0:10:52.27,Default,,0000,0000,0000,,I want to die protecting you as\N“my brother,” not as the head family.
+Dialogue: 0,0:10:53.40,0:10:59.44,Default,,0000,0000,0000,,It’s the first time I’ve had\Nthe freedom to choose.
+Dialogue: 0,0:11:00.89,0:11:05.27,Default,,0000,0000,0000,,I’ve only shown Neji my ugly side.
+Dialogue: 0,0:11:05.98,0:11:11.19,Default,,0000,0000,0000,,However, now I’ve come here\Nand finally know my own intentions.
+Dialogue: 0,0:11:13.27,0:11:16.52,Default,,0000,0000,0000,,So please tell Neji…
+Dialogue: 0,0:11:16.60,0:11:21.31,Default,,0000,0000,0000,,I-I wasn’t killed to protect\Nthe head family…
+Dialogue: 0,0:11:21.44,0:11:26.73,Default,,0000,0000,0000,,but to protect my siblings,\Nfamily and the land…
+Dialogue: 0,0:11:26.77,0:11:29.89,Default,,0000,0000,0000,,by my own will I chose death!
+Dialogue: 0,0:11:36.98,0:11:42.44,Default,,0000,0000,0000,,T-To choose death…\Nyou call that freedom…?
+Dialogue: 0,0:11:44.27,0:11:45.69,Default,,0000,0000,0000,,Big brother…
+Dialogue: 0,0:11:46.40,0:11:51.69,Default,,0000,0000,0000,,Once, just this once,\NI wanted to defy the fate of Hyuga.
+Dialogue: 0,0:11:52.27,0:11:55.31,Default,,0000,0000,0000,,I wanted to choose my own fate.
+Dialogue: 0,0:11:56.65,0:11:58.06,Default,,0000,0000,0000,,That’s all.
+Dialogue: 0,0:12:02.56,0:12:05.31,Default,,0000,0000,0000,,Overcome your own fate, Neji…
+Dialogue: 0,0:12:05.94,0:12:10.40,Default,,0000,0000,0000,,Fate is something you work out\Nwith your own hands.
+Dialogue: 0,0:12:11.27,0:12:12.52,Default,,0000,0000,0000,,Father…
+Dialogue: 0,0:12:15.19,0:12:17.52,Default,,0000,0000,0000,,This is…the truth!
+Dialogue: 0,0:12:20.31,0:12:21.89,Default,,0000,0000,0000,,I’m sorry!
+Dialogue: 0,0:12:30.77,0:12:34.35,Default,,0000,0000,0000,,Please…raise your head.
+Dialogue: 0,0:12:45.73,0:12:46.56,Default,,0000,0000,0000,,Father…
+Dialogue: 0,0:12:47.27,0:12:54.02,Default,,0000,0000,0000,,I wonder if a person’s destiny is\Nonly floating like a cloud in a fixed current…
+Dialogue: 0,0:12:54.85,0:12:59.48,Default,,0000,0000,0000,,Or is a person able to ride\Non the current that he chooses.
+Dialogue: 0,0:12:59.98,0:13:01.89,Default,,0000,0000,0000,,I don’t understand it well yet.
+Dialogue: 0,0:13:02.52,0:13:05.89,Default,,0000,0000,0000,,Whichever, the end point\Nmight still be the same…
+Dialogue: 0,0:13:06.73,0:13:09.06,Default,,0000,0000,0000,,Just, when the choice is the latter…
+Dialogue: 0,0:13:09.23,0:13:11.89,Default,,0000,0000,0000,,people turn toward the goal of\Nliving and work hard toward it.
+Dialogue: 0,0:13:11.98,0:13:15.65,Default,,0000,0000,0000,,And those who hold that\Nare really strong.
+Dialogue: 0,0:13:16.10,0:13:18.89,Default,,0000,0000,0000,,I feel like I finally understand,\Nthrough this battle…
+Dialogue: 0,0:13:21.02,0:13:22.89,Default,,0000,0000,0000,,And… father…
+Dialogue: 0,0:13:23.44,0:13:25.60,Default,,0000,0000,0000,,I have only one goal…
+Dialogue: 0,0:13:27.02,0:13:30.69,Default,,0000,0000,0000,,I want to become stronger,\Nso I won’t lose to anyone.
+Dialogue: 0,0:13:32.89,0:13:34.65,Default,,0000,0000,0000,,That’s how I feel now.
+Dialogue: 0,0:13:36.35,0:13:42.19,Default,,0000,0000,0000,,Father…I see many birds flying.\NAnd they seem to be enjoying themselves.
+Dialogue: 0,0:13:53.85,0:13:55.23,Default,,0000,0000,0000,,It’s buzzing.
+Dialogue: 0,0:13:55.27,0:13:57.77,Default,,0000,0000,0000,,That’s because it was a good battle…
+Dialogue: 0,0:13:58.81,0:14:01.56,Default,,0000,0000,0000,,Certainly, there’s that too, but…
+Dialogue: 0,0:14:02.89,0:14:09.23,Default,,0000,0000,0000,,It’s likely that, for the curious heads\Nof Ninja and the feudal lords,
+Dialogue: 0,0:14:09.27,0:14:12.60,Default,,0000,0000,0000,,there is no match they look forward to\Nmore than this next match.
+Dialogue: 0,0:14:15.81,0:14:20.48,Default,,0000,0000,0000,,By the way, it seems that\Nhe wasn’t seen at the opening ceremony…
+Dialogue: 0,0:14:20.89,0:14:23.27,Default,,0000,0000,0000,,He’s arrived here already, hasn’t he?
+Dialogue: 0,0:14:27.89,0:14:30.19,Default,,0000,0000,0000,,There’s been no news of Sasuke.
+Dialogue: 0,0:14:30.77,0:14:32.40,Default,,0000,0000,0000,,And there’s the issue of Orochimaru.
+Dialogue: 0,0:14:33.06,0:14:35.56,Default,,0000,0000,0000,,Before everyone starts to make noise,\Nwe should disqualify him…
+Dialogue: 0,0:14:39.35,0:14:43.06,Default,,0000,0000,0000,,What’s going on?!\NHurry up and start the next match!
+Dialogue: 0,0:14:43.10,0:14:44.89,Default,,0000,0000,0000,,How long are you going to\Nmake us wait!
+Dialogue: 0,0:14:44.90,0:14:46.56,Default,,0000,0000,0000,,Before night falls!
+Dialogue: 0,0:14:48.35,0:14:51.60,Default,,0000,0000,0000,,I wonder what’s going on\Nwith the next match?
+Dialogue: 0,0:14:51.65,0:14:53.48,Default,,0000,0000,0000,,Is Sasuke here?
+Dialogue: 0,0:14:55.02,0:14:56.19,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:14:57.23,0:15:00.98,Default,,0000,0000,0000,,That guy…\NWhat in the world is he doing?!
+Dialogue: 0,0:15:01.48,0:15:02.77,Default,,0000,0000,0000,,Is he planning\Nnot to show up?
+Dialogue: 0,0:15:03.77,0:15:06.48,Default,,0000,0000,0000,,A wise man never courts danger…
+Dialogue: 0,0:15:07.02,0:15:08.48,Default,,0000,0000,0000,,A wise judgement…is it?
+Dialogue: 0,0:15:13.77,0:15:15.40,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:15:15.89,0:15:19.40,Default,,0000,0000,0000,,He’ll definitely come! Believe it!
+Dialogue: 0,0:15:31.89,0:15:35.35,Default,,0000,0000,0000,,But seriously, what is he doing?
+Dialogue: 0,0:15:35.65,0:15:38.89,Default,,0000,0000,0000,,Keep this up and he…\Nhe’ll be disqualified.
+Dialogue: 0,0:15:40.48,0:15:41.89,Default,,0000,0000,0000,,There’s no choice…
+Dialogue: 0,0:15:43.77,0:15:46.56,Default,,0000,0000,0000,,Sasuke is…disqualified.
+Dialogue: 0,0:15:46.65,0:15:47.27,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:47.89,0:15:50.69,Default,,0000,0000,0000,,Sasuke Uchiha is…disqualified?
+Dialogue: 0,0:15:51.44,0:15:53.89,Default,,0000,0000,0000,,It has to be done.
+Dialogue: 0,0:15:56.10,0:15:57.89,Default,,0000,0000,0000,,What in the world are\Nwe going to do?
+Dialogue: 0,0:15:57.98,0:16:00.77,Default,,0000,0000,0000,,If that guy doesn’t show up,\Nour plan of strategy…
+Dialogue: 0,0:16:00.89,0:16:02.69,Default,,0000,0000,0000,,This isn’t good…
+Dialogue: 0,0:16:06.65,0:16:08.40,Default,,0000,0000,0000,,Could he have…?
+Dialogue: 0,0:16:09.85,0:16:11.89,Default,,0000,0000,0000,,Where are you going, Gaara?
+Dialogue: 0,0:16:13.31,0:16:16.02,Default,,0000,0000,0000,,I’m going to confirm my existence…
+Dialogue: 0,0:16:16.89,0:16:19.10,Default,,0000,0000,0000,,Darn that Gaara…
+Dialogue: 0,0:16:19.85,0:16:21.89,Default,,0000,0000,0000,,I wonder if he really killed him…
+Dialogue: 0,0:16:32.15,0:16:34.19,Default,,0000,0000,0000,,Sasuke one more time…
+Dialogue: 0,0:16:37.65,0:16:38.56,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:16:39.31,0:16:42.52,Default,,0000,0000,0000,,It’s obvious that you’re there\Nstanding with the thirst for blood.
+Dialogue: 0,0:16:42.56,0:16:43.98,Default,,0000,0000,0000,,Why don’t you come out?
+Dialogue: 0,0:16:50.56,0:16:51.89,Default,,0000,0000,0000,,It’s you…
+Dialogue: 0,0:16:59.98,0:17:01.44,Default,,0000,0000,0000,,Lord Hokage…
+Dialogue: 0,0:17:01.69,0:17:05.48,Default,,0000,0000,0000,,I want you to consider waiting a little bit\Nfor Sasuke Uchiha’s disqualification.
+Dialogue: 0,0:17:07.23,0:17:08.81,Default,,0000,0000,0000,,I understand your point, but…
+Dialogue: 0,0:17:08.98,0:17:11.89,Default,,0000,0000,0000,,No matter how excellent the Shinobi,
+Dialogue: 0,0:17:11.90,0:17:14.89,Default,,0000,0000,0000,,to make light of time is not\Na qualification for Chunin.
+Dialogue: 0,0:17:15.19,0:17:17.60,Default,,0000,0000,0000,,If there’s no clear reason to satisfy
+Dialogue: 0,0:17:17.65,0:17:20.85,Default,,0000,0000,0000,,the heads of Ninja and feudal lords\Nwho are here,
+Dialogue: 0,0:17:20.89,0:17:22.77,Default,,0000,0000,0000,,there’s no reason to wait for him!
+Dialogue: 0,0:17:24.89,0:17:26.35,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:17:27.44,0:17:29.85,Default,,0000,0000,0000,,Well then, there is a sufficient reason.
+Dialogue: 0,0:17:31.56,0:17:33.27,Default,,0000,0000,0000,,Including myself…
+Dialogue: 0,0:17:33.31,0:17:36.56,Default,,0000,0000,0000,,most of the heads of Ninja and\Nfeudal lords that are here…
+Dialogue: 0,0:17:36.60,0:17:40.10,Default,,0000,0000,0000,,came here because\Nthey want to see the next match.
+Dialogue: 0,0:17:43.81,0:17:44.60,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:17:44.89,0:17:48.48,Default,,0000,0000,0000,,He’s the remaining survivor\Nof the “Uchiha.”
+Dialogue: 0,0:17:48.52,0:17:53.35,Default,,0000,0000,0000,,Land of the Wind too, absolutely,\Nis hoping for a bout with our Gaara.
+Dialogue: 0,0:17:55.40,0:17:56.23,Default,,0000,0000,0000,,Lord Hokage…
+Dialogue: 0,0:17:57.60,0:18:00.89,Default,,0000,0000,0000,,There’s no guarantee that\NSasuke will come but…
+Dialogue: 0,0:18:02.31,0:18:03.85,Default,,0000,0000,0000,,All right then…
+Dialogue: 0,0:18:04.65,0:18:08.69,Default,,0000,0000,0000,,We shall specially postpone\Nthis match and wait.
+Dialogue: 0,0:18:11.02,0:18:13.69,Default,,0000,0000,0000,,Lord Hokage! Really…
+Dialogue: 0,0:18:14.48,0:18:15.98,Default,,0000,0000,0000,,Inform so to the Proctor!
+Dialogue: 0,0:18:16.48,0:18:18.31,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:18:21.73,0:18:22.73,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:18:22.90,0:18:27.27,Default,,0000,0000,0000,,It’s rare for you to insist like that,\NLord Kazekage.
+Dialogue: 0,0:18:27.89,0:18:28.94,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:18:29.15,0:18:32.81,Default,,0000,0000,0000,,To show off the Shinobi’s qualities\Nof our village to the feudal lords…
+Dialogue: 0,0:18:32.85,0:18:35.31,Default,,0000,0000,0000,,there’s no better opponent\Nthan an Uchiha.
+Dialogue: 0,0:18:36.23,0:18:38.56,Default,,0000,0000,0000,,It’s a chance for us as well.
+Dialogue: 0,0:18:38.89,0:18:41.10,Default,,0000,0000,0000,,C’mon, what happened to the match?!
+Dialogue: 0,0:18:42.02,0:18:43.89,Default,,0000,0000,0000,,What happened to Uchiha?!
+Dialogue: 0,0:18:45.89,0:18:46.90,Default,,0000,0000,0000,,I understand…
+Dialogue: 0,0:18:50.69,0:18:56.35,Default,,0000,0000,0000,,Everyone! The candidate for the\Nnext battle has not arrived here!
+Dialogue: 0,0:18:56.73,0:19:02.35,Default,,0000,0000,0000,,We’ll briefly postpone this battle\Nand start the following battle ahead of it.
+Dialogue: 0,0:19:05.06,0:19:07.89,Default,,0000,0000,0000,,What is he doing…that Sasuke?
+Dialogue: 0,0:19:07.98,0:19:11.89,Default,,0000,0000,0000,,Great, so Sasuke didn’t get disqualified!
+Dialogue: 0,0:19:17.89,0:19:18.98,Default,,0000,0000,0000,,That’s good…
+Dialogue: 0,0:19:19.35,0:19:23.90,Default,,0000,0000,0000,,Hey! That means my match\Nis one match closer!
+Dialogue: 0,0:19:25.19,0:19:27.15,Default,,0000,0000,0000,,Then, on to the next pair!
+Dialogue: 0,0:19:27.69,0:19:30.85,Default,,0000,0000,0000,,Kankuro and Shino Aburame!\NCome down!
+Dialogue: 0,0:19:33.35,0:19:36.19,Default,,0000,0000,0000,,My match…doesn’t matter at all.
+Dialogue: 0,0:19:39.85,0:19:40.89,Default,,0000,0000,0000,,More importantly…
+Dialogue: 0,0:19:40.89,0:19:46.94,Default,,0000,0000,0000,,I'd rather not expose the Mechanism\Nof Crow to the enemy before the plan…
+Dialogue: 0,0:19:49.89,0:19:50.89,Default,,0000,0000,0000,,Proctor!
+Dialogue: 0,0:19:51.19,0:19:52.52,Default,,0000,0000,0000,,I abstain!
+Dialogue: 0,0:19:53.48,0:19:54.35,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:55.77,0:19:58.94,Default,,0000,0000,0000,,I abstain!\NPlease advance the matches!
+Dialogue: 0,0:20:13.15,0:20:17.69,Default,,0000,0000,0000,,Due to Kankuro’s abstention,\NShino Aburame wins by default!
+Dialogue: 0,0:20:18.10,0:20:19.19,Default,,0000,0000,0000,,What’s that all about?!
+Dialogue: 0,0:20:19.23,0:20:20.23,Default,,0000,0000,0000,,Have a proper match!
+Dialogue: 0,0:20:35.85,0:20:36.85,Default,,0000,0000,0000,,You are…?
+Dialogue: 0,0:20:37.10,0:20:38.52,Default,,0000,0000,0000,,It’s my turn, isn’t it?
+Dialogue: 0,0:20:38.89,0:20:41.31,Default,,0000,0000,0000,,It seems that you’re really fired up.
+Dialogue: 0,0:20:41.56,0:20:44.56,Default,,0000,0000,0000,,Okay, let’s go to the next match.
+Dialogue: 0,0:20:44.89,0:20:47.69,Default,,0000,0000,0000,,Hey! The last one, come down!
+Dialogue: 0,0:20:47.89,0:20:51.90,Default,,0000,0000,0000,,Hey! Hey! What are you doing,\Nfrivolously building things up?
+Dialogue: 0,0:20:52.56,0:20:57.73,Default,,0000,0000,0000,,I mean, why does only\Nmy match have to be modified?
+Dialogue: 0,0:20:57.89,0:21:00.48,Default,,0000,0000,0000,,Shikamaru Nara! You!
+Dialogue: 0,0:21:00.85,0:21:03.89,Default,,0000,0000,0000,,Damn…\Nlf it’s like this I’ll abstain too…
+Dialogue: 0,0:21:04.06,0:21:07.23,Default,,0000,0000,0000,,C’mon! Shikamaru, fight hard!
+Dialogue: 0,0:21:13.89,0:21:16.06,Default,,0000,0000,0000,,Damn that Naruto…
+Dialogue: 0,0:21:26.10,0:21:29.60,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:29.65,0:21:32.89,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.90,0:21:36.48,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:36.52,0:21:39.85,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:39.89,0:21:46.15,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:46.19,0:21:53.52,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:03.89,0:22:07.35,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:07.40,0:22:10.81,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:10.85,0:22:14.02,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:14.06,0:22:17.44,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:17.65,0:22:23.73,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:23.77,0:22:30.98,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:31.06,0:22:37.65,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:37.69,0:22:44.89,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:52.19,0:22:53.94,Default,,0000,0000,0000,,Go! Shikamaru!
+Dialogue: 0,0:22:53.98,0:22:56.69,Default,,0000,0000,0000,,It looks a bit strange that Shikamaru\Nis fighting in the Final Round.
+Dialogue: 0,0:22:56.73,0:23:00.77,Default,,0000,0000,0000,,He's good, firing up, burning up!\NThat's my teammate!
+Dialogue: 0,0:23:00.89,0:23:03.06,Default,,0000,0000,0000,,But, doesn't he seem spaced out\Nlooking at the sky?
+Dialogue: 0,0:23:03.10,0:23:06.89,Default,,0000,0000,0000,,He totally looks so ambitious.\NAll right, Shikamar!
+Dialogue: 0,0:23:06.89,0:23:09.81,Default,,0000,0000,0000,,Keep it up and 					attack hard!
+Dialogue: 0,0:23:10.15,0:23:13.98,Default,,0000,0000,0000,,Nex time, "Zero Motivation:\NThe Guy with Cloud Envy!"
+Dialogue: 0,0:23:14.10,0:23:16.65,Default,,0000,0000,0000,,Ino, your cheering is kinda scary.

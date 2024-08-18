@@ -1,0 +1,375 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.26,0:00:03.59,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.59,0:00:06.47,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.51,0:00:12.59,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.97,0:00:28.89,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.93,0:00:34.43,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.47,0:00:37.05,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.10,0:00:40.59,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.59,0:00:45.10,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.60,0:00:51.64,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.14,0:00:56.68,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.72,0:01:02.30,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.35,0:01:07.59,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.60,0:01:10.76,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.80,0:01:19.59,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:51.68,0:01:55.85,Default,,0000,0000,0000,,Wow. There’s a lot of new houses\Nbeing built around here.
+Dialogue: 0,0:01:56.14,0:01:58.55,Default,,0000,0000,0000,,I hear it’s been a bit of\Na construction boom recently.
+Dialogue: 0,0:01:59.05,0:02:00.76,Default,,0000,0000,0000,,Seems like a lot of the construction sites\Nare short-handed
+Dialogue: 0,0:02:00.80,0:02:03.43,Default,,0000,0000,0000,,and they’re hiring carpenters\Nfrom people outside of the country, too.
+Dialogue: 0,0:02:04.30,0:02:06.59,Default,,0000,0000,0000,,Even I know that.
+Dialogue: 0,0:02:11.05,0:02:12.26,Default,,0000,0000,0000,,Oh, Old Man Genno!
+Dialogue: 0,0:02:13.51,0:02:15.14,Default,,0000,0000,0000,,Oh… Naruto.
+Dialogue: 0,0:02:15.60,0:02:16.60,Default,,0000,0000,0000,,Who is he?
+Dialogue: 0,0:02:16.64,0:02:19.14,Default,,0000,0000,0000,,He’s a carpenter from the Land of Sand.
+Dialogue: 0,0:02:19.55,0:02:21.64,Default,,0000,0000,0000,,He likes ramen, and we bump\Ninto each other at Ichiraku.
+Dialogue: 0,0:02:23.35,0:02:25.47,Default,,0000,0000,0000,,How about we go there after this?
+Dialogue: 0,0:02:26.80,0:02:27.80,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:30.80,0:02:32.01,Default,,0000,0000,0000,,Here you go,\Nthanks for waiting!
+Dialogue: 0,0:02:32.22,0:02:33.47,Default,,0000,0000,0000,,Thank you for this meal!
+Dialogue: 0,0:02:33.59,0:02:34.64,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:02:39.51,0:02:42.47,Default,,0000,0000,0000,,Ichiraku’s ramen is the best, after all!
+Dialogue: 0,0:02:43.85,0:02:45.22,Default,,0000,0000,0000,,Isn’t it so? Isn’t it so?
+Dialogue: 0,0:02:45.97,0:02:47.51,Default,,0000,0000,0000,,I’m sorry, but can I have some water…?
+Dialogue: 0,0:02:47.97,0:02:48.97,Default,,0000,0000,0000,,Sure!
+Dialogue: 0,0:02:50.01,0:02:51.01,Default,,0000,0000,0000,,Thank you for this meal!
+Dialogue: 0,0:02:51.10,0:02:52.10,Default,,0000,0000,0000,,That was fast!
+Dialogue: 0,0:02:52.14,0:02:54.01,Default,,0000,0000,0000,,Are you full already?
+Dialogue: 0,0:02:54.43,0:02:56.68,Default,,0000,0000,0000,,No… Not really…
+Dialogue: 0,0:02:57.26,0:02:58.97,Default,,0000,0000,0000,,Then, I’ll give you mine.
+Dialogue: 0,0:02:59.89,0:03:01.26,Default,,0000,0000,0000,,Lucky!
+Dialogue: 0,0:03:02.47,0:03:04.05,Default,,0000,0000,0000,,Hey, Naruto!
+Dialogue: 0,0:03:04.59,0:03:06.59,Default,,0000,0000,0000,,The two of them are always like this.
+Dialogue: 0,0:03:06.89,0:03:09.59,Default,,0000,0000,0000,,They act as if they’re really\Ngrandfather and grandson.
+Dialogue: 0,0:03:10.18,0:03:12.68,Default,,0000,0000,0000,,Oh come on, Sakura,\Nstop being so harsh.
+Dialogue: 0,0:03:14.55,0:03:17.05,Default,,0000,0000,0000,,There’re lots of other people\Nwho complain. Like Grandma Tsunade.
+Dialogue: 0,0:03:17.30,0:03:19.59,Default,,0000,0000,0000,,And there’s Shino, Ino, Kiba,\Nand Kakashi Sensei…
+Dialogue: 0,0:03:19.64,0:03:21.51,Default,,0000,0000,0000,,But I guess you're the harshest, Sakura.
+Dialogue: 0,0:03:21.59,0:03:22.59,Default,,0000,0000,0000,,Come on, Naruto!
+Dialogue: 0,0:03:22.76,0:03:24.60,Default,,0000,0000,0000,,That’s only because\Nyou’re always at fault!
+Dialogue: 0,0:03:24.64,0:03:28.18,Default,,0000,0000,0000,,Now, now, Sakura calm down.\NYou hair will turn gray… Ouch!
+Dialogue: 0,0:03:28.55,0:03:29.93,Default,,0000,0000,0000,,– Looks like it’s time\N– Just leave it and eat up already!
+Dialogue: 0,0:03:29.97,0:03:31.30,Default,,0000,0000,0000,,– I got to business…\N– But I got nothing left!
+Dialogue: 0,0:03:31.35,0:03:34.59,Default,,0000,0000,0000,,– Hey, hey.\N– Help me, Old Man Genno!
+Dialogue: 0,0:03:35.26,0:03:39.43,Default,,0000,0000,0000,,Crisis The Hidden Leaf 11 Gather
+Dialogue: 0,0:03:55.59,0:03:56.59,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:03:58.14,0:04:00.72,Default,,0000,0000,0000,,What is it? Fog?
+Dialogue: 0,0:04:03.93,0:04:06.35,Default,,0000,0000,0000,,Well, I guess it doesn’t matter…
+Dialogue: 0,0:04:22.72,0:04:23.72,Default,,0000,0000,0000,,Lady Tsunade.
+Dialogue: 0,0:04:24.59,0:04:27.14,Default,,0000,0000,0000,,I’m sorry to bother you\Nduring your sleep,
+Dialogue: 0,0:04:27.18,0:04:29.59,Default,,0000,0000,0000,,but the man that the Anbu Black Ops\Nhave had marked…
+Dialogue: 0,0:04:30.64,0:04:31.64,Default,,0000,0000,0000,,Has made his move?
+Dialogue: 0,0:04:32.47,0:04:33.72,Default,,0000,0000,0000,,He is currently on the run.
+Dialogue: 0,0:04:34.76,0:04:35.76,Default,,0000,0000,0000,,On the run?
+Dialogue: 0,0:04:36.59,0:04:38.10,Default,,0000,0000,0000,,Are you telling me even with\Nthe array of the Anbu Black Ops,
+Dialogue: 0,0:04:38.14,0:04:39.59,Default,,0000,0000,0000,,we still can’t catch him?
+Dialogue: 0,0:04:40.51,0:04:41.80,Default,,0000,0000,0000,,Who is he?
+Dialogue: 0,0:04:42.85,0:04:44.59,Default,,0000,0000,0000,,You must know his identity by now.
+Dialogue: 0,0:04:45.64,0:04:47.39,Default,,0000,0000,0000,,There was nobody in\Nthe recent Bingo Book
+Dialogue: 0,0:04:47.43,0:04:49.89,Default,,0000,0000,0000,,that fit his description,
+Dialogue: 0,0:04:49.93,0:04:52.39,Default,,0000,0000,0000,,but when we checked\Nan older Bingo Book…
+Dialogue: 0,0:04:56.85,0:04:57.85,Default,,0000,0000,0000,,Genno?
+Dialogue: 0,0:04:58.59,0:05:00.26,Default,,0000,0000,0000,,Genno the Trapper?
+Dialogue: 0,0:05:00.59,0:05:01.59,Default,,0000,0000,0000,,You do know of him?
+Dialogue: 0,0:05:02.59,0:05:04.59,Default,,0000,0000,0000,,He should be quite old by now.
+Dialogue: 0,0:05:05.18,0:05:06.89,Default,,0000,0000,0000,,I hadn’t heard his name in a while,
+Dialogue: 0,0:05:06.93,0:05:08.47,Default,,0000,0000,0000,,so I thought that\Nhe had already retired, but…
+Dialogue: 0,0:05:11.59,0:05:14.39,Default,,0000,0000,0000,,I never would have thought that\Nhe was infiltrating the Leaf Village.
+Dialogue: 0,0:05:19.59,0:05:22.39,Default,,0000,0000,0000,,I guess I can’t fight against old age.
+Dialogue: 0,0:05:24.39,0:05:28.97,Default,,0000,0000,0000,,No… I guess I should say this is just\Nwhat I expect of the Leaf Anbu Black Ops.
+Dialogue: 0,0:05:35.93,0:05:38.97,Default,,0000,0000,0000,,We want you to hand over the thing\Nyou took from the master carpenter’ house.
+Dialogue: 0,0:05:39.68,0:05:43.59,Default,,0000,0000,0000,,You think I would still be holding\Nonto that thing?
+Dialogue: 0,0:05:45.55,0:05:47.05,Default,,0000,0000,0000,,I've had a long life as a Shinobi…
+Dialogue: 0,0:05:47.47,0:05:50.01,Default,,0000,0000,0000,,I guess it wouldn’t be so bad to\Nclose the curtain at this time.
+Dialogue: 0,0:05:50.59,0:05:53.10,Default,,0000,0000,0000,,Though I regret that\NI won’t be able to see
+Dialogue: 0,0:05:53.14,0:05:54.60,Default,,0000,0000,0000,,the end of the Leaf Village\Nwith my own eyes!
+Dialogue: 0,0:05:56.59,0:05:57.59,Default,,0000,0000,0000,,Paper Bombs!
+Dialogue: 0,0:05:57.59,0:05:58.59,Default,,0000,0000,0000,,Retreat!
+Dialogue: 0,0:06:44.80,0:06:46.18,Default,,0000,0000,0000,,Are you saying that someone
+Dialogue: 0,0:06:46.22,0:06:49.59,Default,,0000,0000,0000,,is planning a huge attack\Nagainst the Leaf Village?!
+Dialogue: 0,0:06:50.14,0:06:53.59,Default,,0000,0000,0000,,That would be the only reason\Nanyone would want those plans
+Dialogue: 0,0:06:53.59,0:06:55.59,Default,,0000,0000,0000,,besides carpentry purposes.
+Dialogue: 0,0:06:56.43,0:06:59.01,Default,,0000,0000,0000,,Genno’s last words suggest that as well.
+Dialogue: 0,0:06:59.68,0:07:02.97,Default,,0000,0000,0000,,It’s going to take some time\Nto decipher those plans,
+Dialogue: 0,0:07:03.01,0:07:05.26,Default,,0000,0000,0000,,but it’s too dangerous to depend on that.
+Dialogue: 0,0:07:05.59,0:07:08.01,Default,,0000,0000,0000,,The enemy may\Nattack us any minute.
+Dialogue: 0,0:07:09.89,0:07:13.47,Default,,0000,0000,0000,,Activate the S-Level Emergency\NSecurity Alert!
+Dialogue: 0,0:07:15.10,0:07:17.18,Default,,0000,0000,0000,,Leave the least amount of\Nmen necessary here,
+Dialogue: 0,0:07:17.22,0:07:19.59,Default,,0000,0000,0000,,and all other men are to secure\Nthe border!
+Dialogue: 0,0:07:20.51,0:07:24.30,Default,,0000,0000,0000,,Attack anyone who tries to cross\Nthe border!
+Dialogue: 0,0:07:24.93,0:07:27.18,Default,,0000,0000,0000,,Don’t allow them to attack the village,\Nno matter what!
+Dialogue: 0,0:07:32.85,0:07:34.85,Default,,0000,0000,0000,,Such great weather!
+Dialogue: 0,0:07:35.05,0:07:36.05,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:07:36.64,0:07:38.10,Default,,0000,0000,0000,,Oh! Sakura!
+Dialogue: 0,0:07:40.10,0:07:42.18,Default,,0000,0000,0000,,That sound like a big pain in the ass.
+Dialogue: 0,0:07:42.89,0:07:47.80,Default,,0000,0000,0000,,I think you’ll be able to do it.\NThat is why we left you in the village.
+Dialogue: 0,0:07:48.76,0:07:51.68,Default,,0000,0000,0000,,At the very least, is there any way\Nthat we can get more people?
+Dialogue: 0,0:07:52.59,0:07:55.85,Default,,0000,0000,0000,,Under these circumstances,\Nwe can’t turn over more people to you.
+Dialogue: 0,0:07:56.47,0:07:58.76,Default,,0000,0000,0000,,They’re the greatest line-up for you,\Naren’t they?
+Dialogue: 0,0:08:00.22,0:08:01.64,Default,,0000,0000,0000,,The greatest…huh?
+Dialogue: 0,0:08:05.76,0:08:09.76,Default,,0000,0000,0000,,Fog? Last night’s weather didn’t seem\Nlike it was going to be foggy.
+Dialogue: 0,0:08:10.60,0:08:13.85,Default,,0000,0000,0000,,How strange…\NWas it all a dream?
+Dialogue: 0,0:08:19.35,0:08:21.85,Default,,0000,0000,0000,,Doesn’t it seem like\Nwe’re really low on people?
+Dialogue: 0,0:08:22.39,0:08:23.76,Default,,0000,0000,0000,,That’s what I was thinking, too.
+Dialogue: 0,0:08:24.59,0:08:25.76,Default,,0000,0000,0000,,From the looks of it,
+Dialogue: 0,0:08:25.80,0:08:28.26,Default,,0000,0000,0000,,the village must be\Nunder special security alert.
+Dialogue: 0,0:08:28.59,0:08:32.64,Default,,0000,0000,0000,,What?! For real?!\NI didn’t notice it!
+Dialogue: 0,0:08:32.76,0:08:35.59,Default,,0000,0000,0000,,You should notice these kinds of things.\NYou’re a Ninja.
+Dialogue: 0,0:08:35.59,0:08:37.97,Default,,0000,0000,0000,,But if we’re in a state of emergency,
+Dialogue: 0,0:08:38.01,0:08:39.39,Default,,0000,0000,0000,,it’s a huge deal for the village,\Nisn’t it?
+Dialogue: 0,0:08:39.59,0:08:42.35,Default,,0000,0000,0000,,Why haven’t they told us anything?
+Dialogue: 0,0:08:42.59,0:08:45.43,Default,,0000,0000,0000,,That’s why Lady Tsunade is calling us.
+Dialogue: 0,0:08:48.43,0:08:49.43,Default,,0000,0000,0000,,Come in.
+Dialogue: 0,0:08:50.47,0:08:52.59,Default,,0000,0000,0000,,Lady Tsunade, I brought Naruto.
+Dialogue: 0,0:08:55.76,0:08:56.76,Default,,0000,0000,0000,,Shikamaru…
+Dialogue: 0,0:08:58.10,0:09:00.51,Default,,0000,0000,0000,,So you must’ve been left out, too.
+Dialogue: 0,0:09:01.01,0:09:03.35,Default,,0000,0000,0000,,Huh? What are you taking about?
+Dialogue: 0,0:09:04.14,0:09:05.22,Default,,0000,0000,0000,,Nothing…
+Dialogue: 0,0:09:05.47,0:09:09.01,Default,,0000,0000,0000,,Oh, hey Shikamaru.\NAbout last night’s weird fog…
+Dialogue: 0,0:09:09.26,0:09:10.59,Default,,0000,0000,0000,,Did you see it?
+Dialogue: 0,0:09:10.59,0:09:13.01,Default,,0000,0000,0000,,Stop it.\NYou were just dreaming.
+Dialogue: 0,0:09:13.47,0:09:14.89,Default,,0000,0000,0000,,There was no fog.
+Dialogue: 0,0:09:15.55,0:09:16.76,Default,,0000,0000,0000,,See. I told you…
+Dialogue: 0,0:09:17.55,0:09:18.60,Default,,0000,0000,0000,,That was a smoke screen.
+Dialogue: 0,0:09:19.35,0:09:20.35,Default,,0000,0000,0000,,Smoke screen?
+Dialogue: 0,0:09:20.89,0:09:22.76,Default,,0000,0000,0000,,I’ll explain once\Neveryone gets here.
+Dialogue: 0,0:09:23.59,0:09:25.51,Default,,0000,0000,0000,,– Huh? 					– Naruto, Sakura…
+Dialogue: 0,0:09:26.05,0:09:27.59,Default,,0000,0000,0000,,The reason why we left you out of
+Dialogue: 0,0:09:27.59,0:09:29.89,Default,,0000,0000,0000,,the S-Level Emergency\NSecurity Alert unit
+Dialogue: 0,0:09:29.93,0:09:31.93,Default,,0000,0000,0000,,is because we wanted you\Nto work under Shikamaru
+Dialogue: 0,0:09:31.97,0:09:32.97,Default,,0000,0000,0000,,for a special mission.
+Dialogue: 0,0:09:33.39,0:09:34.39,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:34.43,0:09:35.76,Default,,0000,0000,0000,,Well, that’s the case.
+Dialogue: 0,0:09:36.97,0:09:39.59,Default,,0000,0000,0000,,First, I want you to gather\Nthe people I’m about to name.
+Dialogue: 0,0:10:00.89,0:10:03.43,Default,,0000,0000,0000,,Hey, calm down, Naruto!
+Dialogue: 0,0:10:03.47,0:10:05.80,Default,,0000,0000,0000,,But it’s already past the time\Nwe were supposed to gather!
+Dialogue: 0,0:10:06.30,0:10:09.22,Default,,0000,0000,0000,,Not quite. To be accurate,\Nwe still have twenty more seconds.
+Dialogue: 0,0:10:13.85,0:10:14.85,Default,,0000,0000,0000,,Seems like he’s here.
+Dialogue: 0,0:10:19.18,0:10:21.89,Default,,0000,0000,0000,,Oh? Everyone’s already here?
+Dialogue: 0,0:10:22.59,0:10:25.18,Default,,0000,0000,0000,,No matter how you look at it,\Nyou’re the last one!
+Dialogue: 0,0:10:26.22,0:10:28.85,Default,,0000,0000,0000,,Everyone’s here now.\NThen let’s begin.
+Dialogue: 0,0:10:29.59,0:10:31.51,Default,,0000,0000,0000,,I’m sure that\Nyou all have already noticed.
+Dialogue: 0,0:10:31.55,0:10:35.26,Default,,0000,0000,0000,,The village is currently under\Nthe S-Level Emergency Security Alert.
+Dialogue: 0,0:10:35.93,0:10:37.51,Default,,0000,0000,0000,,It all started when…
+Dialogue: 0,0:10:37.55,0:10:39.05,Default,,0000,0000,0000,,The smoke screen last night, right?
+Dialogue: 0,0:10:39.85,0:10:41.59,Default,,0000,0000,0000,,You guys noticed it?
+Dialogue: 0,0:10:41.59,0:10:42.59,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:10:43.05,0:10:45.05,Default,,0000,0000,0000,,The bugs were being noisy…
+Dialogue: 0,0:10:45.59,0:10:48.30,Default,,0000,0000,0000,,Huh? I didn’t notice it.
+Dialogue: 0,0:10:48.35,0:10:50.30,Default,,0000,0000,0000,,You’re always so out of it!
+Dialogue: 0,0:10:51.30,0:10:53.43,Default,,0000,0000,0000,,SAME LEVEL AS CHOJI!\N		I didn’t notice it either…
+Dialogue: 0,0:10:53.59,0:10:55.97,Default,,0000,0000,0000,,WORSE THAN NARUTO!!\N		Could it be then that\N		I’m worse than Naruto?
+Dialogue: 0,0:10:56.01,0:10:58.59,Default,,0000,0000,0000,,Worse than Naruto… Worse than\NNaruto… Worse than Naruto…
+Dialogue: 0,0:10:58.60,0:11:01.18,Default,,0000,0000,0000,,So what was that?
+Dialogue: 0,0:11:01.64,0:11:03.97,Default,,0000,0000,0000,,It seemed like something involving\Nthe Anbu Black Ops.
+Dialogue: 0,0:11:04.01,0:11:05.14,Default,,0000,0000,0000,,So I stayed put…
+Dialogue: 0,0:11:05.55,0:11:08.59,Default,,0000,0000,0000,,Yeah, that’s correct.\NThe Anbu Black Ops were involved.
+Dialogue: 0,0:11:09.18,0:11:10.26,Default,,0000,0000,0000,,Just as I thought…
+Dialogue: 0,0:11:10.93,0:11:12.26,Default,,0000,0000,0000,,It was late last night.
+Dialogue: 0,0:11:12.72,0:11:16.80,Default,,0000,0000,0000,,A man that the Anbu Black Ops had\Nbeen marking for the past two weeks
+Dialogue: 0,0:11:16.85,0:11:19.55,Default,,0000,0000,0000,,had snuck into the home of\NLeaf Village’s top carpenter boss…
+Dialogue: 0,0:11:21.68,0:11:27.55,Default,,0000,0000,0000,,And he stole the plans of our village’s\Nimportant facilities from the secret safe.
+Dialogue: 0,0:11:28.14,0:11:29.35,Default,,0000,0000,0000,,Plans…?
+Dialogue: 0,0:11:30.30,0:11:31.59,Default,,0000,0000,0000,,So what’s so bad about that?
+Dialogue: 0,0:11:31.85,0:11:34.01,Default,,0000,0000,0000,,He just stole the plans\Nfor the facilities, right?
+Dialogue: 0,0:11:34.26,0:11:37.59,Default,,0000,0000,0000,,Just stole? You’re so…
+Dialogue: 0,0:11:38.55,0:11:39.59,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:11:40.64,0:11:43.59,Default,,0000,0000,0000,,For example, let’s say the plans for\Nthe fort that surrounds the village
+Dialogue: 0,0:11:43.59,0:11:44.72,Default,,0000,0000,0000,,fell into enemy hands…
+Dialogue: 0,0:11:46.55,0:11:49.89,Default,,0000,0000,0000,,By analyzing those plans in detail,
+Dialogue: 0,0:11:49.93,0:11:51.76,Default,,0000,0000,0000,,the enemy could figure out\Nthe most efficient way
+Dialogue: 0,0:11:51.80,0:11:53.55,Default,,0000,0000,0000,,to break into the village.
+Dialogue: 0,0:11:56.22,0:11:58.60,Default,,0000,0000,0000,,Now let’s say that there were\Nplans for Lady Tsunade’s mansion.
+Dialogue: 0,0:11:59.22,0:12:00.39,Default,,0000,0000,0000,,If you were to examine those plans,
+Dialogue: 0,0:12:00.43,0:12:04.10,Default,,0000,0000,0000,,you could find out how\Nto get the Lady Tsunade’s room.
+Dialogue: 0,0:12:04.76,0:12:07.59,Default,,0000,0000,0000,,And if the plans were to get\Ninto the hands of an assassin…
+Dialogue: 0,0:12:07.76,0:12:11.39,Default,,0000,0000,0000,,That’s really, really bad.
+Dialogue: 0,0:12:12.30,0:12:14.39,Default,,0000,0000,0000,,Last night’s smoke screen was…
+Dialogue: 0,0:12:14.43,0:12:17.05,Default,,0000,0000,0000,,something that suspect spread\Nas he was running away.
+Dialogue: 0,0:12:17.85,0:12:18.85,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:12:18.89,0:12:22.59,Default,,0000,0000,0000,,In the end, Anbu Black Ops cornered him\Nin the Western Forest…
+Dialogue: 0,0:12:23.59,0:12:25.59,Default,,0000,0000,0000,,He killed himself before\Nthey could get him to talk.
+Dialogue: 0,0:12:29.59,0:12:32.59,Default,,0000,0000,0000,,Unfortunately,\Nwhen he committed suicide,
+Dialogue: 0,0:12:32.60,0:12:34.60,Default,,0000,0000,0000,,he wasn't in possession\Nof the plans he had stolen.
+Dialogue: 0,0:12:36.01,0:12:38.85,Default,,0000,0000,0000,,If the plans have already fallen\Ninto the hands of the enemy…
+Dialogue: 0,0:12:40.26,0:12:42.39,Default,,0000,0000,0000,,it'd be a re-enactment of the nightmare of\Nthe Destruction of Leaf Village.
+Dialogue: 0,0:12:43.80,0:12:45.59,Default,,0000,0000,0000,,In order to prevent that from happening
+Dialogue: 0,0:12:45.59,0:12:48.30,Default,,0000,0000,0000,,The S-Level Emergency Security Alert\Nwas deployed this morning.
+Dialogue: 0,0:12:49.05,0:12:51.76,Default,,0000,0000,0000,,So, what is the mission for those\Nof us who were left behind?
+Dialogue: 0,0:12:52.68,0:12:56.55,Default,,0000,0000,0000,,Find out the location of\Nthe stolen plans and bring them back.
+Dialogue: 0,0:12:56.59,0:12:57.59,Default,,0000,0000,0000,,That's our mission.
+Dialogue: 0,0:12:58.59,0:13:00.59,Default,,0000,0000,0000,,It’s like finding a needle in\Na haystack.
+Dialogue: 0,0:13:01.26,0:13:03.43,Default,,0000,0000,0000,,We just need to investigate\Nthe path he took
+Dialogue: 0,0:13:03.47,0:13:05.26,Default,,0000,0000,0000,,and people he was acquainted with.
+Dialogue: 0,0:13:06.18,0:13:10.26,Default,,0000,0000,0000,,It turns out that the guy was famous\Nfor being a top-level trap technician.
+Dialogue: 0,0:13:11.14,0:13:14.59,Default,,0000,0000,0000,,It’s a huge possibility that\Nhe left traps where the plans are.
+Dialogue: 0,0:13:15.59,0:13:17.26,Default,,0000,0000,0000,,It’s definitely plausible.
+Dialogue: 0,0:13:18.05,0:13:20.93,Default,,0000,0000,0000,,I understand.\NWe’ll follow your instructions.
+Dialogue: 0,0:13:21.43,0:13:22.72,Default,,0000,0000,0000,,I’ll do it.
+Dialogue: 0,0:13:24.93,0:13:26.76,Default,,0000,0000,0000,,Then let’s start the investigation.
+Dialogue: 0,0:13:27.76,0:13:31.14,Default,,0000,0000,0000,,Turns out that the man\Nhad snuck into the village
+Dialogue: 0,0:13:31.18,0:13:32.97,Default,,0000,0000,0000,,a few months ago and worked\Nas a carpenter.
+Dialogue: 0,0:13:37.59,0:13:39.05,Default,,0000,0000,0000,,Th-This guy…
+Dialogue: 0,0:13:40.68,0:13:43.43,Default,,0000,0000,0000,,His name is…Genno
+Dialogue: 0,0:13:46.76,0:13:47.76,Default,,0000,0000,0000,,You’re kidding me.
+Dialogue: 0,0:13:54.51,0:14:00.47,Default,,0000,0000,0000,,There’s no way! Old Man Genno loved\Nthe ramen at Ichiraku!
+Dialogue: 0,0:14:00.76,0:14:05.05,Default,,0000,0000,0000,,He would never do anything that\Nwould destroy the Hidden Leaf Village!
+Dialogue: 0,0:14:05.80,0:14:09.01,Default,,0000,0000,0000,,Listen… There’s no way that a guy\Nwho’s sneaking in to an enemy village
+Dialogue: 0,0:14:09.05,0:14:11.55,Default,,0000,0000,0000,,would show his bad side.
+Dialogue: 0,0:14:11.85,0:14:15.22,Default,,0000,0000,0000,,He played the part of a good guy\Nto let people’s guard down.
+Dialogue: 0,0:14:15.76,0:14:17.60,Default,,0000,0000,0000,,There is no way that anyone\Nwho loves ramen could be a bad person!
+Dialogue: 0,0:14:18.68,0:14:21.39,Default,,0000,0000,0000,,No. That’s not true Naruto.
+Dialogue: 0,0:14:21.76,0:14:25.18,Default,,0000,0000,0000,,Choji… You tell him.\NPut some sense into this guy.
+Dialogue: 0,0:14:25.93,0:14:29.76,Default,,0000,0000,0000,,Anyone who loves Ichiraku’s ramen\Ncan't be a bad person!
+Dialogue: 0,0:14:30.14,0:14:31.35,Default,,0000,0000,0000,,Choji!
+Dialogue: 0,0:14:32.05,0:14:34.59,Default,,0000,0000,0000,,Gosh, I can’t depend on anybody…
+Dialogue: 0,0:14:37.64,0:14:39.59,Default,,0000,0000,0000,,This is a list of the stolen plans.
+Dialogue: 0,0:14:40.89,0:14:44.43,Default,,0000,0000,0000,,I'm so embarrassed\Nwe lost our important plans…
+Dialogue: 0,0:14:45.43,0:14:47.01,Default,,0000,0000,0000,,I can’t show my face to Lady Tsunade.
+Dialogue: 0,0:14:49.89,0:14:52.55,Default,,0000,0000,0000,,Which construction jobs\Nwere Genno involved with?
+Dialogue: 0,0:14:53.10,0:14:54.89,Default,,0000,0000,0000,,None of them.
+Dialogue: 0,0:14:55.55,0:14:57.85,Default,,0000,0000,0000,,But wasn’t he working under you?
+Dialogue: 0,0:14:58.51,0:15:01.43,Default,,0000,0000,0000,,I don’t allow outsiders to work\Non any construction
+Dialogue: 0,0:15:01.47,0:15:03.01,Default,,0000,0000,0000,,that involves the safety of the village.
+Dialogue: 0,0:15:03.72,0:15:07.85,Default,,0000,0000,0000,,That old man only worked\Non residential construction.
+Dialogue: 0,0:15:08.76,0:15:09.80,Default,,0000,0000,0000,,Which means…
+Dialogue: 0,0:15:09.85,0:15:13.14,Default,,0000,0000,0000,,There’s little possibility that he\Nsnuck some traps into the construction.
+Dialogue: 0,0:15:13.89,0:15:15.47,Default,,0000,0000,0000,,I think it’s impossible.
+Dialogue: 0,0:15:15.85,0:15:18.60,Default,,0000,0000,0000,,We should check everything,\Njust in case…
+Dialogue: 0,0:15:19.39,0:15:20.39,Default,,0000,0000,0000,,I’m counting on you.
+Dialogue: 0,0:15:21.18,0:15:23.59,Default,,0000,0000,0000,,Lady Hinata, please take care of these.
+Dialogue: 0,0:15:24.72,0:15:25.72,Default,,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:15:27.10,0:15:28.18,Default,,0000,0000,0000,,I’ll go too.
+Dialogue: 0,0:15:28.51,0:15:29.51,Default,,0000,0000,0000,,Me too.
+Dialogue: 0,0:15:35.59,0:15:37.10,Default,,0000,0000,0000,,I’ve mentioned it earlier,\Nbut there is a possibility
+Dialogue: 0,0:15:37.14,0:15:39.72,Default,,0000,0000,0000,,the the plans haven't fallen into\Nthe enemy's hands yet.
+Dialogue: 0,0:15:40.51,0:15:44.30,Default,,0000,0000,0000,,It’s possible that he could have hidden it\Nwhile he was running away.
+Dialogue: 0,0:15:45.10,0:15:48.14,Default,,0000,0000,0000,,And it’s our mission to find that.
+Dialogue: 0,0:15:48.97,0:15:49.97,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:15:55.51,0:15:58.60,Default,,0000,0000,0000,,It’s the start of a treasure hunt.\NI’m depending on you Akamaru.
+Dialogue: 0,0:16:01.76,0:16:02.76,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:16:14.47,0:16:17.43,Default,,0000,0000,0000,,Ino and Sakura, you guys go\Ncheck the old man's body.
+Dialogue: 0,0:16:18.10,0:16:20.59,Default,,0000,0000,0000,,There might be some clues.
+Dialogue: 0,0:16:21.01,0:16:23.14,Default,,0000,0000,0000,,What?! Us?
+Dialogue: 0,0:16:23.72,0:16:24.72,Default,,0000,0000,0000,,I got it.
+Dialogue: 0,0:16:25.59,0:16:28.59,Default,,0000,0000,0000,,All right! You just want me to go right?!\NI’ll go!
+Dialogue: 0,0:16:31.59,0:16:34.30,Default,,0000,0000,0000,,Sakura, are you really okay with this?
+Dialogue: 0,0:16:34.80,0:16:37.59,Default,,0000,0000,0000,,I have to be. I’m training to become\Na Medical Ninja.
+Dialogue: 0,0:16:37.85,0:16:39.59,Default,,0000,0000,0000,,I can’t be afraid of something like this.
+Dialogue: 0,0:16:40.14,0:16:42.35,Default,,0000,0000,0000,,That might be the case for you, but…
+Dialogue: 0,0:16:45.47,0:16:47.72,Default,,0000,0000,0000,,Now…master carpenter.
+Dialogue: 0,0:16:48.35,0:16:53.59,Default,,0000,0000,0000,,Can you tell us everything you know\Nabout Old Man Genno?
+Dialogue: 0,0:16:55.97,0:16:59.89,Default,,0000,0000,0000,,The old man came to Leaf Village\Nabout three months ago…
+Dialogue: 0,0:17:01.14,0:17:03.59,Default,,0000,0000,0000,,He came to my place with\Na recommendation letter
+Dialogue: 0,0:17:03.59,0:17:05.80,Default,,0000,0000,0000,,from a famous master carpenter\Nfrom the Land of Sand.
+Dialogue: 0,0:17:07.26,0:17:08.39,Default,,0000,0000,0000,,As you may already know,
+Dialogue: 0,0:17:08.43,0:17:11.55,Default,,0000,0000,0000,,there’s a bit of a construction boom\Nin Leaf Village.
+Dialogue: 0,0:17:12.14,0:17:14.97,Default,,0000,0000,0000,,Every place is in need of more people.
+Dialogue: 0,0:17:15.76,0:17:17.59,Default,,0000,0000,0000,,And we needed more hands ourselves,
+Dialogue: 0,0:17:17.59,0:17:19.26,Default,,0000,0000,0000,,so we decided to hire him right away.
+Dialogue: 0,0:17:20.35,0:17:22.76,Default,,0000,0000,0000,,His carpeting skills…\Nwere all right, just average.
+Dialogue: 0,0:17:23.59,0:17:26.22,Default,,0000,0000,0000,,I didn’t feel the urge to\Nhire him permanently,
+Dialogue: 0,0:17:26.26,0:17:28.39,Default,,0000,0000,0000,,nor did I feel like I wanted to\Nfire him right away.
+Dialogue: 0,0:17:29.85,0:17:31.39,Default,,0000,0000,0000,,He took his job seriously.
+Dialogue: 0,0:17:31.64,0:17:34.89,Default,,0000,0000,0000,,He was perfect to hire\Nwhen we were short on people.
+Dialogue: 0,0:17:37.01,0:17:38.30,Default,,0000,0000,0000,,But after a while,
+Dialogue: 0,0:17:38.35,0:17:42.39,Default,,0000,0000,0000,,I found out that the recommendation letter\Nhe brought was a fake.
+Dialogue: 0,0:17:43.59,0:17:45.35,Default,,0000,0000,0000,,This is the recommendation letter\Nhe brought.
+Dialogue: 0,0:17:48.30,0:17:50.22,Default,,0000,0000,0000,,And how is this a fake?
+Dialogue: 0,0:17:51.14,0:17:54.64,Default,,0000,0000,0000,,There was a guy who brought\Na recommendation letter
+Dialogue: 0,0:17:54.68,0:17:57.30,Default,,0000,0000,0000,,from the same master carpenter\Nmore than ten years ago.
+Dialogue: 0,0:17:57.60,0:18:00.85,Default,,0000,0000,0000,,I just happen to find that\Nrecommendation letter,
+Dialogue: 0,0:18:00.89,0:18:04.01,Default,,0000,0000,0000,,so I compared it and I noticed\Nthat the handwriting was different…
+Dialogue: 0,0:18:05.30,0:18:06.59,Default,,0000,0000,0000,,And that recommendation letter?
+Dialogue: 0,0:18:07.35,0:18:08.93,Default,,0000,0000,0000,,It’s over there in that cabinet…
+Dialogue: 0,0:18:12.14,0:18:16.59,Default,,0000,0000,0000,,Oh? Where did I put it?\NI know I put it here…
+Dialogue: 0,0:18:16.85,0:18:18.55,Default,,0000,0000,0000,,It’s okay if you don’t have it.
+Dialogue: 0,0:18:19.22,0:18:20.22,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:18:22.35,0:18:26.47,Default,,0000,0000,0000,,For us, we really didn’t care if\Nhis recommendation letter was a fake
+Dialogue: 0,0:18:26.51,0:18:29.72,Default,,0000,0000,0000,,as long as he didn’t do anything bad.
+Dialogue: 0,0:18:30.43,0:18:35.18,Default,,0000,0000,0000,,I just thought that I should let things\Nlike this be known to Lady Tsunade…
+Dialogue: 0,0:18:37.59,0:18:39.14,Default,,0000,0000,0000,,I didn’t think that\Nthe old man was
+Dialogue: 0,0:18:39.18,0:18:42.59,Default,,0000,0000,0000,,a Shinobi from another country\Nand that he would steal our plans…
+Dialogue: 0,0:18:43.64,0:18:46.80,Default,,0000,0000,0000,,I still can’t believe it.
+Dialogue: 0,0:18:47.85,0:18:51.05,Default,,0000,0000,0000,,Hey, is it really that\Nold man’s doing?
+Dialogue: 0,0:18:52.55,0:18:54.89,Default,,0000,0000,0000,,I can’t believe it either.
+Dialogue: 0,0:18:58.59,0:19:01.30,Default,,0000,0000,0000,,There're no signs of traps…
+Dialogue: 0,0:19:07.51,0:19:08.51,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:19:12.59,0:19:14.59,Default,,0000,0000,0000,,This is where the old man lived, huh?
+Dialogue: 0,0:19:15.14,0:19:17.60,Default,,0000,0000,0000,,He always paid the rent on time.
+Dialogue: 0,0:19:19.47,0:19:21.59,Default,,0000,0000,0000,,He really was quite proper…
+Dialogue: 0,0:19:21.76,0:19:25.59,Default,,0000,0000,0000,,Once in a while he’d come home\Nafter drinking with his carpenter friends,
+Dialogue: 0,0:19:25.59,0:19:28.18,Default,,0000,0000,0000,,but he would never cause trouble.
+Dialogue: 0,0:19:28.64,0:19:33.26,Default,,0000,0000,0000,,Well, I did predict it,\Nbut there are no clues…
+Dialogue: 0,0:19:33.59,0:19:34.59,Default,,0000,0000,0000,,I found it!
+Dialogue: 0,0:19:34.64,0:19:35.64,Default,,0000,0000,0000,,What did you find?
+Dialogue: 0,0:19:36.59,0:19:40.89,Default,,0000,0000,0000,,A special bonito broth, refreshing udon\Nand light broth super thin udon!
+Dialogue: 0,0:19:42.05,0:19:43.85,Default,,0000,0000,0000,,We’re not looking for food!
+Dialogue: 0,0:19:44.47,0:19:47.26,Default,,0000,0000,0000,,But usually if somebody\Nis living by himself,
+Dialogue: 0,0:19:47.30,0:19:49.59,Default,,0000,0000,0000,,he’d probably stack up\Non a bit more food…
+Dialogue: 0,0:19:50.05,0:19:51.59,Default,,0000,0000,0000,,There’s only instant cup-udon.
+Dialogue: 0,0:19:52.47,0:19:57.43,Default,,0000,0000,0000,,Didn’t he eat out a lot?\NI hear that he went to Ichiraku a lot…
+Dialogue: 0,0:19:57.93,0:19:59.01,Default,,0000,0000,0000,,Right, Naruto?
+Dialogue: 0,0:19:59.10,0:20:00.59,Default,,0000,0000,0000,,Oh… Yeah.
+Dialogue: 0,0:20:01.51,0:20:04.59,Default,,0000,0000,0000,,If he cooked himself, he could have\Neaten more and saved money…
+Dialogue: 0,0:20:04.64,0:20:07.01,Default,,0000,0000,0000,,Choji, we’re not talking about you.
+Dialogue: 0,0:20:18.43,0:20:21.89,Default,,0000,0000,0000,,That old man\Nbarely talked about himself…
+Dialogue: 0,0:20:22.35,0:20:23.59,Default,,0000,0000,0000,,Just as I expected.
+Dialogue: 0,0:20:23.76,0:20:26.22,Default,,0000,0000,0000,,Oh, but he did happily talk about
+Dialogue: 0,0:20:26.26,0:20:30.35,Default,,0000,0000,0000,,how he became friends\Nwith one of the kids in the village.
+Dialogue: 0,0:20:31.39,0:20:34.35,Default,,0000,0000,0000,,He might have heard something\Nfrom the old man.
+Dialogue: 0,0:20:34.89,0:20:37.18,Default,,0000,0000,0000,,Oh, I wonder about that.
+Dialogue: 0,0:20:37.55,0:20:38.97,Default,,0000,0000,0000,,What you mean you wonder about that?
+Dialogue: 0,0:20:39.26,0:20:42.43,Default,,0000,0000,0000,,We won’t know until we find the kid\Nand question him, won’t we?
+Dialogue: 0,0:20:42.64,0:20:46.60,Default,,0000,0000,0000,,But it seems like there’s no need for us\Nto look for him or question him.
+Dialogue: 0,0:20:47.05,0:20:49.97,Default,,0000,0000,0000,,What?! Then, where is this guy!
+Dialogue: 0,0:20:50.39,0:20:54.30,Default,,0000,0000,0000,,Idiot, that kid is you, Naruto!
+Dialogue: 0,0:20:54.59,0:20:56.97,Default,,0000,0000,0000,,What?! Me?!
+Dialogue: 0,0:20:57.51,0:20:59.18,Default,,0000,0000,0000,,Yeah, there’s no mistake about that.
+Dialogue: 0,0:20:59.60,0:21:00.89,Default,,0000,0000,0000,,You’re Naruto Uzumaki?
+Dialogue: 0,0:21:01.47,0:21:02.47,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:04.55,0:21:07.01,Default,,0000,0000,0000,,We want you to\Ntalk with us for a bit.
+Dialogue: 0,0:21:41.47,0:21:43.72,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:43.76,0:21:46.35,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.39,0:21:50.72,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.26,0:21:53.89,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.51,0:21:58.64,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.43,0:22:05.47,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.51,0:22:11.93,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:11.97,0:22:16.97,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.01,0:22:22.18,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:50.93,0:22:53.85,Default,,0000,0000,0000,,I wonder what kind of interrogation\NNaruto is undergoing?
+Dialogue: 0,0:22:53.97,0:22:56.55,Default,,0000,0000,0000,,I guess they would use\NRegressive Hypnosis or something.
+Dialogue: 0,0:22:56.59,0:22:57.68,Default,,0000,0000,0000,,What’s Regressive Hypnosis?
+Dialogue: 0,0:22:57.76,0:23:00.59,Default,,0000,0000,0000,,It’s a Jutsu to draw out\Nsubconscious memories.
+Dialogue: 0,0:23:01.76,0:23:05.51,Default,,0000,0000,0000,,Then Naruto might know something\Neven with his bad memory.
+Dialogue: 0,0:23:05.80,0:23:06.80,Default,,0000,0000,0000,,Hmm. I wonder about that.
+Dialogue: 0,0:23:06.85,0:23:10.14,Default,,0000,0000,0000,,Well, this Old Man Genno sounds\Nlike he was pretty tricky…
+Dialogue: 0,0:23:10.30,0:23:12.22,Default,,0000,0000,0000,,Wait, why are you here anyway?
+Dialogue: 0,0:23:12.59,0:23:15.47,Default,,0000,0000,0000,,Next time: “The Anbu Gives Up?\NNaruto's Recollection”

@@ -1,0 +1,327 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.48,0:00:09.15,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.19,0:00:13.06,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.09,0:00:17.13,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.50,0:00:19.93,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:19.96,0:00:24.10,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.14,0:00:28.14,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.54,0:00:34.38,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:34.98,0:00:37.98,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.49,0:00:42.55,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.25,0:00:44.56,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.82,0:00:47.56,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.57,0:01:00.91,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.11,0:01:02.34,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.41,0:01:06.18,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.54,0:01:11.62,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:11.88,0:01:13.35,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.38,0:01:14.69,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.72,0:01:21.09,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:55.76,0:01:56.99,Default,,0000,0000,0000,,Special technique!
+Dialogue: 0,0:01:57.76,0:02:00.06,Default,,0000,0000,0000,,Shadow  Clone Jutsu, fishing version!
+Dialogue: 0,0:02:23.89,0:02:25.26,Default,,0000,0000,0000,,Thrash about more!
+Dialogue: 0,0:02:25.39,0:02:26.82,Default,,0000,0000,0000,,I want to catch some for curing!
+Dialogue: 0,0:02:27.06,0:02:28.43,Default,,0000,0000,0000,,Three isn't enough!
+Dialogue: 0,0:02:29.86,0:02:31.86,Default,,0000,0000,0000,,Three more, you loser!
+Dialogue: 0,0:02:34.07,0:02:37.00,Default,,0000,0000,0000,,This is very taxing, you know?!
+Dialogue: 0,0:02:37.07,0:02:37.94,Default,,0000,0000,0000,,I mean, let's switch!
+Dialogue: 0,0:02:38.30,0:02:39.30,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:02:40.54,0:02:43.21,Default,,0000,0000,0000,,The fire's ready to light!\NFireballs please.
+Dialogue: 0,0:02:45.61,0:02:47.55,Default,,0000,0000,0000,,I guess three is okay for the time being…
+Dialogue: 0,0:02:48.05,0:02:48.75,Default,,0000,0000,0000,,Wha--?
+Dialogue: 0,0:02:49.98,0:02:52.18,Default,,0000,0000,0000,,Hey, wait a minute!
+Dialogue: 0,0:02:52.22,0:02:58.06,Default,,0000,0000,0000,,The Scroll's Secret:\NNo Peeking Allowed
+Dialogue: 0,0:03:01.36,0:03:04.36,Default,,0000,0000,0000,,It's already been four days\Nsince the second exam started.
+Dialogue: 0,0:03:04.93,0:03:05.56,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:06.06,0:03:06.63,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:03:08.00,0:03:10.84,Default,,0000,0000,0000,,The start of the second exam\Nwas around three in the afternoon.
+Dialogue: 0,0:03:11.64,0:03:13.97,Default,,0000,0000,0000,,We only have twenty-five or\Ntwenty-six hours left.
+Dialogue: 0,0:03:15.07,0:03:17.81,Default,,0000,0000,0000,,There may already be\Nsome teams that have passed.
+Dialogue: 0,0:03:18.54,0:03:19.44,Default,,0000,0000,0000,,That means…
+Dialogue: 0,0:03:21.55,0:03:23.48,Default,,0000,0000,0000,,I wonder if it'll be broiled soon.
+Dialogue: 0,0:03:24.72,0:03:27.82,Default,,0000,0000,0000,,We're soon going to be in a hot spot…
+Dialogue: 0,0:03:29.89,0:03:31.96,Default,,0000,0000,0000,,That's the biggest one.
+Dialogue: 0,0:03:32.02,0:03:33.06,Default,,0000,0000,0000,,Believe it!
+Dialogue: 0,0:03:33.96,0:03:35.23,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:03:38.90,0:03:39.80,Default,,0000,0000,0000,,Even if we were to try pursuit,
+Dialogue: 0,0:03:39.86,0:03:42.57,Default,,0000,0000,0000,,there's probably hardly anybody left\Nto become targets.
+Dialogue: 0,0:03:42.93,0:03:43.80,Default,,0000,0000,0000,,What do we do?
+Dialogue: 0,0:03:49.31,0:03:51.84,Default,,0000,0000,0000,,Almost everyone's surely already passed.
+Dialogue: 0,0:03:52.34,0:03:54.71,Default,,0000,0000,0000,,Yeah.  It's already been\Nfour days, after all.
+Dialogue: 0,0:03:56.51,0:03:57.55,Default,,0000,0000,0000,,Anyway…
+Dialogue: 0,0:03:57.55,0:03:58.55,Default,,0000,0000,0000,,It's early afternoon now…
+Dialogue: 0,0:03:58.55,0:03:59.72,Default,,0000,0000,0000,,Let's have a meal.
+Dialogue: 0,0:04:03.55,0:04:07.39,Default,,0000,0000,0000,,You two rest a bit and\NI'll go find us something to eat.
+Dialogue: 0,0:04:14.27,0:04:15.57,Default,,0000,0000,0000,,Say…
+Dialogue: 0,0:04:15.97,0:04:16.67,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:04:17.54,0:04:19.47,Default,,0000,0000,0000,,As I recall, on the other one…
+Dialogue: 0,0:04:19.80,0:04:22.94,Default,,0000,0000,0000,,"Heaven" was written here…
+Dialogue: 0,0:04:23.14,0:04:27.65,Default,,0000,0000,0000,,and unlike this,\Nboth edges of the scroll were whitish, right?
+Dialogue: 0,0:04:27.88,0:04:31.25,Default,,0000,0000,0000,,Umm, when I was shown\Nthe scroll before the exam,
+Dialogue: 0,0:04:31.32,0:04:33.25,Default,,0000,0000,0000,,I wasn't really looking.
+Dialogue: 0,0:04:33.85,0:04:36.55,Default,,0000,0000,0000,,So, what of it all of a sudden?
+Dialogue: 0,0:04:40.76,0:04:43.09,Default,,0000,0000,0000,,Y-You've got to be kidding…?
+Dialogue: 0,0:04:52.57,0:04:53.84,Default,,0000,0000,0000,,For all we know…
+Dialogue: 0,0:04:55.27,0:04:57.68,Default,,0000,0000,0000,,there may not be any Heaven scrolls.
+Dialogue: 0,0:04:58.54,0:05:00.14,Default,,0000,0000,0000,,What do you mean, Sakura?
+Dialogue: 0,0:05:00.54,0:05:02.55,Default,,0000,0000,0000,,Well, in this second exam…
+Dialogue: 0,0:05:03.18,0:05:06.75,Default,,0000,0000,0000,,four of the five-day\Ntime limit have passed already.
+Dialogue: 0,0:05:07.55,0:05:11.66,Default,,0000,0000,0000,,So that means we've already\Nused eighty percent of the total exam time.
+Dialogue: 0,0:05:12.46,0:05:15.43,Default,,0000,0000,0000,,Seventy-eight participants\Nand twenty-six teams.
+Dialogue: 0,0:05:15.86,0:05:18.56,Default,,0000,0000,0000,,There are only thirteen each\Nof the Heaven and Earth scrolls.
+Dialogue: 0,0:05:18.70,0:05:21.87,Default,,0000,0000,0000,,At most there are only\Nthirteen passing teams.
+Dialogue: 0,0:05:23.53,0:05:26.54,Default,,0000,0000,0000,,Moreover, you remember,\Ndon’t you, Sasuke?
+Dialogue: 0,0:05:29.44,0:05:34.55,Default,,0000,0000,0000,,That the Orochimaru guy burned\N the “Heaven scroll” that we had.
+Dialogue: 0,0:05:36.55,0:05:37.55,Default,,0000,0000,0000,,Which means…
+Dialogue: 0,0:05:38.55,0:05:42.69,Default,,0000,0000,0000,,The teams that will pass had already,\Nat that point, decreased by one.
+Dialogue: 0,0:05:42.72,0:05:43.55,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:05:44.26,0:05:48.56,Default,,0000,0000,0000,,Also, all of the other scrolls are\Nnot necessarily safe, so…
+Dialogue: 0,0:05:52.40,0:05:54.07,Default,,0000,0000,0000,,After parting ways with\Nthe Leaf Village bunch,
+Dialogue: 0,0:05:54.10,0:05:56.57,Default,,0000,0000,0000,,we allotted two days for healing…
+Dialogue: 0,0:05:57.60,0:06:00.67,Default,,0000,0000,0000,,So from here on, we have to increase\Nthe distance of our actions.
+Dialogue: 0,0:06:02.14,0:06:06.68,Default,,0000,0000,0000,,At any rate,\Nthe next enemy is our last chance.
+Dialogue: 0,0:06:08.65,0:06:10.25,Default,,0000,0000,0000,,I'm going to get some drinking water.
+Dialogue: 0,0:06:24.56,0:06:26.23,Default,,0000,0000,0000,,Say! Say!
+Dialogue: 0,0:06:26.96,0:06:29.77,Default,,0000,0000,0000,,I have a good way for us not to fight\Nwith an enemy. Believe it!
+Dialogue: 0,0:06:30.10,0:06:30.90,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:35.41,0:06:36.31,Default,,0000,0000,0000,,Get serious!
+Dialogue: 0,0:06:36.54,0:06:38.28,Default,,0000,0000,0000,,I am serious.
+Dialogue: 0,0:06:38.54,0:06:41.55,Default,,0000,0000,0000,,I have lots of scrolls stocked, so.
+Dialogue: 0,0:06:42.25,0:06:45.52,Default,,0000,0000,0000,,Ninjutsu manual, deadly poison manual,\Nfor notes….
+Dialogue: 0,0:06:45.55,0:06:48.75,Default,,0000,0000,0000,,If we tweak this a little and change it\Ninto exactly like the Heaven scroll…
+Dialogue: 0,0:06:48.82,0:06:50.35,Default,,0000,0000,0000,,H-Hold it!
+Dialogue: 0,0:06:50.52,0:06:51.26,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:51.56,0:06:54.86,Default,,0000,0000,0000,,Even if you did such a thing,\Nyou don't know what's written on the inside!
+Dialogue: 0,0:06:55.39,0:06:57.90,Default,,0000,0000,0000,,If the Proctor looked inside\Nyou will be discovered right away!
+Dialogue: 0,0:06:57.96,0:06:58.70,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:06:59.46,0:07:01.13,Default,,0000,0000,0000,,Generally with things like this,
+Dialogue: 0,0:07:01.17,0:07:03.17,Default,,0000,0000,0000,,there's a password or\Nsomething written
+Dialogue: 0,0:07:03.23,0:07:06.34,Default,,0000,0000,0000,,and you can’t get it\Nunless you have both scrolls.
+Dialogue: 0,0:07:07.20,0:07:08.54,Default,,0000,0000,0000,,In other words…
+Dialogue: 0,0:07:08.54,0:07:12.11,Default,,0000,0000,0000,,to pass at the tower goal,\Nwe'll surely need a password.
+Dialogue: 0,0:07:12.14,0:07:14.11,Default,,0000,0000,0000,,Or something like that.\NBelieve it!
+Dialogue: 0,0:07:14.55,0:07:16.55,Default,,0000,0000,0000,,What difference does it make?
+Dialogue: 0,0:07:17.38,0:07:21.55,Default,,0000,0000,0000,,If you don't know the content,\Nthere's no use making a fake!
+Dialogue: 0,0:07:25.09,0:07:28.39,Default,,0000,0000,0000,,Man, here I was wondering what\Nyou were going to say, looking all big…
+Dialogue: 0,0:07:29.06,0:07:30.73,Default,,0000,0000,0000,,You're an idiot who just can't\Nthink through things.
+Dialogue: 0,0:07:31.60,0:07:32.76,Default,,0000,0000,0000,,B-But…
+Dialogue: 0,0:07:33.10,0:07:35.80,Default,,0000,0000,0000,,What if we could predict the content…?
+Dialogue: 0,0:07:37.47,0:07:38.54,Default,,0000,0000,0000,,This Earth scroll…
+Dialogue: 0,0:07:38.80,0:07:39.94,Default,,0000,0000,0000,,You wouldn't…
+Dialogue: 0,0:07:40.91,0:07:44.71,Default,,0000,0000,0000,,I'm going to…open this scroll!
+Dialogue: 0,0:07:44.78,0:07:45.84,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:07:46.58,0:07:49.51,Default,,0000,0000,0000,,You! Have you forgotten\Neven the rules, you idiot?
+Dialogue: 0,0:07:49.85,0:07:53.75,Default,,0000,0000,0000,,We were told not to look inside the scrolls\Nuntil arriving at the tower, right?
+Dialogue: 0,0:07:53.98,0:07:57.05,Default,,0000,0000,0000,,But, at this rate,\Nwe’ll be in a hot spot, right?
+Dialogue: 0,0:08:32.46,0:08:34.02,Default,,0000,0000,0000,,There might be a trap or something.
+Dialogue: 0,0:08:34.73,0:08:36.96,Default,,0000,0000,0000,,Carefully… Be careful.
+Dialogue: 0,0:08:37.56,0:08:38.56,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:39.30,0:08:40.56,Default,,0000,0000,0000,,I know…
+Dialogue: 0,0:09:48.23,0:09:49.57,Default,,0000,0000,0000,,Hey, what's wrong?
+Dialogue: 0,0:09:50.47,0:09:50.97,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:58.71,0:09:59.54,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:09:59.84,0:10:00.61,Default,,0000,0000,0000,,What happened?!
+Dialogue: 0,0:10:00.95,0:10:01.55,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:07.32,0:10:09.19,Default,,0000,0000,0000,,Hey! 					Answer me!
+Dialogue: 0,0:10:47.26,0:10:48.33,Default,,0000,0000,0000,,You'd best not do it.
+Dialogue: 0,0:10:56.67,0:10:57.60,Default,,0000,0000,0000,,An enemy?
+Dialogue: 0,0:11:05.68,0:11:07.81,Default,,0000,0000,0000,,Man, you're beyond saving…
+Dialogue: 0,0:11:08.75,0:11:10.15,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:11:10.55,0:11:12.48,Default,,0000,0000,0000,,W-We're sorry.
+Dialogue: 0,0:11:14.52,0:11:19.16,Default,,0000,0000,0000,,Those who ignored the rules are forced\Ninto the situation of having to retire.
+Dialogue: 0,0:11:19.66,0:11:23.23,Default,,0000,0000,0000,,In the previous exam, hypnotism\NJutsu Formula was set up to
+Dialogue: 0,0:11:23.26,0:11:26.46,Default,,0000,0000,0000,,get into the eyes of those who looked\Nat the scroll along the way.
+Dialogue: 0,0:11:27.56,0:11:31.64,Default,,0000,0000,0000,,A measure to get them to lie\Nin the forest until the end of the exam.
+Dialogue: 0,0:11:33.77,0:11:35.01,Default,,0000,0000,0000,,By the way…
+Dialogue: 0,0:11:35.07,0:11:37.11,Default,,0000,0000,0000,,If I'm not mistaken, you're Kabuto, right?
+Dialogue: 0,0:11:37.54,0:11:40.14,Default,,0000,0000,0000,,What're you doing hanging\Naround here alone?
+Dialogue: 0,0:11:40.54,0:11:43.85,Default,,0000,0000,0000,,It's not that I'm after your scroll.
+Dialogue: 0,0:11:44.01,0:11:45.22,Default,,0000,0000,0000,,I didn't think so.
+Dialogue: 0,0:11:45.52,0:11:49.82,Default,,0000,0000,0000,,If that was your intention…\Nyou could've taken it from Naruto just now.
+Dialogue: 0,0:11:51.09,0:11:53.86,Default,,0000,0000,0000,,So you're also after the Heaven scroll?
+Dialogue: 0,0:11:54.32,0:11:55.06,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:11:55.56,0:11:57.49,Default,,0000,0000,0000,,I already have them both.
+Dialogue: 0,0:11:58.56,0:11:59.20,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:11:59.56,0:12:00.56,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:01.43,0:12:02.87,Default,,0000,0000,0000,,Things led to things…
+Dialogue: 0,0:12:02.97,0:12:04.90,Default,,0000,0000,0000,,I was hurrying over to\Nthe vicinity of the tower
+Dialogue: 0,0:12:04.94,0:12:06.60,Default,,0000,0000,0000,,to wait for my estranged companions.
+Dialogue: 0,0:12:07.57,0:12:09.57,Default,,0000,0000,0000,,Now, if you'll excuse me…
+Dialogue: 0,0:12:12.14,0:12:13.08,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:12:16.81,0:12:17.65,Default,,0000,0000,0000,,Fight me.
+Dialogue: 0,0:12:23.55,0:12:24.46,Default,,0000,0000,0000,,Lucky!
+Dialogue: 0,0:12:26.56,0:12:27.56,Default,,0000,0000,0000,,Fight you, you say?
+Dialogue: 0,0:12:28.56,0:12:29.56,Default,,0000,0000,0000,,S-Sasuke.
+Dialogue: 0,0:12:29.56,0:12:30.69,Default,,0000,0000,0000,,This idiot-suke.
+Dialogue: 0,0:12:30.73,0:12:32.40,Default,,0000,0000,0000,,What are you saying suddenly?
+Dialogue: 0,0:12:33.00,0:12:33.93,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:12:34.87,0:12:38.64,Default,,0000,0000,0000,,Sorry, but we don't have anymore time.
+Dialogue: 0,0:12:39.17,0:12:43.41,Default,,0000,0000,0000,,Hey, Sasuke!\NKabuto saved us!
+Dialogue: 0,0:12:43.64,0:12:47.14,Default,,0000,0000,0000,,Sasuke, I don't know about that, myself.
+Dialogue: 0,0:12:47.34,0:12:48.18,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:12:49.21,0:12:50.55,Default,,0000,0000,0000,,Sasu…ke.
+Dialogue: 0,0:12:51.35,0:12:54.55,Default,,0000,0000,0000,,It can't be helped.\NI said it before, too.
+Dialogue: 0,0:12:54.99,0:12:58.56,Default,,0000,0000,0000,,This is all that can be done\Nto survive through this forest now.
+Dialogue: 0,0:12:58.76,0:13:01.56,Default,,0000,0000,0000,,Hmm…That's a lie.
+Dialogue: 0,0:13:03.56,0:13:04.39,Default,,0000,0000,0000,,A lie?
+Dialogue: 0,0:13:05.10,0:13:09.00,Default,,0000,0000,0000,,Your heart isn't totally in this\Nas much as you're saying.
+Dialogue: 0,0:13:11.40,0:13:15.11,Default,,0000,0000,0000,,If you could really become\Nserious about this exam…
+Dialogue: 0,0:13:15.61,0:13:18.01,Default,,0000,0000,0000,,Why is it necessary to fight me?
+Dialogue: 0,0:13:19.61,0:13:21.85,Default,,0000,0000,0000,,You should jump on me\Nat my unguarded moment,
+Dialogue: 0,0:13:21.88,0:13:24.62,Default,,0000,0000,0000,,without going to\Nthe trouble of announcing it.
+Dialogue: 0,0:13:25.55,0:13:28.25,Default,,0000,0000,0000,,That's…a Ninja.
+Dialogue: 0,0:13:30.19,0:13:33.26,Default,,0000,0000,0000,,Hmm, that's profound.
+Dialogue: 0,0:13:34.53,0:13:36.56,Default,,0000,0000,0000,,I don't dislike that side of you.
+Dialogue: 0,0:13:38.00,0:13:41.57,Default,,0000,0000,0000,,So I shall tell you the way you should go.
+Dialogue: 0,0:13:42.60,0:13:45.67,Default,,0000,0000,0000,,However…let's talk as we move.
+Dialogue: 0,0:13:46.17,0:13:50.14,Default,,0000,0000,0000,,The smell of broiled fish in the fire smoke\Nhad reached a great distance.
+Dialogue: 0,0:13:50.47,0:13:53.54,Default,,0000,0000,0000,,At this rate, we'll be marked\Nby fierce animals…and enemies.
+Dialogue: 0,0:14:00.48,0:14:01.55,Default,,0000,0000,0000,,Humph!
+Dialogue: 0,0:14:08.56,0:14:10.56,Default,,0000,0000,0000,,Are there really still enemies around?
+Dialogue: 0,0:14:10.93,0:14:12.63,Default,,0000,0000,0000,,Yes, no mistake.
+Dialogue: 0,0:14:13.10,0:14:14.60,Default,,0000,0000,0000,,If you think about it a little,\Nyou'll understand.
+Dialogue: 0,0:14:16.27,0:14:19.47,Default,,0000,0000,0000,,Do you know the cleverest way\Nof fighting in battles
+Dialogue: 0,0:14:19.50,0:14:22.07,Default,,0000,0000,0000,,in jungles and\Nexpansive forests such as this?
+Dialogue: 0,0:14:22.64,0:14:23.54,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:14:23.97,0:14:26.14,Default,,0000,0000,0000,,The tower located in the center\Nof this forest,
+Dialogue: 0,0:14:26.18,0:14:28.35,Default,,0000,0000,0000,,the common goal for us test-takers.
+Dialogue: 0,0:14:28.75,0:14:31.32,Default,,0000,0000,0000,,That means when the last day\Nof the test is here…
+Dialogue: 0,0:14:31.35,0:14:36.55,Default,,0000,0000,0000,,the area near that tower is\Nthe easiest place to gather scrolls.
+Dialogue: 0,0:14:37.02,0:14:39.56,Default,,0000,0000,0000,,Oh, I see. 					Ambush, right?
+Dialogue: 0,0:14:39.76,0:14:42.19,Default,,0000,0000,0000,,In other words, we go after the scrolls\Nof the teams
+Dialogue: 0,0:14:42.23,0:14:46.23,Default,,0000,0000,0000,,that have both the Heaven and Earth scrolls\Nand are setting out for the tower.
+Dialogue: 0,0:14:47.13,0:14:48.57,Default,,0000,0000,0000,,That's one-third of the answer.
+Dialogue: 0,0:14:48.63,0:14:49.57,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:49.57,0:14:52.60,Default,,0000,0000,0000,,I mean that you guys are\Nnot the only ones thinking that!
+Dialogue: 0,0:14:53.54,0:14:57.54,Default,,0000,0000,0000,,Near the tower, the same badgers\Nhave probably already set traps, so…
+Dialogue: 0,0:14:57.67,0:14:58.61,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:14:58.64,0:15:02.88,Default,,0000,0000,0000,,That means there are lots of enemies\Nlying in wait to engage us.
+Dialogue: 0,0:15:03.55,0:15:07.32,Default,,0000,0000,0000,,Heh, having a handicap\Ngets me pumped, I say!
+Dialogue: 0,0:15:07.55,0:15:08.59,Default,,0000,0000,0000,,I'm looking forward to it!
+Dialogue: 0,0:15:08.82,0:15:12.26,Default,,0000,0000,0000,,If we just beat them all and\Nget the Heaven scroll,
+Dialogue: 0,0:15:12.32,0:15:14.56,Default,,0000,0000,0000,,we'll all survive the second exam!
+Dialogue: 0,0:15:14.56,0:15:17.26,Default,,0000,0000,0000,,No! This is still two-thirds of the answer!
+Dialogue: 0,0:15:17.49,0:15:19.56,Default,,0000,0000,0000,,What's the remaining\None-third of the answer?
+Dialogue: 0,0:15:20.30,0:15:23.57,Default,,0000,0000,0000,,The collectors who are certain\Nto appear during an exam of this nature.
+Dialogue: 0,0:15:23.90,0:15:25.40,Default,,0000,0000,0000,,Collectors?
+Dialogue: 0,0:15:26.00,0:15:28.01,Default,,0000,0000,0000,,In this exam, with the tower\Njust a stone's throw away,
+Dialogue: 0,0:15:28.07,0:15:30.01,Default,,0000,0000,0000,,you definitely can't rest easy…
+Dialogue: 0,0:15:31.11,0:15:33.54,Default,,0000,0000,0000,,Those particular conditions\Nare what create them.
+Dialogue: 0,0:15:34.31,0:15:37.81,Default,,0000,0000,0000,,In other words,\Nthose who gather extra scrolls…
+Dialogue: 0,0:15:38.05,0:15:42.82,Default,,0000,0000,0000,,as compensation for sparing them\Nwhen coming across an unexpected enemy.
+Dialogue: 0,0:15:43.89,0:15:48.56,Default,,0000,0000,0000,,Also, those who get information to\Nproceed favorably through later exams
+Dialogue: 0,0:15:48.59,0:15:52.56,Default,,0000,0000,0000,,by providing the lacking scrolls to\Ncomrades sharing the same village.
+Dialogue: 0,0:15:53.56,0:15:57.53,Default,,0000,0000,0000,,And those who are thinking of,\Nunder conditions favorable to them,
+Dialogue: 0,0:15:57.53,0:16:01.44,Default,,0000,0000,0000,,annihilating the powerful ones who\Nwill probably get through to the third exam.
+Dialogue: 0,0:16:02.31,0:16:06.18,Default,,0000,0000,0000,,It goes without saying,\Nbut these guys are quite the big guns
+Dialogue: 0,0:16:06.21,0:16:08.95,Default,,0000,0000,0000,,and the worst enemies who\Nare definitely not conceited.
+Dialogue: 0,0:16:10.31,0:16:11.25,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:16:11.88,0:16:15.25,Default,,0000,0000,0000,,I understand the reason\Nwhy you appeared before us.
+Dialogue: 0,0:16:16.55,0:16:18.56,Default,,0000,0000,0000,,You're scared, too, right?
+Dialogue: 0,0:16:19.66,0:16:20.56,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:29.40,0:16:32.30,Default,,0000,0000,0000,,Now then, the tower has finally\Ncome into view.
+Dialogue: 0,0:16:32.60,0:16:34.17,Default,,0000,0000,0000,,From here on is the hard part.
+Dialogue: 0,0:16:34.34,0:16:36.54,Default,,0000,0000,0000,,All right, let's go!
+Dialogue: 0,0:16:37.98,0:16:39.14,Default,,0000,0000,0000,,An enemy already?
+Dialogue: 0,0:16:40.48,0:16:41.14,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:16:52.19,0:16:54.56,Default,,0000,0000,0000,,Oh, it's just a centipede.
+Dialogue: 0,0:16:54.56,0:16:56.43,Default,,0000,0000,0000,,Yikes! It's huge.
+Dialogue: 0,0:16:56.56,0:16:58.56,Default,,0000,0000,0000,,All those legs are gross.
+Dialogue: 0,0:16:59.93,0:17:01.00,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:17:01.37,0:17:02.00,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:02.30,0:17:06.30,Default,,0000,0000,0000,,I'd like to avoid inadvertent sounds and\Ncareless actions from here on.
+Dialogue: 0,0:17:06.54,0:17:07.14,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:07.54,0:17:10.54,Default,,0000,0000,0000,,Rushing ahead through a dense forest\Nmaking noise like an elephant
+Dialogue: 0,0:17:10.54,0:17:14.98,Default,,0000,0000,0000,,is the same as serving notice\Nin a loud voice that we're coming.
+Dialogue: 0,0:17:15.65,0:17:18.15,Default,,0000,0000,0000,,We'd definitely receive\Nan enthusiastic welcome.
+Dialogue: 0,0:17:18.55,0:17:20.85,Default,,0000,0000,0000,,O-Oh, I see.
+Dialogue: 0,0:17:22.09,0:17:25.56,Default,,0000,0000,0000,,As long as time allows, we should\Ngo slowly while remaining hidden.
+Dialogue: 0,0:17:25.76,0:17:27.56,Default,,0000,0000,0000,,– Yeah. 					– Okay.
+Dialogue: 0,0:17:27.56,0:17:28.39,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:17:38.27,0:17:40.47,Default,,0000,0000,0000,,Heh, not bad, everyone.
+Dialogue: 0,0:17:50.35,0:17:51.15,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:18:00.62,0:18:02.56,Default,,0000,0000,0000,,Okay, it's this way.
+Dialogue: 0,0:18:23.85,0:18:25.12,Default,,0000,0000,0000,,Is it a trap?
+Dialogue: 0,0:18:25.55,0:18:28.89,Default,,0000,0000,0000,,Yeah.  It'll get intense ahead from here on.
+Dialogue: 0,0:18:48.54,0:18:49.71,Default,,0000,0000,0000,,Kabuto!
+Dialogue: 0,0:18:53.34,0:18:54.54,Default,,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:18:54.64,0:18:56.45,Default,,0000,0000,0000,,That was close, Naruto.
+Dialogue: 0,0:18:59.75,0:19:01.38,Default,,0000,0000,0000,,Substitution Jutsu!
+Dialogue: 0,0:19:01.55,0:19:05.32,Default,,0000,0000,0000,,I told you, it would get intense ahead\Nfrom here on.
+Dialogue: 0,0:19:12.26,0:19:14.16,Default,,0000,0000,0000,,I've…had it…
+Dialogue: 0,0:19:14.66,0:19:16.27,Default,,0000,0000,0000,,Oh! Sakura!
+Dialogue: 0,0:19:17.47,0:19:19.07,Default,,0000,0000,0000,,For crying out loud,\Nhow far have we walked?
+Dialogue: 0,0:19:19.97,0:19:22.11,Default,,0000,0000,0000,,The tower hasn't gotten a bit closer.
+Dialogue: 0,0:19:23.54,0:19:25.64,Default,,0000,0000,0000,,Here we can see it right\Nin front of our eyes.
+Dialogue: 0,0:19:25.81,0:19:27.28,Default,,0000,0000,0000,,Strange…
+Dialogue: 0,0:19:27.81,0:19:29.01,Default,,0000,0000,0000,,No mistake about it.
+Dialogue: 0,0:19:29.15,0:19:33.75,Default,,0000,0000,0000,,It seems that we're already\Nwithin the enthusiastic welcome.
+Dialogue: 0,0:19:34.22,0:19:36.55,Default,,0000,0000,0000,,Take a look at that.
+Dialogue: 0,0:19:38.46,0:19:40.56,Default,,0000,0000,0000,,Oh, that can't be!
+Dialogue: 0,0:19:44.56,0:19:46.36,Default,,0000,0000,0000,,What on earth is going on?
+Dialogue: 0,0:19:46.93,0:19:48.00,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:19:48.57,0:19:49.73,Default,,0000,0000,0000,,Is it Genjutsu…?
+Dialogue: 0,0:19:49.97,0:19:51.43,Default,,0000,0000,0000,,So it seems.
+Dialogue: 0,0:19:52.10,0:19:53.74,Default,,0000,0000,0000,,We were lured in perfectly.
+Dialogue: 0,0:19:54.50,0:19:57.47,Default,,0000,0000,0000,,It appears we were\Nmeticulously careful,
+Dialogue: 0,0:19:57.51,0:20:00.08,Default,,0000,0000,0000,,and were made to walk around\Nthe same place in a circle.
+Dialogue: 0,0:20:01.65,0:20:03.25,Default,,0000,0000,0000,,We're being watched…
+Dialogue: 0,0:20:03.55,0:20:04.65,Default,,0000,0000,0000,,Probably.
+Dialogue: 0,0:20:05.18,0:20:07.15,Default,,0000,0000,0000,,They intend to wear down\Nour physical strength and
+Dialogue: 0,0:20:07.18,0:20:09.42,Default,,0000,0000,0000,,catch us unprepared\Nwhen we're bone-tired.
+Dialogue: 0,0:20:09.89,0:20:12.56,Default,,0000,0000,0000,,If so, then this follows the enemy strategy.
+Dialogue: 0,0:20:13.06,0:20:16.36,Default,,0000,0000,0000,,Then... they'll be coming soon.
+Dialogue: 0,0:21:01.54,0:21:02.71,Default,,0000,0000,0000,,They’ve appeared.
+Dialogue: 0,0:21:03.27,0:21:04.14,Default,,0000,0000,0000,,Hah!
+Dialogue: 0,0:21:05.11,0:21:08.31,Default,,0000,0000,0000,,This is the perfect handicap.
+Dialogue: 0,0:21:18.56,0:21:23.26,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:23.36,0:21:31.50,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:32.54,0:21:41.01,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:41.54,0:21:49.39,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:50.59,0:21:56.33,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:56.36,0:22:00.10,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:00.13,0:22:03.73,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:04.27,0:22:12.58,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:13.01,0:22:18.15,Default,,0000,0000,0000,,when you want to cry, and you want to run away
+Dialogue: 0,0:22:18.18,0:22:22.55,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:22.65,0:22:26.52,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:26.59,0:22:31.76,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:31.90,0:22:34.10,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:34.20,0:22:40.54,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:41.00,0:22:46.08,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:50.88,0:22:52.55,Default,,0000,0000,0000,,What's with these guys?
+Dialogue: 0,0:22:52.55,0:22:54.52,Default,,0000,0000,0000,,Crawling out all of a sudden?
+Dialogue: 0,0:22:54.55,0:22:56.55,Default,,0000,0000,0000,,Fighting in numbers isn't necessarily\Na good thing, you know?
+Dialogue: 0,0:22:56.69,0:22:57.95,Default,,0000,0000,0000,,Since it's come to this,
+Dialogue: 0,0:22:58.02,0:22:59.86,Default,,0000,0000,0000,,it'll be a comparison of\Nthe number of Clone Jutsu.
+Dialogue: 0,0:22:59.89,0:23:03.56,Default,,0000,0000,0000,,I can get twice of twice of\Ntwice of twice of your...
+Dialogue: 0,0:23:03.56,0:23:06.40,Default,,0000,0000,0000,,Anyway, I'll multiply\Nto an incredible number!
+Dialogue: 0,0:23:06.43,0:23:08.57,Default,,0000,0000,0000,,It doesn't matter if it's\Nyour Genjutsu or whatever.
+Dialogue: 0,0:23:08.67,0:23:11.53,Default,,0000,0000,0000,,I'll kick all their butts!
+Dialogue: 0,0:23:11.77,0:23:15.67,Default,,0000,0000,0000,,Next episode: "Clone vs. Clone:\NMine are Better than Yours!"

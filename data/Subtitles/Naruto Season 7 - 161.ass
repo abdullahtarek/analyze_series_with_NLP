@@ -1,0 +1,382 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.00,0:00:21.49,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.50,0:00:26.45,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.49,0:00:29.00,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.04,0:00:31.50,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.54,0:00:36.25,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.29,0:00:46.12,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.41,0:00:55.49,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.49,0:01:06.37,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.49,0:01:15.70,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.45,0:01:20.87,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:48.62,0:01:50.49,Default,,0000,0000,0000,,Our mission this time around\Nis a rough one.
+Dialogue: 0,0:01:50.95,0:01:51.91,Default,,0000,0000,0000,,Can you do it, Lee?
+Dialogue: 0,0:01:52.50,0:01:54.91,Default,,0000,0000,0000,,I’ll be okay! I can go anytime.
+Dialogue: 0,0:01:56.04,0:01:57.87,Default,,0000,0000,0000,,Now that’s my protégé!
+Dialogue: 0,0:01:58.62,0:02:00.75,Default,,0000,0000,0000,,Let’s go, Lee!
+Dialogue: 0,0:02:01.45,0:02:02.58,Default,,0000,0000,0000,,Right, Guy Sensei!
+Dialogue: 0,0:02:06.87,0:02:08.49,Default,,0000,0000,0000,,They’re off!
+Dialogue: 0,0:02:11.00,0:02:15.33,Default,,0000,0000,0000,,Those large bags no doubt mean\Nan overnight expedition mission.
+Dialogue: 0,0:02:15.49,0:02:19.83,Default,,0000,0000,0000,,To think we’d encounter the ideal pair\Nso quickly. We’re lucky.
+Dialogue: 0,0:02:20.20,0:02:21.37,Default,,0000,0000,0000,,Then, it’s settled.
+Dialogue: 0,0:02:21.41,0:02:26.00,Default,,0000,0000,0000,,Right. Starting operation.\NTo infilrtra… whoa!
+Dialogue: 0,0:02:32.70,0:02:35.79,Default,,0000,0000,0000,,H-Heavy! Get off, you idiot.
+Dialogue: 0,0:02:38.75,0:02:41.83,Default,,0000,0000,0000,,To…infiltrate…the super elite\Nhidden village…
+Dialogue: 0,0:02:43.49,0:02:45.49,Default,,0000,0000,0000,,the Village Hidden in Leaves!
+Dialogue: 0,0:02:45.66,0:02:51.49,Default,,0000,0000,0000,,The Appearance of Strange Visitors
+Dialogue: 0,0:02:53.00,0:02:56.04,Default,,0000,0000,0000,,Wow, we look just like those two!
+Dialogue: 0,0:03:01.16,0:03:06.04,Default,,0000,0000,0000,,Naturally. We refined\Nour Disguise Jutsu for this very day.
+Dialogue: 0,0:03:06.49,0:03:08.75,Default,,0000,0000,0000,,We’re after the classified information\Nof the Leaf…
+Dialogue: 0,0:03:10.49,0:03:11.45,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:03:11.49,0:03:13.87,Default,,0000,0000,0000,,We’ll be famous if this goes well!
+Dialogue: 0,0:03:13.91,0:03:16.54,Default,,0000,0000,0000,,The idea is to win distinction\Nfor our village.
+Dialogue: 0,0:03:17.37,0:03:21.29,Default,,0000,0000,0000,,Then we’ll get tons of missions\Nand we’ll be the village heroes!
+Dialogue: 0,0:03:21.49,0:03:27.49,Default,,0000,0000,0000,,Village Heroes!\NMondai and Poccha!
+Dialogue: 0,0:03:29.08,0:03:31.70,Default,,0000,0000,0000,,All right. As of this moment,\Nmy name’s Guy.
+Dialogue: 0,0:03:31.87,0:03:33.83,Default,,0000,0000,0000,,The Leaf Ninja, “Mondai Guy”!
+Dialogue: 0,0:03:34.16,0:03:36.45,Default,,0000,0000,0000,,And I’m the protégé, “Poccha Lee”!
+Dialogue: 0,0:03:36.49,0:03:37.75,Default,,0000,0000,0000,,Let’s go, Lee.
+Dialogue: 0,0:03:37.91,0:03:39.49,Default,,0000,0000,0000,,Yes, Guy Sensei!
+Dialogue: 0,0:03:49.45,0:03:51.49,Default,,0000,0000,0000,,Nothing like a large village,\Nsure enough!
+Dialogue: 0,0:03:53.54,0:03:55.95,Default,,0000,0000,0000,,Wow, everyone’s like a Ninja.
+Dialogue: 0,0:03:56.08,0:03:58.45,Default,,0000,0000,0000,,Hey! Don’t be looking all\Nabout so much!
+Dialogue: 0,0:03:59.49,0:04:00.33,Default,,0000,0000,0000,,Oww…
+Dialogue: 0,0:04:00.37,0:04:01.25,Default,,0000,0000,0000,,Listen up.
+Dialogue: 0,0:04:01.49,0:04:04.50,Default,,0000,0000,0000,,There’s a chief in this village\Ncalled the “Hokage.”
+Dialogue: 0,0:04:04.54,0:04:07.70,Default,,0000,0000,0000,,So there’s no doubt classified information\Nis concentrated where that person is.
+Dialogue: 0,0:04:07.87,0:04:08.75,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:04:09.49,0:04:10.37,Default,,0000,0000,0000,,If I remember correctly,
+Dialogue: 0,0:04:10.41,0:04:12.75,Default,,0000,0000,0000,,that person’s in a building easy to spot\Nwith a “Fire” mark on it or something…
+Dialogue: 0,0:04:18.83,0:04:20.83,Default,,0000,0000,0000,,– There it is! 					– That’s it!
+Dialogue: 0,0:04:21.49,0:04:23.08,Default,,0000,0000,0000,,What about the Lady Hokage’s house?
+Dialogue: 0,0:04:23.20,0:04:24.29,Default,,0000,0000,0000,,– Yikes! 					– Yikes!
+Dialogue: 0,0:04:25.45,0:04:26.29,Default,,0000,0000,0000,,Hi.
+Dialogue: 0,0:04:26.58,0:04:31.49,Default,,0000,0000,0000,,N-Nothing special! We’re not after Leaf\Nclassified information or any-any-any…
+Dialogue: 0,0:04:31.49,0:04:32.79,Default,,0000,0000,0000,,Are you an idiot?!
+Dialogue: 0,0:04:33.66,0:04:35.49,Default,,0000,0000,0000,,I-It’s nothing at all!
+Dialogue: 0,0:04:35.54,0:04:36.83,Default,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:04:38.00,0:04:40.00,Default,,0000,0000,0000,,Look, we’ve got to act naturally here.
+Dialogue: 0,0:04:40.04,0:04:41.33,Default,,0000,0000,0000,,R-Right…
+Dialogue: 0,0:04:41.83,0:04:43.37,Default,,0000,0000,0000,,Hi. I’m Guy.
+Dialogue: 0,0:04:43.45,0:04:44.49,Default,,0000,0000,0000,,I’m Lee.
+Dialogue: 0,0:04:46.25,0:04:48.12,Default,,0000,0000,0000,,Guy and Lee…, eh…?
+Dialogue: 0,0:04:48.49,0:04:50.62,Default,,0000,0000,0000,,Don’t you guys have\Na different atmosphere than usual?
+Dialogue: 0,0:04:50.91,0:04:53.04,Default,,0000,0000,0000,,No. I-It’s your imagination!
+Dialogue: 0,0:04:53.29,0:04:56.37,Default,,0000,0000,0000,,No, I feel like something’s different…
+Dialogue: 0,0:04:57.16,0:05:01.16,Default,,0000,0000,0000,,Oh, there’s a kite up there flying\Nwhile eating a pork cutlet rice bowl!
+Dialogue: 0,0:05:03.49,0:05:05.37,Default,,0000,0000,0000,,What? Where, where?
+Dialogue: 0,0:05:06.37,0:05:08.58,Default,,0000,0000,0000,,What? There’s no kite anywhere.
+Dialogue: 0,0:05:08.91,0:05:10.25,Default,,0000,0000,0000,,Hey, what?
+Dialogue: 0,0:05:15.49,0:05:17.58,Default,,0000,0000,0000,,Jeez, that Ninja has to go and\Nstand behind us
+Dialogue: 0,0:05:17.62,0:05:19.45,Default,,0000,0000,0000,,without any sign of his presence.
+Dialogue: 0,0:05:19.49,0:05:22.12,Default,,0000,0000,0000,,But it seems we fooled him good.
+Dialogue: 0,0:05:22.45,0:05:25.49,Default,,0000,0000,0000,,Our Disguise Jutsu is perfect,\Nsure enough.
+Dialogue: 0,0:05:27.20,0:05:29.87,Default,,0000,0000,0000,,Say, infiltration is kind of easy, isn’t it?!
+Dialogue: 0,0:05:29.91,0:05:31.91,Default,,0000,0000,0000,,The Leaf isn’t worth fearing!
+Dialogue: 0,0:05:35.87,0:05:38.79,Default,,0000,0000,0000,,Guy and Lee imposters are\Nprowling around the village?
+Dialogue: 0,0:05:38.95,0:05:41.00,Default,,0000,0000,0000,,And to think they’d enter the village\Nin disguises
+Dialogue: 0,0:05:41.04,0:05:42.70,Default,,0000,0000,0000,,without even using Transformation Jutsu.
+Dialogue: 0,0:05:42.75,0:05:44.58,Default,,0000,0000,0000,,Are they really Ninja?
+Dialogue: 0,0:05:46.16,0:05:49.20,Default,,0000,0000,0000,,Weird people find their way\Nin when a village grows.
+Dialogue: 0,0:05:49.37,0:05:54.49,Default,,0000,0000,0000,,Well, it’s nonsense, but I thought\NI would at least report it for now.
+Dialogue: 0,0:05:54.66,0:05:58.49,Default,,0000,0000,0000,,Indeed, we can’t just leave\Nintruders unchecked.
+Dialogue: 0,0:05:59.04,0:06:00.25,Default,,0000,0000,0000,,Shall we throw them out?
+Dialogue: 0,0:06:00.49,0:06:02.49,Default,,0000,0000,0000,,No, leave them be.
+Dialogue: 0,0:06:02.49,0:06:03.04,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:03.91,0:06:05.49,Default,,0000,0000,0000,,It sounds interesting, doesn’t it?
+Dialogue: 0,0:06:05.79,0:06:09.08,Default,,0000,0000,0000,,They’re going to the trouble of\Ncalling themselves Ninja of this village.
+Dialogue: 0,0:06:10.08,0:06:11.04,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:06:11.41,0:06:13.12,Default,,0000,0000,0000,,We probably don’t need to worry.
+Dialogue: 0,0:06:13.58,0:06:17.79,Default,,0000,0000,0000,,It’s unlikely that anyone could be\Nfooled by such obvious imposters.
+Dialogue: 0,0:06:20.12,0:06:24.29,Default,,0000,0000,0000,,Come on, please.\NGuy Sensei, Bushy Brow!
+Dialogue: 0,0:06:25.08,0:06:29.49,Default,,0000,0000,0000,,Pretty please with sugar on top!\NJust the one day today would be fine!
+Dialogue: 0,0:06:29.49,0:06:31.66,Default,,0000,0000,0000,,Let me join your training!
+Dialogue: 0,0:06:32.95,0:06:35.41,Default,,0000,0000,0000,,Hey! What’s with this guy\N all of a sudden?
+Dialogue: 0,0:06:35.49,0:06:37.50,Default,,0000,0000,0000,,He’s probably a real acquaintance\Nof theirs, but…
+Dialogue: 0,0:06:37.83,0:06:40.70,Default,,0000,0000,0000,,Does he think\Nwe’re going to do training?!
+Dialogue: 0,0:06:42.79,0:06:47.25,Default,,0000,0000,0000,,I’ll do anything! I’ve always\Nbeen interested in Taijutsu.
+Dialogue: 0,0:06:47.29,0:06:49.45,Default,,0000,0000,0000,,I mean…okay?! It’s okay, right?
+Dialogue: 0,0:06:50.00,0:06:51.49,Default,,0000,0000,0000,,Anyway, let’s turn him away!
+Dialogue: 0,0:06:51.49,0:06:52.00,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:06:52.66,0:06:54.49,Default,,0000,0000,0000,,No. Take a pass.
+Dialogue: 0,0:06:54.75,0:06:56.49,Default,,0000,0000,0000,,What? Why?!
+Dialogue: 0,0:06:56.62,0:07:01.37,Default,,0000,0000,0000,,Because our training is very harsh,\N rough and difficult.
+Dialogue: 0,0:07:02.04,0:07:03.83,Default,,0000,0000,0000,,Difficult training, huh…?
+Dialogue: 0,0:07:04.00,0:07:07.49,Default,,0000,0000,0000,,Ahhh, I’m getting even\Nmore fired up! Please!
+Dialogue: 0,0:07:07.49,0:07:11.75,Default,,0000,0000,0000,,I won’t get in your way,\Nno matter what! Come on.
+Dialogue: 0,0:07:12.49,0:07:14.49,Default,,0000,0000,0000,,– Absolutely not!\N– Absolutely not!
+Dialogue: 0,0:07:14.49,0:07:16.95,Default,,0000,0000,0000,,All right, since it’s come to this!
+Dialogue: 0,0:07:17.37,0:07:18.62,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:07:20.95,0:07:22.49,Default,,0000,0000,0000,,Real body clones?!
+Dialogue: 0,0:07:22.54,0:07:23.49,Default,,0000,0000,0000,,– And furthermore…\N– And furthermore…
+Dialogue: 0,0:07:24.33,0:07:25.49,Default,,0000,0000,0000,,– Harem Jutsu!\N– Harem Jutsu!
+Dialogue: 0,0:07:26.45,0:07:27.87,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:07:32.50,0:07:33.91,Default,,0000,0000,0000,,– What?! 					– What?!
+Dialogue: 0,0:07:36.79,0:07:40.20,Default,,0000,0000,0000,,– Pl-ea-se. 					– Pl-ea-se.
+Dialogue: 0,0:07:41.49,0:07:42.70,Default,,0000,0000,0000,,– Okay! 					– Okay!
+Dialogue: 0,0:07:43.00,0:07:43.62,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:44.87,0:07:46.49,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:07:47.49,0:07:48.12,Default,,0000,0000,0000,,– No way. 					– No way.
+Dialogue: 0,0:07:49.49,0:07:51.79,Default,,0000,0000,0000,,Brother, why’d you say okay?
+Dialogue: 0,0:07:52.20,0:07:54.04,Default,,0000,0000,0000,,What’s done is done,\Nso it can’t be helped, right?!
+Dialogue: 0,0:07:54.49,0:07:56.62,Default,,0000,0000,0000,,Hey, Guy Sensei, Lee!
+Dialogue: 0,0:07:58.62,0:08:00.37,Default,,0000,0000,0000,,What’s the deal, you two?
+Dialogue: 0,0:08:01.66,0:08:03.62,Default,,0000,0000,0000,,We’re going to the farm today, right?
+Dialogue: 0,0:08:04.29,0:08:05.16,Default,,0000,0000,0000,,Farm?
+Dialogue: 0,0:08:05.49,0:08:07.33,Default,,0000,0000,0000,,What’re you doing letting\Nyour mind wander?
+Dialogue: 0,0:08:07.37,0:08:10.29,Default,,0000,0000,0000,,The person’s waiting.\NCome on, hurry!
+Dialogue: 0,0:08:10.37,0:08:11.87,Default,,0000,0000,0000,,– Huh? Oh… 					– H-Hey!
+Dialogue: 0,0:08:12.75,0:08:14.04,Default,,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:08:14.33,0:08:16.08,Default,,0000,0000,0000,,– What…? 					– Huh?
+Dialogue: 0,0:08:18.04,0:08:20.79,Default,,0000,0000,0000,,I promised to plant rice for\Nthe sake of training?
+Dialogue: 0,0:08:21.25,0:08:22.62,Default,,0000,0000,0000,,Not only that, all of this…
+Dialogue: 0,0:08:22.95,0:08:25.25,Default,,0000,0000,0000,,It’s totally huge.
+Dialogue: 0,0:08:25.49,0:08:28.91,Default,,0000,0000,0000,,Gee, thanks. It’s a big help,\Nyou guys giving me a hand.
+Dialogue: 0,0:08:29.08,0:08:30.50,Default,,0000,0000,0000,,Please don’t worry about it.
+Dialogue: 0,0:08:30.54,0:08:34.49,Default,,0000,0000,0000,,They accepted this on\Ntheir own accord, so. Bye.
+Dialogue: 0,0:08:38.37,0:08:40.49,Default,,0000,0000,0000,,Why is this training?
+Dialogue: 0,0:08:40.58,0:08:41.49,Default,,0000,0000,0000,,I get it!
+Dialogue: 0,0:08:42.16,0:08:45.16,Default,,0000,0000,0000,,Indeed, I will use my body quite\Na bit if I do this training.
+Dialogue: 0,0:08:45.41,0:08:48.16,Default,,0000,0000,0000,,So I can get in shape\Nwhile helping out, huh?
+Dialogue: 0,0:08:48.79,0:08:50.66,Default,,0000,0000,0000,,Guy Sensei, Bushy Brow!
+Dialogue: 0,0:08:50.83,0:08:53.41,Default,,0000,0000,0000,,I’ll do my best!
+Dialogue: 0,0:08:53.70,0:08:56.04,Default,,0000,0000,0000,,Why’s he that motivated?
+Dialogue: 0,0:08:57.04,0:08:59.54,Default,,0000,0000,0000,,Why should we have\Nto do this manual labor…?
+Dialogue: 0,0:09:00.16,0:09:02.83,Default,,0000,0000,0000,,Damn it.\NAnyway, let’s get this over with!
+Dialogue: 0,0:09:03.00,0:09:03.87,Default,,0000,0000,0000,,You’re right.
+Dialogue: 0,0:09:10.29,0:09:12.41,Default,,0000,0000,0000,,Th-That’s mean, brother!
+Dialogue: 0,0:09:12.49,0:09:14.16,Default,,0000,0000,0000,,Oh, sorry about that.
+Dialogue: 0,0:09:16.49,0:09:17.41,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:21.83,0:09:22.49,Default,,0000,0000,0000,,Poccha?!
+Dialogue: 0,0:09:25.49,0:09:28.16,Default,,0000,0000,0000,,Come to think of it, there are\Nflying leeches  in the rice fields,
+Dialogue: 0,0:09:28.20,0:09:29.49,Default,,0000,0000,0000,,so be careful.
+Dialogue: 0,0:09:30.08,0:09:32.16,Default,,0000,0000,0000,,F-Flying leeches?!
+Dialogue: 0,0:09:39.12,0:09:40.79,Default,,0000,0000,0000,,Worst-case scenario, it could be deadly.
+Dialogue: 0,0:09:42.87,0:09:44.58,Default,,0000,0000,0000,,Yikes.
+Dialogue: 0,0:09:46.54,0:09:47.95,Default,,0000,0000,0000,,Hey Poccha!
+Dialogue: 0,0:09:48.25,0:09:49.41,Default,,0000,0000,0000,,Hang in there!
+Dialogue: 0,0:10:00.08,0:10:02.49,Default,,0000,0000,0000,,Just what I’d expect of Taijutsu training!
+Dialogue: 0,0:10:02.75,0:10:05.50,Default,,0000,0000,0000,,That was some intense rice planting!
+Dialogue: 0,0:10:07.20,0:10:09.91,Default,,0000,0000,0000,,Phew, that was a good workout!
+Dialogue: 0,0:10:10.29,0:10:11.50,Default,,0000,0000,0000,,W-We’re done…
+Dialogue: 0,0:10:11.54,0:10:13.49,Default,,0000,0000,0000,,Th-That was life or death…
+Dialogue: 0,0:10:13.83,0:10:15.37,Default,,0000,0000,0000,,Then, shall we move on?
+Dialogue: 0,0:10:21.83,0:10:23.75,Default,,0000,0000,0000,,– A manure receptacle?!\N– A manure receptacle?!
+Dialogue: 0,0:10:23.95,0:10:26.49,Default,,0000,0000,0000,,Spread this in that field over there.
+Dialogue: 0,0:10:28.08,0:10:30.49,Default,,0000,0000,0000,,Th-This is also training…?
+Dialogue: 0,0:10:31.95,0:10:33.95,Default,,0000,0000,0000,,H-Heavy…Smelly…
+Dialogue: 0,0:10:34.12,0:10:36.41,Default,,0000,0000,0000,,Why should I have to do\Nsomething like this…?
+Dialogue: 0,0:10:41.12,0:10:44.95,Default,,0000,0000,0000,,Hey, you guys,\Nwhy don’t you walk straight?
+Dialogue: 0,0:10:46.25,0:10:49.00,Default,,0000,0000,0000,,Y-You can walk twice\Nthe forward progress distance
+Dialogue: 0,0:10:49.04,0:10:51.49,Default,,0000,0000,0000,,if you move ahead while\N walking left and right like this!
+Dialogue: 0,0:10:51.62,0:10:53.79,Default,,0000,0000,0000,,Oh, so that was it?
+Dialogue: 0,0:10:53.95,0:10:55.25,Default,,0000,0000,0000,,Then I’ll also…
+Dialogue: 0,0:10:56.49,0:10:57.79,Default,,0000,0000,0000,,Like this?
+Dialogue: 0,0:10:59.33,0:11:02.29,Default,,0000,0000,0000,,I-It’s really hard to balance like this!
+Dialogue: 0,0:11:02.49,0:11:04.49,Default,,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:11:05.75,0:11:10.66,Default,,0000,0000,0000,,Gee, I didn’t realize at all that\Nthere was a method of training like this…
+Dialogue: 0,0:11:10.70,0:11:13.08,Default,,0000,0000,0000,,Hey! Watch it.\NWalk more over there…
+Dialogue: 0,0:11:13.41,0:11:14.83,Default,,0000,0000,0000,,What’d you say?
+Dialogue: 0,0:11:40.49,0:11:41.37,Default,,0000,0000,0000,,What a nightmare.
+Dialogue: 0,0:11:41.41,0:11:44.91,Default,,0000,0000,0000,,Forget about it.\NAnyway, let’s lose the kid right now.
+Dialogue: 0,0:11:46.91,0:11:49.37,Default,,0000,0000,0000,,As for you guys,\Nyou still kind of smell bad.
+Dialogue: 0,0:11:49.49,0:11:50.54,Default,,0000,0000,0000,,– Shut up! 					– Shut up!
+Dialogue: 0,0:11:51.00,0:11:53.49,Default,,0000,0000,0000,,There you are, Guy Sensei, Lee.
+Dialogue: 0,0:11:53.49,0:11:55.00,Default,,0000,0000,0000,,Oh, Sakura.
+Dialogue: 0,0:11:55.12,0:11:57.25,Default,,0000,0000,0000,,Oh, Naruto. You’re here, too?
+Dialogue: 0,0:11:58.87,0:12:02.70,Default,,0000,0000,0000,,As for me,\NI’m training together with these two today.
+Dialogue: 0,0:12:02.70,0:12:04.33,Default,,0000,0000,0000,,R-Really?
+Dialogue: 0,0:12:04.87,0:12:06.33,Default,,0000,0000,0000,,More importantly, is something up?
+Dialogue: 0,0:12:06.37,0:12:11.49,Default,,0000,0000,0000,,Yeah… Actually, I really wanted\Nyour help with something, Guy Sensei, Lee.
+Dialogue: 0,0:12:11.49,0:12:12.49,Default,,0000,0000,0000,,– What? 					– What?
+Dialogue: 0,0:12:13.29,0:12:15.66,Default,,0000,0000,0000,,– Your laundry blew away in the wind?\N– Your laundry blew away in the wind?
+Dialogue: 0,0:12:15.83,0:12:19.45,Default,,0000,0000,0000,,That’s right.\Nlt got caught in a bit of a high spot.
+Dialogue: 0,0:12:19.62,0:12:23.49,Default,,0000,0000,0000,,No. No way, no way.\NWe’ve got lots of work to do, so.
+Dialogue: 0,0:12:23.62,0:12:24.49,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:12:24.75,0:12:27.49,Default,,0000,0000,0000,,Here I’m asking precisely\Nbecause it’s you guys.
+Dialogue: 0,0:12:27.50,0:12:29.49,Default,,0000,0000,0000,,Please don’t say no!
+Dialogue: 0,0:12:30.79,0:12:35.29,Default,,0000,0000,0000,,Sakura, if you’re in that much trouble,\NI could get it for you!
+Dialogue: 0,0:12:37.04,0:12:38.49,Default,,0000,0000,0000,,Okay, Guy Sensei?
+Dialogue: 0,0:12:39.87,0:12:40.49,Default,,0000,0000,0000,,Okay?!
+Dialogue: 0,0:12:41.58,0:12:42.49,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:12:49.37,0:12:51.25,Default,,0000,0000,0000,,What a sheer cliff.
+Dialogue: 0,0:12:51.49,0:12:55.00,Default,,0000,0000,0000,,That’s for sure. We’d be beyond help\Nif we were to fall from up there.
+Dialogue: 0,0:12:55.20,0:12:57.49,Default,,0000,0000,0000,,Right? I don’t quite have the confidence…
+Dialogue: 0,0:12:58.62,0:12:59.45,Default,,0000,0000,0000,,That means…
+Dialogue: 0,0:13:01.49,0:13:02.70,Default,,0000,0000,0000,,Yup! It’s right above here.
+Dialogue: 0,0:13:16.08,0:13:18.29,Default,,0000,0000,0000,,Gee, as one would expect,\NI don’t think we could…
+Dialogue: 0,0:13:18.41,0:13:20.16,Default,,0000,0000,0000,,Isn’t that great, Sakura?
+Dialogue: 0,0:13:20.41,0:13:24.49,Default,,0000,0000,0000,,For Guy Sensei, a cliff like this is\Nno different than a flat path.
+Dialogue: 0,0:13:24.49,0:13:26.33,Default,,0000,0000,0000,,That’s encouraging.
+Dialogue: 0,0:13:26.49,0:13:30.37,Default,,0000,0000,0000,,It’s a big help having an awesome Ninja\Nlike you close by, Guy Sensei.
+Dialogue: 0,0:13:30.49,0:13:32.70,Default,,0000,0000,0000,,What? Uhh… Umm…
+Dialogue: 0,0:13:33.91,0:13:36.29,Default,,0000,0000,0000,,Now, please.
+Dialogue: 0,0:13:37.45,0:13:38.49,Default,,0000,0000,0000,,Brother…
+Dialogue: 0,0:13:40.54,0:13:44.41,Default,,0000,0000,0000,,Damn it. Why is this happening?!
+Dialogue: 0,0:13:44.49,0:13:46.20,Default,,0000,0000,0000,,I-I don’t want to die.
+Dialogue: 0,0:13:46.49,0:13:47.58,Default,,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:13:49.83,0:13:53.45,Default,,0000,0000,0000,,Hey, as for you guys,\Nwhy aren’t you using the Chakra suction?
+Dialogue: 0,0:13:53.95,0:13:57.49,Default,,0000,0000,0000,,Th-This is training for building up\Nmuscular strength!
+Dialogue: 0,0:13:58.29,0:13:59.37,Default,,0000,0000,0000,,So that’s what it was?!
+Dialogue: 0,0:13:59.50,0:14:01.49,Default,,0000,0000,0000,,Just what I’d expect of a Taijutsu user.
+Dialogue: 0,0:14:01.58,0:14:05.49,Default,,0000,0000,0000,,I never came up with deliberately\Ndraining physical strength!
+Dialogue: 0,0:14:05.79,0:14:08.91,Default,,0000,0000,0000,,I really do learn a lot from\Nbeing with you, Sensei.
+Dialogue: 0,0:14:09.20,0:14:10.66,Default,,0000,0000,0000,,Th-This jerk…
+Dialogue: 0,0:14:10.70,0:14:12.12,Default,,0000,0000,0000,,I’m…I’m going to die…
+Dialogue: 0,0:14:12.16,0:14:12.87,Default,,0000,0000,0000,,Alley-oop!
+Dialogue: 0,0:14:13.75,0:14:14.49,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:14:15.54,0:14:17.49,Default,,0000,0000,0000,,Th-That was close…!
+Dialogue: 0,0:14:20.41,0:14:22.49,Default,,0000,0000,0000,,Gee, sorry about that.
+Dialogue: 0,0:14:22.95,0:14:24.49,Default,,0000,0000,0000,,This jerk…
+Dialogue: 0,0:14:33.08,0:14:34.49,Default,,0000,0000,0000,,All right, we made it.
+Dialogue: 0,0:14:36.58,0:14:37.75,Default,,0000,0000,0000,,Don’t look down!
+Dialogue: 0,0:14:38.08,0:14:40.95,Default,,0000,0000,0000,,Anyway, if we can just take\Nthis back with us…
+Dialogue: 0,0:14:41.00,0:14:42.37,Default,,0000,0000,0000,,Alley-oop…
+Dialogue: 0,0:14:42.41,0:14:43.25,Default,,0000,0000,0000,,Damn it…
+Dialogue: 0,0:14:44.33,0:14:45.49,Default,,0000,0000,0000,,All right, I got it.
+Dialogue: 0,0:14:47.08,0:14:49.83,Default,,0000,0000,0000,,It won’t come loose…\NHey, help me out here.
+Dialogue: 0,0:14:49.87,0:14:51.29,Default,,0000,0000,0000,,R-Right…
+Dialogue: 0,0:14:56.49,0:14:57.45,Default,,0000,0000,0000,,You little…!
+Dialogue: 0,0:15:03.70,0:15:06.41,Default,,0000,0000,0000,,Sensei, use suction with your Chakra!
+Dialogue: 0,0:15:06.49,0:15:07.66,Default,,0000,0000,0000,,This is nothing to me!
+Dialogue: 0,0:15:10.08,0:15:11.12,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:15:12.54,0:15:14.95,Default,,0000,0000,0000,,For real? What?!
+Dialogue: 0,0:15:15.49,0:15:17.66,Default,,0000,0000,0000,,Guy Sensei! Bushy Brow!
+Dialogue: 0,0:15:27.41,0:15:28.49,Default,,0000,0000,0000,,I’ve had it…
+Dialogue: 0,0:15:28.87,0:15:30.75,Default,,0000,0000,0000,,Sensei, Bushy Brow!
+Dialogue: 0,0:15:31.91,0:15:33.49,Default,,0000,0000,0000,,That was awesome!
+Dialogue: 0,0:15:33.79,0:15:37.91,Default,,0000,0000,0000,,To do something like not\Nusing Chakra suction. Awesome!
+Dialogue: 0,0:15:38.04,0:15:39.37,Default,,0000,0000,0000,,– Look you…! 					– Look you…!
+Dialogue: 0,0:15:39.41,0:15:41.29,Default,,0000,0000,0000,,Perfect timing, you guys.
+Dialogue: 0,0:15:42.50,0:15:43.83,Default,,0000,0000,0000,,Old Lady Tsunade.
+Dialogue: 0,0:15:44.45,0:15:46.49,Default,,0000,0000,0000,,Actually, I’ve got something\NI want to ask you guys to do.
+Dialogue: 0,0:15:47.95,0:15:50.62,Default,,0000,0000,0000,,My companion suddenly started\Nnot feeling well, you see.
+Dialogue: 0,0:15:51.79,0:15:54.70,Default,,0000,0000,0000,,– Yikes! It’s huge!\N– It's huge!
+Dialogue: 0,0:15:55.04,0:15:56.87,Default,,0000,0000,0000,,It seems she’s caught a cold.
+Dialogue: 0,0:15:57.49,0:16:02.25,Default,,0000,0000,0000,,It’s a huge slug. Oh, as for this,\Nis it something like Chief Toad?
+Dialogue: 0,0:16:02.54,0:16:03.87,Default,,0000,0000,0000,,Well, that sounds about right.
+Dialogue: 0,0:16:05.08,0:16:08.66,Default,,0000,0000,0000,,However, as you can see,\Nwe can’t carelessly move her.
+Dialogue: 0,0:16:09.49,0:16:11.49,Default,,0000,0000,0000,,Sorry, but could you guys look\Nafter her for a while?
+Dialogue: 0,0:16:13.49,0:16:15.49,Default,,0000,0000,0000,,I’m very sorry.
+Dialogue: 0,0:16:22.91,0:16:25.49,Default,,0000,0000,0000,,Jeez. What a ridiculous guy.
+Dialogue: 0,0:16:25.75,0:16:29.49,Default,,0000,0000,0000,,Brother, at this rate we won’t be able\N to look for the confidential information.
+Dialogue: 0,0:16:29.50,0:16:31.00,Default,,0000,0000,0000,,Oh, that’s right.
+Dialogue: 0,0:16:31.16,0:16:32.49,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:16:33.49,0:16:35.49,Default,,0000,0000,0000,,What’re you moaning about?
+Dialogue: 0,0:16:43.58,0:16:44.49,Default,,0000,0000,0000,,You guys.
+Dialogue: 0,0:16:45.20,0:16:47.20,Default,,0000,0000,0000,,It couldn’t be that you guys
+Dialogue: 0,0:16:47.25,0:16:49.41,Default,,0000,0000,0000,,can’t listen to the words of me,\Nthe Hokage, could it?
+Dialogue: 0,0:16:49.58,0:16:51.49,Default,,0000,0000,0000,,– This is the Hokage?\N– This is the Hokage?
+Dialogue: 0,0:16:54.29,0:16:57.91,Default,,0000,0000,0000,,This is bad. To think the Hokage\Nwas that fierce a person.
+Dialogue: 0,0:16:57.95,0:17:01.41,Default,,0000,0000,0000,,We’re taking care of\Nher precious companion.
+Dialogue: 0,0:17:01.49,0:17:04.87,Default,,0000,0000,0000,,We might be able to get into\Nthe Hokage estate surprisingly easily.
+Dialogue: 0,0:17:05.16,0:17:06.37,Default,,0000,0000,0000,,I wonder.
+Dialogue: 0,0:17:06.79,0:17:09.49,Default,,0000,0000,0000,,So even Summoning animals\Nget sick, too…
+Dialogue: 0,0:17:09.79,0:17:11.83,Default,,0000,0000,0000,,It seems to be a light cold.
+Dialogue: 0,0:17:12.45,0:17:17.20,Default,,0000,0000,0000,,My nose itches, I have a sore throat\Nand I feel weak or something…
+Dialogue: 0,0:17:18.08,0:17:20.70,Default,,0000,0000,0000,,Hey, I’m going to chill your forehead!
+Dialogue: 0,0:17:21.08,0:17:22.70,Default,,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:17:26.58,0:17:28.00,Default,,0000,0000,0000,,All right, here we go.
+Dialogue: 0,0:17:28.45,0:17:31.41,Default,,0000,0000,0000,,Oh…Oh no. The itching…
+Dialogue: 0,0:17:38.49,0:17:39.20,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:43.54,0:17:45.49,Default,,0000,0000,0000,,– Wha--! 					– What?!
+Dialogue: 0,0:17:52.49,0:17:54.16,Default,,0000,0000,0000,,It’s… It’s melting…
+Dialogue: 0,0:17:54.49,0:17:55.95,Default,,0000,0000,0000,,Watch it, you!
+Dialogue: 0,0:17:56.62,0:17:59.41,Default,,0000,0000,0000,,I’m very sorry. I’ll be more caref--
+Dialogue: 0,0:18:08.70,0:18:10.54,Default,,0000,0000,0000,,Guy Sensei! Bushy Brow!
+Dialogue: 0,0:18:10.58,0:18:12.49,Default,,0000,0000,0000,,You’ll be in danger if you don’t\Nmove away from there!
+Dialogue: 0,0:18:13.16,0:18:14.54,Default,,0000,0000,0000,,My…My lower back…
+Dialogue: 0,0:18:14.58,0:18:16.29,Default,,0000,0000,0000,,Y-You idiot!
+Dialogue: 0,0:18:16.33,0:18:20.79,Default,,0000,0000,0000,,I’m developing my dynamic vision\N for narrowly evading danger!
+Dialogue: 0,0:18:20.95,0:18:21.75,Default,,0000,0000,0000,,Wha--?
+Dialogue: 0,0:18:21.83,0:18:23.16,Default,,0000,0000,0000,,That Sensei,
+Dialogue: 0,0:18:23.20,0:18:25.91,Default,,0000,0000,0000,,he was training, putting his life\Nat risk even at times like this…?
+Dialogue: 0,0:18:26.49,0:18:31.16,Default,,0000,0000,0000,,Even though that Bushy Brow guy’s\N training properly, as for me…!
+Dialogue: 0,0:18:33.29,0:18:38.37,Default,,0000,0000,0000,,I’ve woken up,\NGuy Sensei, I’ll train with you!
+Dialogue: 0,0:18:39.79,0:18:41.49,Default,,0000,0000,0000,,Let’s do this!
+Dialogue: 0,0:18:44.50,0:18:49.08,Default,,0000,0000,0000,,Ohh, the joints in my body hurt…\NI feel like I’m going to fall apart…
+Dialogue: 0,0:18:51.66,0:18:55.16,Default,,0000,0000,0000,,Hey! Aren't you a slug?\NWhat’re you doing talking about joints?!
+Dialogue: 0,0:18:59.49,0:19:02.12,Default,,0000,0000,0000,,– S-Save us. 					– S-Save us!
+Dialogue: 0,0:19:07.49,0:19:10.49,Default,,0000,0000,0000,,I’ve had it.\NWhat’s going on with this village…?
+Dialogue: 0,0:19:10.75,0:19:14.00,Default,,0000,0000,0000,,I’ll die if I stay in a place like this\Nany longer.
+Dialogue: 0,0:19:15.62,0:19:16.75,Default,,0000,0000,0000,,Withdraw…
+Dialogue: 0,0:19:17.12,0:19:18.00,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:19:27.12,0:19:28.58,Default,,0000,0000,0000,,Who’re you guys?
+Dialogue: 0,0:19:28.95,0:19:31.79,Default,,0000,0000,0000,,Why are you dressed like\Nmy protégé Lee…?
+Dialogue: 0,0:19:32.20,0:19:33.20,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:19:33.45,0:19:34.50,Default,,0000,0000,0000,,Since it’s come to this,\N I don’t give a damn anymore!
+Dialogue: 0,0:19:36.49,0:19:40.91,Default,,0000,0000,0000,,– Super Excellent Great Hyper Attack!\N– Super Excellent Great Hyper Attack!
+Dialogue: 0,0:19:42.25,0:19:44.66,Default,,0000,0000,0000,,I don’t really get it, but it seems\N we just have to fight, huh?
+Dialogue: 0,0:19:44.91,0:19:46.12,Default,,0000,0000,0000,,So it seems.
+Dialogue: 0,0:19:46.20,0:19:47.49,Default,,0000,0000,0000,,Let’s go, Lee!
+Dialogue: 0,0:19:47.50,0:19:48.75,Default,,0000,0000,0000,,Now, knockout technique!
+Dialogue: 0,0:19:49.49,0:19:52.25,Default,,0000,0000,0000,,– Double Dynamic Entry!\N– Double Dynamic Entry!
+Dialogue: 0,0:19:54.49,0:19:58.33,Default,,0000,0000,0000,,Damn it. What did we go there for\N in the end?!
+Dialogue: 0,0:19:58.49,0:20:00.70,Default,,0000,0000,0000,,I really hate, I really hate…
+Dialogue: 0,0:20:00.75,0:20:02.66,Default,,0000,0000,0000,,– the likes of the Leaf!\N– the likes of the Leaf!
+Dialogue: 0,0:20:04.50,0:20:06.49,Default,,0000,0000,0000,,Tamaya!
+Dialogue: 0,0:20:10.58,0:20:12.91,Default,,0000,0000,0000,,Lord knows where they came from,
+Dialogue: 0,0:20:12.95,0:20:15.58,Default,,0000,0000,0000,,but now they’ll probably never\N want to try that again.
+Dialogue: 0,0:20:15.70,0:20:17.83,Default,,0000,0000,0000,,You sure looked like\Nyou were having fun, Lady Tsunade,
+Dialogue: 0,0:20:17.87,0:20:19.49,Default,,0000,0000,0000,,going so far as to summon Katsuyu.
+Dialogue: 0,0:20:19.75,0:20:23.70,Default,,0000,0000,0000,,Well, my adorable Genin\Nhelped out as well, so.
+Dialogue: 0,0:20:26.08,0:20:29.87,Default,,0000,0000,0000,,Now, we’ve had our breather.\NSo please be getting back to work.
+Dialogue: 0,0:20:30.16,0:20:31.37,Default,,0000,0000,0000,,Oh yes, ma’am.
+Dialogue: 0,0:20:31.75,0:20:35.37,Default,,0000,0000,0000,,But still…\NWhat was with that Naruto?
+Dialogue: 0,0:20:35.49,0:20:38.16,Default,,0000,0000,0000,,To think he seriously believed\Nthose two were for real.
+Dialogue: 0,0:20:38.62,0:20:40.50,Default,,0000,0000,0000,,What was that all about?
+Dialogue: 0,0:20:40.66,0:20:41.49,Default,,0000,0000,0000,,Who knows…?
+Dialogue: 0,0:20:41.79,0:20:43.08,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:43.12,0:20:43.79,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:20:43.95,0:20:47.41,Default,,0000,0000,0000,,– Someone who looked just like me now…\N– Man, you guys got separated.
+Dialogue: 0,0:20:47.45,0:20:49.08,Default,,0000,0000,0000,,I didn’t know what to do.
+Dialogue: 0,0:20:49.75,0:20:51.66,Default,,0000,0000,0000,,As for me, I was impressed!
+Dialogue: 0,0:20:51.70,0:20:55.49,Default,,0000,0000,0000,,– You guys were really cool earlier!\N– Huh?
+Dialogue: 0,0:20:55.83,0:20:58.62,Default,,0000,0000,0000,,I’ve learned of the intricacies of Taijutsu\Nor something…
+Dialogue: 0,0:20:59.41,0:21:02.75,Default,,0000,0000,0000,,A lot happened, but I’ll continue\Ntraining right away!
+Dialogue: 0,0:21:03.33,0:21:04.95,Default,,0000,0000,0000,,Continue training?
+Dialogue: 0,0:21:05.00,0:21:08.54,Default,,0000,0000,0000,,So come on, let’s continue\Nthe Taijutsu training!
+Dialogue: 0,0:21:11.16,0:21:15.54,Default,,0000,0000,0000,,Moron, moron, moron.
+Dialogue: 0,0:21:30.49,0:21:41.54,Default,,0000,0000,0000,,So many things happen\Non this endless road, huh?
+Dialogue: 0,0:21:42.12,0:21:53.25,Default,,0000,0000,0000,,Although you’re strong-willed,\Nyour voice wavered on the phone today
+Dialogue: 0,0:21:53.87,0:22:04.49,Default,,0000,0000,0000,,What dreams did you chase to get here?
+Dialogue: 0,0:22:04.87,0:22:16.66,Default,,0000,0000,0000,,Even I have times when\NI just don’t understand, baby
+Dialogue: 0,0:22:16.83,0:22:28.20,Default,,0000,0000,0000,,When you’re sad, I’ll be close to you
+Dialogue: 0,0:22:28.45,0:22:39.62,Default,,0000,0000,0000,,Even on nights when we’re apart,\NI’ll be close to you
+Dialogue: 0,0:22:39.91,0:22:45.49,Default,,0000,0000,0000,,I’ll be close to you
+Dialogue: 0,0:22:51.70,0:22:55.58,Default,,0000,0000,0000,,Damn it! Why should a Ninja have\Nto do something like get rid of a ghost?!
+Dialogue: 0,0:22:55.75,0:22:58.08,Default,,0000,0000,0000,,We have no choice, right?\NAfter all, a commission is a comission!
+Dialogue: 0,0:22:58.16,0:23:02.20,Default,,0000,0000,0000,,The ghost of a feudal lord, my butt?!\NTh-That’s ridiculous!
+Dialogue: 0,0:23:02.29,0:23:04.49,Default,,0000,0000,0000,,But they say it comes out at night!
+Dialogue: 0,0:23:04.49,0:23:06.91,Default,,0000,0000,0000,,A ghost warrior clad in a white armor!
+Dialogue: 0,0:23:06.95,0:23:09.16,Default,,0000,0000,0000,,N-No, I’m not afraid of it at all!
+Dialogue: 0,0:23:09.20,0:23:10.70,Default,,0000,0000,0000,,H-Hey! Behind you!
+Dialogue: 0,0:23:10.75,0:23:12.04,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:23:12.08,0:23:14.49,Default,,0000,0000,0000,,I knew it! You ARE afraid!
+Dialogue: 0,0:23:14.50,0:23:16.50,Default,,0000,0000,0000,,Next time: “The Cursed Warrior”

@@ -1,0 +1,274 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.73,0:00:21.06,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.89,0:00:29.89,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.89,0:00:35.27,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.31,0:00:39.44,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.69,0:00:45.60,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.23,0:00:53.15,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.60,0:00:58.02,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:58.06,0:01:05.06,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.19,0:01:12.31,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.35,0:01:18.98,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.44,0:01:28.94,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:42.89,0:01:44.10,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:01:44.15,0:01:45.89,Default,,0000,0000,0000,,Roar and Howl!\NThe Ultimate Tag-Team!
+Dialogue: 0,0:01:46.90,0:01:47.90,Default,,0000,0000,0000,,Got you!
+Dialogue: 0,0:02:00.89,0:02:01.89,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:02:03.15,0:02:04.35,Default,,0000,0000,0000,,What’s going on?!
+Dialogue: 0,0:02:07.02,0:02:09.60,Default,,0000,0000,0000,,I felt a response to my attack,\Nbut it didn’t work.
+Dialogue: 0,0:02:10.06,0:02:11.94,Default,,0000,0000,0000,,And where did his attack\Ncome from?
+Dialogue: 0,0:02:15.89,0:02:17.02,Default,,0000,0000,0000,,Listen, Akamaru.
+Dialogue: 0,0:02:18.89,0:02:21.10,Default,,0000,0000,0000,,We’re gonna attack from both sides\Nwith Fang Over Fang.
+Dialogue: 0,0:02:25.69,0:02:26.23,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:02:30.90,0:02:31.90,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:02:34.19,0:02:35.60,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:02:46.06,0:02:47.85,Default,,0000,0000,0000,,This doesn’t look so good.
+Dialogue: 0,0:02:49.89,0:02:52.10,Default,,0000,0000,0000,,I’ll play a melody of death for you.
+Dialogue: 0,0:03:00.02,0:03:01.44,Default,,0000,0000,0000,,What’s with this guy?
+Dialogue: 0,0:03:03.89,0:03:04.48,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:07.40,0:03:10.94,Default,,0000,0000,0000,,Two on two is perfect,\Nright, Sakon?
+Dialogue: 0,0:03:18.98,0:03:21.90,Default,,0000,0000,0000,,How could the Sound Ninja Four\Ntake so much time?
+Dialogue: 0,0:03:23.06,0:03:26.69,Default,,0000,0000,0000,,Did they send such strong people\Nafter them who could hold them up…
+Dialogue: 0,0:03:27.27,0:03:29.31,Default,,0000,0000,0000,,or are they playing around too much?
+Dialogue: 0,0:03:33.44,0:03:36.06,Default,,0000,0000,0000,,Well, the one that’s probably\Ndelaying things is…
+Dialogue: 0,0:03:36.31,0:03:41.06,Default,,0000,0000,0000,,either Jirobo who gets hungry a lot,\Nor Kidomaru who likes to play.
+Dialogue: 0,0:03:41.48,0:03:43.35,Default,,0000,0000,0000,,But the one that’s\Nthe most dangerous
+Dialogue: 0,0:03:43.40,0:03:45.02,Default,,0000,0000,0000,,when he loses his temper\Nis Sakon.
+Dialogue: 0,0:03:46.90,0:03:49.56,Default,,0000,0000,0000,,He’s not satisfied until\Nhe kills his opponent,
+Dialogue: 0,0:03:49.89,0:03:51.60,Default,,0000,0000,0000,,even though he should\Njust leave things be.
+Dialogue: 0,0:03:52.27,0:03:55.89,Default,,0000,0000,0000,,He thinks he’s the strongest of\Nthe four, so he shows off.
+Dialogue: 0,0:03:58.19,0:03:59.48,Default,,0000,0000,0000,,I wonder if that’s so…
+Dialogue: 0,0:04:00.06,0:04:03.44,Default,,0000,0000,0000,,Tayuya has a personality that’s\Nneck and neck with Sakon.
+Dialogue: 0,0:04:03.98,0:04:06.31,Default,,0000,0000,0000,,But in any case,\Nnothing bad will happen
+Dialogue: 0,0:04:06.35,0:04:09.40,Default,,0000,0000,0000,,since we sent that kid…
+Dialogue: 0,0:04:11.23,0:04:12.48,Default,,0000,0000,0000,,Kimimaro.
+Dialogue: 0,0:04:12.98,0:04:19.89,Default,,0000,0000,0000,,He’ll surely clean up anything that is\Nnot good for me.
+Dialogue: 0,0:04:30.02,0:04:32.60,Default,,0000,0000,0000,,I will never let you take Sasuke!
+Dialogue: 0,0:04:33.89,0:04:36.27,Default,,0000,0000,0000,,There’s a lot of trash scattered about.
+Dialogue: 0,0:04:38.15,0:04:41.48,Default,,0000,0000,0000,,But after all, trash is trash.
+Dialogue: 0,0:04:42.06,0:04:44.02,Default,,0000,0000,0000,,It simply needs to be cleaned up.
+Dialogue: 0,0:04:45.60,0:04:46.89,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:04:49.89,0:04:50.81,Default,,0000,0000,0000,,Come on.
+Dialogue: 0,0:04:51.94,0:04:53.89,Default,,0000,0000,0000,,I’ll crush you!
+Dialogue: 0,0:05:30.89,0:05:33.02,Default,,0000,0000,0000,,So this is the so-called\Nmelody of death.
+Dialogue: 0,0:05:52.89,0:05:54.44,Default,,0000,0000,0000,,So she’s manipulating them\Nwith the sound of the flute.
+Dialogue: 0,0:06:10.89,0:06:14.56,Default,,0000,0000,0000,,Damn! She’s getting\Nfurther and further away.
+Dialogue: 0,0:06:14.73,0:06:17.23,Default,,0000,0000,0000,,What should I do?!\NWhat is it that I should do?!
+Dialogue: 0,0:06:17.77,0:06:18.35,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:19.52,0:06:21.56,Default,,0000,0000,0000,,This is really looking bad!
+Dialogue: 0,0:06:33.89,0:06:34.89,Default,,0000,0000,0000,,Akamaru!
+Dialogue: 0,0:06:36.06,0:06:38.40,Default,,0000,0000,0000,,Oh, so you’re the real one!
+Dialogue: 0,0:06:38.69,0:06:39.56,Default,,0000,0000,0000,,Multiple Fists Barrage!
+Dialogue: 0,0:06:44.65,0:06:45.85,Default,,0000,0000,0000,,One more!
+Dialogue: 0,0:06:52.15,0:06:54.69,Default,,0000,0000,0000,,My brother and I get along very well.
+Dialogue: 0,0:06:55.15,0:06:58.48,Default,,0000,0000,0000,,Usually, my older brother Ukon\Nsleeps inside of me,
+Dialogue: 0,0:06:58.56,0:07:02.35,Default,,0000,0000,0000,,but when there’s a fight\Nhe comes out and helps out.
+Dialogue: 0,0:07:03.40,0:07:05.65,Default,,0000,0000,0000,,This is this guy’s ability.
+Dialogue: 0,0:07:05.89,0:07:08.77,Default,,0000,0000,0000,,Ukon can stick out\Nhis arms and legs, his head,
+Dialogue: 0,0:07:08.81,0:07:12.23,Default,,0000,0000,0000,,from anywhere in my body\Nand attacks or defends.
+Dialogue: 0,0:07:12.44,0:07:13.81,Default,,0000,0000,0000,,Like this you see…
+Dialogue: 0,0:07:18.10,0:07:19.15,Default,,0000,0000,0000,,Multiple Legs Barrage!
+Dialogue: 0,0:07:24.98,0:07:27.90,Default,,0000,0000,0000,,It’s a three-legged kick.\NWorks well, doesn’t it?
+Dialogue: 0,0:07:28.23,0:07:29.56,Default,,0000,0000,0000,,So next, it’s…!
+Dialogue: 0,0:07:31.31,0:07:34.56,Default,,0000,0000,0000,,There’s no time to waste, Sakon.
+Dialogue: 0,0:07:39.89,0:07:43.06,Default,,0000,0000,0000,,We’ll finish this quickly!\NGet into the second state!
+Dialogue: 0,0:07:46.69,0:07:47.89,Default,,0000,0000,0000,,All right, all right…
+Dialogue: 0,0:07:53.10,0:07:55.35,Default,,0000,0000,0000,,You’re too impatient, bro.
+Dialogue: 0,0:08:02.60,0:08:06.60,Default,,0000,0000,0000,,I see, you’re saying those horns\Naren’t just for display, huh?
+Dialogue: 0,0:08:08.69,0:08:10.89,Default,,0000,0000,0000,,As soon as that right one came out,
+Dialogue: 0,0:08:10.89,0:08:13.27,Default,,0000,0000,0000,,his Chakra increased\Nby several tenfold.
+Dialogue: 0,0:08:14.10,0:08:14.90,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:08:15.56,0:08:18.73,Default,,0000,0000,0000,,It seemed hopeless before,\Nbut now it’s really bad.
+Dialogue: 0,0:08:22.19,0:08:23.98,Default,,0000,0000,0000,,What’s your liking, bro?
+Dialogue: 0,0:08:25.15,0:08:26.44,Default,,0000,0000,0000,,In pieces.
+Dialogue: 0,0:08:55.89,0:08:59.60,Default,,0000,0000,0000,,So now,\Nperhaps it’s time to get serious.
+Dialogue: 0,0:09:00.73,0:09:02.44,Default,,0000,0000,0000,,I’ll take care of you all at once.
+Dialogue: 0,0:09:03.69,0:09:07.89,Default,,0000,0000,0000,,Such confident words!\NBut those are my lines!
+Dialogue: 0,0:09:14.90,0:09:17.56,Default,,0000,0000,0000,,Shoot! These guys are persistent!
+Dialogue: 0,0:09:18.02,0:09:21.23,Default,,0000,0000,0000,,But it’s starting to\Nget clearer to me.
+Dialogue: 0,0:09:27.44,0:09:30.31,Default,,0000,0000,0000,,But the problem is\Nfrom here on out.
+Dialogue: 0,0:09:34.89,0:09:37.85,Default,,0000,0000,0000,,Damn! Am I completely out of hands?
+Dialogue: 0,0:09:40.56,0:09:43.27,Default,,0000,0000,0000,,What?! You’re saying\Nwe’re gonna do that?!
+Dialogue: 0,0:09:44.89,0:09:45.89,Default,,0000,0000,0000,,No, Akamaru!
+Dialogue: 0,0:09:46.73,0:09:49.27,Default,,0000,0000,0000,,It’s too dangerous to do it here\Nwithout our comrades!
+Dialogue: 0,0:09:50.02,0:09:51.15,Default,,0000,0000,0000,,You understand, don't you?
+Dialogue: 0,0:09:51.89,0:09:53.48,Default,,0000,0000,0000,,If we use that Jutsu,
+Dialogue: 0,0:09:53.52,0:09:55.89,Default,,0000,0000,0000,,both you and I will use up\Nmost of our Chakra
+Dialogue: 0,0:09:55.89,0:09:57.31,Default,,0000,0000,0000,,and won’t be able to move.
+Dialogue: 0,0:09:58.44,0:10:01.56,Default,,0000,0000,0000,,If we miss, we’ll die here in vain.
+Dialogue: 0,0:10:06.89,0:10:07.89,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:10:16.89,0:10:20.89,Default,,0000,0000,0000,,What a pitiful master I am…\Nthat you had to bite me.
+Dialogue: 0,0:10:22.85,0:10:23.98,Default,,0000,0000,0000,,I understand, Akamaru.
+Dialogue: 0,0:10:24.73,0:10:27.31,Default,,0000,0000,0000,,Just like you said,\Nwe only have that left!
+Dialogue: 0,0:10:29.44,0:10:30.40,Default,,0000,0000,0000,,Wolf Fang Over Fang!
+Dialogue: 0,0:10:44.85,0:10:45.89,Default,,0000,0000,0000,,Now, Akamaru!
+Dialogue: 0,0:10:46.77,0:10:47.31,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:49.06,0:10:50.94,Default,,0000,0000,0000,,Do it well…Akamaru!
+Dialogue: 0,0:10:51.44,0:10:53.23,Default,,0000,0000,0000,,Show them the results of the training!
+Dialogue: 0,0:10:58.10,0:10:59.89,Default,,0000,0000,0000,,It’s Dynamic Marking!
+Dialogue: 0,0:11:01.10,0:11:03.02,Default,,0000,0000,0000,,Playing dirty like that!
+Dialogue: 0,0:11:03.98,0:11:05.60,Default,,0000,0000,0000,,All preparations are done!
+Dialogue: 0,0:11:07.89,0:11:09.89,Default,,0000,0000,0000,,Inuzuka-Style!\NMan-Beast Transformation Combo!
+Dialogue: 0,0:11:20.89,0:11:21.89,Default,,0000,0000,0000,,Two-Headed Wolf!
+Dialogue: 0,0:11:32.27,0:11:33.73,Default,,0000,0000,0000,,I wondered what it was going\Nto be and
+Dialogue: 0,0:11:33.77,0:11:35.89,Default,,0000,0000,0000,,it turned out to be\Na drooling runt of a dog.
+Dialogue: 0,0:11:36.19,0:11:38.19,Default,,0000,0000,0000,,What can a dog like this do?
+Dialogue: 0,0:11:41.56,0:11:42.15,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:11:47.31,0:11:48.27,Default,,0000,0000,0000,,Drool?!
+Dialogue: 0,0:11:48.40,0:11:50.15,Default,,0000,0000,0000,,Sakon, what’re you doing!\NTo the right!
+Dialogue: 0,0:11:50.73,0:11:51.31,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:11:51.94,0:11:53.19,Default,,0000,0000,0000,,Wolf Fang Over Fang!
+Dialogue: 0,0:12:13.48,0:12:14.89,Default,,0000,0000,0000,,Heh! How’s that!
+Dialogue: 0,0:12:15.52,0:12:17.89,Default,,0000,0000,0000,,Wolf Fang Over Fang revolution speed\Nis too fast.
+Dialogue: 0,0:12:17.90,0:12:21.98,Default,,0000,0000,0000,,It’s such an intense high revolution that\Neven our visibility becomes zero.
+Dialogue: 0,0:12:22.35,0:12:24.77,Default,,0000,0000,0000,,Even without direct contact,\Nflesh is cut…
+Dialogue: 0,0:12:24.89,0:12:26.85,Default,,0000,0000,0000,,A direct hit from the blow\Nand you’re in pieces.
+Dialogue: 0,0:12:50.89,0:12:53.98,Default,,0000,0000,0000,,Really…getting carried away…
+Dialogue: 0,0:12:54.73,0:12:58.89,Default,,0000,0000,0000,,This is perfect.\NWe were just thinking of separating soon.
+Dialogue: 0,0:12:59.10,0:13:01.90,Default,,0000,0000,0000,,What?! He divided into two people?!
+Dialogue: 0,0:13:02.48,0:13:03.19,Default,,0000,0000,0000,,It’s true…
+Dialogue: 0,0:13:05.48,0:13:08.60,Default,,0000,0000,0000,,Had we fully received the blow as one,\Nit would’ve been bad, but…
+Dialogue: 0,0:13:08.73,0:13:10.73,Default,,0000,0000,0000,,The real battle begins now.
+Dialogue: 0,0:13:11.89,0:13:13.27,Default,,0000,0000,0000,,Damn it…
+Dialogue: 0,0:13:15.89,0:13:18.89,Default,,0000,0000,0000,,Yeah… I know Akamaru.
+Dialogue: 0,0:13:19.60,0:13:21.15,Default,,0000,0000,0000,,One more shot of\NWolf Fang Over Fang.
+Dialogue: 0,0:13:21.89,0:13:23.40,Default,,0000,0000,0000,,The next one is our limit.
+Dialogue: 0,0:13:26.27,0:13:27.60,Default,,0000,0000,0000,,We’ll take them down with this!
+Dialogue: 0,0:13:28.69,0:13:29.60,Default,,0000,0000,0000,,Wolf Fang Over Fang!
+Dialogue: 0,0:13:35.89,0:13:37.02,Default,,0000,0000,0000,,It’s no use hiding!
+Dialogue: 0,0:13:37.60,0:13:39.85,Default,,0000,0000,0000,,I told you we don’t chase\Nwith our eyes!
+Dialogue: 0,0:13:40.48,0:13:44.35,Default,,0000,0000,0000,,We attack by chasing smells\Nwe’ve marked with our noses!
+Dialogue: 0,0:13:52.15,0:13:53.65,Default,,0000,0000,0000,,– A! 					– Un!
+Dialogue: 0,0:13:54.10,0:13:55.06,Default,,0000,0000,0000,,– Summoning… 					– Summoning…
+Dialogue: 0,0:13:56.69,0:13:57.89,Default,,0000,0000,0000,,– Rashomon! 					– Rashomon!
+Dialogue: 0,0:14:12.27,0:14:14.27,Default,,0000,0000,0000,,That’s an impressive power…
+Dialogue: 0,0:14:14.31,0:14:16.10,Default,,0000,0000,0000,,To turn Rashomon,
+Dialogue: 0,0:14:16.15,0:14:19.98,Default,,0000,0000,0000,,the ultimate shield to protect\NLord Orochimaru into this shape.
+Dialogue: 0,0:14:20.40,0:14:21.35,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:14:27.69,0:14:28.89,Default,,0000,0000,0000,,– This is the end!\N– This is the end!
+Dialogue: 0,0:14:37.44,0:14:38.48,Default,,0000,0000,0000,,Akamaru!
+Dialogue: 0,0:14:38.89,0:14:42.06,Default,,0000,0000,0000,,Akamaru…\NTo protect me, you…
+Dialogue: 0,0:14:43.02,0:14:45.73,Default,,0000,0000,0000,,Damn! He did it again!
+Dialogue: 0,0:14:46.65,0:14:47.48,Default,,0000,0000,0000,,My eyes…!
+Dialogue: 0,0:14:48.19,0:14:49.44,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:14:49.89,0:14:53.27,Default,,0000,0000,0000,,Damn…!\NThis time it’s not ordinary piss!
+Dialogue: 0,0:14:53.85,0:14:56.77,Default,,0000,0000,0000,,It feels like my eyes are burning\Nwith strong acid!
+Dialogue: 0,0:14:58.27,0:14:59.69,Default,,0000,0000,0000,,Where’s the other one?!
+Dialogue: 0,0:15:00.48,0:15:01.44,Default,,0000,0000,0000,,Hey…
+Dialogue: 0,0:15:03.52,0:15:05.06,Default,,0000,0000,0000,,Who are you looking for?
+Dialogue: 0,0:15:07.81,0:15:11.60,Default,,0000,0000,0000,,I’ll take care of the rest.\NGo wash your eyes in that river.
+Dialogue: 0,0:15:15.89,0:15:19.89,Default,,0000,0000,0000,,This is my ability…\Nspecialized in assassination, of course.
+Dialogue: 0,0:15:20.15,0:15:24.89,Default,,0000,0000,0000,,You can’t beat me by\Njust having a good nose and nails.
+Dialogue: 0,0:15:25.52,0:15:27.85,Default,,0000,0000,0000,,You can’t beat my ability!
+Dialogue: 0,0:15:30.52,0:15:32.89,Default,,0000,0000,0000,,You know that the Chakra Network\Nthrough which Chakra flows
+Dialogue: 0,0:15:32.89,0:15:36.69,Default,,0000,0000,0000,,is deeply interwoven with each\Ninternal organ, right?
+Dialogue: 0,0:15:37.65,0:15:42.02,Default,,0000,0000,0000,,The Chakra Network is interwoven\Nin a variety of complicated ways
+Dialogue: 0,0:15:42.06,0:15:45.69,Default,,0000,0000,0000,,and is linked to the tissues that\Nmake up each organ.
+Dialogue: 0,0:15:45.94,0:15:48.19,Default,,0000,0000,0000,,Also to each cell that makes up\Nthe tissues,
+Dialogue: 0,0:15:48.23,0:15:52.89,Default,,0000,0000,0000,,as well as even to proteins,\Nwhich are the main component of cells…
+Dialogue: 0,0:15:53.48,0:15:54.89,Default,,0000,0000,0000,,At the second state,
+Dialogue: 0,0:15:54.90,0:16:00.40,Default,,0000,0000,0000,,I can dismantle or reconstruct these cells\Nor proteins as I wish by using Chakra.
+Dialogue: 0,0:16:01.89,0:16:03.35,Default,,0000,0000,0000,,To put it simply,
+Dialogue: 0,0:16:03.40,0:16:06.85,Default,,0000,0000,0000,,I can turn my body into tiny pieces,\Nenter my opponent’s body…
+Dialogue: 0,0:16:06.89,0:16:10.19,Default,,0000,0000,0000,,return to my original form\Nand come back out.
+Dialogue: 0,0:16:10.89,0:16:11.94,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:16:12.98,0:16:14.90,Default,,0000,0000,0000,,I’m sorry… Akamaru…!
+Dialogue: 0,0:16:16.06,0:16:18.15,Default,,0000,0000,0000,,We’ve always done things together…
+Dialogue: 0,0:16:18.65,0:16:20.56,Default,,0000,0000,0000,,we were together,\Nalways and everywhere.
+Dialogue: 0,0:16:28.52,0:16:31.15,Default,,0000,0000,0000,,Yahoo! Good boy, Akamaru!
+Dialogue: 0,0:16:31.94,0:16:37.73,Default,,0000,0000,0000,,Yahoo! We’re lucky that the people\Nwho got into our trap had Earth Scroll!
+Dialogue: 0,0:16:38.15,0:16:40.89,Default,,0000,0000,0000,,With our luck like this,\Nwe’ll reach the goal first.
+Dialogue: 0,0:16:49.89,0:16:51.81,Default,,0000,0000,0000,,Akamaru is frightened\Nall of a sudden.
+Dialogue: 0,0:16:52.44,0:16:56.89,Default,,0000,0000,0000,,He can smell the strength of\Nan oppoenent’s Chakra.
+Dialogue: 0,0:16:57.44,0:17:00.06,Default,,0000,0000,0000,,I’ve never seen him this scared…
+Dialogue: 0,0:17:01.10,0:17:05.15,Default,,0000,0000,0000,,The people fighting over there must\Nbe something..
+Dialogue: 0,0:17:05.73,0:17:10.23,Default,,0000,0000,0000,,The Seventh Round Battle.\NNaruto Uzumaki vs. Kiba Inuzuka.
+Dialogue: 0,0:17:11.27,0:17:13.89,Default,,0000,0000,0000,,Hey! First of all, don’t you bring\Na puppy in here!
+Dialogue: 0,0:17:13.89,0:17:15.44,Default,,0000,0000,0000,,He’ll get in the way of our battle!
+Dialogue: 0,0:17:15.48,0:17:18.56,Default,,0000,0000,0000,,Idiot! Akamaru is fighting along with me!
+Dialogue: 0,0:17:19.90,0:17:20.89,Default,,0000,0000,0000,,Now then…
+Dialogue: 0,0:17:22.23,0:17:23.56,Default,,0000,0000,0000,,Let’s go, Akamaru!
+Dialogue: 0,0:17:26.44,0:17:27.27,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:17:41.89,0:17:42.77,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:17:44.89,0:17:49.35,Default,,0000,0000,0000,,Naruto… I'm taking Akamaru back.
+Dialogue: 0,0:18:04.40,0:18:09.52,Default,,0000,0000,0000,,Wh-What?! What did you feed him?\NHis coating has changed to red!
+Dialogue: 0,0:18:09.69,0:18:12.31,Default,,0000,0000,0000,,That’s why his name is Akamaru.
+Dialogue: 0,0:18:13.19,0:18:14.73,Default,,0000,0000,0000,,Let’s go, Akamaru!
+Dialogue: 0,0:18:16.89,0:18:18.73,Default,,0000,0000,0000,,Beast Mimicry Ninja Art:
+Dialogue: 0,0:18:26.69,0:18:27.90,Default,,0000,0000,0000,,Man- Beast Clone!
+Dialogue: 0,0:18:29.77,0:18:31.90,Default,,0000,0000,0000,,Let’s go! All-Four….
+Dialogue: 0,0:18:32.69,0:18:34.35,Default,,0000,0000,0000,,Jutsu!
+Dialogue: 0,0:18:55.98,0:18:56.89,Default,,0000,0000,0000,,An opening!
+Dialogue: 0,0:18:58.06,0:19:00.69,Default,,0000,0000,0000,,Take this!\NMan-Beast Ultimate Taijutsu!
+Dialogue: 0,0:19:04.19,0:19:05.89,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:19:28.89,0:19:29.69,Default,,0000,0000,0000,,Akamaru!
+Dialogue: 0,0:19:32.02,0:19:33.15,Default,,0000,0000,0000,,Here, Food Pills.
+Dialogue: 0,0:19:43.90,0:19:46.15,Default,,0000,0000,0000,,Akamaru! Human Mimicry Ninja Art!
+Dialogue: 0,0:20:04.31,0:20:05.31,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:20:12.35,0:20:16.35,Default,,0000,0000,0000,,However, this one time,\NI’m sunk…
+Dialogue: 0,0:20:16.98,0:20:21.89,Default,,0000,0000,0000,,My cells can swim inside\Nyour body as I wish,
+Dialogue: 0,0:20:21.89,0:20:24.73,Default,,0000,0000,0000,,and I can even create parts\Nthat are only you.
+Dialogue: 0,0:20:24.77,0:20:27.48,Default,,0000,0000,0000,,In other words,\Na little bit of a fusion condition.
+Dialogue: 0,0:20:27.73,0:20:30.02,Default,,0000,0000,0000,,A sharing of the flesh is what it’ll be.
+Dialogue: 0,0:20:30.98,0:20:32.89,Default,,0000,0000,0000,,A sharing?
+Dialogue: 0,0:20:33.65,0:20:38.31,Default,,0000,0000,0000,,That’s right…and a cruel way\Nof killing that only I can accomplish…
+Dialogue: 0,0:20:38.98,0:20:42.89,Default,,0000,0000,0000,,The gradual scraping away\Nof just your cells.
+Dialogue: 0,0:20:43.40,0:20:44.48,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:20:52.31,0:20:53.31,Default,,0000,0000,0000,,If that’s the case…!
+Dialogue: 0,0:21:02.98,0:21:06.89,Default,,0000,0000,0000,,If I do this, what’s gonna happen?
+Dialogue: 0,0:21:08.73,0:21:11.89,Default,,0000,0000,0000,,Suicide?! That’s ridiculous!
+Dialogue: 0,0:21:14.15,0:21:16.10,Default,,0000,0000,0000,,Die with me…
+Dialogue: 0,0:21:26.73,0:21:29.02,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:21:29.06,0:21:32.15,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:21:32.40,0:21:34.81,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:21:34.85,0:21:37.56,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:21:37.60,0:21:43.10,Default,,0000,0000,0000,,Would you think it was\Na bother if I approached you?
+Dialogue: 0,0:21:43.48,0:21:48.77,Default,,0000,0000,0000,,Despite my doubts,\NI worked up my courage
+Dialogue: 0,0:21:48.89,0:21:54.35,Default,,0000,0000,0000,,My clumsy attempts with words
+Dialogue: 0,0:21:54.56,0:22:00.02,Default,,0000,0000,0000,,You listened without turning away
+Dialogue: 0,0:22:01.02,0:22:06.31,Default,,0000,0000,0000,,No wonder I get carried away by you
+Dialogue: 0,0:22:06.77,0:22:13.40,Default,,0000,0000,0000,,But you don’t feel anything for me, do you?
+Dialogue: 0,0:22:13.89,0:22:16.65,Default,,0000,0000,0000,,I feel so sad
+Dialogue: 0,0:22:16.69,0:22:17.60,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:22:17.65,0:22:19.94,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:19.98,0:22:22.98,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:23.10,0:22:25.89,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:25.89,0:22:28.89,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:28.90,0:22:31.35,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:31.40,0:22:34.60,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:34.65,0:22:37.02,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:37.06,0:22:39.98,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:40.19,0:22:44.77,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:52.98,0:22:56.44,Default,,0000,0000,0000,,What is this guy?\NKekkei Genkai?!
+Dialogue: 0,0:22:56.98,0:23:00.89,Default,,0000,0000,0000,,Damn it! I've never heard\Nor seen this kind of technique!
+Dialogue: 0,0:23:01.40,0:23:03.89,Default,,0000,0000,0000,,Despite the fact that\Nthis many are attacking him,
+Dialogue: 0,0:23:03.89,0:23:05.89,Default,,0000,0000,0000,,my attacks don't even faze him!
+Dialogue: 0,0:23:07.31,0:23:09.90,Default,,0000,0000,0000,,I don't know if it's\Nthe "Five Dances" or what,
+Dialogue: 0,0:23:10.35,0:23:13.90,Default,,0000,0000,0000,,but I'll take care of them all!
+Dialogue: 0,0:23:15.06,0:23:17.81,Default,,0000,0000,0000,,Next time: "To Each His Own Battle"

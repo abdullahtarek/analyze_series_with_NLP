@@ -1,0 +1,271 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.65,0:00:09.81,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.85,0:00:18.06,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.31,0:00:20.36,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.31,0:00:27.06,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.11,0:00:30.61,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.81,0:00:34.31,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.73,0:00:37.98,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:38.02,0:00:45.61,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.65,0:00:54.85,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.85,0:01:02.85,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:03.06,0:01:09.90,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.94,0:01:18.06,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.40,0:01:26.85,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.85,0:01:28.90,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:02:10.31,0:02:12.36,Default,,0000,0000,0000,,That darn Naruto…
+Dialogue: 0,0:02:13.36,0:02:19.23,Default,,0000,0000,0000,,Zero Motivation:\NThe Guy with Cloud Envy!
+Dialogue: 0,0:02:19.44,0:02:21.81,Default,,0000,0000,0000,,– C’mon!\N– Hurry up with the match!
+Dialogue: 0,0:02:21.86,0:02:22.98,Default,,0000,0000,0000,,Finish it up already!
+Dialogue: 0,0:02:25.85,0:02:26.94,Default,,0000,0000,0000,,Stand up and start the match!
+Dialogue: 0,0:02:31.31,0:02:37.85,Default,,0000,0000,0000,,Evidently, people don’t want to\Nsee the minor players’ matches
+Dialogue: 0,0:02:37.85,0:02:41.02,Default,,0000,0000,0000,,since they were really looking\Nforward to Sasuke’s match…
+Dialogue: 0,0:02:42.31,0:02:45.65,Default,,0000,0000,0000,,If people aren't expecting anything\Nexciting from this battle,
+Dialogue: 0,0:02:45.69,0:02:47.85,Default,,0000,0000,0000,,makes no sense\Nfor me to have it.
+Dialogue: 0,0:02:49.61,0:02:52.52,Default,,0000,0000,0000,,What? You’re giving up, too?
+Dialogue: 0,0:02:54.86,0:02:56.85,Default,,0000,0000,0000,,My opponent’s a girl again?
+Dialogue: 0,0:02:58.15,0:02:59.44,Default,,0000,0000,0000,,Hey, why aren’t you moving?!
+Dialogue: 0,0:02:59.56,0:03:01.52,Default,,0000,0000,0000,,C'mon, get started!
+Dialogue: 0,0:03:02.11,0:03:05.48,Default,,0000,0000,0000,,That kid has had zero fighting spirit\Nfrom the beginning…
+Dialogue: 0,0:03:05.85,0:03:08.40,Default,,0000,0000,0000,,C’mon! What is he doing?!
+Dialogue: 0,0:03:08.77,0:03:12.65,Default,,0000,0000,0000,,C’mon Shikamaru!\NGet it together and do it!
+Dialogue: 0,0:03:16.15,0:03:17.94,Default,,0000,0000,0000,,If you don’t come, I’ll go!
+Dialogue: 0,0:03:18.52,0:03:20.56,Default,,0000,0000,0000,,Hey! Haven’t started yet…
+Dialogue: 0,0:03:20.77,0:03:24.85,Default,,0000,0000,0000,,Man, that girl is so gung-ho.
+Dialogue: 0,0:03:41.90,0:03:46.73,Default,,0000,0000,0000,,It doesn’t really matter if\NI become a Chunin or not.
+Dialogue: 0,0:03:47.40,0:03:50.85,Default,,0000,0000,0000,,But there's no reason why\Na man should lose to a woman.
+Dialogue: 0,0:03:52.31,0:03:53.98,Default,,0000,0000,0000,,Well… let’s do it!
+Dialogue: 0,0:04:10.86,0:04:12.85,Default,,0000,0000,0000,,This guy’s quick to run away…
+Dialogue: 0,0:04:17.48,0:04:21.40,Default,,0000,0000,0000,,Nor any reason why a man should\Nrough up a woman.
+Dialogue: 0,0:04:22.94,0:04:24.85,Default,,0000,0000,0000,,But I don’t want to be\Nroughed up either.
+Dialogue: 0,0:04:25.90,0:04:28.56,Default,,0000,0000,0000,,He’s the kind of Ninja that\Nuses shadows.
+Dialogue: 0,0:04:29.31,0:04:30.73,Default,,0000,0000,0000,,Shadow Possession Jutsu.
+Dialogue: 0,0:04:37.77,0:04:40.85,Default,,0000,0000,0000,,He’s probably trying to lure me into\Nthe trees where there're lots of shadows…
+Dialogue: 0,0:04:41.56,0:04:42.77,Default,,0000,0000,0000,,but I won’t let him.
+Dialogue: 0,0:04:43.52,0:04:47.19,Default,,0000,0000,0000,,Why am I the only one who always\Ngets a woman for an opponent, cripes?!
+Dialogue: 0,0:04:47.85,0:04:54.02,Default,,0000,0000,0000,,Shikamaru! You get her with\Na torrent of 16 combination…!
+Dialogue: 0,0:04:55.90,0:04:57.77,Default,,0000,0000,0000,,Mind if I sit here?
+Dialogue: 0,0:04:57.85,0:04:58.61,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:58.98,0:05:02.65,Default,,0000,0000,0000,,What…you?\NYour stomach okay?
+Dialogue: 0,0:05:06.77,0:05:09.86,Default,,0000,0000,0000,,What? Wasn’t Sasuke’s match next?
+Dialogue: 0,0:05:10.52,0:05:11.23,Default,,0000,0000,0000,,Shh!
+Dialogue: 0,0:05:13.85,0:05:18.23,Default,,0000,0000,0000,,Everything’s fine, right, Sakura?\NAfter all, it's Sasuke, right?
+Dialogue: 0,0:05:19.90,0:05:22.65,Default,,0000,0000,0000,,R-Right now, I should leave her alone.
+Dialogue: 0,0:05:23.85,0:05:26.44,Default,,0000,0000,0000,,It looks like Shikamaru taking part\Nin this final battle,
+Dialogue: 0,0:05:26.85,0:05:28.52,Default,,0000,0000,0000,,it seems like he's in the wrong place.
+Dialogue: 0,0:05:28.85,0:05:30.40,Default,,0000,0000,0000,,Don’t say that!
+Dialogue: 0,0:05:30.81,0:05:33.98,Default,,0000,0000,0000,,I certainly don’t think that\Nhe has any great techniques,
+Dialogue: 0,0:05:34.11,0:05:38.06,Default,,0000,0000,0000,,but that Shikamaru is\Nalways good at strategizing.
+Dialogue: 0,0:05:38.85,0:05:43.31,Default,,0000,0000,0000,,That’s why I feel like we ended up\Nin the preliminary round the other day.
+Dialogue: 0,0:05:43.85,0:05:45.77,Default,,0000,0000,0000,,Hmm, yeah well…
+Dialogue: 0,0:05:45.85,0:05:48.90,Default,,0000,0000,0000,,And after all, he jumped down\Ninto the arena himself.
+Dialogue: 0,0:05:49.94,0:05:52.86,Default,,0000,0000,0000,,He seems uncharacteristically driven.
+Dialogue: 0,0:05:53.40,0:05:56.19,Default,,0000,0000,0000,,Even he can be passionate\Nonce in a while!
+Dialogue: 0,0:05:56.73,0:05:59.31,Default,,0000,0000,0000,,Go! Shikamaru!
+Dialogue: 0,0:06:01.85,0:06:06.94,Default,,0000,0000,0000,,Geez, I envy a cloud being so free…
+Dialogue: 0,0:06:11.36,0:06:15.15,Default,,0000,0000,0000,,I guess I pretty much\Nam completely without desire…
+Dialogue: 0,0:06:15.85,0:06:17.77,Default,,0000,0000,0000,,Even the reason why I became a Ninja…
+Dialogue: 0,0:06:17.85,0:06:21.77,Default,,0000,0000,0000,,was because I thought\NI would have a fun life, ya know…
+Dialogue: 0,0:06:30.19,0:06:31.98,Default,,0000,0000,0000,,Get it together!
+Dialogue: 0,0:06:32.02,0:06:33.86,Default,,0000,0000,0000,,C’mon Shikamaru!
+Dialogue: 0,0:06:37.86,0:06:41.94,Default,,0000,0000,0000,,But…of course, it’s not that easy.
+Dialogue: 0,0:06:42.77,0:06:45.85,Default,,0000,0000,0000,,What’s going on with that stupid face?!\Nls he underestimating me?
+Dialogue: 0,0:06:46.44,0:06:47.85,Default,,0000,0000,0000,,Ninja Art: Wind Scythe Jutsu!
+Dialogue: 0,0:07:00.98,0:07:05.98,Default,,0000,0000,0000,,That’s right, with this attack,\Nmy armed attacks also were beaten down.
+Dialogue: 0,0:07:25.81,0:07:26.81,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:07:33.06,0:07:36.11,Default,,0000,0000,0000,,Shadow Possession Jutsu!\NI’ve seen that true identity!
+Dialogue: 0,0:07:36.94,0:07:39.65,Default,,0000,0000,0000,,Evidently there’s a limit to\Nthe stretching and shortening,
+Dialogue: 0,0:07:39.85,0:07:42.11,Default,,0000,0000,0000,,changing shape of the shadow…
+Dialogue: 0,0:07:43.23,0:07:44.81,Default,,0000,0000,0000,,No matter how much you\Nchange the shape of the shadow,
+Dialogue: 0,0:07:44.85,0:07:45.81,Default,,0000,0000,0000,,even when you stretch it,
+Dialogue: 0,0:07:46.02,0:07:49.56,Default,,0000,0000,0000,,it can only span up to\Nthe size of your own shadow.
+Dialogue: 0,0:07:50.85,0:07:51.56,Default,,0000,0000,0000,,That’s right isn’t it?
+Dialogue: 0,0:07:53.65,0:07:54.52,Default,,0000,0000,0000,,You got it…
+Dialogue: 0,0:07:55.85,0:07:58.52,Default,,0000,0000,0000,,Even if I assume that he's made up\Nthe distance,
+Dialogue: 0,0:07:58.56,0:08:02.11,Default,,0000,0000,0000,,by stretching his shadow from the edge\Nof the shadow of the arena wall…
+Dialogue: 0,0:08:03.11,0:08:05.15,Default,,0000,0000,0000,,This is the limit to how far\Nthe shadow can stretch.
+Dialogue: 0,0:08:06.81,0:08:08.81,Default,,0000,0000,0000,,This is the scope of his attack!
+Dialogue: 0,0:08:10.15,0:08:12.44,Default,,0000,0000,0000,,15 meters, 32 centimeters!
+Dialogue: 0,0:08:13.31,0:08:15.31,Default,,0000,0000,0000,,She took the distance\Nwith the folding fan.
+Dialogue: 0,0:08:16.36,0:08:19.23,Default,,0000,0000,0000,,Temari is stronger at long distance\Nbattles than she is at close range…
+Dialogue: 0,0:08:20.02,0:08:22.15,Default,,0000,0000,0000,,the outcome has already been decided.
+Dialogue: 0,0:08:47.81,0:08:49.81,Default,,0000,0000,0000,,What? What is that sign…?
+Dialogue: 0,0:08:51.19,0:08:55.77,Default,,0000,0000,0000,,That’s no sign. That’s like, his habit.
+Dialogue: 0,0:08:56.23,0:08:56.94,Default,,0000,0000,0000,,Habit…?
+Dialogue: 0,0:08:57.56,0:09:04.69,Default,,0000,0000,0000,,He enjoys passing time slowly.\NThat guy’s like an old man.
+Dialogue: 0,0:09:05.15,0:09:07.36,Default,,0000,0000,0000,,That’s why he likes\NJapanese checkers and chess
+Dialogue: 0,0:09:07.65,0:09:10.36,Default,,0000,0000,0000,,and always makes me be his opponent.
+Dialogue: 0,0:09:15.85,0:09:18.85,Default,,0000,0000,0000,,When he’s stuck on a move,\Nhe always does that.
+Dialogue: 0,0:09:26.15,0:09:27.19,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:09:28.36,0:09:30.23,Default,,0000,0000,0000,,He’s working out his strategy.
+Dialogue: 0,0:09:38.85,0:09:42.40,Default,,0000,0000,0000,,And, I’ve never beaten him.
+Dialogue: 0,0:09:43.73,0:09:46.69,Default,,0000,0000,0000,,A strategy…\Nbut this is an actual fight.
+Dialogue: 0,0:09:46.85,0:09:48.48,Default,,0000,0000,0000,,It’s different from a game.
+Dialogue: 0,0:09:48.85,0:09:52.06,Default,,0000,0000,0000,,But it's said that formation pieces\Nthat were used to build battle strategy
+Dialogue: 0,0:09:52.11,0:09:54.44,Default,,0000,0000,0000,,eventually become\Ngame pieces.
+Dialogue: 0,0:09:55.11,0:09:58.52,Default,,0000,0000,0000,,Shikamaru is like a brilliant general.
+Dialogue: 0,0:09:59.06,0:10:00.15,Default,,0000,0000,0000,,Wait a minute.
+Dialogue: 0,0:10:00.85,0:10:03.85,Default,,0000,0000,0000,,When we grouped the Genin,\NI saw his scores.
+Dialogue: 0,0:10:04.40,0:10:06.98,Default,,0000,0000,0000,,They were at about the\Nsame level of that Naruto’s.
+Dialogue: 0,0:10:07.81,0:10:11.86,Default,,0000,0000,0000,,He said that moving his pencil during\Nwritten exams at the academy is a pain,
+Dialogue: 0,0:10:12.27,0:10:14.69,Default,,0000,0000,0000,,and during the tests,\Nhe always sleeps instead.
+Dialogue: 0,0:10:14.94,0:10:15.81,Default,,0000,0000,0000,,A pain…?
+Dialogue: 0,0:10:31.90,0:10:36.15,Default,,0000,0000,0000,,He was so good at strategy games,\NI felt something wasn’t right…
+Dialogue: 0,0:10:36.98,0:10:40.85,Default,,0000,0000,0000,,so I had him take an IQ test\Nunder the pretense that it was a game.
+Dialogue: 0,0:10:46.65,0:10:48.61,Default,,0000,0000,0000,,And… how did it turn out?... …
+Dialogue: 0,0:10:53.31,0:10:54.85,Default,,0000,0000,0000,,He was more than brilliant.
+Dialogue: 0,0:10:55.85,0:10:59.40,Default,,0000,0000,0000,,With an IQ of over 200,\Nhe’s a super genius!
+Dialogue: 0,0:11:00.85,0:11:02.69,Default,,0000,0000,0000,,T-Two hundred?!
+Dialogue: 0,0:11:10.52,0:11:13.44,Default,,0000,0000,0000,,He’s done thinking…\Nlt starts now.
+Dialogue: 0,0:11:27.02,0:11:29.23,Default,,0000,0000,0000,,Looks like you’ve got some\Nfighting spirit now…
+Dialogue: 0,0:11:39.98,0:11:41.36,Default,,0000,0000,0000,,It’s pointless to hide!
+Dialogue: 0,0:11:48.81,0:11:50.85,Default,,0000,0000,0000,,I wonder if he’s really got a strategy…
+Dialogue: 0,0:11:51.85,0:11:53.27,Default,,0000,0000,0000,,M-Maybe…
+Dialogue: 0,0:12:01.85,0:12:03.86,Default,,0000,0000,0000,,With that he has no approach!
+Dialogue: 0,0:12:04.52,0:12:06.36,Default,,0000,0000,0000,,Shikamaru! Go for it!
+Dialogue: 0,0:12:06.90,0:12:08.40,Default,,0000,0000,0000,,It’s pointless, isn’t it?
+Dialogue: 0,0:12:08.65,0:12:10.69,Default,,0000,0000,0000,,He’ll give up soon.
+Dialogue: 0,0:12:10.73,0:12:12.15,Default,,0000,0000,0000,,He hates things\Nthat are a pain in the butt.
+Dialogue: 0,0:12:12.31,0:12:16.19,Default,,0000,0000,0000,,You're wrong!\NAt least, I hope so…
+Dialogue: 0,0:12:16.36,0:12:18.61,Default,,0000,0000,0000,,But you may be right…
+Dialogue: 0,0:12:51.85,0:12:55.27,Default,,0000,0000,0000,,How long are you going to run away!\NCut it out!
+Dialogue: 0,0:13:06.52,0:13:07.15,Default,,0000,0000,0000,,It’s no use.
+Dialogue: 0,0:13:07.69,0:13:09.36,Default,,0000,0000,0000,,As long as I’m on the\Noutside of this line,
+Dialogue: 0,0:13:09.40,0:13:10.85,Default,,0000,0000,0000,,he absolutely can’t catch me…
+Dialogue: 0,0:13:11.85,0:13:13.90,Default,,0000,0000,0000,,No, wait! Close call!
+Dialogue: 0,0:13:22.85,0:13:24.19,Default,,0000,0000,0000,,You caught on well.
+Dialogue: 0,0:13:24.90,0:13:27.85,Default,,0000,0000,0000,,So you were dragging your feet\Nto wait for the sun to set…
+Dialogue: 0,0:13:28.85,0:13:30.61,Default,,0000,0000,0000,,in order to make the surface\Nof your own shadow larger
+Dialogue: 0,0:13:30.85,0:13:33.65,Default,,0000,0000,0000,,by stretching the shadow line of the wall.
+Dialogue: 0,0:13:35.90,0:13:37.85,Default,,0000,0000,0000,,As the sun goes down,\Nthe shadows lengthen.
+Dialogue: 0,0:13:38.85,0:13:39.85,Default,,0000,0000,0000,,Isn't that so?
+Dialogue: 0,0:13:44.73,0:13:46.81,Default,,0000,0000,0000,,That was close! Shikamaru…
+Dialogue: 0,0:13:47.06,0:13:49.85,Default,,0000,0000,0000,,But why is he using shadows?
+Dialogue: 0,0:13:49.98,0:13:53.52,Default,,0000,0000,0000,,After all, Shikamaru is inside\Nthe shadow of the field.
+Dialogue: 0,0:13:53.85,0:13:57.85,Default,,0000,0000,0000,,If there’s even a little bit of light,\Nhe can make a shadow within a shadow!
+Dialogue: 0,0:13:58.19,0:14:01.44,Default,,0000,0000,0000,,You don’t know a thing\Nabout Shikamaru!
+Dialogue: 0,0:14:02.65,0:14:05.36,Default,,0000,0000,0000,,A shadow…in a shadow…?
+Dialogue: 0,0:14:14.85,0:14:16.90,Default,,0000,0000,0000,,Even if I calculate the height\Nof the sun now
+Dialogue: 0,0:14:16.98,0:14:19.85,Default,,0000,0000,0000,,and the limit to the distance\Nof the previous attack,
+Dialogue: 0,0:14:20.52,0:14:23.02,Default,,0000,0000,0000,,there's no mistaking the distance!
+Dialogue: 0,0:14:31.73,0:14:33.40,Default,,0000,0000,0000,,Temari! Up!
+Dialogue: 0,0:14:35.19,0:14:35.98,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:14:37.73,0:14:38.56,Default,,0000,0000,0000,,What’s this?!
+Dialogue: 0,0:14:42.02,0:14:42.85,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:14:56.31,0:14:57.52,Default,,0000,0000,0000,,I won’t let you escape!
+Dialogue: 0,0:15:01.19,0:15:03.31,Default,,0000,0000,0000,,I didn’t expect that he would\Ncreate extra shadows to reach me
+Dialogue: 0,0:15:03.36,0:15:05.02,Default,,0000,0000,0000,,by making a parachute with his jacket…!
+Dialogue: 0,0:15:08.52,0:15:09.81,Default,,0000,0000,0000,,He’s impressive.
+Dialogue: 0,0:15:10.56,0:15:14.61,Default,,0000,0000,0000,,Once I notice the parachute from above,\NI’ll take my attention off from my feet.
+Dialogue: 0,0:15:15.06,0:15:17.85,Default,,0000,0000,0000,,That’s a sneaky trick to catch me\Noff my guard!
+Dialogue: 0,0:15:18.36,0:15:20.52,Default,,0000,0000,0000,,However, now it’s clear.
+Dialogue: 0,0:15:21.23,0:15:22.65,Default,,0000,0000,0000,,Shadow Possession Jutsu is
+Dialogue: 0,0:15:22.94,0:15:26.36,Default,,0000,0000,0000,,one in which other shadows are used\Nto get your opponent,
+Dialogue: 0,0:15:26.52,0:15:27.85,Default,,0000,0000,0000,,a skillful technique!
+Dialogue: 0,0:15:41.85,0:15:43.94,Default,,0000,0000,0000,,She’s dodged this trick too…
+Dialogue: 0,0:15:44.61,0:15:45.86,Default,,0000,0000,0000,,Not careful enough in the final stage.
+Dialogue: 0,0:15:47.48,0:15:49.81,Default,,0000,0000,0000,,And his opponent is fairly analytical.
+Dialogue: 0,0:15:50.40,0:15:51.86,Default,,0000,0000,0000,,She’s good at thinking ahead.
+Dialogue: 0,0:15:59.81,0:16:01.27,Default,,0000,0000,0000,,If this battle takes too long,
+Dialogue: 0,0:16:01.40,0:16:05.06,Default,,0000,0000,0000,,the shadows in the arena will grow,\Nand his territory will increase.
+Dialogue: 0,0:16:10.15,0:16:11.52,Default,,0000,0000,0000,,I’ll defeat him with the next one!
+Dialogue: 0,0:16:12.81,0:16:15.81,Default,,0000,0000,0000,,Should I make a diversion\Nwith Clone Jutsu…?
+Dialogue: 0,0:16:24.69,0:16:26.69,Default,,0000,0000,0000,,Now his shadow is…
+Dialogue: 0,0:16:28.85,0:16:29.19,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:32.23,0:16:33.27,Default,,0000,0000,0000,,Clone…
+Dialogue: 0,0:16:36.77,0:16:37.86,Default,,0000,0000,0000,,N-No way…!
+Dialogue: 0,0:16:43.73,0:16:46.81,Default,,0000,0000,0000,,My... body is…?!
+Dialogue: 0,0:16:51.40,0:16:54.85,Default,,0000,0000,0000,,At last…\NShadow Possession Jutsu is a success!
+Dialogue: 0,0:16:55.85,0:16:56.44,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:02.85,0:17:03.94,Default,,0000,0000,0000,,What’s going on…?
+Dialogue: 0,0:17:04.73,0:17:05.48,Default,,0000,0000,0000,,That boy…
+Dialogue: 0,0:17:06.23,0:17:08.61,Default,,0000,0000,0000,,How much is he planning ahead…?
+Dialogue: 0,0:17:09.48,0:17:11.85,Default,,0000,0000,0000,,That’s Shikamaru’s skill.
+Dialogue: 0,0:17:12.81,0:17:15.36,Default,,0000,0000,0000,,Why…won’t my body move?!
+Dialogue: 0,0:17:16.31,0:17:18.23,Default,,0000,0000,0000,,The shadow shouldn’t\Nhave reached this far.
+Dialogue: 0,0:17:20.98,0:17:23.11,Default,,0000,0000,0000,,I'll let you take a look behind you…
+Dialogue: 0,0:17:33.36,0:17:34.48,Default,,0000,0000,0000,,T-This hole…!
+Dialogue: 0,0:17:35.81,0:17:37.36,Default,,0000,0000,0000,,You saw it too, didn’t you…?
+Dialogue: 0,0:17:38.81,0:17:42.44,Default,,0000,0000,0000,,That hole is the hole Naruto\Nburrowed and flew out of.
+Dialogue: 0,0:17:43.85,0:17:47.77,Default,,0000,0000,0000,,So it’s connected to the\Nbig hole in front of you.
+Dialogue: 0,0:17:49.85,0:17:53.85,Default,,0000,0000,0000,,I didn’t expect that…\Na shadow in a tunnel of a hole…
+Dialogue: 0,0:17:54.85,0:17:55.90,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:17:57.31,0:17:59.98,Default,,0000,0000,0000,,Pure and simple,\Na calculated chess move.
+Dialogue: 0,0:18:08.06,0:18:11.81,Default,,0000,0000,0000,,So his purpose to make Temari measure\Nthe limit of the shadow several times
+Dialogue: 0,0:18:12.11,0:18:16.23,Default,,0000,0000,0000,,was to lead her to his final trick\Nof using this hole.
+Dialogue: 0,0:18:21.06,0:18:23.48,Default,,0000,0000,0000,,Temari battled on the outside\Nof the limit of the shadow
+Dialogue: 0,0:18:23.52,0:18:25.69,Default,,0000,0000,0000,,that she measured and followed,
+Dialogue: 0,0:18:26.06,0:18:32.98,Default,,0000,0000,0000,,but he caught her from behind,\Ntrailed by the shadow she couldn’t see…
+Dialogue: 0,0:18:33.73,0:18:35.69,Default,,0000,0000,0000,,There is no escape from this.
+Dialogue: 0,0:18:36.11,0:18:37.81,Default,,0000,0000,0000,,I-It can’t be…
+Dialogue: 0,0:18:39.94,0:18:42.61,Default,,0000,0000,0000,,The attack that he used\Nwith the jacket,
+Dialogue: 0,0:18:43.31,0:18:46.52,Default,,0000,0000,0000,,was it a device to lead me\Nto right this spot…?
+Dialogue: 0,0:18:48.15,0:18:49.56,Default,,0000,0000,0000,,Was that an underplot too?!
+Dialogue: 0,0:18:51.85,0:18:52.73,Default,,0000,0000,0000,,Why that--?!
+Dialogue: 0,0:18:53.98,0:18:55.85,Default,,0000,0000,0000,,Checkmate with the next one.
+Dialogue: 0,0:19:04.11,0:19:07.81,Default,,0000,0000,0000,,My body is moving on its own!\NI can’t resist it!
+Dialogue: 0,0:19:20.31,0:19:23.77,Default,,0000,0000,0000,,Before anyone knew it,\Nthey fell under the spell of this match.
+Dialogue: 0,0:19:23.85,0:19:27.48,Default,,0000,0000,0000,,That guy with no mark\Nis quite a darkhorse.
+Dialogue: 0,0:19:27.69,0:19:30.90,Default,,0000,0000,0000,,Yes! You did it!
+Dialogue: 0,0:19:30.94,0:19:33.69,Default,,0000,0000,0000,,Go! Shikamaru!
+Dialogue: 0,0:19:37.27,0:19:38.15,Default,,0000,0000,0000,,Check…
+Dialogue: 0,0:20:09.02,0:20:11.56,Default,,0000,0000,0000,,Good grief… I give up!
+Dialogue: 0,0:20:20.85,0:20:21.90,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:20:27.06,0:20:30.36,Default,,0000,0000,0000,,See I told you…he’d give up.
+Dialogue: 0,0:20:31.65,0:20:35.31,Default,,0000,0000,0000,,Ino doesn’t know anything\Nabout Shikamaru.
+Dialogue: 0,0:20:35.85,0:20:37.73,Default,,0000,0000,0000,,W-What did you say?!
+Dialogue: 0,0:20:41.85,0:20:44.94,Default,,0000,0000,0000,,I’ve used too much Chakra from Shadow\NPossession Jutsu in rapid succession.
+Dialogue: 0,0:20:44.98,0:20:47.06,Default,,0000,0000,0000,,I can’t hold it another 10 seconds.
+Dialogue: 0,0:20:49.44,0:20:53.19,Default,,0000,0000,0000,,I thought of the next trick 200 times.
+Dialogue: 0,0:20:53.85,0:20:55.85,Default,,0000,0000,0000,,But I’m out of time…
+Dialogue: 0,0:21:00.27,0:21:02.23,Default,,0000,0000,0000,,This has become such a pain.
+Dialogue: 0,0:21:02.44,0:21:03.98,Default,,0000,0000,0000,,Doing one match is good…
+Dialogue: 0,0:21:06.61,0:21:08.27,Default,,0000,0000,0000,,That guy is a strange one.
+Dialogue: 0,0:21:09.33,0:21:11.56,Default,,0000,0000,0000,,The winner is Temari!
+Dialogue: 0,0:21:26.15,0:21:29.65,Default,,0000,0000,0000,,One! First, Tyson jumps and slamdunks
+Dialogue: 0,0:21:29.69,0:21:32.90,Default,,0000,0000,0000,,Two! He kisses and hugs everyone\Nrandomly and says “I LOVE YOU”
+Dialogue: 0,0:21:32.94,0:21:36.52,Default,,0000,0000,0000,,Three! Masala masters Yoga\Nbut hates curry
+Dialogue: 0,0:21:36.56,0:21:39.85,Default,,0000,0000,0000,,Four! Sanchez is a lousy bullfighter. Ole!
+Dialogue: 0,0:21:39.85,0:21:46.19,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:21:46.23,0:21:53.56,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:03.85,0:22:07.40,Default,,0000,0000,0000,,One! Bodimahattaya-san devotes\Nhis time for digging black ships
+Dialogue: 0,0:22:07.44,0:22:10.85,Default,,0000,0000,0000,,Two! Peking Duck, Action Scene,\NChen Lee speeds around on his bike
+Dialogue: 0,0:22:10.85,0:22:14.06,Default,,0000,0000,0000,,Three! Popo loves to polish his Coteka
+Dialogue: 0,0:22:14.11,0:22:17.48,Default,,0000,0000,0000,,Four! Japanese people,\Nnow lend me you hand!
+Dialogue: 0,0:22:17.69,0:22:23.77,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:23.81,0:22:31.02,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:31.11,0:22:37.69,Default,,0000,0000,0000,,All over the world, the sky’s smiling,\Nso look up and smile too
+Dialogue: 0,0:22:37.73,0:22:44.85,Default,,0000,0000,0000,,Oh yeah! Oh yeah! Oh yeah!\NFight! Fight! Fight!
+Dialogue: 0,0:22:51.98,0:22:55.27,Default,,0000,0000,0000,,Wow, this is the largest cheer\Nfrom the audience ever!
+Dialogue: 0,0:22:55.44,0:22:58.73,Default,,0000,0000,0000,,Of course. The featured battle\Nof this final tournament is about to begin.
+Dialogue: 0,0:22:58.85,0:23:00.81,Default,,0000,0000,0000,,Hate to admit it,\Nbut I'm looking forward to it myself.
+Dialogue: 0,0:23:00.85,0:23:03.06,Default,,0000,0000,0000,,Hey, Shikamaru.\NI can't hear what you said.
+Dialogue: 0,0:23:03.23,0:23:09.85,Default,,0000,0000,0000,,There's not a single person who's\Nnot excited about the featured battle.
+Dialogue: 0,0:23:10.27,0:23:13.86,Default,,0000,0000,0000,,Next: "Dancing Leaf, Squirming Sand"
+Dialogue: 0,0:23:14.56,0:23:17.85,Default,,0000,0000,0000,,I can't take my eyes\Naway from this battle!

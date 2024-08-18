@@ -1,0 +1,260 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.94,0:00:12.49,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.53,0:00:15.99,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:16.03,0:00:19.61,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.65,0:00:23.20,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.24,0:00:26.61,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.65,0:00:28.61,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.32,0:00:33.28,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.32,0:00:37.11,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.57,0:00:44.40,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.65,0:00:51.78,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.94,0:00:58.07,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.20,0:01:02.65,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.70,0:01:06.24,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.28,0:01:09.74,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.78,0:01:13.36,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.40,0:01:16.95,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:16.99,0:01:20.65,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.70,0:01:24.24,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.28,0:01:28.45,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:01:42.94,0:01:47.74,Default,,0000,0000,0000,,For a start, wake up\Nthat medium kid.
+Dialogue: 0,0:01:47.94,0:01:48.95,Default,,0000,0000,0000,,It will release that Jutsu!
+Dialogue: 0,0:01:48.99,0:01:50.57,Default,,0000,0000,0000,,How do we go about waking him?!
+Dialogue: 0,0:01:50.65,0:01:53.49,Default,,0000,0000,0000,,Give him a good punch!
+Dialogue: 0,0:01:55.95,0:01:56.94,Default,,0000,0000,0000,,But with that said…
+Dialogue: 0,0:01:56.94,0:01:59.94,Default,,0000,0000,0000,,I’m not particularly good\Nat transformations…
+Dialogue: 0,0:01:59.95,0:02:00.90,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:00.94,0:02:05.94,Default,,0000,0000,0000,,So you will act as my will\Nand make the Sign!
+Dialogue: 0,0:02:06.45,0:02:08.28,Default,,0000,0000,0000,,Time for a combined transformation!
+Dialogue: 0,0:02:08.94,0:02:13.82,Default,,0000,0000,0000,,We got to have fangs and claws!\NLet’s go!
+Dialogue: 0,0:02:14.11,0:02:16.36,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:02:27.99,0:02:34.90,Default,,0000,0000,0000,,Beyond the Limit of Darkness and Light
+Dialogue: 0,0:02:38.24,0:02:39.94,Default,,0000,0000,0000,,F-Fox…?
+Dialogue: 0,0:03:09.45,0:03:11.15,Default,,0000,0000,0000,,What a battle…
+Dialogue: 0,0:03:13.90,0:03:16.24,Default,,0000,0000,0000,,I can’t call this place safe either, huh…
+Dialogue: 0,0:03:17.11,0:03:18.94,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:03:19.15,0:03:21.11,Default,,0000,0000,0000,,His power is increasing\Nmore and more!
+Dialogue: 0,0:03:21.78,0:03:24.74,Default,,0000,0000,0000,,Chief! We got to hurry up and rouse\Nthat guy out of his sleep!
+Dialogue: 0,0:03:30.90,0:03:32.49,Default,,0000,0000,0000,,I know that!
+Dialogue: 0,0:03:33.94,0:03:35.61,Default,,0000,0000,0000,,Here goes…!
+Dialogue: 0,0:03:39.94,0:03:40.94,Default,,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:03:56.70,0:03:59.03,Default,,0000,0000,0000,,All right! Now!
+Dialogue: 0,0:03:59.07,0:03:59.94,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:05.70,0:04:07.07,Default,,0000,0000,0000,,Wake the hell up!
+Dialogue: 0,0:04:12.45,0:04:13.94,Default,,0000,0000,0000,,You jerk…
+Dialogue: 0,0:04:14.61,0:04:15.82,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:04:15.86,0:04:18.70,Default,,0000,0000,0000,,Not that much time has passed\Nsince the medium went to sleep!
+Dialogue: 0,0:04:18.74,0:04:21.90,Default,,0000,0000,0000,,In that state,\None blow should be enough!
+Dialogue: 0,0:04:24.20,0:04:25.94,Default,,0000,0000,0000,,Darn!
+Dialogue: 0,0:04:25.94,0:04:29.40,Default,,0000,0000,0000,,It hasn’t been long since I emerged!
+Dialogue: 0,0:04:31.94,0:04:33.94,Default,,0000,0000,0000,,The Jutsu has been dissolved!
+Dialogue: 0,0:04:38.94,0:04:40.94,Default,,0000,0000,0000,,Even if the Playing Possum Jutsu\Nis dissolved,
+Dialogue: 0,0:04:40.94,0:04:42.94,Default,,0000,0000,0000,,he’s still putting on the pressure?
+Dialogue: 0,0:04:52.94,0:04:55.61,Default,,0000,0000,0000,,That guy interfered with my Jutsu…?!
+Dialogue: 0,0:04:58.49,0:05:00.36,Default,,0000,0000,0000,,Sand Coffin!
+Dialogue: 0,0:05:00.40,0:05:02.65,Default,,0000,0000,0000,,– Pop! 					– Yeah!
+Dialogue: 0,0:05:03.94,0:05:05.94,Default,,0000,0000,0000,,It’s the chief’s tongue…
+Dialogue: 0,0:05:06.20,0:05:07.94,Default,,0000,0000,0000,,Don’t take me for a fool!
+Dialogue: 0,0:05:18.74,0:05:19.82,Default,,0000,0000,0000,,Darn!
+Dialogue: 0,0:05:20.94,0:05:24.03,Default,,0000,0000,0000,,What kind of strength\Ndoes this guy possess?
+Dialogue: 0,0:05:24.11,0:05:25.70,Default,,0000,0000,0000,,This doesn’t look good…!
+Dialogue: 0,0:05:25.74,0:05:29.95,Default,,0000,0000,0000,,Both Naruto and I have already\Ncompletely disgorged our Chakra!
+Dialogue: 0,0:05:33.32,0:05:38.03,Default,,0000,0000,0000,,You will be killed by me!\NI will not cease to exist!
+Dialogue: 0,0:05:42.45,0:05:44.11,Default,,0000,0000,0000,,Leaf Hurricanes!
+Dialogue: 0,0:05:55.74,0:05:58.20,Default,,0000,0000,0000,,Besides just the Sound Ninja,\NI wouldn’t have imagined that
+Dialogue: 0,0:05:58.24,0:06:01.45,Default,,0000,0000,0000,,this many of the Sand Jonin\Nwould enter into the village, too!
+Dialogue: 0,0:06:01.90,0:06:06.24,Default,,0000,0000,0000,,Well, it’s understandable.\NThis is what is called war.
+Dialogue: 0,0:06:10.40,0:06:11.45,Default,,0000,0000,0000,,It’s taking much too long.
+Dialogue: 0,0:06:12.11,0:06:15.94,Default,,0000,0000,0000,,It’s impossible for a battle\Nbetween Shinobi to last this long.
+Dialogue: 0,0:06:16.70,0:06:18.70,Default,,0000,0000,0000,,What the heck is happening inside?
+Dialogue: 0,0:06:32.11,0:06:34.49,Default,,0000,0000,0000,,You’re still grabbing my arm…
+Dialogue: 0,0:06:34.53,0:06:36.24,Default,,0000,0000,0000,,I can’t use my Jutsu this way…
+Dialogue: 0,0:06:37.74,0:06:40.90,Default,,0000,0000,0000,,Come on,\Nlet go of me once and for all.
+Dialogue: 0,0:06:50.70,0:06:56.15,Default,,0000,0000,0000,,I’m not letting your ambitions\Ninterfere with the village…any longer…
+Dialogue: 0,0:06:56.32,0:07:01.53,Default,,0000,0000,0000,,There’s no stopping my ambitions!\NYou will die here!
+Dialogue: 0,0:07:02.11,0:07:04.36,Default,,0000,0000,0000,,You old dotard…
+Dialogue: 0,0:07:04.94,0:07:06.95,Default,,0000,0000,0000,,As the Third Hokage,
+Dialogue: 0,0:07:06.99,0:07:11.70,Default,,0000,0000,0000,,are you saying you still have\Nthe power to save this village?
+Dialogue: 0,0:07:12.94,0:07:17.36,Default,,0000,0000,0000,,Do you understand…\Nthe current situation?!
+Dialogue: 0,0:07:23.90,0:07:27.40,Default,,0000,0000,0000,,Many Hidden Sand Shinobi and\Nmy subordinates
+Dialogue: 0,0:07:27.45,0:07:31.40,Default,,0000,0000,0000,,have infiltrated this village.
+Dialogue: 0,0:07:40.86,0:07:44.20,Default,,0000,0000,0000,,Your side…the Leaf Shinobi…
+Dialogue: 0,0:07:44.24,0:07:47.82,Default,,0000,0000,0000,,will be annihilated down to\Nevery last woman and child!
+Dialogue: 0,0:07:48.28,0:07:51.28,Default,,0000,0000,0000,,I will accomplish the destruction\Nof the Hidden Leaf Village!
+Dialogue: 0,0:08:05.45,0:08:06.65,Default,,0000,0000,0000,,It’s empty inside!
+Dialogue: 0,0:08:06.74,0:08:07.90,Default,,0000,0000,0000,,There’s nobody there!
+Dialogue: 0,0:08:08.40,0:08:09.61,Default,,0000,0000,0000,,That’s very strange…
+Dialogue: 0,0:08:09.86,0:08:10.78,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:10.94,0:08:13.94,Default,,0000,0000,0000,,Why is there so little resistance\Nwhen we’ve closed in
+Dialogue: 0,0:08:13.94,0:08:16.49,Default,,0000,0000,0000,,all the way to the center\Nof the Hidden Leaf Village?
+Dialogue: 0,0:08:17.24,0:08:18.15,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:08:18.40,0:08:22.94,Default,,0000,0000,0000,,And also…there’s not one woman\Nor child in sight.
+Dialogue: 0,0:08:22.94,0:08:24.28,Default,,0000,0000,0000,,What is the reason for that?
+Dialogue: 0,0:08:39.65,0:08:40.65,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:41.78,0:08:43.07,Default,,0000,0000,0000,,Konohamaru…?
+Dialogue: 0,0:08:43.24,0:08:45.70,Default,,0000,0000,0000,,What’s the matter, Konohamaru?
+Dialogue: 0,0:08:47.61,0:08:48.94,Default,,0000,0000,0000,,I gotta use the toilet.
+Dialogue: 0,0:08:49.45,0:08:50.99,Default,,0000,0000,0000,,M-Me too…
+Dialogue: 0,0:08:51.86,0:08:52.94,Default,,0000,0000,0000,,I do too…
+Dialogue: 0,0:08:59.57,0:09:02.36,Default,,0000,0000,0000,,K-Konohamaru…!
+Dialogue: 0,0:09:03.49,0:09:05.40,Default,,0000,0000,0000,,This is an emergency situation!
+Dialogue: 0,0:09:05.45,0:09:08.03,Default,,0000,0000,0000,,If the enemy finds us,\Nit will cost us!
+Dialogue: 0,0:09:08.45,0:09:10.94,Default,,0000,0000,0000,,Go back to the other room\Nand stay quiet!
+Dialogue: 0,0:09:11.49,0:09:15.45,Default,,0000,0000,0000,,I-It’s not that… I gotta pee!
+Dialogue: 0,0:09:15.49,0:09:16.90,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:09:17.90,0:09:20.20,Default,,0000,0000,0000,,I don’t think I can hold it…
+Dialogue: 0,0:09:22.65,0:09:26.49,Default,,0000,0000,0000,,Gimme a break.\Nln that case, come along with me…
+Dialogue: 0,0:09:27.24,0:09:28.20,Default,,0000,0000,0000,,Can't hold it!
+Dialogue: 0,0:09:29.32,0:09:30.57,Default,,0000,0000,0000,,Can't! Can't hold…!
+Dialogue: 0,0:10:13.07,0:10:14.15,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:10:14.95,0:10:16.36,Default,,0000,0000,0000,,At last, huh…
+Dialogue: 0,0:10:27.65,0:10:31.65,Default,,0000,0000,0000,,I’ll get revenge for you\Nno matter what…
+Dialogue: 0,0:10:33.90,0:10:34.90,Default,,0000,0000,0000,,Hayate.
+Dialogue: 0,0:10:38.07,0:10:39.74,Default,,0000,0000,0000,,That’s the signal. Let’s go!
+Dialogue: 0,0:10:39.94,0:10:40.61,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:10:50.94,0:10:54.94,Default,,0000,0000,0000,,You don’t get it, do you, Orochimaru?
+Dialogue: 0,0:10:57.86,0:11:01.94,Default,,0000,0000,0000,,Don’t underestimate the Shinobi\Nof this Village!
+Dialogue: 0,0:11:09.03,0:11:10.15,Default,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:11:11.45,0:11:12.53,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:11:12.61,0:11:14.49,Default,,0000,0000,0000,,Is that…the last?
+Dialogue: 0,0:11:14.61,0:11:16.90,Default,,0000,0000,0000,,Yes, the evacuation is complete!
+Dialogue: 0,0:11:17.49,0:11:20.53,Default,,0000,0000,0000,,W-What’s happening?
+Dialogue: 0,0:11:20.90,0:11:23.53,Default,,0000,0000,0000,,The Village Hidden in the Leaves\Nhas an instruction manual
+Dialogue: 0,0:11:23.57,0:11:25.78,Default,,0000,0000,0000,,outlining what to do in case of\Na sneak attack by the enemy.
+Dialogue: 0,0:11:25.94,0:11:29.94,Default,,0000,0000,0000,,Step One:\NEliminate the enemy’s sneak attack force.
+Dialogue: 0,0:11:30.20,0:11:32.94,Default,,0000,0000,0000,,In case one is unable\Nto eliminate them,
+Dialogue: 0,0:11:32.99,0:11:35.74,Default,,0000,0000,0000,,proceed immediately to Step Two.
+Dialogue: 0,0:11:36.24,0:11:38.99,Default,,0000,0000,0000,,The immediate evacuation\Nof noncombatants!
+Dialogue: 0,0:11:39.45,0:11:44.03,Default,,0000,0000,0000,,Evacuate the women and children\Nto shelters around the village!
+Dialogue: 0,0:11:44.78,0:11:47.53,Default,,0000,0000,0000,,When that has been completed,\Nproceed to Step Three!
+Dialogue: 0,0:11:47.94,0:11:49.53,Default,,0000,0000,0000,,Step Three…?
+Dialogue: 0,0:11:49.94,0:11:51.94,Default,,0000,0000,0000,,Through the collective strength\Nand efforts of the Village,
+Dialogue: 0,0:11:51.94,0:11:53.28,Default,,0000,0000,0000,,eliminate the enemy!
+Dialogue: 0,0:11:53.65,0:11:54.74,Default,,0000,0000,0000,,In that case…!
+Dialogue: 0,0:11:55.95,0:11:58.94,Default,,0000,0000,0000,,The counteroffensive…starts now!
+Dialogue: 0,0:12:10.86,0:12:13.57,Default,,0000,0000,0000,,We will not allow you to take\Neven one step beyond this point!
+Dialogue: 0,0:12:29.94,0:12:30.94,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:12:31.82,0:12:35.40,Default,,0000,0000,0000,,Rescue Sakura,\Nif it’s the last thing you do!
+Dialogue: 0,0:12:35.94,0:12:39.24,Default,,0000,0000,0000,,I’ll protect Sakura no matter what!
+Dialogue: 0,0:12:47.94,0:12:52.40,Default,,0000,0000,0000,,You will be killed by me.\NI will not cease to exist.
+Dialogue: 0,0:12:52.82,0:12:53.94,Default,,0000,0000,0000,,My back is against the wall…
+Dialogue: 0,0:12:53.95,0:12:56.78,Default,,0000,0000,0000,,I have to hurry up\Nand stop that Demon Raccoon…
+Dialogue: 0,0:12:59.28,0:13:00.36,Default,,0000,0000,0000,,Please…
+Dialogue: 0,0:13:02.65,0:13:04.57,Default,,0000,0000,0000,,Just a small amount is fine…
+Dialogue: 0,0:13:05.40,0:13:06.65,Default,,0000,0000,0000,,Give me…
+Dialogue: 0,0:13:17.95,0:13:18.94,Default,,0000,0000,0000,,some Chakra!
+Dialogue: 0,0:13:45.20,0:13:47.74,Default,,0000,0000,0000,,What are you doing…?\NThere’s only one opponent!
+Dialogue: 0,0:13:59.94,0:14:02.49,Default,,0000,0000,0000,,Hyuga is the magnum force\Nof the Leaf Village.
+Dialogue: 0,0:14:02.53,0:14:03.94,Default,,0000,0000,0000,,Don’t forget that!
+Dialogue: 0,0:14:07.40,0:14:11.94,Default,,0000,0000,0000,,M-My…body…is immobilized…
+Dialogue: 0,0:14:13.40,0:14:15.28,Default,,0000,0000,0000,,Is this the first time\Nyou’re experiencing
+Dialogue: 0,0:14:15.32,0:14:17.94,Default,,0000,0000,0000,,the Leaf’s hidden technique,\NShadow Paralysis Jutsu?
+Dialogue: 0,0:14:18.07,0:14:20.86,Default,,0000,0000,0000,,Well, take this too while I’m at it…
+Dialogue: 0,0:14:21.90,0:14:25.32,Default,,0000,0000,0000,,The Leaf’s hidden technique…\NShadow Strangle Jutsu!
+Dialogue: 0,0:14:30.11,0:14:31.90,Default,,0000,0000,0000,,Expansion Jutsu!
+Dialogue: 0,0:14:38.95,0:14:40.95,Default,,0000,0000,0000,,Mind Destruction Jutsu!
+Dialogue: 0,0:14:45.78,0:14:46.78,Default,,0000,0000,0000,,W-What’s this?!
+Dialogue: 0,0:14:47.61,0:14:49.20,Default,,0000,0000,0000,,My body is…all on its own…!
+Dialogue: 0,0:14:49.32,0:14:50.78,Default,,0000,0000,0000,,S-Stop…
+Dialogue: 0,0:14:51.20,0:14:52.15,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:14:59.53,0:15:01.45,Default,,0000,0000,0000,,Reminds me of the old days!
+Dialogue: 0,0:15:01.74,0:15:02.86,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:03.78,0:15:06.40,Default,,0000,0000,0000,,The original Ino-Shika-Cho Trio reunites!
+Dialogue: 0,0:15:11.94,0:15:13.40,Default,,0000,0000,0000,,Kuromaru…let’s go!
+Dialogue: 0,0:15:13.45,0:15:14.32,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:15:15.57,0:15:17.07,Default,,0000,0000,0000,,In order to protect the village,
+Dialogue: 0,0:15:17.11,0:15:21.53,Default,,0000,0000,0000,,all the Leaf Shinobi will risk\Ntheir lives fighting!
+Dialogue: 0,0:15:23.78,0:15:30.94,Default,,0000,0000,0000,,Real strength doesn't lie\Nin the mastering of all Jutsu!
+Dialogue: 0,0:15:33.24,0:15:35.49,Default,,0000,0000,0000,,The poison in my body is…
+Dialogue: 0,0:15:36.20,0:15:39.36,Default,,0000,0000,0000,,Don’t move, Shino.\NI inserted my Parasitic Insects.
+Dialogue: 0,0:15:40.40,0:15:41.78,Default,,0000,0000,0000,,They are removing the poison.
+Dialogue: 0,0:15:42.65,0:15:43.40,Default,,0000,0000,0000,,Dad…
+Dialogue: 0,0:15:45.90,0:15:48.99,Default,,0000,0000,0000,,I believe I taught this\Nto you too, in the past…
+Dialogue: 0,0:15:49.45,0:15:51.94,Default,,0000,0000,0000,,It is when one protects\Nsomeone important…
+Dialogue: 0,0:15:52.32,0:15:56.20,Default,,0000,0000,0000,,that the true strength of\Nthe Shinobi will emerge!
+Dialogue: 0,0:15:58.99,0:16:01.78,Default,,0000,0000,0000,,I will protect everyone!
+Dialogue: 0,0:16:06.70,0:16:08.94,Default,,0000,0000,0000,,Here I come! You idiot raccoon!
+Dialogue: 0,0:16:08.94,0:16:10.28,Default,,0000,0000,0000,,Die…!
+Dialogue: 0,0:16:16.03,0:16:17.03,Default,,0000,0000,0000,,Darn…
+Dialogue: 0,0:16:18.86,0:16:20.82,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:16:48.94,0:16:49.95,Default,,0000,0000,0000,,D-Did he win…?
+Dialogue: 0,0:16:50.99,0:16:52.94,Default,,0000,0000,0000,,A simple head blow…
+Dialogue: 0,0:16:52.99,0:16:55.94,Default,,0000,0000,0000,,His manner of fighting\Nis incredibly clumsy,
+Dialogue: 0,0:16:55.94,0:16:59.94,Default,,0000,0000,0000,,but to think that he could squeeze out\NChakra at that critical stage.
+Dialogue: 0,0:17:00.78,0:17:04.49,Default,,0000,0000,0000,,I’ve never seen a knucklehead Ninja\Nlike him before, but…
+Dialogue: 0,0:17:04.53,0:17:07.70,Default,,0000,0000,0000,,he sure is the first phenomenal kid\NI’ve seen in a long time.
+Dialogue: 0,0:17:09.32,0:17:12.49,Default,,0000,0000,0000,,It’s too bad that I can’t see this through\Nto the end,
+Dialogue: 0,0:17:13.07,0:17:15.94,Default,,0000,0000,0000,,but I’ve reached my limit.
+Dialogue: 0,0:17:16.15,0:17:18.94,Default,,0000,0000,0000,,Gamakichi, let’s head home!
+Dialogue: 0,0:17:18.95,0:17:20.82,Default,,0000,0000,0000,,Okay! Pop!
+Dialogue: 0,0:17:47.99,0:17:51.94,Default,,0000,0000,0000,,As might be expected, even I…\Nam empty now…
+Dialogue: 0,0:17:53.90,0:17:55.24,Default,,0000,0000,0000,,You are too, aren’t you?
+Dialogue: 0,0:17:55.99,0:18:01.45,Default,,0000,0000,0000,,We’re much alike…\Nlet’s make this time the last!
+Dialogue: 0,0:18:05.74,0:18:06.86,Default,,0000,0000,0000,,It appears that…
+Dialogue: 0,0:18:07.07,0:18:14.61,Default,,0000,0000,0000,,I don’t have the strength left\Nto yank out your entire soul.
+Dialogue: 0,0:18:15.28,0:18:18.94,Default,,0000,0000,0000,,However, your ambition ends here!
+Dialogue: 0,0:18:19.11,0:18:20.03,Default,,0000,0000,0000,,Not yet!
+Dialogue: 0,0:18:20.70,0:18:23.03,Default,,0000,0000,0000,,There’s no stopping my ambition!
+Dialogue: 0,0:18:23.36,0:18:25.03,Default,,0000,0000,0000,,I have a suitable punishment for you
+Dialogue: 0,0:18:25.07,0:18:30.82,Default,,0000,0000,0000,,who have become addicted to the Jutsu\Nand who have overindulged in the Jutsu!
+Dialogue: 0,0:18:30.86,0:18:34.57,Default,,0000,0000,0000,,I will take all your Jutsu away with me!
+Dialogue: 0,0:18:34.61,0:18:35.78,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:18:43.36,0:18:44.15,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:18:44.90,0:18:45.94,Default,,0000,0000,0000,,Don’t tell me that..?
+Dialogue: 0,0:18:46.03,0:18:48.03,Default,,0000,0000,0000,,Stop that!
+Dialogue: 0,0:18:51.53,0:18:52.94,Default,,0000,0000,0000,,Seal!
+Dialogue: 0,0:19:02.49,0:19:04.95,Default,,0000,0000,0000,,My…My arms…
+Dialogue: 0,0:19:07.94,0:19:11.61,Default,,0000,0000,0000,,Now…you can no longer use\Neither of your arms.
+Dialogue: 0,0:19:12.24,0:19:16.57,Default,,0000,0000,0000,,And since you can’t use your arms,\Nyou can’t weave Signs.
+Dialogue: 0,0:19:16.99,0:19:19.95,Default,,0000,0000,0000,,You no longer possess Ninjutsu!
+Dialogue: 0,0:19:22.74,0:19:27.11,Default,,0000,0000,0000,,Your ambition of crushing\Nthe Hidden Leaf…dies right here!
+Dialogue: 0,0:19:27.90,0:19:31.61,Default,,0000,0000,0000,,You old dotard!\NGive me back my arms!
+Dialogue: 0,0:19:32.70,0:19:35.36,Default,,0000,0000,0000,,Orochimaru, you fool…
+Dialogue: 0,0:19:35.94,0:19:38.95,Default,,0000,0000,0000,,It’s unfortunate that\Nwe can’t leave together,
+Dialogue: 0,0:19:39.49,0:19:40.95,Default,,0000,0000,0000,,but, my disciple…
+Dialogue: 0,0:19:42.24,0:19:45.07,Default,,0000,0000,0000,,let’s meet in the other world one day.
+Dialogue: 0,0:19:45.24,0:19:47.32,Default,,0000,0000,0000,,You old dotard…\Nwhose life is hanging by a thread!
+Dialogue: 0,0:19:47.36,0:19:50.99,Default,,0000,0000,0000,,How dare you!\NHow dare you take away my Jutsu!
+Dialogue: 0,0:20:13.65,0:20:17.28,Default,,0000,0000,0000,,In places where the Leaf dances,\Na fire burns…
+Dialogue: 0,0:20:22.94,0:20:25.94,Default,,0000,0000,0000,,The shadow of the fire\Nwill illuminate the Village…
+Dialogue: 0,0:20:47.70,0:20:50.94,Default,,0000,0000,0000,,And once more the Leaf will sprout …
+Dialogue: 0,0:21:22.11,0:21:25.94,Default,,0000,0000,0000,,A cycle of hardship, right?
+Dialogue: 0,0:21:27.03,0:21:30.94,Default,,0000,0000,0000,,Inside, we were crying, right?
+Dialogue: 0,0:21:32.49,0:21:40.36,Default,,0000,0000,0000,,But the one thing we won't give up\Nis the dream we've chosen, right?
+Dialogue: 0,0:21:41.28,0:21:43.28,Default,,0000,0000,0000,,It's a secondary role,
+Dialogue: 0,0:21:46.15,0:21:49.03,Default,,0000,0000,0000,,a role in the shadows
+Dialogue: 0,0:21:49.65,0:21:54.82,Default,,0000,0000,0000,,But in reaching for that dream,
+Dialogue: 0,0:22:50.40,0:22:51.94,Default,,0000,0000,0000,,Lord Third Hokage…
+Dialogue: 0,0:22:52.11,0:22:54.94,Default,,0000,0000,0000,,The ambition that you had\Nseems to have been passed on
+Dialogue: 0,0:22:54.94,0:22:59.78,Default,,0000,0000,0000,,to the young Shinobi\Nin the Village Hidden in the Leaves.
+Dialogue: 0,0:23:00.86,0:23:05.40,Default,,0000,0000,0000,,The flame in their hearts will\Nburn large and strong in the future.
+Dialogue: 0,0:23:05.45,0:23:09.65,Default,,0000,0000,0000,,And someday,\Nthey will illuminate this Village…
+Dialogue: 0,0:23:09.70,0:23:11.94,Default,,0000,0000,0000,,just as you have done for us!
+Dialogue: 0,0:23:13.36,0:23:16.61,Default,,0000,0000,0000,,Next time:\N "The Third Hokage, Forever…"

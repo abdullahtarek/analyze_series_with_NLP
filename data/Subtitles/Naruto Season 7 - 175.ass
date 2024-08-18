@@ -1,0 +1,380 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.12,0:00:21.58,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.62,0:00:26.49,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.49,0:00:29.12,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.16,0:00:31.62,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.66,0:00:36.37,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.41,0:00:46.25,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.49,0:00:55.49,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.49,0:01:06.49,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.49,0:01:15.83,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.49,0:01:21.00,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:42.91,0:01:44.91,Default,,0000,0000,0000,,Hasn’t this increased\Nsince last month?
+Dialogue: 0,0:01:45.16,0:01:46.29,Default,,0000,0000,0000,,Yes, it has.
+Dialogue: 0,0:01:46.49,0:01:48.66,Default,,0000,0000,0000,,It’s now widely known\Nin distant lands
+Dialogue: 0,0:01:48.70,0:01:50.49,Default,,0000,0000,0000,,that you were appointed to Hokage,\NLady Tsunade.
+Dialogue: 0,0:01:50.79,0:01:55.58,Default,,0000,0000,0000,,Bills have started to come in addressed\Nto the Village Hidden in Leaves.
+Dialogue: 0,0:01:56.54,0:01:59.20,Default,,0000,0000,0000,,Hokage is not something to take on.
+Dialogue: 0,0:02:02.70,0:02:04.41,Default,,0000,0000,0000,,My name is Tsunade…
+Dialogue: 0,0:02:04.49,0:02:07.00,Default,,0000,0000,0000,,I’m the Fifth Hokage of\Nthe Village Hidden in Leaves.
+Dialogue: 0,0:02:07.87,0:02:10.49,Default,,0000,0000,0000,,My concern now is a debt\Nthat absolutely will not go down…
+Dialogue: 0,0:02:11.08,0:02:11.83,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:02:12.25,0:02:14.25,Default,,0000,0000,0000,,Grandma Tsunade!
+Dialogue: 0,0:02:14.66,0:02:17.25,Default,,0000,0000,0000,,– Hey wait! 					– Naruto!
+Dialogue: 0,0:02:17.49,0:02:18.49,Default,,0000,0000,0000,,– Lemme go! 					– Calm down!
+Dialogue: 0,0:02:18.49,0:02:22.49,Default,,0000,0000,0000,,If there aren’t any missions,\Nlet me go search for Sasuke!
+Dialogue: 0,0:02:22.49,0:02:25.49,Default,,0000,0000,0000,,You’ve been told to train,\Nhaven’t you, Naruto?!
+Dialogue: 0,0:02:26.58,0:02:28.49,Default,,0000,0000,0000,,Grandma Tsunade!
+Dialogue: 0,0:02:32.00,0:02:33.04,Default,,0000,0000,0000,,That…
+Dialogue: 0,0:02:33.45,0:02:39.33,Default,,0000,0000,0000,,The Treasure Hunt is On!
+Dialogue: 0,0:02:43.49,0:02:44.49,Default,,0000,0000,0000,,I won’t let you through!
+Dialogue: 0,0:02:49.04,0:02:49.79,Default,,0000,0000,0000,,Goal!
+Dialogue: 0,0:02:56.70,0:02:58.41,Default,,0000,0000,0000,,Too bad.
+Dialogue: 0,0:03:00.49,0:03:04.12,Default,,0000,0000,0000,,But it’s totally obvious since\Nit’s the same person doing it.
+Dialogue: 0,0:03:05.50,0:03:07.58,Default,,0000,0000,0000,,There haven’t been\Nany missions lately, either.
+Dialogue: 0,0:03:10.62,0:03:13.49,Default,,0000,0000,0000,,I wonder if the Pervy Sage will\Ncome back soon…
+Dialogue: 0,0:03:13.83,0:03:15.91,Default,,0000,0000,0000,,I can’t train by myself…
+Dialogue: 0,0:03:16.91,0:03:19.25,Default,,0000,0000,0000,,What, there was someone here\Nbefore me?
+Dialogue: 0,0:03:20.25,0:03:22.37,Default,,0000,0000,0000,,Huh? Kiba… Akamaru…
+Dialogue: 0,0:03:22.49,0:03:25.37,Default,,0000,0000,0000,,Here I thought I could take\Nmy time to train.
+Dialogue: 0,0:03:26.50,0:03:29.29,Default,,0000,0000,0000,,Are you by yourself?\NWhere are Hinata and Shino?
+Dialogue: 0,0:03:29.70,0:03:33.49,Default,,0000,0000,0000,,Shino is backing up another team\Nwith Kurenai Sensei…
+Dialogue: 0,0:03:34.25,0:03:36.70,Default,,0000,0000,0000,,Hinata said she’d train at home.
+Dialogue: 0,0:03:37.49,0:03:39.95,Default,,0000,0000,0000,,Is it like we’ve lost our jobs?
+Dialogue: 0,0:03:40.45,0:03:42.16,Default,,0000,0000,0000,,Don’t say that…\NI’ll feel empty-hearted…
+Dialogue: 0,0:03:42.49,0:03:44.08,Default,,0000,0000,0000,,Naruto! Kiba!
+Dialogue: 0,0:03:47.04,0:03:47.62,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:03:47.83,0:03:50.16,Default,,0000,0000,0000,,Weren’t you training at home?
+Dialogue: 0,0:03:50.49,0:03:53.54,Default,,0000,0000,0000,,There was a call from the Hokage.\NShe wants us to come immediately.
+Dialogue: 0,0:03:53.83,0:03:54.49,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:03:54.58,0:03:57.87,Default,,0000,0000,0000,,All right! Our first mission in a while!
+Dialogue: 0,0:04:00.20,0:04:01.49,Default,,0000,0000,0000,,Treasure hunting?
+Dialogue: 0,0:04:03.49,0:04:06.49,Default,,0000,0000,0000,,That’s right. This person here,\Nan old acquaintance of mine,
+Dialogue: 0,0:04:06.49,0:04:07.79,Default,,0000,0000,0000,,is our client this time around…
+Dialogue: 0,0:04:10.08,0:04:11.83,Default,,0000,0000,0000,,My name is Agari Kaisen.
+Dialogue: 0,0:04:15.49,0:04:16.49,Default,,0000,0000,0000,,Please look at this.
+Dialogue: 0,0:04:16.83,0:04:18.83,Default,,0000,0000,0000,,This is a map indicating\Nthe location of the treasure.
+Dialogue: 0,0:04:19.70,0:04:22.37,Default,,0000,0000,0000,,It seems a treasure worth several\Nhundred million ryo lies buried there.
+Dialogue: 0,0:04:24.50,0:04:25.54,Default,,0000,0000,0000,,S-Several hundred million?!
+Dialogue: 0,0:04:26.49,0:04:29.54,Default,,0000,0000,0000,,If I were to eat Ichiraku’s\Nspecial portion ramen everyday…
+Dialogue: 0,0:04:33.75,0:04:37.37,Default,,0000,0000,0000,,I don’t think you could eat all that\Neven if you spent your whole life eating…
+Dialogue: 0,0:04:37.49,0:04:38.95,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:04:39.04,0:04:41.33,Default,,0000,0000,0000,,But it’s on the map, right?
+Dialogue: 0,0:04:41.70,0:04:44.49,Default,,0000,0000,0000,,Is this a job to go to the trouble\Nof asking Shinobi to do?
+Dialogue: 0,0:04:44.75,0:04:50.49,Default,,0000,0000,0000,,Yes. The treasure is in a location\Ndifficult for ordinary people to get to.
+Dialogue: 0,0:04:50.62,0:04:54.66,Default,,0000,0000,0000,,Even I tried getting there…\Nbut there was no way.
+Dialogue: 0,0:04:55.49,0:04:57.87,Default,,0000,0000,0000,,So it’s the Shinobi’s turn, huh?
+Dialogue: 0,0:04:58.49,0:04:59.50,Default,,0000,0000,0000,,The deadline is in three days.
+Dialogue: 0,0:05:00.12,0:05:02.58,Default,,0000,0000,0000,,If you succeed, there will be\Na special reward from Agari.
+Dialogue: 0,0:05:03.45,0:05:04.49,Default,,0000,0000,0000,,Set out with caution!
+Dialogue: 0,0:05:04.83,0:05:05.58,Default,,0000,0000,0000,,– Yes! 					– Yes!
+Dialogue: 0,0:05:05.79,0:05:08.75,Default,,0000,0000,0000,,Heh! A mission like this is a cinch!
+Dialogue: 0,0:05:10.25,0:05:12.37,Default,,0000,0000,0000,,Indeed, it isn’t a difficult mission.
+Dialogue: 0,0:05:12.66,0:05:15.25,Default,,0000,0000,0000,,However… if you fail…!
+Dialogue: 0,0:05:16.49,0:05:17.95,Default,,0000,0000,0000,,– What?! 					– What?!
+Dialogue: 0,0:05:22.29,0:05:23.87,Default,,0000,0000,0000,,– Yay, yay! 					– Hey, wait!
+Dialogue: 0,0:05:27.49,0:05:29.29,Default,,0000,0000,0000,,If you fail…
+Dialogue: 0,0:05:31.16,0:05:33.12,Default,,0000,0000,0000,,you will go back to the Academy!
+Dialogue: 0,0:05:33.29,0:05:34.62,Default,,0000,0000,0000,,– What?! 					– What?!
+Dialogue: 0,0:05:35.49,0:05:37.49,Default,,0000,0000,0000,,You’ll re-enroll in the Academy
+Dialogue: 0,0:05:37.50,0:05:39.83,Default,,0000,0000,0000,,and re-do your Ninja training\Nfrom square one.
+Dialogue: 0,0:05:40.00,0:05:41.66,Default,,0000,0000,0000,,Wh-Why us…?
+Dialogue: 0,0:05:42.33,0:05:45.87,Default,,0000,0000,0000,,I looked up your mission success rate\Nover these past few months…
+Dialogue: 0,0:05:46.45,0:05:48.75,Default,,0000,0000,0000,,Naruto! You’re decisively poor!
+Dialogue: 0,0:05:49.08,0:05:49.83,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:50.49,0:05:52.49,Default,,0000,0000,0000,,In particular, the success rate\Nwhen you team up
+Dialogue: 0,0:05:52.49,0:05:56.04,Default,,0000,0000,0000,,with Kiba Inuzuka and Hinata Hyuga\Nis hopelessly low!
+Dialogue: 0,0:05:57.16,0:05:58.49,Default,,0000,0000,0000,,Now that she mentions it,
+Dialogue: 0,0:05:58.49,0:06:00.95,Default,,0000,0000,0000,,it’s the members we failed\Nan earlier mission with…
+Dialogue: 0,0:06:03.45,0:06:06.00,Default,,0000,0000,0000,,We also failed before when\Nfour of us, including Shino,
+Dialogue: 0,0:06:06.04,0:06:08.91,Default,,0000,0000,0000,,went looking for Bikochu Beetles…
+Dialogue: 0,0:06:13.49,0:06:15.49,Default,,0000,0000,0000,,Something rings familiar, right?
+Dialogue: 0,0:06:15.75,0:06:18.29,Default,,0000,0000,0000,,But, just Naruto aside,
+Dialogue: 0,0:06:18.33,0:06:20.33,Default,,0000,0000,0000,,why should we also have\Nto go back to the Academy…?
+Dialogue: 0,0:06:22.08,0:06:24.33,Default,,0000,0000,0000,,Collective responsibility is fundamental\Nin Ninja teams.
+Dialogue: 0,0:06:24.91,0:06:26.70,Default,,0000,0000,0000,,Everyone takes responsibility\Nfor a failure.
+Dialogue: 0,0:06:27.91,0:06:29.00,Default,,0000,0000,0000,,Got it?!
+Dialogue: 0,0:06:34.66,0:06:39.20,Default,,0000,0000,0000,,It…it’ll be okay. No way should we fail\Nat hunting for treasure…
+Dialogue: 0,0:06:39.50,0:06:41.91,Default,,0000,0000,0000,,If you don’t drag us down.
+Dialogue: 0,0:06:42.04,0:06:45.49,Default,,0000,0000,0000,,What?! Don’t you be dragging us down!
+Dialogue: 0,0:06:46.20,0:06:51.83,Default,,0000,0000,0000,,If we fail… we’ll have to study\Nwith these kids, right…?
+Dialogue: 0,0:07:01.49,0:07:02.66,Default,,0000,0000,0000,,Hey, what’s up?
+Dialogue: 0,0:07:03.04,0:07:05.66,Default,,0000,0000,0000,,Naruto, Kiba, Hinata,\Nall three of you together?
+Dialogue: 0,0:07:06.04,0:07:07.12,Default,,0000,0000,0000,,Iruka Sensei…
+Dialogue: 0,0:07:07.49,0:07:09.91,Default,,0000,0000,0000,,You guys must have come\Nto miss the Academy, huh?
+Dialogue: 0,0:07:10.49,0:07:12.45,Default,,0000,0000,0000,,You could come back if you like.
+Dialogue: 0,0:07:15.49,0:07:17.70,Default,,0000,0000,0000,,I’ll never go back!
+Dialogue: 0,0:07:19.49,0:07:20.49,Default,,0000,0000,0000,,What’s with them…?
+Dialogue: 0,0:07:22.79,0:07:25.58,Default,,0000,0000,0000,,I’ll make this mission a success\Nno matter what
+Dialogue: 0,0:07:25.62,0:07:27.45,Default,,0000,0000,0000,,and put Grandma Tsunade\Nto shame!
+Dialogue: 0,0:07:27.49,0:07:29.91,Default,,0000,0000,0000,,And I’ll have no part of\Ngoing back…
+Dialogue: 0,0:07:29.95,0:07:32.49,Default,,0000,0000,0000,,to the Academy on account\Nof associating with you.
+Dialogue: 0,0:07:33.33,0:07:35.49,Default,,0000,0000,0000,,The failures until now\Nare a collective responsibility.
+Dialogue: 0,0:07:35.49,0:07:37.70,Default,,0000,0000,0000,,It’s not just my responsibility!
+Dialogue: 0,0:07:37.75,0:07:39.00,Default,,0000,0000,0000,,I don’t know about that.
+Dialogue: 0,0:07:39.29,0:07:43.62,Default,,0000,0000,0000,,The success rate of our team\Nwithout you in it is high.
+Dialogue: 0,0:07:43.66,0:07:46.49,Default,,0000,0000,0000,,Then I’ll prove on this mission
+Dialogue: 0,0:07:46.49,0:07:48.37,Default,,0000,0000,0000,,who it is who really drags us down,\Nbelieve it!
+Dialogue: 0,0:07:48.41,0:07:49.91,Default,,0000,0000,0000,,That’s just what I want.
+Dialogue: 0,0:07:51.49,0:07:53.95,Default,,0000,0000,0000,,I wonder if this will be okay?
+Dialogue: 0,0:08:09.49,0:08:11.20,Default,,0000,0000,0000,,It’s a dead-end!
+Dialogue: 0,0:08:11.54,0:08:13.75,Default,,0000,0000,0000,,So this is as far as\Nthere’s a path, huh…?
+Dialogue: 0,0:08:16.04,0:08:19.62,Default,,0000,0000,0000,,There’s a river up ahead.\NHow should we cross it…?
+Dialogue: 0,0:08:21.20,0:08:24.16,Default,,0000,0000,0000,,Then, here here.\NWe should cut straight through, right?!
+Dialogue: 0,0:08:24.49,0:08:29.04,Default,,0000,0000,0000,,Are you an idiot?\NMountain terrain isn’t that simple.
+Dialogue: 0,0:08:29.54,0:08:30.83,Default,,0000,0000,0000,,I would go…this way.
+Dialogue: 0,0:08:32.49,0:08:36.25,Default,,0000,0000,0000,,Are you an idiot?\NThat’s totally the long way around.
+Dialogue: 0,0:08:37.00,0:08:39.95,Default,,0000,0000,0000,,Then you want to compete\Nto see which is faster?
+Dialogue: 0,0:08:40.33,0:08:42.50,Default,,0000,0000,0000,,No way will I lose!
+Dialogue: 0,0:08:43.12,0:08:45.91,Default,,0000,0000,0000,,All right! The finish line\Nis that boulder!
+Dialogue: 0,0:08:47.29,0:08:49.33,Default,,0000,0000,0000,,Start! Let’s go, Akamaru!
+Dialogue: 0,0:08:49.62,0:08:51.04,Default,,0000,0000,0000,,This will be a cinch!
+Dialogue: 0,0:08:51.49,0:08:52.20,Default,,0000,0000,0000,,What? What?
+Dialogue: 0,0:08:53.75,0:08:55.20,Default,,0000,0000,0000,,Wait, Naruto!
+Dialogue: 0,0:09:05.08,0:09:06.00,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:09:06.20,0:09:06.95,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:07.29,0:09:09.29,Default,,0000,0000,0000,,It seems we’re climbing up\Nquite a bit…
+Dialogue: 0,0:09:09.41,0:09:11.29,Default,,0000,0000,0000,,It’s okay!
+Dialogue: 0,0:09:26.75,0:09:27.79,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:09:35.66,0:09:37.08,Default,,0000,0000,0000,,It’s…okay.
+Dialogue: 0,0:09:37.58,0:09:40.25,Default,,0000,0000,0000,,We should be totally faster than Kiba, so…!
+Dialogue: 0,0:09:44.04,0:09:46.12,Default,,0000,0000,0000,,Yes! I win!
+Dialogue: 0,0:09:47.91,0:09:49.29,Default,,0000,0000,0000,,Something smells good…
+Dialogue: 0,0:09:53.49,0:09:54.20,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:54.33,0:09:55.66,Default,,0000,0000,0000,,So you finally made it, huh?
+Dialogue: 0,0:09:56.16,0:09:57.04,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:09:57.49,0:10:00.37,Default,,0000,0000,0000,,You were so late I went ahead\Nand got some food ready…
+Dialogue: 0,0:10:08.29,0:10:09.70,Default,,0000,0000,0000,,Now then… which way?
+Dialogue: 0,0:10:10.20,0:10:13.45,Default,,0000,0000,0000,,We should…\Nwe should just cut right though this!
+Dialogue: 0,0:10:17.51,0:10:18.35,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:10:19.97,0:10:21.10,Default,,0000,0000,0000,,Good grief…
+Dialogue: 0,0:10:27.59,0:10:28.60,Default,,0000,0000,0000,,W-Water…
+Dialogue: 0,0:10:30.85,0:10:32.18,Default,,0000,0000,0000,,Here, water.
+Dialogue: 0,0:10:34.10,0:10:36.72,Default,,0000,0000,0000,,This way’s definitely faster!
+Dialogue: 0,0:10:41.47,0:10:43.05,Default,,0000,0000,0000,,I sure slept well.
+Dialogue: 0,0:10:44.80,0:10:48.85,Default,,0000,0000,0000,,Akamaru and I often\Ntrain in mountains like this…
+Dialogue: 0,0:10:49.35,0:10:52.35,Default,,0000,0000,0000,,We know a lot more about\Nthe mountains than you guys.
+Dialogue: 0,0:10:52.89,0:10:53.59,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:11:03.30,0:11:05.26,Default,,0000,0000,0000,,Shut up, I say!
+Dialogue: 0,0:11:05.47,0:11:07.51,Default,,0000,0000,0000,,Don’t be acting all big just because\Nyou won two or three times!
+Dialogue: 0,0:11:07.55,0:11:09.39,Default,,0000,0000,0000,,Not two or three times.\NFive times!
+Dialogue: 0,0:11:10.39,0:11:12.51,Default,,0000,0000,0000,,S-Stop it! Naruto! Kiba!
+Dialogue: 0,0:11:28.35,0:11:31.22,Default,,0000,0000,0000,,Naruto and the others\Nshould be there pretty soon, huh…?
+Dialogue: 0,0:11:31.80,0:11:35.22,Default,,0000,0000,0000,,This mission looks easy at a glance.
+Dialogue: 0,0:11:35.72,0:11:37.85,Default,,0000,0000,0000,,But it won’t go that easily…
+Dialogue: 0,0:11:41.43,0:11:43.59,Default,,0000,0000,0000,,They’ll probably realize that.
+Dialogue: 0,0:11:49.01,0:11:50.59,Default,,0000,0000,0000,,A limestone cave, huh…?
+Dialogue: 0,0:11:51.14,0:11:51.76,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:11:51.80,0:11:53.59,Default,,0000,0000,0000,,Geez, hurry up already!
+Dialogue: 0,0:11:53.76,0:11:56.97,Default,,0000,0000,0000,,You said the buried treasure is\Nin a limestone cave, right?
+Dialogue: 0,0:11:57.14,0:11:58.05,Default,,0000,0000,0000,,Just a minute!
+Dialogue: 0,0:11:58.59,0:12:01.18,Default,,0000,0000,0000,,The limestone cave is supposed\Nto be further ahead.
+Dialogue: 0,0:12:01.43,0:12:03.43,Default,,0000,0000,0000,,We shouldn’t have been able\Nto find it this easily…
+Dialogue: 0,0:12:03.64,0:12:08.26,Default,,0000,0000,0000,,It’s not like there are\Nthat many limestone caves!
+Dialogue: 0,0:12:08.51,0:12:10.18,Default,,0000,0000,0000,,So here’s fine…
+Dialogue: 0,0:12:10.35,0:12:11.43,Default,,0000,0000,0000,,Let’s go, Hinata.
+Dialogue: 0,0:12:11.59,0:12:12.55,Default,,0000,0000,0000,,R-Right…
+Dialogue: 0,0:12:12.59,0:12:14.18,Default,,0000,0000,0000,,H-Hey, wait, you two!
+Dialogue: 0,0:12:16.55,0:12:18.43,Default,,0000,0000,0000,,I can’t see anything…
+Dialogue: 0,0:12:29.60,0:12:31.22,Default,,0000,0000,0000,,Oh, it’s a dead-end…
+Dialogue: 0,0:12:31.59,0:12:32.68,Default,,0000,0000,0000,,It can’t be!
+Dialogue: 0,0:12:34.18,0:12:35.89,Default,,0000,0000,0000,,Naruto! Hinata!
+Dialogue: 0,0:12:43.89,0:12:45.85,Default,,0000,0000,0000,,Look out! Run, you two!
+Dialogue: 0,0:12:47.01,0:12:47.59,Default,,0000,0000,0000,,Wha--?
+Dialogue: 0,0:12:52.55,0:12:54.55,Default,,0000,0000,0000,,This…couldn’t be over…
+Dialogue: 0,0:12:54.89,0:12:58.26,Default,,0000,0000,0000,,That person said it’d be okay\Nat just this extent…
+Dialogue: 0,0:13:07.59,0:13:09.51,Default,,0000,0000,0000,,What happened…?
+Dialogue: 0,0:13:09.59,0:13:12.22,Default,,0000,0000,0000,,By any chance,\Nwas an enemy after us?
+Dialogue: 0,0:13:12.30,0:13:16.14,Default,,0000,0000,0000,,No…Akamaru’s saying\Nhe didn’t smell anyone.
+Dialogue: 0,0:13:16.55,0:13:17.59,Default,,0000,0000,0000,,It was probably just an accident…
+Dialogue: 0,0:13:19.47,0:13:21.39,Default,,0000,0000,0000,,I told you this wasn’t the right place!
+Dialogue: 0,0:13:21.43,0:13:24.22,Default,,0000,0000,0000,,But, as a person,\Nif you’re looking for a limestone cave
+Dialogue: 0,0:13:24.26,0:13:25.59,Default,,0000,0000,0000,,and there’s one right in front of you,
+Dialogue: 0,0:13:25.59,0:13:27.72,Default,,0000,0000,0000,,one would usually think\Nthat’s the place, right?!
+Dialogue: 0,0:13:27.85,0:13:31.18,Default,,0000,0000,0000,,Don’t be getting smart with me.\NHere I saved your butt!
+Dialogue: 0,0:13:31.59,0:13:34.47,Default,,0000,0000,0000,,I didn’t ask you to save me.
+Dialogue: 0,0:13:35.14,0:13:36.60,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:36.85,0:13:38.30,Default,,0000,0000,0000,,Hey… you two…
+Dialogue: 0,0:13:46.35,0:13:48.59,Default,,0000,0000,0000,,A shard from the ceiling\Nhit you, huh…?
+Dialogue: 0,0:13:48.72,0:13:49.60,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:13:50.59,0:13:53.59,Default,,0000,0000,0000,,It seems I’m the one\Ndragging us down…
+Dialogue: 0,0:13:55.35,0:13:59.26,Default,,0000,0000,0000,,Not at all!\Nlf I had been more cautious…
+Dialogue: 0,0:13:59.39,0:14:01.72,Default,,0000,0000,0000,,At the end of the day,\Nit’s your fault, Naruto.
+Dialogue: 0,0:14:01.76,0:14:02.60,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:14:02.64,0:14:05.59,Default,,0000,0000,0000,,Nevertheless, I’ll have no part of\Ngoing back to the Academy
+Dialogue: 0,0:14:05.60,0:14:07.72,Default,,0000,0000,0000,,on account of associating\Nwith you, Naruto…
+Dialogue: 0,0:14:08.76,0:14:11.47,Default,,0000,0000,0000,,Akamaru and I will find the treasure.
+Dialogue: 0,0:14:11.97,0:14:13.59,Default,,0000,0000,0000,,What’re you saying, Kiba?!
+Dialogue: 0,0:14:13.72,0:14:15.97,Default,,0000,0000,0000,,There’s no point if\Nwe don’t all do it together!
+Dialogue: 0,0:14:16.10,0:14:18.59,Default,,0000,0000,0000,,I’m…okay, so…
+Dialogue: 0,0:14:18.97,0:14:21.35,Default,,0000,0000,0000,,From here on, there will be locations\Nall along the way so rough
+Dialogue: 0,0:14:21.39,0:14:23.68,Default,,0000,0000,0000,,they are beyond comparison\Nto those up until this point…
+Dialogue: 0,0:14:24.59,0:14:27.59,Default,,0000,0000,0000,,It’ll be nothing but places that\Nreally only a Shinobi can get through!
+Dialogue: 0,0:14:27.97,0:14:30.68,Default,,0000,0000,0000,,It’d be absolutely impossible\Nfor someone with an injured leg.
+Dialogue: 0,0:14:31.22,0:14:31.85,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:14:32.55,0:14:35.76,Default,,0000,0000,0000,,Besides… we can’t just leave someone\Nwho’s injured, right?
+Dialogue: 0,0:14:36.26,0:14:38.14,Default,,0000,0000,0000,,We need someone to stay with her.
+Dialogue: 0,0:14:38.35,0:14:40.39,Default,,0000,0000,0000,,Then it doesn’t have to be me…
+Dialogue: 0,0:14:40.64,0:14:42.80,Default,,0000,0000,0000,,Can you find the treasure by yourself?
+Dialogue: 0,0:14:43.47,0:14:46.64,Default,,0000,0000,0000,,You can’t read a map worth a damn\Nand you don’t know the mountains…
+Dialogue: 0,0:14:47.43,0:14:48.30,Default,,0000,0000,0000,,To be straight…
+Dialogue: 0,0:14:48.35,0:14:51.80,Default,,0000,0000,0000,,we’ve wasted a ton of time\Non your account, so!
+Dialogue: 0,0:14:53.93,0:14:54.93,Default,,0000,0000,0000,,Rest easy.
+Dialogue: 0,0:14:55.39,0:14:57.26,Default,,0000,0000,0000,,After I find the treasure,
+Dialogue: 0,0:14:57.30,0:14:59.59,Default,,0000,0000,0000,,you won’t have to go back\Nto the Academy…
+Dialogue: 0,0:15:00.14,0:15:01.26,Default,,0000,0000,0000,,Let’s go, Akamaru!
+Dialogue: 0,0:15:02.30,0:15:04.14,Default,,0000,0000,0000,,H-Hey! Wait, Kiba!
+Dialogue: 0,0:15:06.89,0:15:07.97,Default,,0000,0000,0000,,Damn it…!
+Dialogue: 0,0:15:10.64,0:15:11.35,Default,,0000,0000,0000,,Now.
+Dialogue: 0,0:15:13.18,0:15:13.85,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:14.10,0:15:14.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:28.55,0:15:30.35,Default,,0000,0000,0000,,Are you awake, Naruto?
+Dialogue: 0,0:15:33.60,0:15:34.55,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:15:34.76,0:15:35.80,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:40.93,0:15:43.26,Default,,0000,0000,0000,,There are…two Hinatas!
+Dialogue: 0,0:15:43.76,0:15:44.64,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:45.93,0:15:46.80,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:49.55,0:15:52.30,Default,,0000,0000,0000,,Hinata, did you use a Clone Jutsu?
+Dialogue: 0,0:15:52.59,0:15:55.43,Default,,0000,0000,0000,,Could it be… you were twins?!
+Dialogue: 0,0:15:55.59,0:15:56.59,Default,,0000,0000,0000,,– No! 					– No!
+Dialogue: 0,0:15:56.64,0:15:57.72,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:15:58.05,0:16:01.30,Default,,0000,0000,0000,,One of you transformed into Hinata\Nwith a Transformation Jutsu, huh…?
+Dialogue: 0,0:16:02.80,0:16:06.14,Default,,0000,0000,0000,,I can’t…tell you apart at all…
+Dialogue: 0,0:16:06.59,0:16:07.76,Default,,0000,0000,0000,,I’m the real one!
+Dialogue: 0,0:16:08.39,0:16:09.59,Default,,0000,0000,0000,,I’m the real one!
+Dialogue: 0,0:16:09.93,0:16:13.05,Default,,0000,0000,0000,,Your voices are also\Nexactly the same!
+Dialogue: 0,0:16:13.59,0:16:14.59,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:16:15.01,0:16:16.30,Default,,0000,0000,0000,,At a time like this,
+Dialogue: 0,0:16:16.35,0:16:18.68,Default,,0000,0000,0000,,I should ask a question\Nthat only the real one knows.
+Dialogue: 0,0:16:19.10,0:16:21.80,Default,,0000,0000,0000,,I'll come right out and ask!\NWhat’s Hinata’s father’s name?
+Dialogue: 0,0:16:23.72,0:16:25.05,Default,,0000,0000,0000,,– Hiashi Hyuga.\N– Hiashi Hyuga.
+Dialogue: 0,0:16:25.76,0:16:30.64,Default,,0000,0000,0000,,Oh, yeah. As for me,\NI didn’t know Hinata’s father’s name.
+Dialogue: 0,0:16:30.97,0:16:31.76,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:32.64,0:16:34.10,Default,,0000,0000,0000,,– Naruto… 					– Naruto…
+Dialogue: 0,0:16:34.39,0:16:37.30,Default,,0000,0000,0000,,At a time like this,\Nif Kiba and Akamaru were here…
+Dialogue: 0,0:16:37.59,0:16:40.80,Default,,0000,0000,0000,,Here they could tell by smell\Nwhich one is the real one…
+Dialogue: 0,0:16:41.10,0:16:43.59,Default,,0000,0000,0000,,Nope. It’d be impossible even\Nfor a Ninja Hound…
+Dialogue: 0,0:16:43.60,0:16:44.39,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:45.39,0:16:48.35,Default,,0000,0000,0000,,This isn’t just an ordinary\NTransformation Jutsu, so…
+Dialogue: 0,0:16:48.72,0:16:51.55,Default,,0000,0000,0000,,Mister…As I recall,\Nyou’re the client this time around…
+Dialogue: 0,0:16:51.80,0:16:52.97,Default,,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:16:53.22,0:16:56.59,Default,,0000,0000,0000,,It wasn’t buried treasure that I wanted…
+Dialogue: 0,0:16:57.39,0:16:58.59,Default,,0000,0000,0000,,It was your faces.
+Dialogue: 0,0:16:58.76,0:16:59.59,Default,,0000,0000,0000,,Faces…?
+Dialogue: 0,0:17:00.26,0:17:03.59,Default,,0000,0000,0000,,I already got…your face…
+Dialogue: 0,0:17:05.64,0:17:08.43,Default,,0000,0000,0000,,I’m Naruto Uzumaki!
+Dialogue: 0,0:17:08.76,0:17:10.59,Default,,0000,0000,0000,,That’s…me…
+Dialogue: 0,0:17:11.59,0:17:15.05,Default,,0000,0000,0000,,I guess I’ll be setting out\Nto get the last face…
+Dialogue: 0,0:17:18.30,0:17:19.76,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:17:33.26,0:17:34.10,Default,,0000,0000,0000,,This is the place…
+Dialogue: 0,0:17:36.39,0:17:38.59,Default,,0000,0000,0000,,This inside of the cave\Nis as the map says…
+Dialogue: 0,0:17:38.72,0:17:39.76,Default,,0000,0000,0000,,There’s no doubt.
+Dialogue: 0,0:17:50.68,0:17:53.59,Default,,0000,0000,0000,,It’s under this rock, huh?\NI’ll go in one shot!
+Dialogue: 0,0:18:00.10,0:18:00.68,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:03.59,0:18:06.89,Default,,0000,0000,0000,,This, huh…?\NI found it surprisingly easy.
+Dialogue: 0,0:18:08.39,0:18:09.60,Default,,0000,0000,0000,,What is it, Akamaru?
+Dialogue: 0,0:18:10.22,0:18:12.80,Default,,0000,0000,0000,,Kiba? That’s you there, isn’t it, Kiba?
+Dialogue: 0,0:18:14.59,0:18:15.51,Default,,0000,0000,0000,,Kiba…?
+Dialogue: 0,0:18:15.97,0:18:17.59,Default,,0000,0000,0000,,Naruto…Hinata…
+Dialogue: 0,0:18:18.26,0:18:20.85,Default,,0000,0000,0000,,I told you guys to go\Non back first, didn’t I?!
+Dialogue: 0,0:18:21.22,0:18:24.01,Default,,0000,0000,0000,,Come on! Come on! Here we went\Nto the trouble of coming!
+Dialogue: 0,0:18:24.18,0:18:26.30,Default,,0000,0000,0000,,This mission is for the three of us, so…
+Dialogue: 0,0:18:26.93,0:18:29.59,Default,,0000,0000,0000,,Hinata… is your injury okay?
+Dialogue: 0,0:18:29.93,0:18:33.68,Default,,0000,0000,0000,,Yeah…I became able to move\Nafter resting a bit, so…
+Dialogue: 0,0:18:34.47,0:18:37.72,Default,,0000,0000,0000,,Wow! You already found\Nthe treasure?!
+Dialogue: 0,0:18:38.18,0:18:40.39,Default,,0000,0000,0000,,Then let’s take it back\Nto the village quick!
+Dialogue: 0,0:18:41.01,0:18:41.72,Default,,0000,0000,0000,,Right…
+Dialogue: 0,0:18:42.43,0:18:47.47,Default,,0000,0000,0000,,Wait… How did they get here\Nso fast without a map?
+Dialogue: 0,0:18:48.18,0:18:50.85,Default,,0000,0000,0000,,And moreover,\NNaruto has zero sense of direction…
+Dialogue: 0,0:18:51.59,0:18:53.60,Default,,0000,0000,0000,,And Hinata has an injured leg…
+Dialogue: 0,0:18:57.51,0:19:00.22,Default,,0000,0000,0000,,Akamaru…doesn’t seem to be feeling\Nany particular suspicion.
+Dialogue: 0,0:19:00.76,0:19:02.43,Default,,0000,0000,0000,,Am I being paranoid…?
+Dialogue: 0,0:19:14.51,0:19:16.10,Default,,0000,0000,0000,,It seems they’re back.
+Dialogue: 0,0:19:17.14,0:19:18.51,Default,,0000,0000,0000,,Kiba! Akamaru!
+Dialogue: 0,0:19:21.26,0:19:22.85,Default,,0000,0000,0000,,Heh! Didn’t we tell you?
+Dialogue: 0,0:19:23.47,0:19:25.97,Default,,0000,0000,0000,,Even a Ninja Hound's nose\Ncan’t tell the difference…
+Dialogue: 0,0:19:30.59,0:19:31.59,Default,,0000,0000,0000,,Let’s begin.
+Dialogue: 0,0:19:34.76,0:19:37.55,Default,,0000,0000,0000,,Face Copying Jutsu!
+Dialogue: 0,0:19:47.14,0:19:47.97,Default,,0000,0000,0000,,What’s that…?
+Dialogue: 0,0:19:48.59,0:19:51.30,Default,,0000,0000,0000,,We also copied faces like this.
+Dialogue: 0,0:19:51.68,0:19:53.18,Default,,0000,0000,0000,,As you can see,
+Dialogue: 0,0:19:53.22,0:19:55.01,Default,,0000,0000,0000,,when performing\Nthe Face Copying Jutsu,
+Dialogue: 0,0:19:55.05,0:19:57.59,Default,,0000,0000,0000,,the person being copied\Nmust be close by.
+Dialogue: 0,0:19:57.85,0:20:00.05,Default,,0000,0000,0000,,And moreover,\Nit takes a degree of time.
+Dialogue: 0,0:20:00.10,0:20:05.22,Default,,0000,0000,0000,,But once a face has been copied once,\Nit’s an impeccable Transformation Jutsu
+Dialogue: 0,0:20:05.26,0:20:07.68,Default,,0000,0000,0000,,that is beyond even\Na family’s recognition.
+Dialogue: 0,0:20:08.59,0:20:09.30,Default,,0000,0000,0000,,No way…
+Dialogue: 0,0:20:09.55,0:20:11.64,Default,,0000,0000,0000,,Kiba! Wake up! Kiba!
+Dialogue: 0,0:20:14.14,0:20:17.01,Default,,0000,0000,0000,,Wh-What the hell are you…?!
+Dialogue: 0,0:20:17.30,0:20:18.72,Default,,0000,0000,0000,,I’m Kiba Inuzuka.
+Dialogue: 0,0:20:24.68,0:20:25.59,Default,,0000,0000,0000,,You guys…
+Dialogue: 0,0:20:27.59,0:20:28.60,Default,,0000,0000,0000,,What’s the big idea?!
+Dialogue: 0,0:20:30.30,0:20:30.93,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:20:31.43,0:20:31.89,Default,,0000,0000,0000,,Kiba!
+Dialogue: 0,0:20:36.89,0:20:38.72,Default,,0000,0000,0000,,Those are the real ones, huh…?
+Dialogue: 0,0:20:48.35,0:20:50.60,Default,,0000,0000,0000,,Who the hell are you guys?
+Dialogue: 0,0:20:52.05,0:20:54.55,Default,,0000,0000,0000,,The name of our clan\Nis the Kedouin Clan.
+Dialogue: 0,0:20:54.93,0:20:57.59,Default,,0000,0000,0000,,We’re a clan that possesses\Nthe secret Face Copying Jutsu.
+Dialogue: 0,0:20:57.85,0:20:59.59,Default,,0000,0000,0000,,Why our faces?
+Dialogue: 0,0:21:00.39,0:21:04.43,Default,,0000,0000,0000,,We’re going to return to the Village\NHidden in Leaves in your place,
+Dialogue: 0,0:21:04.59,0:21:07.26,Default,,0000,0000,0000,,and mess up the village good!
+Dialogue: 0,0:21:31.93,0:21:34.47,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:34.85,0:21:38.22,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:38.39,0:21:40.72,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:41.39,0:21:43.72,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:44.72,0:21:47.80,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:47.89,0:21:50.51,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:51.18,0:21:53.60,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:54.26,0:21:55.59,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:58.59,0:22:02.59,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:05.01,0:22:09.01,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:10.59,0:22:13.76,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:13.76,0:22:16.85,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:17.01,0:22:19.89,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:19.93,0:22:23.59,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:23.59,0:22:26.59,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:26.60,0:22:29.59,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:29.85,0:22:36.26,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:36.59,0:22:39.59,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:39.59,0:22:42.97,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:51.26,0:22:52.01,Default,,0000,0000,0000,,Like I said,
+Dialogue: 0,0:22:52.05,0:22:53.93,Default,,0000,0000,0000,,nothing good ever comes from\Na mission together with you, Naruto.
+Dialogue: 0,0:22:54.01,0:22:55.14,Default,,0000,0000,0000,,This isn’t the time to be complaining.
+Dialogue: 0,0:22:55.18,0:22:56.43,Default,,0000,0000,0000,,They’re intending to\Nhead for the village.
+Dialogue: 0,0:22:56.47,0:22:58.22,Default,,0000,0000,0000,,Then, how do we get out of here?
+Dialogue: 0,0:22:58.39,0:22:59.59,Default,,0000,0000,0000,,– Listen.\N– With Rasengan, I’ll…
+Dialogue: 0,0:22:59.59,0:23:00.80,Default,,0000,0000,0000,,No good. They’ll notice.
+Dialogue: 0,0:23:00.85,0:23:02.59,Default,,0000,0000,0000,,– I can…\N– Then use your Fang-Over-Fang.
+Dialogue: 0,0:23:02.59,0:23:04.18,Default,,0000,0000,0000,,– It’d be the same, you idiot.\N– That's why I said…
+Dialogue: 0,0:23:04.18,0:23:05.64,Default,,0000,0000,0000,,– Then, what do we do?\N– Use that, I’m telling you…
+Dialogue: 0,0:23:05.68,0:23:06.59,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:23:06.60,0:23:07.76,Default,,0000,0000,0000,,– Don’t stop me, Hinata.\N– Don’t stop me, Hinata.
+Dialogue: 0,0:23:08.01,0:23:09.68,Default,,0000,0000,0000,,Not that, I mean I’ll…
+Dialogue: 0,0:23:09.97,0:23:11.43,Default,,0000,0000,0000,,– Oh, that. 					– Oh, that.
+Dialogue: 0,0:23:11.97,0:23:16.59,Default,,0000,0000,0000,,Next time: “Run, Dodge, Zigzag!\NChase or be Chased!”

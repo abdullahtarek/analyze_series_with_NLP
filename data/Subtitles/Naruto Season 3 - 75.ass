@@ -1,0 +1,224 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.55,0:00:09.72,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.84,0:00:17.97,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.22,0:00:20.26,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.22,0:00:26.97,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.01,0:00:30.51,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.72,0:00:34.22,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.64,0:00:37.89,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.93,0:00:45.51,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.55,0:00:54.76,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.80,0:01:02.84,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.97,0:01:09.84,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.85,0:01:17.97,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.30,0:01:26.84,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.84,0:01:28.84,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:52.43,0:01:58.84,Default,,0000,0000,0000,,Sasuke's Decision:\NPushed to the Edge!
+Dialogue: 0,0:02:12.84,0:02:14.05,Default,,0000,0000,0000,,There you are!
+Dialogue: 0,0:02:21.47,0:02:22.05,Default,,0000,0000,0000,,I’m here!
+Dialogue: 0,0:02:46.97,0:02:48.05,Default,,0000,0000,0000,,I’m returning them to you!
+Dialogue: 0,0:02:56.97,0:02:58.55,Default,,0000,0000,0000,,So it’s a clone…
+Dialogue: 0,0:03:04.64,0:03:05.43,Default,,0000,0000,0000,,Bastard!
+Dialogue: 0,0:03:10.14,0:03:13.39,Default,,0000,0000,0000,,Sasuke…Uchiha…!
+Dialogue: 0,0:03:13.97,0:03:16.35,Default,,0000,0000,0000,,Why won’t you come at me?!
+Dialogue: 0,0:03:26.55,0:03:27.80,Default,,0000,0000,0000,,Why…
+Dialogue: 0,0:03:28.84,0:03:30.51,Default,,0000,0000,0000,,do you flee?!
+Dialogue: 0,0:03:32.30,0:03:33.84,Default,,0000,0000,0000,,Ready?
+Dialogue: 0,0:03:33.93,0:03:35.14,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:03:38.84,0:03:40.01,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:03:40.60,0:03:41.51,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:03:43.89,0:03:44.84,Default,,0000,0000,0000,,Pass!
+Dialogue: 0,0:03:46.01,0:03:47.60,Default,,0000,0000,0000,,Here! Good one!
+Dialogue: 0,0:03:48.22,0:03:50.14,Default,,0000,0000,0000,,Good! Go! Go! Go!
+Dialogue: 0,0:03:57.84,0:03:58.76,Default,,0000,0000,0000,,Power shot!
+Dialogue: 0,0:04:05.64,0:04:06.84,Default,,0000,0000,0000,,What’re we gonna do?
+Dialogue: 0,0:04:08.05,0:04:11.10,Default,,0000,0000,0000,,We don’t know any wall-climbing\Ntechniques or anything…
+Dialogue: 0,0:04:22.10,0:04:23.60,Default,,0000,0000,0000,,Y-You’re…
+Dialogue: 0,0:04:31.68,0:04:32.35,Default,,0000,0000,0000,,This…
+Dialogue: 0,0:04:32.55,0:04:33.80,Default,,0000,0000,0000,,It’s Gaara…
+Dialogue: 0,0:04:34.14,0:04:35.76,Default,,0000,0000,0000,,Gaara of Sand…
+Dialogue: 0,0:04:36.26,0:04:37.80,Default,,0000,0000,0000,,R-Run!
+Dialogue: 0,0:04:45.26,0:04:46.01,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:46.55,0:04:47.84,Default,,0000,0000,0000,,Don’t leave me alone!
+Dialogue: 0,0:04:50.30,0:04:51.84,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:04:54.84,0:04:55.60,Default,,0000,0000,0000,,I don't…
+Dialogue: 0,0:04:58.14,0:04:59.60,Default,,0000,0000,0000,,want to be alone anymore!
+Dialogue: 0,0:05:06.93,0:05:07.84,Default,,0000,0000,0000,,Really…
+Dialogue: 0,0:05:09.26,0:05:10.55,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:05:16.64,0:05:18.72,Default,,0000,0000,0000,,Gaara! Please calm down!
+Dialogue: 0,0:05:20.43,0:05:21.35,Default,,0000,0000,0000,,Yashamaru…
+Dialogue: 0,0:05:57.84,0:05:59.68,Default,,0000,0000,0000,,No escape!
+Dialogue: 0,0:06:00.05,0:06:04.89,Default,,0000,0000,0000,,I won’t let you escape!\NSasuke Uchiha!
+Dialogue: 0,0:06:25.10,0:06:28.35,Default,,0000,0000,0000,,You’ve gotta be kidding!\NWhat’s with that outrageous strength…?
+Dialogue: 0,0:06:29.39,0:06:31.84,Default,,0000,0000,0000,,Are you afraid of me?
+Dialogue: 0,0:06:32.84,0:06:34.30,Default,,0000,0000,0000,,It’s too overwhelming…
+Dialogue: 0,0:06:35.51,0:06:43.18,Default,,0000,0000,0000,,Sasuke Uchiha! Are you afraid?\NAre you afraid of my existence?!
+Dialogue: 0,0:06:45.30,0:06:49.84,Default,,0000,0000,0000,,Don’t forget…\NYou are my prey.
+Dialogue: 0,0:06:52.76,0:06:53.43,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:06:56.84,0:07:00.01,Default,,0000,0000,0000,,Why are you fixated\Non me so much?
+Dialogue: 0,0:07:09.18,0:07:11.84,Default,,0000,0000,0000,,Those eyes that know true loneliness…
+Dialogue: 0,0:07:14.85,0:07:21.30,Default,,0000,0000,0000,,And eyes that know that\Nit is the world’s greatest suffering…
+Dialogue: 0,0:07:22.10,0:07:23.10,Default,,0000,0000,0000,,I think I told you.
+Dialogue: 0,0:07:24.05,0:07:26.89,Default,,0000,0000,0000,,That you have the same eyes as me.
+Dialogue: 0,0:07:27.84,0:07:29.43,Default,,0000,0000,0000,,Eyes that lust for power,
+Dialogue: 0,0:07:29.47,0:07:32.84,Default,,0000,0000,0000,,overflowing with hatred\Nand murderous intent…
+Dialogue: 0,0:07:35.10,0:07:36.80,Default,,0000,0000,0000,,The same as me…
+Dialogue: 0,0:07:37.84,0:07:41.51,Default,,0000,0000,0000,,Eyes that burn to kill those\Nwho drove you…
+Dialogue: 0,0:07:43.51,0:07:46.05,Default,,0000,0000,0000,,into a hell called loneliness!
+Dialogue: 0,0:07:52.72,0:07:53.84,Default,,0000,0000,0000,,Such are your eyes.
+Dialogue: 0,0:08:01.26,0:08:02.51,Default,,0000,0000,0000,,Okay. Just a minute.
+Dialogue: 0,0:08:05.18,0:08:06.84,Default,,0000,0000,0000,,So you’re called Gaara…
+Dialogue: 0,0:08:08.84,0:08:11.93,Default,,0000,0000,0000,,I don’t know what you know\Nabout Sasuke, but…
+Dialogue: 0,0:08:12.97,0:08:14.80,Default,,0000,0000,0000,,It’s not good for you to\Nspeak as though
+Dialogue: 0,0:08:14.84,0:08:16.84,Default,,0000,0000,0000,,you perceive everything about Sasuke!
+Dialogue: 0,0:08:17.85,0:08:20.72,Default,,0000,0000,0000,,What is it that you want to say\Nto him before the final round,
+Dialogue: 0,0:08:20.80,0:08:22.51,Default,,0000,0000,0000,,by pursuing him so far?
+Dialogue: 0,0:08:24.51,0:08:25.93,Default,,0000,0000,0000,,A battle is where…
+Dialogue: 0,0:08:28.39,0:08:30.97,Default,,0000,0000,0000,,another’s existence and one’s own\Nexistence are put on the line…
+Dialogue: 0,0:08:32.89,0:08:34.84,Default,,0000,0000,0000,,and each tries to kill the other!
+Dialogue: 0,0:08:37.64,0:08:42.18,Default,,0000,0000,0000,,Only the winner can actually feel\Nthe value of his own existence.
+Dialogue: 0,0:08:42.84,0:08:44.68,Default,,0000,0000,0000,,In other words,\Nwhat you want to say is…
+Dialogue: 0,0:08:44.72,0:08:47.97,Default,,0000,0000,0000,,let’s have a killing bout and\Nnot a match?
+Dialogue: 0,0:08:48.60,0:08:53.47,Default,,0000,0000,0000,,Uchiha… You really should\Nbe wanting it, too…
+Dialogue: 0,0:08:54.05,0:08:55.89,Default,,0000,0000,0000,,in the depths of your soul…
+Dialogue: 0,0:08:56.84,0:08:59.84,Default,,0000,0000,0000,,You want to confirm\Nthe value of your existence.
+Dialogue: 0,0:09:00.35,0:09:03.80,Default,,0000,0000,0000,,Am I really, truly powerful?
+Dialogue: 0,0:09:04.39,0:09:07.14,Default,,0000,0000,0000,,Is my existence more powerful\Nthan my opponent
+Dialogue: 0,0:09:07.18,0:09:09.84,Default,,0000,0000,0000,,who faces me with eyes\Nfilled with intent to kill?
+Dialogue: 0,0:09:29.14,0:09:30.68,Default,,0000,0000,0000,,What’s the matter?!
+Dialogue: 0,0:09:31.84,0:09:33.80,Default,,0000,0000,0000,,Sasuke Uchiha!
+Dialogue: 0,0:09:34.35,0:09:36.80,Default,,0000,0000,0000,,Are you afraid of me?!
+Dialogue: 0,0:09:40.43,0:09:42.76,Default,,0000,0000,0000,,Your hatred and intent to kill…
+Dialogue: 0,0:09:43.26,0:09:45.80,Default,,0000,0000,0000,,have they given way to fear?
+Dialogue: 0,0:09:46.22,0:09:49.85,Default,,0000,0000,0000,,Is that the extent of your existence?!
+Dialogue: 0,0:09:50.72,0:09:54.18,Default,,0000,0000,0000,,Fight me…and confirm it!
+Dialogue: 0,0:09:55.14,0:09:58.55,Default,,0000,0000,0000,,Your value! Your existence!
+Dialogue: 0,0:09:59.10,0:10:00.64,Default,,0000,0000,0000,,Experience it!
+Dialogue: 0,0:10:01.43,0:10:02.93,Default,,0000,0000,0000,,If you want an answer…
+Dialogue: 0,0:10:04.47,0:10:05.64,Default,,0000,0000,0000,,Come at me!
+Dialogue: 0,0:10:16.72,0:10:17.89,Default,,0000,0000,0000,,I was allowed to live…
+Dialogue: 0,0:10:19.64,0:10:22.35,Default,,0000,0000,0000,,Only…myself.
+Dialogue: 0,0:10:23.64,0:10:24.84,Default,,0000,0000,0000,,Expressly for what reason?!
+Dialogue: 0,0:10:27.60,0:10:30.43,Default,,0000,0000,0000,,No… I know the reason.
+Dialogue: 0,0:10:31.60,0:10:35.55,Default,,0000,0000,0000,,The reason that man left me alive\Nwas so he wouldn’t be tormented
+Dialogue: 0,0:10:35.60,0:10:38.51,Default,,0000,0000,0000,,by a sense of guilt for having killed\Nan entire clan…
+Dialogue: 0,0:10:40.68,0:10:48.18,Default,,0000,0000,0000,,Itachi chose me as the avenger…\Nin order to have me kill him!
+Dialogue: 0,0:11:03.76,0:11:08.60,Default,,0000,0000,0000,,Now, let me have some fun…\NSasuke Uchiha!
+Dialogue: 0,0:11:11.80,0:11:13.14,Default,,0000,0000,0000,,I’ll finish it with one blow!
+Dialogue: 0,0:11:55.72,0:11:58.10,Default,,0000,0000,0000,,Hurry up and die,\Nrelease yourself from your misery.
+Dialogue: 0,0:11:58.85,0:12:00.84,Default,,0000,0000,0000,,You silly old fool…
+Dialogue: 0,0:12:01.84,0:12:05.68,Default,,0000,0000,0000,,I believe I told you…\Nthat you would die too!
+Dialogue: 0,0:12:06.39,0:12:07.35,Default,,0000,0000,0000,,Bastard!
+Dialogue: 0,0:12:15.43,0:12:17.51,Default,,0000,0000,0000,,Let go, you old fool!
+Dialogue: 0,0:12:17.84,0:12:20.89,Default,,0000,0000,0000,,I will not let go!\NI refuse to let go…
+Dialogue: 0,0:12:21.14,0:12:24.84,Default,,0000,0000,0000,,until I have pulled out your soul!
+Dialogue: 0,0:12:37.10,0:12:38.80,Default,,0000,0000,0000,,At this rate…
+Dialogue: 0,0:13:11.68,0:13:12.35,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:13:19.01,0:13:20.64,Default,,0000,0000,0000,,Looks like it worked…
+Dialogue: 0,0:13:44.26,0:13:47.39,Default,,0000,0000,0000,,I see! That’s what it was!
+Dialogue: 0,0:13:47.60,0:13:48.60,Default,,0000,0000,0000,,That’s not possible…
+Dialogue: 0,0:13:48.84,0:13:52.60,Default,,0000,0000,0000,,He countered Gaara’s attack\Nin that condition?!
+Dialogue: 0,0:13:57.76,0:14:02.76,Default,,0000,0000,0000,,I just realized the reason…\Nwhy it’s so fun!
+Dialogue: 0,0:14:04.26,0:14:05.64,Default,,0000,0000,0000,,This pain…
+Dialogue: 0,0:14:06.72,0:14:09.80,Default,,0000,0000,0000,,To take down an opponent\Nwho wounded me…
+Dialogue: 0,0:14:09.84,0:14:12.43,Default,,0000,0000,0000,,and thoroughly destroy him…!
+Dialogue: 0,0:14:12.55,0:14:16.30,Default,,0000,0000,0000,,That will make me truly feel alive!
+Dialogue: 0,0:14:18.26,0:14:22.97,Default,,0000,0000,0000,,Gaara’s never had a single wound,\Nbut he got Gaara twice.
+Dialogue: 0,0:14:24.22,0:14:27.05,Default,,0000,0000,0000,,Is he…a freak?!
+Dialogue: 0,0:14:28.05,0:14:31.18,Default,,0000,0000,0000,,No…a true freak is…
+Dialogue: 0,0:14:33.05,0:14:37.84,Default,,0000,0000,0000,,After all, the only thing Gaara is\Ntransforming is still just his right arm.
+Dialogue: 0,0:14:42.80,0:14:44.80,Default,,0000,0000,0000,,More, more!
+Dialogue: 0,0:14:45.05,0:14:45.84,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:57.51,0:14:59.39,Default,,0000,0000,0000,,What the heck is this guy?!
+Dialogue: 0,0:14:59.89,0:15:01.60,Default,,0000,0000,0000,,One after another…
+Dialogue: 0,0:15:04.84,0:15:07.47,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:15:09.14,0:15:10.05,Default,,0000,0000,0000,,He’s even faster!
+Dialogue: 0,0:15:21.97,0:15:24.97,Default,,0000,0000,0000,,I can’t dodge unless\NI read ahead of his movements.
+Dialogue: 0,0:15:25.89,0:15:28.35,Default,,0000,0000,0000,,If I didn’t have these eyes\NI’d have died long ago.
+Dialogue: 0,0:15:32.84,0:15:33.89,Default,,0000,0000,0000,,I can no longer use Chidori…
+Dialogue: 0,0:15:35.01,0:15:38.05,Default,,0000,0000,0000,,Fire Style…\NFire Ball Jutsu!
+Dialogue: 0,0:15:46.43,0:15:47.89,Default,,0000,0000,0000,,So the Fire Style doesn’t\Nwork against sand…
+Dialogue: 0,0:15:48.64,0:15:50.72,Default,,0000,0000,0000,,Not only that,\Nthis level of Jutsu won’t…
+Dialogue: 0,0:15:51.26,0:15:52.84,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:15:53.47,0:15:55.14,Default,,0000,0000,0000,,Apparently…it needs to be Chidori!
+Dialogue: 0,0:16:19.26,0:16:23.84,Default,,0000,0000,0000,,Well! Your limit is two shots.\NThat’s about it…
+Dialogue: 0,0:16:32.84,0:16:35.39,Default,,0000,0000,0000,,This is as many Chidori\Nyou can shoot in one day
+Dialogue: 0,0:16:35.43,0:16:36.64,Default,,0000,0000,0000,,with your present Chakra.
+Dialogue: 0,0:16:37.72,0:16:40.72,Default,,0000,0000,0000,,After all, this Chidori is a technique\Nthat can only be used
+Dialogue: 0,0:16:40.76,0:16:42.84,Default,,0000,0000,0000,,in conjunction with Sharingan\Nduring actual battles.
+Dialogue: 0,0:16:44.30,0:16:48.64,Default,,0000,0000,0000,,But using Sharingan and\Nanother Jutsu simultaneously means
+Dialogue: 0,0:16:48.85,0:16:53.26,Default,,0000,0000,0000,,exploding and using up the Chakra\Nin your body all at once.
+Dialogue: 0,0:17:00.35,0:17:03.89,Default,,0000,0000,0000,,Well! But you really are\None of the more impressive ones.
+Dialogue: 0,0:17:04.72,0:17:05.85,Default,,0000,0000,0000,,Even with my Chidori…
+Dialogue: 0,0:17:06.26,0:17:09.05,Default,,0000,0000,0000,,If I use the Lightning Blade\Nfour times in a day,
+Dialogue: 0,0:17:09.55,0:17:12.05,Default,,0000,0000,0000,,I’d completely use up my Chakra.
+Dialogue: 0,0:17:15.51,0:17:19.01,Default,,0000,0000,0000,,What would happen if I tried\Nto use more than two shots?
+Dialogue: 0,0:17:22.93,0:17:25.22,Default,,0000,0000,0000,,The third shot won’t be activated…
+Dialogue: 0,0:17:26.10,0:17:27.39,Default,,0000,0000,0000,,Remember this well!
+Dialogue: 0,0:17:28.84,0:17:31.18,Default,,0000,0000,0000,,If you try to force a Jutsu to activate…
+Dialogue: 0,0:17:31.64,0:17:33.84,Default,,0000,0000,0000,,not only will the Jutsu\Nnot properly activate,
+Dialogue: 0,0:17:33.85,0:17:35.84,Default,,0000,0000,0000,,but your Chakra will deplete to zero…
+Dialogue: 0,0:17:36.80,0:17:38.84,Default,,0000,0000,0000,,And in the worst case, you’ll die!
+Dialogue: 0,0:17:41.60,0:17:46.51,Default,,0000,0000,0000,,Even if you were to survive,\Nabsolutely nothing good will come of it.
+Dialogue: 0,0:17:48.55,0:17:50.18,Default,,0000,0000,0000,,Especially in your case.
+Dialogue: 0,0:17:58.84,0:17:59.93,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:18:00.84,0:18:04.01,Default,,0000,0000,0000,,Does the value of your existence\Namount to only this much?
+Dialogue: 0,0:18:04.84,0:18:06.47,Default,,0000,0000,0000,,I’ll be blunt…
+Dialogue: 0,0:18:07.05,0:18:09.84,Default,,0000,0000,0000,,You are…weak!
+Dialogue: 0,0:18:13.84,0:18:16.14,Default,,0000,0000,0000,,You’re too optimistic.
+Dialogue: 0,0:18:16.84,0:18:19.05,Default,,0000,0000,0000,,And it’s because your hatred\Nis weak!
+Dialogue: 0,0:18:21.76,0:18:24.84,Default,,0000,0000,0000,,The power of hatred is\Nthe power of the intent to kill!
+Dialogue: 0,0:18:25.84,0:18:28.85,Default,,0000,0000,0000,,The power of the intent to kill\Nis the power of revenge!
+Dialogue: 0,0:18:35.14,0:18:38.72,Default,,0000,0000,0000,,Your hatred is weaker than mine!
+Dialogue: 0,0:18:39.64,0:18:40.39,Default,,0000,0000,0000,,Shut up…
+Dialogue: 0,0:18:42.84,0:18:44.85,Default,,0000,0000,0000,,Do you understand\Nthe meaning of this?!
+Dialogue: 0,0:18:45.84,0:18:46.68,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:18:47.47,0:18:52.10,Default,,0000,0000,0000,,That means that you…\NYou are weaker than me!
+Dialogue: 0,0:18:56.18,0:19:02.39,Default,,0000,0000,0000,,Itachi chose me to be the avenger…\Nto have me kill him!
+Dialogue: 0,0:19:05.60,0:19:07.10,Default,,0000,0000,0000,,I am an avenger!
+Dialogue: 0,0:20:23.39,0:20:24.89,Default,,0000,0000,0000,,The Curse Mark again…
+Dialogue: 0,0:20:32.55,0:20:34.80,Default,,0000,0000,0000,,Darn…! My body…
+Dialogue: 0,0:20:54.76,0:20:55.64,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:21:18.05,0:21:28.18,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:21:28.68,0:21:39.51,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:49.60,0:21:55.18,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:55.22,0:22:00.22,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:00.64,0:22:05.64,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:05.68,0:22:10.84,Default,,0000,0000,0000,,Let’s go carve the badges in our chest\NYes, it’s Show Time, life begins now.
+Dialogue: 0,0:22:10.84,0:22:20.93,Default,,0000,0000,0000,,Everyone makes mistakes\N It’s nothing to be ashamed about
+Dialogue: 0,0:22:21.26,0:22:31.84,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:31.84,0:22:42.39,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:42.43,0:22:47.93,Default,,0000,0000,0000,,Forge on strong
+Dialogue: 0,0:22:59.85,0:23:03.84,Default,,0000,0000,0000,,Hey Yashamaru,\Nwhat does pain feel like?
+Dialogue: 0,0:23:04.30,0:23:07.10,Default,,0000,0000,0000,,I don’t know because\NI’ve never been injured…
+Dialogue: 0,0:23:07.47,0:23:10.05,Default,,0000,0000,0000,,I was wondering what it’s like.
+Dialogue: 0,0:23:10.89,0:23:14.43,Default,,0000,0000,0000,,Could it be that I’m hurt?
+Dialogue: 0,0:23:14.93,0:23:19.10,Default,,0000,0000,0000,,I’m not bleeding, but my chest’s\Nfelt weird for a long time.
+Dialogue: 0,0:23:19.64,0:23:23.84,Default,,0000,0000,0000,,It feels stifled and it hurts a lot!
+Dialogue: 0,0:23:24.35,0:23:26.76,Default,,0000,0000,0000,,Next time:\N“Assassin of the Moonlit Night”

@@ -1,0 +1,321 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.02,0:00:12.60,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.65,0:00:16.10,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:16.15,0:00:19.73,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.77,0:00:23.31,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.35,0:00:26.73,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.77,0:00:28.73,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.44,0:00:33.40,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.44,0:00:37.23,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.69,0:00:44.52,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.77,0:00:51.89,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.98,0:00:58.19,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.31,0:01:02.77,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.81,0:01:06.35,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.40,0:01:09.85,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.89,0:01:13.48,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.52,0:01:17.06,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:17.10,0:01:20.77,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.81,0:01:24.35,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.40,0:01:28.56,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:01:46.89,0:01:49.89,Default,,0000,0000,0000,,I’ve done it!\NThe water is turning!
+Dialogue: 0,0:01:50.35,0:01:53.60,Default,,0000,0000,0000,,It seems it’s going to be easier\Nthan I thought to break it.
+Dialogue: 0,0:01:53.90,0:02:00.15,Default,,0000,0000,0000,,Then I’ll go take a little rest\Nuntil it’s done…with this.
+Dialogue: 0,0:02:00.19,0:02:02.65,Default,,0000,0000,0000,,Hey! What is that?!
+Dialogue: 0,0:02:02.89,0:02:07.85,Default,,0000,0000,0000,,I need it to kill the time.\NAnd also to get some sleep.
+Dialogue: 0,0:02:08.89,0:02:12.40,Default,,0000,0000,0000,,Huh! The way it’s going,\Nit won’t even be an afternoon nap!
+Dialogue: 0,0:02:13.56,0:02:17.19,Default,,0000,0000,0000,,Is that so…?\NCall me when it is broken.
+Dialogue: 0,0:02:17.40,0:02:18.77,Default,,0000,0000,0000,,Just wait!
+Dialogue: 0,0:02:19.85,0:02:23.65,Default,,0000,0000,0000,,If it keeps up like this,\NI’ll learn it within today!
+Dialogue: 0,0:02:29.35,0:02:35.19,Default,,0000,0000,0000,,Keep on Training!\NPop Goes the Water Balloon
+Dialogue: 0,0:02:46.89,0:02:51.56,Default,,0000,0000,0000,,Oh man! Why doesn’t it break!
+Dialogue: 0,0:02:51.89,0:02:54.89,Default,,0000,0000,0000,,Huh? Are you done with it?
+Dialogue: 0,0:02:57.60,0:03:02.35,Default,,0000,0000,0000,,Ah…well, it’s almost done\Nor how should I call it.
+Dialogue: 0,0:03:02.73,0:03:04.06,Default,,0000,0000,0000,,Oh boy…
+Dialogue: 0,0:03:04.60,0:03:08.65,Default,,0000,0000,0000,,It seems like I went beyond\Nan afternoon nap and had a deep sleep.
+Dialogue: 0,0:03:09.98,0:03:12.90,Default,,0000,0000,0000,,Hey, hey…how do I break it?
+Dialogue: 0,0:03:16.85,0:03:20.48,Default,,0000,0000,0000,,Didn’t I tell you I can’t give\Na detailed explanation until it’s broken?
+Dialogue: 0,0:03:22.89,0:03:24.89,Default,,0000,0000,0000,,All right, I understand…
+Dialogue: 0,0:03:26.44,0:03:29.89,Default,,0000,0000,0000,,Naturally, you’re supposed to realize it\Nthrough trial and error
+Dialogue: 0,0:03:29.89,0:03:32.77,Default,,0000,0000,0000,,when mastering a Jutsu, but…
+Dialogue: 0,0:03:32.89,0:03:34.02,Default,,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:03:34.60,0:03:38.23,Default,,0000,0000,0000,,I guess I’ll teach you just\Na tiny bit on the Jutsu…
+Dialogue: 0,0:03:38.89,0:03:41.69,Default,,0000,0000,0000,,You, try rotating the water!
+Dialogue: 0,0:03:41.89,0:03:43.35,Default,,0000,0000,0000,,Oh, okay.
+Dialogue: 0,0:03:50.02,0:03:54.52,Default,,0000,0000,0000,,Right or left…which direction did you\Nimagine when you rotate it?
+Dialogue: 0,0:03:54.69,0:03:57.98,Default,,0000,0000,0000,,Hmm…well, to the left…
+Dialogue: 0,0:03:58.52,0:04:00.27,Default,,0000,0000,0000,,Hey, come over here.
+Dialogue: 0,0:04:00.56,0:04:01.40,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:04:06.89,0:04:09.10,Default,,0000,0000,0000,,Huh, I thought so…
+Dialogue: 0,0:04:10.44,0:04:12.40,Default,,0000,0000,0000,,W-What?
+Dialogue: 0,0:04:12.60,0:04:15.69,Default,,0000,0000,0000,,You are in fact a right-rotation type.
+Dialogue: 0,0:04:16.31,0:04:17.15,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:04:17.52,0:04:19.02,Default,,0000,0000,0000,,In order to build up Chakra,
+Dialogue: 0,0:04:19.06,0:04:21.94,Default,,0000,0000,0000,,it is necessary to blend the energy…
+Dialogue: 0,0:04:22.48,0:04:26.48,Default,,0000,0000,0000,,Chakra\N							Spiritual energy       Physical energy\N		So everybody unconsciously builds up\N		Chakra inside the body by rotating it.\N55	01:54:25:29	01:54:29:20\N              Right                             Left\N		Whether the rotation at that point\N		is to the right or to the left
+Dialogue: 0,0:04:30.77,0:04:32.27,Default,,0000,0000,0000,,differs in the individual.
+Dialogue: 0,0:04:32.69,0:04:35.89,Default,,0000,0000,0000,,Therefore, if you imagine\Nthe rotation of the water balloon
+Dialogue: 0,0:04:35.89,0:04:39.15,Default,,0000,0000,0000,,opposite to that of your rotation-type\Nin this training,
+Dialogue: 0,0:04:39.27,0:04:42.56,Default,,0000,0000,0000,,your Chakra flow divides and resists
+Dialogue: 0,0:04:42.60,0:04:44.90,Default,,0000,0000,0000,,and the momentum of\Nthe rotation does not get on track.
+Dialogue: 0,0:04:45.89,0:04:50.40,Default,,0000,0000,0000,,You should be able to figure\Nthat kind of stuff on your own.
+Dialogue: 0,0:04:50.81,0:04:55.23,Default,,0000,0000,0000,,But how did you figure out that\NI’m a right-type so fast?
+Dialogue: 0,0:04:57.06,0:04:58.89,Default,,0000,0000,0000,,The cowlick on your head!
+Dialogue: 0,0:04:58.90,0:05:01.89,Default,,0000,0000,0000,,It's pretty much determined that you’re\Na right type if a whorl rolls to the right
+Dialogue: 0,0:05:01.94,0:05:04.69,Default,,0000,0000,0000,,and you’re a left-type\Nif it rolls to the left.
+Dialogue: 0,0:05:04.73,0:05:06.31,Default,,0000,0000,0000,,It’s simple.
+Dialogue: 0,0:05:06.69,0:05:09.89,Default,,0000,0000,0000,,Huh, so I have a right roll!
+Dialogue: 0,0:05:10.15,0:05:14.81,Default,,0000,0000,0000,,Yes, so if you want to rotate it,\Nyou have to imagine a right rotation.
+Dialogue: 0,0:05:14.89,0:05:18.89,Default,,0000,0000,0000,,I never really paid attention\Nthat until now…
+Dialogue: 0,0:05:18.89,0:05:22.23,Default,,0000,0000,0000,,But this Jutsu is just the one for you.
+Dialogue: 0,0:05:22.73,0:05:27.44,Default,,0000,0000,0000,,Hand sign is completely unnecessary.\NAll you need is Chakra.
+Dialogue: 0,0:05:27.77,0:05:30.73,Default,,0000,0000,0000,,There is no need to learn\Na finicky hand sign!
+Dialogue: 0,0:05:31.15,0:05:32.77,Default,,0000,0000,0000,,It’s okay to be stupid!
+Dialogue: 0,0:05:32.85,0:05:34.89,Default,,0000,0000,0000,,I’m not stupid!
+Dialogue: 0,0:05:35.19,0:05:37.77,Default,,0000,0000,0000,,I’m the man who’s eventually going\Nto become a Hokage!
+Dialogue: 0,0:05:37.81,0:05:39.10,Default,,0000,0000,0000,,It’s easy once you understand!
+Dialogue: 0,0:05:39.15,0:05:42.89,Default,,0000,0000,0000,,This Jutsu, I’ll completely master it\Nif I got three days!
+Dialogue: 0,0:05:44.81,0:05:46.10,Default,,0000,0000,0000,,Three days, huh?
+Dialogue: 0,0:05:47.15,0:05:50.98,Default,,0000,0000,0000,,This Jutsu is a Ninjutsu\Nthat the Fourth Hokage passed on to us.
+Dialogue: 0,0:05:51.35,0:05:52.27,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:05:52.40,0:05:56.77,Default,,0000,0000,0000,,It took him three whole years\Nto perfect this Jutsu…
+Dialogue: 0,0:05:56.89,0:05:58.65,Default,,0000,0000,0000,,This Jutsu is second from the top
+Dialogue: 0,0:05:58.69,0:06:00.98,Default,,0000,0000,0000,,on the six degrees of\Ndifficulty in mastering…
+Dialogue: 0,0:06:01.19,0:06:04.31,Default,,0000,0000,0000,,It’s an A-rank, super high-level Ninjutsu.
+Dialogue: 0,0:06:06.31,0:06:10.06,Default,,0000,0000,0000,,In order to learn this move,\Nthere are three steps in the training.
+Dialogue: 0,0:06:10.89,0:06:13.81,Default,,0000,0000,0000,,This “Water Balloon Breaking”\Nis the first step.
+Dialogue: 0,0:06:16.31,0:06:20.15,Default,,0000,0000,0000,,It took the genius Ninja,\Nthe Fourth Hokage…
+Dialogue: 0,0:06:21.52,0:06:22.69,Default,,0000,0000,0000,,Three years…
+Dialogue: 0,0:06:23.15,0:06:26.56,Default,,0000,0000,0000,,There’s no point in explaining\Nanymore to someone
+Dialogue: 0,0:06:26.60,0:06:29.35,Default,,0000,0000,0000,,who can’t even clear the first step.
+Dialogue: 0,0:06:29.40,0:06:31.81,Default,,0000,0000,0000,,Do the rest by yourself!
+Dialogue: 0,0:06:32.10,0:06:35.10,Default,,0000,0000,0000,,Take care!\NI’m going to return to the town.
+Dialogue: 0,0:06:35.48,0:06:37.60,Default,,0000,0000,0000,,I have to gather some information…
+Dialogue: 0,0:06:38.56,0:06:39.94,Default,,0000,0000,0000,,What will you do?
+Dialogue: 0,0:06:42.56,0:06:44.85,Default,,0000,0000,0000,,A-rank in degree of difficulty\Nin mastering…
+Dialogue: 0,0:06:45.19,0:06:47.81,Default,,0000,0000,0000,,The Ninjutsu left behind\Nby the Fourth Hokage…
+Dialogue: 0,0:06:54.56,0:06:56.44,Default,,0000,0000,0000,,I’m not gonna go back yet!
+Dialogue: 0,0:06:58.02,0:06:58.89,Default,,0000,0000,0000,,Huh…
+Dialogue: 0,0:06:59.31,0:07:01.89,Default,,0000,0000,0000,,So long… Don’t go overboard with it.
+Dialogue: 0,0:07:07.98,0:07:10.94,Default,,0000,0000,0000,,Now, what will happen?
+Dialogue: 0,0:07:11.48,0:07:13.52,Default,,0000,0000,0000,,It’s something to be concerned about…
+Dialogue: 0,0:07:13.65,0:07:14.89,Default,,0000,0000,0000,,Mister!
+Dialogue: 0,0:07:15.65,0:07:17.15,Default,,0000,0000,0000,,Why don’t you stop by?
+Dialogue: 0,0:07:17.35,0:07:19.60,Default,,0000,0000,0000,,This month is our special service month.
+Dialogue: 0,0:07:19.69,0:07:22.56,Default,,0000,0000,0000,,Whoa! It’s a special service month?
+Dialogue: 0,0:07:22.60,0:07:24.40,Default,,0000,0000,0000,,The more you visit,\Nthe more you benefit.
+Dialogue: 0,0:07:24.89,0:07:26.69,Default,,0000,0000,0000,,Here you go, a stamp card!
+Dialogue: 0,0:07:26.81,0:07:28.77,Default,,0000,0000,0000,,I’ll give you lots and lots of service!
+Dialogue: 0,0:07:30.73,0:07:32.40,Default,,0000,0000,0000,,I’ll come, I’ll come!
+Dialogue: 0,0:07:49.98,0:07:51.89,Default,,0000,0000,0000,,Hey! Come on down, Shu!
+Dialogue: 0,0:07:53.60,0:07:55.89,Default,,0000,0000,0000,,Hey, hey, where is the toilet?
+Dialogue: 0,0:08:03.27,0:08:06.73,Default,,0000,0000,0000,,I don’t have time to spend three years.
+Dialogue: 0,0:08:07.31,0:08:08.89,Default,,0000,0000,0000,,All right now!
+Dialogue: 0,0:08:08.90,0:08:12.27,Default,,0000,0000,0000,,Training, once again today!\NI’m gonna work hard like a blaze!
+Dialogue: 0,0:08:17.89,0:08:20.40,Default,,0000,0000,0000,,Break! Break! Break!
+Dialogue: 0,0:08:23.73,0:08:25.89,Default,,0000,0000,0000,,Why won’t it break?
+Dialogue: 0,0:08:34.98,0:08:36.89,Default,,0000,0000,0000,,Little Jiraiya, you’re so naughty!
+Dialogue: 0,0:08:38.94,0:08:41.27,Default,,0000,0000,0000,,Men are all naughty!
+Dialogue: 0,0:08:49.35,0:08:50.81,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:08:52.98,0:08:56.98,Default,,0000,0000,0000,,Three days have passed since\NI got the tip from that Pervy Sage…
+Dialogue: 0,0:08:57.89,0:09:01.10,Default,,0000,0000,0000,,The rubber is stretched this much,\Nbut why won’t it break?
+Dialogue: 0,0:09:01.69,0:09:04.81,Default,,0000,0000,0000,,What am I doing different from\Nthat Pervy Sage?
+Dialogue: 0,0:09:09.52,0:09:11.89,Default,,0000,0000,0000,,This is great! This is so great!
+Dialogue: 0,0:09:24.98,0:09:25.98,Default,,0000,0000,0000,,What the--?
+Dialogue: 0,0:09:31.89,0:09:35.06,Default,,0000,0000,0000,,Whoa, he stinks of alcohol.
+Dialogue: 0,0:09:37.81,0:09:39.35,Default,,0000,0000,0000,,I’m gonna eat now!
+Dialogue: 0,0:09:41.69,0:09:42.69,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:45.89,0:09:46.89,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:09:51.40,0:09:53.89,Default,,0000,0000,0000,,Oh dang it!
+Dialogue: 0,0:09:54.44,0:09:56.89,Default,,0000,0000,0000,,Darn it! Why is it like this?!
+Dialogue: 0,0:10:07.06,0:10:12.06,Default,,0000,0000,0000,,No need to learn a finicky hand sign!\Nlt’s okay to be stupid!
+Dialogue: 0,0:10:13.19,0:10:17.40,Default,,0000,0000,0000,,He said that there’s no need to form\Na hand signal, but…
+Dialogue: 0,0:10:31.48,0:10:34.89,Default,,0000,0000,0000,,Hey! That’s not your toy…
+Dialogue: 0,0:10:46.44,0:10:47.44,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:10:51.94,0:10:56.31,Default,,0000,0000,0000,,Hurry up and wake up!\NHey, you Pervy Sage!
+Dialogue: 0,0:10:57.89,0:10:59.89,Default,,0000,0000,0000,,Uh… G-Good timing.
+Dialogue: 0,0:10:59.89,0:11:02.31,Default,,0000,0000,0000,,Why don’t you bring me some water…
+Dialogue: 0,0:11:02.65,0:11:03.56,Default,,0000,0000,0000,,Water?
+Dialogue: 0,0:11:11.35,0:11:14.23,Default,,0000,0000,0000,,The first step is cleared!
+Dialogue: 0,0:11:16.89,0:11:18.10,Default,,0000,0000,0000,,Cleared…?
+Dialogue: 0,0:11:18.73,0:11:21.15,Default,,0000,0000,0000,,Well, let’s have you show it to me.
+Dialogue: 0,0:11:21.77,0:11:24.90,Default,,0000,0000,0000,,All right! Watch it carefully!
+Dialogue: 0,0:11:29.89,0:11:31.02,Default,,0000,0000,0000,,Left hand?
+Dialogue: 0,0:11:43.56,0:11:44.98,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:11:49.31,0:11:52.52,Default,,0000,0000,0000,,All right! See that?! See that?!
+Dialogue: 0,0:11:55.89,0:11:57.44,Default,,0000,0000,0000,,You’re sleeping!
+Dialogue: 0,0:11:59.73,0:12:01.27,Default,,0000,0000,0000,,Sorry, sorry.
+Dialogue: 0,0:12:01.44,0:12:04.89,Default,,0000,0000,0000,,I’m tired from the days and nights\Nof gathering information.
+Dialogue: 0,0:12:05.23,0:12:07.81,Default,,0000,0000,0000,,But that seems suspicious to begin with!
+Dialogue: 0,0:12:07.89,0:12:09.44,Default,,0000,0000,0000,,You still stink of alcohol too!
+Dialogue: 0,0:12:12.52,0:12:13.31,Default,,0000,0000,0000,,Nevertheless…
+Dialogue: 0,0:12:13.89,0:12:16.89,Default,,0000,0000,0000,,You rotate the water inside the water balloon\Nthat you hold in your left hand
+Dialogue: 0,0:12:16.90,0:12:20.31,Default,,0000,0000,0000,,by repeatedly applying it\Nwith your right hand…
+Dialogue: 0,0:12:21.10,0:12:22.90,Default,,0000,0000,0000,,It seems little strange of an idea, but…
+Dialogue: 0,0:12:22.94,0:12:24.89,Default,,0000,0000,0000,,You’re an interesting kid.
+Dialogue: 0,0:12:26.89,0:12:32.90,Default,,0000,0000,0000,,You understood the trick pretty well.\Nlt’s all thanks to me, though.
+Dialogue: 0,0:12:34.89,0:12:37.44,Default,,0000,0000,0000,,It’s thanks to this guy!
+Dialogue: 0,0:12:38.89,0:12:39.73,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:40.27,0:12:44.44,Default,,0000,0000,0000,,I realized after I saw this cat playing\Nwith the water balloon.
+Dialogue: 0,0:12:45.90,0:12:48.60,Default,,0000,0000,0000,,He kept on flicking it with\Nhis paw many times
+Dialogue: 0,0:12:48.65,0:12:51.23,Default,,0000,0000,0000,,and the water inside shocked\Nin all different kinds of direction…
+Dialogue: 0,0:12:51.48,0:12:53.48,Default,,0000,0000,0000,,Then it came to me like “bingo!”
+Dialogue: 0,0:12:54.48,0:12:56.60,Default,,0000,0000,0000,,How did it come like “bingo”?
+Dialogue: 0,0:12:56.89,0:13:00.02,Default,,0000,0000,0000,,The time when the Pervy Sage\Nfirst showed me breaking it…
+Dialogue: 0,0:13:00.69,0:13:04.31,Default,,0000,0000,0000,,I remembered how the water balloon\Nsurface was not smooth.
+Dialogue: 0,0:13:04.98,0:13:07.89,Default,,0000,0000,0000,,Until then,\NI was always only rotating the water
+Dialogue: 0,0:13:07.89,0:13:09.89,Default,,0000,0000,0000,,in the one same direction…
+Dialogue: 0,0:13:10.56,0:13:13.52,Default,,0000,0000,0000,,I realized that the Pervy Sage’s\Nwater balloon was not smooth
+Dialogue: 0,0:13:13.56,0:13:17.89,Default,,0000,0000,0000,,because the water inside was rotating\Nin different directions.
+Dialogue: 0,0:13:18.77,0:13:22.73,Default,,0000,0000,0000,,And after doing it in my own way,\Nit broke!
+Dialogue: 0,0:13:23.69,0:13:25.89,Default,,0000,0000,0000,,It seems it’s still not possible for you
+Dialogue: 0,0:13:25.89,0:13:28.56,Default,,0000,0000,0000,,to rotate it violently with one hand, but…
+Dialogue: 0,0:13:28.89,0:13:31.89,Default,,0000,0000,0000,,I suppose you thought it out\Nin your own way.
+Dialogue: 0,0:13:33.02,0:13:34.89,Default,,0000,0000,0000,,That’s just what he expected of me!
+Dialogue: 0,0:13:35.56,0:13:39.19,Default,,0000,0000,0000,,Anyhow…\NThe first step is complete for now.
+Dialogue: 0,0:13:39.23,0:13:40.89,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:13:41.02,0:13:43.89,Default,,0000,0000,0000,,Do you want to see it one more time?\NOne more time!
+Dialogue: 0,0:13:43.89,0:13:44.89,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:13:46.02,0:13:48.89,Default,,0000,0000,0000,,You used too much Chakra and\Nit gradually reached the point
+Dialogue: 0,0:13:48.89,0:13:50.89,Default,,0000,0000,0000,,where there’s burden\Non the Chakra Network…
+Dialogue: 0,0:13:51.35,0:13:53.90,Default,,0000,0000,0000,,But the next one won’t be like this!
+Dialogue: 0,0:13:57.73,0:14:01.31,Default,,0000,0000,0000,,Okay. Now, we will proceed\Nto the second step.
+Dialogue: 0,0:14:01.56,0:14:02.52,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:02.56,0:14:05.89,Default,,0000,0000,0000,,It seems like we can finally go\Ninto some serious training!
+Dialogue: 0,0:14:05.89,0:14:07.15,Default,,0000,0000,0000,,– Here you go! 					– Huh?
+Dialogue: 0,0:14:07.94,0:14:13.02,Default,,0000,0000,0000,,Rubber ball?\NSomething like this again?!
+Dialogue: 0,0:14:13.77,0:14:15.60,Default,,0000,0000,0000,,Now, you’ll break this one!
+Dialogue: 0,0:14:19.85,0:14:22.35,Default,,0000,0000,0000,,It’s one hundred times harder\Nthan the water balloon!
+Dialogue: 0,0:14:34.15,0:14:35.06,Default,,0000,0000,0000,,It’s hard…
+Dialogue: 0,0:14:36.02,0:14:39.98,Default,,0000,0000,0000,,The first step is rotation,\Nthe second step is force.
+Dialogue: 0,0:14:40.81,0:14:42.31,Default,,0000,0000,0000,,Since there is no water inside,
+Dialogue: 0,0:14:42.35,0:14:44.98,Default,,0000,0000,0000,,it’s more difficult to imagine\Nthe rotation of Chakra,
+Dialogue: 0,0:14:45.02,0:14:47.27,Default,,0000,0000,0000,,so it becomes more difficult\Nto rotate the Chakra as well.
+Dialogue: 0,0:14:47.98,0:14:49.06,Default,,0000,0000,0000,,That’s true…
+Dialogue: 0,0:14:49.40,0:14:51.60,Default,,0000,0000,0000,,I’ll leave that to your own judgment.
+Dialogue: 0,0:14:52.65,0:14:54.69,Default,,0000,0000,0000,,I need to learn a trick again\Nto do this, don’t I?
+Dialogue: 0,0:14:55.73,0:14:59.89,Default,,0000,0000,0000,,Well then,\NI’ll go gather some information.
+Dialogue: 0,0:14:59.90,0:15:01.81,Default,,0000,0000,0000,,Hey! Wait, wait!
+Dialogue: 0,0:15:01.89,0:15:04.23,Default,,0000,0000,0000,,Let’s train together for\Nthe first time in a while!
+Dialogue: 0,0:15:04.52,0:15:06.02,Default,,0000,0000,0000,,I don’t mind if you take a nap.
+Dialogue: 0,0:15:06.06,0:15:07.56,Default,,0000,0000,0000,,Don’t depend on me!
+Dialogue: 0,0:15:08.73,0:15:11.48,Default,,0000,0000,0000,,You must have some kind\Nof misunderstanding!
+Dialogue: 0,0:15:12.89,0:15:15.15,Default,,0000,0000,0000,,I did say that I’ll teach you the Jutsu,
+Dialogue: 0,0:15:15.35,0:15:17.65,Default,,0000,0000,0000,,but I don’t have the obligation\Nto teach you every step of the way.
+Dialogue: 0,0:15:17.98,0:15:19.90,Default,,0000,0000,0000,,If you can’t do it by yourself,\Nthen that’s it.
+Dialogue: 0,0:15:20.98,0:15:25.44,Default,,0000,0000,0000,,Don’t be childish forever…\NBecome more respectable like a Shinobi!
+Dialogue: 0,0:15:25.65,0:15:27.81,Default,,0000,0000,0000,,Well, well then.
+Dialogue: 0,0:15:27.89,0:15:32.27,Default,,0000,0000,0000,,If you can at least teach me…\Nthe trick again…
+Dialogue: 0,0:15:33.89,0:15:34.69,Default,,0000,0000,0000,,Money!
+Dialogue: 0,0:15:34.89,0:15:37.77,Default,,0000,0000,0000,,Money…money…money…
+Dialogue: 0,0:15:39.48,0:15:42.44,Default,,0000,0000,0000,,W-What do you mean\N“be respectable like a Shinobi”?!
+Dialogue: 0,0:15:42.65,0:15:45.10,Default,,0000,0000,0000,,Even though you say that,\Nyou’re an dirty and greedy adult!
+Dialogue: 0,0:15:45.15,0:15:47.77,Default,,0000,0000,0000,,You’re not a respectable Shinobi at all!
+Dialogue: 0,0:16:01.81,0:16:05.89,Default,,0000,0000,0000,,It’s way more difficult than\Nthe time with the water balloon…
+Dialogue: 0,0:16:07.90,0:16:09.89,Default,,0000,0000,0000,,A-And…
+Dialogue: 0,0:16:12.44,0:16:14.77,Default,,0000,0000,0000,,my hands and arms hurt.
+Dialogue: 0,0:16:42.48,0:16:46.27,Default,,0000,0000,0000,,Dang it! How many days am I\Ngoing to be doing the same thing!
+Dialogue: 0,0:16:54.35,0:16:57.10,Default,,0000,0000,0000,,Second from the top in\N the difficulty of mastering…
+Dialogue: 0,0:16:58.89,0:17:00.15,Default,,0000,0000,0000,,Don’t depend on me!
+Dialogue: 0,0:17:00.23,0:17:02.89,Default,,0000,0000,0000,,You must have some kind\Nof misunderstanding!
+Dialogue: 0,0:17:03.31,0:17:04.52,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:17:08.06,0:17:09.56,Default,,0000,0000,0000,,Hey, Naruto.
+Dialogue: 0,0:17:10.15,0:17:11.89,Default,,0000,0000,0000,,What did you come here for?
+Dialogue: 0,0:17:12.02,0:17:14.48,Default,,0000,0000,0000,,Go buy some food from the town below.
+Dialogue: 0,0:17:14.65,0:17:16.89,Default,,0000,0000,0000,,What?! Why me?
+Dialogue: 0,0:17:16.90,0:17:17.98,Default,,0000,0000,0000,,Hey you…
+Dialogue: 0,0:17:18.02,0:17:21.27,Default,,0000,0000,0000,,Even if for a while, you’re still\Nlearning the Jutsu from me.
+Dialogue: 0,0:17:25.98,0:17:27.89,Default,,0000,0000,0000,,Here you go, thanks for waiting.
+Dialogue: 0,0:17:27.89,0:17:29.40,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:17:32.02,0:17:34.40,Default,,0000,0000,0000,,How dare he put on a master’s face\Nonly at a time like this
+Dialogue: 0,0:17:34.44,0:17:36.89,Default,,0000,0000,0000,,when he doesn’t teach me anything…
+Dialogue: 0,0:17:37.56,0:17:39.69,Default,,0000,0000,0000,,Dad, buy me some ice cream.
+Dialogue: 0,0:17:40.52,0:17:42.81,Default,,0000,0000,0000,,I want this one that cracks.
+Dialogue: 0,0:17:47.31,0:17:47.98,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:17:48.06,0:17:51.69,Default,,0000,0000,0000,,Why? I can eat all of it by myself.
+Dialogue: 0,0:17:52.10,0:17:56.89,Default,,0000,0000,0000,,Nope, when you get home,\Nyour mother will have supper ready.
+Dialogue: 0,0:17:57.02,0:17:57.89,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:18:03.89,0:18:05.48,Default,,0000,0000,0000,,Hey…you know…
+Dialogue: 0,0:18:05.56,0:18:06.40,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:06.60,0:18:11.31,Default,,0000,0000,0000,,Can you be around my training\Nfor just a while…today?
+Dialogue: 0,0:18:11.69,0:18:13.77,Default,,0000,0000,0000,,I don’t have time for that.
+Dialogue: 0,0:18:13.98,0:18:16.77,Default,,0000,0000,0000,,I have to immediately go to town.
+Dialogue: 0,0:18:18.98,0:18:22.60,Default,,0000,0000,0000,,Unless you think for yourself and\Nget a grip of the trick for yourself,
+Dialogue: 0,0:18:22.65,0:18:25.35,Default,,0000,0000,0000,,it’ll never work.
+Dialogue: 0,0:18:26.89,0:18:28.94,Default,,0000,0000,0000,,I thought I told you three weeks ago!
+Dialogue: 0,0:18:29.56,0:18:33.89,Default,,0000,0000,0000,,Don’t be spoiled like a kid.\NYou are a Ninja.
+Dialogue: 0,0:18:40.73,0:18:43.27,Default,,0000,0000,0000,,I know that without\Nyour telling me!
+Dialogue: 0,0:18:43.81,0:18:46.10,Default,,0000,0000,0000,,Just thought I'd ask.
+Dialogue: 0,0:18:46.40,0:18:48.98,Default,,0000,0000,0000,,Hurry up and go,\Nyou Pervy Sage!
+Dialogue: 0,0:18:49.31,0:18:52.35,Default,,0000,0000,0000,,Oh no, little Jiraiya,\Nyou tell so many lies!
+Dialogue: 0,0:18:52.89,0:18:55.85,Default,,0000,0000,0000,,What do you mean?!\NEverything is true!
+Dialogue: 0,0:19:22.10,0:19:25.89,Default,,0000,0000,0000,,Dang it! It doesn’t break\Nno matter how much I try…
+Dialogue: 0,0:19:26.89,0:19:30.56,Default,,0000,0000,0000,,I’m just dripping away\Nmy Chakra this way.
+Dialogue: 0,0:19:32.77,0:19:33.77,Default,,0000,0000,0000,,Also…
+Dialogue: 0,0:19:34.73,0:19:38.44,Default,,0000,0000,0000,,The more I increase the amount of flow,\Nthe worse the pain gets.
+Dialogue: 0,0:19:39.56,0:19:41.89,Default,,0000,0000,0000,,But… How do I say it?
+Dialogue: 0,0:19:41.89,0:19:44.52,Default,,0000,0000,0000,,If I don’t go all out as if\Nto explode the Chakra,
+Dialogue: 0,0:19:44.56,0:19:46.10,Default,,0000,0000,0000,,it’s not going to break!
+Dialogue: 0,0:19:52.27,0:19:53.02,Default,,0000,0000,0000,,That’s it!
+Dialogue: 0,0:19:54.02,0:19:56.65,Default,,0000,0000,0000,,If I understand the amount of Chakra\Nthat flows from the pain I feel…
+Dialogue: 0,0:19:56.69,0:20:00.89,Default,,0000,0000,0000,,Then I can bear the pain to the limit\Nand all at once…
+Dialogue: 0,0:20:02.89,0:20:04.77,Default,,0000,0000,0000,,No, not yet…
+Dialogue: 0,0:20:06.15,0:20:07.06,Default,,0000,0000,0000,,Not yet!
+Dialogue: 0,0:20:11.15,0:20:13.10,Default,,0000,0000,0000,,Not yet…store it!
+Dialogue: 0,0:20:17.06,0:20:17.89,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:20:20.89,0:20:22.48,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:20:32.40,0:20:35.56,Default,,0000,0000,0000,,Hmm… There seems to have been\Na little progress.
+Dialogue: 0,0:20:36.60,0:20:37.35,Default,,0000,0000,0000,,Humph!
+Dialogue: 0,0:20:37.40,0:20:40.31,Default,,0000,0000,0000,,I’ve still only opened a hole\Nand it hasn’t popped with a bang!
+Dialogue: 0,0:20:40.65,0:20:43.89,Default,,0000,0000,0000,,Hey, don’t pretend to be so tough. Here!
+Dialogue: 0,0:20:46.65,0:20:48.89,Default,,0000,0000,0000,,You’ve done well,\Nall on your own power.
+Dialogue: 0,0:20:55.60,0:20:56.52,Default,,0000,0000,0000,,It’s so good!
+Dialogue: 0,0:20:57.10,0:20:58.10,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:21:00.19,0:21:02.69,Default,,0000,0000,0000,,Oh yeah. Maybe we’ll test a bit.
+Dialogue: 0,0:21:03.60,0:21:04.89,Default,,0000,0000,0000,,What, what?
+Dialogue: 0,0:21:05.10,0:21:06.85,Default,,0000,0000,0000,,Give me your right hand.
+Dialogue: 0,0:21:15.81,0:21:16.98,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:21:23.10,0:21:27.06,Default,,0000,0000,0000,,A cycle of hardship, right?
+Dialogue: 0,0:21:28.02,0:21:32.02,Default,,0000,0000,0000,,Inside, we were crying, right?
+Dialogue: 0,0:21:33.35,0:21:41.35,Default,,0000,0000,0000,,But the one thing we won't give up\Nis the dream we've chosen, right?
+Dialogue: 0,0:21:42.27,0:21:44.44,Default,,0000,0000,0000,,It's a secondary role,
+Dialogue: 0,0:21:47.10,0:21:50.19,Default,,0000,0000,0000,,a role in the shadows
+Dialogue: 0,0:21:50.69,0:21:55.65,Default,,0000,0000,0000,,But in reaching for that dream,
+Dialogue: 0,0:21:55.77,0:22:01.23,Default,,0000,0000,0000,,let us stay centered,\Nlet us stay true
+Dialogue: 0,0:22:01.40,0:22:06.31,Default,,0000,0000,0000,,Over and over,\Nwe hung on without giving up
+Dialogue: 0,0:22:06.35,0:22:11.27,Default,,0000,0000,0000,,Over and over,\Nwe kept coming back up
+Dialogue: 0,0:22:11.31,0:22:20.56,Default,,0000,0000,0000,,Over and over,\Nwe believed and dreamed
+Dialogue: 0,0:22:20.89,0:22:25.89,Default,,0000,0000,0000,,Over and over,\Nwe've seen fools
+Dialogue: 0,0:22:51.48,0:22:53.65,Default,,0000,0000,0000,,He tells me\N "focus, focus, focus!"
+Dialogue: 0,0:22:53.89,0:22:56.69,Default,,0000,0000,0000,,But I've never been good at it, ever.
+Dialogue: 0,0:22:58.31,0:23:00.23,Default,,0000,0000,0000,,Speaking of concentration,
+Dialogue: 0,0:23:00.27,0:23:04.31,Default,,0000,0000,0000,,Iruka Sensei used to scold me often\Nat the Ninja Academy
+Dialogue: 0,0:23:04.35,0:23:05.94,Default,,0000,0000,0000,,for my lack of concentration.
+Dialogue: 0,0:23:06.56,0:23:11.94,Default,,0000,0000,0000,,Oh…I would've listened to him better\Nif I knew this would happen.
+Dialogue: 0,0:23:12.89,0:23:16.23,Default,,0000,0000,0000,,Next time: "Focal Point:\NThe Mark of the Leaf"

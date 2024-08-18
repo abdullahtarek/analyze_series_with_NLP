@@ -1,0 +1,287 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.69,0:00:10.56,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:16.86,0:00:19.56,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.57,0:00:22.67,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.47,0:00:27.11,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.17,0:00:30.78,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.54,0:00:35.55,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.41,0:00:39.48,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:40.89,0:00:45.32,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:47.96,0:00:49.89,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:49.93,0:00:52.00,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:52.06,0:00:54.17,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.57,0:00:57.34,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.40,0:00:59.30,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.34,0:01:01.77,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.61,0:01:10.35,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.25,0:01:13.85,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.55,0:01:17.56,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.39,0:01:23.73,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.26,0:01:27.57,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:53.32,0:01:54.53,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:01:54.56,0:01:58.00,Default,,0000,0000,0000,,Where'd he attack from?!\Nls it the clones?
+Dialogue: 0,0:02:01.10,0:02:03.40,Default,,0000,0000,0000,,Where's the real body?!
+Dialogue: 0,0:02:03.94,0:02:06.44,Default,,0000,0000,0000,,It's useless for you to even attempt\Nfollowing with your eyes.
+Dialogue: 0,0:02:06.54,0:02:09.01,Default,,0000,0000,0000,,I absolutely will not be caught.
+Dialogue: 0,0:02:09.41,0:02:11.88,Default,,0000,0000,0000,,Humph. Shadow Clone Jutsu!
+Dialogue: 0,0:02:11.94,0:02:12.68,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:02:24.82,0:02:27.53,Default,,0000,0000,0000,,This is a teleportation Jutsu that
+Dialogue: 0,0:02:27.56,0:02:30.56,Default,,0000,0000,0000,,uses mirrors that can\Nreflect only my image.
+Dialogue: 0,0:02:30.76,0:02:32.63,Default,,0000,0000,0000,,Watching you from the speed I move,
+Dialogue: 0,0:02:32.70,0:02:35.47,Default,,0000,0000,0000,,it almost seems as if\Nyou aren't moving at all…
+Dialogue: 0,0:02:36.73,0:02:37.74,Default,,0000,0000,0000,,I knew it!
+Dialogue: 0,0:02:38.47,0:02:40.64,Default,,0000,0000,0000,,Is that Jutsu…\Nthe Kekkei Genkai?!
+Dialogue: 0,0:02:43.27,0:02:45.34,Default,,0000,0000,0000,,Kekkei…Genkai…?
+Dialogue: 0,0:02:46.18,0:02:48.55,Default,,0000,0000,0000,,It's the same type as\Nmy Sharingan…
+Dialogue: 0,0:02:49.18,0:02:50.35,Default,,0000,0000,0000,,Then…!
+Dialogue: 0,0:02:50.55,0:02:51.42,Default,,0000,0000,0000,,That's right…
+Dialogue: 0,0:02:51.85,0:02:55.65,Default,,0000,0000,0000,,It's impossible even for me\Nto copy that Jutsu…
+Dialogue: 0,0:02:56.65,0:02:58.92,Default,,0000,0000,0000,,And there's no way to destroy\Nthat Jutsu, either!
+Dialogue: 0,0:03:03.69,0:03:04.56,Default,,0000,0000,0000,,Darn it…
+Dialogue: 0,0:03:05.90,0:03:08.57,Default,,0000,0000,0000,,So… What?!
+Dialogue: 0,0:03:09.27,0:03:12.07,Default,,0000,0000,0000,,I can't die here yet.
+Dialogue: 0,0:03:12.54,0:03:15.91,Default,,0000,0000,0000,,'Cause I have a dream\Nthat I must turn into reality…
+Dialogue: 0,0:03:15.94,0:03:19.54,Default,,0000,0000,0000,,The dream to have my strength\Nrecognized by everyone in the village…
+Dialogue: 0,0:03:19.58,0:03:21.98,Default,,0000,0000,0000,,and become the Hokage!
+Dialogue: 0,0:03:23.55,0:03:24.55,Default,,0000,0000,0000,,Dream…
+Dialogue: 0,0:03:27.55,0:03:33.09,Default,,0000,0000,0000,,I, for the sake of my dream.\NAnd you, for the sake of your dream.
+Dialogue: 0,0:03:34.13,0:03:35.59,Default,,0000,0000,0000,,Please don't hold it against me.
+Dialogue: 0,0:03:36.56,0:03:39.06,Default,,0000,0000,0000,,I want to protect someone\Nspecial to me…
+Dialogue: 0,0:03:39.96,0:03:43.90,Default,,0000,0000,0000,,I work for the sake of that person,\NI fight for that person,
+Dialogue: 0,0:03:44.47,0:03:46.67,Default,,0000,0000,0000,,and I want to make that\Nperson's dream a reality…
+Dialogue: 0,0:03:47.10,0:03:48.54,Default,,0000,0000,0000,,That's my dream.
+Dialogue: 0,0:03:48.84,0:03:52.31,Default,,0000,0000,0000,,For the sake of that dream\NI will completely become a Shinobi,
+Dialogue: 0,0:03:52.34,0:03:54.85,Default,,0000,0000,0000,,and kill you guys!
+Dialogue: 0,0:04:03.55,0:04:07.93,Default,,0000,0000,0000,,Zero Visibility:\NThe Sharingan Shatters
+Dialogue: 0,0:04:12.56,0:04:16.73,Default,,0000,0000,0000,,Sasuke! Naruto!\NDon't lose to a guy like that!
+Dialogue: 0,0:04:16.90,0:04:19.50,Default,,0000,0000,0000,,Stop it, Sakura. Don't goad him!
+Dialogue: 0,0:04:19.77,0:04:20.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:21.27,0:04:24.64,Default,,0000,0000,0000,,Even if there was a chance that\Nwe could break that technique,
+Dialogue: 0,0:04:25.11,0:04:28.11,Default,,0000,0000,0000,,they won't be able to defeat that boy.
+Dialogue: 0,0:04:29.55,0:04:31.32,Default,,0000,0000,0000,,W-What do you mean?
+Dialogue: 0,0:04:34.15,0:04:37.22,Default,,0000,0000,0000,,They don't have the mentality\Nto kill their feelings…
+Dialogue: 0,0:04:37.26,0:04:39.56,Default,,0000,0000,0000,,and kill another person!
+Dialogue: 0,0:04:41.36,0:04:45.23,Default,,0000,0000,0000,,That boy really knows\Nthe agony of being a Shinobi.
+Dialogue: 0,0:04:46.56,0:04:48.47,Default,,0000,0000,0000,,He's different from Naruto and Sasuke.
+Dialogue: 0,0:04:48.90,0:04:50.30,Default,,0000,0000,0000,,Exactly…
+Dialogue: 0,0:04:51.07,0:04:57.07,Default,,0000,0000,0000,,No real Shinobi will come out of\Na peace-addicted village like yours.
+Dialogue: 0,0:04:58.54,0:05:01.55,Default,,0000,0000,0000,,Because they are not able\Nto learn
+Dialogue: 0,0:05:01.55,0:05:04.55,Default,,0000,0000,0000,,the most important "experience of killing"!
+Dialogue: 0,0:05:07.15,0:05:08.02,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:05:08.22,0:05:09.05,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:05:09.09,0:05:11.46,Default,,0000,0000,0000,,What are we going to do, Sensei?!
+Dialogue: 0,0:05:14.56,0:05:17.60,Default,,0000,0000,0000,,If I go over to\NNaruto and Sasuke,
+Dialogue: 0,0:05:17.63,0:05:19.93,Default,,0000,0000,0000,,Tazuna will be in danger.
+Dialogue: 0,0:05:21.23,0:05:23.33,Default,,0000,0000,0000,,Even if I try the Shadow Clones.
+Dialogue: 0,0:05:27.20,0:05:30.51,Default,,0000,0000,0000,,He'll come to stop me with\Nhis Water Clones.
+Dialogue: 0,0:05:31.28,0:05:33.38,Default,,0000,0000,0000,,I'll just be wasting Chakra.
+Dialogue: 0,0:05:34.18,0:05:35.55,Default,,0000,0000,0000,,Then...
+Dialogue: 0,0:05:36.01,0:05:38.55,Default,,0000,0000,0000,,I'm sorry but...
+Dialogue: 0,0:05:39.85,0:05:42.72,Default,,0000,0000,0000,,I'm going to have to finish\Nthis in an instant.
+Dialogue: 0,0:05:44.09,0:05:45.19,Default,,0000,0000,0000,,Sharingan?!
+Dialogue: 0,0:05:47.33,0:05:48.73,Default,,0000,0000,0000,,The Sharingan again?
+Dialogue: 0,0:05:48.93,0:05:51.26,Default,,0000,0000,0000,,Such an unimaginative guy!
+Dialogue: 0,0:06:10.18,0:06:11.25,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:06:17.96,0:06:20.32,Default,,0000,0000,0000,,You might call me "an unimaginative guy,"
+Dialogue: 0,0:06:20.73,0:06:24.13,Default,,0000,0000,0000,,but you are afraid of the Sharingan,\Nafter all... Zabuza!
+Dialogue: 0,0:06:26.96,0:06:29.27,Default,,0000,0000,0000,,The secret technique of a Shinobi…
+Dialogue: 0,0:06:29.37,0:06:32.74,Default,,0000,0000,0000,,isn't something that you show\Nyour opponent so many times.
+Dialogue: 0,0:06:33.14,0:06:34.54,Default,,0000,0000,0000,,Be appreciative.
+Dialogue: 0,0:06:34.54,0:06:38.68,Default,,0000,0000,0000,,You're the only who has had\Nthe chance to see it twice…
+Dialogue: 0,0:06:39.68,0:06:42.55,Default,,0000,0000,0000,,And there will be no third time…
+Dialogue: 0,0:06:44.62,0:06:49.89,Default,,0000,0000,0000,,Even if you were able to defeat me,\Nyou can't defeat Haku…
+Dialogue: 0,0:06:50.15,0:06:51.09,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:06:54.96,0:06:57.40,Default,,0000,0000,0000,,Kakashi Sensei can't win?
+Dialogue: 0,0:06:57.80,0:07:00.56,Default,,0000,0000,0000,,That boy in the mask is that strong?
+Dialogue: 0,0:07:00.90,0:07:04.54,Default,,0000,0000,0000,,Since he was a kid, I have been\Npainstakingly teaching him
+Dialogue: 0,0:07:04.54,0:07:06.80,Default,,0000,0000,0000,,the battle techniques of the Ninja!
+Dialogue: 0,0:07:25.89,0:07:29.36,Default,,0000,0000,0000,,All of my techniques.
+Dialogue: 0,0:07:32.76,0:07:34.10,Default,,0000,0000,0000,,On top of that…
+Dialogue: 0,0:07:34.13,0:07:37.10,Default,,0000,0000,0000,,he has been polishing up\Nhis own skills as well!
+Dialogue: 0,0:07:40.44,0:07:41.91,Default,,0000,0000,0000,,As a result...
+Dialogue: 0,0:07:42.31,0:07:43.64,Default,,0000,0000,0000,,He has...
+Dialogue: 0,0:07:44.54,0:07:47.75,Default,,0000,0000,0000,,no matter how unbelievably difficult\Nhis predicament,
+Dialogue: 0,0:07:48.95,0:07:51.52,Default,,0000,0000,0000,,been extremely successful.
+Dialogue: 0,0:07:54.55,0:07:58.76,Default,,0000,0000,0000,,He has no "heart" and has\Nabandoned the notion of "life."
+Dialogue: 0,0:07:59.59,0:08:02.56,Default,,0000,0000,0000,,He is a fighting machine\Nknown as a Shinobi.
+Dialogue: 0,0:08:05.70,0:08:08.57,Default,,0000,0000,0000,,Not only that,\Nhis Jutsu surpasses mine!
+Dialogue: 0,0:08:09.50,0:08:12.67,Default,,0000,0000,0000,,The terrifying ability of\Nthe Kekkei Genkai.
+Dialogue: 0,0:08:14.21,0:08:17.27,Default,,0000,0000,0000,,In other words,\NI have acquired a sophisticated tool.
+Dialogue: 0,0:08:18.08,0:08:21.55,Default,,0000,0000,0000,,Unlike the scrap you're\Ncarrying around.
+Dialogue: 0,0:08:21.55,0:08:25.48,Default,,0000,0000,0000,,I'm not one to be afraid just\Nbecause I failed once!
+Dialogue: 0,0:08:25.55,0:08:27.55,Default,,0000,0000,0000,,I'll do it as many times as it takes!
+Dialogue: 0,0:08:27.59,0:08:29.42,Default,,0000,0000,0000,,The Shadow Clone Jutsu!
+Dialogue: 0,0:08:29.89,0:08:30.55,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:09:04.56,0:09:06.16,Default,,0000,0000,0000,,W-What the hell is it…?!
+Dialogue: 0,0:09:09.63,0:09:10.96,Default,,0000,0000,0000,,I-It was just slight but…
+Dialogue: 0,0:09:19.10,0:09:21.21,Default,,0000,0000,0000,,I could see the trails of his movements…
+Dialogue: 0,0:09:21.84,0:09:23.47,Default,,0000,0000,0000,,One more try!
+Dialogue: 0,0:09:25.48,0:09:27.14,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:09:38.16,0:09:41.23,Default,,0000,0000,0000,,Don't you understand that it's useless?
+Dialogue: 0,0:09:58.81,0:10:00.64,Default,,0000,0000,0000,,Just because I see the trail,
+Dialogue: 0,0:10:00.68,0:10:03.11,Default,,0000,0000,0000,,doesn't mean that I can keep up\Nwith his speed.
+Dialogue: 0,0:10:08.85,0:10:10.59,Default,,0000,0000,0000,,The water…\Nis being repelled.
+Dialogue: 0,0:10:13.59,0:10:16.69,Default,,0000,0000,0000,,But, what if that wasn't water…?
+Dialogue: 0,0:10:18.96,0:10:20.00,Default,,0000,0000,0000,,All right…
+Dialogue: 0,0:10:20.56,0:10:22.30,Default,,0000,0000,0000,,The next one is going\Nto be my one shot!
+Dialogue: 0,0:10:24.00,0:10:26.00,Default,,0000,0000,0000,,Just because a bunch of scrap\Ngot together
+Dialogue: 0,0:10:26.07,0:10:27.94,Default,,0000,0000,0000,,doesn't mean that\Nthey can defeat Haku.
+Dialogue: 0,0:10:28.47,0:10:31.54,Default,,0000,0000,0000,,He is….\NHe is the best tool!
+Dialogue: 0,0:10:31.54,0:10:35.15,Default,,0000,0000,0000,,There's nothing boring than\Na stranger bragging…
+Dialogue: 0,0:10:36.01,0:10:38.62,Default,,0000,0000,0000,,It's about time…\NI make my move.
+Dialogue: 0,0:10:39.02,0:10:41.75,Default,,0000,0000,0000,,Now wait.\NAs long as we're talking…
+Dialogue: 0,0:10:41.89,0:10:44.56,Default,,0000,0000,0000,,Let me brag about another thing…
+Dialogue: 0,0:10:44.66,0:10:45.56,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:10:46.66,0:10:48.53,Default,,0000,0000,0000,,In the battle before,
+Dialogue: 0,0:10:48.83,0:10:52.90,Default,,0000,0000,0000,,I didn't just let you defeat me\Nlike a fool.
+Dialogue: 0,0:11:11.72,0:11:13.05,Default,,0000,0000,0000,,It's over…
+Dialogue: 0,0:11:15.89,0:11:17.69,Default,,0000,0000,0000,,Haku, who was hiding in the corner,
+Dialogue: 0,0:11:18.39,0:11:21.96,Default,,0000,0000,0000,,was observing part of the battle.
+Dialogue: 0,0:11:22.36,0:11:24.13,Default,,0000,0000,0000,,Haku is quite smart.
+Dialogue: 0,0:11:24.56,0:11:25.96,Default,,0000,0000,0000,,With his ability to analyze,
+Dialogue: 0,0:11:26.00,0:11:30.93,Default,,0000,0000,0000,,he is able to plan a counterattack\Nafter observing a technique just once.
+Dialogue: 0,0:11:32.54,0:11:36.61,Default,,0000,0000,0000,,I've been anxious to copy your line.
+Dialogue: 0,0:11:40.14,0:11:44.75,Default,,0000,0000,0000,,"I'll tell you now, but the same Jutsu\Nwon't work on me twice."
+Dialogue: 0,0:11:45.02,0:11:46.38,Default,,0000,0000,0000,,Was that it…?
+Dialogue: 0,0:11:48.55,0:11:52.32,Default,,0000,0000,0000,,Ninja Art, Hidden Mist Jutsu!
+Dialogue: 0,0:12:07.50,0:12:11.08,Default,,0000,0000,0000,,Ninja Art, Hidden Mist Jutsu!
+Dialogue: 0,0:12:21.92,0:12:22.75,Default,,0000,0000,0000,,This is...?!
+Dialogue: 0,0:12:33.63,0:12:36.43,Default,,0000,0000,0000,,What is this…?\NThis really thick fog?
+Dialogue: 0,0:12:37.47,0:12:38.94,Default,,0000,0000,0000,,The visibility is close to zero...
+Dialogue: 0,0:12:39.47,0:12:40.50,Default,,0000,0000,0000,,Sensei…!
+Dialogue: 0,0:12:43.51,0:12:45.54,Default,,0000,0000,0000,,Sakura! Stay with Tazuna!
+Dialogue: 0,0:12:47.31,0:12:48.31,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:48.35,0:12:51.55,Default,,0000,0000,0000,,I have to trust Sasuke,\NNaruto and Kakashi Sensei right now…
+Dialogue: 0,0:12:52.15,0:12:54.35,Default,,0000,0000,0000,,And I should do what I can do!
+Dialogue: 0,0:12:55.35,0:12:56.42,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:56.59,0:12:58.19,Default,,0000,0000,0000,,Oh! Sakura!
+Dialogue: 0,0:12:59.56,0:13:02.83,Default,,0000,0000,0000,,Mr. Tazuna, no matter what,\N don't move away from me!
+Dialogue: 0,0:13:03.33,0:13:05.26,Default,,0000,0000,0000,,Yeah… I soo know it!
+Dialogue: 0,0:13:09.57,0:13:11.54,Default,,0000,0000,0000,,I know… 					Zabuza…
+Dialogue: 0,0:13:12.50,0:13:14.30,Default,,0000,0000,0000,,I'll finish them off soon enough…
+Dialogue: 0,0:13:18.81,0:13:20.84,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:13:24.05,0:13:25.55,Default,,0000,0000,0000,,You just don't learn, do you?!
+Dialogue: 0,0:13:33.09,0:13:34.56,Default,,0000,0000,0000,,What? The Fire Style Jutsu!
+Dialogue: 0,0:13:43.90,0:13:46.30,Default,,0000,0000,0000,,It takes…too long!
+Dialogue: 0,0:14:21.27,0:14:22.51,Default,,0000,0000,0000,,This is good!
+Dialogue: 0,0:14:22.54,0:14:24.78,Default,,0000,0000,0000,,Bit by bit, I'm figuring out\Nthe timing...
+Dialogue: 0,0:14:35.99,0:14:38.72,Default,,0000,0000,0000,,I know it's called Hidden Mist,\Nbut the fog is way too thick…
+Dialogue: 0,0:14:39.69,0:14:42.36,Default,,0000,0000,0000,,Even Zabuza himself shouldn't\Nbe able to see anything...
+Dialogue: 0,0:14:50.07,0:14:51.54,Default,,0000,0000,0000,,Good job on dodging it…
+Dialogue: 0,0:14:52.10,0:14:54.14,Default,,0000,0000,0000,,Just what I expect of Kakashi\Nof the Sharingan...
+Dialogue: 0,0:15:00.64,0:15:01.61,Default,,0000,0000,0000,,He's….
+Dialogue: 0,0:15:01.75,0:15:02.68,Default,,0000,0000,0000,,closing his eyes!
+Dialogue: 0,0:15:03.55,0:15:06.02,Default,,0000,0000,0000,,But…the next time you see me,
+Dialogue: 0,0:15:06.48,0:15:08.35,Default,,0000,0000,0000,,that'll be the end of it all…
+Dialogue: 0,0:15:08.92,0:15:12.02,Default,,0000,0000,0000,,You overrate the Sharingan too much.
+Dialogue: 0,0:15:12.06,0:15:12.92,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:15:14.56,0:15:18.80,Default,,0000,0000,0000,,You spoke as if you saw through\Neverything, but…
+Dialogue: 0,0:15:23.23,0:15:24.40,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:15:25.54,0:15:28.94,Default,,0000,0000,0000,,Could it be possible that\Nyou can see the future…?!
+Dialogue: 0,0:15:32.28,0:15:33.71,Default,,0000,0000,0000,,You are going to die.
+Dialogue: 0,0:15:34.14,0:15:37.55,Default,,0000,0000,0000,,Your foresight was wrong, after all.
+Dialogue: 0,0:15:38.55,0:15:39.55,Default,,0000,0000,0000,,Kakashi...
+Dialogue: 0,0:15:39.82,0:15:43.39,Default,,0000,0000,0000,,You can't read my mind or\Nmy future...
+Dialogue: 0,0:15:43.89,0:15:47.86,Default,,0000,0000,0000,,The Sharingan is merely a diversion\Nthat makes you believe that!
+Dialogue: 0,0:15:49.56,0:15:51.76,Default,,0000,0000,0000,,Those who have the Sharingan...
+Dialogue: 0,0:15:52.13,0:15:56.77,Default,,0000,0000,0000,,possess both\Nperceptive eyes and hypnotic eyes…
+Dialogue: 0,0:16:00.40,0:16:04.34,Default,,0000,0000,0000,,Using these two powers and\Nbringing out Jutsus one after the other..
+Dialogue: 0,0:16:05.01,0:16:09.68,Default,,0000,0000,0000,,you were just acting as if\Nyou can read the future!
+Dialogue: 0,0:16:12.92,0:16:17.02,Default,,0000,0000,0000,,First with the perceptive eyes,\Nyou copied my movement right away.
+Dialogue: 0,0:16:18.32,0:16:20.82,Default,,0000,0000,0000,,And this is the Image\NReplication Method.
+Dialogue: 0,0:16:27.23,0:16:29.67,Default,,0000,0000,0000,,You first got me in\Na ruffle with it…
+Dialogue: 0,0:16:30.10,0:16:32.94,Default,,0000,0000,0000,,Once you make sure that\NI'm flustered,
+Dialogue: 0,0:16:32.97,0:16:37.31,Default,,0000,0000,0000,,you nail the "heart's voice."
+Dialogue: 0,0:16:38.08,0:16:40.81,Default,,0000,0000,0000,,– This is the Mind Imitation Method.\N– It's only an imitation, after all.
+Dialogue: 0,0:16:41.55,0:16:45.38,Default,,0000,0000,0000,,– You can't defeat me! You monkey!\N– You can't defeat me! You monkey!
+Dialogue: 0,0:16:46.38,0:16:48.39,Default,,0000,0000,0000,,That imitating monkey mouth...
+Dialogue: 0,0:16:48.42,0:16:50.55,Default,,0000,0000,0000,,I'll make sure that you won't be\Nable to open it any more!
+Dialogue: 0,0:16:50.85,0:16:51.66,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:16:51.69,0:16:54.96,Default,,0000,0000,0000,,You judged the right timing when\Nmy frustration was reaching its height
+Dialogue: 0,0:16:55.56,0:16:56.46,Default,,0000,0000,0000,,W-What is that?
+Dialogue: 0,0:16:56.89,0:16:59.60,Default,,0000,0000,0000,,You set a clever trap.
+Dialogue: 0,0:17:00.23,0:17:01.26,Default,,0000,0000,0000,,Me...?
+Dialogue: 0,0:17:01.77,0:17:03.97,Default,,0000,0000,0000,,You used the Genjutsu with\Nyour hypnotic eye and
+Dialogue: 0,0:17:04.00,0:17:08.27,Default,,0000,0000,0000,,made me weave the signs first...
+Dialogue: 0,0:17:09.54,0:17:12.54,Default,,0000,0000,0000,,This is the Jutsu Imitation Method...
+Dialogue: 0,0:17:12.54,0:17:15.11,Default,,0000,0000,0000,,The Giant Vortex Jutsu!
+Dialogue: 0,0:17:25.96,0:17:27.36,Default,,0000,0000,0000,,R-Ridiculous!
+Dialogue: 0,0:17:30.56,0:17:32.50,Default,,0000,0000,0000,,Then that makes it easier.
+Dialogue: 0,0:17:33.46,0:17:36.17,Default,,0000,0000,0000,,First vanish into the thick fog,
+Dialogue: 0,0:17:36.50,0:17:38.90,Default,,0000,0000,0000,,and make your\Nperceptive eyes useless….
+Dialogue: 0,0:17:39.54,0:17:40.14,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:42.77,0:17:44.98,Default,,0000,0000,0000,,Darn! The guard is falling behind!
+Dialogue: 0,0:17:45.54,0:17:48.61,Default,,0000,0000,0000,,I will close my eyes as well!
+Dialogue: 0,0:17:49.61,0:17:53.18,Default,,0000,0000,0000,,I will shut off your ability to use\Nyour hypnotic eye
+Dialogue: 0,0:17:53.22,0:17:54.85,Default,,0000,0000,0000,,in a close-distance battle.
+Dialogue: 0,0:17:56.55,0:17:57.72,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:17:58.09,0:18:00.56,Default,,0000,0000,0000,,That also means that\Nyou will lose your ability to see.
+Dialogue: 0,0:18:01.56,0:18:03.09,Default,,0000,0000,0000,,Did you forget...?
+Dialogue: 0,0:18:03.89,0:18:06.80,Default,,0000,0000,0000,,That I am a genius in Silent Killing,
+Dialogue: 0,0:18:07.00,0:18:11.80,Default,,0000,0000,0000,,a technique to find\Nthe target just by sound.
+Dialogue: 0,0:18:18.18,0:18:21.75,Default,,0000,0000,0000,,He read my movement...\NNo way could he do that.
+Dialogue: 0,0:18:23.01,0:18:25.65,Default,,0000,0000,0000,,Darn! We were so close!
+Dialogue: 0,0:18:25.68,0:18:28.39,Default,,0000,0000,0000,,Naruto, can you still move?
+Dialogue: 0,0:18:28.69,0:18:31.66,Default,,0000,0000,0000,,Of course! I'm totally fine!
+Dialogue: 0,0:18:32.52,0:18:35.56,Default,,0000,0000,0000,,He's pretty much spent…\Nand it's no wonder.
+Dialogue: 0,0:18:35.89,0:18:38.70,Default,,0000,0000,0000,,Shadow Clone Jutsu uses\Na lot of Chakra.
+Dialogue: 0,0:18:39.46,0:18:41.57,Default,,0000,0000,0000,,But thanks to him,\NI found our way out.
+Dialogue: 0,0:18:42.50,0:18:43.93,Default,,0000,0000,0000,,I found the way to break through!
+Dialogue: 0,0:18:45.40,0:18:47.40,Default,,0000,0000,0000,,Hah!  Impossible!
+Dialogue: 0,0:18:49.54,0:18:52.58,Default,,0000,0000,0000,,That was just a coincidence.
+Dialogue: 0,0:18:56.55,0:18:57.68,Default,,0000,0000,0000,,Naruto! Run!
+Dialogue: 0,0:18:57.71,0:18:58.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:58.55,0:19:01.15,Default,,0000,0000,0000,,Run out of here and\Nattack from the outside!
+Dialogue: 0,0:19:02.32,0:19:03.92,Default,,0000,0000,0000,,A-All right!
+Dialogue: 0,0:19:05.96,0:19:07.42,Default,,0000,0000,0000,,You won't be able to...!
+Dialogue: 0,0:19:19.94,0:19:21.34,Default,,0000,0000,0000,,I-I'm not going to lose!
+Dialogue: 0,0:19:24.54,0:19:25.48,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:19:25.51,0:19:27.54,Default,,0000,0000,0000,,Fire Style: Fire Ball Jutsu!
+Dialogue: 0,0:19:53.54,0:19:54.97,Default,,0000,0000,0000,,Darn!
+Dialogue: 0,0:19:56.44,0:19:57.54,Default,,0000,0000,0000,,T-That was good just now!
+Dialogue: 0,0:19:57.64,0:19:58.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:59.21,0:20:00.98,Default,,0000,0000,0000,,We're doing it one more time!
+Dialogue: 0,0:20:02.25,0:20:03.55,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:20:07.15,0:20:10.15,Default,,0000,0000,0000,,It's likely that there's a limit\Nto that guy's Chakra, too!
+Dialogue: 0,0:20:11.56,0:20:13.22,Default,,0000,0000,0000,,To prove that,\Nhe's little by little…
+Dialogue: 0,0:20:19.26,0:20:21.60,Default,,0000,0000,0000,,This won't go as you've planned.
+Dialogue: 0,0:20:22.87,0:20:24.50,Default,,0000,0000,0000,,First, I'll get you!
+Dialogue: 0,0:20:30.54,0:20:31.54,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:20:40.55,0:20:45.19,Default,,0000,0000,0000,,Darn! It's been a while since\NI've fought in such bad conditions.
+Dialogue: 0,0:20:46.89,0:20:49.39,Default,,0000,0000,0000,,And I'm worried about\NSasuke and Naruto, too...
+Dialogue: 0,0:20:53.56,0:20:59.44,Default,,0000,0000,0000,,Be calm… Think...\NWhat will he come after?
+Dialogue: 0,0:21:00.74,0:21:01.64,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:21:17.35,0:21:18.26,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:18.69,0:21:19.66,Default,,0000,0000,0000,,Too late!
+Dialogue: 0,0:23:08.80,0:23:11.53,Default,,0000,0000,0000,,Why? Why is it?
+Dialogue: 0,0:23:12.17,0:23:14.54,Default,,0000,0000,0000,,Why did this happen?
+Dialogue: 0,0:23:15.14,0:23:21.61,Default,,0000,0000,0000,,I never asked for your help!\NI hated you!
+Dialogue: 0,0:23:22.31,0:23:23.55,Default,,0000,0000,0000,,But you…
+Dialogue: 0,0:23:24.68,0:23:28.55,Default,,0000,0000,0000,,Darn! I won't forgive you!
+Dialogue: 0,0:23:29.72,0:23:32.76,Default,,0000,0000,0000,,Next episode:\N "The Broken Seal"

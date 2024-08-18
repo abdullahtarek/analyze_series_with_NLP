@@ -1,0 +1,355 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.22,0:00:21.68,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.72,0:00:26.59,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.59,0:00:29.22,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.26,0:00:31.72,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.76,0:00:36.47,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.51,0:00:46.35,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.59,0:00:55.59,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.59,0:01:06.59,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.59,0:01:15.93,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.59,0:01:21.10,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:46.14,0:01:48.10,Default,,0000,0000,0000,,I’m exhausted!
+Dialogue: 0,0:01:48.59,0:01:50.80,Default,,0000,0000,0000,,Important solo mission, my butt!
+Dialogue: 0,0:01:51.18,0:01:54.55,Default,,0000,0000,0000,,They just didn’t have enough manpower\Nfor the castle restoration.
+Dialogue: 0,0:01:55.10,0:01:57.43,Default,,0000,0000,0000,,That’s not the job of a Shinobi.
+Dialogue: 0,0:01:58.72,0:02:03.85,Default,,0000,0000,0000,,Ow-ow… I won’t hold up if\NI don’t rest somewhere.
+Dialogue: 0,0:02:06.97,0:02:08.30,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:02:08.59,0:02:11.43,Default,,0000,0000,0000,,I’ll take a bath.\NHere I go!
+Dialogue: 0,0:02:11.64,0:02:15.10,Default,,0000,0000,0000,,Hey…\NI’m sounding like an old man.
+Dialogue: 0,0:02:16.59,0:02:17.68,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:02:28.18,0:02:29.64,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:02:48.43,0:02:49.59,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:02:53.47,0:02:55.01,Default,,0000,0000,0000,,Who the heck are you, mister?
+Dialogue: 0,0:02:55.43,0:02:56.59,Default,,0000,0000,0000,,I’m a Delivery Ninja!
+Dialogue: 0,0:02:57.30,0:03:03.14,Default,,0000,0000,0000,,Please, Mr. Postman!
+Dialogue: 0,0:03:04.22,0:03:06.64,Default,,0000,0000,0000,,23, 24, 25…
+Dialogue: 0,0:03:06.97,0:03:08.26,Default,,0000,0000,0000,,26…
+Dialogue: 0,0:03:08.59,0:03:10.05,Default,,0000,0000,0000,,No mistake…
+Dialogue: 0,0:03:10.55,0:03:13.76,Default,,0000,0000,0000,,Thanks to you Mister Naruto,\Nall of the postal articles are safe.
+Dialogue: 0,0:03:14.30,0:03:17.43,Default,,0000,0000,0000,,By the way, what’s a Delivery Ninja?
+Dialogue: 0,0:03:18.30,0:03:21.43,Default,,0000,0000,0000,,We are postal professionals\Nwho risk our lives
+Dialogue: 0,0:03:21.47,0:03:24.35,Default,,0000,0000,0000,,to deliver the important parcels\Nour customers have left with us.
+Dialogue: 0,0:03:24.47,0:03:25.68,Default,,0000,0000,0000,,In other words, you’re a postman.
+Dialogue: 0,0:03:26.01,0:03:27.55,Default,,0000,0000,0000,,I am a Delivery Ninja!
+Dialogue: 0,0:03:27.93,0:03:30.59,Default,,0000,0000,0000,,Ordinary postmen don’t risk their lives.
+Dialogue: 0,0:03:30.59,0:03:33.35,Default,,0000,0000,0000,,So you’re an awesome postman, huh?
+Dialogue: 0,0:03:33.43,0:03:34.59,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:03:35.30,0:03:38.59,Default,,0000,0000,0000,,Oops, I must not keep\Nmy customers waiting.
+Dialogue: 0,0:03:39.10,0:03:40.59,Default,,0000,0000,0000,,Then, I’ll be on my way…
+Dialogue: 0,0:03:42.47,0:03:44.35,Default,,0000,0000,0000,,Mister! What’s your name?!
+Dialogue: 0,0:03:44.59,0:03:46.72,Default,,0000,0000,0000,,I’m 596-03.
+Dialogue: 0,0:03:47.39,0:03:49.10,Default,,0000,0000,0000,,A zip code…?!
+Dialogue: 0,0:03:56.59,0:03:59.26,Default,,0000,0000,0000,,Anywhere would be fine\Nif I can get in a hot spring…
+Dialogue: 0,0:04:01.60,0:04:03.89,Default,,0000,0000,0000,,Cripes…\NHere it’s still day time and…
+Dialogue: 0,0:04:04.59,0:04:06.30,Default,,0000,0000,0000,,That voice…
+Dialogue: 0,0:04:07.35,0:04:10.22,Default,,0000,0000,0000,,My, you’re a strange one, Jira-chan.
+Dialogue: 0,0:04:11.39,0:04:12.59,Default,,0000,0000,0000,,Am I?
+Dialogue: 0,0:04:12.60,0:04:14.68,Default,,0000,0000,0000,,Ah, Pervy Sage!
+Dialogue: 0,0:04:14.80,0:04:17.59,Default,,0000,0000,0000,,What?! Who’s a Pervy Sage…?!
+Dialogue: 0,0:04:22.14,0:04:24.93,Default,,0000,0000,0000,,What’s the meaning of this,\NPervy Sage?!
+Dialogue: 0,0:04:25.43,0:04:28.35,Default,,0000,0000,0000,,Hadn’t you left the village\Non an important mission?
+Dialogue: 0,0:04:28.60,0:04:32.01,Default,,0000,0000,0000,,That’s why I was being patient\Nabout you training with me!
+Dialogue: 0,0:04:32.39,0:04:34.10,Default,,0000,0000,0000,,If you’ve got the free time to be\Ndoing something like this,
+Dialogue: 0,0:04:34.14,0:04:36.39,Default,,0000,0000,0000,,help out with my training right now!
+Dialogue: 0,0:04:36.55,0:04:39.59,Default,,0000,0000,0000,,W-Wait, Naruto.\NThere’s a reason for this…
+Dialogue: 0,0:04:39.59,0:04:42.22,Default,,0000,0000,0000,,You probably have some glib lies\Nabout gathering information or something.
+Dialogue: 0,0:04:42.26,0:04:45.26,Default,,0000,0000,0000,,You’re wrong, you’re wrong.\Nlt’s data collection, data collection…
+Dialogue: 0,0:04:45.93,0:04:46.85,Default,,0000,0000,0000,,You see…
+Dialogue: 0,0:04:48.10,0:04:49.35,Default,,0000,0000,0000,,It’s my final spurt
+Dialogue: 0,0:04:49.39,0:04:51.60,Default,,0000,0000,0000,,for the manuscript of the final volume\Nof “Make-Out Violence.”
+Dialogue: 0,0:04:51.64,0:04:53.59,Default,,0000,0000,0000,,What about the mission…?
+Dialogue: 0,0:04:54.05,0:04:57.05,Default,,0000,0000,0000,,Well, you see, I’m on a mission.
+Dialogue: 0,0:04:58.30,0:04:59.14,Default,,0000,0000,0000,,So don’t worry…
+Dialogue: 0,0:04:59.72,0:05:01.59,Default,,0000,0000,0000,,What kind of mission?
+Dialogue: 0,0:05:04.14,0:05:07.76,Default,,0000,0000,0000,,As it happens, I received information\Nthat a member of the Akatsuki Organization
+Dialogue: 0,0:05:07.80,0:05:11.59,Default,,0000,0000,0000,,will be visiting this town\Nthe day after tomorrow.
+Dialogue: 0,0:05:11.59,0:05:14.89,Default,,0000,0000,0000,,The Akatsuki Organization!\NThen, that Itachi will be…?
+Dialogue: 0,0:05:15.35,0:05:19.22,Default,,0000,0000,0000,,I don’t know that.\NAnd the same goes for their purpose…
+Dialogue: 0,0:05:19.59,0:05:22.59,Default,,0000,0000,0000,,But that’s a matter until\Nthe day after tomorrow.
+Dialogue: 0,0:05:22.85,0:05:26.64,Default,,0000,0000,0000,,And so, I’m making effective use\Nof the free time!
+Dialogue: 0,0:05:26.89,0:05:30.76,Default,,0000,0000,0000,,Then it’s perfect.\NGive me some training!
+Dialogue: 0,0:05:30.97,0:05:34.55,Default,,0000,0000,0000,,Well… you see, they’re so insistent\Nabout the manuscript.
+Dialogue: 0,0:05:34.64,0:05:40.10,Default,,0000,0000,0000,,I ended up promising the publisher\Nthat I’d send it today or tomorrow.
+Dialogue: 0,0:05:40.59,0:05:43.93,Default,,0000,0000,0000,,Come on! It’s a long-awaited chance\Nfor training.
+Dialogue: 0,0:05:44.05,0:05:46.59,Default,,0000,0000,0000,,If my manuscript were\Nto be completed early,
+Dialogue: 0,0:05:46.59,0:05:49.18,Default,,0000,0000,0000,,I might be able to take\Nsome time for training.
+Dialogue: 0,0:05:57.47,0:05:59.59,Default,,0000,0000,0000,,Oh, my shoulders are stiff!
+Dialogue: 0,0:05:59.60,0:06:00.68,Default,,0000,0000,0000,,There, there.
+Dialogue: 0,0:06:02.59,0:06:04.89,Default,,0000,0000,0000,,Oh, I’m thirsty!
+Dialogue: 0,0:06:06.20,0:06:07.47,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:06:10.65,0:06:11.64,Default,,0000,0000,0000,,Hot!
+Dialogue: 0,0:06:12.22,0:06:15.35,Default,,0000,0000,0000,,Hey, the ideas I just about had\Nhave blown away!
+Dialogue: 0,0:06:15.97,0:06:16.60,Default,,0000,0000,0000,,Enough!
+Dialogue: 0,0:06:17.26,0:06:17.97,Default,,0000,0000,0000,,I’m taking a bath!
+Dialogue: 0,0:06:21.60,0:06:24.22,Default,,0000,0000,0000,,What a hard Sensei to please…
+Dialogue: 0,0:06:27.30,0:06:29.59,Default,,0000,0000,0000,,I bet he’s going to say\Nthis is data collection, anyway.
+Dialogue: 0,0:06:31.30,0:06:33.26,Default,,0000,0000,0000,,We must deliver that secret document
+Dialogue: 0,0:06:33.30,0:06:35.59,Default,,0000,0000,0000,,to the feudal lord of the Land of Fangs,\Nno matter what the cost…
+Dialogue: 0,0:06:35.68,0:06:37.93,Default,,0000,0000,0000,,It seems this is where\Nthe Delivery Ninjas always stay.
+Dialogue: 0,0:06:38.59,0:06:40.26,Default,,0000,0000,0000,,Oh, they could…
+Dialogue: 0,0:06:41.01,0:06:42.22,Default,,0000,0000,0000,,Delivery Ninja?
+Dialogue: 0,0:06:43.30,0:06:46.05,Default,,0000,0000,0000,,I can see them now.
+Dialogue: 0,0:06:46.60,0:06:49.60,Default,,0000,0000,0000,,This is all I need for\Nmy writing desire to well up…
+Dialogue: 0,0:06:54.64,0:06:57.47,Default,,0000,0000,0000,,I’m not getting…inspired with this…
+Dialogue: 0,0:06:57.59,0:06:59.89,Default,,0000,0000,0000,,Imagining with your head\Nis a writer’s job, isn’t it?
+Dialogue: 0,0:07:00.26,0:07:05.59,Default,,0000,0000,0000,,I’m a writer rooted in realism!\NGetting a picture is important.
+Dialogue: 0,0:07:05.59,0:07:07.47,Default,,0000,0000,0000,,So I wonder if you’d do that for me.
+Dialogue: 0,0:07:07.59,0:07:09.26,Default,,0000,0000,0000,,Can you write if I do that?
+Dialogue: 0,0:07:09.30,0:07:10.68,Default,,0000,0000,0000,,I’ll write, I’ll write!
+Dialogue: 0,0:07:11.59,0:07:14.68,Default,,0000,0000,0000,,Sexy Jutsu:\NSteam Bath Harem Version!
+Dialogue: 0,0:07:20.60,0:07:23.14,Default,,0000,0000,0000,,– Master Jiraiya. Jiraiya!\N– This is great!
+Dialogue: 0,0:07:24.80,0:07:26.51,Default,,0000,0000,0000,,Won-der-ful!
+Dialogue: 0,0:07:36.26,0:07:37.59,Default,,0000,0000,0000,,What a hopeless guy!
+Dialogue: 0,0:07:41.59,0:07:43.80,Default,,0000,0000,0000,,He hasn’t been able to write at all!
+Dialogue: 0,0:08:01.68,0:08:05.18,Default,,0000,0000,0000,,Address, check!\NZip code, check--!
+Dialogue: 0,0:08:10.97,0:08:12.59,Default,,0000,0000,0000,,Ow-ow-ow…
+Dialogue: 0,0:08:12.97,0:08:14.43,Default,,0000,0000,0000,,Oh, the sealed documents…
+Dialogue: 0,0:08:19.55,0:08:20.64,Default,,0000,0000,0000,,Please take extra care with this.
+Dialogue: 0,0:08:21.05,0:08:22.60,Default,,0000,0000,0000,,I will take it for you.
+Dialogue: 0,0:08:24.22,0:08:26.35,Default,,0000,0000,0000,,Ow-ow-ow…
+Dialogue: 0,0:08:29.35,0:08:31.59,Default,,0000,0000,0000,,Excuse me, can I also ask you\Nto take this for me?
+Dialogue: 0,0:08:31.89,0:08:35.39,Default,,0000,0000,0000,,Oh! Mister Naruto.\NThank you for helping me out yesterday.
+Dialogue: 0,0:08:35.59,0:08:37.10,Default,,0000,0000,0000,,Oh! Mister!
+Dialogue: 0,0:08:39.59,0:08:42.59,Default,,0000,0000,0000,,I am 596-03.
+Dialogue: 0,0:08:43.89,0:08:45.51,Default,,0000,0000,0000,,It’s hard to remember!
+Dialogue: 0,0:08:46.22,0:08:48.59,Default,,0000,0000,0000,,More importantly, I want to ask you\Nto take care of this!
+Dialogue: 0,0:08:50.43,0:08:52.93,Default,,0000,0000,0000,,Hmm…This goes in a different direction…
+Dialogue: 0,0:08:52.97,0:08:55.30,Default,,0000,0000,0000,,Have a heart. Please.
+Dialogue: 0,0:08:55.55,0:08:57.64,Default,,0000,0000,0000,,Oh, perfect timing.
+Dialogue: 0,0:08:57.80,0:08:59.68,Default,,0000,0000,0000,,Huh?! Is this a Shadow Clone?
+Dialogue: 0,0:09:00.10,0:09:02.64,Default,,0000,0000,0000,,He is 463-72.
+Dialogue: 0,0:09:03.89,0:09:06.68,Default,,0000,0000,0000,,This area should be in your jurisdiction.
+Dialogue: 0,0:09:07.59,0:09:08.18,Default,,0000,0000,0000,,It is.
+Dialogue: 0,0:09:09.14,0:09:13.59,Default,,0000,0000,0000,,Then I leave it to you…\NWhat was it again?
+Dialogue: 0,0:09:14.01,0:09:15.97,Default,,0000,0000,0000,,I am 463-72.
+Dialogue: 0,0:09:16.68,0:09:17.89,Default,,0000,0000,0000,,Hurry, okay?
+Dialogue: 0,0:09:21.72,0:09:23.01,Default,,0000,0000,0000,,Wake up…
+Dialogue: 0,0:09:23.72,0:09:25.59,Default,,0000,0000,0000,,Whoa! I fell asleep!
+Dialogue: 0,0:09:25.85,0:09:27.93,Default,,0000,0000,0000,,Pervy Sage, let’s start training!
+Dialogue: 0,0:09:28.14,0:09:31.80,Default,,0000,0000,0000,,What’re you talking about?\NI must complete the manuscript…
+Dialogue: 0,0:09:34.01,0:09:35.76,Default,,0000,0000,0000,,You don’t need to worry\Nabout that.
+Dialogue: 0,0:09:36.89,0:09:40.35,Default,,0000,0000,0000,,I wrote the manuscript and\Nsent it to the publisher!
+Dialogue: 0,0:09:40.68,0:09:44.22,Default,,0000,0000,0000,,So now you can devote\Nyourself freely to training…
+Dialogue: 0,0:09:44.26,0:09:45.59,Default,,0000,0000,0000,,Right, Pervy Sage?
+Dialogue: 0,0:09:45.59,0:09:46.89,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:09:46.93,0:09:47.51,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:47.68,0:09:51.43,Default,,0000,0000,0000,,If something like this were read,\Nit’ll be the end of my writing career!
+Dialogue: 0,0:09:51.55,0:09:54.26,Default,,0000,0000,0000,,Ah… Oh… I’m sorry.
+Dialogue: 0,0:09:54.47,0:09:57.64,Default,,0000,0000,0000,,You said you sent it to\Nthe publisher, right? How?
+Dialogue: 0,0:09:57.80,0:10:00.80,Default,,0000,0000,0000,,I gave it to a Delivery Ninja\Nin the inn…
+Dialogue: 0,0:10:00.85,0:10:03.22,Default,,0000,0000,0000,,D-Delivery Ninjas.
+Dialogue: 0,0:10:03.93,0:10:08.43,Default,,0000,0000,0000,,You mean, the one that delivers any\Nparcel to the addressee, no matter what…
+Dialogue: 0,0:10:08.47,0:10:12.80,Default,,0000,0000,0000,,not influenced by any land or institution…\Nthat iron organization?!
+Dialogue: 0,0:10:14.14,0:10:15.43,Default,,0000,0000,0000,,After him, Naruto.
+Dialogue: 0,0:10:15.68,0:10:17.59,Default,,0000,0000,0000,,We’ll chase down the Delivery Ninja,\Nno matter what…
+Dialogue: 0,0:10:17.59,0:10:20.85,Default,,0000,0000,0000,,and retrieve your manuscript\Nat any cost!
+Dialogue: 0,0:10:33.22,0:10:36.59,Default,,0000,0000,0000,,If he’s going to the publisher,\Nhe should definitely take this path.
+Dialogue: 0,0:10:37.10,0:10:39.47,Default,,0000,0000,0000,,Now what’s left is how to\Nclose the time gap…
+Dialogue: 0,0:10:39.64,0:10:43.05,Default,,0000,0000,0000,,I hear the leg power of Delivery Ninjas\Nis extraordinary, though…
+Dialogue: 0,0:10:43.72,0:10:44.80,Default,,0000,0000,0000,,Pervy Sage!
+Dialogue: 0,0:10:45.59,0:10:47.97,Default,,0000,0000,0000,,Slow down the pace a little, man.
+Dialogue: 0,0:10:48.26,0:10:50.39,Default,,0000,0000,0000,,Naruto! This is also training!
+Dialogue: 0,0:10:51.18,0:10:53.51,Default,,0000,0000,0000,,To be straight, you’re short on leg power!
+Dialogue: 0,0:10:54.18,0:10:56.14,Default,,0000,0000,0000,,A Ninja must apply oneself,
+Dialogue: 0,0:10:56.18,0:10:59.39,Default,,0000,0000,0000,,connecting this with training,\Nno matter what the situation!
+Dialogue: 0,0:10:59.76,0:11:03.14,Default,,0000,0000,0000,,Excellent, Pervy Sage.\NNow you’re talking!
+Dialogue: 0,0:11:08.64,0:11:10.59,Default,,0000,0000,0000,,It’s just like a maze!
+Dialogue: 0,0:11:11.14,0:11:12.72,Default,,0000,0000,0000,,We’re totally lost…
+Dialogue: 0,0:11:13.35,0:11:16.59,Default,,0000,0000,0000,,If we had Hinata’s or Neji’s Byakugan\Nat a time like this…
+Dialogue: 0,0:11:16.80,0:11:19.26,Default,,0000,0000,0000,,Byakugan! I didn’t think of that!
+Dialogue: 0,0:11:21.93,0:11:23.72,Default,,0000,0000,0000,,That’s the Rasengan, isn’t it?!
+Dialogue: 0,0:11:38.55,0:11:40.14,Default,,0000,0000,0000,,I’m sorry!
+Dialogue: 0,0:11:41.26,0:11:42.47,Default,,0000,0000,0000,,Uh, no, you see…!
+Dialogue: 0,0:11:43.85,0:11:46.68,Default,,0000,0000,0000,,This isn’t the time to be drooling!
+Dialogue: 0,0:11:46.97,0:11:47.85,Default,,0000,0000,0000,,There he is!
+Dialogue: 0,0:11:48.22,0:11:49.35,Default,,0000,0000,0000,,After him, Naruto.
+Dialogue: 0,0:11:49.59,0:11:50.93,Default,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:11:57.35,0:11:58.01,Default,,0000,0000,0000,,Thieves!
+Dialogue: 0,0:11:58.51,0:11:59.85,Default,,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:12:00.01,0:12:02.97,Default,,0000,0000,0000,,There’s no fool who’d wait\Nafter being told to wait!
+Dialogue: 0,0:12:03.01,0:12:03.97,Default,,0000,0000,0000,,As it happens,
+Dialogue: 0,0:12:04.01,0:12:07.68,Default,,0000,0000,0000,,the parcel this person here\Nleft with you this morning is a slip-up!
+Dialogue: 0,0:12:07.72,0:12:09.43,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:12:09.59,0:12:11.51,Default,,0000,0000,0000,,I have no knowledge of that.
+Dialogue: 0,0:12:11.64,0:12:13.55,Default,,0000,0000,0000,,The rule for us Delivery Ninjas
+Dialogue: 0,0:12:13.59,0:12:15.43,Default,,0000,0000,0000,,is to deliver parcels once left\Nwith us to the destination,
+Dialogue: 0,0:12:15.47,0:12:17.22,Default,,0000,0000,0000,,even if we have to risk our lives!
+Dialogue: 0,0:12:17.35,0:12:19.59,Default,,0000,0000,0000,,My life as a writer is also at risk!
+Dialogue: 0,0:12:19.59,0:12:20.64,Default,,0000,0000,0000,,Don’t look at me.
+Dialogue: 0,0:12:20.64,0:12:22.14,Default,,0000,0000,0000,,This is trouble!
+Dialogue: 0,0:12:22.72,0:12:23.76,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:12:33.18,0:12:35.10,Default,,0000,0000,0000,,To do that to someone\Nwho’s doing honest work…
+Dialogue: 0,0:12:35.18,0:12:37.72,Default,,0000,0000,0000,,Shut up! When you get right down to it,\Nit was you who…
+Dialogue: 0,0:12:39.47,0:12:40.59,Default,,0000,0000,0000,,Huh?! What’s this?!
+Dialogue: 0,0:12:41.18,0:12:43.60,Default,,0000,0000,0000,,This isn’t the thing you wrote!
+Dialogue: 0,0:12:44.01,0:12:44.59,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:46.59,0:12:50.59,Default,,0000,0000,0000,,That time! It got switched with\Nmy manuscript!
+Dialogue: 0,0:12:50.64,0:12:51.76,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:12:52.59,0:12:54.68,Default,,0000,0000,0000,,This is…a secret document directed
+Dialogue: 0,0:12:54.72,0:12:57.10,Default,,0000,0000,0000,,to the feudal lord of the Land of Fangs\Nfrom the Land of Claws…
+Dialogue: 0,0:12:57.93,0:13:00.35,Default,,0000,0000,0000,,Let me see…\NAccording to the information I’ve gotten,
+Dialogue: 0,0:13:00.39,0:13:04.76,Default,,0000,0000,0000,,the Fang and the Claw could go\Nto war at any moment…
+Dialogue: 0,0:13:05.59,0:13:08.22,Default,,0000,0000,0000,,This is a secret document for peace!
+Dialogue: 0,0:13:08.59,0:13:12.18,Default,,0000,0000,0000,,They’ve decided on peace?!\Nlt’s written here.
+Dialogue: 0,0:13:12.30,0:13:15.55,Default,,0000,0000,0000,,That’s a good thing, isn’t it?!\NWar is no good!
+Dialogue: 0,0:13:15.59,0:13:19.76,Default,,0000,0000,0000,,You! You idiot! The fact that\Nthis secret document is here means
+Dialogue: 0,0:13:19.80,0:13:24.26,Default,,0000,0000,0000,,the manuscript you wrote is being taken\Nto the Land of Fangs!
+Dialogue: 0,0:13:25.59,0:13:27.59,Default,,0000,0000,0000,,What’ll happen if they read it as\Na secret document
+Dialogue: 0,0:13:27.59,0:13:28.59,Default,,0000,0000,0000,,from the Land of Claws?
+Dialogue: 0,0:13:28.80,0:13:32.01,Default,,0000,0000,0000,,This is bad! No doubt, war will begin!
+Dialogue: 0,0:13:32.59,0:13:34.10,Default,,0000,0000,0000,,We’re going to the Land of Fangs!
+Dialogue: 0,0:13:34.30,0:13:35.60,Default,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:13:35.89,0:13:38.10,Default,,0000,0000,0000,,This time for sure we’ll take back\Nthe manuscript!
+Dialogue: 0,0:13:44.60,0:13:49.35,Default,,0000,0000,0000,,Postal thieves…\Nmy customer’s important parcel…!
+Dialogue: 0,0:13:56.10,0:13:57.64,Default,,0000,0000,0000,,This is bad!
+Dialogue: 0,0:13:59.59,0:14:04.14,Default,,0000,0000,0000,,This is 463-72. This is 463-72!
+Dialogue: 0,0:14:04.59,0:14:06.51,Default,,0000,0000,0000,,A postal robbery has occurred!
+Dialogue: 0,0:14:06.97,0:14:08.64,Default,,0000,0000,0000,,The thieves are a pair,
+Dialogue: 0,0:14:08.68,0:14:10.59,Default,,0000,0000,0000,,a large man with a perverted look\Nand a kid!
+Dialogue: 0,0:14:10.89,0:14:16.01,Default,,0000,0000,0000,,"They appear to be after 596-03’s parcel."
+Dialogue: 0,0:14:16.47,0:14:20.59,Default,,0000,0000,0000,,"Members in the area are assigned\Nto protect 596-03!"
+Dialogue: 0,0:14:21.10,0:14:23.93,Default,,0000,0000,0000,,"Stop the thieves in the name\Nof the Delivery Ninja!"
+Dialogue: 0,0:14:31.35,0:14:34.14,Default,,0000,0000,0000,,The only way to get to the Land of Fangs\Nis to go up this river.
+Dialogue: 0,0:14:34.76,0:14:36.89,Default,,0000,0000,0000,,More than likely they will also go\Nby boat.
+Dialogue: 0,0:14:37.59,0:14:40.51,Default,,0000,0000,0000,,Then depending on our speed,\Nthere’s a chance we’ll catch up.
+Dialogue: 0,0:14:40.85,0:14:43.51,Default,,0000,0000,0000,,I’m the one who’s got it rough.
+Dialogue: 0,0:14:43.55,0:14:45.22,Default,,0000,0000,0000,,You don’t have enough physical strength!
+Dialogue: 0,0:14:45.39,0:14:47.76,Default,,0000,0000,0000,,Consider this also as training\Nand apply yourself!
+Dialogue: 0,0:14:48.22,0:14:49.97,Default,,0000,0000,0000,,That again?!
+Dialogue: 0,0:15:04.43,0:15:05.68,Default,,0000,0000,0000,,Who’re those guys?!
+Dialogue: 0,0:15:05.72,0:15:07.60,Default,,0000,0000,0000,,It appears reinforcements\Nhave been summoned.
+Dialogue: 0,0:15:07.76,0:15:08.68,Default,,0000,0000,0000,,Hurry, Naruto!
+Dialogue: 0,0:15:24.43,0:15:25.76,Default,,0000,0000,0000,,Naruto! Switch places!
+Dialogue: 0,0:15:36.59,0:15:37.64,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:15:40.26,0:15:41.51,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:15:42.59,0:15:46.47,Default,,0000,0000,0000,,Somehow…the Rasengan looks like\Na really cheap Jutsu…
+Dialogue: 0,0:15:46.59,0:15:48.43,Default,,0000,0000,0000,,It’s for the sake of preventing a war!
+Dialogue: 0,0:15:48.89,0:15:51.55,Default,,0000,0000,0000,,Our mission of peace is at stake!
+Dialogue: 0,0:15:52.18,0:15:53.59,Default,,0000,0000,0000,,– Right! 					– Switch.
+Dialogue: 0,0:15:54.43,0:15:55.10,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:57.55,0:15:58.60,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:16:02.85,0:16:03.72,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:16:05.68,0:16:06.85,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:16:08.80,0:16:09.93,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:16:11.89,0:16:12.72,Default,,0000,0000,0000,,That’s it!
+Dialogue: 0,0:16:13.76,0:16:16.26,Default,,0000,0000,0000,,Hey, wait! It’s a slip-up!\NThis is the real one!
+Dialogue: 0,0:16:16.35,0:16:19.18,Default,,0000,0000,0000,,They got switched during the commission!
+Dialogue: 0,0:16:21.30,0:16:23.39,Default,,0000,0000,0000,,Delivery Ninja old man,\Nit’s the truth!
+Dialogue: 0,0:16:24.39,0:16:25.47,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:16:25.59,0:16:28.59,Default,,0000,0000,0000,,According to our rule,\Nwe are never to look inside
+Dialogue: 0,0:16:28.59,0:16:31.97,Default,,0000,0000,0000,,a customer’s parcel we have taken on,\Nno matter what.
+Dialogue: 0,0:16:32.18,0:16:34.18,Default,,0000,0000,0000,,If that passes over to the Land of Fangs,
+Dialogue: 0,0:16:34.22,0:16:35.60,Default,,0000,0000,0000,,there will be war!
+Dialogue: 0,0:16:35.80,0:16:39.93,Default,,0000,0000,0000,,Even if that were the case,\NI must not break the rule.
+Dialogue: 0,0:16:40.18,0:16:41.97,Default,,0000,0000,0000,,You’re impossible!
+Dialogue: 0,0:16:42.68,0:16:44.18,Default,,0000,0000,0000,,It’s the Land of Fangs!
+Dialogue: 0,0:16:49.59,0:16:53.59,Default,,0000,0000,0000,,All we do is carry out our duties!
+Dialogue: 0,0:16:53.68,0:16:56.76,Default,,0000,0000,0000,,Then…we’ll take it away\Nby force if we have to.
+Dialogue: 0,0:17:00.14,0:17:01.80,Default,,0000,0000,0000,,– Postal delivery!\N– Postal delivery!
+Dialogue: 0,0:17:02.14,0:17:04.26,Default,,0000,0000,0000,,Naruto! Do you know which one it is?!
+Dialogue: 0,0:17:04.30,0:17:05.59,Default,,0000,0000,0000,,No, I don’t!
+Dialogue: 0,0:17:07.76,0:17:10.35,Default,,0000,0000,0000,,I am 596-03.
+Dialogue: 0,0:17:10.59,0:17:13.60,Default,,0000,0000,0000,,I know! It’s 596-03!
+Dialogue: 0,0:17:15.14,0:17:16.43,Default,,0000,0000,0000,,Where is he?!
+Dialogue: 0,0:17:20.30,0:17:21.14,Default,,0000,0000,0000,,Up there!
+Dialogue: 0,0:17:24.18,0:17:28.10,Default,,0000,0000,0000,,Naruto, you hold back the front!\NI’ll rout the rest!
+Dialogue: 0,0:17:28.22,0:17:29.59,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:17:38.30,0:17:40.51,Default,,0000,0000,0000,,I won’t let you go past here!
+Dialogue: 0,0:17:44.35,0:17:46.01,Default,,0000,0000,0000,,In the name of the Delivery Ninja,
+Dialogue: 0,0:17:46.05,0:17:49.59,Default,,0000,0000,0000,,I will not let anyone interfere!
+Dialogue: 0,0:17:49.59,0:17:51.05,Default,,0000,0000,0000,,You’re an impressive old man…
+Dialogue: 0,0:17:51.59,0:17:54.14,Default,,0000,0000,0000,,I too, in the name of the Leaf Ninja,
+Dialogue: 0,0:17:54.18,0:17:56.59,Default,,0000,0000,0000,,will take away the manuscript\Nwith a Jutsu!
+Dialogue: 0,0:17:57.59,0:17:58.59,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:17:58.93,0:18:01.59,Default,,0000,0000,0000,,Harem Jutsu! Riverside Mad Dance!
+Dialogue: 0,0:18:04.47,0:18:07.14,Default,,0000,0000,0000,,Mis-ter De-li-very Nin-ja.
+Dialogue: 0,0:18:20.55,0:18:24.18,Default,,0000,0000,0000,,No, no! This isn’t the time to be\Ndoing something like this.
+Dialogue: 0,0:18:24.68,0:18:27.05,Default,,0000,0000,0000,,Now, to get cracking with my delivery.
+Dialogue: 0,0:18:33.80,0:18:35.43,Default,,0000,0000,0000,,Deliver…
+Dialogue: 0,0:18:36.26,0:18:38.01,Default,,0000,0000,0000,,I will deliver.
+Dialogue: 0,0:18:38.85,0:18:43.89,Default,,0000,0000,0000,,Hey, where are you going?\NPlay with me.
+Dialogue: 0,0:18:44.59,0:18:47.76,Default,,0000,0000,0000,,No, no! Not that way.
+Dialogue: 0,0:18:49.22,0:18:50.59,Default,,0000,0000,0000,,I’ll do my best!
+Dialogue: 0,0:18:51.43,0:18:53.80,Default,,0000,0000,0000,,Guys! Give me a hand!
+Dialogue: 0,0:18:53.89,0:18:55.43,Default,,0000,0000,0000,,– Right! Yeah. 					– Okay!
+Dialogue: 0,0:19:14.30,0:19:17.22,Default,,0000,0000,0000,,P-P-Postal delivery.
+Dialogue: 0,0:19:17.76,0:19:19.51,Default,,0000,0000,0000,,Okay, good work.
+Dialogue: 0,0:19:31.01,0:19:34.60,Default,,0000,0000,0000,,This guy’s iron will is the real deal…
+Dialogue: 0,0:19:41.93,0:19:43.14,Default,,0000,0000,0000,,We’re too late, huh…?
+Dialogue: 0,0:19:43.60,0:19:45.39,Default,,0000,0000,0000,,Is war going to start?!
+Dialogue: 0,0:19:52.59,0:19:53.59,Default,,0000,0000,0000,,Th-This is--!
+Dialogue: 0,0:19:54.51,0:19:57.43,Default,,0000,0000,0000,,It’s a manuscript of the latest issue\Nof the Make-Out series!
+Dialogue: 0,0:20:00.18,0:20:02.22,Default,,0000,0000,0000,,That Land of Claws feudal lord…!
+Dialogue: 0,0:20:02.26,0:20:07.01,Default,,0000,0000,0000,,To think he’d know I was a big fan\Nof the Make-Out series!
+Dialogue: 0,0:20:07.72,0:20:08.64,Default,,0000,0000,0000,,Everyone!
+Dialogue: 0,0:20:09.01,0:20:10.35,Default,,0000,0000,0000,,Stop the fighting!
+Dialogue: 0,0:20:10.68,0:20:12.97,Default,,0000,0000,0000,,Send a messenger to\Nthe Land of Claws!
+Dialogue: 0,0:20:15.72,0:20:17.60,Default,,0000,0000,0000,,Don’t let anybody in…
+Dialogue: 0,0:20:18.22,0:20:21.85,Default,,0000,0000,0000,,I kind of don’t really get it, but…\Nwith this, there’ll be no war?
+Dialogue: 0,0:20:22.18,0:20:23.80,Default,,0000,0000,0000,,No war is fine…
+Dialogue: 0,0:20:24.43,0:20:29.10,Default,,0000,0000,0000,,But does this mean my writing power\Nis the same as Naruto’s scribbling…?!
+Dialogue: 0,0:20:36.51,0:20:37.59,Default,,0000,0000,0000,,Now then!
+Dialogue: 0,0:20:37.80,0:20:40.80,Default,,0000,0000,0000,,Today’s the day the Akatsuki Organization\Nguy comes!
+Dialogue: 0,0:20:41.30,0:20:44.35,Default,,0000,0000,0000,,We’ll capture him no matter what\Nand get information about Sasuke…
+Dialogue: 0,0:20:44.76,0:20:46.01,Default,,0000,0000,0000,,Pervy Sage?
+Dialogue: 0,0:20:49.55,0:20:53.59,Default,,0000,0000,0000,,Sorry, Naruto. There was a development\Nwhile you were sleeping.
+Dialogue: 0,0:20:53.59,0:20:56.18,Default,,0000,0000,0000,,I will pursue\Nthe Akatsuki Organization as is.
+Dialogue: 0,0:21:00.18,0:21:01.93,Default,,0000,0000,0000,,I’ve been had!
+Dialogue: 0,0:21:09.18,0:21:13.47,Default,,0000,0000,0000,,Well… I suppose it made for\Nsome good training…
+Dialogue: 0,0:21:31.93,0:21:34.47,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:34.85,0:21:38.22,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:38.39,0:21:40.72,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:41.39,0:21:43.72,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:44.72,0:21:47.80,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:47.89,0:21:50.51,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:51.18,0:21:53.60,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:54.26,0:21:55.59,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:58.59,0:22:02.59,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:05.01,0:22:09.01,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:10.59,0:22:13.76,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:13.76,0:22:16.85,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:17.01,0:22:19.89,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:19.93,0:22:23.59,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:23.59,0:22:26.59,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:26.60,0:22:29.59,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:29.85,0:22:36.26,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:36.59,0:22:39.59,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:39.59,0:22:42.97,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:51.22,0:22:53.26,Default,,0000,0000,0000,,All right, everyone, follow me.
+Dialogue: 0,0:22:53.30,0:22:53.64,Default,,0000,0000,0000,,Wait.
+Dialogue: 0,0:22:53.68,0:22:55.93,Default,,0000,0000,0000,,We’re heading for\Nthe Village Hidden in Stars
+Dialogue: 0,0:22:55.97,0:22:58.10,Default,,0000,0000,0000,,on a mission to protect\Na mysterious star.
+Dialogue: 0,0:22:58.14,0:22:58.72,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:22:58.76,0:23:00.26,Default,,0000,0000,0000,,Man, I’m getting fired up.
+Dialogue: 0,0:23:00.55,0:23:02.59,Default,,0000,0000,0000,,We all need to work together here.
+Dialogue: 0,0:23:02.59,0:23:05.76,Default,,0000,0000,0000,,Now, let’s all unite and show\Nthe boundless power of the Leaf.
+Dialogue: 0,0:23:05.80,0:23:09.22,Default,,0000,0000,0000,,Hey, don’t be following us like\Nit’s matter of course, Naruto.
+Dialogue: 0,0:23:09.59,0:23:11.59,Default,,0000,0000,0000,,You’re not listed as\Na member for this mission.
+Dialogue: 0,0:23:12.59,0:23:15.55,Default,,0000,0000,0000,,Next time:\N“Encounter! The Boy With a Star's Name”

@@ -1,0 +1,352 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.12,0:00:10.82,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.36,0:00:19.86,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:21.00,0:00:23.13,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.80,0:00:27.54,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.81,0:00:31.48,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.98,0:00:36.15,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.81,0:00:39.82,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.19,0:00:45.59,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.23,0:00:50.15,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:50.15,0:00:51.92,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.92,0:00:54.40,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.83,0:00:57.78,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.78,0:00:59.75,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.75,0:01:02.21,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:04.04,0:01:10.78,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.68,0:01:14.29,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.82,0:01:17.82,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.69,0:01:23.86,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.53,0:01:28.00,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:49.82,0:01:51.32,Default,,0000,0000,0000,,Sasuke here at Point B!
+Dialogue: 0,0:01:51.82,0:01:53.62,Default,,0000,0000,0000,,Sakura here at Point C!
+Dialogue: 0,0:01:56.49,0:01:58.53,Default,,0000,0000,0000,,Naruto here. I'm at Point A!
+Dialogue: 0,0:01:59.06,0:02:00.06,Default,,0000,0000,0000,,You're slow, Naruto!
+Dialogue: 0,0:02:01.23,0:02:02.83,Default,,0000,0000,0000,,Okay, the seventh squad…
+Dialogue: 0,0:02:03.60,0:02:03.90,Default,,0000,0000,0000,,Hm?!
+Dialogue: 0,0:02:05.37,0:02:06.24,Default,,0000,0000,0000,,The target has moved!
+Dialogue: 0,0:02:07.54,0:02:07.94,Default,,0000,0000,0000,,Follow it!
+Dialogue: 0,0:02:14.81,0:02:16.11,Default,,0000,0000,0000,,Alright! It's over there!
+Dialogue: 0,0:02:20.18,0:02:21.49,Default,,0000,0000,0000,,What's your distance\Nfrom the target?
+Dialogue: 0,0:02:22.99,0:02:26.32,Default,,0000,0000,0000,,Five meters!\NI can go at anytime!
+Dialogue: 0,0:02:27.29,0:02:28.39,Default,,0000,0000,0000,,I'm ready, too!
+Dialogue: 0,0:02:29.03,0:02:29.83,Default,,0000,0000,0000,,Me, too…!
+Dialogue: 0,0:02:31.06,0:02:31.83,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:02:34.83,0:02:35.33,Default,,0000,0000,0000,,Do it!
+Dialogue: 0,0:02:36.43,0:02:37.80,Default,,0000,0000,0000,,Uryaaah!
+Dialogue: 0,0:02:38.80,0:02:40.27,Default,,0000,0000,0000,,I got him!
+Dialogue: 0,0:02:41.04,0:02:42.68,Default,,0000,0000,0000,,Does he have the ribbon\Non his right ear…?
+Dialogue: 0,0:02:42.68,0:02:44.41,Default,,0000,0000,0000,,Are you sure it's our target Tora?
+Dialogue: 0,0:02:45.88,0:02:47.75,Default,,0000,0000,0000,,It's the target, no mistake.
+Dialogue: 0,0:02:48.45,0:02:52.82,Default,,0000,0000,0000,,Alright, the mission to capture\Nlost pet "Tora" is complete!
+Dialogue: 0,0:02:53.82,0:02:57.82,Default,,0000,0000,0000,,Isn't there a mission\Nwith a greater sense of urgency?!
+Dialogue: 0,0:02:58.29,0:03:04.33,Default,,0000,0000,0000,,A Dangerous Mission!\NJourney to the Land of Waves!
+Dialogue: 0,0:03:06.36,0:03:12.67,Default,,0000,0000,0000,,Ohhh! My cute Tora!\NI was worried to death!
+Dialogue: 0,0:03:13.54,0:03:17.88,Default,,0000,0000,0000,,The Wife of the Land of Fire's Daimyo\N(Feudal Lord)\N		Madame Shijimi and Tora (the Cat)
+Dialogue: 0,0:03:20.28,0:03:22.81,Default,,0000,0000,0000,,Serves him right, that stupid cat!
+Dialogue: 0,0:03:23.28,0:03:26.15,Default,,0000,0000,0000,,No wonder he ran away…
+Dialogue: 0,0:03:27.25,0:03:27.85,Default,,0000,0000,0000,,…Now, then!
+Dialogue: 0,0:03:28.79,0:03:32.09,Default,,0000,0000,0000,,The next mission for\NKakashi's seventh squad is…
+Dialogue: 0,0:03:34.83,0:03:40.73,Default,,0000,0000,0000,,An errand to the neighboring town…\Nto baby-sit the chief Councilor's boy…
+Dialogue: 0,0:03:40.73,0:03:42.52,Default,,0000,0000,0000,,Helping with digging\Nfor potatoes, eh…
+Dialogue: 0,0:03:42.52,0:03:43.89,Default,,0000,0000,0000,,Nooooo!
+Dialogue: 0,0:03:43.89,0:03:45.90,Default,,0000,0000,0000,,No! No, thank you!
+Dialogue: 0,0:03:46.34,0:03:47.12,Default,,0000,0000,0000,,As for me,
+Dialogue: 0,0:03:47.12,0:03:49.87,Default,,0000,0000,0000,,I want to do like\Na more exciting mission!
+Dialogue: 0,0:03:50.21,0:03:51.38,Default,,0000,0000,0000,,Give us something else!
+Dialogue: 0,0:03:51.81,0:03:52.78,Default,,0000,0000,0000,,He's got a point…
+Dialogue: 0,0:03:53.21,0:03:54.81,Default,,0000,0000,0000,,Man… He's a pain!
+Dialogue: 0,0:03:57.82,0:04:00.32,Default,,0000,0000,0000,,I thought it was about time\Nfor him to get fretful…
+Dialogue: 0,0:04:01.09,0:04:05.02,Default,,0000,0000,0000,,You fool!\NYou're still bottom rookie!
+Dialogue: 0,0:04:05.32,0:04:06.74,Default,,0000,0000,0000,,At the start,
+Dialogue: 0,0:04:06.74,0:04:07.83,Default,,0000,0000,0000,,everyone moves up\Nthe ladder
+Dialogue: 0,0:04:07.83,0:04:09.83,Default,,0000,0000,0000,,by gaining experience\Nfrom simple missions!
+Dialogue: 0,0:04:09.83,0:04:11.53,Default,,0000,0000,0000,,B-But!
+Dialogue: 0,0:04:11.53,0:04:14.07,Default,,0000,0000,0000,,It's been nothing\Nbut blah missions so far!
+Dialogue: 0,0:04:15.83,0:04:17.34,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:04:18.07,0:04:19.07,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:04:20.17,0:04:24.81,Default,,0000,0000,0000,,It's necessary to explain to you\Nwhat a mission is…
+Dialogue: 0,0:04:26.38,0:04:27.11,Default,,0000,0000,0000,,Listen to me!
+Dialogue: 0,0:04:27.81,0:04:31.38,Default,,0000,0000,0000,,Requests pour into the village\Nevery day.
+Dialogue: 0,0:04:32.28,0:04:34.82,Default,,0000,0000,0000,,They range from babysitting\Nto assassinations…
+Dialogue: 0,0:04:36.42,0:04:40.74,Default,,0000,0000,0000,,A wide spectrum of requests are\Nrecorded on the request list…
+Dialogue: 0,0:04:40.74,0:04:46.63,Default,,0000,0000,0000,,They are separated into A, B, C,\Nand D ranks in order of difficulty.
+Dialogue: 0,0:04:47.33,0:04:49.75,Default,,0000,0000,0000,,In the village,\Neveryone below me
+Dialogue: 0,0:04:49.75,0:04:55.37,Default,,0000,0000,0000,,is divided up by ability in the order of\NJonin, Chunin, and Genin.
+Dialogue: 0,0:04:56.77,0:05:00.00,Default,,0000,0000,0000,,We at the highest level distribute\Nthe requests as missions
+Dialogue: 0,0:05:00.00,0:05:03.51,Default,,0000,0000,0000,,to Ninjas who have abilities\Nthat suit said mission.
+Dialogue: 0,0:05:04.02,0:05:10.82,Default,,0000,0000,0000,,And, if the mission is successful,\Nthe fee comes in from the client.
+Dialogue: 0,0:05:11.82,0:05:16.19,Default,,0000,0000,0000,,Nevertheless, you guys\Nhave just become Genin…
+Dialogue: 0,0:05:16.86,0:05:19.26,Default,,0000,0000,0000,,rank D is about\Nthe best you can do…
+Dialogue: 0,0:05:20.40,0:05:20.87,Default,,0000,0000,0000,,Hm?!
+Dialogue: 0,0:05:21.40,0:05:23.80,Default,,0000,0000,0000,,Yesterday's lunch was pork-bone\Nbroth noodles,
+Dialogue: 0,0:05:23.80,0:05:25.18,Default,,0000,0000,0000,,so today will be miso broth…
+Dialogue: 0,0:05:25.18,0:05:26.80,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:05:26.80,0:05:28.74,Default,,0000,0000,0000,,I-I'm sorry.
+Dialogue: 0,0:05:28.74,0:05:33.08,Default,,0000,0000,0000,,Maaaan!\NYou always lecture me, old man!
+Dialogue: 0,0:05:33.74,0:05:39.18,Default,,0000,0000,0000,,But I'm not that little prankster\Nthat you think I am!
+Dialogue: 0,0:05:40.18,0:05:40.79,Default,,0000,0000,0000,,Humph!
+Dialogue: 0,0:05:45.49,0:05:47.59,Default,,0000,0000,0000,,Maaan, I'm going to get scolded later…
+Dialogue: 0,0:05:55.17,0:05:58.87,Default,,0000,0000,0000,,This kid who could only\Nexpress himself with pranks…
+Dialogue: 0,0:06:01.24,0:06:02.83,Default,,0000,0000,0000,,Okay, fine!
+Dialogue: 0,0:06:02.83,0:06:03.41,Default,,0000,0000,0000,,Huh…?!
+Dialogue: 0,0:06:03.94,0:06:06.11,Default,,0000,0000,0000,,If you insist…
+Dialogue: 0,0:06:06.81,0:06:09.08,Default,,0000,0000,0000,,I'll have you do a Rank C mission…
+Dialogue: 0,0:06:10.08,0:06:12.15,Default,,0000,0000,0000,,You'll be bodyguards for someone.
+Dialogue: 0,0:06:12.78,0:06:13.48,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:06:14.19,0:06:14.82,Default,,0000,0000,0000,,Ah-ha!
+Dialogue: 0,0:06:14.82,0:06:16.02,Default,,0000,0000,0000,,Who? Who?
+Dialogue: 0,0:06:16.65,0:06:17.74,Default,,0000,0000,0000,,A feudal lord?!
+Dialogue: 0,0:06:17.74,0:06:19.32,Default,,0000,0000,0000,,Or, a princess?!
+Dialogue: 0,0:06:19.82,0:06:21.23,Default,,0000,0000,0000,,Don't get so hasty.
+Dialogue: 0,0:06:21.83,0:06:23.23,Default,,0000,0000,0000,,I'll introduce you now!
+Dialogue: 0,0:06:24.83,0:06:27.16,Default,,0000,0000,0000,,Could you please come in…?
+Dialogue: 0,0:06:28.27,0:06:28.83,Default,,0000,0000,0000,,Huh…?!
+Dialogue: 0,0:06:36.67,0:06:40.81,Default,,0000,0000,0000,,What's this? It's just a bunch\Nof darned squirts!
+Dialogue: 0,0:06:45.28,0:06:46.08,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:06:51.32,0:06:54.02,Default,,0000,0000,0000,,Particularly you, the smallest one\Nwith the idiot face.
+Dialogue: 0,0:06:54.49,0:06:57.50,Default,,0000,0000,0000,,Are you really a Ninja?
+Dialogue: 0,0:06:59.03,0:07:01.92,Default,,0000,0000,0000,,Who's the smallest one with\Nthe idiot face he's talking about…?
+Dialogue: 0,0:07:01.92,0:07:02.83,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:06.80,0:07:08.13,Default,,0000,0000,0000,,I'll kill him!!
+Dialogue: 0,0:07:08.13,0:07:09.75,Default,,0000,0000,0000,,What good will it do to\Nkill the old man
+Dialogue: 0,0:07:09.75,0:07:11.58,Default,,0000,0000,0000,,you're supposed to be\Nguarding, you moron?!
+Dialogue: 0,0:07:15.25,0:07:19.82,Default,,0000,0000,0000,,I'm Tazuna,\Nveteran bridge builder.
+Dialogue: 0,0:07:20.48,0:07:24.82,Default,,0000,0000,0000,,You'll be risking life and limb\Nin guarding me to the max
+Dialogue: 0,0:07:25.16,0:07:27.83,Default,,0000,0000,0000,,until I return to my land and\Ncomplete my bridge!
+Dialogue: 0,0:07:46.04,0:07:47.65,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:07:47.95,0:07:49.66,Default,,0000,0000,0000,,We're off!!
+Dialogue: 0,0:07:49.66,0:07:52.15,Default,,0000,0000,0000,,What're you so excited about?!
+Dialogue: 0,0:07:52.78,0:07:57.41,Default,,0000,0000,0000,,You see, I've never left\Nthe village before!
+Dialogue: 0,0:07:57.41,0:08:01.69,Default,,0000,0000,0000,,Hey! Am I really okay with this squirt?!
+Dialogue: 0,0:08:03.13,0:08:06.57,Default,,0000,0000,0000,,I'm a Jonin. I'll be watching him.\NThere's no need to worry.
+Dialogue: 0,0:08:06.57,0:08:10.00,Default,,0000,0000,0000,,...okay with this squirt?!
+Dialogue: 0,0:08:10.80,0:08:13.21,Default,,0000,0000,0000,,Anyone but this old dude, man…
+Dialogue: 0,0:08:13.21,0:08:14.77,Default,,0000,0000,0000,,He's really the worst client!
+Dialogue: 0,0:08:14.77,0:08:16.57,Default,,0000,0000,0000,,I'll tell him a thing or two…
+Dialogue: 0,0:08:17.44,0:08:18.75,Default,,0000,0000,0000,,Hey, old man!
+Dialogue: 0,0:08:18.75,0:08:20.81,Default,,0000,0000,0000,,Don't be mocking Ninjas\Nso much!
+Dialogue: 0,0:08:20.81,0:08:22.80,Default,,0000,0000,0000,,I'm awesome, you see!
+Dialogue: 0,0:08:22.80,0:08:26.15,Default,,0000,0000,0000,,I'm a super-elite Ninja who\Nwill be called Hokage one day!
+Dialogue: 0,0:08:26.65,0:08:28.92,Default,,0000,0000,0000,,My name's Naruto Uzumaki.
+Dialogue: 0,0:08:29.45,0:08:30.62,Default,,0000,0000,0000,,Remember it well!!
+Dialogue: 0,0:08:35.99,0:08:40.16,Default,,0000,0000,0000,,The Hokage's the super top-dog\NNinja in the village, right?
+Dialogue: 0,0:08:40.83,0:08:43.93,Default,,0000,0000,0000,,You sure as heck don't seem like\Nyou could become the Hokage…
+Dialogue: 0,0:08:44.74,0:08:46.61,Default,,0000,0000,0000,,Aaah! Shut up!
+Dialogue: 0,0:08:46.61,0:08:50.77,Default,,0000,0000,0000,,I'm prepared to do whatever\Nit takes to become the Hokage!
+Dialogue: 0,0:08:50.77,0:08:55.45,Default,,0000,0000,0000,,You'll have no choice\Nbut to acknowledge me then!!
+Dialogue: 0,0:08:56.91,0:08:59.62,Default,,0000,0000,0000,,I'll never acknowledge you, squirt…
+Dialogue: 0,0:08:59.95,0:09:02.35,Default,,0000,0000,0000,,Even if you become the Hokage!
+Dialogue: 0,0:09:02.35,0:09:04.85,Default,,0000,0000,0000,,What?! I'll kill you!
+Dialogue: 0,0:09:04.85,0:09:06.93,Default,,0000,0000,0000,,I told you to stop it, you moron!
+Dialogue: 0,0:09:06.93,0:09:09.83,Default,,0000,0000,0000,,No! At least let me have\None shot, just one…
+Dialogue: 0,0:09:17.54,0:09:19.50,Default,,0000,0000,0000,,Say…Mr.Tazuna…?
+Dialogue: 0,0:09:19.94,0:09:20.91,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:09:21.81,0:09:24.61,Default,,0000,0000,0000,,Your country is\N "The Land of the Waves,"  right?
+Dialogue: 0,0:09:25.58,0:09:26.91,Default,,0000,0000,0000,,What of it?
+Dialogue: 0,0:09:27.41,0:09:28.91,Default,,0000,0000,0000,,Say, Kakashi Sensei…
+Dialogue: 0,0:09:29.25,0:09:30.92,Default,,0000,0000,0000,,Are there Ninjas in that land, too?
+Dialogue: 0,0:09:31.58,0:09:34.32,Default,,0000,0000,0000,,No, there aren't Ninjas in\Nthe Land of the Waves…
+Dialogue: 0,0:09:34.92,0:09:39.82,Default,,0000,0000,0000,,But in other nations, while cultures\Nand customs are different,
+Dialogue: 0,0:09:40.22,0:09:42.83,Default,,0000,0000,0000,,hidden villages exist,\Nand there are Ninjas there.
+Dialogue: 0,0:09:46.83,0:09:49.20,Default,,0000,0000,0000,,To the many nations on the continent,
+Dialogue: 0,0:09:49.83,0:09:53.70,Default,,0000,0000,0000,,the existence of Shinobi Villages is\Na measure of the nation's military strength.
+Dialogue: 0,0:09:54.77,0:09:55.76,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:09:55.76,0:09:59.61,Default,,0000,0000,0000,,that is how these nations maintain\Ntheir relationships with neighboring nations.
+Dialogue: 0,0:10:00.81,0:10:04.98,Default,,0000,0000,0000,,Even so, the villages are not\Nunder the control of the nations.
+Dialogue: 0,0:10:05.45,0:10:07.79,Default,,0000,0000,0000,,They are equal in rank.
+Dialogue: 0,0:10:09.42,0:10:11.83,Default,,0000,0000,0000,,On a small island like\Nthe Land of the Waves,
+Dialogue: 0,0:10:11.83,0:10:13.82,Default,,0000,0000,0000,,where it is difficult to be\Ninfluenced by other nations,
+Dialogue: 0,0:10:14.29,0:10:16.69,Default,,0000,0000,0000,,there is no need\Nfor a Shinobi village.
+Dialogue: 0,0:10:20.00,0:10:22.90,Default,,0000,0000,0000,,Among the respective nations\Nthat possess a Shinobi Village,
+Dialogue: 0,0:10:22.90,0:10:29.41,Default,,0000,0000,0000,,the five nations of "Fire," "Water,"\N"Lightning," "Wind," and "Earth,"
+Dialogue: 0,0:10:29.97,0:10:32.84,Default,,0000,0000,0000,,due to their large territory and\Nimmeasurable power,
+Dialogue: 0,0:10:32.84,0:10:34.78,Default,,0000,0000,0000,,are called the "Five Great Nations."
+Dialogue: 0,0:10:37.18,0:10:39.25,Default,,0000,0000,0000,,The Village Hidden in the Leaves\Nof the Land of Fire,
+Dialogue: 0,0:10:40.18,0:10:42.35,Default,,0000,0000,0000,,the Village Hidden in the Mist\Nof the Land of Water,
+Dialogue: 0,0:10:42.92,0:10:45.19,Default,,0000,0000,0000,,the Village Hidden in the Clouds\Nof the Land of Lightning,
+Dialogue: 0,0:10:45.82,0:10:47.96,Default,,0000,0000,0000,,the Village Hidden in the Sand\Nof the Land of Wind,
+Dialogue: 0,0:10:48.89,0:10:51.33,Default,,0000,0000,0000,,the Village Hidden in the Rocks\Nof the Land of Earth.
+Dialogue: 0,0:10:52.06,0:10:54.21,Default,,0000,0000,0000,,Only the leaders of\Neach of these Hidden Villages
+Dialogue: 0,0:10:54.21,0:10:56.63,Default,,0000,0000,0000,,are allowed to have\Nthe name of Kage, the Shadow.
+Dialogue: 0,0:10:58.60,0:11:00.01,Default,,0000,0000,0000,,The "Hokage"\N(Fire shadow),"
+Dialogue: 0,0:11:00.01,0:11:01.42,Default,,0000,0000,0000,,"Mizukage" 					(Water Shadow),
+Dialogue: 0,0:11:01.42,0:11:02.58,Default,,0000,0000,0000,,"Raikage"\N(Lightning Shadow),
+Dialogue: 0,0:11:02.58,0:11:03.78,Default,,0000,0000,0000,,"Kazekage" 					(Wind Shadow),
+Dialogue: 0,0:11:03.78,0:11:04.85,Default,,0000,0000,0000,,"Tsuchikage"\N(Earth Shadow),
+Dialogue: 0,0:11:04.85,0:11:06.81,Default,,0000,0000,0000,,the so-called\NFive Kage (shadows),
+Dialogue: 0,0:11:06.81,0:11:10.29,Default,,0000,0000,0000,,reign supreme over\Nthe tens of thousands of Ninjas
+Dialogue: 0,0:11:10.29,0:11:11.88,Default,,0000,0000,0000,,in each nation\Nof the whole world.
+Dialogue: 0,0:11:12.42,0:11:15.49,Default,,0000,0000,0000,,No kidding…\NLord Hokage is that incredible!
+Dialogue: 0,0:11:16.82,0:11:19.89,Default,,0000,0000,0000,,I wonder if that blah old man\Nis really that incredible…
+Dialogue: 0,0:11:19.89,0:11:21.79,Default,,0000,0000,0000,,Sounds fishy!
+Dialogue: 0,0:11:26.00,0:11:28.53,Default,,0000,0000,0000,,That can't be true! No way!
+Dialogue: 0,0:11:28.83,0:11:29.43,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:11:32.04,0:11:35.07,Default,,0000,0000,0000,,You guys just doubted\NLord Hokage now, didn't you…?
+Dialogue: 0,0:11:39.78,0:11:41.75,Default,,0000,0000,0000,,Well…don't worry.
+Dialogue: 0,0:11:42.51,0:11:45.95,Default,,0000,0000,0000,,There are no Ninja battles\Nin Rank C missions.
+Dialogue: 0,0:11:46.78,0:11:50.82,Default,,0000,0000,0000,,Then, there's no worry of getting\Ninto a scrape with foreign Ninjas…!
+Dialogue: 0,0:11:51.12,0:11:51.82,Default,,0000,0000,0000,,Of course, not.
+Dialogue: 0,0:12:45.24,0:12:45.84,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:46.14,0:12:46.79,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:46.79,0:12:48.11,Default,,0000,0000,0000,,W-What?
+Dialogue: 0,0:12:48.65,0:12:49.75,Default,,0000,0000,0000,,The first one!
+Dialogue: 0,0:13:00.62,0:13:02.83,Default,,0000,0000,0000,,K-Kakashi Sensei!
+Dialogue: 0,0:13:05.40,0:13:06.83,Default,,0000,0000,0000,,The second one…
+Dialogue: 0,0:13:10.40,0:13:11.37,Default,,0000,0000,0000,,The second one…
+Dialogue: 0,0:13:18.81,0:13:19.81,Default,,0000,0000,0000,,Ohhh…!
+Dialogue: 0,0:13:28.25,0:13:28.82,Default,,0000,0000,0000,,Hm?!
+Dialogue: 0,0:13:33.82,0:13:34.86,Default,,0000,0000,0000,,It doesn't come off!
+Dialogue: 0,0:13:43.50,0:13:44.17,Default,,0000,0000,0000,,W…Wow!!
+Dialogue: 0,0:13:51.61,0:13:52.14,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:13:52.74,0:13:53.04,Default,,0000,0000,0000,,Ugh!!
+Dialogue: 0,0:13:53.58,0:13:54.44,Default,,0000,0000,0000,,They'll come!
+Dialogue: 0,0:13:54.88,0:13:56.81,Default,,0000,0000,0000,,I have to do it…\NI have to!!
+Dialogue: 0,0:13:57.45,0:13:58.78,Default,,0000,0000,0000,,Get back, sir!!
+Dialogue: 0,0:14:25.21,0:14:25.81,Default,,0000,0000,0000,,Yo…
+Dialogue: 0,0:14:26.48,0:14:29.15,Default,,0000,0000,0000,,Kakashi Sensei…! He's alive!
+Dialogue: 0,0:14:29.71,0:14:31.48,Default,,0000,0000,0000,,Humph! 					Show off…
+Dialogue: 0,0:14:33.95,0:14:34.96,Default,,0000,0000,0000,,Whaa--?!
+Dialogue: 0,0:14:34.96,0:14:36.32,Default,,0000,0000,0000,,Then, what was that…?
+Dialogue: 0,0:14:38.92,0:14:42.16,Default,,0000,0000,0000,,So Kakashi Sensei…used Substitutions…
+Dialogue: 0,0:14:45.13,0:14:49.07,Default,,0000,0000,0000,,Naruto…\NSorry I didn't help you right away…
+Dialogue: 0,0:14:49.90,0:14:51.03,Default,,0000,0000,0000,,I got you hurt.
+Dialogue: 0,0:14:52.80,0:14:56.61,Default,,0000,0000,0000,,I didn't think you'd be\Nincapable of moving…
+Dialogue: 0,0:14:58.81,0:15:00.81,Default,,0000,0000,0000,,I was saved, somehow…
+Dialogue: 0,0:15:04.82,0:15:06.95,Default,,0000,0000,0000,,Anyhow, let me just say,\Ngood job, Sasuke.
+Dialogue: 0,0:15:07.58,0:15:08.52,Default,,0000,0000,0000,,You, too, Sakura.
+Dialogue: 0,0:15:10.82,0:15:13.82,Default,,0000,0000,0000,,I…couldn't do anything…
+Dialogue: 0,0:15:14.83,0:15:16.19,Default,,0000,0000,0000,,but Sasuke…
+Dialogue: 0,0:15:16.59,0:15:18.23,Default,,0000,0000,0000,,It was his first real battle…
+Dialogue: 0,0:15:18.86,0:15:21.23,Default,,0000,0000,0000,,Didn't he feel scared, at all?
+Dialogue: 0,0:15:21.67,0:15:26.80,Default,,0000,0000,0000,,He saved me like it was nothing and\Nwithout getting any dirt on his clothes…
+Dialogue: 0,0:15:28.81,0:15:29.37,Default,,0000,0000,0000,,Hey…
+Dialogue: 0,0:15:29.81,0:15:30.34,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:15:31.21,0:15:32.81,Default,,0000,0000,0000,,Are you hurt…
+Dialogue: 0,0:15:34.31,0:15:35.41,Default,,0000,0000,0000,,scaredy cat...?
+Dialogue: 0,0:15:39.68,0:15:40.47,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:15:40.47,0:15:40.82,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:42.79,0:15:44.82,Default,,0000,0000,0000,,These guys have poison\Non their claws.
+Dialogue: 0,0:15:45.82,0:15:48.74,Default,,0000,0000,0000,,You need to\Ntake out the poison quickly.
+Dialogue: 0,0:15:48.74,0:15:49.19,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:50.53,0:15:53.80,Default,,0000,0000,0000,,You have to open the wound and\Ndrain the poisoned blood.
+Dialogue: 0,0:15:53.80,0:15:55.23,Default,,0000,0000,0000,,Don't move so much.
+Dialogue: 0,0:15:55.23,0:15:56.70,Default,,0000,0000,0000,,The poison will spread.
+Dialogue: 0,0:15:57.80,0:15:59.16,Default,,0000,0000,0000,,By the way, Mr. Tazuna…
+Dialogue: 0,0:15:59.16,0:16:01.27,Default,,0000,0000,0000,,W-What is it…?!
+Dialogue: 0,0:16:02.94,0:16:04.81,Default,,0000,0000,0000,,I have something\Nto talk to you about.
+Dialogue: 0,0:16:08.08,0:16:10.75,Default,,0000,0000,0000,,Chunin from the\NVillage Hidden in the Mist…
+Dialogue: 0,0:16:11.45,0:16:13.82,Default,,0000,0000,0000,,These guys are Ninjas known for\Ncontinuing to fight
+Dialogue: 0,0:16:13.82,0:16:15.95,Default,,0000,0000,0000,,no matter what the sacrifice.
+Dialogue: 0,0:16:17.69,0:16:19.86,Default,,0000,0000,0000,,How were you able\Nto detect our movements?
+Dialogue: 0,0:16:21.12,0:16:23.19,Default,,0000,0000,0000,,There probably wouldn't be\N puddles of water
+Dialogue: 0,0:16:23.83,0:16:27.83,Default,,0000,0000,0000,,on a clear day like today,\Nwhen it hasn't rained for days.
+Dialogue: 0,0:16:28.83,0:16:32.44,Default,,0000,0000,0000,,Knowing that, why'd you leave it\Nto the kids to fight?
+Dialogue: 0,0:16:33.34,0:16:37.24,Default,,0000,0000,0000,,If I felt like it,\NI could kill these guys instantly…
+Dialogue: 0,0:16:37.94,0:16:42.28,Default,,0000,0000,0000,,But… 					I had to know...
+Dialogue: 0,0:16:43.81,0:16:47.02,Default,,0000,0000,0000,,who the target\Nof these enemies was…
+Dialogue: 0,0:16:47.68,0:16:49.95,Default,,0000,0000,0000,,Hm?! What do you mean?
+Dialogue: 0,0:16:51.02,0:16:51.92,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:16:51.92,0:16:54.83,Default,,0000,0000,0000,,what I mean is I had to know\Nif it was you,
+Dialogue: 0,0:16:55.53,0:17:01.03,Default,,0000,0000,0000,,or one of us Shinobi…\Nwho was being targeted.
+Dialogue: 0,0:17:02.37,0:17:06.84,Default,,0000,0000,0000,,We haven't heard anything about\Nyou being targeted by Ninjas.
+Dialogue: 0,0:17:07.80,0:17:10.82,Default,,0000,0000,0000,,The content of the request was\Nsupposed to just be
+Dialogue: 0,0:17:10.82,0:17:13.88,Default,,0000,0000,0000,,protection from gangs,\Nthieves, and the like…
+Dialogue: 0,0:17:14.81,0:17:17.81,Default,,0000,0000,0000,,This is a mission with\Na B rank or higher.
+Dialogue: 0,0:17:19.48,0:17:20.70,Default,,0000,0000,0000,,The request was supposed to be
+Dialogue: 0,0:17:20.70,0:17:23.79,Default,,0000,0000,0000,,for backup protection\Nuntil you finished building your bridge…
+Dialogue: 0,0:17:25.69,0:17:27.70,Default,,0000,0000,0000,,If our enemies were to be Ninjas,
+Dialogue: 0,0:17:27.70,0:17:29.83,Default,,0000,0000,0000,,the mission would've been\Nestimated without question
+Dialogue: 0,0:17:29.83,0:17:31.83,Default,,0000,0000,0000,,as an expensive\N "B Rank"  mission.
+Dialogue: 0,0:17:33.16,0:17:35.17,Default,,0000,0000,0000,,It appears there's some kind\Nof good reason for this,
+Dialogue: 0,0:17:35.77,0:17:38.20,Default,,0000,0000,0000,,but being lied to in the request\Nwon't do.
+Dialogue: 0,0:17:38.77,0:17:42.54,Default,,0000,0000,0000,,This is beyond the scope\Nof our mission.
+Dialogue: 0,0:17:43.71,0:17:46.54,Default,,0000,0000,0000,,This mission is too soon for us…
+Dialogue: 0,0:17:47.21,0:17:48.25,Default,,0000,0000,0000,,Let's give it up!
+Dialogue: 0,0:17:49.45,0:17:51.46,Default,,0000,0000,0000,,We need an anesthetic to\Nopen Naruto's wound
+Dialogue: 0,0:17:51.46,0:17:53.82,Default,,0000,0000,0000,,and get out the poisoned blood…
+Dialogue: 0,0:17:54.48,0:17:56.82,Default,,0000,0000,0000,,We have to return to the village\Nand take him to a doctor…
+Dialogue: 0,0:17:57.82,0:17:58.82,Default,,0000,0000,0000,,Hmmm…
+Dialogue: 0,0:18:01.19,0:18:02.19,Default,,0000,0000,0000,,Hm? What...?!
+Dialogue: 0,0:18:05.16,0:18:06.83,Default,,0000,0000,0000,,This sure is a burden!
+Dialogue: 0,0:18:07.40,0:18:10.77,Default,,0000,0000,0000,,Since we need to treat Naruto's wound,\Nshall we go back to the village…?
+Dialogue: 0,0:18:19.64,0:18:20.06,Default,,0000,0000,0000,,Huh!
+Dialogue: 0,0:18:20.06,0:18:20.74,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:18:28.75,0:18:30.52,Default,,0000,0000,0000,,Why am I so different?!
+Dialogue: 0,0:18:30.85,0:18:34.83,Default,,0000,0000,0000,,Why's it always me…\NDarn it!
+Dialogue: 0,0:18:34.83,0:18:37.53,Default,,0000,0000,0000,,Naruto! What're you doing?!
+Dialogue: 0,0:18:39.23,0:18:41.93,Default,,0000,0000,0000,,I should be getting stronger…
+Dialogue: 0,0:18:42.83,0:18:44.80,Default,,0000,0000,0000,,Here I'm steadily carrying\Nout missions and
+Dialogue: 0,0:18:44.80,0:18:47.50,Default,,0000,0000,0000,,doing special-skill training\Nby myself every day…
+Dialogue: 0,0:18:51.21,0:18:55.78,Default,,0000,0000,0000,,I'll never get into another situation\Nfrom which I'll have to be rescued.
+Dialogue: 0,0:18:57.21,0:18:59.95,Default,,0000,0000,0000,,I'll never be afraid\Nor a be a coward…
+Dialogue: 0,0:19:01.45,0:19:03.49,Default,,0000,0000,0000,,I won't lose to Sasuke…
+Dialogue: 0,0:19:05.49,0:19:08.83,Default,,0000,0000,0000,,I'm going to swear on\Nthe pain of my left hand!
+Dialogue: 0,0:19:11.03,0:19:14.36,Default,,0000,0000,0000,,I'll protect you, old man…\Nwith this Kunai knife!!
+Dialogue: 0,0:19:21.54,0:19:23.17,Default,,0000,0000,0000,,The mission continues!!
+Dialogue: 0,0:19:23.84,0:19:24.81,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:19:25.24,0:19:27.99,Default,,0000,0000,0000,,It's all well and good to\Nrid yourself of the poisoned blood,
+Dialogue: 0,0:19:27.99,0:19:30.81,Default,,0000,0000,0000,,but any more than that and\Nyou'll bleed to death.
+Dialogue: 0,0:19:40.42,0:19:43.05,Default,,0000,0000,0000,,Things will get hairy if you don't\Nstop the bleeding quick... Seriously!
+Dialogue: 0,0:19:43.05,0:19:43.83,Default,,0000,0000,0000,,Yikes!
+Dialogue: 0,0:19:44.53,0:19:46.84,Default,,0000,0000,0000,,Argh! No! No!
+Dialogue: 0,0:19:46.84,0:19:49.35,Default,,0000,0000,0000,,I can't die like this, I say!
+Dialogue: 0,0:19:49.35,0:19:51.05,Default,,0000,0000,0000,,Show me your hand.
+Dialogue: 0,0:19:51.05,0:19:53.75,Default,,0000,0000,0000,,Nooo! Help me!!
+Dialogue: 0,0:19:53.75,0:19:54.82,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:19:54.82,0:19:57.24,Default,,0000,0000,0000,,You're really self-abusive,\Naren't you!
+Dialogue: 0,0:19:57.84,0:19:59.24,Default,,0000,0000,0000,,That's masochistic!
+Dialogue: 0,0:20:06.28,0:20:07.62,Default,,0000,0000,0000,,The wound is…
+Dialogue: 0,0:20:08.52,0:20:09.65,Default,,0000,0000,0000,,already starting to heal…
+Dialogue: 0,0:20:14.02,0:20:15.46,Default,,0000,0000,0000,,Um…um…
+Dialogue: 0,0:20:16.59,0:20:20.96,Default,,0000,0000,0000,,Am I okay?\NYou look awfully serious…
+Dialogue: 0,0:20:22.37,0:20:24.17,Default,,0000,0000,0000,,Well…You should be okay.
+Dialogue: 0,0:20:26.04,0:20:28.81,Default,,0000,0000,0000,,Is it…the power of\Nthe Nine-Tailed Fox…?
+Dialogue: 0,0:20:37.81,0:20:39.82,Default,,0000,0000,0000,,Did you say you failed?!
+Dialogue: 0,0:20:40.48,0:20:43.80,Default,,0000,0000,0000,,I paid a lot of money to hire\Nyou guys
+Dialogue: 0,0:20:43.80,0:20:46.59,Default,,0000,0000,0000,,because you said\Nyou were once hot-shot Ninjas!
+Dialogue: 0,0:20:47.59,0:20:49.99,Default,,0000,0000,0000,,Stop your darned grumbling…!!
+Dialogue: 0,0:20:53.83,0:21:00.50,Default,,0000,0000,0000,,Next time, I'll kill him with this…\Nhead chopper!
+Dialogue: 0,0:21:02.81,0:21:05.08,Default,,0000,0000,0000,,I-It's really okay, right?!
+Dialogue: 0,0:21:05.81,0:21:09.00,Default,,0000,0000,0000,,It seems that the enemy\Nhas hired good Ninjas…
+Dialogue: 0,0:21:09.00,0:21:13.82,Default,,0000,0000,0000,,On top of that, a tightened guard\Non account of the Demon Brothers' failure
+Dialogue: 0,0:21:13.82,0:21:15.71,Default,,0000,0000,0000,,means that it won't be easy…
+Dialogue: 0,0:21:15.71,0:21:18.59,Default,,0000,0000,0000,,Just who do you think I am?!
+Dialogue: 0,0:21:22.83,0:21:26.26,Default,,0000,0000,0000,,This Zabuza Momochi,\Nwho is called the demon of…
+Dialogue: 0,0:21:26.76,0:21:28.83,Default,,0000,0000,0000,,the Hidden Mist!!
+Dialogue: 0,0:23:06.46,0:23:08.79,Default,,0000,0000,0000,,We've finally landed ashore\Nin the Land of the Waves.
+Dialogue: 0,0:23:08.79,0:23:10.09,Default,,0000,0000,0000,,The guys before were\Nall well and good,
+Dialogue: 0,0:23:10.09,0:23:12.73,Default,,0000,0000,0000,,but there should be even\Nstronger guys lying in wait.
+Dialogue: 0,0:23:12.73,0:23:15.78,Default,,0000,0000,0000,,Okay! I'm going to regain\Nmy honor and continue the mission.
+Dialogue: 0,0:23:15.78,0:23:17.25,Default,,0000,0000,0000,,No matter what enemy comes,
+Dialogue: 0,0:23:17.25,0:23:19.50,Default,,0000,0000,0000,,I'll protect the old man\Nthis time around for sure.
+Dialogue: 0,0:23:19.50,0:23:21.83,Default,,0000,0000,0000,,Oh, they wasted no time.
+Dialogue: 0,0:23:21.83,0:23:24.75,Default,,0000,0000,0000,,An impressive-looking guy with\Na huge Katana has come.
+Dialogue: 0,0:23:25.65,0:23:27.32,Default,,0000,0000,0000,,Next episode:\N "The Assassin of the Mist!"
+Dialogue: 0,0:23:27.62,0:23:30.42,Default,,0000,0000,0000,,I'm going to kick butt once again!

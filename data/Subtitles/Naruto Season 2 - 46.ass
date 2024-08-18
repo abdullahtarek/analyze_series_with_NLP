@@ -1,0 +1,343 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.52,0:00:09.22,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.29,0:00:13.16,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.19,0:00:17.23,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.53,0:00:20.03,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.06,0:00:24.10,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.14,0:00:28.24,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.54,0:00:34.48,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.08,0:00:38.08,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.52,0:00:42.52,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.35,0:00:44.52,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.89,0:00:47.53,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.47,0:01:00.97,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.07,0:01:02.44,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.47,0:01:06.28,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.51,0:01:11.68,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:11.98,0:01:13.38,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.45,0:01:14.79,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.82,0:01:21.19,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:50.52,0:01:52.29,Default,,0000,0000,0000,,I’m going to be Hokage!
+Dialogue: 0,0:01:53.42,0:01:56.73,Default,,0000,0000,0000,,I won’t lose here!
+Dialogue: 0,0:01:57.03,0:02:01.13,Default,,0000,0000,0000,,Whatever! You can’t keep up\Nwith my speed at all!
+Dialogue: 0,0:02:03.40,0:02:04.10,Default,,0000,0000,0000,,U-!
+Dialogue: 0,0:02:08.07,0:02:09.61,Default,,0000,0000,0000,,Zu-! Ma-! Ki-!
+Dialogue: 0,0:02:14.71,0:02:16.38,Default,,0000,0000,0000,,Naruto Barrage!
+Dialogue: 0,0:02:35.83,0:02:38.07,Default,,0000,0000,0000,,The winner is Naruto Uzumaki.
+Dialogue: 0,0:02:40.51,0:02:44.14,Default,,0000,0000,0000,,I’m…getting stronger!
+Dialogue: 0,0:02:44.98,0:02:47.28,Default,,0000,0000,0000,,Ohhhh!
+Dialogue: 0,0:02:47.51,0:02:48.68,Default,,0000,0000,0000,,Cha!
+Dialogue: 0,0:02:48.91,0:02:51.72,Default,,0000,0000,0000,,Nice one! You did it!
+Dialogue: 0,0:02:52.52,0:02:55.29,Default,,0000,0000,0000,,T-That Naruto beat Kiba!
+Dialogue: 0,0:02:55.89,0:02:57.62,Default,,0000,0000,0000,,It’s a major upset…
+Dialogue: 0,0:02:57.79,0:02:58.52,Default,,0000,0000,0000,,Yup!
+Dialogue: 0,0:03:00.79,0:03:01.53,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:03:02.59,0:03:08.57,Default,,0000,0000,0000,,Byakugan Battle: Hinata Grows Bold!
+Dialogue: 0,0:03:12.64,0:03:15.51,Default,,0000,0000,0000,,This medicine works really well!
+Dialogue: 0,0:03:17.51,0:03:19.68,Default,,0000,0000,0000,,Here! Do you want to\Nuse it too, Sakura?
+Dialogue: 0,0:03:22.28,0:03:26.48,Default,,0000,0000,0000,,Only your wounds heal\Nwith such speed…Naruto.
+Dialogue: 0,0:03:27.52,0:03:30.86,Default,,0000,0000,0000,,The power of Nine Tail never\Ncease to amaze me.
+Dialogue: 0,0:03:44.97,0:03:46.50,Default,,0000,0000,0000,,U-Umm...
+Dialogue: 0,0:03:55.61,0:03:57.85,Default,,0000,0000,0000,,T-This is…
+Dialogue: 0,0:03:57.88,0:03:58.85,Default,,0000,0000,0000,,ointment for your wound,
+Dialogue: 0,0:03:59.52,0:04:01.52,Default,,0000,0000,0000,,for you Kiba and Akamaru.
+Dialogue: 0,0:04:04.62,0:04:05.79,Default,,0000,0000,0000,,Rather than worrying about others,
+Dialogue: 0,0:04:05.82,0:04:07.86,Default,,0000,0000,0000,,it’s about time you worried\Nabout yourself!
+Dialogue: 0,0:04:08.89,0:04:09.53,Default,,0000,0000,0000,,Kiba…
+Dialogue: 0,0:04:10.56,0:04:11.76,Default,,0000,0000,0000,,There are only 6 people left…
+Dialogue: 0,0:04:12.03,0:04:17.97,Default,,0000,0000,0000,,you, Choji, Neji, Lee, one Sound guy,\Nand the Sand guy.
+Dialogue: 0,0:04:19.50,0:04:21.14,Default,,0000,0000,0000,,Listen, Hinata…
+Dialogue: 0,0:04:23.41,0:04:26.34,Default,,0000,0000,0000,,If you pull that guy from Sand,\Nwithdraw quickly.
+Dialogue: 0,0:04:27.21,0:04:28.65,Default,,0000,0000,0000,,And there’s one more…
+Dialogue: 0,0:04:29.51,0:04:31.18,Default,,0000,0000,0000,,Do the same if you get Neji, too.
+Dialogue: 0,0:04:32.08,0:04:32.95,Default,,0000,0000,0000,,Withdraw quickly…
+Dialogue: 0,0:04:34.52,0:04:35.89,Default,,0000,0000,0000,,That guy will be hard on you.
+Dialogue: 0,0:04:36.89,0:04:38.29,Default,,0000,0000,0000,,He will destroy you.
+Dialogue: 0,0:04:39.42,0:04:42.09,Default,,0000,0000,0000,,Well, let’s announce the next match.
+Dialogue: 0,0:04:42.53,0:04:43.36,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:04:43.53,0:04:44.26,Default,,0000,0000,0000,,– What? 					– Huh?
+Dialogue: 0,0:04:50.50,0:04:51.97,Default,,0000,0000,0000,,Hinata Hyuga vs. Neji Hyuga
+Dialogue: 0,0:04:56.54,0:04:57.41,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:04:58.28,0:05:01.71,Default,,0000,0000,0000,,This is going to be an interesting match…
+Dialogue: 0,0:05:18.53,0:05:21.63,Default,,0000,0000,0000,,I never thought that I would\Nhave a fight with you…
+Dialogue: 0,0:05:22.33,0:05:23.23,Default,,0000,0000,0000,,Lady Hinata.
+Dialogue: 0,0:05:23.90,0:05:24.80,Default,,0000,0000,0000,,Brother Neji…
+Dialogue: 0,0:05:25.44,0:05:26.37,Default,,0000,0000,0000,,Brother?
+Dialogue: 0,0:05:26.60,0:05:27.44,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:27.61,0:05:29.77,Default,,0000,0000,0000,,Those two are siblings?
+Dialogue: 0,0:05:35.51,0:05:36.51,Default,,0000,0000,0000,,They’re descended from
+Dialogue: 0,0:05:36.51,0:05:39.58,Default,,0000,0000,0000,,one of the most honorable\Nold families in the Hidden Leaf…
+Dialogue: 0,0:05:39.85,0:05:41.15,Default,,0000,0000,0000,,The Hyuga Clan.
+Dialogue: 0,0:05:42.05,0:05:44.16,Default,,0000,0000,0000,,But, they’re not siblings.
+Dialogue: 0,0:05:44.52,0:05:46.59,Default,,0000,0000,0000,,Then, how are they related?
+Dialogue: 0,0:05:50.33,0:05:53.53,Default,,0000,0000,0000,,Well, the relation of a head family\Nand branch family…
+Dialogue: 0,0:05:53.53,0:05:55.53,Default,,0000,0000,0000,,That may be an appropriate\Nway to say it.
+Dialogue: 0,0:05:56.53,0:05:57.94,Default,,0000,0000,0000,,Head family and branch family?
+Dialogue: 0,0:05:58.50,0:05:59.20,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:06:00.04,0:06:02.41,Default,,0000,0000,0000,,Hinata is from the head family.
+Dialogue: 0,0:06:02.64,0:06:04.64,Default,,0000,0000,0000,,In other words, a person from\Nthe main household
+Dialogue: 0,0:06:04.91,0:06:08.08,Default,,0000,0000,0000,,and Neji is from a branch family\Nthat is descended from that family.
+Dialogue: 0,0:06:08.51,0:06:11.52,Default,,0000,0000,0000,,In other words,\Nit’s a fight between relatives.
+Dialogue: 0,0:06:11.95,0:06:14.19,Default,,0000,0000,0000,,It must be uneasy for both of them…
+Dialogue: 0,0:06:14.52,0:06:15.12,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:15.79,0:06:16.49,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:06:16.69,0:06:18.32,Default,,0000,0000,0000,,Huh? What is it?
+Dialogue: 0,0:06:19.02,0:06:20.56,Default,,0000,0000,0000,,I’ve heard that from long ago,
+Dialogue: 0,0:06:20.59,0:06:22.69,Default,,0000,0000,0000,,there’ve been various incidents between\Nthe head family and branch family,
+Dialogue: 0,0:06:22.89,0:06:25.66,Default,,0000,0000,0000,,and now their relationship\Nisn’t on very good terms.
+Dialogue: 0,0:06:26.53,0:06:27.53,Default,,0000,0000,0000,,Hmmm.
+Dialogue: 0,0:06:27.90,0:06:28.60,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:06:28.70,0:06:30.53,Default,,0000,0000,0000,,I don’t know the details either.
+Dialogue: 0,0:06:31.04,0:06:31.50,Default,,0000,0000,0000,,Only…
+Dialogue: 0,0:06:32.50,0:06:36.57,Default,,0000,0000,0000,,The so-called distinguished Ninja clans\Nlike Uchiha and Hyuga
+Dialogue: 0,0:06:37.04,0:06:40.01,Default,,0000,0000,0000,,have special techniques and\Nabilities that run in the family.
+Dialogue: 0,0:06:40.64,0:06:43.51,Default,,0000,0000,0000,,It seems that the Hyuga household\Nlaid down rules
+Dialogue: 0,0:06:43.51,0:06:45.68,Default,,0000,0000,0000,,for communicating those techniques…
+Dialogue: 0,0:06:46.62,0:06:49.19,Default,,0000,0000,0000,,It seems that there are many rules\Nthat favor the head family…
+Dialogue: 0,0:06:49.55,0:06:50.52,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:06:51.32,0:06:52.66,Default,,0000,0000,0000,,And there have been\Nvarious incidents
+Dialogue: 0,0:06:52.69,0:06:55.73,Default,,0000,0000,0000,,between the head family and\Nbranch family due to those rules.
+Dialogue: 0,0:06:58.10,0:07:00.83,Default,,0000,0000,0000,,So this is a confrontation billed\Nas a clash of fate…
+Dialogue: 0,0:07:08.91,0:07:10.64,Default,,0000,0000,0000,,Oh, it’s gonna begin.
+Dialogue: 0,0:07:11.81,0:07:14.35,Default,,0000,0000,0000,,Start the battle please!
+Dialogue: 0,0:07:16.98,0:07:19.88,Default,,0000,0000,0000,,Just one thing before we square off\Nagainst each other in the fight…
+Dialogue: 0,0:07:19.95,0:07:22.02,Default,,0000,0000,0000,,I should advise you, Lady Hinata.
+Dialogue: 0,0:07:23.29,0:07:24.19,Default,,0000,0000,0000,,Withdraw!
+Dialogue: 0,0:07:24.86,0:07:26.92,Default,,0000,0000,0000,,You’re not suited to being a Shinobi.
+Dialogue: 0,0:07:30.59,0:07:32.10,Default,,0000,0000,0000,,You’re too nice.
+Dialogue: 0,0:07:33.03,0:07:35.53,Default,,0000,0000,0000,,You wish for harmony and\Navoid conflict,
+Dialogue: 0,0:07:36.20,0:07:38.64,Default,,0000,0000,0000,,you’re open to going with\Nthe thinking of others.
+Dialogue: 0,0:07:40.47,0:07:43.47,Default,,0000,0000,0000,,And, you have no confidence\Nin yourself.
+Dialogue: 0,0:07:44.24,0:07:46.31,Default,,0000,0000,0000,,You’re always feeling inferior…
+Dialogue: 0,0:07:46.78,0:07:49.51,Default,,0000,0000,0000,,You thought it’s a good idea\Nto stay Genin.
+Dialogue: 0,0:07:50.35,0:07:53.82,Default,,0000,0000,0000,,However, you can’t register for\Nthe Chunin test without three members…
+Dialogue: 0,0:07:54.52,0:07:57.62,Default,,0000,0000,0000,,So you couldn’t turn down when Kiba\Nand the other proposed it and,
+Dialogue: 0,0:07:57.82,0:08:01.06,Default,,0000,0000,0000,,the truth is, you entered\Nthe exam reluctantly.
+Dialogue: 0,0:08:01.99,0:08:02.66,Default,,0000,0000,0000,,Is that wrong?!
+Dialogue: 0,0:08:03.03,0:08:04.46,Default,,0000,0000,0000,,T-That’s wrong…
+Dialogue: 0,0:08:04.76,0:08:05.66,Default,,0000,0000,0000,,That’s not true…
+Dialogue: 0,0:08:06.46,0:08:07.20,Default,,0000,0000,0000,,I…
+Dialogue: 0,0:08:07.77,0:08:09.07,Default,,0000,0000,0000,,I only…
+Dialogue: 0,0:08:10.30,0:08:12.04,Default,,0000,0000,0000,,I wanted to change that about myself…
+Dialogue: 0,0:08:12.07,0:08:12.94,Default,,0000,0000,0000,,So I proposed it myself…
+Dialogue: 0,0:08:20.31,0:08:20.98,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:08:31.49,0:08:33.32,Default,,0000,0000,0000,,Stand up, Hanabi!
+Dialogue: 0,0:08:38.26,0:08:40.63,Default,,0000,0000,0000,,From now on, I’ll keep Hinata\Nunder my wing…
+Dialogue: 0,0:08:41.53,0:08:43.80,Default,,0000,0000,0000,,But is that really okay?
+Dialogue: 0,0:08:46.77,0:08:49.44,Default,,0000,0000,0000,,Hinata should be the heir to\Nthe Hyuga clan…
+Dialogue: 0,0:08:50.07,0:08:53.51,Default,,0000,0000,0000,,But, there is always death involved\Nwith the job of Genin.
+Dialogue: 0,0:08:55.15,0:08:56.51,Default,,0000,0000,0000,,Do what you want.
+Dialogue: 0,0:08:58.52,0:09:02.52,Default,,0000,0000,0000,,She’s a failure who’s inferior even to her\Nyounger sister Hanabi, five years her junior.
+Dialogue: 0,0:09:02.55,0:09:04.72,Default,,0000,0000,0000,,We don’t need her here\Nin Hyuga clan…
+Dialogue: 0,0:09:12.53,0:09:14.43,Default,,0000,0000,0000,,Is that all you have to say?
+Dialogue: 0,0:09:15.20,0:09:16.53,Default,,0000,0000,0000,,If so, leave!
+Dialogue: 0,0:09:17.07,0:09:17.97,Default,,0000,0000,0000,,You’re in the way!
+Dialogue: 0,0:09:18.94,0:09:19.50,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:31.58,0:09:34.95,Default,,0000,0000,0000,,Hinata is trying to change\Nherself in her own way.
+Dialogue: 0,0:09:45.76,0:09:46.60,Default,,0000,0000,0000,,Lady Hinata…
+Dialogue: 0,0:09:47.53,0:09:50.07,Default,,0000,0000,0000,,You are a spoiled one of\Nthe head family.
+Dialogue: 0,0:09:51.50,0:09:54.04,Default,,0000,0000,0000,,People can never change!
+Dialogue: 0,0:09:55.97,0:09:57.98,Default,,0000,0000,0000,,A failure will always be a failure…
+Dialogue: 0,0:09:58.51,0:10:01.51,Default,,0000,0000,0000,,That personality and strength\Nwon’t change.
+Dialogue: 0,0:10:06.52,0:10:07.55,Default,,0000,0000,0000,,That guy…
+Dialogue: 0,0:10:13.59,0:10:16.83,Default,,0000,0000,0000,,Since people don’t change,\Ndifferences exist among them…
+Dialogue: 0,0:10:17.23,0:10:20.53,Default,,0000,0000,0000,,and expressions like “elite”\Nand “failure” are born.
+Dialogue: 0,0:10:21.53,0:10:23.23,Default,,0000,0000,0000,,Everyone judges and are judged
+Dialogue: 0,0:10:23.27,0:10:25.50,Default,,0000,0000,0000,,based on the value of their face and\Nbrain, ability and body type,
+Dialogue: 0,0:10:25.50,0:10:28.91,Default,,0000,0000,0000,,good and bad points of\Ntheir personalities.
+Dialogue: 0,0:10:29.67,0:10:32.18,Default,,0000,0000,0000,,People have to suffer and live
+Dialogue: 0,0:10:32.24,0:10:36.28,Default,,0000,0000,0000,,within the means of the\Nelements they cannot change.
+Dialogue: 0,0:10:38.15,0:10:39.52,Default,,0000,0000,0000,,Just like the fact that I’m from a\Nbranch family
+Dialogue: 0,0:10:39.52,0:10:41.95,Default,,0000,0000,0000,,and you’re from the head family,
+Dialogue: 0,0:10:41.99,0:10:43.52,Default,,0000,0000,0000,,these things can’t change.
+Dialogue: 0,0:10:46.19,0:10:49.53,Default,,0000,0000,0000,,I’ve seen everything with\Nthis Byakugan.
+Dialogue: 0,0:10:50.53,0:10:51.46,Default,,0000,0000,0000,,That’s why I understand!
+Dialogue: 0,0:10:52.10,0:10:53.53,Default,,0000,0000,0000,,You’re just talking tough.
+Dialogue: 0,0:10:54.63,0:10:58.44,Default,,0000,0000,0000,,You’re really thinking that you’d\Nlike to run away from this place…
+Dialogue: 0,0:10:59.50,0:11:00.67,Default,,0000,0000,0000,,T-That’s wrong…
+Dialogue: 0,0:11:01.04,0:11:02.37,Default,,0000,0000,0000,,I really…
+Dialogue: 0,0:11:02.67,0:11:03.57,Default,,0000,0000,0000,,Byakugan?
+Dialogue: 0,0:11:04.24,0:11:06.94,Default,,0000,0000,0000,,It’s said that if you trace\Nthe Uchiha Clan’s history,
+Dialogue: 0,0:11:07.08,0:11:09.78,Default,,0000,0000,0000,,the clan’s ability has its source\Nin Hyuga clan.
+Dialogue: 0,0:11:10.95,0:11:15.62,Default,,0000,0000,0000,,The Byakugan is one of the\NHyuga clan’s Kekkei Genkai,
+Dialogue: 0,0:11:16.32,0:11:18.12,Default,,0000,0000,0000,,a Visual Jutsu similar\Nto Sharingan…
+Dialogue: 0,0:11:18.86,0:11:21.99,Default,,0000,0000,0000,,However, with the ability of insight alone…
+Dialogue: 0,0:11:22.06,0:11:24.36,Default,,0000,0000,0000,,it gets the better of Sharingan.
+Dialogue: 0,0:11:36.07,0:11:37.11,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:11:40.44,0:11:43.31,Default,,0000,0000,0000,,Hinata Hyuga vs. Neji Hyuga
+Dialogue: 0,0:12:32.33,0:12:33.93,Default,,0000,0000,0000,,My eyes can’t be deceived.
+Dialogue: 0,0:12:35.53,0:12:36.73,Default,,0000,0000,0000,,Just now from my pressure,
+Dialogue: 0,0:12:37.07,0:12:41.51,Default,,0000,0000,0000,,your line of sight was pushed\Nto the upper left.
+Dialogue: 0,0:12:42.91,0:12:46.24,Default,,0000,0000,0000,,This is the sign that you're recalling\Nyour past experience…
+Dialogue: 0,0:12:46.74,0:12:48.41,Default,,0000,0000,0000,,your bitter past.
+Dialogue: 0,0:12:49.48,0:12:52.95,Default,,0000,0000,0000,,And soon after that, your line of sight\Nmoved to the bottom right…
+Dialogue: 0,0:12:53.85,0:12:58.92,Default,,0000,0000,0000,,This is the sign that you're imagining\Nphysical and mental suffering.
+Dialogue: 0,0:12:59.72,0:13:00.52,Default,,0000,0000,0000,,That means…
+Dialogue: 0,0:13:01.53,0:13:03.39,Default,,0000,0000,0000,,you’re picturing your old self,
+Dialogue: 0,0:13:03.56,0:13:05.26,Default,,0000,0000,0000,,and from all of your experiences\Nup until now,
+Dialogue: 0,0:13:05.46,0:13:07.56,Default,,0000,0000,0000,,you’re imagining the result\Nof this battle…
+Dialogue: 0,0:13:09.07,0:13:11.27,Default,,0000,0000,0000,,The image of you losing!
+Dialogue: 0,0:13:20.51,0:13:23.98,Default,,0000,0000,0000,,Even the act of propping your arms\Nin front of your body…
+Dialogue: 0,0:13:24.98,0:13:26.82,Default,,0000,0000,0000,,It’s a gesture that means
+Dialogue: 0,0:13:27.05,0:13:29.99,Default,,0000,0000,0000,,you want to build a wall\Nbetween us and keep distant.
+Dialogue: 0,0:13:31.52,0:13:32.92,Default,,0000,0000,0000,,And that reflects your mind...
+Dialogue: 0,0:13:32.99,0:13:36.03,Default,,0000,0000,0000,,that you don’t want any more\Nof your deepest feelings to be raided…
+Dialogue: 0,0:13:37.26,0:13:39.93,Default,,0000,0000,0000,,Because everything I’ve said\Nis right on the mark, right?
+Dialogue: 0,0:13:41.87,0:13:42.60,Default,,0000,0000,0000,,Furthermore…
+Dialogue: 0,0:13:48.14,0:13:49.64,Default,,0000,0000,0000,,Laying a finger on your lips,
+Dialogue: 0,0:13:49.77,0:13:53.14,Default,,0000,0000,0000,,that too, is a self-familiarizing act\Nwhich represents a sense of panic.
+Dialogue: 0,0:13:54.51,0:13:56.81,Default,,0000,0000,0000,,It represents a defense instinct--
+Dialogue: 0,0:13:56.85,0:13:59.32,Default,,0000,0000,0000,,you want to alleviate the tension\Nand unease.
+Dialogue: 0,0:14:00.82,0:14:01.55,Default,,0000,0000,0000,,In other words…
+Dialogue: 0,0:14:02.52,0:14:05.36,Default,,0000,0000,0000,,deep in your heart,\Nyou know it’s true, don’t you?
+Dialogue: 0,0:14:07.52,0:14:10.53,Default,,0000,0000,0000,,Changing yourself,\Nis something you absolutely can’t--!
+Dialogue: 0,0:14:10.53,0:14:11.53,Default,,0000,0000,0000,,Sure, she can!
+Dialogue: 0,0:14:20.40,0:14:23.14,Default,,0000,0000,0000,,You don’t have the privilege of\Ndeciding what a person is like, stupid!
+Dialogue: 0,0:14:23.51,0:14:25.51,Default,,0000,0000,0000,,Give it to him, Hinata!
+Dialogue: 0,0:14:29.71,0:14:30.61,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:14:39.52,0:14:40.52,Default,,0000,0000,0000,,Hinata!
+Dialogue: 0,0:14:41.02,0:14:43.06,Default,,0000,0000,0000,,Don’t just take it!\NArgue back!
+Dialogue: 0,0:14:43.39,0:14:45.33,Default,,0000,0000,0000,,I’m getting irritated watching this!
+Dialogue: 0,0:15:01.68,0:15:02.51,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:04.35,0:15:05.82,Default,,0000,0000,0000,,What an annoying guy!
+Dialogue: 0,0:15:12.89,0:15:13.66,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:16.66,0:15:17.53,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:22.60,0:15:23.93,Default,,0000,0000,0000,,The expression of her eyes\Nhas changed…
+Dialogue: 0,0:15:25.50,0:15:26.90,Default,,0000,0000,0000,,So you’re not going to withdraw?
+Dialogue: 0,0:15:27.30,0:15:28.77,Default,,0000,0000,0000,,I ‘m not taking responsibility\Nfor what happens!
+Dialogue: 0,0:15:30.07,0:15:30.84,Default,,0000,0000,0000,,I…
+Dialogue: 0,0:15:33.48,0:15:34.85,Default,,0000,0000,0000,,I won’t run away!
+Dialogue: 0,0:15:35.51,0:15:36.51,Default,,0000,0000,0000,,I don’t…
+Dialogue: 0,0:15:37.01,0:15:39.52,Default,,0000,0000,0000,,I don’t change my words…
+Dialogue: 0,0:15:39.95,0:15:41.52,Default,,0000,0000,0000,,That’s my Way of Ninja!
+Dialogue: 0,0:15:42.95,0:15:44.05,Default,,0000,0000,0000,,...want to run anymore!
+Dialogue: 0,0:15:45.69,0:15:46.62,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:15:57.60,0:15:58.60,Default,,0000,0000,0000,,Brother Neji!
+Dialogue: 0,0:15:59.80,0:16:00.64,Default,,0000,0000,0000,,I challenge you!
+Dialogue: 0,0:16:01.77,0:16:02.51,Default,,0000,0000,0000,,T-That is…
+Dialogue: 0,0:16:13.32,0:16:14.38,Default,,0000,0000,0000,,Fine…
+Dialogue: 0,0:16:19.49,0:16:21.53,Default,,0000,0000,0000,,Of course, the same Hyuga style…
+Dialogue: 0,0:16:22.39,0:16:24.26,Default,,0000,0000,0000,,Her pose is very similar\Nto Neji’s.
+Dialogue: 0,0:16:24.66,0:16:25.66,Default,,0000,0000,0000,,Hyuga style?
+Dialogue: 0,0:16:26.76,0:16:29.53,Default,,0000,0000,0000,,The strongest Taijutsu style\Nin the Village Hidden in the Leaf…
+Dialogue: 0,0:16:29.53,0:16:30.20,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:30.90,0:16:32.30,Default,,0000,0000,0000,,I said it before...
+Dialogue: 0,0:16:33.37,0:16:35.44,Default,,0000,0000,0000,,The man who is most likely
+Dialogue: 0,0:16:35.47,0:16:38.54,Default,,0000,0000,0000,,the strongest Genin of Hidden\NLeaf Village is on my team…
+Dialogue: 0,0:16:39.44,0:16:40.08,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:16:40.64,0:16:42.41,Default,,0000,0000,0000,,That guy, Neji Hyuga.
+Dialogue: 0,0:17:27.82,0:17:30.23,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:17:39.90,0:17:40.50,Default,,0000,0000,0000,,Did it go in?!
+Dialogue: 0,0:17:40.74,0:17:42.61,Default,,0000,0000,0000,,No…it was shallow!
+Dialogue: 0,0:17:42.81,0:17:45.74,Default,,0000,0000,0000,,No. Even a graze works.
+Dialogue: 0,0:17:46.61,0:17:48.31,Default,,0000,0000,0000,,That’s the reason that the Hyuga clan
+Dialogue: 0,0:17:48.35,0:17:50.58,Default,,0000,0000,0000,,is called the Hidden Leaf’s\Ndistinguished family.
+Dialogue: 0,0:17:50.95,0:17:52.72,Default,,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:17:53.28,0:17:57.62,Default,,0000,0000,0000,,The Hyuga has a particular\NTaijutsu passed down through generations.
+Dialogue: 0,0:18:02.29,0:18:04.69,Default,,0000,0000,0000,,It’s not like the kind of Taijutsu that\NLee and I are good at…
+Dialogue: 0,0:18:04.73,0:18:08.27,Default,,0000,0000,0000,,Our way of fighting, Furious Fist,
+Dialogue: 0,0:18:08.33,0:18:12.07,Default,,0000,0000,0000,,is mainly to inflict external damage\Non our enemy,
+Dialogue: 0,0:18:12.10,0:18:14.14,Default,,0000,0000,0000,,like broken bones and surface wounds.
+Dialogue: 0,0:18:15.04,0:18:17.51,Default,,0000,0000,0000,,In contrast, the Hyuga’s Taijutsu\Ninflict damage
+Dialogue: 0,0:18:17.54,0:18:19.94,Default,,0000,0000,0000,,on the Chakra Network through\Nwhich Chakra flow through the body,
+Dialogue: 0,0:18:19.98,0:18:23.91,Default,,0000,0000,0000,,and damaging the insides,\Nnamely, it destroys internal organs.
+Dialogue: 0,0:18:24.45,0:18:26.35,Default,,0000,0000,0000,,They possess the Gentle Fist.
+Dialogue: 0,0:18:27.52,0:18:29.19,Default,,0000,0000,0000,,It’s not spectacular to watch…
+Dialogue: 0,0:18:29.65,0:18:31.52,Default,,0000,0000,0000,,but later it slowly takes effect.
+Dialogue: 0,0:18:32.52,0:18:35.93,Default,,0000,0000,0000,,Well, you can’t train the internal organs…
+Dialogue: 0,0:18:36.53,0:18:38.23,Default,,0000,0000,0000,,Even if you were really robust,
+Dialogue: 0,0:18:38.26,0:18:40.36,Default,,0000,0000,0000,,one hit from it would be\Na deadly blow…
+Dialogue: 0,0:18:52.51,0:18:53.41,Default,,0000,0000,0000,,Even I can…
+Dialogue: 0,0:18:55.45,0:18:56.51,Default,,0000,0000,0000,,Hinata’s on the offensive…
+Dialogue: 0,0:18:57.68,0:18:58.52,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:19:00.95,0:19:03.22,Default,,0000,0000,0000,,Way to go, Hinata!
+Dialogue: 0,0:19:03.69,0:19:05.52,Default,,0000,0000,0000,,To attack the Chakra Network…
+Dialogue: 0,0:19:06.52,0:19:08.53,Default,,0000,0000,0000,,What are they, those people…?
+Dialogue: 0,0:19:10.43,0:19:10.96,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:11.16,0:19:11.70,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:12.03,0:19:14.53,Default,,0000,0000,0000,,Chakra Network, what’s that?!
+Dialogue: 0,0:19:14.70,0:19:15.93,Default,,0000,0000,0000,,Here we go again…
+Dialogue: 0,0:19:15.97,0:19:17.50,Default,,0000,0000,0000,,a question from a stupid guy.
+Dialogue: 0,0:19:18.27,0:19:19.50,Default,,0000,0000,0000,,I’ll explain.
+Dialogue: 0,0:19:20.50,0:19:21.67,Default,,0000,0000,0000,,They’re like blood canals.
+Dialogue: 0,0:19:21.74,0:19:24.14,Default,,0000,0000,0000,,In the same way that blood flows\Nthrough vessels throughout the body,
+Dialogue: 0,0:19:24.17,0:19:30.18,Default,,0000,0000,0000,,They’re bundles of canals that take\NChakra’s into every corner of your body…
+Dialogue: 0,0:19:30.71,0:19:31.85,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:19:31.88,0:19:34.35,Default,,0000,0000,0000,,Like a path for Chakras, huh?
+Dialogue: 0,0:19:34.52,0:19:35.29,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:19:35.79,0:19:37.42,Default,,0000,0000,0000,,Furthermore, the Chakra Network\Nis closely connected
+Dialogue: 0,0:19:37.49,0:19:41.53,Default,,0000,0000,0000,,with the internal organs which\Nenfold Chakra within the body.
+Dialogue: 0,0:19:42.16,0:19:44.53,Default,,0000,0000,0000,,That’s why if\Nthe Chakra Network is attacked
+Dialogue: 0,0:19:44.56,0:19:46.93,Default,,0000,0000,0000,,the internal organs also suffer damage.
+Dialogue: 0,0:19:47.53,0:19:50.27,Default,,0000,0000,0000,,Huh, you know a lot, don’t 'ya?
+Dialogue: 0,0:19:50.27,0:19:52.77,Default,,0000,0000,0000,,Hey you!\NThat's no way to talk to your senior!
+Dialogue: 0,0:20:03.85,0:20:04.85,Default,,0000,0000,0000,,It’s no wonder…
+Dialogue: 0,0:20:05.82,0:20:08.02,Default,,0000,0000,0000,,Lee’s greatest long-standing enemy.
+Dialogue: 0,0:20:08.45,0:20:09.45,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:20:09.52,0:20:10.29,Default,,0000,0000,0000,,him.
+Dialogue: 0,0:20:12.36,0:20:13.22,Default,,0000,0000,0000,,Sensei…
+Dialogue: 0,0:20:13.49,0:20:15.53,Default,,0000,0000,0000,,But, how can they do that?
+Dialogue: 0,0:20:16.16,0:20:19.56,Default,,0000,0000,0000,,After all, the Chakra Network\Nisn’t visible to the eyes.
+Dialogue: 0,0:20:19.73,0:20:23.53,Default,,0000,0000,0000,,How do they attack the Chakra\Nline inside the body?
+Dialogue: 0,0:20:24.13,0:20:24.87,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:20:25.50,0:20:26.94,Default,,0000,0000,0000,,The eyes of those two…
+Dialogue: 0,0:20:27.50,0:20:30.51,Default,,0000,0000,0000,,They can see it with\Ntheir Byakugan.
+Dialogue: 0,0:20:36.01,0:20:39.85,Default,,0000,0000,0000,,And a Gentle Fist attack is a little\Ndifferent from a regular attack.
+Dialogue: 0,0:20:41.65,0:20:43.52,Default,,0000,0000,0000,,They release their own Chakra
+Dialogue: 0,0:20:43.55,0:20:48.23,Default,,0000,0000,0000,,from a Chakra opening in their hand\Nand screw it into their opponent’s body.
+Dialogue: 0,0:20:48.53,0:20:52.06,Default,,0000,0000,0000,,It directly inflicts damage on\Nyour enemy’s Chakra Network.
+Dialogue: 0,0:20:54.56,0:20:55.90,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:20:58.50,0:20:59.50,Default,,0000,0000,0000,,Has she done it?
+Dialogue: 0,0:21:21.49,0:21:25.86,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:25.96,0:21:34.44,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:35.41,0:21:44.01,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:44.48,0:21:52.32,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:53.52,0:21:58.90,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:58.93,0:22:03.10,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:03.13,0:22:06.64,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:07.04,0:22:15.51,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:15.78,0:22:21.05,Default,,0000,0000,0000,,when you want to cry,\Nand you want to run away
+Dialogue: 0,0:22:21.12,0:22:25.52,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:25.52,0:22:29.43,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:29.53,0:22:34.70,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:34.73,0:22:37.03,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:37.10,0:22:43.47,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:43.81,0:22:48.98,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:54.15,0:22:55.15,Default,,0000,0000,0000,,Amazing!
+Dialogue: 0,0:22:55.19,0:22:56.35,Default,,0000,0000,0000,,That Hinata!
+Dialogue: 0,0:22:56.49,0:22:58.56,Default,,0000,0000,0000,,She’s always melancholy\Nand wishy-washy and…
+Dialogue: 0,0:22:58.62,0:23:00.69,Default,,0000,0000,0000,,I thought she is kinda weird, yet…
+Dialogue: 0,0:23:00.82,0:23:03.23,Default,,0000,0000,0000,,Even when she gets blow after blow,\Nshe gets back up and goes.
+Dialogue: 0,0:23:03.43,0:23:05.53,Default,,0000,0000,0000,,There’s something about\Nher way of fighting.
+Dialogue: 0,0:23:05.53,0:23:06.73,Default,,0000,0000,0000,,Just a feeling,\Nbut she resembles you, I think.
+Dialogue: 0,0:23:06.76,0:23:09.20,Default,,0000,0000,0000,,Resembles me?\NHinata resembles me?
+Dialogue: 0,0:23:09.53,0:23:12.10,Default,,0000,0000,0000,,Now that I think about it, that girl,\Nshe was always watching you.
+Dialogue: 0,0:23:12.24,0:23:12.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:23:13.27,0:23:15.87,Default,,0000,0000,0000,,Next episode: “A Failure Stands Tall!”
+Dialogue: 0,0:23:16.41,0:23:18.07,Default,,0000,0000,0000,,Hinata, fight!

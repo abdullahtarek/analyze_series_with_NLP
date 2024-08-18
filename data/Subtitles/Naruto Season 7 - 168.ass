@@ -1,0 +1,405 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.37,0:00:21.99,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.99,0:00:26.83,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.87,0:00:29.37,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:29.41,0:00:31.99,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.99,0:00:36.62,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.66,0:00:46.50,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.79,0:00:55.95,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.87,0:01:06.75,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.91,0:01:16.08,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.83,0:01:21.25,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:43.99,0:01:47.29,Default,,0000,0000,0000,,It’s been a while since\NI’ve eaten Ichiraku ramen!
+Dialogue: 0,0:01:47.33,0:01:49.99,Default,,0000,0000,0000,,Lately I’ve been away\Nfrom home on missions.
+Dialogue: 0,0:01:50.99,0:01:53.00,Default,,0000,0000,0000,,The bowl of ramen after\Na mission…
+Dialogue: 0,0:01:53.04,0:01:57.20,Default,,0000,0000,0000,,it spreads to every muscle of the body\Nand becomes energy for tomorrow.
+Dialogue: 0,0:01:57.37,0:02:00.08,Default,,0000,0000,0000,,If you eat ramen\Nit drives fatigue away.
+Dialogue: 0,0:02:00.54,0:02:01.58,Default,,0000,0000,0000,,Ramen!
+Dialogue: 0,0:02:02.99,0:02:04.20,Default,,0000,0000,0000,,Ramen!
+Dialogue: 0,0:02:04.99,0:02:06.04,Default,,0000,0000,0000,,Ramen!
+Dialogue: 0,0:02:06.91,0:02:07.99,Default,,0000,0000,0000,,Ramen!
+Dialogue: 0,0:02:14.50,0:02:16.29,Default,,0000,0000,0000,,Temporarily closed…?
+Dialogue: 0,0:02:16.75,0:02:18.45,Default,,0000,0000,0000,,No, it can’t be…
+Dialogue: 0,0:02:19.99,0:02:26.00,Default,,0000,0000,0000,,I endured all the tough missions,\Nlooking forward to Ichiraku ramen…
+Dialogue: 0,0:02:26.70,0:02:28.45,Default,,0000,0000,0000,,I can smell ramen!
+Dialogue: 0,0:02:28.50,0:02:29.00,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:32.83,0:02:33.62,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:02:33.99,0:02:37.99,Default,,0000,0000,0000,,Without a doubt…\NRamen is being made in there!
+Dialogue: 0,0:02:39.08,0:02:40.75,Default,,0000,0000,0000,,Ramen!
+Dialogue: 0,0:02:40.99,0:02:45.99,Default,,0000,0000,0000,,Mix it! Stretch it! Boil it up!\NBurn Copper Pot Burn!
+Dialogue: 0,0:02:51.99,0:02:53.25,Default,,0000,0000,0000,,This smell…
+Dialogue: 0,0:02:53.83,0:02:54.99,Default,,0000,0000,0000,,It’s the smell of a soup
+Dialogue: 0,0:02:54.99,0:02:57.45,Default,,0000,0000,0000,,that’s never been on\Nthe Ichiraku menu before.
+Dialogue: 0,0:02:57.70,0:03:02.00,Default,,0000,0000,0000,,Then… It's temporarily closed\Nto develop a new menu?
+Dialogue: 0,0:03:05.08,0:03:05.99,Default,,0000,0000,0000,,Who’s there?!
+Dialogue: 0,0:03:10.99,0:03:14.99,Default,,0000,0000,0000,,A large helping of miso char siu ramen!\NWith an egg please.
+Dialogue: 0,0:03:19.70,0:03:20.58,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:03:20.79,0:03:22.99,Default,,0000,0000,0000,,You were looking forward to\Nmy ramen that much.
+Dialogue: 0,0:03:23.08,0:03:24.99,Default,,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:03:25.58,0:03:27.91,Default,,0000,0000,0000,,It’s okay to develop a new menu,
+Dialogue: 0,0:03:27.95,0:03:30.25,Default,,0000,0000,0000,,but I wish you’d do it\Nafter the shop is closed.
+Dialogue: 0,0:03:35.83,0:03:38.54,Default,,0000,0000,0000,,Since you came all this way.\NGive this a taste.
+Dialogue: 0,0:03:40.58,0:03:41.58,Default,,0000,0000,0000,,Could this be…
+Dialogue: 0,0:03:41.62,0:03:43.66,Default,,0000,0000,0000,,Ichiraku’s new menu?!
+Dialogue: 0,0:03:44.66,0:03:45.99,Default,,0000,0000,0000,,Let’s eat!
+Dialogue: 0,0:03:46.00,0:03:47.41,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:03:48.62,0:03:50.87,Default,,0000,0000,0000,,There are rules when you’re eating\Na new ramen for the first time…
+Dialogue: 0,0:03:50.91,0:03:51.99,Default,,0000,0000,0000,,Rule ♪1!
+Dialogue: 0,0:03:52.41,0:03:53.70,Default,,0000,0000,0000,,Before you do anything,
+Dialogue: 0,0:03:53.75,0:03:55.37,Default,,0000,0000,0000,,you must first have\Na sip to taste the soup.
+Dialogue: 0,0:03:59.54,0:04:00.99,Default,,0000,0000,0000,,– Delicious! 					– Delicious!
+Dialogue: 0,0:04:01.37,0:04:04.66,Default,,0000,0000,0000,,Next, you have to coat the noodles\Nin soup and eat.
+Dialogue: 0,0:04:07.45,0:04:11.41,Default,,0000,0000,0000,,Huh? It seems like something\Nis missing…
+Dialogue: 0,0:04:11.79,0:04:12.95,Default,,0000,0000,0000,,Let’s get to the point.
+Dialogue: 0,0:04:13.99,0:04:15.91,Default,,0000,0000,0000,,The noodles are outdone\Nby the soup!
+Dialogue: 0,0:04:17.04,0:04:19.29,Default,,0000,0000,0000,,This well-seasoned, rich soup\Ngreatly surpasses
+Dialogue: 0,0:04:19.33,0:04:22.95,Default,,0000,0000,0000,,any of Ichiraku’s previous soups!
+Dialogue: 0,0:04:23.12,0:04:25.99,Default,,0000,0000,0000,,But! The noodles are\Nthe same as always!
+Dialogue: 0,0:04:26.00,0:04:28.54,Default,,0000,0000,0000,,The balance is very bad.
+Dialogue: 0,0:04:29.00,0:04:30.99,Default,,0000,0000,0000,,I cannot give it a passing score!
+Dialogue: 0,0:04:31.99,0:04:33.50,Default,,0000,0000,0000,,That’s what I thought…
+Dialogue: 0,0:04:33.99,0:04:37.33,Default,,0000,0000,0000,,Oh… Don’t get so depressed…
+Dialogue: 0,0:04:37.95,0:04:40.79,Default,,0000,0000,0000,,Ayame, water! Water please!
+Dialogue: 0,0:04:41.41,0:04:43.79,Default,,0000,0000,0000,,Huh? Where’s Ayame?
+Dialogue: 0,0:04:43.91,0:04:45.33,Default,,0000,0000,0000,,With ramen like this…
+Dialogue: 0,0:04:46.04,0:04:50.29,Default,,0000,0000,0000,,I’ll never be able to get Ayame\Nback from the Ryonin.
+Dialogue: 0,0:04:53.99,0:04:54.58,Default,,0000,0000,0000,,Teuchi!
+Dialogue: 0,0:04:59.99,0:05:01.50,Default,,0000,0000,0000,,He’s just overtired.
+Dialogue: 0,0:05:01.99,0:05:05.16,Default,,0000,0000,0000,,I had him drink an energy drink,\Nso after a little rest he'll recover.
+Dialogue: 0,0:05:05.99,0:05:09.08,Default,,0000,0000,0000,,But… I think he should take a break\Nfrom the shop for a while.
+Dialogue: 0,0:05:11.99,0:05:13.99,Default,,0000,0000,0000,,He’s been using his arms\Ntoo much…
+Dialogue: 0,0:05:14.54,0:05:16.04,Default,,0000,0000,0000,,Look how swollen this is.
+Dialogue: 0,0:05:16.54,0:05:18.99,Default,,0000,0000,0000,,Come to think of it,\Nbefore he fell,
+Dialogue: 0,0:05:18.99,0:05:21.16,Default,,0000,0000,0000,,he said something about Ryonin\Nor whatever
+Dialogue: 0,0:05:21.20,0:05:24.00,Default,,0000,0000,0000,,did something to Ayame, I think…
+Dialogue: 0,0:05:24.37,0:05:27.00,Default,,0000,0000,0000,,Ayame is his daughter, right?
+Dialogue: 0,0:05:27.75,0:05:28.70,Default,,0000,0000,0000,,What’s Ryonin?
+Dialogue: 0,0:05:29.20,0:05:30.33,Default,,0000,0000,0000,,I don’t know…
+Dialogue: 0,0:05:30.37,0:05:34.04,Default,,0000,0000,0000,,Ryonin…\NHe’s referring to the Ninja Chef.
+Dialogue: 0,0:05:34.08,0:05:35.99,Default,,0000,0000,0000,,Ninja Chef?
+Dialogue: 0,0:05:37.12,0:05:38.50,Default,,0000,0000,0000,,Do you know about them, Choji?
+Dialogue: 0,0:05:39.50,0:05:41.99,Default,,0000,0000,0000,,I’ve heard rumors about them…
+Dialogue: 0,0:05:44.12,0:05:49.66,Default,,0000,0000,0000,,One of the problems Shinobi’s confront\Non missions is the problem of meals!
+Dialogue: 0,0:05:50.08,0:05:52.29,Default,,0000,0000,0000,,Normally Food Pills were brought\Nwith them,
+Dialogue: 0,0:05:52.33,0:05:54.04,Default,,0000,0000,0000,,but the main role of those\Nare to supply nutrients.
+Dialogue: 0,0:05:54.08,0:05:55.29,Default,,0000,0000,0000,,They have no taste.
+Dialogue: 0,0:05:55.99,0:05:58.99,Default,,0000,0000,0000,,If they could eat delicious food\Nwhile on missions,
+Dialogue: 0,0:05:58.99,0:06:02.12,Default,,0000,0000,0000,,would the success rate\Nof missions rise?
+Dialogue: 0,0:06:02.58,0:06:05.04,Default,,0000,0000,0000,,Based on that theory,\Nwas born…
+Dialogue: 0,0:06:07.50,0:06:09.99,Default,,0000,0000,0000,,The Ninja Chef… Ryonin!
+Dialogue: 0,0:06:13.16,0:06:17.37,Default,,0000,0000,0000,,But what those Ninja Chef\Nhave to do with Ayame?
+Dialogue: 0,0:06:18.04,0:06:19.70,Default,,0000,0000,0000,,They snatched her away…
+Dialogue: 0,0:06:20.41,0:06:21.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:21.33,0:06:23.41,Default,,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:06:23.99,0:06:24.99,Default,,0000,0000,0000,,Give us the details!
+Dialogue: 0,0:06:25.99,0:06:27.99,Default,,0000,0000,0000,,It was two weeks ago…
+Dialogue: 0,0:06:33.99,0:06:35.29,Default,,0000,0000,0000,,Ichiraku Ramen
+Dialogue: 0,0:06:35.66,0:06:36.99,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:06:37.12,0:06:38.58,Default,,0000,0000,0000,,The large serving,\Nhere’s your order!
+Dialogue: 0,0:06:42.33,0:06:45.25,Default,,0000,0000,0000,,A good job as always, Teuchi!
+Dialogue: 0,0:06:46.75,0:06:47.75,Default,,0000,0000,0000,,Hakkaku!
+Dialogue: 0,0:06:48.20,0:06:50.00,Default,,0000,0000,0000,,His name is Hakkaku,
+Dialogue: 0,0:06:50.04,0:06:53.29,Default,,0000,0000,0000,,long ago we trained at\Nthe same ramen shop…
+Dialogue: 0,0:06:53.75,0:06:57.50,Default,,0000,0000,0000,,He told me he is a Ninja Chef,\Na Ryonin, these days.
+Dialogue: 0,0:06:58.87,0:07:01.54,Default,,0000,0000,0000,,Actually… I have a favor to ask you.
+Dialogue: 0,0:07:01.70,0:07:05.16,Default,,0000,0000,0000,,What is it? If it’s something I can do,\NI'll cooperate.
+Dialogue: 0,0:07:05.87,0:07:08.99,Default,,0000,0000,0000,,The phantom recipe that\NI heard you developed…
+Dialogue: 0,0:07:09.58,0:07:11.00,Default,,0000,0000,0000,,Please turn it over to me!
+Dialogue: 0,0:07:12.50,0:07:15.29,Default,,0000,0000,0000,,Ph-Phantom recipe?\NWhat are you talking about?
+Dialogue: 0,0:07:15.70,0:07:18.99,Default,,0000,0000,0000,,To a chef, a recipe is\Nmore precious than life!
+Dialogue: 0,0:07:19.41,0:07:21.29,Default,,0000,0000,0000,,I understand why\Nyou want to hide it!
+Dialogue: 0,0:07:21.45,0:07:24.45,Default,,0000,0000,0000,,But… please! Give it to me!
+Dialogue: 0,0:07:25.16,0:07:27.91,Default,,0000,0000,0000,,I really had no clue.
+Dialogue: 0,0:07:28.50,0:07:32.00,Default,,0000,0000,0000,,But Hakkaku didn’t believe me…
+Dialogue: 0,0:07:34.25,0:07:36.91,Default,,0000,0000,0000,,Ayame. Let’s get to work\Nopening the shop…
+Dialogue: 0,0:07:38.16,0:07:40.04,Default,,0000,0000,0000,,What the… What’s this tray?
+Dialogue: 0,0:07:43.99,0:07:44.91,Default,,0000,0000,0000,,Ayame!
+Dialogue: 0,0:07:45.41,0:07:47.29,Default,,0000,0000,0000,,I have your daughter.
+Dialogue: 0,0:07:47.33,0:07:50.75,Default,,0000,0000,0000,,If you want her back,\Nhand over the “phantom recipe!”
+Dialogue: 0,0:07:52.04,0:07:54.50,Default,,0000,0000,0000,,Damn that Hakkaku!
+Dialogue: 0,0:07:55.54,0:07:58.54,Default,,0000,0000,0000,,Why didn’t you contact\Nthe Hokage right away!
+Dialogue: 0,0:07:59.04,0:08:00.04,Default,,0000,0000,0000,,The Hokage could…
+Dialogue: 0,0:08:00.08,0:08:03.99,Default,,0000,0000,0000,,If I did that, I don’t know what\Nwould happen to Ayame.
+Dialogue: 0,0:08:05.29,0:08:07.99,Default,,0000,0000,0000,,And he also wrote this\Nin the letter…
+Dialogue: 0,0:08:08.75,0:08:11.99,Default,,0000,0000,0000,,That if I can serve them\Nsomething impressive,
+Dialogue: 0,0:08:12.00,0:08:15.70,Default,,0000,0000,0000,,he’ll give up on the phantom recipe\Nand return my daughter safe.
+Dialogue: 0,0:08:16.58,0:08:18.66,Default,,0000,0000,0000,,But, you've got a way to win?
+Dialogue: 0,0:08:19.75,0:08:20.95,Default,,0000,0000,0000,,I don’t know.
+Dialogue: 0,0:08:20.99,0:08:23.62,Default,,0000,0000,0000,,But a chef’s challenged me\Nto a cooking match.
+Dialogue: 0,0:08:24.00,0:08:25.37,Default,,0000,0000,0000,,I have no choice but to do it.
+Dialogue: 0,0:08:25.99,0:08:29.58,Default,,0000,0000,0000,,So that’s why you’re developing\Nnew ramen.
+Dialogue: 0,0:08:30.00,0:08:32.91,Default,,0000,0000,0000,,I was able to make the soup\Nexactly how I wanted to.
+Dialogue: 0,0:08:33.33,0:08:38.20,Default,,0000,0000,0000,,But…I just can't get the firm noodles\Nthat go with the soup…
+Dialogue: 0,0:08:39.12,0:08:42.25,Default,,0000,0000,0000,,I can’t get Ayame back like this!
+Dialogue: 0,0:08:43.29,0:08:46.99,Default,,0000,0000,0000,,The cooking match is tomorrow…\NWhat am I going to do?
+Dialogue: 0,0:08:53.62,0:08:57.66,Default,,0000,0000,0000,,I can’t imagine an Ichiraku\Nwithout Ayame.
+Dialogue: 0,0:08:59.95,0:09:03.16,Default,,0000,0000,0000,,Okay! Teuchi! We’ll help you.
+Dialogue: 0,0:09:03.25,0:09:05.04,Default,,0000,0000,0000,,We’ll make the best ramen…
+Dialogue: 0,0:09:05.41,0:09:07.37,Default,,0000,0000,0000,,And get Ayame back…
+Dialogue: 0,0:09:07.66,0:09:08.87,Default,,0000,0000,0000,,From the Ryonin!
+Dialogue: 0,0:09:13.95,0:09:14.91,Default,,0000,0000,0000,,You guys…
+Dialogue: 0,0:09:18.70,0:09:20.87,Default,,0000,0000,0000,,I'll teach you the basics\Nof making noodles.
+Dialogue: 0,0:09:22.95,0:09:25.54,Default,,0000,0000,0000,,Quickly mix the ingredients evenly.
+Dialogue: 0,0:09:25.62,0:09:26.70,Default,,0000,0000,0000,,If there are discrepancies,
+Dialogue: 0,0:09:26.75,0:09:28.45,Default,,0000,0000,0000,,there will be variations in\Nthe taste of the noodles.
+Dialogue: 0,0:09:28.83,0:09:30.08,Default,,0000,0000,0000,,Next… Knead it.
+Dialogue: 0,0:09:30.33,0:09:33.00,Default,,0000,0000,0000,,If you don’t put this properly\Nthe noodles won’t be firm.
+Dialogue: 0,0:09:34.45,0:09:35.25,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:09:35.99,0:09:38.04,Default,,0000,0000,0000,,It's nothing. Don’t worry about me.
+Dialogue: 0,0:09:41.50,0:09:43.12,Default,,0000,0000,0000,,And…stretch the noodles!
+Dialogue: 0,0:09:47.37,0:09:50.41,Default,,0000,0000,0000,,It’s important for them to be\Nof a uniform thickness!
+Dialogue: 0,0:09:50.45,0:09:52.62,Default,,0000,0000,0000,,So there will be no differences\Nafter boiling…
+Dialogue: 0,0:09:57.08,0:09:58.04,Default,,0000,0000,0000,,Try it.
+Dialogue: 0,0:10:01.37,0:10:03.41,Default,,0000,0000,0000,,It’s easy to say it…
+Dialogue: 0,0:10:03.45,0:10:06.41,Default,,0000,0000,0000,,but to actually make the noodles\Nis not so easy.
+Dialogue: 0,0:10:07.25,0:10:10.58,Default,,0000,0000,0000,,It takes five years to become\Nan accomplished chef in his own right.
+Dialogue: 0,0:10:10.99,0:10:13.58,Default,,0000,0000,0000,,To do it by the match tomorrow\Nis completely…
+Dialogue: 0,0:10:14.25,0:10:15.33,Default,,0000,0000,0000,,When it comes down to it,
+Dialogue: 0,0:10:15.37,0:10:18.70,Default,,0000,0000,0000,,I’ll have to give up this decrepit body\Nof mine to them.
+Dialogue: 0,0:10:20.58,0:10:21.99,Default,,0000,0000,0000,,Teuchi…
+Dialogue: 0,0:10:21.99,0:10:25.29,Default,,0000,0000,0000,,You’re not thinking about\Nwhen you lose, are you?
+Dialogue: 0,0:10:25.99,0:10:27.33,Default,,0000,0000,0000,,Th-That’s…
+Dialogue: 0,0:10:27.91,0:10:29.99,Default,,0000,0000,0000,,Because if we are doing this,
+Dialogue: 0,0:10:30.00,0:10:32.16,Default,,0000,0000,0000,,we’re doing it with the intention\Nof winning, believe it!
+Dialogue: 0,0:10:32.66,0:10:36.37,Default,,0000,0000,0000,,I absolutely don't forgive people\Nwho hold a girl captive!
+Dialogue: 0,0:10:36.87,0:10:38.54,Default,,0000,0000,0000,,Cooking comes from the heart.
+Dialogue: 0,0:10:38.75,0:10:41.54,Default,,0000,0000,0000,,Technique and experience\Naren’t everything!
+Dialogue: 0,0:10:42.79,0:10:43.99,Default,,0000,0000,0000,,No problem…
+Dialogue: 0,0:10:44.20,0:10:48.37,Default,,0000,0000,0000,,We’ll show them the real strength\Nof the Shinobi of Leaf Village!
+Dialogue: 0,0:10:56.83,0:10:58.79,Default,,0000,0000,0000,,Sorry to make you wait, Hakkaku!
+Dialogue: 0,0:11:02.50,0:11:04.37,Default,,0000,0000,0000,,The phantom recipe?
+Dialogue: 0,0:11:05.08,0:11:07.25,Default,,0000,0000,0000,,You can’t tell by looking at me?
+Dialogue: 0,0:11:08.04,0:11:10.99,Default,,0000,0000,0000,,I see. How foolish…
+Dialogue: 0,0:11:11.29,0:11:12.70,Default,,0000,0000,0000,,Let me tell you,
+Dialogue: 0,0:11:12.75,0:11:15.99,Default,,0000,0000,0000,,ramen like the stuff I ate at\Nyour shop the other day can't win.
+Dialogue: 0,0:11:16.41,0:11:17.62,Default,,0000,0000,0000,,Is Ayame okay?
+Dialogue: 0,0:11:18.04,0:11:19.45,Default,,0000,0000,0000,,Father!
+Dialogue: 0,0:11:20.29,0:11:21.16,Default,,0000,0000,0000,,Ayame!
+Dialogue: 0,0:11:23.12,0:11:25.87,Default,,0000,0000,0000,,The emotional reunion comes\Nafter the match.
+Dialogue: 0,0:11:26.41,0:11:29.45,Default,,0000,0000,0000,,I have a favor to ask.\NLet me have some helpers.
+Dialogue: 0,0:11:29.99,0:11:34.12,Default,,0000,0000,0000,,I don’t think those kids are up\Nto the task, but…
+Dialogue: 0,0:11:34.62,0:11:36.12,Default,,0000,0000,0000,,Well… That’s okay.
+Dialogue: 0,0:11:36.79,0:11:38.87,Default,,0000,0000,0000,,Well, let’s start the cooking match!
+Dialogue: 0,0:11:44.29,0:11:48.83,Default,,0000,0000,0000,,Let’s see if you can satisfy\Nall of us Ninja Chef!
+Dialogue: 0,0:11:48.99,0:11:50.87,Default,,0000,0000,0000,,There are so many of them…
+Dialogue: 0,0:11:51.99,0:11:54.12,Default,,0000,0000,0000,,We don’t have time to stand around…\NLet’s begin!
+Dialogue: 0,0:11:56.33,0:11:57.99,Default,,0000,0000,0000,,The preparation for the soup\Nis done!
+Dialogue: 0,0:11:57.99,0:11:59.75,Default,,0000,0000,0000,,I’ll prepare the ingredients\Nfor the rest!
+Dialogue: 0,0:11:59.87,0:12:01.37,Default,,0000,0000,0000,,I’m leaving the noodles to you!
+Dialogue: 0,0:12:01.54,0:12:02.45,Default,,0000,0000,0000,,– Okay! 					– Okay!
+Dialogue: 0,0:12:02.83,0:12:07.79,Default,,0000,0000,0000,,Listen. Our noodles determine\Nwhether Ayame will return or not!
+Dialogue: 0,0:12:08.04,0:12:09.79,Default,,0000,0000,0000,,We cannot fail!
+Dialogue: 0,0:12:10.66,0:12:13.41,Default,,0000,0000,0000,,Seems like he’s done a good job\Nwith the soup…
+Dialogue: 0,0:12:13.45,0:12:15.99,Default,,0000,0000,0000,,The delicious aroma is\Nwafting over here.
+Dialogue: 0,0:12:15.99,0:12:18.00,Default,,0000,0000,0000,,Indeed, it’s whetting my appetite.
+Dialogue: 0,0:12:18.16,0:12:19.91,Default,,0000,0000,0000,,The noodles are the problem!
+Dialogue: 0,0:12:19.99,0:12:23.99,Default,,0000,0000,0000,,Can those kids really make noodles that\Nwill go with that soup?
+Dialogue: 0,0:12:24.04,0:12:26.79,Default,,0000,0000,0000,,First, mix the ingredients!
+Dialogue: 0,0:12:27.16,0:12:28.99,Default,,0000,0000,0000,,They’re amateurs,\NI thought so!
+Dialogue: 0,0:12:29.58,0:12:32.87,Default,,0000,0000,0000,,You can’t make decent noodles\Nwith that hand movement!
+Dialogue: 0,0:12:33.58,0:12:35.37,Default,,0000,0000,0000,,We practiced making noodles\Nall night!
+Dialogue: 0,0:12:35.91,0:12:39.04,Default,,0000,0000,0000,,But, we didn’t make the noodles\Nwe wanted to by morning…
+Dialogue: 0,0:12:39.70,0:12:43.75,Default,,0000,0000,0000,,Even so, we have to\Nmake perfect noodles!
+Dialogue: 0,0:12:47.29,0:12:50.99,Default,,0000,0000,0000,,Hey hey. At least make us\Nsomething edible!
+Dialogue: 0,0:12:53.33,0:12:54.37,Default,,0000,0000,0000,,Quickly…
+Dialogue: 0,0:12:54.45,0:12:55.41,Default,,0000,0000,0000,,Uniformly…
+Dialogue: 0,0:12:55.62,0:12:56.99,Default,,0000,0000,0000,,Without discrepancies!
+Dialogue: 0,0:12:57.91,0:12:59.12,Default,,0000,0000,0000,,Next, knead it!
+Dialogue: 0,0:12:59.83,0:13:01.08,Default,,0000,0000,0000,,Hey, Sakura!
+Dialogue: 0,0:13:01.70,0:13:03.45,Default,,0000,0000,0000,,Look, it’s Kakashi Sensei.
+Dialogue: 0,0:13:03.99,0:13:05.79,Default,,0000,0000,0000,,Don’t play!
+Dialogue: 0,0:13:07.95,0:13:08.58,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:13:08.75,0:13:09.99,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:13:14.25,0:13:19.08,Default,,0000,0000,0000,,Oww! Sakura, you just can’t control\Nyour own crazy strength!
+Dialogue: 0,0:13:19.29,0:13:21.75,Default,,0000,0000,0000,,It’s your fault for playing around\Nat a time like this!
+Dialogue: 0,0:13:26.99,0:13:27.99,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:13:30.99,0:13:33.08,Default,,0000,0000,0000,,This is…\Nthe last of the ingredients.
+Dialogue: 0,0:13:33.54,0:13:36.99,Default,,0000,0000,0000,,No problem. This time, let us\Nshow you we’ll succeed!
+Dialogue: 0,0:13:39.00,0:13:40.87,Default,,0000,0000,0000,,Okay, I’m mixing.
+Dialogue: 0,0:13:40.99,0:13:43.66,Default,,0000,0000,0000,,Wait Choji! Leave this to me!
+Dialogue: 0,0:13:43.95,0:13:44.87,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:13:44.99,0:13:46.33,Default,,0000,0000,0000,,Hey, Sakura…
+Dialogue: 0,0:13:46.45,0:13:46.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:47.20,0:13:50.12,Default,,0000,0000,0000,,We are Shinobi, right?
+Dialogue: 0,0:13:50.95,0:13:55.04,Default,,0000,0000,0000,,So then… Let’s show them\Nthe Ninja way to make noodles!
+Dialogue: 0,0:13:56.62,0:13:58.08,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:14:09.04,0:14:11.99,Default,,0000,0000,0000,,Rasengen! “Ichiraku” version!
+Dialogue: 0,0:14:14.99,0:14:19.20,Default,,0000,0000,0000,,Wh-What?! Mixing ingredients\Nwith Chakra?!
+Dialogue: 0,0:14:21.75,0:14:27.79,Default,,0000,0000,0000,,No, that way he’ll surely be able\Nto mix the ingredients uniformly!
+Dialogue: 0,0:14:27.83,0:14:30.37,Default,,0000,0000,0000,,And in micro units!
+Dialogue: 0,0:14:35.29,0:14:36.12,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:14:37.00,0:14:37.95,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:39.54,0:14:40.99,Default,,0000,0000,0000,,Pervy Sage.
+Dialogue: 0,0:14:41.12,0:14:43.08,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:14:43.16,0:14:45.16,Default,,0000,0000,0000,,Cha!
+Dialogue: 0,0:14:51.87,0:14:53.79,Default,,0000,0000,0000,,Wh-What’s this crazy strength…?!
+Dialogue: 0,0:14:54.20,0:14:57.58,Default,,0000,0000,0000,,If she does that,\Nthe noodles will become super firm!
+Dialogue: 0,0:15:01.66,0:15:03.00,Default,,0000,0000,0000,,Okay, Sakura!
+Dialogue: 0,0:15:03.50,0:15:04.50,Default,,0000,0000,0000,,Choji!
+Dialogue: 0,0:15:04.87,0:15:07.79,Default,,0000,0000,0000,,I, too…am a Shinobi of Leaf Village!
+Dialogue: 0,0:15:08.08,0:15:11.70,Default,,0000,0000,0000,,Partial Expansion Jutsu: Both Hands!
+Dialogue: 0,0:15:16.99,0:15:18.54,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:20.99,0:15:23.04,Default,,0000,0000,0000,,What outstanding noodles!
+Dialogue: 0,0:15:23.83,0:15:27.99,Default,,0000,0000,0000,,If those noodles are added to\NTeuchi’s soup, this match would…
+Dialogue: 0,0:15:30.99,0:15:33.87,Default,,0000,0000,0000,,W-We cannot lose!
+Dialogue: 0,0:15:34.29,0:15:36.79,Default,,0000,0000,0000,,It’s for the future of the Ninja Chef!
+Dialogue: 0,0:15:37.08,0:15:39.70,Default,,0000,0000,0000,,Now they just have to be boiled, Teuchi!
+Dialogue: 0,0:15:40.37,0:15:41.99,Default,,0000,0000,0000,,Okay! Leave it to me!
+Dialogue: 0,0:15:42.04,0:15:43.70,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:15:46.16,0:15:48.83,Default,,0000,0000,0000,,When the ramen is done…
+Dialogue: 0,0:15:48.99,0:15:51.00,Default,,0000,0000,0000,,Who will you serve it to first?
+Dialogue: 0,0:15:51.16,0:15:52.99,Default,,0000,0000,0000,,Huh? Who…?
+Dialogue: 0,0:15:53.79,0:15:55.99,Default,,0000,0000,0000,,Th-That’s right…\NThat’s how it is!
+Dialogue: 0,0:15:56.16,0:15:57.50,Default,,0000,0000,0000,,That’s how what is?
+Dialogue: 0,0:15:58.04,0:15:59.54,Default,,0000,0000,0000,,Among the chefs…
+Dialogue: 0,0:15:59.58,0:16:02.00,Default,,0000,0000,0000,,there’s a cardinal rule\Nnot to be forgotten.
+Dialogue: 0,0:16:02.58,0:16:06.54,Default,,0000,0000,0000,,The first guest to arrive is\Nthe first guest served!
+Dialogue: 0,0:16:06.99,0:16:09.79,Default,,0000,0000,0000,,No matter how delicious\Nthe food you make is…
+Dialogue: 0,0:16:09.83,0:16:12.99,Default,,0000,0000,0000,,if you break this cardinal rule,\Nyou’re disqualified as a chef!
+Dialogue: 0,0:16:14.75,0:16:17.99,Default,,0000,0000,0000,,True, if a guy who came later\Nwere eating before me,
+Dialogue: 0,0:16:17.99,0:16:19.45,Default,,0000,0000,0000,,then it would seriously pisses me off.
+Dialogue: 0,0:16:19.95,0:16:22.50,Default,,0000,0000,0000,,There are 100 Ninja Chefs here…
+Dialogue: 0,0:16:22.79,0:16:25.16,Default,,0000,0000,0000,,They all showed up at about\Nthe same time!
+Dialogue: 0,0:16:25.20,0:16:30.04,Default,,0000,0000,0000,,So you have to serve ramen\Nto 100 people at the same time!
+Dialogue: 0,0:16:30.29,0:16:31.91,Default,,0000,0000,0000,,You’re four people…
+Dialogue: 0,0:16:31.95,0:16:35.41,Default,,0000,0000,0000,,Can you really serve at\Nthe same time?
+Dialogue: 0,0:16:36.37,0:16:38.99,Default,,0000,0000,0000,,I said we’re Ninja, didn’t I?
+Dialogue: 0,0:16:39.62,0:16:41.08,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:16:44.29,0:16:45.25,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:55.45,0:16:56.75,Default,,0000,0000,0000,,Now! Lift them!
+Dialogue: 0,0:17:04.99,0:17:07.75,Default,,0000,0000,0000,,– Thanks for waiting. Here you go!\N– Thanks for waiting. Here you go!
+Dialogue: 0,0:17:07.99,0:17:09.08,Default,,0000,0000,0000,,– Oh… 					– Oh…
+Dialogue: 0,0:17:09.12,0:17:14.25,Default,,0000,0000,0000,,Th-The taste is the issue!\Nlf you don’t satisfy us, you lose!
+Dialogue: 0,0:17:25.99,0:17:27.91,Default,,0000,0000,0000,,Delicious!
+Dialogue: 0,0:17:27.99,0:17:30.99,Default,,0000,0000,0000,,– Delicious! 					– Delicious!
+Dialogue: 0,0:17:31.20,0:17:33.91,Default,,0000,0000,0000,,I’ve never had ramen this delicious.
+Dialogue: 0,0:17:35.54,0:17:36.41,Default,,0000,0000,0000,,So then…
+Dialogue: 0,0:17:36.66,0:17:38.99,Default,,0000,0000,0000,,We win!
+Dialogue: 0,0:17:39.41,0:17:41.20,Default,,0000,0000,0000,,– We did it! 					– We did it!
+Dialogue: 0,0:17:42.58,0:17:43.70,Default,,0000,0000,0000,,The truth is…
+Dialogue: 0,0:17:43.83,0:17:47.00,Default,,0000,0000,0000,,We Ninja Chefs are at\Nthe end of our rope…
+Dialogue: 0,0:17:47.66,0:17:48.87,Default,,0000,0000,0000,,End of your rope?
+Dialogue: 0,0:17:48.99,0:17:51.00,Default,,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:17:51.25,0:17:56.79,Default,,0000,0000,0000,,We endeavored to make\Ndelicious meals to eat during missions…
+Dialogue: 0,0:17:57.25,0:17:59.99,Default,,0000,0000,0000,,We thought to make delicious food,\Nto fill your stomach…
+Dialogue: 0,0:18:00.00,0:18:01.50,Default,,0000,0000,0000,,that can be eaten anywhere…
+Dialogue: 0,0:18:04.04,0:18:07.62,Default,,0000,0000,0000,,But we pursued taste too far.
+Dialogue: 0,0:18:07.99,0:18:11.12,Default,,0000,0000,0000,,It was too delicious, people were\Ncompelled to overeat.
+Dialogue: 0,0:18:11.29,0:18:12.66,Default,,0000,0000,0000,,And as a result…
+Dialogue: 0,0:18:17.58,0:18:22.33,Default,,0000,0000,0000,,Ninja gained weight,\Nand it interfered with their missions.
+Dialogue: 0,0:18:22.99,0:18:24.95,Default,,0000,0000,0000,,And some people are now saying,
+Dialogue: 0,0:18:24.99,0:18:27.70,Default,,0000,0000,0000,,“we don’t need\Nthe Ninja Chefs anymore.”
+Dialogue: 0,0:18:28.08,0:18:29.33,Default,,0000,0000,0000,,– Oh… 					– Oh…
+Dialogue: 0,0:18:29.54,0:18:32.54,Default,,0000,0000,0000,,For us Ninja Chefs\Nto continue,
+Dialogue: 0,0:18:32.58,0:18:35.58,Default,,0000,0000,0000,,we had to get our hands on\Nthe “phantom” recipe out there
+Dialogue: 0,0:18:35.62,0:18:37.20,Default,,0000,0000,0000,,in the cooking world!
+Dialogue: 0,0:18:37.70,0:18:38.75,Default,,0000,0000,0000,,Recipe?
+Dialogue: 0,0:18:39.29,0:18:40.99,Default,,0000,0000,0000,,If we use this recipe,
+Dialogue: 0,0:18:40.99,0:18:44.79,Default,,0000,0000,0000,,we can improve the performance\Nof Shinobi without causing a burden.
+Dialogue: 0,0:18:44.99,0:18:46.99,Default,,0000,0000,0000,,There’s such recipe…?
+Dialogue: 0,0:18:47.08,0:18:49.45,Default,,0000,0000,0000,,I hear, it’s called\N“the scum recipe.”
+Dialogue: 0,0:18:49.87,0:18:51.58,Default,,0000,0000,0000,,– The scum recipe?!\N– The scum recipe?!
+Dialogue: 0,0:18:51.91,0:18:54.70,Default,,0000,0000,0000,,We've gathered information\Nfrom everywhere…
+Dialogue: 0,0:18:54.99,0:18:55.99,Default,,0000,0000,0000,,As a result,
+Dialogue: 0,0:18:55.99,0:19:00.04,Default,,0000,0000,0000,,we learned that the scum recipe\Nwas at "Ichiraku" which Teuchi run.
+Dialogue: 0,0:19:00.08,0:19:01.29,Default,,0000,0000,0000,,– What?! 					– What?!
+Dialogue: 0,0:19:02.29,0:19:03.99,Default,,0000,0000,0000,,I-I don’t know!
+Dialogue: 0,0:19:03.99,0:19:05.83,Default,,0000,0000,0000,,There’s no reason something like that\Nshould be at my shop!
+Dialogue: 0,0:19:05.91,0:19:07.37,Default,,0000,0000,0000,,There’s someone who heard it!
+Dialogue: 0,0:19:09.50,0:19:12.00,Default,,0000,0000,0000,,I've got "the scum recipe"\Nat my shop, so…
+Dialogue: 0,0:19:12.45,0:19:14.12,Default,,0000,0000,0000,,Oh… Teuchi…?
+Dialogue: 0,0:19:14.25,0:19:15.50,Default,,0000,0000,0000,,Oh. I might have that.
+Dialogue: 0,0:19:16.33,0:19:17.62,Default,,0000,0000,0000,,Are you serious?!
+Dialogue: 0,0:19:17.99,0:19:19.04,Default,,0000,0000,0000,,I thought so!
+Dialogue: 0,0:19:19.62,0:19:22.37,Default,,0000,0000,0000,,To be precise…\Nlt’s the “scum removal recipe.”
+Dialogue: 0,0:19:25.04,0:19:26.70,Default,,0000,0000,0000,,– Scum removal?\N– Scum removal?
+Dialogue: 0,0:19:26.99,0:19:28.99,Default,,0000,0000,0000,,The trick to making delicious soup…
+Dialogue: 0,0:19:28.99,0:19:31.91,Default,,0000,0000,0000,,is how well you\Nremove the scum.
+Dialogue: 0,0:19:32.41,0:19:33.99,Default,,0000,0000,0000,,So I, too, studied a lot.
+Dialogue: 0,0:19:33.99,0:19:38.99,Default,,0000,0000,0000,,Eventually, I worked out a recipe\Nthat can remove the scum effectively.
+Dialogue: 0,0:19:39.45,0:19:42.70,Default,,0000,0000,0000,,Usually it's called\N“the scum recipe” for short…
+Dialogue: 0,0:19:43.16,0:19:45.99,Default,,0000,0000,0000,,I never thought that\Nthis misunderstanding would arise.
+Dialogue: 0,0:19:46.62,0:19:48.29,Default,,0000,0000,0000,,That’s a pretty big omission.
+Dialogue: 0,0:19:49.87,0:19:52.83,Default,,0000,0000,0000,,Geez. That’s a stupid punch line…
+Dialogue: 0,0:19:53.99,0:19:55.99,Default,,0000,0000,0000,,We won the cooking match,
+Dialogue: 0,0:19:55.99,0:19:58.12,Default,,0000,0000,0000,,so keep your promise\Nand return Ayame!
+Dialogue: 0,0:19:58.16,0:20:01.04,Default,,0000,0000,0000,,That’s right! Where is she?!
+Dialogue: 0,0:20:01.41,0:20:02.75,Default,,0000,0000,0000,,Father!
+Dialogue: 0,0:20:03.99,0:20:06.20,Default,,0000,0000,0000,,Aya…me?
+Dialogue: 0,0:20:12.20,0:20:14.45,Default,,0000,0000,0000,,Ayame…is that you?
+Dialogue: 0,0:20:14.62,0:20:16.00,Default,,0000,0000,0000,,Can’t you tell by looking?
+Dialogue: 0,0:20:16.04,0:20:19.08,Default,,0000,0000,0000,,B-But Ayame is like…
+Dialogue: 0,0:20:22.87,0:20:28.99,Default,,0000,0000,0000,,The food they make is\Nso delicious, I overeat…
+Dialogue: 0,0:20:28.99,0:20:30.58,Default,,0000,0000,0000,,Did I gain that much weight?
+Dialogue: 0,0:20:30.75,0:20:31.99,Default,,0000,0000,0000,,Ayame!
+Dialogue: 0,0:20:36.29,0:20:37.99,Default,,0000,0000,0000,,Ichiraku’s new menu?
+Dialogue: 0,0:20:38.25,0:20:40.99,Default,,0000,0000,0000,,The thing we made\Nat the cooking challenge?
+Dialogue: 0,0:20:41.08,0:20:44.62,Default,,0000,0000,0000,,No, a diet ramen\Nthat’s popular among girls.
+Dialogue: 0,0:20:44.83,0:20:46.20,Default,,0000,0000,0000,,Diet Ramen?
+Dialogue: 0,0:20:50.37,0:20:53.00,Default,,0000,0000,0000,,It’s super popular!
+Dialogue: 0,0:20:55.25,0:20:57.29,Default,,0000,0000,0000,,Oh, come on in, Naruto.
+Dialogue: 0,0:20:57.87,0:20:59.91,Default,,0000,0000,0000,,You’ve regained\Nyour former shape…
+Dialogue: 0,0:21:00.37,0:21:03.04,Default,,0000,0000,0000,,It’s thanks to my father’s\Ndiet ramen!
+Dialogue: 0,0:21:03.37,0:21:05.04,Default,,0000,0000,0000,,Huh? Where's your father?
+Dialogue: 0,0:21:05.45,0:21:09.62,Default,,0000,0000,0000,,Well… While he was joining me\Nin eating the diet ramen…
+Dialogue: 0,0:21:09.66,0:21:11.58,Default,,0000,0000,0000,,Hey… Naruto.
+Dialogue: 0,0:21:15.04,0:21:17.66,Default,,0000,0000,0000,,That’s a little too thin, believe it.
+Dialogue: 0,0:21:31.91,0:21:34.20,Default,,0000,0000,0000,,The wind blows, Ah…
+Dialogue: 0,0:21:34.83,0:21:37.99,Default,,0000,0000,0000,,The pain,\NThe memories won’t disappear
+Dialogue: 0,0:21:38.12,0:21:40.70,Default,,0000,0000,0000,,What should be brought along?
+Dialogue: 0,0:21:41.12,0:21:43.70,Default,,0000,0000,0000,,Assemble them into a piece.
+Dialogue: 0,0:21:44.70,0:21:47.79,Default,,0000,0000,0000,,There is no second chance, never
+Dialogue: 0,0:21:47.87,0:21:50.25,Default,,0000,0000,0000,,How foolish it is to throw away
+Dialogue: 0,0:21:50.99,0:21:53.58,Default,,0000,0000,0000,,Acting so innocently, Ah…
+Dialogue: 0,0:21:54.00,0:21:55.41,Default,,0000,0000,0000,,The images.
+Dialogue: 0,0:21:58.45,0:22:02.50,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:04.99,0:22:08.99,Default,,0000,0000,0000,,It probably will not end
+Dialogue: 0,0:22:10.41,0:22:13.75,Default,,0000,0000,0000,,Burn that love-filled heart,
+Dialogue: 0,0:22:13.75,0:22:16.83,Default,,0000,0000,0000,,Sail across a thousand dreams
+Dialogue: 0,0:22:16.99,0:22:19.87,Default,,0000,0000,0000,,Running freely
+Dialogue: 0,0:22:19.91,0:22:23.41,Default,,0000,0000,0000,,To take hold of the world in hand
+Dialogue: 0,0:22:23.50,0:22:26.54,Default,,0000,0000,0000,,The clouds scatter
+Dialogue: 0,0:22:26.58,0:22:29.50,Default,,0000,0000,0000,,The sun sets yet again
+Dialogue: 0,0:22:29.83,0:22:36.00,Default,,0000,0000,0000,,The solo parade begins to move.
+Dialogue: 0,0:22:36.41,0:22:39.33,Default,,0000,0000,0000,,Adventure, Lucky Day, Heart Beat, Rising,
+Dialogue: 0,0:22:39.37,0:22:42.95,Default,,0000,0000,0000,,Decisive, Encounter, Life, Mutual Love
+Dialogue: 0,0:22:50.99,0:22:53.04,Default,,0000,0000,0000,,Does anyone have anything\Nto ask about this mission?
+Dialogue: 0,0:22:53.12,0:22:53.99,Default,,0000,0000,0000,,I’ve got a question!
+Dialogue: 0,0:22:53.99,0:22:55.87,Default,,0000,0000,0000,,Why should I have to go on\Na mission with this group?
+Dialogue: 0,0:22:55.91,0:22:57.99,Default,,0000,0000,0000,,Okay, let’s move on.\NEveryone ready?
+Dialogue: 0,0:22:57.99,0:23:00.08,Default,,0000,0000,0000,,Hey, I’ve got a question, believe it!
+Dialogue: 0,0:23:00.12,0:23:01.29,Default,,0000,0000,0000,,As for the mission details,
+Dialogue: 0,0:23:01.33,0:23:02.99,Default,,0000,0000,0000,,we’re to eliminate the Demon of the Ocean\Nin the Land of Oceans.
+Dialogue: 0,0:23:03.00,0:23:04.54,Default,,0000,0000,0000,,You guys are going to get\Nfired up for me
+Dialogue: 0,0:23:04.58,0:23:05.99,Default,,0000,0000,0000,,since you came to serve under me!
+Dialogue: 0,0:23:05.99,0:23:07.54,Default,,0000,0000,0000,,Just a minute.\NHey, listen to me!
+Dialogue: 0,0:23:07.58,0:23:08.99,Default,,0000,0000,0000,,Now, let’s get going!
+Dialogue: 0,0:23:08.99,0:23:11.37,Default,,0000,0000,0000,,Stop complaining and\Njust come with me!
+Dialogue: 0,0:23:11.41,0:23:13.45,Default,,0000,0000,0000,,Listen to me, I say.\NListen! Listen! Listen!
+Dialogue: 0,0:23:13.70,0:23:16.12,Default,,0000,0000,0000,,Next time:\N“Remembrance: The Lost Page”

@@ -1,0 +1,326 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.41,0:00:16.70,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.75,0:00:21.45,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:22.04,0:00:26.25,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.29,0:00:29.49,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.45,0:00:33.58,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.62,0:00:40.04,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:40.91,0:00:45.49,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.49,0:00:49.00,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.49,0:00:52.45,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.49,0:00:55.45,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.49,0:00:59.66,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.87,0:01:02.33,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.37,0:01:08.16,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.49,0:01:11.79,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.79,0:01:14.25,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.29,0:01:19.08,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.12,0:01:21.41,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.45,0:01:23.83,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.87,0:01:27.37,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:43.54,0:01:45.50,Default,,0000,0000,0000,,It’s so quiet, isn’t it?
+Dialogue: 0,0:01:46.50,0:01:49.12,Default,,0000,0000,0000,,Peace is a wonderful thing, isn’t it?
+Dialogue: 0,0:01:49.49,0:01:53.75,Default,,0000,0000,0000,,Being able to…\Ndrink sake tranquilly like this…
+Dialogue: 0,0:01:59.04,0:02:02.16,Default,,0000,0000,0000,,Please, this isn’t the time\Nto be drinking sake!
+Dialogue: 0,0:02:04.62,0:02:07.00,Default,,0000,0000,0000,,Especially at a time when\Nthe village is enjoying peace…
+Dialogue: 0,0:02:07.04,0:02:09.49,Default,,0000,0000,0000,,you should hurry up and\Nfinish up your work!
+Dialogue: 0,0:02:10.75,0:02:14.49,Default,,0000,0000,0000,,Why is it that work\Nnever seems to cease?
+Dialogue: 0,0:02:14.79,0:02:18.49,Default,,0000,0000,0000,,That’s because you never bring\Na single thing to completion, Lady Tsunade!
+Dialogue: 0,0:02:19.49,0:02:22.37,Default,,0000,0000,0000,,There’s disquiet among\Nthe Kamizuru Clan?
+Dialogue: 0,0:02:22.75,0:02:24.49,Default,,0000,0000,0000,,That’s a communiqué from\Nthe ANBU Unit
+Dialogue: 0,0:02:24.49,0:02:26.12,Default,,0000,0000,0000,,stationed in the Land of the Earth,\Nisn’t it?
+Dialogue: 0,0:02:26.20,0:02:28.04,Default,,0000,0000,0000,,That’s a name one rarely hears.
+Dialogue: 0,0:02:28.58,0:02:33.29,Default,,0000,0000,0000,,The Kamizuru Clan are the insect handlers\Nof the Hidden Stone Village.
+Dialogue: 0,0:02:33.83,0:02:35.49,Default,,0000,0000,0000,,Long ago, they were so famous\Nas to be extolled
+Dialogue: 0,0:02:35.49,0:02:37.91,Default,,0000,0000,0000,,as equals of the Aburame Clan…
+Dialogue: 0,0:02:40.37,0:02:46.49,Default,,0000,0000,0000,,But they’ve died out and hardly anyone\Nremembers their name…
+Dialogue: 0,0:02:46.54,0:02:48.00,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:02:49.16,0:02:53.08,Default,,0000,0000,0000,,It says there’s been some disquiet,\Nbut there can’t be many of them left.
+Dialogue: 0,0:02:53.49,0:02:55.54,Default,,0000,0000,0000,,It’s really nothing to worry about…
+Dialogue: 0,0:02:59.95,0:03:04.49,Default,,0000,0000,0000,,What's the difference?\N                   Don't All Insects Look Alike?
+Dialogue: 0,0:03:07.58,0:03:10.83,Default,,0000,0000,0000,,Wow… There are so many insects…
+Dialogue: 0,0:03:10.91,0:03:13.49,Default,,0000,0000,0000,,This is truly a paradise for insects…
+Dialogue: 0,0:03:13.95,0:03:15.49,Default,,0000,0000,0000,,We won’t get stung, will we?
+Dialogue: 0,0:03:16.49,0:03:19.04,Default,,0000,0000,0000,,Almost none of these insects will\Ncause bodily harm to humans.
+Dialogue: 0,0:03:19.66,0:03:22.49,Default,,0000,0000,0000,,I do have some of the Aburame Clan’s\Nsecret recipe insect repellant…
+Dialogue: 0,0:03:24.20,0:03:25.58,Default,,0000,0000,0000,,but I would prefer not to use it,\Nif at all possible.
+Dialogue: 0,0:03:26.16,0:03:27.95,Default,,0000,0000,0000,,Because it would also repel\Nthe Bikochu.
+Dialogue: 0,0:03:29.37,0:03:31.66,Default,,0000,0000,0000,,Then you shouldn’t have\Nbrought it out in the first place.
+Dialogue: 0,0:03:35.37,0:03:36.49,Default,,0000,0000,0000,,There’s no mistake…
+Dialogue: 0,0:03:37.12,0:03:38.49,Default,,0000,0000,0000,,That kid in the lead…
+Dialogue: 0,0:03:38.58,0:03:40.83,Default,,0000,0000,0000,,he’s a member of the Abarame Clan,\Nafter all.
+Dialogue: 0,0:03:47.49,0:03:50.62,Default,,0000,0000,0000,,I never imagined that\Nwe’d bump into them in a place like this.
+Dialogue: 0,0:03:51.49,0:03:54.79,Default,,0000,0000,0000,,Is their objective the Bikochu, Jibachi?
+Dialogue: 0,0:03:56.08,0:03:58.49,Default,,0000,0000,0000,,Anyone who wants to get their hands\Non a Bikochu
+Dialogue: 0,0:03:58.49,0:04:01.49,Default,,0000,0000,0000,,has to come to this place\Nduring this particular period.
+Dialogue: 0,0:04:02.49,0:04:06.49,Default,,0000,0000,0000,,The restoration of the Kamizuru Clan\Nrests on the outcome of this mission…
+Dialogue: 0,0:04:07.00,0:04:10.49,Default,,0000,0000,0000,,We need to get our hands on\Na Bikochu, no matter what!
+Dialogue: 0,0:04:15.62,0:04:17.49,Default,,0000,0000,0000,,This is a female bikochu.
+Dialogue: 0,0:04:18.20,0:04:20.20,Default,,0000,0000,0000,,Pound its characteristics into your heads.
+Dialogue: 0,0:04:20.49,0:04:21.33,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:21.79,0:04:22.58,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:04:23.16,0:04:26.00,Default,,0000,0000,0000,,Hey, I’ve seen this thing before…
+Dialogue: 0,0:04:26.83,0:04:28.25,Default,,0000,0000,0000,,Hey, really?!
+Dialogue: 0,0:04:28.29,0:04:29.79,Default,,0000,0000,0000,,Where did you see it, Naruto?
+Dialogue: 0,0:04:31.04,0:04:31.91,Default,,0000,0000,0000,,That was…
+Dialogue: 0,0:04:34.49,0:04:38.75,Default,,0000,0000,0000,,When I inadvertently leave some food out,\Nthey start coming out of nowhere.
+Dialogue: 0,0:04:39.45,0:04:41.37,Default,,0000,0000,0000,,A whole deluge of them…
+Dialogue: 0,0:04:41.83,0:04:44.41,Default,,0000,0000,0000,,So those were Bikochu…
+Dialogue: 0,0:04:46.70,0:04:48.62,Default,,0000,0000,0000,,If it’s those things,\Nthey should be easy to catch.
+Dialogue: 0,0:04:50.16,0:04:51.16,Default,,0000,0000,0000,,Hey…
+Dialogue: 0,0:04:51.49,0:04:52.79,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:04:53.04,0:04:55.33,Default,,0000,0000,0000,,Those are called…cockroaches.
+Dialogue: 0,0:04:55.49,0:04:57.00,Default,,0000,0000,0000,,Huh? Cockroaches?
+Dialogue: 0,0:04:58.49,0:04:59.91,Default,,0000,0000,0000,,You're comparing apples to oranges.
+Dialogue: 0,0:05:00.66,0:05:02.75,Default,,0000,0000,0000,,This thing is completely different!
+Dialogue: 0,0:05:04.70,0:05:06.75,Default,,0000,0000,0000,,They look exactly identical to me…
+Dialogue: 0,0:05:07.04,0:05:08.12,Default,,0000,0000,0000,,– They’re not!\N– They're not!
+Dialogue: 0,0:05:12.49,0:05:15.49,Default,,0000,0000,0000,,Depending on how one looks of it,\Nthis could be an opportunity.
+Dialogue: 0,0:05:15.95,0:05:17.91,Default,,0000,0000,0000,,What do you mean, Suzumebachi?
+Dialogue: 0,0:05:18.50,0:05:21.33,Default,,0000,0000,0000,,It’s been ten days since we came here…
+Dialogue: 0,0:05:21.49,0:05:24.49,Default,,0000,0000,0000,,we haven’t been able to get\Nany leads on the Bikochu.
+Dialogue: 0,0:05:25.04,0:05:27.49,Default,,0000,0000,0000,,However, that kid from\Nthe Abarame Clan might…
+Dialogue: 0,0:05:27.87,0:05:29.00,Default,,0000,0000,0000,,That makes sense!
+Dialogue: 0,0:05:29.29,0:05:32.41,Default,,0000,0000,0000,,You mean they might be able\Nto catch a Bikochu…
+Dialogue: 0,0:05:32.49,0:05:35.83,Default,,0000,0000,0000,,From their appearance,\Nit seems they're all Genin.
+Dialogue: 0,0:05:36.37,0:05:38.66,Default,,0000,0000,0000,,If they're able to catch\Na Bikochu…
+Dialogue: 0,0:05:38.95,0:05:41.50,Default,,0000,0000,0000,,we'll just take it from them.
+Dialogue: 0,0:05:46.37,0:05:49.50,Default,,0000,0000,0000,,All insects look alike.
+Dialogue: 0,0:05:53.49,0:05:54.91,Default,,0000,0000,0000,,Insect Summoning Jutsu!
+Dialogue: 0,0:06:08.54,0:06:10.04,Default,,0000,0000,0000,,There aren’t any…here…
+Dialogue: 0,0:06:34.33,0:06:36.12,Default,,0000,0000,0000,,This thing here\Nis different too, huh…
+Dialogue: 0,0:06:37.54,0:06:38.49,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:51.79,0:06:54.79,Default,,0000,0000,0000,,Don’t be a burden to everyone…
+Dialogue: 0,0:06:56.08,0:06:59.91,Default,,0000,0000,0000,,This mission\Nis something that I suggested…
+Dialogue: 0,0:07:00.04,0:07:02.25,Default,,0000,0000,0000,,so I will find it without fail!
+Dialogue: 0,0:07:02.66,0:07:03.49,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:07:13.49,0:07:14.33,Default,,0000,0000,0000,,Just as I thought…
+Dialogue: 0,0:07:14.37,0:07:17.25,Default,,0000,0000,0000,,it’s difficult to perceive things\Nas small as insects.
+Dialogue: 0,0:07:22.70,0:07:23.49,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:07:31.49,0:07:32.87,Default,,0000,0000,0000,,Shino! Kiba!
+Dialogue: 0,0:07:33.08,0:07:35.16,Default,,0000,0000,0000,,Hinata…Did you notice too?
+Dialogue: 0,0:07:35.95,0:07:37.49,Default,,0000,0000,0000,,So…you did too?
+Dialogue: 0,0:07:38.54,0:07:41.20,Default,,0000,0000,0000,,I guess…they think they’re hiding…
+Dialogue: 0,0:07:41.49,0:07:43.16,Default,,0000,0000,0000,,Unfortunately for them,
+Dialogue: 0,0:07:43.20,0:07:46.70,Default,,0000,0000,0000,,we have a whole array of specialists\Nin detecting enemies.
+Dialogue: 0,0:07:47.49,0:07:50.91,Default,,0000,0000,0000,,What should we do, Shino?\NYou’re the leader of this mission.
+Dialogue: 0,0:07:51.70,0:07:54.49,Default,,0000,0000,0000,,If we end up in a battle,\Nthere’s the danger of involving the insects…
+Dialogue: 0,0:07:55.41,0:07:57.62,Default,,0000,0000,0000,,and injuring the Bikochu.
+Dialogue: 0,0:07:58.95,0:08:01.49,Default,,0000,0000,0000,,As long as they don't make a move,\Nwe'll just watch them closely.
+Dialogue: 0,0:08:01.70,0:08:02.49,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:08:03.00,0:08:05.58,Default,,0000,0000,0000,,I wonder if…Naruto noticed.
+Dialogue: 0,0:08:06.25,0:08:08.58,Default,,0000,0000,0000,,If he had noticed,\Nhe would have raised a big clamor.
+Dialogue: 0,0:08:09.41,0:08:11.79,Default,,0000,0000,0000,,I don’t want to stir things up.\NSo don’t tell him.
+Dialogue: 0,0:08:12.83,0:08:13.50,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:08:13.70,0:08:15.49,Default,,0000,0000,0000,,Hey, Shino! Shino!
+Dialogue: 0,0:08:15.54,0:08:17.37,Default,,0000,0000,0000,,I found it! I found it!
+Dialogue: 0,0:08:18.54,0:08:20.49,Default,,0000,0000,0000,,I’m telling you,\NI found a Bikochu!
+Dialogue: 0,0:08:27.49,0:08:28.49,Default,,0000,0000,0000,,He found it already?!
+Dialogue: 0,0:08:28.49,0:08:29.41,Default,,0000,0000,0000,,That’s impossible!
+Dialogue: 0,0:08:29.45,0:08:32.49,Default,,0000,0000,0000,,When we spent ten days searching\Nand couldn’t find one…!
+Dialogue: 0,0:08:32.79,0:08:35.08,Default,,0000,0000,0000,,Awesome, Naruto…
+Dialogue: 0,0:08:35.70,0:08:37.58,Default,,0000,0000,0000,,Are you sure, Naruto?
+Dialogue: 0,0:08:38.08,0:08:39.20,Default,,0000,0000,0000,,Let me see it.
+Dialogue: 0,0:08:40.83,0:08:42.66,Default,,0000,0000,0000,,See…this is it, right?
+Dialogue: 0,0:08:47.20,0:08:50.12,Default,,0000,0000,0000,,It’s exactly like the photo, right?
+Dialogue: 0,0:08:50.16,0:08:53.04,Default,,0000,0000,0000,,I might be an insect-hunting genius.
+Dialogue: 0,0:08:53.49,0:08:54.20,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:54.41,0:08:56.20,Default,,0000,0000,0000,,Does it look the same to you?
+Dialogue: 0,0:08:56.49,0:08:57.25,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:00.37,0:09:02.41,Default,,0000,0000,0000,,That’s called a goliath beetle…
+Dialogue: 0,0:09:03.41,0:09:06.33,Default,,0000,0000,0000,,Huh?! It’s not the same thing?!
+Dialogue: 0,0:09:14.62,0:09:16.83,Default,,0000,0000,0000,,Bikochu aren’t active at night.
+Dialogue: 0,0:09:17.49,0:09:18.16,Default,,0000,0000,0000,,Which means that…
+Dialogue: 0,0:09:18.49,0:09:20.33,Default,,0000,0000,0000,,Let’s call it a day then.
+Dialogue: 0,0:09:20.91,0:09:22.49,Default,,0000,0000,0000,,Shino… Shino!
+Dialogue: 0,0:09:22.91,0:09:25.83,Default,,0000,0000,0000,,I found one!\NThis time there’s no mistake!
+Dialogue: 0,0:09:26.12,0:09:28.50,Default,,0000,0000,0000,,It’s probably a completely\Ndifferent insect again.
+Dialogue: 0,0:09:28.58,0:09:29.54,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:09:35.91,0:09:37.83,Default,,0000,0000,0000,,Yeah! There’s no mistake!
+Dialogue: 0,0:09:41.83,0:09:42.66,Default,,0000,0000,0000,,Over here! Over here!
+Dialogue: 0,0:09:42.70,0:09:44.83,Default,,0000,0000,0000,,If you don’t hurry,\Nit’ll fly off somewhere!
+Dialogue: 0,0:09:45.08,0:09:46.95,Default,,0000,0000,0000,,Hey, didn’t you bring it with you?
+Dialogue: 0,0:09:47.16,0:09:49.16,Default,,0000,0000,0000,,I found one that’s resting in a tree.
+Dialogue: 0,0:09:57.83,0:10:00.49,Default,,0000,0000,0000,,The shape of its feelers is certainly\Nthe same as Bikochu.
+Dialogue: 0,0:10:00.58,0:10:02.49,Default,,0000,0000,0000,,And all the characteristics match.
+Dialogue: 0,0:10:02.50,0:10:05.04,Default,,0000,0000,0000,,They do, don't they?\NThere’s no mistake it’s this thing, right?!
+Dialogue: 0,0:10:05.41,0:10:07.49,Default,,0000,0000,0000,,B-But…Naruto…
+Dialogue: 0,0:10:07.75,0:10:09.75,Default,,0000,0000,0000,,This thing is different after all, isn’t it?
+Dialogue: 0,0:10:09.91,0:10:11.41,Default,,0000,0000,0000,,Why is that?
+Dialogue: 0,0:10:11.58,0:10:16.49,Default,,0000,0000,0000,,It's not only size! How would you make\Nthis one sniff scents?!
+Dialogue: 0,0:10:17.16,0:10:18.49,Default,,0000,0000,0000,,Like this!
+Dialogue: 0,0:10:19.49,0:10:21.62,Default,,0000,0000,0000,,This thing is called\Na Fake Bikochu.
+Dialogue: 0,0:10:22.29,0:10:24.16,Default,,0000,0000,0000,,It has an extremely\Nviolent temperament…
+Dialogue: 0,0:10:24.49,0:10:28.08,Default,,0000,0000,0000,,It gets angry if one touches its nose\Nand sometimes even eats humans…
+Dialogue: 0,0:10:28.12,0:10:28.58,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:32.20,0:10:32.66,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:47.83,0:10:50.87,Default,,0000,0000,0000,,Hey, Shino! Didn’t you say\Nthere weren’t any dangerous insects!
+Dialogue: 0,0:10:51.04,0:10:53.37,Default,,0000,0000,0000,,Almost none… but not zero.
+Dialogue: 0,0:11:11.49,0:11:13.37,Default,,0000,0000,0000,,Kurobachi… Jibachi…
+Dialogue: 0,0:11:13.41,0:11:17.00,Default,,0000,0000,0000,,Do you really think they'll be able\Nto catch a Bikochu?
+Dialogue: 0,0:11:17.04,0:11:18.49,Default,,0000,0000,0000,,– That might be difficult…\N– That might be difficult…
+Dialogue: 0,0:11:38.62,0:11:41.33,Default,,0000,0000,0000,,Unless I control my Chakra\Nmore perfectly
+Dialogue: 0,0:11:41.37,0:11:43.79,Default,,0000,0000,0000,,I won’t be able to find something\Nas small as an insect!
+Dialogue: 0,0:11:47.83,0:11:50.16,Default,,0000,0000,0000,,To come all this way and\Ncontinue training…
+Dialogue: 0,0:11:50.20,0:11:51.58,Default,,0000,0000,0000,,That’s quite admirable…
+Dialogue: 0,0:12:34.08,0:12:35.37,Default,,0000,0000,0000,,The air pressure has changed.
+Dialogue: 0,0:12:36.45,0:12:37.95,Default,,0000,0000,0000,,That’s a sure sign that\Nthe weather will change.
+Dialogue: 0,0:12:40.08,0:12:41.41,Default,,0000,0000,0000,,Yeah, I realize that.
+Dialogue: 0,0:12:41.83,0:12:44.08,Default,,0000,0000,0000,,A wind charged with moisture\Nhas started blowing…
+Dialogue: 0,0:12:44.12,0:12:46.16,Default,,0000,0000,0000,,This means\Nthere’s gonna be rainfall.
+Dialogue: 0,0:12:48.70,0:12:50.33,Default,,0000,0000,0000,,When it’s such good weather?
+Dialogue: 0,0:12:50.49,0:12:52.83,Default,,0000,0000,0000,,But I can see clouds off in the distance…
+Dialogue: 0,0:12:52.95,0:12:53.58,Default,,0000,0000,0000,,Hinata…
+Dialogue: 0,0:12:56.33,0:12:58.20,Default,,0000,0000,0000,,We need to hurry.
+Dialogue: 0,0:13:00.25,0:13:03.66,Default,,0000,0000,0000,,Because it’s said that the Bikochu\Nonly lays an egg when it rains
+Dialogue: 0,0:13:04.16,0:13:07.50,Default,,0000,0000,0000,,and larva emerges from the egg\Nthe following morning.
+Dialogue: 0,0:13:09.49,0:13:10.37,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:13:10.41,0:13:13.50,Default,,0000,0000,0000,,if it rains today, it'll become\Na mature larva tomorrow morning.
+Dialogue: 0,0:13:13.83,0:13:16.87,Default,,0000,0000,0000,,In view of the season,\Nthis may well be our last chance.
+Dialogue: 0,0:13:17.49,0:13:18.70,Default,,0000,0000,0000,,If this chance slips by,
+Dialogue: 0,0:13:18.75,0:13:21.83,Default,,0000,0000,0000,,it will become impossible to search\Nfor Sasuke using a Bikochu…
+Dialogue: 0,0:13:22.49,0:13:23.58,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:13:35.54,0:13:39.41,Default,,0000,0000,0000,,It’ll be fine.\NI’ll find it without fail!
+Dialogue: 0,0:13:58.25,0:14:00.95,Default,,0000,0000,0000,,Don’t rain… Don’t rain yet!
+Dialogue: 0,0:14:03.37,0:14:05.49,Default,,0000,0000,0000,,Damn! Where is it?!
+Dialogue: 0,0:14:05.62,0:14:07.58,Default,,0000,0000,0000,,Please come on out\Nbefore it rains!
+Dialogue: 0,0:14:07.70,0:14:08.50,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:14:12.49,0:14:14.04,Default,,0000,0000,0000,,What are we gonna do…
+Dialogue: 0,0:14:14.08,0:14:17.49,Default,,0000,0000,0000,,if those guys don’t find\Na Bikochu, Suzumebachi?
+Dialogue: 0,0:14:17.54,0:14:19.25,Default,,0000,0000,0000,,It was the Aburame Clan
+Dialogue: 0,0:14:19.29,0:14:22.95,Default,,0000,0000,0000,,who was the catalyst in\Nthe downfall of the Kamizuru Clan…
+Dialogue: 0,0:14:23.91,0:14:26.58,Default,,0000,0000,0000,,In order to avenge our clan's\Nlongstanding grudge…
+Dialogue: 0,0:14:26.62,0:14:28.29,Default,,0000,0000,0000,,we will finish them off!
+Dialogue: 0,0:14:34.58,0:14:38.20,Default,,0000,0000,0000,,Those guys…\NThey haven’t made a move yet.
+Dialogue: 0,0:14:38.75,0:14:42.49,Default,,0000,0000,0000,,They must know that we’re searching\Nfor the Bikochu.
+Dialogue: 0,0:14:43.33,0:14:46.54,Default,,0000,0000,0000,,Which means that they must be waiting\Nfor us to find one.
+Dialogue: 0,0:14:46.95,0:14:51.58,Default,,0000,0000,0000,,I see…So their plan is to steal it\Nfrom us once we’ve found one...
+Dialogue: 0,0:14:53.50,0:14:55.12,Default,,0000,0000,0000,,What cheapskates…
+Dialogue: 0,0:15:03.16,0:15:03.75,Default,,0000,0000,0000,,Rain…
+Dialogue: 0,0:15:10.25,0:15:12.12,Default,,0000,0000,0000,,Not this one either!
+Dialogue: 0,0:15:12.16,0:15:14.66,Default,,0000,0000,0000,,Damn! When I told it not to rain!
+Dialogue: 0,0:15:19.49,0:15:21.41,Default,,0000,0000,0000,,There's no more time…
+Dialogue: 0,0:15:23.37,0:15:26.41,Default,,0000,0000,0000,,Don’t be a burden to everyone…
+Dialogue: 0,0:15:28.54,0:15:31.75,Default,,0000,0000,0000,,So ultimately…\NI contributed nothing.
+Dialogue: 0,0:15:33.16,0:15:35.49,Default,,0000,0000,0000,,There’s still plenty of time!
+Dialogue: 0,0:15:42.49,0:15:43.49,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:43.66,0:15:48.91,Default,,0000,0000,0000,,I will not go back on my word…\NThat’s my Way of Ninja!
+Dialogue: 0,0:15:53.49,0:15:54.41,Default,,0000,0000,0000,,That’s right…
+Dialogue: 0,0:15:54.75,0:15:57.70,Default,,0000,0000,0000,,This mission is something\NI suggested!
+Dialogue: 0,0:15:58.45,0:16:01.91,Default,,0000,0000,0000,,When Naruto hasn’t given up,\Nwhat’s up with me giving up?!
+Dialogue: 0,0:16:02.49,0:16:03.41,Default,,0000,0000,0000,,Hinata!
+Dialogue: 0,0:16:06.20,0:16:09.66,Default,,0000,0000,0000,,This rain may be\Nvery advantageous to you.
+Dialogue: 0,0:16:10.29,0:16:11.45,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:16:12.04,0:16:15.37,Default,,0000,0000,0000,,When the surrounding temperature cools,
+Dialogue: 0,0:16:15.41,0:16:17.83,Default,,0000,0000,0000,,living creatures become\Neasier to discern.
+Dialogue: 0,0:16:23.66,0:16:26.49,Default,,0000,0000,0000,,Naruto, I won’t give up either!
+Dialogue: 0,0:16:27.49,0:16:28.41,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:16:35.16,0:16:37.54,Default,,0000,0000,0000,,I have to…\NI have to concentrate more…
+Dialogue: 0,0:16:41.58,0:16:47.08,Default,,0000,0000,0000,,I need to… I need to…\Ncontrol my Chakra!
+Dialogue: 0,0:16:48.66,0:16:51.00,Default,,0000,0000,0000,,I can see them!\NSo those are insects!
+Dialogue: 0,0:16:52.62,0:16:56.49,Default,,0000,0000,0000,,That insect…is wrong…
+Dialogue: 0,0:16:58.45,0:17:00.16,Default,,0000,0000,0000,,This insect is wrong too.
+Dialogue: 0,0:17:00.91,0:17:02.12,Default,,0000,0000,0000,,That’s…!
+Dialogue: 0,0:17:05.12,0:17:06.00,Default,,0000,0000,0000,,There it is!
+Dialogue: 0,0:17:07.75,0:17:12.25,Default,,0000,0000,0000,,Naruto! On the side of that tree!\NThere’s a Bikochu there!
+Dialogue: 0,0:17:36.20,0:17:37.54,Default,,0000,0000,0000,,I caught it!
+Dialogue: 0,0:17:37.58,0:17:38.54,Default,,0000,0000,0000,,We did it…!
+Dialogue: 0,0:17:38.58,0:17:40.54,Default,,0000,0000,0000,,I did it! I caught it!
+Dialogue: 0,0:17:46.20,0:17:48.49,Default,,0000,0000,0000,,There’s no mistake.\Nlt’s a female Bikochu.
+Dialogue: 0,0:17:48.87,0:17:51.37,Default,,0000,0000,0000,,– Yes! I did it! 					– Cripes…
+Dialogue: 0,0:17:51.41,0:17:53.49,Default,,0000,0000,0000,,Your tenacity amazes me, Naruto!
+Dialogue: 0,0:17:53.49,0:17:54.58,Default,,0000,0000,0000,,That’s so great, Naruto!
+Dialogue: 0,0:17:54.62,0:17:57.04,Default,,0000,0000,0000,,Hinata! It’s thanks to you!
+Dialogue: 0,0:17:57.49,0:18:01.33,Default,,0000,0000,0000,,Naruto…is…hugging me…!
+Dialogue: 0,0:18:04.49,0:18:06.12,Default,,0000,0000,0000,,What’s the matter, Akamaru?
+Dialogue: 0,0:18:08.12,0:18:09.70,Default,,0000,0000,0000,,All right! It’s an egg!
+Dialogue: 0,0:18:10.37,0:18:11.08,Default,,0000,0000,0000,,It laid an egg, huh…
+Dialogue: 0,0:18:11.91,0:18:12.70,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:18:13.79,0:18:15.54,Default,,0000,0000,0000,,It will emerge by tomorrow…
+Dialogue: 0,0:18:16.54,0:18:19.58,Default,,0000,0000,0000,,So then we should make it\Nrecognize Sasuke’s scent, right?!
+Dialogue: 0,0:18:22.29,0:18:26.37,Default,,0000,0000,0000,,Sasuke… I’ll find you without fail!
+Dialogue: 0,0:18:34.79,0:18:36.66,Default,,0000,0000,0000,,It looks like they finally found one…
+Dialogue: 0,0:18:36.83,0:18:38.49,Default,,0000,0000,0000,,The time has come, hasn’t it?
+Dialogue: 0,0:18:38.70,0:18:39.58,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:18:47.49,0:18:50.33,Default,,0000,0000,0000,,That Naruto… He suddenly…
+Dialogue: 0,0:18:50.49,0:18:52.49,Default,,0000,0000,0000,,pressed his face so close to mine…
+Dialogue: 0,0:18:58.33,0:19:01.00,Default,,0000,0000,0000,,So…you were able\Nto dodge that one just now.
+Dialogue: 0,0:19:03.49,0:19:05.50,Default,,0000,0000,0000,,That was pretty well done\Nfor a Genin.
+Dialogue: 0,0:19:06.29,0:19:09.50,Default,,0000,0000,0000,,They’re the ones who’ve\Nbeen trailing us all this time…
+Dialogue: 0,0:19:10.08,0:19:13.49,Default,,0000,0000,0000,,However, I wonder if you’ll be able\Nto escape from this attack?
+Dialogue: 0,0:19:14.41,0:19:16.49,Default,,0000,0000,0000,,Ninja Art…Honey Jutsu!
+Dialogue: 0,0:19:17.62,0:19:18.49,Default,,0000,0000,0000,,Bees?!
+Dialogue: 0,0:19:30.91,0:19:32.29,Default,,0000,0000,0000,,No… that’s…!
+Dialogue: 0,0:19:35.49,0:19:38.49,Default,,0000,0000,0000,,It looks like you’ve noticed, huh.\NThat’s honey.
+Dialogue: 0,0:19:38.83,0:19:41.49,Default,,0000,0000,0000,,Honey that adheres like a bonding agent!
+Dialogue: 0,0:19:46.83,0:19:48.83,Default,,0000,0000,0000,,I used up all my Chakra earlier…
+Dialogue: 0,0:19:55.45,0:19:57.49,Default,,0000,0000,0000,,That thing is a real bee.
+Dialogue: 0,0:20:00.33,0:20:01.54,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:20:12.50,0:20:13.70,Default,,0000,0000,0000,,What do you think, Akamaru?
+Dialogue: 0,0:20:15.49,0:20:16.29,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:20:16.66,0:20:19.95,Default,,0000,0000,0000,,I was convinced that those guys\Nwould make some kind of move.
+Dialogue: 0,0:20:20.49,0:20:22.20,Default,,0000,0000,0000,,There hasn’t been any sign\Nof them since earlier on…
+Dialogue: 0,0:20:22.49,0:20:25.37,Default,,0000,0000,0000,,There’s a possibility that\Nwe’ve overlooked something.
+Dialogue: 0,0:20:27.29,0:20:28.41,Default,,0000,0000,0000,,Hey, Naruto!
+Dialogue: 0,0:20:28.49,0:20:29.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:29.49,0:20:30.49,Default,,0000,0000,0000,,Where’s Hinata?
+Dialogue: 0,0:20:30.49,0:20:32.08,Default,,0000,0000,0000,,She said she was gonna\Ngo wash her face.
+Dialogue: 0,0:20:32.41,0:20:33.25,Default,,0000,0000,0000,,Hmm…
+Dialogue: 0,0:20:33.66,0:20:38.04,Default,,0000,0000,0000,,But it’s been quite some time.\NI wonder what she’s doing?
+Dialogue: 0,0:20:38.33,0:20:39.25,Default,,0000,0000,0000,,Could it be that…?!
+Dialogue: 0,0:20:39.49,0:20:40.58,Default,,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:20:41.49,0:20:42.49,Default,,0000,0000,0000,,– Naruto! 					– Wha--?!
+Dialogue: 0,0:20:46.79,0:20:48.04,Default,,0000,0000,0000,,A letter on a Kunai?
+Dialogue: 0,0:20:48.49,0:20:49.20,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:51.20,0:20:53.41,Default,,0000,0000,0000,,We are holding the Kunoichi\Nbrat hostage.
+Dialogue: 0,0:20:53.54,0:20:55.00,Default,,0000,0000,0000,,If you want to get her back,
+Dialogue: 0,0:20:55.04,0:20:57.00,Default,,0000,0000,0000,,it’ll be in exchange for\Nthe Bikochu.
+Dialogue: 0,0:20:57.04,0:21:00.49,Default,,0000,0000,0000,,Come to the top of\Nthe eastern hill later tonight.
+Dialogue: 0,0:21:01.25,0:21:03.25,Default,,0000,0000,0000,,Damn! So that was their move!
+Dialogue: 0,0:21:04.37,0:21:05.16,Default,,0000,0000,0000,,Hinata…!
+Dialogue: 0,0:21:28.49,0:21:32.62,Default,,0000,0000,0000,,Crappy news pass us by
+Dialogue: 0,0:21:32.66,0:21:36.20,Default,,0000,0000,0000,,And you become speechless
+Dialogue: 0,0:21:37.49,0:21:42.20,Default,,0000,0000,0000,,My voice is way too soft
+Dialogue: 0,0:21:42.25,0:21:45.49,Default,,0000,0000,0000,,So you don’t answer
+Dialogue: 0,0:21:46.49,0:21:51.12,Default,,0000,0000,0000,,You’re crying   Crying alone
+Dialogue: 0,0:21:51.16,0:21:55.95,Default,,0000,0000,0000,,What can I do?   I’m crying too
+Dialogue: 0,0:21:56.00,0:21:58.49,Default,,0000,0000,0000,,“Let my lonely scream ring out\Nthrough the night”
+Dialogue: 0,0:21:58.49,0:22:07.66,Default,,0000,0000,0000,,I’ll thrash this confused era\Nwith my speed   Yeah
+Dialogue: 0,0:22:07.70,0:22:17.41,Default,,0000,0000,0000,,And I’ll thrash this confused night\Nwith my speed   Yeah
+Dialogue: 0,0:22:17.45,0:22:26.49,Default,,0000,0000,0000,,I’ll thrash them with my piercing guitar\Nand my speed   Yeah
+Dialogue: 0,0:22:26.58,0:22:38.37,Default,,0000,0000,0000,,This sinking world and its evil bastards,\NI’ll kick their butt   Yeah
+Dialogue: 0,0:22:51.25,0:22:53.58,Default,,0000,0000,0000,,Damn! We've run out of options!
+Dialogue: 0,0:22:53.62,0:22:54.66,Default,,0000,0000,0000,,It's too soon to give up.
+Dialogue: 0,0:22:54.70,0:22:57.00,Default,,0000,0000,0000,,But we don't even know\Nwhere Hinata is?!
+Dialogue: 0,0:22:57.12,0:23:01.04,Default,,0000,0000,0000,,No, there's one place Hinata\Nis sure to appear.
+Dialogue: 0,0:23:01.49,0:23:04.04,Default,,0000,0000,0000,,I get it! The place where\Nthe exchange will take place!
+Dialogue: 0,0:23:04.08,0:23:04.95,Default,,0000,0000,0000,,We have one chance.
+Dialogue: 0,0:23:05.08,0:23:06.75,Default,,0000,0000,0000,,Awright! I'll do it!
+Dialogue: 0,0:23:06.87,0:23:11.16,Default,,0000,0000,0000,,I'll protect Hinata and\Nthe Faint Scent Beetle without fail!
+Dialogue: 0,0:23:11.49,0:23:16.66,Default,,0000,0000,0000,,Next episode: “A Battle of Bugs!\NThe Deceivers and the Deceived!”

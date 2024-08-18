@@ -1,0 +1,256 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.25,0:00:13.96,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.41,0:00:33.64,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.64,0:00:39.65,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:40.08,0:00:45.66,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.66,0:00:51.33,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.60,0:00:57.90,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:57.94,0:01:04.94,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:05.04,0:01:17.66,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.66,0:01:24.00,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:24.03,0:01:29.23,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:01:42.71,0:01:44.12,Default,,0000,0000,0000,,Stop that!
+Dialogue: 0,0:01:45.58,0:01:49.49,Default,,0000,0000,0000,,Sorry to have kept you waiting!\NNaruto Uzumaki has just arrived!
+Dialogue: 0,0:01:51.66,0:01:54.56,Default,,0000,0000,0000,,I’m not handing Gantetsu over\Nto you, no matter what!
+Dialogue: 0,0:02:16.41,0:02:17.42,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:02:18.72,0:02:19.72,Default,,0000,0000,0000,,It can’t be…!
+Dialogue: 0,0:02:21.79,0:02:26.62,Default,,0000,0000,0000,,To Each His Own Path
+Dialogue: 0,0:02:28.66,0:02:31.73,Default,,0000,0000,0000,,You… You mean you ripped\Nthrough my net?!
+Dialogue: 0,0:02:31.96,0:02:37.03,Default,,0000,0000,0000,,I can cut through a weak flimsy net\Nlike that with a single bite!
+Dialogue: 0,0:02:41.04,0:02:43.81,Default,,0000,0000,0000,,It’s useless! You won’t be able to\Ntear through my Mesh Cage!
+Dialogue: 0,0:02:50.82,0:02:53.85,Default,,0000,0000,0000,,I’m gonna have Gantetsu back!
+Dialogue: 0,0:02:53.92,0:02:55.79,Default,,0000,0000,0000,,I’m telling you, it’s useless!
+Dialogue: 0,0:02:59.16,0:03:01.86,Default,,0000,0000,0000,,Damn it! I can’t get this thing off!
+Dialogue: 0,0:03:01.96,0:03:03.79,Default,,0000,0000,0000,,Here, just die already!
+Dialogue: 0,0:03:07.10,0:03:08.10,Default,,0000,0000,0000,,–Naruto! 					–Naruto!
+Dialogue: 0,0:03:17.64,0:03:18.71,Default,,0000,0000,0000,,You’re mine!
+Dialogue: 0,0:03:24.65,0:03:26.12,Default,,0000,0000,0000,,Too bad!
+Dialogue: 0,0:03:26.48,0:03:28.79,Default,,0000,0000,0000,,So it’s you who’s gonna die,\Nafter all!
+Dialogue: 0,0:03:30.82,0:03:32.26,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:03:32.99,0:03:33.99,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:03:36.33,0:03:38.36,Default,,0000,0000,0000,,This is the end for you!
+Dialogue: 0,0:03:49.64,0:03:50.64,Default,,0000,0000,0000,,What’s that?!
+Dialogue: 0,0:03:52.04,0:03:53.64,Default,,0000,0000,0000,,Shura, on the scene!
+Dialogue: 0,0:03:56.65,0:04:00.65,Default,,0000,0000,0000,,The kid! The kid inside that net\Nknows where the treasure is!
+Dialogue: 0,0:04:05.92,0:04:07.79,Default,,0000,0000,0000,,Good job, Monju!
+Dialogue: 0,0:04:13.66,0:04:15.33,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:04:15.70,0:04:16.70,Default,,0000,0000,0000,,Akio…?!
+Dialogue: 0,0:04:18.40,0:04:22.17,Default,,0000,0000,0000,,–Akio! Bro! 					–Akio! Bro!
+Dialogue: 0,0:04:29.11,0:04:30.11,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:04:31.22,0:04:32.22,Default,,0000,0000,0000,,Gantetsu…
+Dialogue: 0,0:04:32.65,0:04:34.95,Default,,0000,0000,0000,,I heard you say the name Akio,\Njust now…
+Dialogue: 0,0:04:35.75,0:04:36.75,Default,,0000,0000,0000,,Who in the world is that kid?
+Dialogue: 0,0:04:37.66,0:04:40.32,Default,,0000,0000,0000,,That kid… Akio…
+Dialogue: 0,0:04:41.66,0:04:45.36,Default,,0000,0000,0000,,He’s your…\NHe’s your little brother.
+Dialogue: 0,0:04:49.27,0:04:50.53,Default,,0000,0000,0000,,Th-That’s a lie!
+Dialogue: 0,0:04:52.04,0:04:54.77,Default,,0000,0000,0000,,My younger brother…\NMy younger brother has…
+Dialogue: 0,0:04:58.91,0:05:00.21,Default,,0000,0000,0000,,In those flames…
+Dialogue: 0,0:05:07.65,0:05:08.65,Default,,0000,0000,0000,,Akio…
+Dialogue: 0,0:05:14.86,0:05:18.06,Default,,0000,0000,0000,,You…killed him…!
+Dialogue: 0,0:05:18.10,0:05:19.10,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:05:19.16,0:05:21.53,Default,,0000,0000,0000,,Gantetsu hasn’t killed anybody!
+Dialogue: 0,0:05:21.87,0:05:24.77,Default,,0000,0000,0000,,He rescued us! He rescued Akio!
+Dialogue: 0,0:05:26.77,0:05:27.77,Default,,0000,0000,0000,,Five years ago.
+Dialogue: 0,0:05:30.68,0:05:33.81,Default,,0000,0000,0000,,I had developed a distate for\Nthe Ninja Dropout’s way…
+Dialogue: 0,0:05:34.55,0:05:36.45,Default,,0000,0000,0000,,I found myself carrying Akio…
+Dialogue: 0,0:05:36.78,0:05:37.78,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:05:41.85,0:05:43.49,Default,,0000,0000,0000,,Elder brother!
+Dialogue: 0,0:05:43.52,0:05:45.66,Default,,0000,0000,0000,,No! You’ll inhale smoke!
+Dialogue: 0,0:05:51.56,0:05:52.56,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:05:54.03,0:05:57.70,Default,,0000,0000,0000,,I thought I could change a little\Nif I could only save that child.
+Dialogue: 0,0:06:00.64,0:06:02.04,Default,,0000,0000,0000,,But that’s not what happened!
+Dialogue: 0,0:06:04.81,0:06:08.65,Default,,0000,0000,0000,,I just continued to create\Nvictims like Akio.
+Dialogue: 0,0:06:09.95,0:06:12.85,Default,,0000,0000,0000,,So that’s why I started planning\Nwhat’s happening right now
+Dialogue: 0,0:06:12.92,0:06:14.65,Default,,0000,0000,0000,,in order to exterminate\Nthe Ninja Dropouts.
+Dialogue: 0,0:06:17.15,0:06:18.42,Default,,0000,0000,0000,,So that’s what happened…
+Dialogue: 0,0:06:21.13,0:06:23.66,Default,,0000,0000,0000,,–Gantetsu!\N–Gantetsu, are you all right?
+Dialogue: 0,0:06:23.69,0:06:24.90,Default,,0000,0000,0000,,You’re not hurt, are you?
+Dialogue: 0,0:06:25.50,0:06:27.20,Default,,0000,0000,0000,,I’m glad you’re ok.
+Dialogue: 0,0:06:28.57,0:06:30.70,Default,,0000,0000,0000,,They are children from the houses\Nthat the Ninja Dropouts attacked…
+Dialogue: 0,0:06:31.74,0:06:33.77,Default,,0000,0000,0000,,Using the money Gantetsu poached\Nfrom the gang,
+Dialogue: 0,0:06:33.80,0:06:37.58,Default,,0000,0000,0000,,Akio, the oldest, has been\Ntaking care of them.
+Dialogue: 0,0:06:38.64,0:06:41.95,Default,,0000,0000,0000,,Gantetsu is just like\Nthe central figure of a family.
+Dialogue: 0,0:06:44.01,0:06:45.02,Default,,0000,0000,0000,,I can’t believe this…
+Dialogue: 0,0:06:45.98,0:06:48.82,Default,,0000,0000,0000,,You mean that…the kid who\Nwas there just now was…
+Dialogue: 0,0:07:23.69,0:07:25.99,Default,,0000,0000,0000,,Akio!!
+Dialogue: 0,0:07:41.37,0:07:42.94,Default,,0000,0000,0000,,Where are you going…Gantetsu?!
+Dialogue: 0,0:07:45.64,0:07:46.84,Default,,0000,0000,0000,,To the Ninja Dropouts' hideout.
+Dialogue: 0,0:07:49.48,0:07:51.65,Default,,0000,0000,0000,,I’m gonna get…Akio back!
+Dialogue: 0,0:07:52.22,0:07:56.75,Default,,0000,0000,0000,,I will get Akio back! Your only job\Nis to guide me there!
+Dialogue: 0,0:07:57.25,0:07:58.66,Default,,0000,0000,0000,,Don’t interfere!
+Dialogue: 0,0:07:58.66,0:08:01.23,Default,,0000,0000,0000,,Todoroki, I understand how you feel.
+Dialogue: 0,0:08:01.56,0:08:04.20,Default,,0000,0000,0000,,However, Gantetsu saved Akio\Nand all these other kids
+Dialogue: 0,0:08:04.23,0:08:06.53,Default,,0000,0000,0000,,from the Ninja Dropouts!
+Dialogue: 0,0:08:06.86,0:08:08.67,Default,,0000,0000,0000,,Besides, there’s something\Nyou should do before that!
+Dialogue: 0,0:08:08.87,0:08:09.87,Default,,0000,0000,0000,,Don’t mess around with me!
+Dialogue: 0,0:08:10.73,0:08:15.64,Default,,0000,0000,0000,,Even so, this guy…Gantetsu…\Nis a member of the Ninja Dropouts.
+Dialogue: 0,0:08:16.64,0:08:19.31,Default,,0000,0000,0000,,The Ninja Dropouts killed my parents!
+Dialogue: 0,0:08:21.58,0:08:22.78,Default,,0000,0000,0000,,You’re absolutely right.
+Dialogue: 0,0:08:23.51,0:08:25.42,Default,,0000,0000,0000,,My own crime will never\Nbe washed away.
+Dialogue: 0,0:08:29.25,0:08:33.62,Default,,0000,0000,0000,,As soon as I get Akio back…\Nyou can…do whatever you like to me!
+Dialogue: 0,0:08:37.16,0:08:38.60,Default,,0000,0000,0000,,I’m going, too!
+Dialogue: 0,0:08:38.66,0:08:39.66,Default,,0000,0000,0000,,Me, too!
+Dialogue: 0,0:08:40.00,0:08:42.67,Default,,0000,0000,0000,,Then, Sakura, please look\Nafter the children!
+Dialogue: 0,0:08:42.77,0:08:43.77,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:09:13.66,0:09:14.67,Default,,0000,0000,0000,,Todoroki…
+Dialogue: 0,0:09:15.17,0:09:19.64,Default,,0000,0000,0000,,I’ve continued hating that guy\Nfor five years…
+Dialogue: 0,0:09:27.95,0:09:29.48,Default,,0000,0000,0000,,What am I supposed to do now…?
+Dialogue: 0,0:09:30.45,0:09:31.45,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:09:35.59,0:09:38.19,Default,,0000,0000,0000,,In any case, we’ve got to take care\Nof your little brother right now!
+Dialogue: 0,0:09:38.62,0:09:39.62,Default,,0000,0000,0000,,I know that!
+Dialogue: 0,0:09:40.12,0:09:43.56,Default,,0000,0000,0000,,This time for sure…\NI’ll rescue Akio!
+Dialogue: 0,0:09:59.18,0:10:01.65,Default,,0000,0000,0000,,Where did you stash our treasure?!
+Dialogue: 0,0:10:03.25,0:10:05.65,Default,,0000,0000,0000,,Where’s your hideout?!
+Dialogue: 0,0:10:09.52,0:10:10.65,Default,,0000,0000,0000,,Come on! Talk!
+Dialogue: 0,0:10:12.62,0:10:15.06,Default,,0000,0000,0000,,I’ll never…tell you!
+Dialogue: 0,0:10:15.66,0:10:17.39,Default,,0000,0000,0000,,You little brat!
+Dialogue: 0,0:10:25.44,0:10:27.77,Default,,0000,0000,0000,,That’s the Ninja Dropouts’ hideout…
+Dialogue: 0,0:10:31.44,0:10:33.91,Default,,0000,0000,0000,,That residence belongs\Nto Shura, the leader.
+Dialogue: 0,0:10:35.08,0:10:36.65,Default,,0000,0000,0000,,I’m pretty sure that’s where Akio will be.
+Dialogue: 0,0:10:39.65,0:10:40.65,Default,,0000,0000,0000,,Akio…
+Dialogue: 0,0:10:44.82,0:10:46.79,Default,,0000,0000,0000,,Oh! Hey! Todoroki! Wait!
+Dialogue: 0,0:10:47.66,0:10:48.66,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:10:59.64,0:11:01.64,Default,,0000,0000,0000,,This ain’t good! They’ll detect us!
+Dialogue: 0,0:11:19.16,0:11:21.33,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:11:22.36,0:11:24.33,Default,,0000,0000,0000,,Let me handle this situation!
+Dialogue: 0,0:11:25.23,0:11:26.60,Default,,0000,0000,0000,,I leave it to you, Bushy-Brows.
+Dialogue: 0,0:11:31.87,0:11:33.00,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:11:33.57,0:11:34.57,Default,,0000,0000,0000,,This way.
+Dialogue: 0,0:11:36.91,0:11:40.48,Default,,0000,0000,0000,,I’m pretty sure that Akio is\Nbeing tortured in the basement…
+Dialogue: 0,0:11:43.25,0:11:44.65,Default,,0000,0000,0000,,That guy was once a Ninja.
+Dialogue: 0,0:11:45.28,0:11:47.12,Default,,0000,0000,0000,,There’s no telling what\Nhe’ll try to do.
+Dialogue: 0,0:11:49.49,0:11:50.65,Default,,0000,0000,0000,,I’ll go first.
+Dialogue: 0,0:12:06.44,0:12:07.44,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:12:07.64,0:12:08.77,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:12:08.81,0:12:10.17,Default,,0000,0000,0000,,Akio…!
+Dialogue: 0,0:12:13.44,0:12:14.58,Default,,0000,0000,0000,,Gantetsu…!
+Dialogue: 0,0:12:14.65,0:12:15.65,Default,,0000,0000,0000,,You jerk…!
+Dialogue: 0,0:12:15.71,0:12:16.71,Default,,0000,0000,0000,,Don’t come over here!
+Dialogue: 0,0:12:20.48,0:12:21.49,Default,,0000,0000,0000,,Gantetsu!
+Dialogue: 0,0:12:21.65,0:12:22.65,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:12:22.82,0:12:24.19,Default,,0000,0000,0000,,Hey! Gantetsu!
+Dialogue: 0,0:12:28.96,0:12:31.66,Default,,0000,0000,0000,,So only one animal got caught\Nin the net, huh…?
+Dialogue: 0,0:12:32.00,0:12:33.00,Default,,0000,0000,0000,,Shura!
+Dialogue: 0,0:12:33.46,0:12:37.40,Default,,0000,0000,0000,,He’s one stubborn brat.\NHe never unsealed his lips.
+Dialogue: 0,0:12:37.94,0:12:40.70,Default,,0000,0000,0000,,I’ll use another method to\Nget back the treasure.
+Dialogue: 0,0:12:41.44,0:12:43.64,Default,,0000,0000,0000,,After I’ve killed the lot of you!
+Dialogue: 0,0:13:07.66,0:13:09.40,Default,,0000,0000,0000,,Naruto, pursue Shura!
+Dialogue: 0,0:13:10.17,0:13:13.07,Default,,0000,0000,0000,,We’ll be fine! Iron bars\Nlike this are nothing!
+Dialogue: 0,0:13:15.77,0:13:17.01,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:13:17.64,0:13:19.64,Default,,0000,0000,0000,,Todoroki, I’m leaving this\Nin your hands!
+Dialogue: 0,0:13:54.98,0:13:56.11,Default,,0000,0000,0000,,Farewell.
+Dialogue: 0,0:13:59.15,0:14:01.25,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu.
+Dialogue: 0,0:14:44.60,0:14:46.00,Default,,0000,0000,0000,,Todoroki, you take care of Akio!
+Dialogue: 0,0:14:58.21,0:14:59.28,Default,,0000,0000,0000,,Todoroki!
+Dialogue: 0,0:15:20.56,0:15:22.17,Default,,0000,0000,0000,,Blood Rain!
+Dialogue: 0,0:15:39.02,0:15:42.35,Default,,0000,0000,0000,,I won’t forgive you…\Nno matter what!
+Dialogue: 0,0:15:42.75,0:15:44.02,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:16:24.39,0:16:25.60,Default,,0000,0000,0000,,So that’s what happened…
+Dialogue: 0,0:16:26.60,0:16:30.07,Default,,0000,0000,0000,,Gantetsu…\Nthat’s how you protected Akio…
+Dialogue: 0,0:16:31.17,0:16:33.90,Default,,0000,0000,0000,,Yet I… I…!
+Dialogue: 0,0:17:02.03,0:17:03.60,Default,,0000,0000,0000,,Gantetsu! Give me Akio!
+Dialogue: 0,0:17:12.18,0:17:15.75,Default,,0000,0000,0000,,Elder brother…\Nyou came to rescue me, after all…
+Dialogue: 0,0:17:15.95,0:17:17.85,Default,,0000,0000,0000,,Hang in there, Akio!
+Dialogue: 0,0:17:18.92,0:17:22.62,Default,,0000,0000,0000,,My elder brother…\NTodoroki, it's really you, isn't it?
+Dialogue: 0,0:17:53.15,0:17:55.02,Default,,0000,0000,0000,,This spells the end of the Ninja Dropout.
+Dialogue: 0,0:17:55.65,0:17:56.65,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:17:56.65,0:17:57.65,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:17:59.69,0:18:01.53,Default,,0000,0000,0000,,But where is Naruto?
+Dialogue: 0,0:18:02.66,0:18:04.06,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:05.16,0:18:08.67,Default,,0000,0000,0000,,Naruto Uzumaki! On the scene…!
+Dialogue: 0,0:18:15.74,0:18:17.57,Default,,0000,0000,0000,,Naruto! Lee!
+Dialogue: 0,0:18:18.41,0:18:19.64,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:18:19.88,0:18:22.11,Default,,0000,0000,0000,,Akio’s back!
+Dialogue: 0,0:18:22.98,0:18:24.25,Default,,0000,0000,0000,,It’s Akio…!
+Dialogue: 0,0:18:24.95,0:18:26.98,Default,,0000,0000,0000,,Are you all right, Akio?!
+Dialogue: 0,0:18:27.22,0:18:28.19,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:18:28.25,0:18:29.65,Default,,0000,0000,0000,,Oh my gosh, you’re hurt!
+Dialogue: 0,0:18:29.95,0:18:32.66,Default,,0000,0000,0000,,I’m fine. It’s nothing!
+Dialogue: 0,0:18:33.32,0:18:36.29,Default,,0000,0000,0000,,Sakura, could you\Ntake care of his wound?
+Dialogue: 0,0:18:36.49,0:18:37.49,Default,,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:18:39.90,0:18:40.90,Default,,0000,0000,0000,,Take care of him.
+Dialogue: 0,0:18:47.50,0:18:50.74,Default,,0000,0000,0000,,Apologies for the inconvenience…\NLet’s head to the capital.
+Dialogue: 0,0:18:58.58,0:19:00.28,Default,,0000,0000,0000,,I just cannot forgive you.
+Dialogue: 0,0:19:01.65,0:19:04.86,Default,,0000,0000,0000,,But it is true that you rescued Akio.
+Dialogue: 0,0:19:08.83,0:19:10.56,Default,,0000,0000,0000,,The Ninja Dropouts\Nhave been annihilated.
+Dialogue: 0,0:19:11.80,0:19:13.66,Default,,0000,0000,0000,,Gantetsu got caught up\Nand died in the fighting
+Dialogue: 0,0:19:13.66,0:19:15.37,Default,,0000,0000,0000,,that ensued while being escorted.
+Dialogue: 0,0:19:17.63,0:19:18.64,Default,,0000,0000,0000,,Elder brother…
+Dialogue: 0,0:19:19.70,0:19:20.70,Default,,0000,0000,0000,,Todoroki…
+Dialogue: 0,0:19:25.64,0:19:29.15,Default,,0000,0000,0000,,Yeah! Great! That's great!
+Dialogue: 0,0:19:36.35,0:19:37.65,Default,,0000,0000,0000,,You’re gonna stay here, right?
+Dialogue: 0,0:19:38.42,0:19:39.42,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:40.19,0:19:43.96,Default,,0000,0000,0000,,You’re gonna stay here with Gantetsu\Nand the other children, right?
+Dialogue: 0,0:19:49.10,0:19:50.77,Default,,0000,0000,0000,,I haven’t been a good brother…
+Dialogue: 0,0:19:52.04,0:19:55.54,Default,,0000,0000,0000,,But you are an irreplaceable\Nelder brother for those children.
+Dialogue: 0,0:19:57.44,0:19:58.44,Default,,0000,0000,0000,,Elder brother…
+Dialogue: 0,0:20:03.75,0:20:04.75,Default,,0000,0000,0000,,What's this…?
+Dialogue: 0,0:20:05.65,0:20:06.65,Default,,0000,0000,0000,,This is the souvenir that
+Dialogue: 0,0:20:06.65,0:20:07.65,Default,,0000,0000,0000,,I didn’t have a chance to\Ngive you back then.
+Dialogue: 0,0:20:12.86,0:20:15.66,Default,,0000,0000,0000,,Elder brother… Thank you.
+Dialogue: 0,0:20:26.07,0:20:27.64,Default,,0000,0000,0000,,Let’s go! Ninja!
+Dialogue: 0,0:20:28.21,0:20:29.21,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:29.24,0:20:31.64,Default,,0000,0000,0000,,–Good bye! 					–Good bye!
+Dialogue: 0,0:20:31.64,0:20:32.91,Default,,0000,0000,0000,,–Take care, everyone!
+Dialogue: 0,0:20:32.94,0:20:33.94,Default,,0000,0000,0000,,–See you!
+Dialogue: 0,0:20:34.21,0:20:42.29,Default,,0000,0000,0000,,–Bye! 					–See you!
+Dialogue: 0,0:20:54.10,0:20:57.17,Default,,0000,0000,0000,,Hey… How are we gonna\Nget out of this forest…
+Dialogue: 0,0:20:57.20,0:20:59.07,Default,,0000,0000,0000,,without Gantetsu?!
+Dialogue: 0,0:20:59.54,0:21:00.64,Default,,0000,0000,0000,,We can’t go back now!
+Dialogue: 0,0:21:01.10,0:21:03.64,Default,,0000,0000,0000,,We took this path earlier\Non too, didn’t we…?
+Dialogue: 0,0:21:04.04,0:21:05.24,Default,,0000,0000,0000,,I’m starving…
+Dialogue: 0,0:21:05.71,0:21:07.38,Default,,0000,0000,0000,,I can’t go on.
+Dialogue: 0,0:21:09.31,0:21:14.42,Default,,0000,0000,0000,,Hey! Somebody rescue us!
+Dialogue: 0,0:21:19.29,0:21:23.66,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.66,0:21:29.90,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.44,0:21:39.68,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.71,0:21:44.41,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.45,0:21:49.32,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:49.35,0:21:54.16,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:54.19,0:21:59.10,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:59.16,0:22:03.50,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.53,0:22:07.80,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.87,0:22:15.31,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:15.35,0:22:19.22,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:19.25,0:22:24.52,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.55,0:22:28.66,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.66,0:22:33.53,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.66,0:22:38.17,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:38.20,0:22:44.31,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.98,0:22:53.45,Default,,0000,0000,0000,,Naruto, what on earth were you thinking?
+Dialogue: 0,0:22:53.48,0:22:56.15,Default,,0000,0000,0000,,What? I only brought an injured person\Nto the hospital.
+Dialogue: 0,0:22:56.19,0:22:58.29,Default,,0000,0000,0000,,But to bring an outsider\Ninto the village…
+Dialogue: 0,0:22:58.32,0:23:00.66,Default,,0000,0000,0000,,But I’m sure he is not a bad guy at all.
+Dialogue: 0,0:23:00.66,0:23:03.49,Default,,0000,0000,0000,,I understand your feelings,\Nbut he has amnesia.
+Dialogue: 0,0:23:03.53,0:23:05.46,Default,,0000,0000,0000,,There is a possibility that\Nhe’s an enemy spy.
+Dialogue: 0,0:23:05.50,0:23:06.53,Default,,0000,0000,0000,,Please, Grandma.
+Dialogue: 0,0:23:06.56,0:23:08.40,Default,,0000,0000,0000,,I’ll make an exception,\Njust this one time.
+Dialogue: 0,0:23:08.67,0:23:12.00,Default,,0000,0000,0000,,But you will be his keeper, and will be\Nheld accountable for all his actions.
+Dialogue: 0,0:23:12.20,0:23:13.20,Default,,0000,0000,0000,,That’s all.
+Dialogue: 0,0:23:13.24,0:23:15.07,Default,,0000,0000,0000,,Next time: “Vanished Memories”

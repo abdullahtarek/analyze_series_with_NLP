@@ -1,0 +1,247 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.75,0:00:21.08,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.99,0:00:29.99,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.99,0:00:35.29,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.33,0:00:39.45,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.70,0:00:45.62,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.25,0:00:53.16,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.62,0:00:58.04,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:58.08,0:01:05.08,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.20,0:01:12.33,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.37,0:01:19.00,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.45,0:01:28.99,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:02:06.99,0:02:09.00,Default,,0000,0000,0000,,The smell is moving away…
+Dialogue: 0,0:02:10.29,0:02:13.12,Default,,0000,0000,0000,,I’m saved…
+Dialogue: 0,0:02:14.08,0:02:15.04,Default,,0000,0000,0000,,Who is?
+Dialogue: 0,0:02:26.50,0:02:27.99,Default,,0000,0000,0000,,Please wait!
+Dialogue: 0,0:02:29.79,0:02:32.41,Default,,0000,0000,0000,,The real deal…starts now!
+Dialogue: 0,0:02:35.99,0:02:40.99,Default,,0000,0000,0000,,My role now is to stall this person\Nas long as possible…
+Dialogue: 0,0:02:40.99,0:02:45.16,Default,,0000,0000,0000,,so, I should’ve avoided big techniques\Nthat could be self-defeating…
+Dialogue: 0,0:02:46.83,0:02:49.37,Default,,0000,0000,0000,,But it seems this isn’t an opponent\Neasy enough to beat
+Dialogue: 0,0:02:49.41,0:02:51.20,Default,,0000,0000,0000,,without using my Secret Technique…
+Dialogue: 0,0:02:54.75,0:02:55.83,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:02:56.99,0:03:00.20,Default,,0000,0000,0000,,I just had surgery\Nand am not at my best…
+Dialogue: 0,0:03:00.25,0:03:03.99,Default,,0000,0000,0000,,But if it’d just be opening the first of the\NEight Inner Gates, the Gate of Opening,
+Dialogue: 0,0:03:03.99,0:03:04.99,Default,,0000,0000,0000,,I should somehow…
+Dialogue: 0,0:03:08.99,0:03:11.12,Default,,0000,0000,0000,,The first gate… The Gate of Opening…
+Dialogue: 0,0:03:11.99,0:03:12.45,Default,,0000,0000,0000,,Open!
+Dialogue: 0,0:03:15.95,0:03:17.33,Default,,0000,0000,0000,,Primary Lotus!
+Dialogue: 0,0:03:24.08,0:03:26.99,Default,,0000,0000,0000,,The impact of the kick\Nwas suppressed by the bones…?!
+Dialogue: 0,0:03:27.50,0:03:31.75,Default,,0000,0000,0000,,That’s some speed… But it’s over.
+Dialogue: 0,0:03:32.79,0:03:37.99,Default,,0000,0000,0000,,Damn it… No matter how much I think,\NI can’t come up with any good strategies…!
+Dialogue: 0,0:03:39.08,0:03:42.99,Default,,0000,0000,0000,,I’ve had it…can’t hold any further…
+Dialogue: 0,0:03:45.62,0:03:49.37,Default,,0000,0000,0000,,With me right in front of you,\Nyou can’t even howl like a loser…?
+Dialogue: 0,0:03:50.45,0:03:51.12,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:03:52.75,0:03:53.50,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:03:54.91,0:03:55.99,Default,,0000,0000,0000,,You’re mine!
+Dialogue: 0,0:03:56.95,0:03:59.37,Default,,0000,0000,0000,,Don’t you be smiling\Nbefore you’re going to die!
+Dialogue: 0,0:04:09.70,0:04:10.70,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:18.45,0:04:19.45,Default,,0000,0000,0000,,Who’re you?!
+Dialogue: 0,0:04:26.66,0:04:29.45,Default,,0000,0000,0000,,It seems you’re an ally this time…
+Dialogue: 0,0:04:37.79,0:04:38.75,Default,,0000,0000,0000,,Who’re you?!
+Dialogue: 0,0:04:39.99,0:04:41.79,Default,,0000,0000,0000,,A Sand…
+Dialogue: 0,0:04:42.75,0:04:43.95,Default,,0000,0000,0000,,Shinobi…
+Dialogue: 0,0:04:44.25,0:04:45.95,Default,,0000,0000,0000,,ally of the Leaf!
+Dialogue: 0,0:04:50.04,0:04:55.99,Default,,0000,0000,0000,,The Sand Shinobi:\NAllies of the Leaf
+Dialogue: 0,0:05:10.37,0:05:14.54,Default,,0000,0000,0000,,The Sand…?! Am I still drunk…?
+Dialogue: 0,0:05:28.25,0:05:30.20,Default,,0000,0000,0000,,Gaara of the Desert…
+Dialogue: 0,0:05:37.37,0:05:38.70,Default,,0000,0000,0000,,Gaara.
+Dialogue: 0,0:05:42.45,0:05:43.99,Default,,0000,0000,0000,,Is that who you are?
+Dialogue: 0,0:05:46.79,0:05:47.99,Default,,0000,0000,0000,,Digital Shrapnel!
+Dialogue: 0,0:06:11.99,0:06:14.83,Default,,0000,0000,0000,,Did he blow the finger tip bones…?!
+Dialogue: 0,0:06:17.58,0:06:18.99,Default,,0000,0000,0000,,Impetuous…
+Dialogue: 0,0:06:32.99,0:06:33.99,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:06:35.99,0:06:40.50,Default,,0000,0000,0000,,When you fought me…\Nyou had more speed and sharpness.
+Dialogue: 0,0:06:45.04,0:06:46.87,Default,,0000,0000,0000,,Easy to say…
+Dialogue: 0,0:06:49.04,0:06:51.50,Default,,0000,0000,0000,,It’s not that I’m holding a grudge…
+Dialogue: 0,0:06:51.91,0:06:56.70,Default,,0000,0000,0000,,But on account of you,\NI had kind of a tough time of it.
+Dialogue: 0,0:06:59.87,0:07:00.87,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:07:06.25,0:07:08.41,Default,,0000,0000,0000,,But…why you…?
+Dialogue: 0,0:07:10.99,0:07:13.04,Default,,0000,0000,0000,,I owe a lot…
+Dialogue: 0,0:07:15.66,0:07:17.62,Default,,0000,0000,0000,,to the Leaf.
+Dialogue: 0,0:07:19.12,0:07:20.75,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:07:27.99,0:07:31.58,Default,,0000,0000,0000,,I heard that we’d made up\Nwith the Sand traitors…
+Dialogue: 0,0:07:31.99,0:07:34.54,Default,,0000,0000,0000,,But to think you’d change\Nthis abruptly…
+Dialogue: 0,0:07:35.00,0:07:38.99,Default,,0000,0000,0000,,It’s not like we attacked the Leaf\Nfor the fun of it…
+Dialogue: 0,0:07:39.87,0:07:41.20,Default,,0000,0000,0000,,It was an order…
+Dialogue: 0,0:07:41.99,0:07:44.95,Default,,0000,0000,0000,,In the same way\Nthat I’m here now.
+Dialogue: 0,0:07:47.25,0:07:49.99,Default,,0000,0000,0000,,I see. The Fifth Hokage\Nasked the Sand…
+Dialogue: 0,0:07:50.41,0:07:51.83,Default,,0000,0000,0000,,It’s a big help.
+Dialogue: 0,0:07:52.99,0:07:57.45,Default,,0000,0000,0000,,By the way…\Nhas your sharpness gotten worse?
+Dialogue: 0,0:07:57.79,0:07:58.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:03.83,0:08:06.04,Default,,0000,0000,0000,,Are you going to give up again\Nor something?
+Dialogue: 0,0:08:06.45,0:08:08.87,Default,,0000,0000,0000,,This time, I’ll do it for you!
+Dialogue: 0,0:08:09.70,0:08:12.16,Default,,0000,0000,0000,,Sorry, but I can’t give up.
+Dialogue: 0,0:08:12.83,0:08:15.75,Default,,0000,0000,0000,,A man mustn’t be protected\Nby a woman, so…
+Dialogue: 0,0:08:17.25,0:08:20.08,Default,,0000,0000,0000,,As usual, you’re a guy who’s annoying\Nwith the man-and-woman stuff.
+Dialogue: 0,0:08:20.66,0:08:23.54,Default,,0000,0000,0000,,Even if you act tough, it’s totally obvious\Nthat it’s bravado, you idiot!
+Dialogue: 0,0:08:33.45,0:08:35.58,Default,,0000,0000,0000,,This time you’re taking sides\Nwith the Leaf, huh?!
+Dialogue: 0,0:08:35.62,0:08:38.25,Default,,0000,0000,0000,,You guys sure are busy\Nall over the place!
+Dialogue: 0,0:08:39.70,0:08:41.87,Default,,0000,0000,0000,,She uses Genjutsu\Nwith the sound of her flute.
+Dialogue: 0,0:08:41.91,0:08:42.83,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:08:49.00,0:08:51.16,Default,,0000,0000,0000,,Cyclone Scythe Jutsu!
+Dialogue: 0,0:09:04.95,0:09:06.87,Default,,0000,0000,0000,,Blowing away the sounds of the flute
+Dialogue: 0,0:09:06.91,0:09:09.75,Default,,0000,0000,0000,,and being able to nail the opponent\Nwith a physical attack.
+Dialogue: 0,0:09:09.99,0:09:11.99,Default,,0000,0000,0000,,To think she can attack and defend\Nwith one hand…
+Dialogue: 0,0:09:11.99,0:09:14.83,Default,,0000,0000,0000,,Unlike me, she has a nice Jutsu.
+Dialogue: 0,0:09:31.25,0:09:33.99,Default,,0000,0000,0000,,That woman’s a natural enemy to me!
+Dialogue: 0,0:09:49.50,0:09:53.99,Default,,0000,0000,0000,,Has Ukon…just about caught him\Naccording to the strategy?
+Dialogue: 0,0:10:05.20,0:10:06.99,Default,,0000,0000,0000,,Puppet, huh…?
+Dialogue: 0,0:10:10.08,0:10:13.91,Default,,0000,0000,0000,,You three had been approaching\Ntogether, right?
+Dialogue: 0,0:10:14.08,0:10:15.87,Default,,0000,0000,0000,,Two went on ahead.
+Dialogue: 0,0:10:16.00,0:10:17.99,Default,,0000,0000,0000,,You guys are weak, so…
+Dialogue: 0,0:10:18.79,0:10:21.70,Default,,0000,0000,0000,,You idiot… These guys are\Nout of the ordinary!
+Dialogue: 0,0:10:25.20,0:10:25.99,Default,,0000,0000,0000,,Behind you!
+Dialogue: 0,0:10:33.62,0:10:35.08,Default,,0000,0000,0000,,I can’t…move.
+Dialogue: 0,0:10:36.08,0:10:37.79,Default,,0000,0000,0000,,What’s this guy?
+Dialogue: 0,0:10:40.41,0:10:43.37,Default,,0000,0000,0000,,I leave this to you, Sakon! Do it!
+Dialogue: 0,0:10:47.99,0:10:49.54,Default,,0000,0000,0000,,Where’s the other one?
+Dialogue: 0,0:10:50.04,0:10:54.79,Default,,0000,0000,0000,,Hey! Who are you looking for?
+Dialogue: 0,0:10:56.12,0:10:58.16,Default,,0000,0000,0000,,That state… I know!
+Dialogue: 0,0:10:58.99,0:11:03.20,Default,,0000,0000,0000,,Be careful!\NThey enter the body and start to fuse!
+Dialogue: 0,0:11:03.99,0:11:05.20,Default,,0000,0000,0000,,It’s too late.
+Dialogue: 0,0:11:15.16,0:11:16.25,Default,,0000,0000,0000,,This guy!
+Dialogue: 0,0:11:20.87,0:11:22.20,Default,,0000,0000,0000,,What’s the matter, Sakon?!
+Dialogue: 0,0:11:43.66,0:11:45.87,Default,,0000,0000,0000,,It seems like…
+Dialogue: 0,0:11:45.91,0:11:48.99,Default,,0000,0000,0000,,your Jutsu didn’t work…\Non the puppet.
+Dialogue: 0,0:11:49.87,0:11:51.08,Default,,0000,0000,0000,,This is a puppet, too?!
+Dialogue: 0,0:11:55.33,0:11:56.45,Default,,0000,0000,0000,,Let me tell you this.
+Dialogue: 0,0:11:56.50,0:12:00.83,Default,,0000,0000,0000,,We, the Sand Ninja,\Naren’t as lax as the Leaf.
+Dialogue: 0,0:12:00.99,0:12:05.16,Default,,0000,0000,0000,,Moreover, don’t be carelessly\Napproaching…
+Dialogue: 0,0:12:09.99,0:12:11.20,Default,,0000,0000,0000,,the Black Ant!
+Dialogue: 0,0:12:16.58,0:12:18.79,Default,,0000,0000,0000,,He was fearsome\Nwhen he was an enemy...
+Dialogue: 0,0:12:18.83,0:12:21.99,Default,,0000,0000,0000,,But to think he’d be this dependable\Nwhen becoming an ally.
+Dialogue: 0,0:13:01.79,0:13:06.37,Default,,0000,0000,0000,,Ow… I got careless.\NLet me rest in your body for a bit.
+Dialogue: 0,0:13:06.79,0:13:08.45,Default,,0000,0000,0000,,Good-for-nothing guy…
+Dialogue: 0,0:13:08.99,0:13:10.79,Default,,0000,0000,0000,,Who are these guys?
+Dialogue: 0,0:13:10.99,0:13:12.95,Default,,0000,0000,0000,,This is their ability!
+Dialogue: 0,0:13:13.95,0:13:16.04,Default,,0000,0000,0000,,Although you were caught off guard…
+Dialogue: 0,0:13:16.16,0:13:19.00,Default,,0000,0000,0000,,you getting hammered\Nby that puppet play…
+Dialogue: 0,0:13:19.99,0:13:20.83,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:13:21.41,0:13:24.75,Default,,0000,0000,0000,,Its power and speed\Nare nothing special.
+Dialogue: 0,0:13:24.79,0:13:27.66,Default,,0000,0000,0000,,I won’t be beaten\Nby the likes of such a toy.
+Dialogue: 0,0:13:36.12,0:13:38.08,Default,,0000,0000,0000,,And I was able\Nto heal my belly wound.
+Dialogue: 0,0:13:39.99,0:13:42.50,Default,,0000,0000,0000,,I don’t have much Chakra left…\Nbut well,
+Dialogue: 0,0:13:42.54,0:13:46.91,Default,,0000,0000,0000,,these are opponents I should be able\Nto tear apart, nevertheless.
+Dialogue: 0,0:13:47.16,0:13:51.99,Default,,0000,0000,0000,,Indeed, it seems he’s healed.\NWhat a recovery ability he’s got.
+Dialogue: 0,0:13:55.41,0:13:58.70,Default,,0000,0000,0000,,Ordinarily, I’m not the one\Nwho becomes the main body,
+Dialogue: 0,0:13:58.75,0:14:00.58,Default,,0000,0000,0000,,so it’s hard to move, damn it.
+Dialogue: 0,0:14:01.75,0:14:03.87,Default,,0000,0000,0000,,You sure are mocking us…
+Dialogue: 0,0:14:05.20,0:14:07.62,Default,,0000,0000,0000,,He’s not an opponent\Nyou can beat fighting head on!
+Dialogue: 0,0:14:07.66,0:14:09.04,Default,,0000,0000,0000,,We should retreat for now and…
+Dialogue: 0,0:14:11.25,0:14:14.16,Default,,0000,0000,0000,,We can’t back down after having been\Nmocked, you know.
+Dialogue: 0,0:14:25.66,0:14:26.75,Default,,0000,0000,0000,,Don’t mess with me!
+Dialogue: 0,0:14:51.70,0:14:54.54,Default,,0000,0000,0000,,The Black Ant isn’t a Mechanism\Nfor attacking.
+Dialogue: 0,0:14:54.83,0:14:57.16,Default,,0000,0000,0000,,Primarily, it’s just for capturing.
+Dialogue: 0,0:14:57.99,0:15:02.99,Default,,0000,0000,0000,,And…Crow paired up with the Black Ant\Nis exclusively for attacking.
+Dialogue: 0,0:15:03.70,0:15:08.99,Default,,0000,0000,0000,,Hey you! Let me out!
+Dialogue: 0,0:15:32.91,0:15:34.25,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:15:35.04,0:15:36.58,Default,,0000,0000,0000,,Puppet Show…
+Dialogue: 0,0:15:36.99,0:15:40.83,Default,,0000,0000,0000,,Hey, let me out! Let me out!
+Dialogue: 0,0:15:41.25,0:15:43.99,Default,,0000,0000,0000,,Secret Black Move Iron Maiden!
+Dialogue: 0,0:16:11.45,0:16:12.87,Default,,0000,0000,0000,,The play is over.
+Dialogue: 0,0:16:21.99,0:16:23.95,Default,,0000,0000,0000,,She hid, huh…?
+Dialogue: 0,0:16:25.87,0:16:26.99,Default,,0000,0000,0000,,Or did she run away?
+Dialogue: 0,0:16:27.58,0:16:29.95,Default,,0000,0000,0000,,No…That couldn’t be…
+Dialogue: 0,0:16:32.87,0:16:34.83,Default,,0000,0000,0000,,I just got here.
+Dialogue: 0,0:16:35.16,0:16:37.99,Default,,0000,0000,0000,,Briefly explain the present situation
+Dialogue: 0,0:16:37.99,0:16:40.99,Default,,0000,0000,0000,,including an analysis of her ability\Nand battle style.
+Dialogue: 0,0:16:41.99,0:16:45.66,Default,,0000,0000,0000,,First off, her fundamental tactic is\Nensnaring her opponent in Genjutsu
+Dialogue: 0,0:16:45.70,0:16:47.20,Default,,0000,0000,0000,,with the sound of her flute.
+Dialogue: 0,0:16:47.54,0:16:50.70,Default,,0000,0000,0000,,And then she delivers physical attacks\Nto that opening.
+Dialogue: 0,0:16:52.37,0:16:54.99,Default,,0000,0000,0000,,Demon Flute: Chains of Fantasia!
+Dialogue: 0,0:17:01.50,0:17:05.41,Default,,0000,0000,0000,,This is bad! Is this Genjutsu?
+Dialogue: 0,0:17:08.99,0:17:11.58,Default,,0000,0000,0000,,I can’t move my body…!
+Dialogue: 0,0:17:14.99,0:17:17.99,Default,,0000,0000,0000,,I believe this was your last hand, right?
+Dialogue: 0,0:17:18.70,0:17:20.95,Default,,0000,0000,0000,,Unfortunately…\Nthis is reversed checkmate!
+Dialogue: 0,0:17:22.08,0:17:23.20,Default,,0000,0000,0000,,You little rat!
+Dialogue: 0,0:17:24.04,0:17:26.99,Default,,0000,0000,0000,,She’s a classic Genjutsu-style\Ndistance range type.
+Dialogue: 0,0:17:27.95,0:17:31.08,Default,,0000,0000,0000,,Most likely, she must’ve seen your Jutsu\Nand figured out immediately
+Dialogue: 0,0:17:31.12,0:17:33.99,Default,,0000,0000,0000,,that it wouldn’t mix well\Nwith her own Jutsu.
+Dialogue: 0,0:17:34.20,0:17:35.99,Default,,0000,0000,0000,,And it’s two against one, too.
+Dialogue: 0,0:17:36.33,0:17:40.95,Default,,0000,0000,0000,,She’ll never appear before us again\Nuntil she casts her Genjutsu.
+Dialogue: 0,0:17:41.62,0:17:42.54,Default,,0000,0000,0000,,Sound, huh…?
+Dialogue: 0,0:17:43.79,0:17:44.41,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:17:47.54,0:17:50.25,Default,,0000,0000,0000,,Genjutsu generally appeal\Nto the five senses of people…
+Dialogue: 0,0:17:50.29,0:17:54.54,Default,,0000,0000,0000,,sight, hearing, smell, taste and touch.
+Dialogue: 0,0:17:57.62,0:18:01.91,Default,,0000,0000,0000,,The type that uses hearing\Nis the most troublesome of them all.
+Dialogue: 0,0:18:03.99,0:18:09.75,Default,,0000,0000,0000,,After she cleverly takes a distance on you\Nand then hides…
+Dialogue: 0,0:18:09.79,0:18:13.25,Default,,0000,0000,0000,,you have no idea where the Genjutsu\Nwill be cast from or when.
+Dialogue: 0,0:18:14.75,0:18:16.99,Default,,0000,0000,0000,,The idea is for us to already be cast\Nby the Genjutsu
+Dialogue: 0,0:18:16.99,0:18:20.08,Default,,0000,0000,0000,,by the time we’ve figured out where she is\Nby the sound of the flute…
+Dialogue: 0,0:18:24.70,0:18:25.91,Default,,0000,0000,0000,,Ouch…
+Dialogue: 0,0:18:27.04,0:18:31.08,Default,,0000,0000,0000,,In my opinion, we’re at an\Noverwhelming disadvantage.
+Dialogue: 0,0:18:32.79,0:18:36.25,Default,,0000,0000,0000,,A battle with this type, essentially,\Nwouldn’t even be worth talking about
+Dialogue: 0,0:18:36.29,0:18:38.37,Default,,0000,0000,0000,,without sensor types\Nlike Kiba or Neji.
+Dialogue: 0,0:18:40.08,0:18:43.99,Default,,0000,0000,0000,,At this rate, we’ll get pushed into a corner\Nsooner or later.
+Dialogue: 0,0:18:44.45,0:18:47.70,Default,,0000,0000,0000,,– We should just retreat…\N– Who asked for your opinion?!
+Dialogue: 0,0:18:49.20,0:18:52.00,Default,,0000,0000,0000,,I told you to just explain the situation.
+Dialogue: 0,0:18:53.91,0:18:57.99,Default,,0000,0000,0000,,Don’t misjudge my power…
+Dialogue: 0,0:18:58.99,0:19:01.75,Default,,0000,0000,0000,,If she thinks\Nshe’s hiding well from me…
+Dialogue: 0,0:19:01.79,0:19:05.87,Default,,0000,0000,0000,,in a distance enough for the sound\Nof her flute to reach…
+Dialogue: 0,0:19:07.75,0:19:08.99,Default,,0000,0000,0000,,she’s naïve!
+Dialogue: 0,0:19:09.79,0:19:13.58,Default,,0000,0000,0000,,Summoning: Blade Dance
+Dialogue: 0,0:19:16.12,0:19:16.95,Default,,0000,0000,0000,,Cut!
+Dialogue: 0,0:19:26.99,0:19:27.95,Default,,0000,0000,0000,,All right…
+Dialogue: 0,0:19:29.00,0:19:31.66,Default,,0000,0000,0000,,I’ve made it this far.\Nlt’s about time for my Genjutsu…
+Dialogue: 0,0:19:32.75,0:19:33.50,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:22.08,0:20:23.08,Default,,0000,0000,0000,,How about it?
+Dialogue: 0,0:20:24.08,0:20:25.25,Default,,0000,0000,0000,,It’s done.
+Dialogue: 0,0:20:27.70,0:20:29.45,Default,,0000,0000,0000,,She’s sure…pushy.
+Dialogue: 0,0:20:29.50,0:20:33.16,Default,,0000,0000,0000,,She’s scarier than my mom.
+Dialogue: 0,0:20:35.12,0:20:36.54,Default,,0000,0000,0000,,Pretty good, huh?
+Dialogue: 0,0:20:38.25,0:20:39.25,Default,,0000,0000,0000,,But well…
+Dialogue: 0,0:20:40.08,0:20:43.41,Default,,0000,0000,0000,,I just have to be grateful\Nfor this time…huh?
+Dialogue: 0,0:21:24.87,0:21:27.16,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:21:27.20,0:21:30.29,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:21:30.54,0:21:32.95,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:21:32.99,0:21:35.70,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:21:35.75,0:21:41.25,Default,,0000,0000,0000,,Would you think it was\Na bother if I approached you?
+Dialogue: 0,0:21:41.54,0:21:46.91,Default,,0000,0000,0000,,Despite my doubts,\NI worked up my courage
+Dialogue: 0,0:21:46.99,0:21:52.50,Default,,0000,0000,0000,,My clumsy attempts with words
+Dialogue: 0,0:21:52.70,0:21:58.16,Default,,0000,0000,0000,,You listened without turning away
+Dialogue: 0,0:21:59.00,0:22:04.45,Default,,0000,0000,0000,,No wonder I get carried away by you
+Dialogue: 0,0:22:04.91,0:22:11.54,Default,,0000,0000,0000,,But you don’t feel anything for me, do you?
+Dialogue: 0,0:22:11.99,0:22:14.79,Default,,0000,0000,0000,,I feel so sad
+Dialogue: 0,0:22:14.83,0:22:15.75,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:22:15.79,0:22:18.08,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:18.12,0:22:21.12,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:21.25,0:22:23.99,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:23.99,0:22:26.99,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:27.04,0:22:29.50,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:29.54,0:22:32.75,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:32.79,0:22:35.16,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:35.20,0:22:38.12,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:38.25,0:22:42.91,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:51.33,0:22:54.91,Default,,0000,0000,0000,,I got careless earlier,\Nbut it won’t be like that now!
+Dialogue: 0,0:22:55.53,0:22:57.24,Default,,0000,0000,0000,,Now, you please stand back.
+Dialogue: 0,0:22:57.85,0:23:01.09,Default,,0000,0000,0000,,I’m grateful for the help,\Nbut his opponent will be me!
+Dialogue: 0,0:23:01.64,0:23:03.43,Default,,0000,0000,0000,,Next, for sure,\Nwith my ultimate Lotus…!
+Dialogue: 0,0:23:04.47,0:23:10.22,Default,,0000,0000,0000,,Hey, why are you moving forward?\NI’m his opponent!
+Dialogue: 0,0:23:11.55,0:23:15.39,Default,,0000,0000,0000,,Next episode,\N“Showdown: Gaara vs. Kimimaro!”

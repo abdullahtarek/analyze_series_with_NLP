@@ -1,0 +1,228 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.65,0:00:20.98,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.89,0:00:29.89,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.89,0:00:35.19,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.23,0:00:39.35,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.60,0:00:45.52,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.15,0:00:53.06,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.52,0:00:57.94,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:57.98,0:01:04.98,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.10,0:01:12.23,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.27,0:01:18.90,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.35,0:01:28.89,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:50.89,0:01:52.48,Default,,0000,0000,0000,,Where’s the other one?
+Dialogue: 0,0:01:53.06,0:01:54.02,Default,,0000,0000,0000,,Hey…
+Dialogue: 0,0:01:56.06,0:01:57.89,Default,,0000,0000,0000,,Who are you looking for?
+Dialogue: 0,0:02:00.23,0:02:04.35,Default,,0000,0000,0000,,I’ll take care of the rest.\NGo wash your eyes in that river.
+Dialogue: 0,0:02:08.52,0:02:12.73,Default,,0000,0000,0000,,This is my ability…\Nspecializing in assassination, of course.
+Dialogue: 0,0:02:12.89,0:02:17.48,Default,,0000,0000,0000,,You can’t beat me by just having\Na good nose and nails…
+Dialogue: 0,0:02:18.10,0:02:20.27,Default,,0000,0000,0000,,You can’t beat my ability!
+Dialogue: 0,0:02:30.23,0:02:33.56,Default,,0000,0000,0000,,Akamaru… I’m sorry…
+Dialogue: 0,0:02:33.89,0:02:37.44,Default,,0000,0000,0000,,Akamaru…\NWe’ve always done things together.
+Dialogue: 0,0:02:37.81,0:02:39.73,Default,,0000,0000,0000,,We were together\Nwhenever and wherever.
+Dialogue: 0,0:02:40.69,0:02:44.40,Default,,0000,0000,0000,,However this one time, I’m sunk.
+Dialogue: 0,0:02:44.89,0:02:49.81,Default,,0000,0000,0000,,My cells can swim inside\Nyour body as I wish,
+Dialogue: 0,0:02:49.85,0:02:52.60,Default,,0000,0000,0000,,and I can even create parts\Nthat are only you.
+Dialogue: 0,0:02:52.65,0:02:55.40,Default,,0000,0000,0000,,In other words,\Na little bit of a fusion condition…
+Dialogue: 0,0:02:55.44,0:02:57.89,Default,,0000,0000,0000,,a sharing of the flesh is what it’ll be.
+Dialogue: 0,0:02:59.06,0:03:01.38,Default,,0000,0000,0000,,A sharing…?
+Dialogue: 0,0:03:01.60,0:03:02.89,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:03:03.06,0:03:06.27,Default,,0000,0000,0000,,And a cruel way of killing\Nthat only I can accomplish…
+Dialogue: 0,0:03:06.98,0:03:10.90,Default,,0000,0000,0000,,the gradual scraping off\Nof just your cells!
+Dialogue: 0,0:03:11.60,0:03:12.81,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:03:20.40,0:03:21.56,Default,,0000,0000,0000,,If that’s the case…!
+Dialogue: 0,0:03:31.02,0:03:34.89,Default,,0000,0000,0000,,If I do this…\Nwhat’s gonna happen?
+Dialogue: 0,0:03:36.89,0:03:39.90,Default,,0000,0000,0000,,Suicide?! That’s ridiculous!
+Dialogue: 0,0:03:42.40,0:03:43.94,Default,,0000,0000,0000,,Die with me…
+Dialogue: 0,0:03:44.31,0:03:50.15,Default,,0000,0000,0000,,To Each His Own Battle
+Dialogue: 0,0:04:15.69,0:04:18.48,Default,,0000,0000,0000,,What are you thinking?!
+Dialogue: 0,0:04:26.89,0:04:32.81,Default,,0000,0000,0000,,It’s just as I thought…\NWe are sharing one body, right?
+Dialogue: 0,0:04:33.10,0:04:34.06,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:35.15,0:04:39.35,Default,,0000,0000,0000,,Entering my opponent’s body\Nto avoid any attacks…
+Dialogue: 0,0:04:39.89,0:04:42.69,Default,,0000,0000,0000,,that is my Jutsu’s greatest advantage.
+Dialogue: 0,0:04:43.48,0:04:45.10,Default,,0000,0000,0000,,There hasn’t been\Na single one before now
+Dialogue: 0,0:04:45.15,0:04:46.65,Default,,0000,0000,0000,,who’s done this sort of thing.
+Dialogue: 0,0:04:48.10,0:04:49.35,Default,,0000,0000,0000,,Are you in pain?
+Dialogue: 0,0:04:50.10,0:04:53.56,Default,,0000,0000,0000,,All right then, let’s get comfortable now.
+Dialogue: 0,0:04:55.15,0:04:57.89,Default,,0000,0000,0000,,Yikes, you idiot! 					Stop it!
+Dialogue: 0,0:04:57.89,0:04:59.44,Default,,0000,0000,0000,,It’s too late!
+Dialogue: 0,0:05:16.69,0:05:18.48,Default,,0000,0000,0000,,There’s not enough blood…
+Dialogue: 0,0:05:39.10,0:05:40.06,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:05:43.89,0:05:44.89,Default,,0000,0000,0000,,Damn…
+Dialogue: 0,0:05:45.73,0:05:47.40,Default,,0000,0000,0000,,Where’d he go?
+Dialogue: 0,0:06:01.89,0:06:04.19,Default,,0000,0000,0000,,So he left his little dog behind\Nand fled.
+Dialogue: 0,0:06:05.15,0:06:09.89,Default,,0000,0000,0000,,It’s the right decision,\Nbut he’s more cold-hearted than me.
+Dialogue: 0,0:06:21.65,0:06:22.40,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:22.85,0:06:23.89,Default,,0000,0000,0000,,It couldn’t be!
+Dialogue: 0,0:06:44.73,0:06:48.19,Default,,0000,0000,0000,,What a relief…\NHe’s still breathing.
+Dialogue: 0,0:06:52.52,0:06:53.81,Default,,0000,0000,0000,,What a relief!
+Dialogue: 0,0:07:09.31,0:07:12.90,Default,,0000,0000,0000,,Akamaru… You really gave it your best.
+Dialogue: 0,0:07:14.02,0:07:17.31,Default,,0000,0000,0000,,Because of you, I was able to hold up\Nthe enemy for a while.
+Dialogue: 0,0:07:17.89,0:07:19.69,Default,,0000,0000,0000,,We’ve caused injuries\Nupon the enemy too.
+Dialogue: 0,0:07:21.19,0:07:25.19,Default,,0000,0000,0000,,It’s enough… You’ve done enough.
+Dialogue: 0,0:07:43.52,0:07:45.48,Default,,0000,0000,0000,,His name is Akamaru.
+Dialogue: 0,0:07:45.56,0:07:46.27,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:47.52,0:07:49.52,Default,,0000,0000,0000,,Mom… Sis…
+Dialogue: 0,0:07:50.81,0:07:53.90,Default,,0000,0000,0000,,From today, you’ll take care of him…\NOkay?
+Dialogue: 0,0:07:54.98,0:07:56.10,Default,,0000,0000,0000,,I will?
+Dialogue: 0,0:08:12.94,0:08:16.40,Default,,0000,0000,0000,,I’m Kiba. Nice to meet you, Akamaru.
+Dialogue: 0,0:08:24.98,0:08:26.89,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:08:40.02,0:08:41.89,Default,,0000,0000,0000,,We’ve been together forever.
+Dialogue: 0,0:08:45.89,0:08:47.65,Default,,0000,0000,0000,,Nice catch, Akamaru!
+Dialogue: 0,0:08:50.10,0:08:52.89,Default,,0000,0000,0000,,All right, you did well!
+Dialogue: 0,0:08:53.94,0:08:55.02,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:09:03.89,0:09:05.48,Default,,0000,0000,0000,,Be more serious about it!
+Dialogue: 0,0:09:08.89,0:09:10.89,Default,,0000,0000,0000,,Stop being such a baby!
+Dialogue: 0,0:09:11.40,0:09:12.35,Default,,0000,0000,0000,,Mom…
+Dialogue: 0,0:09:20.65,0:09:21.98,Default,,0000,0000,0000,,Listen, Kiba…
+Dialogue: 0,0:09:22.40,0:09:23.85,Default,,0000,0000,0000,,It’s not just you.
+Dialogue: 0,0:09:23.90,0:09:25.31,Default,,0000,0000,0000,,Akamaru and you,
+Dialogue: 0,0:09:25.35,0:09:27.52,Default,,0000,0000,0000,,the two of you need\Nto become strong together.
+Dialogue: 0,0:09:28.73,0:09:31.81,Default,,0000,0000,0000,,With Akamaru… Together?
+Dialogue: 0,0:09:35.10,0:09:36.56,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:09:46.89,0:09:48.15,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:09:52.73,0:09:55.06,Default,,0000,0000,0000,,Way to go Akamaru! You did it!
+Dialogue: 0,0:09:55.19,0:09:57.60,Default,,0000,0000,0000,,Mid-air Dynamic Marking!
+Dialogue: 0,0:09:58.85,0:10:02.10,Default,,0000,0000,0000,,Next is mid-air triple somersault!\NTake your aim!
+Dialogue: 0,0:10:09.69,0:10:10.89,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:10:15.52,0:10:17.10,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:10:32.19,0:10:34.60,Default,,0000,0000,0000,,We’ll be together forever\Nfrom now on too…
+Dialogue: 0,0:10:35.65,0:10:38.85,Default,,0000,0000,0000,,I’ll protect you from now on!
+Dialogue: 0,0:10:46.31,0:10:47.69,Default,,0000,0000,0000,,That jerk!
+Dialogue: 0,0:10:48.52,0:10:50.89,Default,,0000,0000,0000,,Setting up a trap on me!
+Dialogue: 0,0:11:04.44,0:11:05.98,Default,,0000,0000,0000,,I’ll kill you!
+Dialogue: 0,0:11:09.65,0:11:12.98,Default,,0000,0000,0000,,Hey! Sakon! Where are you?! Sakon!
+Dialogue: 0,0:11:22.40,0:11:23.52,Default,,0000,0000,0000,,Sakon!
+Dialogue: 0,0:11:25.48,0:11:26.73,Default,,0000,0000,0000,,Sakon!
+Dialogue: 0,0:11:30.15,0:11:32.89,Default,,0000,0000,0000,,Blah blah blah.\NYou’re such a nuisance, Big Brother.
+Dialogue: 0,0:11:32.98,0:11:35.89,Default,,0000,0000,0000,,Your yelling stings my eyes…
+Dialogue: 0,0:11:37.52,0:11:38.44,Default,,0000,0000,0000,,Big Brother!
+Dialogue: 0,0:11:38.89,0:11:40.90,Default,,0000,0000,0000,,I’ll kill him… is what I’d like to do,
+Dialogue: 0,0:11:40.94,0:11:42.89,Default,,0000,0000,0000,,but it’s almost time for my sleep.
+Dialogue: 0,0:11:43.52,0:11:46.89,Default,,0000,0000,0000,,Capture those bastards alive in my place.
+Dialogue: 0,0:11:47.73,0:11:49.52,Default,,0000,0000,0000,,When I wake up,\NI’ll kill them.
+Dialogue: 0,0:11:50.10,0:11:53.10,Default,,0000,0000,0000,,All right, Sakon?\NCapture them alive…
+Dialogue: 0,0:11:53.73,0:11:55.44,Default,,0000,0000,0000,,Yeah, I got it…
+Dialogue: 0,0:11:55.94,0:11:56.89,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:11:57.89,0:11:59.89,Default,,0000,0000,0000,,The killing part,\Nwe’ll do it together.
+Dialogue: 0,0:12:31.48,0:12:33.19,Default,,0000,0000,0000,,If I carelessly attack,
+Dialogue: 0,0:12:33.23,0:12:35.56,Default,,0000,0000,0000,,he dodges\Nand I end up attacking myself!
+Dialogue: 0,0:13:06.81,0:13:07.77,Default,,0000,0000,0000,,Behold!
+Dialogue: 0,0:13:07.81,0:13:09.27,Default,,0000,0000,0000,,Willow Dance!
+Dialogue: 0,0:13:35.02,0:13:36.48,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:13:54.23,0:13:55.23,Default,,0000,0000,0000,,Bones?
+Dialogue: 0,0:14:05.40,0:14:08.77,Default,,0000,0000,0000,,This is my…Kekkei Genkai.
+Dialogue: 0,0:14:37.56,0:14:39.81,Default,,0000,0000,0000,,What’s with this guy…?
+Dialogue: 0,0:14:40.48,0:14:43.40,Default,,0000,0000,0000,,Is he attacking with bones sticking out\Nfrom all over his body?
+Dialogue: 0,0:15:19.90,0:15:22.77,Default,,0000,0000,0000,,He’s grabbed his own bone!
+Dialogue: 0,0:15:34.85,0:15:36.15,Default,,0000,0000,0000,,It’ll be soon…
+Dialogue: 0,0:15:40.15,0:15:43.15,Default,,0000,0000,0000,,He’s turning the bone…\Ninto a sword!
+Dialogue: 0,0:15:51.94,0:15:55.89,Default,,0000,0000,0000,,It’s futile. It’s not just ordinary bone.
+Dialogue: 0,0:15:56.89,0:16:01.35,Default,,0000,0000,0000,,The highest density bone is hard as steel.
+Dialogue: 0,0:16:01.60,0:16:05.89,Default,,0000,0000,0000,,So what?! I’ll break that bone!
+Dialogue: 0,0:16:06.44,0:16:09.02,Default,,0000,0000,0000,,I possess Five Dances.
+Dialogue: 0,0:16:11.89,0:16:16.48,Default,,0000,0000,0000,,You’d better not think\Nyou know my strength after just this much.
+Dialogue: 0,0:16:16.60,0:16:17.48,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:20.94,0:16:23.19,Default,,0000,0000,0000,,I’ll specially show you…
+Dialogue: 0,0:16:24.10,0:16:26.40,Default,,0000,0000,0000,,the Camellia Dance next .
+Dialogue: 0,0:16:28.77,0:16:29.60,Default,,0000,0000,0000,,Come!
+Dialogue: 0,0:16:30.73,0:16:32.10,Default,,0000,0000,0000,,I’ll crush you!
+Dialogue: 0,0:16:43.90,0:16:44.94,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:16:46.31,0:16:47.56,Default,,0000,0000,0000,,It’s a Substitution?!
+Dialogue: 0,0:16:53.44,0:16:54.44,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:16:55.40,0:16:56.31,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:17:06.73,0:17:10.06,Default,,0000,0000,0000,,They’re getting closer and closer.
+Dialogue: 0,0:17:12.31,0:17:13.65,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:17:23.06,0:17:25.52,Default,,0000,0000,0000,,This isn’t good, traces of blood!
+Dialogue: 0,0:17:26.65,0:17:30.48,Default,,0000,0000,0000,,Damn, I did save Akamaru\Nfor the time being,
+Dialogue: 0,0:17:30.52,0:17:32.60,Default,,0000,0000,0000,,but maybe I went too far.
+Dialogue: 0,0:17:53.06,0:17:55.89,Default,,0000,0000,0000,,This smell…\NWhat does it mean?
+Dialogue: 0,0:17:57.89,0:18:01.69,Default,,0000,0000,0000,,Why… Why is it that even those guys\Nare headed to a place like this?!
+Dialogue: 0,0:18:02.40,0:18:04.27,Default,,0000,0000,0000,,I don’t understand anymore.
+Dialogue: 0,0:18:04.89,0:18:07.81,Default,,0000,0000,0000,,In any case,\Nwe need to leave this place quickly.
+Dialogue: 0,0:18:11.89,0:18:12.94,Default,,0000,0000,0000,,I can’t…
+Dialogue: 0,0:18:13.89,0:18:16.06,Default,,0000,0000,0000,,I’m starting to feel light-headed\Nfrom the pain and loss of blood…
+Dialogue: 0,0:18:17.10,0:18:19.65,Default,,0000,0000,0000,,My body won’t move at all either…
+Dialogue: 0,0:18:24.60,0:18:25.89,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:18:59.89,0:19:01.89,Default,,0000,0000,0000,,He left just his coat…
+Dialogue: 0,0:19:04.02,0:19:04.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:10.56,0:19:12.89,Default,,0000,0000,0000,,So he fled by floating down the river…
+Dialogue: 0,0:19:13.60,0:19:14.94,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:19:20.69,0:19:21.89,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:19:29.81,0:19:30.81,Default,,0000,0000,0000,,Damn…
+Dialogue: 0,0:19:31.89,0:19:32.89,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:19:33.94,0:19:37.89,Default,,0000,0000,0000,,So, I’ve cornered you, you stinking rat!
+Dialogue: 0,0:19:41.31,0:19:42.89,Default,,0000,0000,0000,,Pretty impressive…
+Dialogue: 0,0:19:43.44,0:19:47.52,Default,,0000,0000,0000,,You timed it well to scatter\Nthe three to attack.
+Dialogue: 0,0:19:48.56,0:19:50.31,Default,,0000,0000,0000,,You must have practiced quite a bit, huh?
+Dialogue: 0,0:19:51.65,0:19:53.85,Default,,0000,0000,0000,,Since it’s a pretty complicated song…
+Dialogue: 0,0:19:55.10,0:19:56.52,Default,,0000,0000,0000,,Well now…
+Dialogue: 0,0:19:57.48,0:19:58.89,Default,,0000,0000,0000,,Not only did you\Nimmediately understand
+Dialogue: 0,0:19:58.90,0:20:01.52,Default,,0000,0000,0000,,that I’m manipulating these guys\Nwith my flute,
+Dialogue: 0,0:20:01.89,0:20:06.15,Default,,0000,0000,0000,,you understood how difficult this song is.\NYou’re a pretty impressive punk.
+Dialogue: 0,0:20:07.44,0:20:10.98,Default,,0000,0000,0000,,But you can’t completely\Nunderstand this song.
+Dialogue: 0,0:20:11.89,0:20:17.27,Default,,0000,0000,0000,,You're so right…\Nsince art is so foreign to me.
+Dialogue: 0,0:20:18.23,0:20:21.77,Default,,0000,0000,0000,,But since she uses that flute\Nto manipulate,
+Dialogue: 0,0:20:21.81,0:20:25.94,Default,,0000,0000,0000,,it means that song must contain\Nindividually specific sound patterns
+Dialogue: 0,0:20:25.98,0:20:29.52,Default,,0000,0000,0000,,to control each and every movement\Nof those guys.
+Dialogue: 0,0:20:30.56,0:20:33.90,Default,,0000,0000,0000,,I’m pretty confident\Nwhen it comes to just analyzing,
+Dialogue: 0,0:20:34.19,0:20:36.23,Default,,0000,0000,0000,,but this time it’s not looking good.
+Dialogue: 0,0:20:39.89,0:20:41.52,Default,,0000,0000,0000,,The reason is that
+Dialogue: 0,0:20:41.56,0:20:44.69,Default,,0000,0000,0000,,I don’t understand\Nmusical notes whatsoever.
+Dialogue: 0,0:20:45.48,0:20:48.73,Default,,0000,0000,0000,,There’s no one that’s heard\Nthis song and lived.
+Dialogue: 0,0:20:48.90,0:20:52.85,Default,,0000,0000,0000,,Finale, Ninth Passage,\NDemon Revolution!
+Dialogue: 0,0:21:06.10,0:21:07.73,Default,,0000,0000,0000,,The melody’s changed!
+Dialogue: 0,0:21:24.77,0:21:27.06,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:21:27.10,0:21:30.19,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:21:30.44,0:21:32.85,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:21:32.89,0:21:35.60,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:21:35.65,0:21:41.15,Default,,0000,0000,0000,,Would you think it was\Na bother if I approached you?
+Dialogue: 0,0:21:41.44,0:21:46.81,Default,,0000,0000,0000,,Despite my doubts,\NI worked up my courage
+Dialogue: 0,0:21:46.89,0:21:52.40,Default,,0000,0000,0000,,My clumsy attempts with words
+Dialogue: 0,0:21:52.60,0:21:58.06,Default,,0000,0000,0000,,You listened without turning away
+Dialogue: 0,0:21:58.90,0:22:04.35,Default,,0000,0000,0000,,No wonder I get carried away by you
+Dialogue: 0,0:22:04.81,0:22:11.44,Default,,0000,0000,0000,,But you don’t feel anything for me, do you?
+Dialogue: 0,0:22:11.89,0:22:14.69,Default,,0000,0000,0000,,I feel so sad
+Dialogue: 0,0:22:14.73,0:22:15.65,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:22:15.69,0:22:17.98,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:18.02,0:22:21.02,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:21.15,0:22:23.89,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:23.89,0:22:26.89,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:26.94,0:22:29.40,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:29.44,0:22:32.65,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:32.69,0:22:35.06,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:35.10,0:22:38.02,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:38.15,0:22:42.81,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:51.19,0:22:54.89,Default,,0000,0000,0000,,Attacks and defense without gaps\Nusing three Summoned bodies.
+Dialogue: 0,0:22:54.89,0:22:58.06,Default,,0000,0000,0000,,I hate to admit, but she may\Nbe a pretty good Shogi player.
+Dialogue: 0,0:22:58.48,0:23:01.27,Default,,0000,0000,0000,,Plus I don’t have much Ninja tools left…
+Dialogue: 0,0:23:01.65,0:23:04.89,Default,,0000,0000,0000,,Man, it feels like I’m playing\Nwithout rooks or bishops.
+Dialogue: 0,0:23:05.48,0:23:06.81,Default,,0000,0000,0000,,Now then…shall I go?
+Dialogue: 0,0:23:06.89,0:23:10.73,Default,,0000,0000,0000,,Cry or laugh,\NI can only give it my all here!
+Dialogue: 0,0:23:11.31,0:23:15.56,Default,,0000,0000,0000,,Next time,\N“Fakeout: Shikamaru’s Comeback!”

@@ -1,0 +1,322 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.29,0:00:11.16,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.62,0:00:20.16,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:21.12,0:00:23.37,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.99,0:00:27.79,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.87,0:00:31.45,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:33.04,0:00:36.20,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.79,0:00:39.99,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.45,0:00:45.83,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.33,0:00:50.20,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:50.29,0:00:52.00,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:52.04,0:00:54.50,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.99,0:00:57.87,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.91,0:00:59.83,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.87,0:01:02.29,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:04.12,0:01:10.87,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.79,0:01:14.37,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.87,0:01:17.99,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.99,0:01:24.33,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.79,0:01:28.25,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:53.99,0:01:54.83,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:01:55.20,0:01:57.33,Default,,0000,0000,0000,,Are you sure you want\Nto look like that?
+Dialogue: 0,0:01:57.87,0:01:59.87,Default,,0000,0000,0000,,Yes, of course!\NC'mon! So hurry hurry!
+Dialogue: 0,0:02:01.29,0:02:03.04,Default,,0000,0000,0000,,Don't regret it later.
+Dialogue: 0,0:02:03.99,0:02:05.99,Default,,0000,0000,0000,,Say cheese!
+Dialogue: 0,0:02:08.25,0:02:14.25,Default,,0000,0000,0000,,My Name Is Konohamaru!
+Dialogue: 0,0:02:29.87,0:02:32.41,Default,,0000,0000,0000,,I couldn't decide on how to look.
+Dialogue: 0,0:02:32.79,0:02:35.00,Default,,0000,0000,0000,,It took me 3 hours to decide.
+Dialogue: 0,0:02:35.33,0:02:39.45,Default,,0000,0000,0000,,But as you can see,\Nit's more like a work of art.
+Dialogue: 0,0:02:39.50,0:02:40.99,Default,,0000,0000,0000,,Doesn't it look great?
+Dialogue: 0,0:02:41.12,0:02:42.41,Default,,0000,0000,0000,,Take it over.
+Dialogue: 0,0:02:42.62,0:02:43.58,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:45.99,0:02:47.16,Default,,0000,0000,0000,,Take it over.
+Dialogue: 0,0:02:47.91,0:02:49.83,Default,,0000,0000,0000,,Stop saying that!
+Dialogue: 0,0:02:55.99,0:02:56.75,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:03:00.45,0:03:02.99,Default,,0000,0000,0000,,Oh please, Lord Hokage…
+Dialogue: 0,0:03:17.99,0:03:23.29,Default,,0000,0000,0000,,The Sexy Jutsu…\NThat's quite a devious technique.
+Dialogue: 0,0:03:25.62,0:03:28.83,Default,,0000,0000,0000,,By the way Naruto,\Nwhere's your headband?
+Dialogue: 0,0:03:29.08,0:03:32.66,Default,,0000,0000,0000,,I won't wear it until the orientation.\Nlt might get scratched
+Dialogue: 0,0:03:33.70,0:03:34.95,Default,,0000,0000,0000,,Well, that's just fine.
+Dialogue: 0,0:03:35.08,0:03:39.58,Default,,0000,0000,0000,,But the Ninja Registration Form\Nis a very important document
+Dialogue: 0,0:03:39.70,0:03:42.54,Default,,0000,0000,0000,,held in high regard by our village.
+Dialogue: 0,0:03:43.87,0:03:46.25,Default,,0000,0000,0000,,Why do you want to look like this?
+Dialogue: 0,0:03:47.16,0:03:48.37,Default,,0000,0000,0000,,Because!
+Dialogue: 0,0:03:48.41,0:03:51.20,Default,,0000,0000,0000,,Anyway, how should I know\Nabout all that stuff?
+Dialogue: 0,0:03:54.12,0:03:56.08,Default,,0000,0000,0000,,Old man!\NGet ready to fight!
+Dialogue: 0,0:03:57.70,0:04:00.95,Default,,0000,0000,0000,,I am going to be the Fifth Hokage!
+Dialogue: 0,0:04:04.83,0:04:06.70,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:04:07.62,0:04:09.66,Default,,0000,0000,0000,,If it's not one thing, it's another….
+Dialogue: 0,0:04:11.99,0:04:13.99,Default,,0000,0000,0000,,Drat! Is this a trap?
+Dialogue: 0,0:04:16.54,0:04:19.62,Default,,0000,0000,0000,,Are you okay,\NHonorable Grandson?
+Dialogue: 0,0:04:19.95,0:04:21.99,Default,,0000,0000,0000,,May I just inform you that\Nthere aren't any traps here…
+Dialogue: 0,0:04:22.41,0:04:24.75,Default,,0000,0000,0000,,Huh? What's with this runt?
+Dialogue: 0,0:04:25.99,0:04:26.45,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:26.99,0:04:32.25,Default,,0000,0000,0000,,I know this kid…\NHe's that Nine-Tailed boy!
+Dialogue: 0,0:04:32.62,0:04:34.99,Default,,0000,0000,0000,,He's a good-for-nothing scoundrel!
+Dialogue: 0,0:04:35.45,0:04:38.62,Default,,0000,0000,0000,,You must have done this to me!
+Dialogue: 0,0:04:39.20,0:04:41.83,Default,,0000,0000,0000,,You tripped all by yourself, stupid!
+Dialogue: 0,0:04:41.99,0:04:44.33,Default,,0000,0000,0000,,Hey! Let go of him!
+Dialogue: 0,0:04:44.66,0:04:47.79,Default,,0000,0000,0000,,He is the Honorable Grandson\Nof the Third Hokage!
+Dialogue: 0,0:04:51.00,0:04:53.99,Default,,0000,0000,0000,,He stopped as soon as\Nhe learned who I am….
+Dialogue: 0,0:04:55.87,0:04:57.99,Default,,0000,0000,0000,,He's like my four-eyed teacher.
+Dialogue: 0,0:04:57.99,0:04:59.87,Default,,0000,0000,0000,,He's just like everyone else!
+Dialogue: 0,0:05:00.33,0:05:01.95,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:05:01.99,0:05:03.58,Default,,0000,0000,0000,,Weren't you gonna hit me, huh?
+Dialogue: 0,0:05:03.83,0:05:06.29,Default,,0000,0000,0000,,Can't do it 'cuz\NI'm the Hokage's grandson, eh?
+Dialogue: 0,0:05:06.33,0:05:09.99,Default,,0000,0000,0000,,As if I care! 					lmbecile!
+Dialogue: 0,0:05:12.45,0:05:13.62,Default,,0000,0000,0000,,This guy…
+Dialogue: 0,0:05:15.45,0:05:17.08,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:17.66,0:05:19.54,Default,,0000,0000,0000,,Good grief…
+Dialogue: 0,0:05:22.45,0:05:23.75,Default,,0000,0000,0000,,Listen to me.
+Dialogue: 0,0:05:23.79,0:05:26.99,Default,,0000,0000,0000,,You are the Honorable Grandson\Nof the Third Hokage.
+Dialogue: 0,0:05:27.54,0:05:33.29,Default,,0000,0000,0000,,Even though that scoundrel hit you,\Nyou must not associate with his kind.
+Dialogue: 0,0:05:35.33,0:05:38.41,Default,,0000,0000,0000,,Nothing good will come of\Nyour tangling with him.
+Dialogue: 0,0:05:38.79,0:05:40.99,Default,,0000,0000,0000,,This is your distinguished\Nteacher Ebisu,
+Dialogue: 0,0:05:40.99,0:05:42.87,Default,,0000,0000,0000,,and I am never wrong\Nabout these things!
+Dialogue: 0,0:05:43.50,0:05:46.50,Default,,0000,0000,0000,,Don't you want to become\Nthe Fifth Hokage?
+Dialogue: 0,0:05:47.04,0:05:49.70,Default,,0000,0000,0000,,Then allow me\Nto teach you Ninjutsu,
+Dialogue: 0,0:05:49.75,0:05:51.87,Default,,0000,0000,0000,,so that your dream will\Nbecome a reality.
+Dialogue: 0,0:05:52.12,0:05:53.08,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:05:53.12,0:05:58.91,Default,,0000,0000,0000,,Stick with me and you will gain a shortcut\Ntowards becoming the Fifth Hokage.
+Dialogue: 0,0:05:58.95,0:06:01.75,Default,,0000,0000,0000,,Is that clear, Honorable Grandson?
+Dialogue: 0,0:06:05.41,0:06:06.83,Default,,0000,0000,0000,,He's gone!
+Dialogue: 0,0:06:07.04,0:06:10.12,Default,,0000,0000,0000,,It seems he's gone after Naruto.
+Dialogue: 0,0:06:10.16,0:06:10.99,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:06:11.04,0:06:12.12,Default,,0000,0000,0000,,This is terrible!
+Dialogue: 0,0:06:12.75,0:06:14.12,Default,,0000,0000,0000,,Honorable Grandson!
+Dialogue: 0,0:06:15.87,0:06:19.45,Default,,0000,0000,0000,,How did he become like this?
+Dialogue: 0,0:06:21.25,0:06:25.04,Default,,0000,0000,0000,,That was the 20th sneak attack today.
+Dialogue: 0,0:06:26.20,0:06:30.12,Default,,0000,0000,0000,,And now he's in the company of Naruto.\NI'm a bit worried.
+Dialogue: 0,0:06:31.58,0:06:35.33,Default,,0000,0000,0000,,I just hope he doesn't pick up\Nmore foolishness.
+Dialogue: 0,0:06:50.29,0:06:50.70,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:17.33,0:07:18.54,Default,,0000,0000,0000,,Stop following me!
+Dialogue: 0,0:07:18.66,0:07:19.62,Default,,0000,0000,0000,,What is it now?!
+Dialogue: 0,0:07:22.83,0:07:24.75,Default,,0000,0000,0000,,Your camouflage is pathetic.
+Dialogue: 0,0:07:29.87,0:07:31.91,Default,,0000,0000,0000,,You've seen through my disguise...
+Dialogue: 0,0:07:31.95,0:07:33.99,Default,,0000,0000,0000,,Your reputation is well-earned.
+Dialogue: 0,0:07:35.54,0:07:38.70,Default,,0000,0000,0000,,I will allow you to make me\Nyour apprentice.
+Dialogue: 0,0:07:40.87,0:07:43.87,Default,,0000,0000,0000,,But you must first teach me that\N "Sexy Jutsu"  technique
+Dialogue: 0,0:07:43.91,0:07:45.99,Default,,0000,0000,0000,,you used to beat Grandpa Hokage.
+Dialogue: 0,0:07:46.66,0:07:48.29,Default,,0000,0000,0000,,You gotta be kidding.
+Dialogue: 0,0:07:48.54,0:07:51.12,Default,,0000,0000,0000,,I beg you to say yes, boss!
+Dialogue: 0,0:07:51.16,0:07:51.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:52.50,0:07:53.20,Default,,0000,0000,0000,,Boss?
+Dialogue: 0,0:07:53.58,0:07:55.99,Default,,0000,0000,0000,,Boss! Boss! Boss!
+Dialogue: 0,0:07:57.75,0:07:59.41,Default,,0000,0000,0000,,I guess I have no choice.
+Dialogue: 0,0:08:03.20,0:08:03.99,Default,,0000,0000,0000,,Listen.
+Dialogue: 0,0:08:04.20,0:08:06.37,Default,,0000,0000,0000,,In order to become a skilled Ninja,
+Dialogue: 0,0:08:06.54,0:08:08.99,Default,,0000,0000,0000,,you must first learn to\Ncontrol your Chatora.
+Dialogue: 0,0:08:09.83,0:08:10.41,Default,,0000,0000,0000,,Chatora?
+Dialogue: 0,0:08:14.12,0:08:15.83,Default,,0000,0000,0000,,Yes, Chatora.
+Dialogue: 0,0:08:16.08,0:08:18.99,Default,,0000,0000,0000,,Boss, I think you mean Chakra.
+Dialogue: 0,0:08:19.99,0:08:20.99,Default,,0000,0000,0000,,Silence!
+Dialogue: 0,0:08:20.99,0:08:22.45,Default,,0000,0000,0000,,That's what real Ninjas call it!
+Dialogue: 0,0:08:22.58,0:08:24.99,Default,,0000,0000,0000,,Oh! I didn't know that!
+Dialogue: 0,0:08:26.79,0:08:28.91,Default,,0000,0000,0000,,Whew… I'm glad he's a fool.
+Dialogue: 0,0:08:29.62,0:08:31.99,Default,,0000,0000,0000,,Listen. Chakra essentially means…
+Dialogue: 0,0:08:32.12,0:08:36.12,Default,,0000,0000,0000,,Basically, it is the energy needed\Nin order to use Jutsu.
+Dialogue: 0,0:08:36.20,0:08:36.58,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:36.99,0:08:40.58,Default,,0000,0000,0000,,In other words, fundamentally Ninja Arts\Ncombine the Chakra,
+Dialogue: 0,0:08:40.62,0:08:44.50,Default,,0000,0000,0000,,the physical energy accumulated\Nfrom each cell in the body
+Dialogue: 0,0:08:45.00,0:08:48.54,Default,,0000,0000,0000,,with spiritual energy intensified\Nthrough training and experience.
+Dialogue: 0,0:08:48.58,0:08:52.04,Default,,0000,0000,0000,,This combined energy is summoned\Nwith certain hand signs.
+Dialogue: 0,0:08:52.25,0:08:53.58,Default,,0000,0000,0000,,You made me think\Nyou knew all that,
+Dialogue: 0,0:08:53.62,0:08:54.99,Default,,0000,0000,0000,,when you were just reading\Nfrom a scroll!
+Dialogue: 0,0:08:56.04,0:08:58.95,Default,,0000,0000,0000,,Much has been said about\Nperfecting the Ninja techniques,
+Dialogue: 0,0:08:58.99,0:09:01.99,Default,,0000,0000,0000,,but it really boils down\Nto just one thing.
+Dialogue: 0,0:09:02.45,0:09:03.62,Default,,0000,0000,0000,,And what is that?
+Dialogue: 0,0:09:04.25,0:09:05.99,Default,,0000,0000,0000,,Hard work and guts.
+Dialogue: 0,0:09:06.41,0:09:08.16,Default,,0000,0000,0000,,Hard work and guts?
+Dialogue: 0,0:09:08.66,0:09:09.41,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:09:09.45,0:09:12.25,Default,,0000,0000,0000,,So be ready for the challenging tasks\NI will give you.
+Dialogue: 0,0:09:12.37,0:09:13.99,Default,,0000,0000,0000,,Yes, boss!
+Dialogue: 0,0:09:14.08,0:09:17.08,Default,,0000,0000,0000,,Good. Let's start right now.\NTransform for me.
+Dialogue: 0,0:09:17.33,0:09:17.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:18.99,0:09:22.37,Default,,0000,0000,0000,,Let me see first\Nhow much you already know.
+Dialogue: 0,0:09:22.95,0:09:25.45,Default,,0000,0000,0000,,But what do I transform into?
+Dialogue: 0,0:09:35.12,0:09:37.50,Default,,0000,0000,0000,,OK... First, transform into that lady.
+Dialogue: 0,0:09:37.87,0:09:39.70,Default,,0000,0000,0000,,An easy task, boss.
+Dialogue: 0,0:09:41.75,0:09:42.37,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:09:43.91,0:09:45.99,Default,,0000,0000,0000,,Well, do I look like her?
+Dialogue: 0,0:09:50.50,0:09:53.16,Default,,0000,0000,0000,,Uhm… Well, the clothes do and…
+Dialogue: 0,0:09:55.08,0:09:56.62,Default,,0000,0000,0000,,And what's so similar\Nabout that?!
+Dialogue: 0,0:09:57.83,0:09:59.25,Default,,0000,0000,0000,,Honorable Grandson.
+Dialogue: 0,0:09:59.41,0:10:02.99,Default,,0000,0000,0000,,If you will transform into me,\Nat least try to look a little cuter, OK?
+Dialogue: 0,0:10:04.95,0:10:05.62,Default,,0000,0000,0000,,She's scary!
+Dialogue: 0,0:10:08.04,0:10:10.91,Default,,0000,0000,0000,,Why am I the one who gets hit?
+Dialogue: 0,0:10:14.12,0:10:17.62,Default,,0000,0000,0000,,OK!\NNext, we'll do some research on sexiness!
+Dialogue: 0,0:10:17.66,0:10:18.99,Default,,0000,0000,0000,,Yes, boss!
+Dialogue: 0,0:10:31.70,0:10:35.99,Default,,0000,0000,0000,,I told you I don't allow\Nreading here, Naruto!
+Dialogue: 0,0:10:43.45,0:10:47.87,Default,,0000,0000,0000,,This is the last test.\NPut all of your effort into it!
+Dialogue: 0,0:10:47.91,0:10:49.41,Default,,0000,0000,0000,,Yes, boss!
+Dialogue: 0,0:10:49.66,0:10:50.08,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:11:06.25,0:11:08.37,Default,,0000,0000,0000,,Naruto! It's you again!
+Dialogue: 0,0:11:12.75,0:11:14.16,Default,,0000,0000,0000,,Why is it always me…?
+Dialogue: 0,0:11:15.70,0:11:16.25,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:11:16.45,0:11:16.99,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:17.54,0:11:19.91,Default,,0000,0000,0000,,It's because\NI'm the Hokage's grandson.
+Dialogue: 0,0:11:21.25,0:11:22.99,Default,,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:11:23.12,0:11:23.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:24.62,0:11:27.66,Default,,0000,0000,0000,,You're now ready to perform\Nthe Sexy Jutsu!
+Dialogue: 0,0:11:28.75,0:11:31.00,Default,,0000,0000,0000,,You just need more practice.
+Dialogue: 0,0:11:34.16,0:11:35.70,Default,,0000,0000,0000,,Yes, boss!
+Dialogue: 0,0:11:36.91,0:11:39.37,Default,,0000,0000,0000,,OK, keep in mind…\Nthe point is for "boom boom boom"!
+Dialogue: 0,0:11:39.79,0:11:40.41,Default,,0000,0000,0000,,Now do it!
+Dialogue: 0,0:11:40.45,0:11:42.95,Default,,0000,0000,0000,,Yes, boss! 					Transform!
+Dialogue: 0,0:11:45.99,0:11:47.91,Default,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:11:49.99,0:11:51.04,Default,,0000,0000,0000,,That won't do!
+Dialogue: 0,0:11:51.70,0:11:53.29,Default,,0000,0000,0000,,More slender.
+Dialogue: 0,0:11:53.41,0:11:54.54,Default,,0000,0000,0000,,Yes, boss!
+Dialogue: 0,0:11:55.16,0:11:56.62,Default,,0000,0000,0000,,Is this okay?
+Dialogue: 0,0:11:57.50,0:11:59.79,Default,,0000,0000,0000,,Not yet. 					More attractive.
+Dialogue: 0,0:11:59.83,0:12:00.99,Default,,0000,0000,0000,,Yes, boss!
+Dialogue: 0,0:12:01.58,0:12:03.12,Default,,0000,0000,0000,,How about now?
+Dialogue: 0,0:12:06.66,0:12:10.95,Default,,0000,0000,0000,,That Naruto… What is he teaching\Nthe Honorable Grandson…?
+Dialogue: 0,0:12:12.70,0:12:16.50,Default,,0000,0000,0000,,Where the hell could they be…?
+Dialogue: 0,0:12:17.45,0:12:21.99,Default,,0000,0000,0000,,I am a distinguished teacher\Ntraining potential Hokage.
+Dialogue: 0,0:12:22.45,0:12:27.54,Default,,0000,0000,0000,,All those who interfere\Nwill be eliminated.
+Dialogue: 0,0:12:49.95,0:12:50.99,Default,,0000,0000,0000,,You know I've been wondering…
+Dialogue: 0,0:12:50.99,0:12:54.25,Default,,0000,0000,0000,,You seem obsessed with beating\Nyour Grandpa Hokage.
+Dialogue: 0,0:12:57.70,0:12:59.87,Default,,0000,0000,0000,,My name is Konohamaru.
+Dialogue: 0,0:13:00.75,0:13:02.99,Default,,0000,0000,0000,,It was Grandpa who gave me\Nthat name.
+Dialogue: 0,0:13:03.91,0:13:05.54,Default,,0000,0000,0000,,He named me after our village.
+Dialogue: 0,0:13:07.87,0:13:11.25,Default,,0000,0000,0000,,It should be easy for everyone\Nhere to remember.
+Dialogue: 0,0:13:11.87,0:13:14.41,Default,,0000,0000,0000,,But nobody ever calls me\Nby that name.
+Dialogue: 0,0:13:15.66,0:13:20.95,Default,,0000,0000,0000,,When they see me, all they see\Nis the grandson of Lord Hokage.
+Dialogue: 0,0:13:22.70,0:13:25.62,Default,,0000,0000,0000,,No one sees me for who I really am.
+Dialogue: 0,0:13:26.16,0:13:28.58,Default,,0000,0000,0000,,I can't stand it anymore.
+Dialogue: 0,0:13:29.00,0:13:29.79,Default,,0000,0000,0000,,That's why…
+Dialogue: 0,0:13:31.00,0:13:34.12,Default,,0000,0000,0000,,That's why I want the title\Nof Lord Hokage now.
+Dialogue: 0,0:13:37.83,0:13:41.37,Default,,0000,0000,0000,,Idiot…Who do you think\Nwill accept you, huh?
+Dialogue: 0,0:13:41.70,0:13:42.16,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:42.66,0:13:46.04,Default,,0000,0000,0000,,You won't win the title\Nthat easily, you know.
+Dialogue: 0,0:13:46.25,0:13:46.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:48.29,0:13:49.62,Default,,0000,0000,0000,,It's not that simple.
+Dialogue: 0,0:13:51.79,0:13:55.33,Default,,0000,0000,0000,,If you're really serious about gaining\Nthe title of Lord Hokage…
+Dialogue: 0,0:13:56.45,0:13:57.45,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:59.54,0:14:01.99,Default,,0000,0000,0000,,You'll have to beat me first!
+Dialogue: 0,0:14:17.29,0:14:20.99,Default,,0000,0000,0000,,Lord Hokage!\NI've been looking for you.
+Dialogue: 0,0:14:21.54,0:14:22.50,Default,,0000,0000,0000,,Iruka.
+Dialogue: 0,0:14:23.20,0:14:26.99,Default,,0000,0000,0000,,Did Naruto re-submit\Nhis Ninja Registration Form?
+Dialogue: 0,0:14:27.58,0:14:28.00,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:28.45,0:14:31.66,Default,,0000,0000,0000,,When I lectured to him the other night\Nat the ramen stand,
+Dialogue: 0,0:14:31.91,0:14:35.99,Default,,0000,0000,0000,,he said he will make everyone accept him\Nnow that he's a Ninja.
+Dialogue: 0,0:14:36.41,0:14:38.29,Default,,0000,0000,0000,,He's been happy since then.
+Dialogue: 0,0:14:44.33,0:14:48.99,Default,,0000,0000,0000,,It might not be easy for Naruto\Nto realize that dream.
+Dialogue: 0,0:14:49.16,0:14:49.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:50.70,0:14:52.83,Default,,0000,0000,0000,,As you well know,
+Dialogue: 0,0:14:52.87,0:14:57.99,Default,,0000,0000,0000,,only the villagers who fought\Nthe Nine-Tailed Fox Spirit 12 years ago
+Dialogue: 0,0:14:58.29,0:15:02.41,Default,,0000,0000,0000,,know that the monster is sealed\Ninside Naruto.
+Dialogue: 0,0:15:03.79,0:15:07.29,Default,,0000,0000,0000,,I ruled that no one shall speak\Nabout that incident.
+Dialogue: 0,0:15:07.33,0:15:11.16,Default,,0000,0000,0000,,I have severely punished those\Nwho have broken this rule.
+Dialogue: 0,0:15:12.04,0:15:15.79,Default,,0000,0000,0000,,Now our children know nothing about it.
+Dialogue: 0,0:15:15.99,0:15:18.99,Default,,0000,0000,0000,,That is the only positive\Ndevelopment for Naruto.
+Dialogue: 0,0:15:19.79,0:15:24.99,Default,,0000,0000,0000,,Before the Fourth Hokage trapped\Nthe monster and died,
+Dialogue: 0,0:15:24.99,0:15:27.99,Default,,0000,0000,0000,,his last wish was for the villagers\Nto regard Naruto as a hero.
+Dialogue: 0,0:15:28.33,0:15:29.12,Default,,0000,0000,0000,,A hero?
+Dialogue: 0,0:15:30.29,0:15:34.70,Default,,0000,0000,0000,,The Fourth Hokage sealed the monster\Ninto the navel of a newborn baby
+Dialogue: 0,0:15:34.75,0:15:36.62,Default,,0000,0000,0000,,whose umbilical cord\Nhad just been cut.
+Dialogue: 0,0:15:37.16,0:15:39.99,Default,,0000,0000,0000,,As the receptacle\Nfor the Nine-Tailed Fox Spirit,
+Dialogue: 0,0:15:39.99,0:15:42.45,Default,,0000,0000,0000,,Naruto saved the village.
+Dialogue: 0,0:15:42.99,0:15:47.99,Default,,0000,0000,0000,,Unfortunately, the other villagers\Ndon't see him like that.
+Dialogue: 0,0:15:48.70,0:15:53.58,Default,,0000,0000,0000,,Some even say that Naruto is\Nthe Nine-Tailed Fox Spirit himself.
+Dialogue: 0,0:15:54.33,0:16:02.20,Default,,0000,0000,0000,,Little by little, that attitude has been\Npassed down to their own children.
+Dialogue: 0,0:16:04.50,0:16:07.16,Default,,0000,0000,0000,,Iruka. 					Do you know?
+Dialogue: 0,0:16:07.83,0:16:08.33,Default,,0000,0000,0000,,What, sir?
+Dialogue: 0,0:16:09.16,0:16:13.62,Default,,0000,0000,0000,,When someone is hated and people refuse\Nto accept his existence,
+Dialogue: 0,0:16:13.99,0:16:18.99,Default,,0000,0000,0000,,he sees it in the eyes\Nof the people around him.
+Dialogue: 0,0:16:25.99,0:16:27.37,Default,,0000,0000,0000,,I have found you!
+Dialogue: 0,0:16:27.70,0:16:28.25,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:33.12,0:16:34.37,Default,,0000,0000,0000,,That Demon Fox!!
+Dialogue: 0,0:16:36.50,0:16:39.41,Default,,0000,0000,0000,,That cold look!\Nlt's always like that!
+Dialogue: 0,0:16:40.87,0:16:43.99,Default,,0000,0000,0000,,Honorable Grandson,\Nwe have to go now.
+Dialogue: 0,0:16:44.08,0:16:44.99,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:16:45.37,0:16:48.99,Default,,0000,0000,0000,,I want to beat Grandpa right now\Nso I can win the title of Lord Hokage!
+Dialogue: 0,0:16:49.75,0:16:50.79,Default,,0000,0000,0000,,Don't get in my way!
+Dialogue: 0,0:16:50.99,0:16:55.00,Default,,0000,0000,0000,,A Hokage must first know about virtue,\Nhonor, etiquette, wisdom, loyalty, faith,
+Dialogue: 0,0:16:55.04,0:16:56.83,Default,,0000,0000,0000,,judgment, obedience\Nand all that.
+Dialogue: 0,0:16:56.99,0:16:59.29,Default,,0000,0000,0000,,He must be skilled at more than\Nthousand techniques…
+Dialogue: 0,0:16:59.33,0:16:59.99,Default,,0000,0000,0000,,And then...
+Dialogue: 0,0:17:00.99,0:17:01.79,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:17:05.95,0:17:08.16,Default,,0000,0000,0000,,Take this! Sexy Jutsu!
+Dialogue: 0,0:17:11.04,0:17:12.95,Default,,0000,0000,0000,,What? 					lt didn't work!
+Dialogue: 0,0:17:12.99,0:17:16.54,Default,,0000,0000,0000,,What kind of a\Ndisgraceful spell is that?!
+Dialogue: 0,0:17:16.99,0:17:18.70,Default,,0000,0000,0000,,I am a gentleman!
+Dialogue: 0,0:17:18.99,0:17:22.66,Default,,0000,0000,0000,,Such vulgar attacks\Nwill never work on me!
+Dialogue: 0,0:17:23.99,0:17:28.70,Default,,0000,0000,0000,,Honorable Grandson!\NThat rascal will only make you an imbecile!
+Dialogue: 0,0:17:29.83,0:17:31.87,Default,,0000,0000,0000,,Stick with me and...
+Dialogue: 0,0:17:31.91,0:17:35.04,Default,,0000,0000,0000,,you will gain a shortcut\Ntowards becoming the Fifth Hokage.
+Dialogue: 0,0:17:35.25,0:17:36.99,Default,,0000,0000,0000,,C'mon, let's go!
+Dialogue: 0,0:17:36.99,0:17:37.95,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:17:38.41,0:17:39.70,Default,,0000,0000,0000,,Shadow Clone Jutsu
+Dialogue: 0,0:17:46.70,0:17:49.33,Default,,0000,0000,0000,,Wow! 					Fantastic!
+Dialogue: 0,0:17:55.99,0:17:57.70,Default,,0000,0000,0000,,Ha! 					That's nothing.
+Dialogue: 0,0:17:58.04,0:18:00.29,Default,,0000,0000,0000,,I am a distinguished teacher.
+Dialogue: 0,0:18:00.75,0:18:02.99,Default,,0000,0000,0000,,I am not as weak as Mizuki.
+Dialogue: 0,0:18:18.54,0:18:19.41,Default,,0000,0000,0000,,Boss…
+Dialogue: 0,0:18:24.37,0:18:25.08,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:18:25.33,0:18:28.04,Default,,0000,0000,0000,,Transform!
+Dialogue: 0,0:18:33.25,0:18:35.58,Default,,0000,0000,0000,,Oh, Master Ebisu…
+Dialogue: 0,0:18:45.75,0:18:47.99,Default,,0000,0000,0000,,I call it "the Harem Jutsu"!
+Dialogue: 0,0:18:49.95,0:18:53.99,Default,,0000,0000,0000,,He combined the Multiple Clones with\Nhis own Sexy Jutsu.
+Dialogue: 0,0:18:54.70,0:18:57.25,Default,,0000,0000,0000,,That's another devious attack.
+Dialogue: 0,0:18:57.70,0:19:01.37,Default,,0000,0000,0000,,I probably won't even survive that one.
+Dialogue: 0,0:19:06.50,0:19:10.99,Default,,0000,0000,0000,,I can't even beat that\Nfour-eyed teacher of mine!
+Dialogue: 0,0:19:11.00,0:19:14.99,Default,,0000,0000,0000,,I want the title of Lord Hokage so badly!\NI want to be recognized by everybody!
+Dialogue: 0,0:19:14.99,0:19:15.99,Default,,0000,0000,0000,,But I keep failing.
+Dialogue: 0,0:19:16.99,0:19:18.58,Default,,0000,0000,0000,,You think it's that easy?
+Dialogue: 0,0:19:18.83,0:19:19.29,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:20.45,0:19:23.33,Default,,0000,0000,0000,,It's given only to the greatest Ninja\Nin the village.
+Dialogue: 0,0:19:23.70,0:19:26.58,Default,,0000,0000,0000,,Everybody must learn to believe in you.
+Dialogue: 0,0:19:29.37,0:19:31.62,Default,,0000,0000,0000,,I've been through a lot already.
+Dialogue: 0,0:19:32.41,0:19:34.87,Default,,0000,0000,0000,,It's been one struggle after another.
+Dialogue: 0,0:19:35.99,0:19:39.99,Default,,0000,0000,0000,,But after all that,\NI found someone who accepts me.
+Dialogue: 0,0:19:40.91,0:19:43.37,Default,,0000,0000,0000,,I had to go through a lot...\NJust for one person.
+Dialogue: 0,0:19:44.99,0:19:46.99,Default,,0000,0000,0000,,You had better push yourself.
+Dialogue: 0,0:19:47.45,0:19:48.29,Default,,0000,0000,0000,,For what?
+Dialogue: 0,0:19:50.08,0:19:55.04,Default,,0000,0000,0000,,The path of getting the title,\NLord Hokage, is a brutal one.
+Dialogue: 0,0:20:04.16,0:20:07.08,Default,,0000,0000,0000,,There's no such thing as a shortcut.
+Dialogue: 0,0:20:12.29,0:20:14.54,Default,,0000,0000,0000,,If you're really serious about\Nattaining the title of Lord Hokage
+Dialogue: 0,0:20:15.00,0:20:17.08,Default,,0000,0000,0000,,You'll have to beat me first.
+Dialogue: 0,0:20:20.95,0:20:24.62,Default,,0000,0000,0000,,Who do you think you are,\Nlecturing me like that?
+Dialogue: 0,0:20:25.99,0:20:28.54,Default,,0000,0000,0000,,I won't be your apprentice anymore.
+Dialogue: 0,0:20:33.41,0:20:36.62,Default,,0000,0000,0000,,From now on, you're my rival.
+Dialogue: 0,0:20:41.25,0:20:45.33,Default,,0000,0000,0000,,Unfortunately for you,\Ntomorrow I graduate from the Ninja Academy.
+Dialogue: 0,0:20:45.99,0:20:51.91,Default,,0000,0000,0000,,Still, I'll consider you an equal someday\Nwhen we fight for the title of Lord Hokage.
+Dialogue: 0,0:20:53.87,0:20:57.33,Default,,0000,0000,0000,,Let's look forward to that, Konohamaru.
+Dialogue: 0,0:21:21.54,0:21:26.99,Default,,0000,0000,0000,,You still have a long way to go\Nto become a real Ninja.
+Dialogue: 0,0:23:06.20,0:23:09.99,Default,,0000,0000,0000,,Aaah! Why do I have to be in\Nthe same group with Sasuke?
+Dialogue: 0,0:23:10.00,0:23:11.54,Default,,0000,0000,0000,,The guy I hate the most?
+Dialogue: 0,0:23:11.99,0:23:13.79,Default,,0000,0000,0000,,Sakura keeps saying\N "Sasuke Sasuke Sasuke!"
+Dialogue: 0,0:23:13.83,0:23:15.50,Default,,0000,0000,0000,,and doesn't even\Npay attention to me!
+Dialogue: 0,0:23:15.54,0:23:19.99,Default,,0000,0000,0000,,It makes me so mad!\NI got it! I'm going to pull one on him!
+Dialogue: 0,0:23:20.08,0:23:23.75,Default,,0000,0000,0000,,I'm not gonna let him be so cool\Nin front of Sakura!
+Dialogue: 0,0:23:24.70,0:23:27.50,Default,,0000,0000,0000,,Next Episode:\N "Sasuke and Sakura: Friends or Foes?"
+Dialogue: 0,0:23:27.54,0:23:30.12,Default,,0000,0000,0000,,Watch my outstanding performance!

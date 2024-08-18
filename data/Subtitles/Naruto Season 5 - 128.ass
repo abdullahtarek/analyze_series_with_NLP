@@ -1,0 +1,222 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.33,0:00:20.66,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.49,0:00:29.49,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.49,0:00:34.87,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:34.91,0:00:39.04,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.29,0:00:45.20,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:45.83,0:00:52.75,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.20,0:00:57.62,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:57.66,0:01:04.66,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:04.79,0:01:11.91,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:11.95,0:01:18.58,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.04,0:01:28.54,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:02:01.33,0:02:07.75,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:02:11.49,0:02:13.08,Default,,0000,0000,0000,,Are you going to\Nrun away from me?!
+Dialogue: 0,0:02:33.16,0:02:37.08,Default,,0000,0000,0000,,Yo…loser.
+Dialogue: 0,0:02:37.62,0:02:42.49,Default,,0000,0000,0000,,A Cry on Deaf Ears
+Dialogue: 0,0:02:55.33,0:02:56.87,Default,,0000,0000,0000,,It’s you this time, huh?
+Dialogue: 0,0:03:01.49,0:03:07.79,Default,,0000,0000,0000,,I couldn’t do it.\NI was not able to stop Sasuke…
+Dialogue: 0,0:03:09.20,0:03:12.83,Default,,0000,0000,0000,,I think…\Nthe one who can stop Sasuke…
+Dialogue: 0,0:03:13.54,0:03:15.49,Default,,0000,0000,0000,,the one who can save Sasuke is…
+Dialogue: 0,0:03:16.75,0:03:19.62,Default,,0000,0000,0000,,Naruto…you are the only one.
+Dialogue: 0,0:03:20.62,0:03:26.29,Default,,0000,0000,0000,,Naruto…this is my…\Nonce in a lifetime…favor to ask…
+Dialogue: 0,0:03:27.54,0:03:31.49,Default,,0000,0000,0000,,Please… Please bring Sasuke back!
+Dialogue: 0,0:03:36.29,0:03:38.20,Default,,0000,0000,0000,,I also told this to Sakura, but…
+Dialogue: 0,0:03:40.25,0:03:42.49,Default,,0000,0000,0000,,Don’t mind me anymore.
+Dialogue: 0,0:03:48.75,0:03:51.00,Default,,0000,0000,0000,,What's with that face?
+Dialogue: 0,0:03:59.50,0:04:03.08,Default,,0000,0000,0000,,Iruka Sensei, why on the earth\Ndoes an outstanding person like me
+Dialogue: 0,0:04:03.12,0:04:05.49,Default,,0000,0000,0000,,have to be on the same team with him?
+Dialogue: 0,0:04:07.29,0:04:10.49,Default,,0000,0000,0000,,Sasuke graduated with\Nthe highest grade out of all students…
+Dialogue: 0,0:04:11.16,0:04:13.12,Default,,0000,0000,0000,,Naruto, you are at the bottom!
+Dialogue: 0,0:04:13.70,0:04:16.41,Default,,0000,0000,0000,,When you even out\Nthe team’s strength,
+Dialogue: 0,0:04:16.45,0:04:17.91,Default,,0000,0000,0000,,then it naturally becomes like this.
+Dialogue: 0,0:04:18.87,0:04:22.16,Default,,0000,0000,0000,,Try your best not to slow me down,\Nyou dunce.
+Dialogue: 0,0:04:22.45,0:04:28.66,Default,,0000,0000,0000,,I am fine without eating!\NI am absolutely fine.
+Dialogue: 0,0:04:30.75,0:04:31.95,Default,,0000,0000,0000,,I’m…fine…
+Dialogue: 0,0:04:33.87,0:04:34.91,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:04:43.83,0:04:49.66,Default,,0000,0000,0000,,You asked Sakura for a hint the other day,\Nwhat did she tell you?
+Dialogue: 0,0:04:53.54,0:04:54.62,Default,,0000,0000,0000,,Shall we go?
+Dialogue: 0,0:04:55.29,0:04:56.33,Default,,0000,0000,0000,,Yup.
+Dialogue: 0,0:05:01.87,0:05:04.70,Default,,0000,0000,0000,,Wh-What’s with that face…?
+Dialogue: 0,0:05:07.66,0:05:10.49,Default,,0000,0000,0000,,You loser…
+Dialogue: 0,0:05:12.66,0:05:13.62,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:05:15.20,0:05:19.70,Default,,0000,0000,0000,,You… I hated you, you know.
+Dialogue: 0,0:05:23.58,0:05:26.12,Default,,0000,0000,0000,,It’s none of your business!
+Dialogue: 0,0:05:30.49,0:05:37.16,Default,,0000,0000,0000,,Who knows,\Nmy body moved on its own.
+Dialogue: 0,0:05:41.58,0:05:45.49,Default,,0000,0000,0000,,You rescue Sakura, no matter what!
+Dialogue: 0,0:05:46.29,0:05:48.83,Default,,0000,0000,0000,,Sasuke… You…
+Dialogue: 0,0:05:49.58,0:05:54.20,Default,,0000,0000,0000,,I could still distract him for a little while…
+Dialogue: 0,0:05:55.49,0:05:58.00,Default,,0000,0000,0000,,I lost everything once.
+Dialogue: 0,0:05:58.87,0:06:06.04,Default,,0000,0000,0000,,I don’t want to see my precious comrades\Ndie in front of me anymore.
+Dialogue: 0,0:06:09.50,0:06:10.50,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:06:12.49,0:06:16.29,Default,,0000,0000,0000,,Why is it…Sasuke?
+Dialogue: 0,0:06:19.00,0:06:21.95,Default,,0000,0000,0000,,Why did you become like this?!
+Dialogue: 0,0:06:22.00,0:06:26.70,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:06:32.66,0:06:36.45,Default,,0000,0000,0000,,Whatever happens to me,\Nwhat does that have to do with you?
+Dialogue: 0,0:06:38.20,0:06:40.12,Default,,0000,0000,0000,,I have my own way.
+Dialogue: 0,0:06:40.75,0:06:42.58,Default,,0000,0000,0000,,No matter who it is,
+Dialogue: 0,0:06:42.62,0:06:44.54,Default,,0000,0000,0000,,nobody has the right\Nto tell me what to do.
+Dialogue: 0,0:06:46.58,0:06:48.16,Default,,0000,0000,0000,,I will tell you the truth.
+Dialogue: 0,0:06:51.00,0:06:54.49,Default,,0000,0000,0000,,I’m done fooling around with\Nyou guys of the Leaf.
+Dialogue: 0,0:06:56.29,0:06:56.95,Default,,0000,0000,0000,,Go home.
+Dialogue: 0,0:07:10.91,0:07:14.08,Default,,0000,0000,0000,,I’ll take care of him!
+Dialogue: 0,0:07:14.49,0:07:15.49,Default,,0000,0000,0000,,Choji…
+Dialogue: 0,0:07:15.49,0:07:16.91,Default,,0000,0000,0000,,Go everyone!
+Dialogue: 0,0:07:19.58,0:07:23.62,Default,,0000,0000,0000,,Go, quickly! I’ll catch up with you.
+Dialogue: 0,0:07:24.58,0:07:25.70,Default,,0000,0000,0000,,Neji…
+Dialogue: 0,0:07:26.16,0:07:26.95,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:29.58,0:07:30.75,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:07:37.37,0:07:38.29,Default,,0000,0000,0000,,Kiba…
+Dialogue: 0,0:07:38.58,0:07:40.87,Default,,0000,0000,0000,,Kiba! Akamaru!
+Dialogue: 0,0:07:43.49,0:07:44.50,Default,,0000,0000,0000,,Now! Naruto!
+Dialogue: 0,0:07:46.50,0:07:47.49,Default,,0000,0000,0000,,Shikamaru…
+Dialogue: 0,0:07:48.58,0:07:49.66,Default,,0000,0000,0000,,The strategy…a success!
+Dialogue: 0,0:07:50.66,0:07:53.25,Default,,0000,0000,0000,,What are you doing?\NPlease go quickly!
+Dialogue: 0,0:07:53.62,0:07:58.66,Default,,0000,0000,0000,,You also promised Sakura\Nwith a Nice-Guy pose, Naruto.
+Dialogue: 0,0:07:59.45,0:08:00.45,Default,,0000,0000,0000,,Bushy Brow…
+Dialogue: 0,0:08:00.75,0:08:03.62,Default,,0000,0000,0000,,I’ll defeat this person.
+Dialogue: 0,0:08:05.79,0:08:06.75,Default,,0000,0000,0000,,It’s a promise.
+Dialogue: 0,0:08:09.37,0:08:10.49,Default,,0000,0000,0000,,Everyone…
+Dialogue: 0,0:08:12.50,0:08:17.95,Default,,0000,0000,0000,,Everyone risked their lives\Nto come after you, you know!
+Dialogue: 0,0:08:20.41,0:08:21.91,Default,,0000,0000,0000,,Good job for them.
+Dialogue: 0,0:08:35.95,0:08:39.29,Default,,0000,0000,0000,,Lastly, I will tell you\Nthe most important thing.
+Dialogue: 0,0:08:40.25,0:08:46.25,Default,,0000,0000,0000,,Sasuke is neither a close friend\Nof mine nor is he someone I like.
+Dialogue: 0,0:08:47.04,0:08:50.58,Default,,0000,0000,0000,,But Sasuke is a Shinobi of\Nthe Village Hidden in the Leaves…
+Dialogue: 0,0:08:51.04,0:08:52.41,Default,,0000,0000,0000,,A comrade.
+Dialogue: 0,0:08:52.58,0:08:54.50,Default,,0000,0000,0000,,That’s why we will rescue him\Nby risking our lives.
+Dialogue: 0,0:08:55.49,0:08:57.12,Default,,0000,0000,0000,,This is the Leaf way.
+Dialogue: 0,0:09:16.75,0:09:21.33,Default,,0000,0000,0000,,How do you take\Nyour comrades of the Leaf ?!
+Dialogue: 0,0:09:51.49,0:09:53.00,Default,,0000,0000,0000,,Comrades, you said…
+Dialogue: 0,0:09:55.49,0:09:59.95,Default,,0000,0000,0000,,Did I become stronger staying\Nwith those so-called comrades?
+Dialogue: 0,0:10:01.95,0:10:04.45,Default,,0000,0000,0000,,I am going to where Orochimaru is.
+Dialogue: 0,0:10:07.20,0:10:10.16,Default,,0000,0000,0000,,Orochimaru is the person who killed\Nthe Third Hokage
+Dialogue: 0,0:10:10.20,0:10:12.62,Default,,0000,0000,0000,,and tried to crush The Leaf Village!
+Dialogue: 0,0:10:13.04,0:10:16.62,Default,,0000,0000,0000,,Do you think he will\Ngive you the power freely?
+Dialogue: 0,0:10:19.37,0:10:22.49,Default,,0000,0000,0000,,He just wants your body\Nas a vessel!
+Dialogue: 0,0:10:22.95,0:10:26.62,Default,,0000,0000,0000,,You might not be able to come back.\NYou might get killed.
+Dialogue: 0,0:10:27.04,0:10:31.04,Default,,0000,0000,0000,,You think I’d easily let you\Ngo to such a place?!
+Dialogue: 0,0:10:47.12,0:10:49.20,Default,,0000,0000,0000,,That doesn’t matter to me…
+Dialogue: 0,0:10:52.04,0:10:55.25,Default,,0000,0000,0000,,If my goal is accomplished,\Nthen that’s all that matters.
+Dialogue: 0,0:10:57.04,0:10:59.29,Default,,0000,0000,0000,,If you intend to get in that way…
+Dialogue: 0,0:11:00.49,0:11:01.91,Default,,0000,0000,0000,,Then it can’t be helped…
+Dialogue: 0,0:11:05.49,0:11:10.29,Default,,0000,0000,0000,,You’re not gonna be able to!\NI’ll take you back even by force!
+Dialogue: 0,0:11:17.54,0:11:19.41,Default,,0000,0000,0000,,Why are you laughing?!
+Dialogue: 0,0:11:20.49,0:11:22.95,Default,,0000,0000,0000,,You were laughing at that time too.
+Dialogue: 0,0:11:24.62,0:11:25.79,Default,,0000,0000,0000,,That time…?
+Dialogue: 0,0:11:26.41,0:11:27.70,Default,,0000,0000,0000,,What’s funny?
+Dialogue: 0,0:11:27.83,0:11:31.16,Default,,0000,0000,0000,,It’s not funny. I am happy.
+Dialogue: 0,0:11:31.83,0:11:35.62,Default,,0000,0000,0000,,Thinking about…\Nhow I can finally defeat you here.
+Dialogue: 0,0:11:38.04,0:11:41.62,Default,,0000,0000,0000,,That time you wanted to fight me, right?
+Dialogue: 0,0:11:42.41,0:11:44.16,Default,,0000,0000,0000,,You were thrilled weren’t you?
+Dialogue: 0,0:11:44.45,0:11:45.58,Default,,0000,0000,0000,,At first!
+Dialogue: 0,0:11:46.41,0:11:48.95,Default,,0000,0000,0000,,But, you were different.
+Dialogue: 0,0:11:50.66,0:11:51.87,Default,,0000,0000,0000,,That was…
+Dialogue: 0,0:11:52.58,0:11:53.87,Default,,0000,0000,0000,,Hurry up and come.
+Dialogue: 0,0:11:53.91,0:11:57.20,Default,,0000,0000,0000,,But first, put on your Headband.\NI’ll wait.
+Dialogue: 0,0:11:57.45,0:11:59.49,Default,,0000,0000,0000,,I don’t need such a thing…
+Dialogue: 0,0:11:59.58,0:12:01.49,Default,,0000,0000,0000,,Just put it on!
+Dialogue: 0,0:12:03.49,0:12:08.54,Default,,0000,0000,0000,,You won’t be able to\Nput one scratch on my face.
+Dialogue: 0,0:12:09.20,0:12:10.16,Default,,0000,0000,0000,,That’s not it!
+Dialogue: 0,0:12:10.49,0:12:14.91,Default,,0000,0000,0000,,I’m saying that this is a sign\Nthat we fight as equal Leaf Shinobi.
+Dialogue: 0,0:12:15.66,0:12:18.04,Default,,0000,0000,0000,,That is what I call a stuck up!
+Dialogue: 0,0:12:18.41,0:12:20.50,Default,,0000,0000,0000,,You think you and I are equal?
+Dialogue: 0,0:12:20.66,0:12:22.49,Default,,0000,0000,0000,,Yeah, I think so.
+Dialogue: 0,0:12:22.58,0:12:26.33,Default,,0000,0000,0000,,I’ve never thought I was inferior to you.
+Dialogue: 0,0:12:26.62,0:12:28.41,Default,,0000,0000,0000,,You’re so obnoxious!
+Dialogue: 0,0:12:28.79,0:12:30.79,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:12:42.79,0:12:43.87,Default,,0000,0000,0000,,That was…
+Dialogue: 0,0:12:46.70,0:12:50.45,Default,,0000,0000,0000,,That was not the kind of fight I wanted.
+Dialogue: 0,0:12:52.49,0:12:55.50,Default,,0000,0000,0000,,Even now…this is not…
+Dialogue: 0,0:12:57.45,0:12:59.58,Default,,0000,0000,0000,,I don’t care about\Nyour circumstances.
+Dialogue: 0,0:14:04.16,0:14:06.95,Default,,0000,0000,0000,,What…is this power?
+Dialogue: 0,0:14:10.41,0:14:12.37,Default,,0000,0000,0000,,Power is flowing out…
+Dialogue: 0,0:14:30.54,0:14:33.08,Default,,0000,0000,0000,,So this is the power that\Nthe guy was talking about.
+Dialogue: 0,0:14:33.49,0:14:37.20,Default,,0000,0000,0000,,Furthermore, the power\Nis growing into my body.
+Dialogue: 0,0:14:42.49,0:14:47.49,Default,,0000,0000,0000,,If it is like that now…\Nif I release this curse mark…
+Dialogue: 0,0:14:51.20,0:14:53.50,Default,,0000,0000,0000,,I wonder how much power…
+Dialogue: 0,0:15:04.75,0:15:06.75,Default,,0000,0000,0000,,Wh-What power…
+Dialogue: 0,0:15:07.37,0:15:10.29,Default,,0000,0000,0000,,He’s not the same as before…
+Dialogue: 0,0:16:10.49,0:16:13.04,Default,,0000,0000,0000,,Wake up already!
+Dialogue: 0,0:16:37.25,0:16:39.29,Default,,0000,0000,0000,,I awakened long ago…
+Dialogue: 0,0:16:40.29,0:16:44.49,Default,,0000,0000,0000,,From my idiotic self who dreams about\Na lax peaceful future…
+Dialogue: 0,0:16:48.50,0:16:50.75,Default,,0000,0000,0000,,hanging out with comrades.
+Dialogue: 0,0:16:52.62,0:16:54.41,Default,,0000,0000,0000,,That’s why I left the village!
+Dialogue: 0,0:16:55.33,0:16:57.04,Default,,0000,0000,0000,,That’s why I sought power!
+Dialogue: 0,0:16:57.87,0:17:00.49,Default,,0000,0000,0000,,My dream is not in the future.
+Dialogue: 0,0:17:02.49,0:17:04.49,Default,,0000,0000,0000,,My dream is in the past…
+Dialogue: 0,0:17:07.49,0:17:09.04,Default,,0000,0000,0000,,That’s the only place it exists.
+Dialogue: 0,0:18:02.50,0:18:04.49,Default,,0000,0000,0000,,Wow, Brother!
+Dialogue: 0,0:18:04.49,0:18:07.49,Default,,0000,0000,0000,,You hit the target right in the middle,\Neven the one behind the rock!
+Dialogue: 0,0:18:08.16,0:18:10.50,Default,,0000,0000,0000,,All right, me too!
+Dialogue: 0,0:18:11.41,0:18:13.37,Default,,0000,0000,0000,,Sasuke, let’s go home.
+Dialogue: 0,0:18:16.16,0:18:19.49,Default,,0000,0000,0000,,Geez… You said that\Nyou would teach me a new shuriken jutsu.
+Dialogue: 0,0:18:20.00,0:18:24.50,Default,,0000,0000,0000,,There is an important mission tomorrow\Nand I need to prepare for that.
+Dialogue: 0,0:18:26.95,0:18:28.49,Default,,0000,0000,0000,,Liar…
+Dialogue: 0,0:18:41.33,0:18:44.49,Default,,0000,0000,0000,,Forgive me, Sasuke…\NAnother time.
+Dialogue: 0,0:18:50.04,0:18:51.50,Default,,0000,0000,0000,,Brother, watch me!
+Dialogue: 0,0:18:53.25,0:18:54.95,Default,,0000,0000,0000,,Hey! If you push yourself…
+Dialogue: 0,0:19:03.49,0:19:06.49,Default,,0000,0000,0000,,Why is the one who twisted\Nhis ankle laughing?
+Dialogue: 0,0:19:07.20,0:19:10.49,Default,,0000,0000,0000,,Could it be that you are trying\Nto take the easy way?
+Dialogue: 0,0:19:10.70,0:19:12.12,Default,,0000,0000,0000,,That’s not true...
+Dialogue: 0,0:19:13.20,0:19:14.49,Default,,0000,0000,0000,,I’m happy thinking about
+Dialogue: 0,0:19:14.49,0:19:17.20,Default,,0000,0000,0000,,how I’m finally going to\Nthe Academy starting tomorrow.
+Dialogue: 0,0:19:20.41,0:19:22.50,Default,,0000,0000,0000,,I’m going to do my best\Nwhen I enter the Academy.
+Dialogue: 0,0:19:24.20,0:19:27.87,Default,,0000,0000,0000,,So even that father will approve of me.
+Dialogue: 0,0:19:29.08,0:19:31.54,Default,,0000,0000,0000,,He will count on me\Nlike he does on my brother…
+Dialogue: 0,0:20:46.75,0:20:51.49,Default,,0000,0000,0000,,Sasuke… You really are…
+Dialogue: 0,0:20:55.50,0:20:56.95,Default,,0000,0000,0000,,I told you…
+Dialogue: 0,0:20:58.49,0:21:01.95,Default,,0000,0000,0000,,I don’t need a future\Nwith you guys anymore.
+Dialogue: 0,0:21:07.20,0:21:09.00,Default,,0000,0000,0000,,Fire Style: Dragon Flame Jutsu.
+Dialogue: 0,0:21:24.50,0:21:27.04,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:21:27.08,0:21:30.16,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:21:30.41,0:21:32.58,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:21:32.62,0:21:35.49,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:21:35.49,0:21:41.12,Default,,0000,0000,0000,,Would you think it was\Na bother if I approached you?
+Dialogue: 0,0:21:41.49,0:21:46.54,Default,,0000,0000,0000,,Despite my doubts,\NI worked up my courage
+Dialogue: 0,0:21:46.83,0:21:52.37,Default,,0000,0000,0000,,My clumsy attempts with words
+Dialogue: 0,0:21:52.49,0:21:58.04,Default,,0000,0000,0000,,You listened without turning away
+Dialogue: 0,0:21:58.95,0:22:04.33,Default,,0000,0000,0000,,No wonder I get carried away by you
+Dialogue: 0,0:22:04.54,0:22:11.41,Default,,0000,0000,0000,,But you don’t feel anything for me, do you?
+Dialogue: 0,0:22:11.75,0:22:14.49,Default,,0000,0000,0000,,I feel so sad
+Dialogue: 0,0:22:14.49,0:22:15.49,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:22:15.49,0:22:17.95,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:18.00,0:22:21.00,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:21.12,0:22:23.66,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:23.70,0:22:26.75,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:26.91,0:22:29.37,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:29.41,0:22:32.49,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:32.49,0:22:35.04,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:35.08,0:22:38.00,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:38.04,0:22:42.54,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:51.00,0:22:53.70,Default,,0000,0000,0000,,I feel power surging\Nthrough my body…
+Dialogue: 0,0:22:53.75,0:22:55.75,Default,,0000,0000,0000,,It's as though I can't lose.
+Dialogue: 0,0:22:56.49,0:23:01.49,Default,,0000,0000,0000,,It's power I'd never have gained\Nplaying comrade with you guys from Leaf.
+Dialogue: 0,0:23:02.00,0:23:06.58,Default,,0000,0000,0000,,But it's not enough.\Nlt's way short of enough, Naruto!
+Dialogue: 0,0:23:07.70,0:23:11.49,Default,,0000,0000,0000,,Strength…hatred…and desire!
+Dialogue: 0,0:23:11.79,0:23:15.45,Default,,0000,0000,0000,,Next episode:\N "Brothers: Distance Among the Uchiha"

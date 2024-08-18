@@ -1,0 +1,340 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.55,0:00:09.32,Default,,0000,0000,0000,,Press down hard on the gas
+Dialogue: 0,0:00:09.35,0:00:13.22,Default,,0000,0000,0000,,That’s right, there’s no compromise
+Dialogue: 0,0:00:13.26,0:00:17.30,Default,,0000,0000,0000,,We'll slip through the night
+Dialogue: 0,0:00:17.56,0:00:20.10,Default,,0000,0000,0000,,At the final moment push hard
+Dialogue: 0,0:00:20.13,0:00:24.27,Default,,0000,0000,0000,,That's right, all the way to zero,
+Dialogue: 0,0:00:24.30,0:00:28.31,Default,,0000,0000,0000,,Until we wipe away the days
+Dialogue: 0,0:00:29.61,0:00:34.55,Default,,0000,0000,0000,,Gently open your heart
+Dialogue: 0,0:00:35.15,0:00:38.15,Default,,0000,0000,0000,,If you pull it close to you
+Dialogue: 0,0:00:40.55,0:00:42.55,Default,,0000,0000,0000,,It will reach you, without a doubt
+Dialogue: 0,0:00:43.42,0:00:44.59,Default,,0000,0000,0000,,It will come, closer
+Dialogue: 0,0:00:44.96,0:00:47.56,Default,,0000,0000,0000,,Now
+Dialogue: 0,0:00:55.57,0:01:01.07,Default,,0000,0000,0000,,We’re speeding through life,\Nsqueezing it for all of its worth
+Dialogue: 0,0:01:01.27,0:01:02.51,Default,,0000,0000,0000,,Our feet are tied
+Dialogue: 0,0:01:02.54,0:01:06.34,Default,,0000,0000,0000,,But we still keep going farther
+Dialogue: 0,0:01:06.54,0:01:11.75,Default,,0000,0000,0000,,Even if I take it back, and grasp it
+Dialogue: 0,0:01:12.05,0:01:13.52,Default,,0000,0000,0000,,If you’re not the one
+Dialogue: 0,0:01:13.55,0:01:14.85,Default,,0000,0000,0000,,There will be no meaning
+Dialogue: 0,0:01:14.89,0:01:21.26,Default,,0000,0000,0000,,And so we’ll go far off into the distance.
+Dialogue: 0,0:01:45.82,0:01:51.02,Default,,0000,0000,0000,,It’s a custom where balance is preserved\Nby fighting and removing life.
+Dialogue: 0,0:01:51.06,0:01:53.86,Default,,0000,0000,0000,,This is the friendship\Nof the Shinobi world.
+Dialogue: 0,0:01:53.89,0:01:56.56,Default,,0000,0000,0000,,This is a fight for life with the pride\Nof the village and
+Dialogue: 0,0:01:56.56,0:01:59.20,Default,,0000,0000,0000,,one’s own dream on the line.
+Dialogue: 0,0:02:00.10,0:02:02.73,Default,,0000,0000,0000,,Heh, I’m convinced.
+Dialogue: 0,0:02:03.53,0:02:04.67,Default,,0000,0000,0000,,Anything is fine.
+Dialogue: 0,0:02:05.14,0:02:10.27,Default,,0000,0000,0000,,Just tell us the content\Nof that fight-for-life test.
+Dialogue: 0,0:02:10.51,0:02:11.11,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:02:11.18,0:02:15.71,Default,,0000,0000,0000,,Now then, this is where I’d\Nlike to explain the third exam.
+Dialogue: 0,0:02:15.75,0:02:17.18,Default,,0000,0000,0000,,But actually…
+Dialogue: 0,0:02:20.15,0:02:25.66,Default,,0000,0000,0000,,Please allow me, Hayate Gekko who was\Ngiven the task of judge, to speak first.
+Dialogue: 0,0:02:25.92,0:02:27.39,Default,,0000,0000,0000,,I leave it to you…
+Dialogue: 0,0:02:28.56,0:02:31.50,Default,,0000,0000,0000,,There’s something... I’d like you all\Nto do...
+Dialogue: 0,0:02:33.26,0:02:35.50,Default,,0000,0000,0000,,before the third exam.
+Dialogue: 0,0:02:40.54,0:02:44.01,Default,,0000,0000,0000,,And that is a preliminary\Nto the third exam,
+Dialogue: 0,0:02:44.08,0:02:46.71,Default,,0000,0000,0000,,with participation in\Nthe main battle on the line.
+Dialogue: 0,0:02:49.31,0:02:50.05,Default,,0000,0000,0000,,Preliminary?
+Dialogue: 0,0:02:50.35,0:02:53.15,Default,,0000,0000,0000,,What do you mean…preliminary?!
+Dialogue: 0,0:02:53.55,0:02:57.86,Default,,0000,0000,0000,,Sensei, I don’t understand\Nthe point of that preliminary.
+Dialogue: 0,0:02:58.56,0:03:02.73,Default,,0000,0000,0000,,Why aren’t we doing the next exam\Nwith the remaining test-takers?
+Dialogue: 0,0:03:03.49,0:03:05.56,Default,,0000,0000,0000,,This time around,
+Dialogue: 0,0:03:05.56,0:03:08.60,Default,,0000,0000,0000,,perhaps because the first and\Nsecond exams were easy,
+Dialogue: 0,0:03:09.30,0:03:12.60,Default,,0000,0000,0000,,there are a few too many\Npeople left, you see.
+Dialogue: 0,0:03:13.54,0:03:16.27,Default,,0000,0000,0000,,In accordance with the rules\Nof the Chunin Exams,
+Dialogue: 0,0:03:16.57,0:03:20.01,Default,,0000,0000,0000,,a preliminary will be held in order to\Nreduce the number advancing.
+Dialogue: 0,0:03:21.25,0:03:22.55,Default,,0000,0000,0000,,N-No way!
+Dialogue: 0,0:03:23.55,0:03:26.35,Default,,0000,0000,0000,,As Lord Hokage said before,
+Dialogue: 0,0:03:27.22,0:03:30.72,Default,,0000,0000,0000,,many guests will be coming\N to the third exam.
+Dialogue: 0,0:03:31.56,0:03:36.23,Default,,0000,0000,0000,,So we can’t have long pointless matches\Nand our time is limited as well.
+Dialogue: 0,0:03:37.40,0:03:41.63,Default,,0000,0000,0000,,Therefore, those of you\Nnot in top physical condition…
+Dialogue: 0,0:03:43.27,0:03:45.80,Default,,0000,0000,0000,,Hey, is he okay…?!
+Dialogue: 0,0:03:46.34,0:03:49.51,Default,,0000,0000,0000,,The teacher doesn’t look well himself?!
+Dialogue: 0,0:03:50.07,0:03:50.68,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:03:51.44,0:03:56.55,Default,,0000,0000,0000,,Those of you who wish to drop out,\Nplease speak up now.
+Dialogue: 0,0:03:57.25,0:03:59.72,Default,,0000,0000,0000,,The preliminary will\Nbegin immediately, so…
+Dialogue: 0,0:04:00.02,0:04:01.65,Default,,0000,0000,0000,,Immediately, you say…?!
+Dialogue: 0,0:04:01.69,0:04:05.92,Default,,0000,0000,0000,,But we finally made it through\N the second exam.
+Dialogue: 0,0:04:06.22,0:04:08.09,Default,,0000,0000,0000,,This is a pain…
+Dialogue: 0,0:04:08.13,0:04:10.56,Default,,0000,0000,0000,,Huh? What about our meal?
+Dialogue: 0,0:04:12.70,0:04:18.60,Default,,0000,0000,0000,,Narrowing the Field:\NSudden Death Elimination!
+Dialogue: 0,0:04:20.71,0:04:22.21,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:22.54,0:04:24.54,Default,,0000,0000,0000,,I’m going to do my best, no matter what!
+Dialogue: 0,0:04:24.94,0:04:26.98,Default,,0000,0000,0000,,I promised Kabuto, too…
+Dialogue: 0,0:04:28.88,0:04:29.55,Default,,0000,0000,0000,,And oh...
+Dialogue: 0,0:04:29.85,0:04:34.82,Default,,0000,0000,0000,,I forgot to mention this, but it will\Nbe individual battles from now on.
+Dialogue: 0,0:04:35.55,0:04:39.56,Default,,0000,0000,0000,,It is your decision, so feel free\Nto raise your hands and drop out.
+Dialogue: 0,0:04:40.63,0:04:42.39,Default,,0000,0000,0000,,Who’s going to quit?!
+Dialogue: 0,0:04:45.30,0:04:46.10,Default,,0000,0000,0000,,Sasuke?!
+Dialogue: 0,0:04:48.10,0:04:51.34,Default,,0000,0000,0000,,The waves of pain are\Ncoming faster...
+Dialogue: 0,0:04:53.60,0:04:55.54,Default,,0000,0000,0000,,Sasuke… I knew it.
+Dialogue: 0,0:04:56.01,0:04:59.81,Default,,0000,0000,0000,,Sasuke, you should quit\Nthese preliminaries!
+Dialogue: 0,0:05:00.98,0:05:01.55,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:05:02.05,0:05:04.38,Default,,0000,0000,0000,,L-Look, you haven't been yourself
+Dialogue: 0,0:05:04.42,0:05:07.08,Default,,0000,0000,0000,,ever since you got worked\Nover by that Orochimaru guy!
+Dialogue: 0,0:05:08.55,0:05:11.46,Default,,0000,0000,0000,,That bruise hurts even now, right…?
+Dialogue: 0,0:05:12.69,0:05:13.56,Default,,0000,0000,0000,,Bruise…?
+Dialogue: 0,0:05:14.46,0:05:15.56,Default,,0000,0000,0000,,At this rate…!
+Dialogue: 0,0:05:22.57,0:05:24.90,Default,,0000,0000,0000,,I gave him a parting gift.
+Dialogue: 0,0:05:25.54,0:05:30.14,Default,,0000,0000,0000,,Sasuke will definitely seek me…\Nin search of power.
+Dialogue: 0,0:05:46.19,0:05:48.33,Default,,0000,0000,0000,,You’re the only one left.
+Dialogue: 0,0:05:51.10,0:05:51.73,Default,,0000,0000,0000,,Please…
+Dialogue: 0,0:05:54.57,0:05:56.90,Default,,0000,0000,0000,,Please, quit!
+Dialogue: 0,0:05:58.54,0:06:00.64,Default,,0000,0000,0000,,I’m…scared.
+Dialogue: 0,0:06:03.34,0:06:04.18,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:06:08.55,0:06:09.88,Default,,0000,0000,0000,,I knew it.
+Dialogue: 0,0:06:10.82,0:06:12.12,Default,,0000,0000,0000,,What shall we do?
+Dialogue: 0,0:06:12.55,0:06:14.55,Default,,0000,0000,0000,,We should remove him\Nfrom the exams
+Dialogue: 0,0:06:14.55,0:06:16.75,Default,,0000,0000,0000,,and isolate him with\NAnbu bodyguards on him.
+Dialogue: 0,0:06:17.39,0:06:19.09,Default,,0000,0000,0000,,We should recommend that\Nhe retire immediately.
+Dialogue: 0,0:06:19.16,0:06:23.86,Default,,0000,0000,0000,,He’s not the kind of type to\N just obey like that…?!
+Dialogue: 0,0:06:25.13,0:06:28.23,Default,,0000,0000,0000,,After all, he’s of the Uchiha clan.
+Dialogue: 0,0:06:28.37,0:06:30.40,Default,,0000,0000,0000,,What’re you talking nonsense for?!
+Dialogue: 0,0:06:30.53,0:06:32.34,Default,,0000,0000,0000,,I’ll make him stop, by force if needed!
+Dialogue: 0,0:06:32.50,0:06:35.44,Default,,0000,0000,0000,,The Curse Mark responds even\Nwhen one’s just building up Chakra
+Dialogue: 0,0:06:35.47,0:06:37.61,Default,,0000,0000,0000,,and attempts to forcibly\Nextract his strength!
+Dialogue: 0,0:06:38.51,0:06:41.55,Default,,0000,0000,0000,,It’s a prohibited Jutsu that eats\Ninto the body of the one who uses a Jutsu!
+Dialogue: 0,0:06:43.55,0:06:45.82,Default,,0000,0000,0000,,It’s a wonder that kid is even enduring it.
+Dialogue: 0,0:06:47.69,0:06:50.05,Default,,0000,0000,0000,,He should really already be dead!
+Dialogue: 0,0:06:50.69,0:06:51.89,Default,,0000,0000,0000,,Lord Hokage!
+Dialogue: 0,0:06:54.56,0:06:58.26,Default,,0000,0000,0000,,You’re in no condition to\Nfight properly, Sasuke…!
+Dialogue: 0,0:06:58.50,0:06:59.56,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:06:59.86,0:07:01.50,Default,,0000,0000,0000,,I understand!
+Dialogue: 0,0:07:02.23,0:07:03.53,Default,,0000,0000,0000,,Be quiet!
+Dialogue: 0,0:07:03.53,0:07:06.47,Default,,0000,0000,0000,,But you’ve been enduring the pain\Nthis whole time, right?!
+Dialogue: 0,0:07:07.57,0:07:09.14,Default,,0000,0000,0000,,Please be quiet!
+Dialogue: 0,0:07:09.97,0:07:11.68,Default,,0000,0000,0000,,No matter what you say, Sasuke...
+Dialogue: 0,0:07:12.54,0:07:14.68,Default,,0000,0000,0000,,I’m going to tell the teachers\Nabout the bruise!
+Dialogue: 0,0:07:16.21,0:07:16.91,Default,,0000,0000,0000,,If I do that...
+Dialogue: 0,0:07:20.35,0:07:21.42,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:07:22.09,0:07:22.75,Default,,0000,0000,0000,,Oh…?!
+Dialogue: 0,0:07:23.25,0:07:24.39,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:07:28.26,0:07:31.00,Default,,0000,0000,0000,,Excuse me…I’ll quit.
+Dialogue: 0,0:07:34.00,0:07:35.93,Default,,0000,0000,0000,,K-Kabuto…?
+Dialogue: 0,0:07:39.84,0:07:41.84,Default,,0000,0000,0000,,Let's see...
+Dialogue: 0,0:07:43.87,0:07:46.94,Default,,0000,0000,0000,,Kabuto Yakushi of\Nthe Leaf Village, correct?
+Dialogue: 0,0:07:47.48,0:07:49.55,Default,,0000,0000,0000,,Then, you may step back.
+Dialogue: 0,0:07:50.35,0:07:51.22,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:52.55,0:07:53.55,Default,,0000,0000,0000,,Kabuto!
+Dialogue: 0,0:07:54.02,0:07:55.69,Default,,0000,0000,0000,,Why’re you quitting?!
+Dialogue: 0,0:07:56.05,0:07:58.39,Default,,0000,0000,0000,,Tell me! Why?!
+Dialogue: 0,0:08:00.56,0:08:01.59,Default,,0000,0000,0000,,This guy…
+Dialogue: 0,0:08:02.89,0:08:04.70,Default,,0000,0000,0000,,I’m sorry, Naruto…
+Dialogue: 0,0:08:05.56,0:08:08.60,Default,,0000,0000,0000,,But my body is worn out.
+Dialogue: 0,0:08:11.27,0:08:13.54,Default,,0000,0000,0000,,Actually before the first exam...
+Dialogue: 0,0:08:13.54,0:08:15.51,Default,,0000,0000,0000,,when I wrangled with\Nthe guys from Sound Village,
+Dialogue: 0,0:08:15.81,0:08:18.51,Default,,0000,0000,0000,,I’ve had no hearing at all in my left ear.
+Dialogue: 0,0:08:20.04,0:08:22.05,Default,,0000,0000,0000,,To fight right away…
+Dialogue: 0,0:08:22.68,0:08:26.48,Default,,0000,0000,0000,,and to be told that my life would\Nalso be on the line, I can’t go on.
+Dialogue: 0,0:08:33.86,0:08:36.56,Default,,0000,0000,0000,,I’ve seen that face a few times.
+Dialogue: 0,0:08:37.39,0:08:42.10,Default,,0000,0000,0000,,As I recall, I think he dropped out\Nof the main battle before, as well.
+Dialogue: 0,0:08:42.87,0:08:45.17,Default,,0000,0000,0000,,What in the world is he thinking?
+Dialogue: 0,0:08:46.54,0:08:47.44,Default,,0000,0000,0000,,Anko.
+Dialogue: 0,0:08:47.77,0:08:48.91,Default,,0000,0000,0000,,Uh…yes.
+Dialogue: 0,0:08:51.48,0:08:52.71,Default,,0000,0000,0000,,Kabuto Yakushi.
+Dialogue: 0,0:08:53.54,0:08:56.75,Default,,0000,0000,0000,,According to the data,\Nhe has failed six straight times.
+Dialogue: 0,0:08:58.55,0:09:00.25,Default,,0000,0000,0000,,What about his background?
+Dialogue: 0,0:09:01.25,0:09:02.55,Default,,0000,0000,0000,,From his time at the Academy,
+Dialogue: 0,0:09:02.55,0:09:04.56,Default,,0000,0000,0000,,he was a student who did\Nnot really stand out,
+Dialogue: 0,0:09:04.56,0:09:05.96,Default,,0000,0000,0000,,and his grades were ordinary.
+Dialogue: 0,0:09:06.56,0:09:09.23,Default,,0000,0000,0000,,He finally passed the graduation\N exam on his third try.
+Dialogue: 0,0:09:10.06,0:09:11.80,Default,,0000,0000,0000,,After that, as for the missions\Nhe carried out,
+Dialogue: 0,0:09:11.86,0:09:15.10,Default,,0000,0000,0000,,two C-ranks and fourteen D-ranks.
+Dialogue: 0,0:09:15.60,0:09:18.44,Default,,0000,0000,0000,,It’s not a battle record to\Nwrite home about.
+Dialogue: 0,0:09:20.54,0:09:21.47,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:09:22.54,0:09:23.54,Default,,0000,0000,0000,,However…?
+Dialogue: 0,0:09:23.61,0:09:26.51,Default,,0000,0000,0000,,It’s about before the Academy.
+Dialogue: 0,0:09:26.64,0:09:27.55,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:09:28.35,0:09:29.81,Default,,0000,0000,0000,,Do you remember the story...
+Dialogue: 0,0:09:29.85,0:09:35.39,Default,,0000,0000,0000,,about the one boy brought back\Nfrom the Kikyo Pass battle?
+Dialogue: 0,0:09:36.59,0:09:38.02,Default,,0000,0000,0000,,I remember.
+Dialogue: 0,0:09:38.56,0:09:42.56,Default,,0000,0000,0000,,As I recall, I heard an enemy boy survivor\Nat the battlefield
+Dialogue: 0,0:09:42.63,0:09:47.43,Default,,0000,0000,0000,,was taken back by a Jonin from\Nthe medical unit.
+Dialogue: 0,0:09:47.57,0:09:50.13,Default,,0000,0000,0000,,So he’s that boy…?
+Dialogue: 0,0:09:50.90,0:09:52.80,Default,,0000,0000,0000,,Don’t take arbitrary actions.
+Dialogue: 0,0:09:53.34,0:09:55.81,Default,,0000,0000,0000,,Have you forgotten\NOrochimaru’s orders?
+Dialogue: 0,0:09:57.11,0:09:58.68,Default,,0000,0000,0000,,I leave it to you guys.
+Dialogue: 0,0:09:59.54,0:10:00.71,Default,,0000,0000,0000,,You in particular, Yoroi.
+Dialogue: 0,0:10:01.71,0:10:05.32,Default,,0000,0000,0000,,There should be no problems\Nhere with your ability.
+Dialogue: 0,0:10:07.55,0:10:10.09,Default,,0000,0000,0000,,This is where you can\Nshow your strength.
+Dialogue: 0,0:10:10.55,0:10:15.39,Default,,0000,0000,0000,,Those of you who are irritated that\NI’m ahead of you.
+Dialogue: 0,0:10:15.86,0:10:18.80,Default,,0000,0000,0000,,So you’re Orochimaru’s favorite, huh?
+Dialogue: 0,0:10:19.56,0:10:21.27,Default,,0000,0000,0000,,Don’t get all high and mighty, kid.
+Dialogue: 0,0:10:21.77,0:10:23.93,Default,,0000,0000,0000,,I understand, Yoroi sir.
+Dialogue: 0,0:10:30.54,0:10:31.31,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:10:33.11,0:10:35.55,Default,,0000,0000,0000,,Naruto… Sasuke…
+Dialogue: 0,0:10:36.48,0:10:39.18,Default,,0000,0000,0000,,I wanted to play with you guys\Na little more.
+Dialogue: 0,0:10:40.25,0:10:41.55,Default,,0000,0000,0000,,But if I do more than this…
+Dialogue: 0,0:10:42.19,0:10:44.52,Default,,0000,0000,0000,,The old me might get stirred up.
+Dialogue: 0,0:10:45.72,0:10:48.09,Default,,0000,0000,0000,,I am a spy so far as it goes.
+Dialogue: 0,0:10:48.89,0:10:52.26,Default,,0000,0000,0000,,I cannot expose myself, here.
+Dialogue: 0,0:10:53.60,0:10:56.57,Default,,0000,0000,0000,,Also…if you are going to watch.
+Dialogue: 0,0:10:57.27,0:11:00.10,Default,,0000,0000,0000,,My role of information collecting\Nhas served its purpose…
+Dialogue: 0,0:11:01.21,0:11:02.54,Default,,0000,0000,0000,,Master Orochimaru.
+Dialogue: 0,0:11:04.11,0:11:07.85,Default,,0000,0000,0000,,I’ll save the fun, for some other time…
+Dialogue: 0,0:11:08.95,0:11:10.25,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:11:11.35,0:11:12.55,Default,,0000,0000,0000,,And Naruto...
+Dialogue: 0,0:11:13.55,0:11:14.55,Default,,0000,0000,0000,,You too.
+Dialogue: 0,0:11:30.23,0:11:33.94,Default,,0000,0000,0000,,Now then, there are no others\Nwho will quit?
+Dialogue: 0,0:11:36.67,0:11:39.78,Default,,0000,0000,0000,,I must tell the teachers,\Nabout Sasuke’s bruise!
+Dialogue: 0,0:11:43.85,0:11:44.82,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:46.55,0:11:48.65,Default,,0000,0000,0000,,Be quiet about this bruise.
+Dialogue: 0,0:11:56.09,0:11:58.13,Default,,0000,0000,0000,,Why’re you acting tough like that?!
+Dialogue: 0,0:11:58.56,0:12:01.57,Default,,0000,0000,0000,,I don’t want to watch you suffer\Nall the time anymore!
+Dialogue: 0,0:12:02.23,0:12:03.60,Default,,0000,0000,0000,,For me you are…!
+Dialogue: 0,0:12:04.54,0:12:06.54,Default,,0000,0000,0000,,This has nothing to do with you!
+Dialogue: 0,0:12:08.54,0:12:10.37,Default,,0000,0000,0000,,It’s none of your business.
+Dialogue: 0,0:12:16.21,0:12:17.88,Default,,0000,0000,0000,,I said it once before…
+Dialogue: 0,0:12:22.39,0:12:24.05,Default,,0000,0000,0000,,I’m an avenger.
+Dialogue: 0,0:12:25.56,0:12:28.73,Default,,0000,0000,0000,,This is not just a mere exam to me.
+Dialogue: 0,0:12:29.19,0:12:32.73,Default,,0000,0000,0000,,The Chunin business has\Nnothing to do with me.
+Dialogue: 0,0:12:36.57,0:12:41.11,Default,,0000,0000,0000,,“Am I strong?”\NAll I want is the answer to that.
+Dialogue: 0,0:12:41.77,0:12:43.87,Default,,0000,0000,0000,,By fighting with those who are strong!
+Dialogue: 0,0:12:44.27,0:12:45.44,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:12:46.94,0:12:49.48,Default,,0000,0000,0000,,I’m Gaara of the desert.
+Dialogue: 0,0:12:49.88,0:12:52.75,Default,,0000,0000,0000,,Hey, you there…\Nldentify yourself.
+Dialogue: 0,0:12:53.55,0:12:54.55,Default,,0000,0000,0000,,I declare.
+Dialogue: 0,0:12:54.99,0:12:57.55,Default,,0000,0000,0000,,You are absolutely no match for me.
+Dialogue: 0,0:12:58.56,0:13:02.69,Default,,0000,0000,0000,,If I have the opportunity to fight you\Nin the next exam,
+Dialogue: 0,0:13:03.06,0:13:05.60,Default,,0000,0000,0000,,we won’t run or hide.
+Dialogue: 0,0:13:06.76,0:13:10.53,Default,,0000,0000,0000,,And they’re... here!
+Dialogue: 0,0:13:15.34,0:13:19.98,Default,,0000,0000,0000,,I will not allow even you\Nto take my path away from me!
+Dialogue: 0,0:13:21.55,0:13:22.71,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:13:23.55,0:13:24.68,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:13:24.72,0:13:27.48,Default,,0000,0000,0000,,What’re you doing putting up\Na front, you idiot?!
+Dialogue: 0,0:13:27.52,0:13:29.15,Default,,0000,0000,0000,,Here Sakura is this worried about you--!
+Dialogue: 0,0:13:29.19,0:13:30.15,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:13:32.46,0:13:34.93,Default,,0000,0000,0000,,I want to fight you, too.
+Dialogue: 0,0:13:35.26,0:13:36.06,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:44.33,0:13:47.40,Default,,0000,0000,0000,,What Orochimaru said\Nis sitting on my mind.
+Dialogue: 0,0:13:47.70,0:13:49.94,Default,,0000,0000,0000,,I will let Sasuke do the test...
+Dialogue: 0,0:13:50.14,0:13:51.38,Default,,0000,0000,0000,,– and see how things go.\N– Wha--?!
+Dialogue: 0,0:13:51.54,0:13:53.11,Default,,0000,0000,0000,,L-Lord Hokage…!
+Dialogue: 0,0:13:53.98,0:13:56.85,Default,,0000,0000,0000,,However, if the Curse Mark opens
+Dialogue: 0,0:13:56.88,0:13:59.55,Default,,0000,0000,0000,,and the power gets even a little bit\Nout of control,
+Dialogue: 0,0:13:59.55,0:14:00.88,Default,,0000,0000,0000,,get in there and stop it.
+Dialogue: 0,0:14:01.05,0:14:01.75,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:14:02.25,0:14:02.99,Default,,0000,0000,0000,,But...!
+Dialogue: 0,0:14:05.56,0:14:06.66,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:14:13.30,0:14:17.10,Default,,0000,0000,0000,,Now then, we will begin the preliminaries.
+Dialogue: 0,0:14:18.47,0:14:21.27,Default,,0000,0000,0000,,The preliminaries to come\Nwill be one-on-one individual battles.
+Dialogue: 0,0:14:22.27,0:14:25.71,Default,,0000,0000,0000,,In other words,\Nactual battle format.
+Dialogue: 0,0:14:27.54,0:14:31.98,Default,,0000,0000,0000,,There are now exactly twenty people,\Nso we will conduct ten battles.
+Dialogue: 0,0:14:32.68,0:14:36.72,Default,,0000,0000,0000,,The winners will be able to\Nadvance to the third exam.
+Dialogue: 0,0:14:37.55,0:14:39.22,Default,,0000,0000,0000,,There are no rules at all.
+Dialogue: 0,0:14:39.66,0:14:46.23,Default,,0000,0000,0000,,You will fight until someone dies,\N collapses…or admits defeat.
+Dialogue: 0,0:14:47.06,0:14:51.57,Default,,0000,0000,0000,,And... please admit defeat right away\N if you don’t want to die.
+Dialogue: 0,0:14:52.14,0:14:56.77,Default,,0000,0000,0000,,However, in case I judge\Nthat a match is over…
+Dialogue: 0,0:14:58.64,0:15:02.55,Default,,0000,0000,0000,,err... I don’t want to needlessly increase\Ndead bodies,
+Dialogue: 0,0:15:02.55,0:15:04.85,Default,,0000,0000,0000,,so I will intervene and stop the match\Nor something to that effect.
+Dialogue: 0,0:15:05.42,0:15:08.39,Default,,0000,0000,0000,,What holds the key to your destinies is…
+Dialogue: 0,0:15:11.96,0:15:12.72,Default,,0000,0000,0000,,Open it.
+Dialogue: 0,0:15:22.73,0:15:23.90,Default,,0000,0000,0000,,This.
+Dialogue: 0,0:15:24.60,0:15:29.11,Default,,0000,0000,0000,,The names of two foes will be\Nrandomly selected and
+Dialogue: 0,0:15:29.14,0:15:32.64,Default,,0000,0000,0000,,displayed on this electronic signboard.
+Dialogue: 0,0:15:34.54,0:15:36.71,Default,,0000,0000,0000,,Now then, let’s get right down to it
+Dialogue: 0,0:15:36.85,0:15:40.48,Default,,0000,0000,0000,,and announce the two names\Nfor the first battle.
+Dialogue: 0,0:15:50.79,0:15:53.23,Default,,0000,0000,0000,,Yoroi Akado vs. Sasuke Uchiha
+Dialogue: 0,0:15:53.96,0:15:56.90,Default,,0000,0000,0000,,To think it’d be so soon…?!
+Dialogue: 0,0:16:01.10,0:16:02.64,Default,,0000,0000,0000,,I couldn’t ask for more.
+Dialogue: 0,0:16:03.06,0:16:04.21,Default,,0000,0000,0000,,No way…!
+Dialogue: 0,0:16:04.54,0:16:05.88,Default,,0000,0000,0000,,Why Sasuke?!
+Dialogue: 0,0:16:13.55,0:16:17.15,Default,,0000,0000,0000,,Now then, the two displayed on\Nthe signboard, come forward.
+Dialogue: 0,0:16:23.13,0:16:28.90,Default,,0000,0000,0000,,For the 1st battle, Yoroi Akado and\NSasuke Uchiha have been selected.
+Dialogue: 0,0:16:29.80,0:16:31.47,Default,,0000,0000,0000,,No objections, right?
+Dialogue: 0,0:16:32.50,0:16:33.30,Default,,0000,0000,0000,,– Right. 					– No!
+Dialogue: 0,0:16:44.85,0:16:47.52,Default,,0000,0000,0000,,All I can do now is watch…
+Dialogue: 0,0:16:48.85,0:16:49.99,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:16:50.95,0:16:51.69,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:16:52.09,0:16:55.76,Default,,0000,0000,0000,,If you want to fight me, don’t lose!
+Dialogue: 0,0:16:56.56,0:17:00.13,Default,,0000,0000,0000,,Sasuke… You’re acting strange…
+Dialogue: 0,0:17:01.16,0:17:02.77,Default,,0000,0000,0000,,Is it because of the Curse Mark…?
+Dialogue: 0,0:17:03.60,0:17:06.00,Default,,0000,0000,0000,,Sasuke, do your best!
+Dialogue: 0,0:17:06.94,0:17:09.14,Default,,0000,0000,0000,,I guess I’ll wait and see…
+Dialogue: 0,0:17:12.68,0:17:14.21,Default,,0000,0000,0000,,The pain won’t go away!
+Dialogue: 0,0:17:16.25,0:17:18.25,Default,,0000,0000,0000,,It appears the Curse Mark hurts.
+Dialogue: 0,0:17:18.75,0:17:23.05,Default,,0000,0000,0000,,Now then, we will begin the first battle.
+Dialogue: 0,0:17:25.89,0:17:31.19,Default,,0000,0000,0000,,Everyone other than the two foes,\Nplease move to the upper area.
+Dialogue: 0,0:17:42.11,0:17:44.47,Default,,0000,0000,0000,,Hey! Kakashi Sensei!
+Dialogue: 0,0:17:46.51,0:17:47.31,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:17:47.54,0:17:48.51,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:50.55,0:17:51.92,Default,,0000,0000,0000,,Don’t use the Sharingan.
+Dialogue: 0,0:17:54.35,0:17:55.55,Default,,0000,0000,0000,,So you knew?
+Dialogue: 0,0:17:56.55,0:17:58.82,Default,,0000,0000,0000,,If that Curse Mark on your neck\Ngets out of control,
+Dialogue: 0,0:17:59.56,0:18:01.32,Default,,0000,0000,0000,,it could endanger your life.
+Dialogue: 0,0:18:03.19,0:18:04.23,Default,,0000,0000,0000,,I believe it.
+Dialogue: 0,0:18:05.43,0:18:08.47,Default,,0000,0000,0000,,Well, the match will be\Ncalled off at that time.
+Dialogue: 0,0:18:09.00,0:18:11.54,Default,,0000,0000,0000,,I’ll be coming in to stop it,\Nso good luck.
+Dialogue: 0,0:18:13.10,0:18:14.20,Default,,0000,0000,0000,,Called off, you say?!
+Dialogue: 0,0:18:17.21,0:18:21.55,Default,,0000,0000,0000,,It seems this Curse Mark thing\N is responding to my Chakra.
+Dialogue: 0,0:18:28.15,0:18:31.86,Default,,0000,0000,0000,,This is my final Chakra…
+Dialogue: 0,0:18:32.56,0:18:33.56,Default,,0000,0000,0000,,Sharingan!
+Dialogue: 0,0:18:39.73,0:18:42.63,Default,,0000,0000,0000,,Sasuke, stop using the Sharingan!
+Dialogue: 0,0:18:43.57,0:18:45.57,Default,,0000,0000,0000,,If I carelessly build up Chakra,
+Dialogue: 0,0:18:45.77,0:18:47.54,Default,,0000,0000,0000,,it would extract my spirit energy,
+Dialogue: 0,0:18:47.54,0:18:50.51,Default,,0000,0000,0000,,and bring out the Chakra\Ninside my body to no end.
+Dialogue: 0,0:18:53.51,0:18:55.18,Default,,0000,0000,0000,,In other words, in this match,
+Dialogue: 0,0:18:55.45,0:19:00.25,Default,,0000,0000,0000,,I can hardly use even my regular Jutsu,\Nnot to mention the Sharingan!
+Dialogue: 0,0:19:03.55,0:19:10.99,Default,,0000,0000,0000,,However... Yoroi’s ability is\N the worst for you, Sasuke.
+Dialogue: 0,0:19:17.30,0:19:19.94,Default,,0000,0000,0000,,Now then… How will I go…?
+Dialogue: 0,0:19:31.92,0:19:34.58,Default,,0000,0000,0000,,Don’t act rashly…Sasuke.
+Dialogue: 0,0:19:35.65,0:19:38.16,Default,,0000,0000,0000,,Now then, please begin.
+Dialogue: 0,0:19:38.56,0:19:40.22,Default,,0000,0000,0000,,Let’s go!
+Dialogue: 0,0:19:40.86,0:19:41.73,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:58.81,0:19:59.71,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:20:11.35,0:20:12.56,Default,,0000,0000,0000,,He did it!
+Dialogue: 0,0:20:20.60,0:20:22.27,Default,,0000,0000,0000,,My strength…?!
+Dialogue: 0,0:20:34.21,0:20:35.05,Default,,0000,0000,0000,,W-What is this?
+Dialogue: 0,0:20:35.45,0:20:38.22,Default,,0000,0000,0000,,My body strength has suddenly…!
+Dialogue: 0,0:20:41.05,0:20:41.99,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:20:58.90,0:20:59.60,Default,,0000,0000,0000,,Sasuke…!
+Dialogue: 0,0:21:00.77,0:21:03.54,Default,,0000,0000,0000,,You…my Chakra…
+Dialogue: 0,0:21:05.71,0:21:07.54,Default,,0000,0000,0000,,You just noticed now…?
+Dialogue: 0,0:21:19.22,0:21:23.76,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:21:23.86,0:21:32.00,Default,,0000,0000,0000,,The clear, blue sky goes on and on
+Dialogue: 0,0:21:33.07,0:21:41.54,Default,,0000,0000,0000,,The ocean spans limitlessly
+Dialogue: 0,0:21:42.21,0:21:49.89,Default,,0000,0000,0000,,Please keep that smile on your face forever
+Dialogue: 0,0:21:51.35,0:21:56.83,Default,,0000,0000,0000,,Or else I’ll cry
+Dialogue: 0,0:21:56.86,0:22:00.70,Default,,0000,0000,0000,,You won't have to search around you
+Dialogue: 0,0:22:00.73,0:22:04.47,Default,,0000,0000,0000,,It’s all ok now.
+Dialogue: 0,0:22:04.77,0:22:13.31,Default,,0000,0000,0000,,Everyone is inside\Nthis hand
+Dialogue: 0,0:22:13.54,0:22:18.55,Default,,0000,0000,0000,,when you want to cry, and you want to run away
+Dialogue: 0,0:22:18.68,0:22:23.22,Default,,0000,0000,0000,,When you forget what happiness is
+Dialogue: 0,0:22:23.39,0:22:27.02,Default,,0000,0000,0000,,Just sing.
+Dialogue: 0,0:22:27.36,0:22:32.50,Default,,0000,0000,0000,,Light is born, and darkness was born
+Dialogue: 0,0:22:32.56,0:22:34.60,Default,,0000,0000,0000,,The two are one
+Dialogue: 0,0:22:34.66,0:22:41.07,Default,,0000,0000,0000,,Harmonia, feel the telepathy
+Dialogue: 0,0:22:41.54,0:22:46.58,Default,,0000,0000,0000,,Hey, can you hear it?
+Dialogue: 0,0:22:51.92,0:22:54.38,Default,,0000,0000,0000,,Dang it!\NThe pain won't go away!
+Dialogue: 0,0:22:54.65,0:22:57.85,Default,,0000,0000,0000,,This darned Curse Mark is\Nresponding all the time!
+Dialogue: 0,0:22:58.25,0:23:01.52,Default,,0000,0000,0000,,But I won't let this\Nexam get called off!
+Dialogue: 0,0:23:01.76,0:23:04.09,Default,,0000,0000,0000,,How will I do?\NHow should I fight?
+Dialogue: 0,0:23:04.59,0:23:06.20,Default,,0000,0000,0000,,Am I strong?
+Dialogue: 0,0:23:06.43,0:23:08.26,Default,,0000,0000,0000,,All I want is the answer to that.
+Dialogue: 0,0:23:08.57,0:23:11.84,Default,,0000,0000,0000,,I won't let this thing swallow me up\Nin a place like this!
+Dialogue: 0,0:23:12.60,0:23:16.44,Default,,0000,0000,0000,,Next episode: "Bushy-Brow's Jealousy --\NLions Barrage Unleashed!"

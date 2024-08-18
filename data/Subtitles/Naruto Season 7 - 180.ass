@@ -1,0 +1,317 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.14,0:00:03.55,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.59,0:00:06.35,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.39,0:00:12.47,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.85,0:00:28.76,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.80,0:00:34.30,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.35,0:00:36.93,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:36.97,0:00:40.55,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.59,0:00:44.97,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.59,0:00:51.59,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.01,0:00:56.59,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.60,0:01:02.18,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.22,0:01:07.59,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.59,0:01:10.64,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.68,0:01:19.59,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:55.55,0:02:00.93,Default,,0000,0000,0000,,♪ Natsuhiboshi, why are you so red?
+Dialogue: 0,0:02:01.43,0:02:06.59,Default,,0000,0000,0000,,Because I had a sad dream last night.
+Dialogue: 0,0:02:07.30,0:02:13.10,Default,,0000,0000,0000,,My eyes are red, from the tears I shed ♪
+Dialogue: 0,0:02:13.14,0:02:18.43,Default,,0000,0000,0000,,Swollen as I cried…
+Dialogue: 0,0:02:49.30,0:02:50.10,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:50.26,0:02:52.14,Default,,0000,0000,0000,,Neji! Naruto!
+Dialogue: 0,0:02:54.59,0:02:55.55,Default,,0000,0000,0000,,What happened to those guys?
+Dialogue: 0,0:02:55.93,0:02:57.68,Default,,0000,0000,0000,,It seems they were attacked\Nby the Shinobi in question…
+Dialogue: 0,0:02:58.01,0:02:59.39,Default,,0000,0000,0000,,So he appeared again?
+Dialogue: 0,0:02:59.59,0:03:02.51,Default,,0000,0000,0000,,He took…he took Sumaru away.
+Dialogue: 0,0:03:02.60,0:03:04.51,Default,,0000,0000,0000,,What? He took Sumaru?!
+Dialogue: 0,0:03:04.89,0:03:05.59,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:05.97,0:03:09.47,Default,,0000,0000,0000,,Anyway, helping the guys who are\Ndown comes first!
+Dialogue: 0,0:03:10.22,0:03:11.26,Default,,0000,0000,0000,,We’ll split up and carry them!
+Dialogue: 0,0:03:11.93,0:03:12.72,Default,,0000,0000,0000,,Got it…
+Dialogue: 0,0:03:13.18,0:03:13.93,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:03:21.93,0:03:22.60,Default,,0000,0000,0000,,Mizura…
+Dialogue: 0,0:03:28.14,0:03:29.10,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:30.68,0:03:33.05,Default,,0000,0000,0000,,They were attacked by\Nthe Shinobi in the mask!
+Dialogue: 0,0:03:33.39,0:03:35.97,Default,,0000,0000,0000,,There are no external injuries…\NThey’re just unconscious.
+Dialogue: 0,0:03:43.59,0:03:45.59,Default,,0000,0000,0000,,Umm… What about the others?
+Dialogue: 0,0:03:46.30,0:03:48.80,Default,,0000,0000,0000,,Lee and Tenten are carrying them\Nhere now.
+Dialogue: 0,0:03:49.51,0:03:50.35,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:03:51.55,0:03:52.55,Default,,0000,0000,0000,,Then Sumaru as well…?
+Dialogue: 0,0:03:52.60,0:03:54.05,Default,,0000,0000,0000,,Oh… Uh…
+Dialogue: 0,0:03:54.72,0:03:56.59,Default,,0000,0000,0000,,He was taken away by\Nthe masked Shinobi.
+Dialogue: 0,0:03:56.60,0:03:57.80,Default,,0000,0000,0000,,I’m sorry…
+Dialogue: 0,0:03:58.18,0:04:00.59,Default,,0000,0000,0000,,He escaped into the Valley of Death…
+Dialogue: 0,0:04:01.14,0:04:02.26,Default,,0000,0000,0000,,We couldn’t go after him.
+Dialogue: 0,0:04:04.05,0:04:05.01,Default,,0000,0000,0000,,The Valley of Death?!
+Dialogue: 0,0:04:13.18,0:04:15.89,Default,,0000,0000,0000,,Did he inhale the gas from\Nthe Valley of Death?
+Dialogue: 0,0:04:16.59,0:04:20.14,Default,,0000,0000,0000,,No… I put him into a state of\Nsuspended animation beforehand,
+Dialogue: 0,0:04:20.59,0:04:22.05,Default,,0000,0000,0000,,so there was no effect on his body.
+Dialogue: 0,0:04:22.30,0:04:25.85,Default,,0000,0000,0000,,I understand using Sumaru\Nto lure that person…
+Dialogue: 0,0:04:26.47,0:04:28.59,Default,,0000,0000,0000,,But to use a child from our same village…
+Dialogue: 0,0:04:28.80,0:04:31.55,Default,,0000,0000,0000,,Is it enough to make you feel ill at ease?
+Dialogue: 0,0:04:32.59,0:04:34.80,Default,,0000,0000,0000,,We’re comrades who have\Nalready dirtied our hands…
+Dialogue: 0,0:04:35.05,0:04:36.85,Default,,0000,0000,0000,,What’re you doing talking nice now?!
+Dialogue: 0,0:04:38.01,0:04:40.01,Default,,0000,0000,0000,,We’ll make those Hidden Leaf kids\Nbelieve that
+Dialogue: 0,0:04:40.35,0:04:44.14,Default,,0000,0000,0000,,Sumaru’s kidnapping was\Nthe work of that person…
+Dialogue: 0,0:04:44.68,0:04:49.55,Default,,0000,0000,0000,,After we’ve taken back the star,\Nwe can leave the clean-up to them…
+Dialogue: 0,0:04:53.59,0:04:57.59,Default,,0000,0000,0000,,Hidden Jutsu:\NThe Price of the Ninja Art: Kujaku
+Dialogue: 0,0:05:02.10,0:05:05.60,Default,,0000,0000,0000,,Mizura isn’t feeling well and\Nis taking a break from his training…
+Dialogue: 0,0:05:08.30,0:05:09.35,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:05:15.18,0:05:16.14,Default,,0000,0000,0000,,What’s this…?!
+Dialogue: 0,0:05:22.39,0:05:23.10,Default,,0000,0000,0000,,Mizura!
+Dialogue: 0,0:05:24.39,0:05:25.01,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:05:25.59,0:05:26.85,Default,,0000,0000,0000,,You still need to rest…
+Dialogue: 0,0:05:27.59,0:05:29.59,Default,,0000,0000,0000,,I must not rest at a time like this…
+Dialogue: 0,0:05:32.59,0:05:33.76,Default,,0000,0000,0000,,I understand how you feel…
+Dialogue: 0,0:05:34.43,0:05:36.10,Default,,0000,0000,0000,,But you shouldn’t push yourself too hard!
+Dialogue: 0,0:05:37.35,0:05:39.59,Default,,0000,0000,0000,,I’m fine… I can walk by myself…
+Dialogue: 0,0:05:53.01,0:05:55.18,Default,,0000,0000,0000,,Mizura! See, didn’t I tell you?!
+Dialogue: 0,0:05:55.93,0:05:57.39,Default,,0000,0000,0000,,I’m okay by myself!
+Dialogue: 0,0:06:16.22,0:06:18.60,Default,,0000,0000,0000,,Mother… Father!
+Dialogue: 0,0:06:25.14,0:06:28.43,Default,,0000,0000,0000,,Mother! Father!
+Dialogue: 0,0:06:30.97,0:06:33.43,Default,,0000,0000,0000,,Do not cry… Sumaru…
+Dialogue: 0,0:06:34.22,0:06:39.51,Default,,0000,0000,0000,,Your parents protected the star\Nand protected the village admirably.
+Dialogue: 0,0:06:40.01,0:06:43.35,Default,,0000,0000,0000,,Sumaru… Look up at the sky and watch.
+Dialogue: 0,0:06:43.85,0:06:48.43,Default,,0000,0000,0000,,There is a treasure you can see only\Nin the Village Hidden in the Stars.
+Dialogue: 0,0:06:49.18,0:06:51.59,Default,,0000,0000,0000,,If you were born as a Shinobi,
+Dialogue: 0,0:06:51.68,0:06:55.47,Default,,0000,0000,0000,,for the sake of protecting this village,\Nfor the sake of protecting the star,
+Dialogue: 0,0:06:55.59,0:06:56.60,Default,,0000,0000,0000,,become strong!
+Dialogue: 0,0:06:57.05,0:07:01.05,Default,,0000,0000,0000,,Like your father and your mother… Okay?
+Dialogue: 0,0:07:09.01,0:07:10.60,Default,,0000,0000,0000,,Lord…Hoshikage…
+Dialogue: 0,0:07:26.39,0:07:28.72,Default,,0000,0000,0000,,Yeah, this looks good!
+Dialogue: 0,0:07:34.35,0:07:34.97,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:07:35.10,0:07:35.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:36.10,0:07:37.97,Default,,0000,0000,0000,,At this rate, Mizura will die!
+Dialogue: 0,0:07:41.01,0:07:43.59,Default,,0000,0000,0000,,I felt a Chakra disturbance\Nand looked into it.
+Dialogue: 0,0:07:45.72,0:07:47.72,Default,,0000,0000,0000,,Despite him lying quietly,
+Dialogue: 0,0:07:48.14,0:07:50.59,Default,,0000,0000,0000,,his Chakra was being activated\Nto the utmost limit.
+Dialogue: 0,0:07:51.60,0:07:54.72,Default,,0000,0000,0000,,If that keeps up, he’ll be killed\Nby his own Chakra.
+Dialogue: 0,0:08:03.59,0:08:05.47,Default,,0000,0000,0000,,That could never be…!
+Dialogue: 0,0:08:06.72,0:08:07.89,Default,,0000,0000,0000,,There’s no mistake…
+Dialogue: 0,0:08:08.47,0:08:09.01,Default,,0000,0000,0000,,But…!
+Dialogue: 0,0:08:09.60,0:08:11.22,Default,,0000,0000,0000,,It’s because of the star training.
+Dialogue: 0,0:08:14.05,0:08:17.47,Default,,0000,0000,0000,,The star has the power\Nto activate Chakra.
+Dialogue: 0,0:08:18.01,0:08:23.30,Default,,0000,0000,0000,,However, many Shinobi are unable\Nto control the amplification,
+Dialogue: 0,0:08:23.35,0:08:26.72,Default,,0000,0000,0000,,their bodies break down\Nand it leads to death.
+Dialogue: 0,0:08:27.72,0:08:30.22,Default,,0000,0000,0000,,In the middle of this training,\NMizura also…
+Dialogue: 0,0:08:31.64,0:08:35.14,Default,,0000,0000,0000,,The Third Hoshikage terminated\Ntraining utilizing the star
+Dialogue: 0,0:08:35.18,0:08:37.68,Default,,0000,0000,0000,,due to the large amount of casualties.
+Dialogue: 0,0:08:38.22,0:08:39.59,Default,,0000,0000,0000,,Then why again?
+Dialogue: 0,0:08:40.05,0:08:42.59,Default,,0000,0000,0000,,Lord Akahoshi,\Nthe current leader of the village,
+Dialogue: 0,0:08:42.72,0:08:46.35,Default,,0000,0000,0000,,decided to resume the training\Nhalf a year ago.
+Dialogue: 0,0:08:46.51,0:08:47.68,Default,,0000,0000,0000,,Something so dangerous!
+Dialogue: 0,0:08:47.72,0:08:49.59,Default,,0000,0000,0000,,We’ll make him stop right now!
+Dialogue: 0,0:08:49.85,0:08:54.59,Default,,0000,0000,0000,,Those born and raised in this village\Ndo not fear the star training!
+Dialogue: 0,0:08:54.72,0:08:56.39,Default,,0000,0000,0000,,Why would you…?
+Dialogue: 0,0:08:57.01,0:09:00.39,Default,,0000,0000,0000,,If they can complete the training\Nby themselves
+Dialogue: 0,0:09:00.43,0:09:02.89,Default,,0000,0000,0000,,and make every effort possible for\Nthe village as a Hidden Star Shinobi…
+Dialogue: 0,0:09:03.59,0:09:07.26,Default,,0000,0000,0000,,Even if the body were to be destroyed,\Nthey would be satisfied.
+Dialogue: 0,0:09:15.01,0:09:16.10,Default,,0000,0000,0000,,That’s just…
+Dialogue: 0,0:09:34.35,0:09:34.97,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:09:38.59,0:09:41.72,Default,,0000,0000,0000,,Notice my Chakra… Natsuhi!
+Dialogue: 0,0:09:59.59,0:10:04.10,Default,,0000,0000,0000,,Hotarubi… Please protect the star,\Nprotect Sumaru…
+Dialogue: 0,0:10:25.59,0:10:27.18,Default,,0000,0000,0000,,Akahoshi’s Chakra…
+Dialogue: 0,0:10:55.51,0:11:00.43,Default,,0000,0000,0000,,Please use this until you get better…\NI’m sure you will!
+Dialogue: 0,0:11:01.89,0:11:03.72,Default,,0000,0000,0000,,Thanks, Naruto…
+Dialogue: 0,0:11:09.76,0:11:12.18,Default,,0000,0000,0000,,But I won’t…
+Dialogue: 0,0:11:24.68,0:11:26.64,Default,,0000,0000,0000,,It seems his condition has stabilized…
+Dialogue: 0,0:11:27.43,0:11:29.59,Default,,0000,0000,0000,,Everyone seems okay for the time being.
+Dialogue: 0,0:11:29.85,0:11:32.76,Default,,0000,0000,0000,,It still doesn’t sit right with me…
+Dialogue: 0,0:11:33.22,0:11:37.14,Default,,0000,0000,0000,,Mizura and Hokuto, they’re all thinking\Nearnestly of the village.
+Dialogue: 0,0:11:37.76,0:11:39.55,Default,,0000,0000,0000,,Especially that Sumaru guy.
+Dialogue: 0,0:11:39.60,0:11:41.47,Default,,0000,0000,0000,,He thinks of the village\Nmore than anyone.
+Dialogue: 0,0:11:45.43,0:11:46.55,Default,,0000,0000,0000,,What do you mean…?
+Dialogue: 0,0:11:48.64,0:11:50.93,Default,,0000,0000,0000,,If it were for the sake\Nof protecting the village
+Dialogue: 0,0:11:50.97,0:11:52.59,Default,,0000,0000,0000,,and the special comrades around me…
+Dialogue: 0,0:11:53.10,0:11:58.47,Default,,0000,0000,0000,,I would’ve gotten impatient,\Nwanting to get strong quickly as well.
+Dialogue: 0,0:11:59.64,0:12:01.68,Default,,0000,0000,0000,,Yeah… That’s right…
+Dialogue: 0,0:12:02.59,0:12:03.35,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:12:04.89,0:12:07.43,Default,,0000,0000,0000,,Well, this isn’t the time to\Nbe saying stuff like that.
+Dialogue: 0,0:12:07.59,0:12:10.59,Default,,0000,0000,0000,,The unforgivable one is that star thief!
+Dialogue: 0,0:12:10.76,0:12:15.72,Default,,0000,0000,0000,,But, there wouldn’t be any suffering\Nfrom training if they didn’t use the star.
+Dialogue: 0,0:12:16.59,0:12:17.76,Default,,0000,0000,0000,,I think so, too.
+Dialogue: 0,0:12:19.68,0:12:23.30,Default,,0000,0000,0000,,If they have the star, everyone would train\Nfor the sake of the village.
+Dialogue: 0,0:12:23.47,0:12:25.59,Default,,0000,0000,0000,,But if they do train,\Nthen their bodies get…
+Dialogue: 0,0:12:25.59,0:12:28.93,Default,,0000,0000,0000,,Geez, I don’t know what to do!
+Dialogue: 0,0:12:29.22,0:12:34.14,Default,,0000,0000,0000,,Our mission is to protect the star.\NOur first priority is to get back the star.
+Dialogue: 0,0:12:34.76,0:12:37.76,Default,,0000,0000,0000,,We shouldn’t be meddling in\Nthe matters that follow!
+Dialogue: 0,0:12:38.18,0:12:39.18,Default,,0000,0000,0000,,That’s right…
+Dialogue: 0,0:12:39.30,0:12:40.10,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:12:40.64,0:12:41.97,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:12:42.43,0:12:46.01,Default,,0000,0000,0000,,Lee and Tenten, you guys search\Naround the village chief once more!
+Dialogue: 0,0:12:46.30,0:12:47.43,Default,,0000,0000,0000,,What? Again?
+Dialogue: 0,0:12:48.10,0:12:51.59,Default,,0000,0000,0000,,Why did the flying Shinobi escape\Nto the dangerous Valley of Death?
+Dialogue: 0,0:12:52.30,0:12:53.64,Default,,0000,0000,0000,,Even though he got the star,
+Dialogue: 0,0:12:53.68,0:12:55.59,Default,,0000,0000,0000,,why did he go so far as\Nto take Sumaru away?
+Dialogue: 0,0:12:55.93,0:12:57.80,Default,,0000,0000,0000,,Come to think of it… Why is that?
+Dialogue: 0,0:12:58.97,0:13:01.39,Default,,0000,0000,0000,,The quality of Chakra of\Nthe one who took the star
+Dialogue: 0,0:13:01.43,0:13:03.59,Default,,0000,0000,0000,,and the one who took Sumaru away\Nwere completely different.
+Dialogue: 0,0:13:03.59,0:13:04.26,Default,,0000,0000,0000,,– Huh?! 					– What?!
+Dialogue: 0,0:13:04.35,0:13:05.22,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:13:05.97,0:13:08.72,Default,,0000,0000,0000,,That’s right…\NThere are two masked Shinobi!
+Dialogue: 0,0:13:09.85,0:13:11.26,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:13:11.59,0:13:15.43,Default,,0000,0000,0000,,In my opinion, there’s more to\Nthis mission than meets the eye.
+Dialogue: 0,0:13:30.05,0:13:34.80,Default,,0000,0000,0000,,As usual, impressive Ninja Art: Kujaku,\NLady Natsuhi.
+Dialogue: 0,0:13:46.01,0:13:48.22,Default,,0000,0000,0000,,Where is he…? Where’s Sumaru?!
+Dialogue: 0,0:13:48.76,0:13:52.05,Default,,0000,0000,0000,,Before that, I’ll have you return\Nthe star to me…
+Dialogue: 0,0:13:52.35,0:13:54.05,Default,,0000,0000,0000,,I’ll trade it for Sumaru!
+Dialogue: 0,0:13:54.35,0:13:55.59,Default,,0000,0000,0000,,The star first!
+Dialogue: 0,0:13:55.72,0:13:56.59,Default,,0000,0000,0000,,I refuse!
+Dialogue: 0,0:13:56.80,0:13:59.64,Default,,0000,0000,0000,,Then I’ll take it back by force\Nif I have to!
+Dialogue: 0,0:14:01.59,0:14:02.59,Default,,0000,0000,0000,,What’s so funny?!
+Dialogue: 0,0:14:03.05,0:14:06.64,Default,,0000,0000,0000,,Akahoshi…\NYou’re no competition to me.
+Dialogue: 0,0:14:07.10,0:14:09.22,Default,,0000,0000,0000,,Even after you left the village,
+Dialogue: 0,0:14:09.26,0:14:13.22,Default,,0000,0000,0000,,a few of us who were interested\Ncontinued training in secret!
+Dialogue: 0,0:14:14.47,0:14:16.14,Default,,0000,0000,0000,,You think you have completed\Nthe star training
+Dialogue: 0,0:14:16.18,0:14:17.43,Default,,0000,0000,0000,,by training on your own?
+Dialogue: 0,0:14:17.64,0:14:21.43,Default,,0000,0000,0000,,Verify with your own eyes whether\Nor not I’m no competition!
+Dialogue: 0,0:14:22.30,0:14:24.22,Default,,0000,0000,0000,,Ninja Art: Kujaku!
+Dialogue: 0,0:14:24.59,0:14:25.72,Default,,0000,0000,0000,,Beast!
+Dialogue: 0,0:14:30.59,0:14:33.30,Default,,0000,0000,0000,,Such a folly… I have no choice.
+Dialogue: 0,0:14:33.93,0:14:36.43,Default,,0000,0000,0000,,Ninja Art: Kujaku… Beast!
+Dialogue: 0,0:14:41.93,0:14:42.59,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:14:51.97,0:14:53.43,Default,,0000,0000,0000,,To think she’d be this tough…
+Dialogue: 0,0:14:54.35,0:14:56.39,Default,,0000,0000,0000,,Yotaka! Shisou!
+Dialogue: 0,0:14:58.60,0:14:59.26,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:14:59.43,0:15:00.05,Default,,0000,0000,0000,,– Yes, sir! 					– Yes, sir!
+Dialogue: 0,0:15:01.59,0:15:03.59,Default,,0000,0000,0000,,What’re you thinking, Akahoshi?!
+Dialogue: 0,0:15:04.85,0:15:08.55,Default,,0000,0000,0000,,I’ll have you play along with me\Na little while longer…Lady Natsuhi.
+Dialogue: 0,0:15:10.68,0:15:11.72,Default,,0000,0000,0000,,Huh? What is it?
+Dialogue: 0,0:15:12.59,0:15:14.51,Default,,0000,0000,0000,,A flow of massive Chakra…
+Dialogue: 0,0:15:14.59,0:15:15.51,Default,,0000,0000,0000,,Is it him?!
+Dialogue: 0,0:15:16.14,0:15:17.14,Default,,0000,0000,0000,,No mistake!
+Dialogue: 0,0:15:17.89,0:15:19.22,Default,,0000,0000,0000,,Oh?! Who is it?!
+Dialogue: 0,0:15:20.93,0:15:22.22,Default,,0000,0000,0000,,Our helper from the Leaf…
+Dialogue: 0,0:15:22.39,0:15:24.93,Default,,0000,0000,0000,,The Shinobi who seized the star\Nhas appeared!
+Dialogue: 0,0:15:25.10,0:15:27.39,Default,,0000,0000,0000,,Lord Akahoshi is now delaying\Nthat person…
+Dialogue: 0,0:15:27.55,0:15:29.22,Default,,0000,0000,0000,,Please fight with us!
+Dialogue: 0,0:15:29.51,0:15:31.55,Default,,0000,0000,0000,,All right! Let’s hurry!
+Dialogue: 0,0:15:35.93,0:15:39.22,Default,,0000,0000,0000,,The enemy’s power is mighty\Nand Lord Akahoshi alone cannot…
+Dialogue: 0,0:15:39.39,0:15:41.22,Default,,0000,0000,0000,,It’s all he can do to delay the enemy.
+Dialogue: 0,0:15:41.35,0:15:43.30,Default,,0000,0000,0000,,Right. Leave it to us!
+Dialogue: 0,0:15:48.59,0:15:49.68,Default,,0000,0000,0000,,It seems nobody’s here.
+Dialogue: 0,0:15:50.97,0:15:52.93,Default,,0000,0000,0000,,It seems they’ve gone out…
+Dialogue: 0,0:15:53.39,0:15:55.51,Default,,0000,0000,0000,,There’s a faint presence\Ninside the residence.
+Dialogue: 0,0:15:56.10,0:15:58.59,Default,,0000,0000,0000,,Now’s our chance. Let’s infiltrate!
+Dialogue: 0,0:15:58.76,0:15:59.47,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:15:59.59,0:16:01.89,Default,,0000,0000,0000,,Ninja Art: Phantom Jutsu!
+Dialogue: 0,0:16:02.10,0:16:03.51,Default,,0000,0000,0000,,What?! Lee?
+Dialogue: 0,0:16:03.60,0:16:05.59,Default,,0000,0000,0000,,Since when could you use Ninjutsu…?
+Dialogue: 0,0:16:06.89,0:16:09.89,Default,,0000,0000,0000,,Tenten! It’s okay. There’s nobody in here!
+Dialogue: 0,0:16:10.51,0:16:12.60,Default,,0000,0000,0000,,Hey, that’s not Ninjutsu!
+Dialogue: 0,0:16:21.14,0:16:22.05,Default,,0000,0000,0000,,Kind of…
+Dialogue: 0,0:16:22.26,0:16:23.47,Default,,0000,0000,0000,,Suspicious, eh?
+Dialogue: 0,0:16:35.01,0:16:35.64,Default,,0000,0000,0000,,Yikes!
+Dialogue: 0,0:16:36.35,0:16:38.01,Default,,0000,0000,0000,,Uh…uh, oh…
+Dialogue: 0,0:16:47.26,0:16:49.22,Default,,0000,0000,0000,,Well… I guess I can do it later.
+Dialogue: 0,0:16:58.59,0:17:00.76,Default,,0000,0000,0000,,It seems to be a medical room…
+Dialogue: 0,0:17:01.39,0:17:03.47,Default,,0000,0000,0000,,Somebody’s being laid down in a bed.
+Dialogue: 0,0:17:03.64,0:17:04.59,Default,,0000,0000,0000,,I wonder who it is?
+Dialogue: 0,0:17:07.59,0:17:08.55,Default,,0000,0000,0000,,That’s…!
+Dialogue: 0,0:17:10.80,0:17:11.60,Default,,0000,0000,0000,,Sumaru!
+Dialogue: 0,0:17:18.59,0:17:21.26,Default,,0000,0000,0000,,Why did you make Sumaru and\Nthe others do that star training?
+Dialogue: 0,0:17:22.59,0:17:25.18,Default,,0000,0000,0000,,You should’ve been told by\Nthe Third Hoshikage
+Dialogue: 0,0:17:25.30,0:17:26.80,Default,,0000,0000,0000,,about how dangerous that training is!
+Dialogue: 0,0:17:28.30,0:17:31.68,Default,,0000,0000,0000,,You yourself…are the answer to that!
+Dialogue: 0,0:17:32.10,0:17:32.76,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:33.39,0:17:35.51,Default,,0000,0000,0000,,That Chakra is wonderful!
+Dialogue: 0,0:17:36.14,0:17:37.97,Default,,0000,0000,0000,,It would make for great fighting strength
+Dialogue: 0,0:17:38.01,0:17:41.14,Default,,0000,0000,0000,,if we had one hundred, no,\Neven ten Shinobi like you!
+Dialogue: 0,0:17:41.59,0:17:44.10,Default,,0000,0000,0000,,The likes of the Five Great Hidden Villages\Nwould be no match for us
+Dialogue: 0,0:17:44.14,0:17:45.22,Default,,0000,0000,0000,,even if they all ganged up on us!
+Dialogue: 0,0:17:45.59,0:17:47.10,Default,,0000,0000,0000,,It’s still not too late.
+Dialogue: 0,0:17:47.55,0:17:51.22,Default,,0000,0000,0000,,Let’s make this village into\Nan invincible Hidden Star Village!
+Dialogue: 0,0:17:55.93,0:17:58.39,Default,,0000,0000,0000,,It hurts… It hurts…
+Dialogue: 0,0:17:58.55,0:18:00.35,Default,,0000,0000,0000,,My body feels like it is on fire!
+Dialogue: 0,0:18:00.35,0:18:01.60,Default,,0000,0000,0000,,Help me…
+Dialogue: 0,0:18:01.64,0:18:04.01,Default,,0000,0000,0000,,I must train… Star training…
+Dialogue: 0,0:18:05.10,0:18:08.43,Default,,0000,0000,0000,,– That’s enough… That’s enough.\N– For the sake of Hidden Star Village…
+Dialogue: 0,0:18:09.05,0:18:11.68,Default,,0000,0000,0000,,There’s no need to do\Nsuch painful training!
+Dialogue: 0,0:18:13.55,0:18:16.97,Default,,0000,0000,0000,,That sorrow must not be repeated…
+Dialogue: 0,0:18:17.22,0:18:19.68,Default,,0000,0000,0000,,If you’re saying you’re going to\Ncontinue this any further…!
+Dialogue: 0,0:18:27.43,0:18:30.72,Default,,0000,0000,0000,,W-Wait! If I die, Sumaru will also die!
+Dialogue: 0,0:18:33.64,0:18:35.59,Default,,0000,0000,0000,,You can’t do it! Natsuhi!
+Dialogue: 0,0:18:35.89,0:18:39.68,Default,,0000,0000,0000,,Sumaru, who is more important\Nthan your life, is in my hands!
+Dialogue: 0,0:18:51.18,0:18:53.39,Default,,0000,0000,0000,,There he is!\NHe’s moving in on Akahoshi!
+Dialogue: 0,0:18:53.60,0:18:56.18,Default,,0000,0000,0000,,All right!\NI won’t let him get away this time.
+Dialogue: 0,0:18:56.39,0:18:58.97,Default,,0000,0000,0000,,Wait! He’s not an opponent\Nyou can take on from the front.
+Dialogue: 0,0:18:59.89,0:19:00.97,Default,,0000,0000,0000,,I’ve got a plan.
+Dialogue: 0,0:19:01.30,0:19:01.89,Default,,0000,0000,0000,,A plan…?
+Dialogue: 0,0:19:02.14,0:19:05.68,Default,,0000,0000,0000,,I’ll stop his Chakra,\Nso I leave the rest to you!
+Dialogue: 0,0:19:06.51,0:19:09.60,Default,,0000,0000,0000,,Indeed, the situation will get worse\Nif we’re too slow.
+Dialogue: 0,0:19:10.64,0:19:12.72,Default,,0000,0000,0000,,Got it! Be careful, Naruto!
+Dialogue: 0,0:19:13.05,0:19:14.89,Default,,0000,0000,0000,,All right! Let’s go!
+Dialogue: 0,0:19:14.93,0:19:17.01,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu!
+Dialogue: 0,0:19:18.85,0:19:21.55,Default,,0000,0000,0000,,– Let’s go! 					– Let’s go!
+Dialogue: 0,0:19:22.80,0:19:23.97,Default,,0000,0000,0000,,You again?!
+Dialogue: 0,0:19:36.10,0:19:37.60,Default,,0000,0000,0000,,It’s more than I imagined.
+Dialogue: 0,0:19:37.64,0:19:39.60,Default,,0000,0000,0000,,It’s impossible from the front, after all.
+Dialogue: 0,0:19:43.18,0:19:43.76,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:44.89,0:19:46.43,Default,,0000,0000,0000,,Where’s the real body?!
+Dialogue: 0,0:19:47.80,0:19:48.59,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:19:50.47,0:19:51.30,Default,,0000,0000,0000,,I get it.
+Dialogue: 0,0:19:51.59,0:19:53.68,Default,,0000,0000,0000,,When controlling massive Chakra,
+Dialogue: 0,0:19:53.72,0:19:56.64,Default,,0000,0000,0000,,less attention is paid to the area around\Nthe main body in spite of everything…
+Dialogue: 0,0:19:57.35,0:19:58.55,Default,,0000,0000,0000,,Good thinking, Naruto!
+Dialogue: 0,0:20:01.05,0:20:02.72,Default,,0000,0000,0000,,He… He did it…
+Dialogue: 0,0:20:14.59,0:20:15.43,Default,,0000,0000,0000,,A woman…?!
+Dialogue: 0,0:20:19.89,0:20:22.60,Default,,0000,0000,0000,,The Hidden Leaf Kid has done it…
+Dialogue: 0,0:20:23.10,0:20:25.55,Default,,0000,0000,0000,,I can find the star if I take the time…
+Dialogue: 0,0:20:25.59,0:20:28.59,Default,,0000,0000,0000,,But now’s my only chance\Nto defeat Natsuhi!
+Dialogue: 0,0:20:28.80,0:20:33.64,Default,,0000,0000,0000,,As long as she interferes, I won’t be able\Nto carry out my ambitions!
+Dialogue: 0,0:20:34.22,0:20:36.59,Default,,0000,0000,0000,,Ninja Art: Kujaku!
+Dialogue: 0,0:20:36.60,0:20:37.89,Default,,0000,0000,0000,,Beast!
+Dialogue: 0,0:20:39.51,0:20:40.97,Default,,0000,0000,0000,,Naruto! Look out!
+Dialogue: 0,0:20:43.51,0:20:44.18,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:20:47.22,0:20:48.01,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:20:58.59,0:21:00.14,Default,,0000,0000,0000,,Something the matter, Mizura…?
+Dialogue: 0,0:21:01.35,0:21:02.80,Default,,0000,0000,0000,,No… It’s nothing…
+Dialogue: 0,0:21:04.89,0:21:05.64,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:21:08.39,0:21:09.47,Default,,0000,0000,0000,,Mother…
+Dialogue: 0,0:21:24.85,0:21:29.76,Default,,0000,0000,0000,,Yesterday’s Call Sign,\Nwas all from my cell phone.
+Dialogue: 0,0:21:31.59,0:21:36.59,Default,,0000,0000,0000,,In a strange park,\NI play the Fuzz Guitar without enthusiasm.
+Dialogue: 0,0:21:50.59,0:21:52.10,Default,,0000,0000,0000,,Yellow Moon.
+Dialogue: 0,0:21:52.14,0:21:58.93,Default,,0000,0000,0000,,Even now, counting to three,\NI open my eyes
+Dialogue: 0,0:21:58.97,0:22:04.14,Default,,0000,0000,0000,,Shadow Moon I am still dreaming.
+Dialogue: 0,0:22:04.22,0:22:11.10,Default,,0000,0000,0000,,Look at my eyes, look at my eyes,\Nas we face one another’s back
+Dialogue: 0,0:22:11.14,0:22:17.97,Default,,0000,0000,0000,,Look at my eyes, when can we meet?
+Dialogue: 0,0:22:18.01,0:22:24.68,Default,,0000,0000,0000,,EveryDay EveryNight\NWith every word I can think of
+Dialogue: 0,0:22:24.72,0:22:31.59,Default,,0000,0000,0000,,Right away, my messy feelings as is,
+Dialogue: 0,0:22:33.30,0:22:38.22,Default,,0000,0000,0000,,A magical chord change, in a restless city
+Dialogue: 0,0:22:40.10,0:22:45.26,Default,,0000,0000,0000,,A daily JAZZ Guitar played\Nin a soft minor key
+Dialogue: 0,0:22:50.64,0:22:54.14,Default,,0000,0000,0000,,Oh! Everybody, I just realized\Nsomething important!
+Dialogue: 0,0:22:54.18,0:22:55.35,Default,,0000,0000,0000,,What is it all of the sudden?
+Dialogue: 0,0:22:55.39,0:22:57.47,Default,,0000,0000,0000,,Sumaru was being captured\Nby Akahoshi!
+Dialogue: 0,0:22:57.51,0:23:00.97,Default,,0000,0000,0000,,Which means that the culprit who attacked\Neveryone was Akahoshi!
+Dialogue: 0,0:23:01.01,0:23:01.80,Default,,0000,0000,0000,,And?
+Dialogue: 0,0:23:01.85,0:23:06.14,Default,,0000,0000,0000,,Believe it or not!\NOne of the masked Shinobi is Akahoshi.
+Dialogue: 0,0:23:06.22,0:23:08.18,Default,,0000,0000,0000,,Neji said that long time ago, remember?
+Dialogue: 0,0:23:08.22,0:23:10.22,Default,,0000,0000,0000,,Excellent, Neji.\NYou are a sharp one!
+Dialogue: 0,0:23:10.26,0:23:11.64,Default,,0000,0000,0000,,Can we move on?
+Dialogue: 0,0:23:11.76,0:23:15.10,Default,,0000,0000,0000,,Next time:\N“Hoshikage: The Buried Truth”

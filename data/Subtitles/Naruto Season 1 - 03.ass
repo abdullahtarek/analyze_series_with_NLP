@@ -1,0 +1,333 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.02,0:00:10.82,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.40,0:00:19.93,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.93,0:00:23.20,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.80,0:00:27.61,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.71,0:00:31.28,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.88,0:00:36.01,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.61,0:00:39.82,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.29,0:00:45.66,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.16,0:00:50.03,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:50.13,0:00:51.83,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.86,0:00:54.33,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.83,0:00:57.70,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.74,0:00:59.67,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.70,0:01:02.11,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.94,0:01:10.68,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.62,0:01:14.19,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.69,0:01:17.82,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.53,0:01:23.83,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.46,0:01:27.90,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:02:17.25,0:02:19.82,Default,,0000,0000,0000,,Today's…a special day, so…
+Dialogue: 0,0:02:21.99,0:02:23.29,Default,,0000,0000,0000,,Time to eat!
+Dialogue: 0,0:02:32.76,0:02:34.83,Default,,0000,0000,0000,,Sasuke and Sakura: Friends or Foes?
+Dialogue: 0,0:03:09.57,0:03:10.80,Default,,0000,0000,0000,,Fight me, here!
+Dialogue: 0,0:03:14.81,0:03:17.04,Default,,0000,0000,0000,,What're you doing, Konohamaru?
+Dialogue: 0,0:03:17.81,0:03:19.58,Default,,0000,0000,0000,,Very good, Naruto…
+Dialogue: 0,0:03:20.24,0:03:22.51,Default,,0000,0000,0000,,You're the man I expected you to be.
+Dialogue: 0,0:03:25.45,0:03:27.12,Default,,0000,0000,0000,,I didn't do anything, you know…
+Dialogue: 0,0:03:28.29,0:03:29.99,Default,,0000,0000,0000,,Let's fight fair!
+Dialogue: 0,0:03:30.69,0:03:33.32,Default,,0000,0000,0000,,Sorry! I've got\Nan orientation meeting to go to.
+Dialogue: 0,0:03:34.29,0:03:35.53,Default,,0000,0000,0000,,An orientation meeting…?
+Dialogue: 0,0:03:35.83,0:03:38.50,Default,,0000,0000,0000,,Cause… As of today, I'm a Ninja!
+Dialogue: 0,0:03:40.50,0:03:40.93,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:03:57.42,0:04:00.62,Default,,0000,0000,0000,,Sakura!\NShouldn't you be heading out soon?
+Dialogue: 0,0:04:01.82,0:04:03.72,Default,,0000,0000,0000,,I was thinking of leaving now!
+Dialogue: 0,0:04:04.86,0:04:08.83,Default,,0000,0000,0000,,Cha! How long are you planning\Nto treat me like a child?!
+Dialogue: 0,0:04:13.06,0:04:16.33,Default,,0000,0000,0000,,That's right… I'm not a student\Nof the academy anymore…
+Dialogue: 0,0:04:17.57,0:04:20.54,Default,,0000,0000,0000,,I'm a Kunoichi of the Leaf Village,\NSakura Haruno!
+Dialogue: 0,0:04:21.04,0:04:22.04,Default,,0000,0000,0000,,I'm off!
+Dialogue: 0,0:04:29.98,0:04:31.38,Default,,0000,0000,0000,,Morning, Sakura.
+Dialogue: 0,0:04:32.18,0:04:33.58,Default,,0000,0000,0000,,Morning... Ino.
+Dialogue: 0,0:04:41.16,0:04:43.96,Default,,0000,0000,0000,,Who would've thought you'd\Nbe able to graduate.
+Dialogue: 0,0:04:44.46,0:04:46.40,Default,,0000,0000,0000,,Ancient history has nothing to do with it.
+Dialogue: 0,0:04:46.83,0:04:49.03,Default,,0000,0000,0000,,As of today,\Nwe're both full-fledged Ninjas...
+Dialogue: 0,0:04:50.50,0:04:51.80,Default,,0000,0000,0000,,I won't lose to you anymore, Ino!
+Dialogue: 0,0:05:13.52,0:05:16.23,Default,,0000,0000,0000,,What the--? Why are you here?
+Dialogue: 0,0:05:16.83,0:05:19.20,Default,,0000,0000,0000,,Today's meeting is for graduates only.
+Dialogue: 0,0:05:19.96,0:05:23.83,Default,,0000,0000,0000,,Hey, don't you see this headband?
+Dialogue: 0,0:05:24.77,0:05:27.34,Default,,0000,0000,0000,,As of today, I'm a Ninja, too!
+Dialogue: 0,0:05:29.21,0:05:33.48,Default,,0000,0000,0000,,How can I put it, it really suits me.
+Dialogue: 0,0:05:35.71,0:05:38.18,Default,,0000,0000,0000,,So Naruto…was able to graduate.
+Dialogue: 0,0:05:47.83,0:05:48.99,Default,,0000,0000,0000,,Goal!
+Dialogue: 0,0:05:51.83,0:05:53.73,Default,,0000,0000,0000,,I won again, Sakura!
+Dialogue: 0,0:05:53.83,0:05:54.93,Default,,0000,0000,0000,,What're you saying…?
+Dialogue: 0,0:05:55.13,0:05:58.80,Default,,0000,0000,0000,,The tip of my foot got in\None centimeter faster!
+Dialogue: 0,0:05:59.50,0:06:01.21,Default,,0000,0000,0000,,You must be blind.
+Dialogue: 0,0:06:02.71,0:06:03.81,Default,,0000,0000,0000,,It's Sakura.
+Dialogue: 0,0:06:08.58,0:06:09.01,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:06:10.82,0:06:13.12,Default,,0000,0000,0000,,Sakura's looking at me…
+Dialogue: 0,0:06:15.45,0:06:16.45,Default,,0000,0000,0000,,Hey, Sakura!
+Dialogue: 0,0:06:16.82,0:06:18.62,Default,,0000,0000,0000,,Mor... morning, Sakur--
+Dialogue: 0,0:06:18.66,0:06:19.52,Default,,0000,0000,0000,,Get outta' the way!
+Dialogue: 0,0:06:21.13,0:06:22.83,Default,,0000,0000,0000,,M-Morning, Sasuke…
+Dialogue: 0,0:06:26.83,0:06:28.57,Default,,0000,0000,0000,,Mind if I sit next to you?
+Dialogue: 0,0:06:29.43,0:06:32.24,Default,,0000,0000,0000,,Hey! I'm going to sit\Nnext to Sasuke!
+Dialogue: 0,0:06:32.34,0:06:33.77,Default,,0000,0000,0000,,First come, first served!
+Dialogue: 0,0:06:34.17,0:06:36.87,Default,,0000,0000,0000,,I got in the classroom sooner!
+Dialogue: 0,0:06:37.34,0:06:37.81,Default,,0000,0000,0000,,I did!
+Dialogue: 0,0:06:37.84,0:06:39.34,Default,,0000,0000,0000,,If that's the case,\Nthen I did!
+Dialogue: 0,0:06:39.38,0:06:40.28,Default,,0000,0000,0000,,I was first!
+Dialogue: 0,0:06:40.81,0:06:42.65,Default,,0000,0000,0000,,I'm sitting next to Sasuke!
+Dialogue: 0,0:06:45.08,0:06:46.08,Default,,0000,0000,0000,,How annoying...
+Dialogue: 0,0:06:47.85,0:06:52.62,Default,,0000,0000,0000,,Is that this year's top rookie,\NSasuke Uchiha?
+Dialogue: 0,0:06:53.36,0:06:54.09,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:55.69,0:06:57.96,Default,,0000,0000,0000,,The sole survivor of the Uchiha clan?
+Dialogue: 0,0:06:59.33,0:07:00.13,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:10.81,0:07:12.94,Default,,0000,0000,0000,,Naruto Uzumaki, eh…
+Dialogue: 0,0:07:25.66,0:07:28.83,Default,,0000,0000,0000,,Naruto! Don't glare at Sasuke!
+Dialogue: 0,0:07:30.49,0:07:31.70,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:07:32.73,0:07:35.20,Default,,0000,0000,0000,,Everyone's all Sasuke Sasuke.
+Dialogue: 0,0:07:35.70,0:07:37.40,Default,,0000,0000,0000,,What's so great about this guy?!
+Dialogue: 0,0:07:41.81,0:07:43.74,Default,,0000,0000,0000,,Just beat him up, Sasuke!
+Dialogue: 0,0:07:43.81,0:07:44.81,Default,,0000,0000,0000,,Yeah! Yeah!
+Dialogue: 0,0:07:45.34,0:07:47.24,Default,,0000,0000,0000,,What? Really?
+Dialogue: 0,0:07:47.48,0:07:48.71,Default,,0000,0000,0000,,Oh! Sorry!
+Dialogue: 0,0:07:49.01,0:07:49.65,Default,,0000,0000,0000,,Wha--?
+Dialogue: 0,0:07:50.41,0:07:50.98,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:07:59.49,0:08:05.56,Default,,0000,0000,0000,,Cha! I was planning on\Nseizing Sasuke's first kiss!
+Dialogue: 0,0:08:08.87,0:08:10.87,Default,,0000,0000,0000,,You jerk…\NNaruto! I'll kill you!
+Dialogue: 0,0:08:11.20,0:08:13.00,Default,,0000,0000,0000,,– My mouth is rotting.\N– Huh? Was that my fault?
+Dialogue: 0,0:08:14.07,0:08:15.87,Default,,0000,0000,0000,,What? I feel rage…
+Dialogue: 0,0:08:17.98,0:08:18.98,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:08:19.81,0:08:21.21,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:08:21.61,0:08:23.75,Default,,0000,0000,0000,,An accident…\Nlt was an accident
+Dialogue: 0,0:08:25.78,0:08:26.62,Default,,0000,0000,0000,,You are annoying!
+Dialogue: 0,0:08:27.18,0:08:27.82,Default,,0000,0000,0000,,Yikes!
+Dialogue: 0,0:08:29.45,0:08:33.82,Default,,0000,0000,0000,,Naruto…He's at\Nthe center of trouble as usual.
+Dialogue: 0,0:08:35.16,0:08:39.83,Default,,0000,0000,0000,,As of today, you all have become\Nfull-fledged Ninjas…
+Dialogue: 0,0:08:40.43,0:08:42.40,Default,,0000,0000,0000,,However, you're still Genin.
+Dialogue: 0,0:08:43.43,0:08:45.37,Default,,0000,0000,0000,,The tough part's still to come!
+Dialogue: 0,0:08:46.40,0:08:49.17,Default,,0000,0000,0000,,From here on, you'll be in a squad of three
+Dialogue: 0,0:08:49.34,0:08:52.64,Default,,0000,0000,0000,,and carry out your missions\Nunder your Jonin teachers.
+Dialogue: 0,0:08:55.31,0:08:56.51,Default,,0000,0000,0000,,A squad of three?!
+Dialogue: 0,0:08:57.11,0:09:00.18,Default,,0000,0000,0000,,I wonder who's going to be\Ngrouped with Sasuke.
+Dialogue: 0,0:09:01.52,0:09:02.32,Default,,0000,0000,0000,,I don't know…
+Dialogue: 0,0:09:04.09,0:09:08.16,Default,,0000,0000,0000,,Cha! I'll be the one grouped\Nwith Sasuke, naturally!
+Dialogue: 0,0:09:10.33,0:09:14.83,Default,,0000,0000,0000,,Squads of three, eh.\Nlt'll just slow me down…
+Dialogue: 0,0:09:15.67,0:09:17.20,Default,,0000,0000,0000,,First will be Sakura.
+Dialogue: 0,0:09:17.37,0:09:18.54,Default,,0000,0000,0000,,And the other person…
+Dialogue: 0,0:09:19.90,0:09:21.81,Default,,0000,0000,0000,,can be anyone other than Sasuke!
+Dialogue: 0,0:09:22.57,0:09:24.34,Default,,0000,0000,0000,,The groups have been determined
+Dialogue: 0,0:09:24.38,0:09:27.08,Default,,0000,0000,0000,,so that the strength of\Nthe groups will be balanced.
+Dialogue: 0,0:09:27.81,0:09:29.38,Default,,0000,0000,0000,,Now for the assignments!
+Dialogue: 0,0:09:33.08,0:09:34.35,Default,,0000,0000,0000,,Now then, next is Group Seven…
+Dialogue: 0,0:09:35.02,0:09:36.29,Default,,0000,0000,0000,,Naruto Uzumaki!
+Dialogue: 0,0:09:37.72,0:09:38.82,Default,,0000,0000,0000,,Sakura Haruno.
+Dialogue: 0,0:09:40.66,0:09:41.83,Default,,0000,0000,0000,,Hooray!
+Dialogue: 0,0:09:42.09,0:09:43.83,Default,,0000,0000,0000,,I'm with…Naruto…?
+Dialogue: 0,0:09:44.46,0:09:45.90,Default,,0000,0000,0000,,And…Sasuke Uchiha!
+Dialogue: 0,0:09:46.50,0:09:47.70,Default,,0000,0000,0000,,Hooray!
+Dialogue: 0,0:09:48.17,0:09:49.83,Default,,0000,0000,0000,,I'm with…Sasuke…?
+Dialogue: 0,0:09:53.80,0:09:56.21,Default,,0000,0000,0000,,So I'll be in a different group\Nfrom Naruto, huh…
+Dialogue: 0,0:09:57.47,0:09:59.81,Default,,0000,0000,0000,,Next is Group Eight. Hinata Hyuga!
+Dialogue: 0,0:09:59.81,0:10:01.81,Default,,0000,0000,0000,,Y-Yes…
+Dialogue: 0,0:10:02.41,0:10:03.48,Default,,0000,0000,0000,,Kiba Inuzuka!
+Dialogue: 0,0:10:04.82,0:10:05.92,Default,,0000,0000,0000,,Shino Aburame!
+Dialogue: 0,0:10:10.82,0:10:12.22,Default,,0000,0000,0000,,Why is this happening…?
+Dialogue: 0,0:10:12.82,0:10:13.62,Default,,0000,0000,0000,,Group Nine.
+Dialogue: 0,0:10:13.69,0:10:16.09,Default,,0000,0000,0000,,Cha! Love will be victorious!
+Dialogue: 0,0:10:17.46,0:10:18.13,Default,,0000,0000,0000,,Man…
+Dialogue: 0,0:10:18.83,0:10:22.50,Default,,0000,0000,0000,,Why do women think that\Nkind of guy's so great…?
+Dialogue: 0,0:10:22.90,0:10:25.87,Default,,0000,0000,0000,,Don't you understand, Shikamaru?
+Dialogue: 0,0:10:26.80,0:10:28.77,Default,,0000,0000,0000,,Well, I'm not a woman…
+Dialogue: 0,0:10:31.24,0:10:33.08,Default,,0000,0000,0000,,That's why you are\Nnot popular among girls.
+Dialogue: 0,0:10:33.64,0:10:36.71,Default,,0000,0000,0000,,I wouldn't want to be grouped with you.
+Dialogue: 0,0:10:37.82,0:10:42.92,Default,,0000,0000,0000,,Group Ten. Ino Yamanaka.\N Shikamaru Nara.
+Dialogue: 0,0:10:43.69,0:10:45.62,Default,,0000,0000,0000,,It appears we've been\Ngrouped together.
+Dialogue: 0,0:10:47.83,0:10:50.39,Default,,0000,0000,0000,,And Choji Akimichi.
+Dialogue: 0,0:10:54.16,0:10:55.93,Default,,0000,0000,0000,,And Fatty on top of that...
+Dialogue: 0,0:10:58.80,0:10:59.80,Default,,0000,0000,0000,,That's all for the group division.
+Dialogue: 0,0:10:59.90,0:11:01.34,Default,,0000,0000,0000,,Iruka Sensei!
+Dialogue: 0,0:11:01.87,0:11:03.44,Default,,0000,0000,0000,,Why does an exceptional student\Nlike me have to be
+Dialogue: 0,0:11:03.47,0:11:05.58,Default,,0000,0000,0000,,in the same group with this guy?!
+Dialogue: 0,0:11:07.38,0:11:10.28,Default,,0000,0000,0000,,Sasuke has the best grades\Nof the graduates.
+Dialogue: 0,0:11:11.28,0:11:13.08,Default,,0000,0000,0000,,Naruto, you're at the bottom!
+Dialogue: 0,0:11:14.08,0:11:18.12,Default,,0000,0000,0000,,Of course, this is how it is when trying\Nto balance the strength within groups.
+Dialogue: 0,0:11:19.02,0:11:22.33,Default,,0000,0000,0000,,Just don't get in my way, loser!
+Dialogue: 0,0:11:23.83,0:11:25.16,Default,,0000,0000,0000,,Hey, what did you say?!
+Dialogue: 0,0:11:25.50,0:11:26.40,Default,,0000,0000,0000,,You want to fight, loser?
+Dialogue: 0,0:11:27.53,0:11:28.83,Default,,0000,0000,0000,,Knock it off, Naruto!!
+Dialogue: 0,0:11:31.27,0:11:33.77,Default,,0000,0000,0000,,In the afternoon,\NI'll introduce you to your Jonin teachers.
+Dialogue: 0,0:11:33.97,0:11:35.11,Default,,0000,0000,0000,,You're dismissed until then!
+Dialogue: 0,0:11:36.81,0:11:38.08,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:11:38.81,0:11:40.91,Default,,0000,0000,0000,,Where'd you go, Sasuke?
+Dialogue: 0,0:11:42.01,0:11:46.82,Default,,0000,0000,0000,,I thought since we're in the same group\Nand all, we'd eat together.
+Dialogue: 0,0:11:46.95,0:11:48.59,Default,,0000,0000,0000,,Sakuraaaa!
+Dialogue: 0,0:11:48.82,0:11:52.62,Default,,0000,0000,0000,,Since we're in the same group and all,\Nlet's eat together!
+Dialogue: 0,0:11:53.12,0:11:56.46,Default,,0000,0000,0000,,Why should I have to eat with you?!
+Dialogue: 0,0:11:56.73,0:11:59.63,Default,,0000,0000,0000,,Well... we're in the same group, so…
+Dialogue: 0,0:11:59.83,0:12:01.83,Default,,0000,0000,0000,,You're…annoying.
+Dialogue: 0,0:12:04.77,0:12:06.80,Default,,0000,0000,0000,,Sasuke! Where are you?
+Dialogue: 0,0:12:14.88,0:12:16.65,Default,,0000,0000,0000,,Darn! This is no fun.
+Dialogue: 0,0:12:17.28,0:12:20.18,Default,,0000,0000,0000,,I 'm finally in the same group as Sakura…\Nand then it's like this…
+Dialogue: 0,0:12:20.98,0:12:23.19,Default,,0000,0000,0000,,I wonder if something good will happen…
+Dialogue: 0,0:12:32.83,0:12:33.53,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:12:43.81,0:12:44.81,Default,,0000,0000,0000,,Listen up!
+Dialogue: 0,0:12:44.81,0:12:48.65,Default,,0000,0000,0000,,As long as we're in the same group,\Nyou will follow my instructions.
+Dialogue: 0,0:12:49.31,0:12:50.41,Default,,0000,0000,0000,,Yeah-yeah…
+Dialogue: 0,0:12:51.68,0:12:54.92,Default,,0000,0000,0000,,She becomes a real pain in the neck\Nwhen people try to argue with to her, so…
+Dialogue: 0,0:12:55.42,0:12:57.79,Default,,0000,0000,0000,,Let's all go out for\Nsome BBQ sometime.
+Dialogue: 0,0:12:57.82,0:12:58.49,Default,,0000,0000,0000,,Oh, man…
+Dialogue: 0,0:12:59.82,0:13:00.36,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:13:04.83,0:13:05.83,Default,,0000,0000,0000,,Naruto…?
+Dialogue: 0,0:13:05.86,0:13:06.63,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:09.53,0:13:10.23,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:13:12.04,0:13:13.34,Default,,0000,0000,0000,,Jerk, it's Naruto, isn't it!
+Dialogue: 0,0:13:13.37,0:13:14.94,Default,,0000,0000,0000,,Darn! Just be quiet.
+Dialogue: 0,0:13:15.41,0:13:19.44,Default,,0000,0000,0000,,Naruto! I won't forgive you\Nif you hurt Sasuke!
+Dialogue: 0,0:13:27.45,0:13:28.59,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:13:32.66,0:13:34.16,Default,,0000,0000,0000,,Heh! Idiot…
+Dialogue: 0,0:13:40.83,0:13:43.17,Default,,0000,0000,0000,,So Naruto got beaten by\Nthe one he challenged…
+Dialogue: 0,0:13:44.54,0:13:48.57,Default,,0000,0000,0000,,Of course! Naruto's no match\N for Sasuke!
+Dialogue: 0,0:13:52.81,0:13:54.11,Default,,0000,0000,0000,,No need for me to feel rushed…
+Dialogue: 0,0:13:54.81,0:13:56.11,Default,,0000,0000,0000,,From here on out,
+Dialogue: 0,0:13:56.15,0:13:57.82,Default,,0000,0000,0000,,I'll be in the same group as\NSasuke for the long haul…
+Dialogue: 0,0:13:59.95,0:14:00.52,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:14:05.46,0:14:07.09,Default,,0000,0000,0000,,Even if I were to use\Nmy feminine charms…
+Dialogue: 0,0:14:07.32,0:14:09.16,Default,,0000,0000,0000,,my proportions are below average…
+Dialogue: 0,0:14:09.96,0:14:12.16,Default,,0000,0000,0000,,All that's above average is\N the width of my forehead…
+Dialogue: 0,0:14:13.16,0:14:14.23,Default,,0000,0000,0000,,What should I do…?
+Dialogue: 0,0:14:18.60,0:14:19.80,Default,,0000,0000,0000,,Huh? No way!
+Dialogue: 0,0:14:20.74,0:14:21.67,Default,,0000,0000,0000,,Sasuke…is looking...
+Dialogue: 0,0:14:21.71,0:14:22.77,Default,,0000,0000,0000,,this way!
+Dialogue: 0,0:14:25.71,0:14:27.71,Default,,0000,0000,0000,,And with such a passionate look!
+Dialogue: 0,0:14:29.21,0:14:32.82,Default,,0000,0000,0000,,You…have a charmingly wide forehead.
+Dialogue: 0,0:14:33.52,0:14:35.82,Default,,0000,0000,0000,,It makes me want to kiss it.
+Dialogue: 0,0:14:36.92,0:14:38.82,Default,,0000,0000,0000,,That's what its surface area is for.
+Dialogue: 0,0:14:40.82,0:14:41.83,Default,,0000,0000,0000,,Yeah, right…
+Dialogue: 0,0:14:42.99,0:14:45.46,Default,,0000,0000,0000,,I'm not just some kid\Nwho believes in fairy tales…
+Dialogue: 0,0:14:45.96,0:14:47.33,Default,,0000,0000,0000,,There's no way.
+Dialogue: 0,0:14:48.00,0:14:50.87,Default,,0000,0000,0000,,You…have a charmingly wide forehead.
+Dialogue: 0,0:14:51.57,0:14:51.90,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:54.24,0:14:55.91,Default,,0000,0000,0000,,It makes me want to kiss it.
+Dialogue: 0,0:15:03.61,0:15:06.62,Default,,0000,0000,0000,,Cha! This fairy tale is for real!!
+Dialogue: 0,0:15:07.62,0:15:10.82,Default,,0000,0000,0000,,Or that's what Naruto would say.
+Dialogue: 0,0:15:13.12,0:15:14.83,Default,,0000,0000,0000,,I've got something to ask you.
+Dialogue: 0,0:15:15.69,0:15:16.09,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:17.46,0:15:19.86,Default,,0000,0000,0000,,What do you think…of Naruto?
+Dialogue: 0,0:15:22.50,0:15:28.84,Default,,0000,0000,0000,,He's quite at home interfering and\Nenjoys it when I make mistakes.
+Dialogue: 0,0:15:29.91,0:15:33.74,Default,,0000,0000,0000,,Naruto doesn't understand\None thing about me…
+Dialogue: 0,0:15:35.81,0:15:36.81,Default,,0000,0000,0000,,He just annoys me!
+Dialogue: 0,0:15:37.92,0:15:42.59,Default,,0000,0000,0000,,All I want…is for you to\Naccept me, Sasuke.…
+Dialogue: 0,0:15:43.82,0:15:45.82,Default,,0000,0000,0000,,For me to accept you…?
+Dialogue: 0,0:15:47.82,0:15:51.23,Default,,0000,0000,0000,,I'll do anything for the sake of that.
+Dialogue: 0,0:16:02.57,0:16:03.71,Default,,0000,0000,0000,,I was careless!
+Dialogue: 0,0:16:11.98,0:16:12.62,Default,,0000,0000,0000,,W-Wha--?!
+Dialogue: 0,0:16:15.42,0:16:16.49,Default,,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:16:19.82,0:16:22.59,Default,,0000,0000,0000,,I didn't think someone who couldn't\Nperform the Clone Jutsu properly
+Dialogue: 0,0:16:22.83,0:16:26.36,Default,,0000,0000,0000,,could do the Shadow Clone Jutsu.
+Dialogue: 0,0:16:30.73,0:16:32.80,Default,,0000,0000,0000,,I'm…desperate, so…
+Dialogue: 0,0:16:34.67,0:16:36.67,Default,,0000,0000,0000,,I finally know why I…
+Dialogue: 0,0:16:38.08,0:16:41.41,Default,,0000,0000,0000,,I like Sakura so much.
+Dialogue: 0,0:16:45.78,0:16:47.58,Default,,0000,0000,0000,,Diarrhea at a time like this?!
+Dialogue: 0,0:16:49.82,0:16:50.79,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:16:51.82,0:16:53.52,Default,,0000,0000,0000,,I-I'll be right back…\N225	01:41:53:26	01:41:56:04\NSasuke's so shy!
+Dialogue: 0,0:16:58.46,0:17:00.56,Default,,0000,0000,0000,,I guess he needs to\Nprepare himself mentally…
+Dialogue: 0,0:17:07.10,0:17:08.41,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:17:08.97,0:17:12.64,Default,,0000,0000,0000,,My stomach hurt so much that\Nthe Jutsu was about to wear off!
+Dialogue: 0,0:17:13.08,0:17:16.61,Default,,0000,0000,0000,,Why does my stomach have\Nto hurt at such a good time?!
+Dialogue: 0,0:17:18.88,0:17:20.02,Default,,0000,0000,0000,,I'm annoying... huh…
+Dialogue: 0,0:17:21.12,0:17:22.82,Default,,0000,0000,0000,,She said so again…
+Dialogue: 0,0:17:23.49,0:17:26.72,Default,,0000,0000,0000,,And I transformed into Sasuke and\Nhad got a little closer to Sakura…
+Dialogue: 0,0:17:28.73,0:17:31.83,Default,,0000,0000,0000,,In that case…\NI'll play an obnoxious Sasuke …
+Dialogue: 0,0:17:32.26,0:17:35.03,Default,,0000,0000,0000,,and make her hate him!
+Dialogue: 0,0:17:40.90,0:17:44.88,Default,,0000,0000,0000,,Oh Sasuke,\Nyou're such a shy bad boy!
+Dialogue: 0,0:17:45.81,0:17:49.91,Default,,0000,0000,0000,,Are you prepared? I'm raring to go!
+Dialogue: 0,0:17:51.08,0:17:52.92,Default,,0000,0000,0000,,H-Hey, Sasuke!
+Dialogue: 0,0:17:55.75,0:17:56.42,Default,,0000,0000,0000,,Where's Naruto?
+Dialogue: 0,0:17:56.82,0:17:59.42,Default,,0000,0000,0000,,Oh, there you go changing\Nthe subject again…
+Dialogue: 0,0:17:59.79,0:18:02.03,Default,,0000,0000,0000,,Just leave Naruto alone!
+Dialogue: 0,0:18:02.73,0:18:05.36,Default,,0000,0000,0000,,All he does is pick fights with you!
+Dialogue: 0,0:18:05.66,0:18:08.83,Default,,0000,0000,0000,,It's because he wasn't raised right!
+Dialogue: 0,0:18:09.63,0:18:10.23,Default,,0000,0000,0000,,You know!
+Dialogue: 0,0:18:10.27,0:18:12.20,Default,,0000,0000,0000,,He doesn't have any parents, right?
+Dialogue: 0,0:18:13.54,0:18:15.81,Default,,0000,0000,0000,,He always selfishly does\N whatever he wants!
+Dialogue: 0,0:18:16.17,0:18:19.78,Default,,0000,0000,0000,,My parents would get mad at me\Nif I did something like that!
+Dialogue: 0,0:18:20.74,0:18:24.48,Default,,0000,0000,0000,,There are no parents to nag you\Nif it's just you alone!
+Dialogue: 0,0:18:24.82,0:18:27.48,Default,,0000,0000,0000,,So his selfishness comes\Nout at various times!
+Dialogue: 0,0:18:28.82,0:18:29.75,Default,,0000,0000,0000,,The loneliness.
+Dialogue: 0,0:18:29.92,0:18:30.65,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:31.96,0:18:34.86,Default,,0000,0000,0000,,It's something worse than getting\Nscolded by parents and...
+Dialogue: 0,0:18:36.66,0:18:37.96,Default,,0000,0000,0000,,W-What's gotten into you…?
+Dialogue: 0,0:18:39.83,0:18:40.73,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:18:40.83,0:18:41.83,Default,,0000,0000,0000,,annoy me.
+Dialogue: 0,0:18:53.04,0:18:55.88,Default,,0000,0000,0000,,Darn! It finally stopped!
+Dialogue: 0,0:18:57.25,0:18:59.58,Default,,0000,0000,0000,,I wonder if Sakura's still waiting.
+Dialogue: 0,0:19:05.82,0:19:07.96,Default,,0000,0000,0000,,W-What are you doing here?!
+Dialogue: 0,0:19:08.29,0:19:11.90,Default,,0000,0000,0000,,I used the Escape Jutsu,\Nthe very basic of techniques.
+Dialogue: 0,0:19:12.53,0:19:12.83,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:19:13.33,0:19:14.56,Default,,0000,0000,0000,,What were you planning to do…
+Dialogue: 0,0:19:14.63,0:19:15.83,Default,,0000,0000,0000,,by transforming into me?!
+Dialogue: 0,0:19:15.93,0:19:18.80,Default,,0000,0000,0000,,I thought it'd be fun, so I gave it a try!
+Dialogue: 0,0:19:23.97,0:19:25.58,Default,,0000,0000,0000,,The Shadow Clone Jutsu again?!
+Dialogue: 0,0:19:25.81,0:19:27.71,Default,,0000,0000,0000,,I'll show you that I'm really amazing!
+Dialogue: 0,0:19:27.81,0:19:29.21,Default,,0000,0000,0000,,I'll defeat you…
+Dialogue: 0,0:19:29.25,0:19:31.18,Default,,0000,0000,0000,,and make you accept me!
+Dialogue: 0,0:19:31.82,0:19:33.52,Default,,0000,0000,0000,,Prepare yourself, Sasuke!
+Dialogue: 0,0:19:38.92,0:19:40.46,Default,,0000,0000,0000,,Just like that, my stomach again…
+Dialogue: 0,0:19:41.83,0:19:43.33,Default,,0000,0000,0000,,B-Bathroom!
+Dialogue: 0,0:19:45.13,0:19:45.96,Default,,0000,0000,0000,,I'm first, I say!
+Dialogue: 0,0:19:46.36,0:19:47.06,Default,,0000,0000,0000,,I'm first, I say.
+Dialogue: 0,0:19:47.13,0:19:48.83,Default,,0000,0000,0000,,I'm about to go in my pants, I say!
+Dialogue: 0,0:19:51.84,0:19:52.94,Default,,0000,0000,0000,,How stupid!
+Dialogue: 0,0:19:56.27,0:19:57.67,Default,,0000,0000,0000,,"You annoy me" …huh?
+Dialogue: 0,0:19:58.81,0:20:03.41,Default,,0000,0000,0000,,I see. So this is how\NNaruto must've felt…
+Dialogue: 0,0:20:04.75,0:20:09.09,Default,,0000,0000,0000,,I wonder if I can…\Nbe a bit more nice next time…
+Dialogue: 0,0:20:10.29,0:20:11.59,Default,,0000,0000,0000,,Darn.
+Dialogue: 0,0:20:11.96,0:20:14.02,Default,,0000,0000,0000,,Did I eat something bad?
+Dialogue: 0,0:20:14.82,0:20:15.73,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:20:17.73,0:20:18.83,Default,,0000,0000,0000,,Smile…Smile…
+Dialogue: 0,0:20:20.90,0:20:23.00,Default,,0000,0000,0000,,Let's go back to the classroom, Naruto.
+Dialogue: 0,0:20:23.83,0:20:24.80,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:20:27.50,0:20:29.41,Default,,0000,0000,0000,,Payback for earlier, huh?
+Dialogue: 0,0:20:29.44,0:20:31.74,Default,,0000,0000,0000,,Sasuke's turned himself into Sakura…
+Dialogue: 0,0:20:32.61,0:20:34.78,Default,,0000,0000,0000,,You're trying to trick me, right, Sasuke?!
+Dialogue: 0,0:20:34.81,0:20:35.91,Default,,0000,0000,0000,,I don't think so!
+Dialogue: 0,0:20:39.82,0:20:42.82,Default,,0000,0000,0000,,Ow-ow-ow…\NWhat the heck is going on?!
+Dialogue: 0,0:20:44.45,0:20:44.96,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:20:48.79,0:20:51.33,Default,,0000,0000,0000,,You idiot, Naruto!
+Dialogue: 0,0:20:56.83,0:20:58.74,Default,,0000,0000,0000,,So, this is Naruto's room…
+Dialogue: 0,0:20:59.20,0:21:03.54,Default,,0000,0000,0000,,And Sasuke of the Uchiha clan is\N also in the group you'll be in charge of.
+Dialogue: 0,0:21:03.81,0:21:04.94,Default,,0000,0000,0000,,I wish you good luck!
+Dialogue: 0,0:21:09.81,0:21:11.08,Default,,0000,0000,0000,,The expiration date…
+Dialogue: 0,0:21:11.82,0:21:13.82,Default,,0000,0000,0000,,of this milk has passed quite awhile ago…
+Dialogue: 0,0:21:16.45,0:21:19.16,Default,,0000,0000,0000,,He'll get sick if he drink this.
+Dialogue: 0,0:21:20.29,0:21:22.79,Default,,0000,0000,0000,,It seems like that things are\Ngoing to get disastrous.
+Dialogue: 0,0:21:30.67,0:21:33.50,Default,,0000,0000,0000,,What the heck is going on?!
+Dialogue: 0,0:23:10.73,0:23:11.80,Default,,0000,0000,0000,,What is going on?!
+Dialogue: 0,0:23:11.94,0:23:14.54,Default,,0000,0000,0000,,This isn't the same Kakashi Sensei\Nfrom yesterday.
+Dialogue: 0,0:23:14.80,0:23:16.74,Default,,0000,0000,0000,,Is this really the same Kakashi Sensei
+Dialogue: 0,0:23:16.77,0:23:19.61,Default,,0000,0000,0000,,who got caught in my trap\Nand breezily came late?
+Dialogue: 0,0:23:19.98,0:23:21.58,Default,,0000,0000,0000,,Darn it! Darn it!
+Dialogue: 0,0:23:21.81,0:23:23.21,Default,,0000,0000,0000,,No way am I giving up!
+Dialogue: 0,0:23:23.65,0:23:27.82,Default,,0000,0000,0000,,I'll defeat him and clear\Nthis super difficult testl!
+Dialogue: 0,0:23:27.82,0:23:30.49,Default,,0000,0000,0000,,No way am I going back now!
+Dialogue: 0,0:23:30.85,0:23:33.42,Default,,0000,0000,0000,,Next episode:\N "Pass or Fail: Survival Test"
+Dialogue: 0,0:23:33.69,0:23:35.73,Default,,0000,0000,0000,,Don't miss my outstanding performance!

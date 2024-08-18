@@ -1,0 +1,291 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.21,0:00:13.93,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.41,0:00:33.61,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.64,0:00:39.55,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:40.05,0:00:45.56,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.59,0:00:51.30,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.56,0:00:57.90,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:57.94,0:01:04.94,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:05.01,0:01:17.56,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.66,0:01:23.96,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:24.00,0:01:29.23,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:02:55.59,0:02:57.09,Default,,0000,0000,0000,,–Monju. 					–Yes, sir.
+Dialogue: 0,0:03:17.44,0:03:19.44,Default,,0000,0000,0000,,Darn, didn’t know there was a kid here.
+Dialogue: 0,0:03:19.94,0:03:20.95,Default,,0000,0000,0000,,I’ll do it.
+Dialogue: 0,0:03:21.21,0:03:22.61,Default,,0000,0000,0000,,Okay, it’s in your hands, Gantetsu.
+Dialogue: 0,0:03:37.73,0:03:39.46,Default,,0000,0000,0000,,Okay. Let’s pull out!
+Dialogue: 0,0:03:40.00,0:03:41.43,Default,,0000,0000,0000,,Set this place on fire!
+Dialogue: 0,0:03:43.17,0:03:44.77,Default,,0000,0000,0000,,Don’t leave any evidence.
+Dialogue: 0,0:04:12.06,0:04:16.83,Default,,0000,0000,0000,,The Enemy: Ninja Dropouts
+Dialogue: 0,0:04:22.17,0:04:23.34,Default,,0000,0000,0000,,Wait up!
+Dialogue: 0,0:04:24.31,0:04:27.55,Default,,0000,0000,0000,,Over here! You’re it. Try catching me!
+Dialogue: 0,0:04:27.98,0:04:28.98,Default,,0000,0000,0000,,Darn…
+Dialogue: 0,0:04:29.45,0:04:30.85,Default,,0000,0000,0000,,–Yeah! 					–This way! This way!
+Dialogue: 0,0:04:31.55,0:04:32.68,Default,,0000,0000,0000,,I said wait!
+Dialogue: 0,0:04:38.66,0:04:39.66,Default,,0000,0000,0000,,Lady Tsunade…
+Dialogue: 0,0:04:40.69,0:04:42.03,Default,,0000,0000,0000,,With regard to the next request…
+Dialogue: 0,0:04:42.23,0:04:44.50,Default,,0000,0000,0000,,What, there’s more?
+Dialogue: 0,0:04:44.56,0:04:45.56,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:46.63,0:04:47.77,Default,,0000,0000,0000,,Boy oh boy…
+Dialogue: 0,0:04:48.47,0:04:51.17,Default,,0000,0000,0000,,This is the last one\Nso please try to focus.
+Dialogue: 0,0:04:51.44,0:04:52.50,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:04:55.31,0:04:58.21,Default,,0000,0000,0000,,When the weather continues\Nto be warm like this…
+Dialogue: 0,0:04:58.71,0:05:00.54,Default,,0000,0000,0000,,And what’s the request?
+Dialogue: 0,0:05:00.95,0:05:04.88,Default,,0000,0000,0000,,About the escort for the convoy with\Nthe fugitive who was secured…
+Dialogue: 0,0:05:04.92,0:05:08.35,Default,,0000,0000,0000,,What about it,\Nthat’s hardly a difficult mission.
+Dialogue: 0,0:05:08.42,0:05:10.55,Default,,0000,0000,0000,,Well, actually there’s a bit\Nof a problem.
+Dialogue: 0,0:05:11.22,0:05:12.26,Default,,0000,0000,0000,,Please look at this.
+Dialogue: 0,0:05:15.46,0:05:18.30,Default,,0000,0000,0000,,I see. This is somewhat of\Na nuisance.
+Dialogue: 0,0:05:19.00,0:05:22.30,Default,,0000,0000,0000,,All of the Jonin are out\Non S-rank missions,
+Dialogue: 0,0:05:22.57,0:05:26.50,Default,,0000,0000,0000,,and 90% of the main Chunin and Genin\Nhave been allocated elsewhere.
+Dialogue: 0,0:05:27.51,0:05:28.54,Default,,0000,0000,0000,,Who’s left?
+Dialogue: 0,0:05:28.97,0:05:32.11,Default,,0000,0000,0000,,Let’s see…well…
+Dialogue: 0,0:05:36.45,0:05:38.55,Default,,0000,0000,0000,,Multi-Clone Jutsu!
+Dialogue: 0,0:05:50.36,0:05:51.80,Default,,0000,0000,0000,,Let’s go, Bushy Brows!
+Dialogue: 0,0:06:07.45,0:06:08.81,Default,,0000,0000,0000,,Here goes, Naruto!
+Dialogue: 0,0:06:12.35,0:06:13.58,Default,,0000,0000,0000,,Leaf Hurricane!
+Dialogue: 0,0:06:15.75,0:06:17.02,Default,,0000,0000,0000,,You jerk!
+Dialogue: 0,0:06:17.89,0:06:19.86,Default,,0000,0000,0000,,Another serving of\NShadow Clones for you!
+Dialogue: 0,0:06:25.56,0:06:26.56,Default,,0000,0000,0000,,You ain’t seen nothing yet!
+Dialogue: 0,0:06:34.14,0:06:35.14,Default,,0000,0000,0000,,You let your guard down!
+Dialogue: 0,0:06:45.22,0:06:46.48,Default,,0000,0000,0000,,Pretty good, Bushy Brow…
+Dialogue: 0,0:06:48.32,0:06:49.39,Default,,0000,0000,0000,,The same to you, Naruto…
+Dialogue: 0,0:06:49.65,0:06:52.56,Default,,0000,0000,0000,,Naruto! Lee!
+Dialogue: 0,0:07:10.27,0:07:12.88,Default,,0000,0000,0000,,Hey, are you guys all right?
+Dialogue: 0,0:07:17.42,0:07:18.85,Default,,0000,0000,0000,,Hey, stop moving.
+Dialogue: 0,0:07:19.55,0:07:22.55,Default,,0000,0000,0000,,Sakura, can’t you be\Na little more gentle?
+Dialogue: 0,0:07:22.55,0:07:26.16,Default,,0000,0000,0000,,Shut your mouth.\NReally, you’re being reckless.
+Dialogue: 0,0:07:26.46,0:07:28.33,Default,,0000,0000,0000,,That’s not true, Sakura.
+Dialogue: 0,0:07:28.56,0:07:30.26,Default,,0000,0000,0000,,See, the 100-man\NShadow Clone grapples
+Dialogue: 0,0:07:30.29,0:07:33.56,Default,,0000,0000,0000,,are excellent training\Nfor enhancing one’s Taijutsu skills.
+Dialogue: 0,0:07:34.43,0:07:37.54,Default,,0000,0000,0000,,It’s like killing two birds with\None stone for Naruto, too
+Dialogue: 0,0:07:37.54,0:07:39.54,Default,,0000,0000,0000,,because this kind of friendly training\Nlets him polish
+Dialogue: 0,0:07:39.54,0:07:41.47,Default,,0000,0000,0000,,his Shadow Clone skills\Nat the same time.
+Dialogue: 0,0:07:41.84,0:07:43.37,Default,,0000,0000,0000,,That’s exactly right.
+Dialogue: 0,0:07:43.54,0:07:46.98,Default,,0000,0000,0000,,What are you talking about?\NAll you’re doing is slugging it out.
+Dialogue: 0,0:07:47.11,0:07:50.35,Default,,0000,0000,0000,,This is what ends up happening\Nwhen two guys get together.
+Dialogue: 0,0:07:50.55,0:07:51.55,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:07:54.52,0:07:57.82,Default,,0000,0000,0000,,Anyway, this isn’t the time to be\Nacting carefree like that.
+Dialogue: 0,0:07:58.42,0:07:59.56,Default,,0000,0000,0000,,Lady Tsunade is calling for you.
+Dialogue: 0,0:08:00.19,0:08:01.56,Default,,0000,0000,0000,,Grandma Tsunade?
+Dialogue: 0,0:08:01.83,0:08:02.83,Default,,0000,0000,0000,,What does she want?
+Dialogue: 0,0:08:06.10,0:08:07.10,Default,,0000,0000,0000,,Ninja Dropouts?
+Dialogue: 0,0:08:08.23,0:08:10.50,Default,,0000,0000,0000,,Yeah. 					Ninja Dropouts are
+Dialogue: 0,0:08:10.53,0:08:12.67,Default,,0000,0000,0000,,Rogue Ninja who,\Nof their own free will,
+Dialogue: 0,0:08:12.74,0:08:15.61,Default,,0000,0000,0000,,choose not to be Shinobi and leave\Ntheir respective villages to join up.
+Dialogue: 0,0:08:16.07,0:08:20.01,Default,,0000,0000,0000,,They’re a gang of thieves who use brutal\Nand villainous means to steal.
+Dialogue: 0,0:08:20.54,0:08:24.55,Default,,0000,0000,0000,,That’s horrible…using their abilities\Nas Ninja for criminal purposes.
+Dialogue: 0,0:08:24.72,0:08:25.82,Default,,0000,0000,0000,,That’s unforgivable.
+Dialogue: 0,0:08:26.35,0:08:29.32,Default,,0000,0000,0000,,One of their members was\Ncaptured yesterday
+Dialogue: 0,0:08:29.35,0:08:30.82,Default,,0000,0000,0000,,in Ogi Pass\Nin the Land of Forests.
+Dialogue: 0,0:08:31.56,0:08:32.72,Default,,0000,0000,0000,,This guy is the only member
+Dialogue: 0,0:08:32.76,0:08:35.46,Default,,0000,0000,0000,,whose wanted notice is\Ncircling around the lands.
+Dialogue: 0,0:08:36.56,0:08:38.93,Default,,0000,0000,0000,,He was found wandering about\Nand taken prisoner.
+Dialogue: 0,0:08:39.93,0:08:41.57,Default,,0000,0000,0000,,His name is Gantetsu.
+Dialogue: 0,0:08:44.07,0:08:46.44,Default,,0000,0000,0000,,For a former Ninja,\Nthat’s pretty lame.
+Dialogue: 0,0:08:46.67,0:08:49.17,Default,,0000,0000,0000,,Gantesu is being taken to\Nthe capital city of the Land of Forests
+Dialogue: 0,0:08:49.21,0:08:52.08,Default,,0000,0000,0000,,in order to do an exhaustive investigation\Ninto this matter
+Dialogue: 0,0:08:52.11,0:08:54.61,Default,,0000,0000,0000,,for the purpose of wiping out\Nthe Ninja Dropouts…
+Dialogue: 0,0:08:55.31,0:08:57.75,Default,,0000,0000,0000,,However, there is a possibility\Nthat the Ninja Dropouts will try
+Dialogue: 0,0:08:57.82,0:08:59.15,Default,,0000,0000,0000,,to rescue him along the way…
+Dialogue: 0,0:08:59.62,0:09:02.69,Default,,0000,0000,0000,,A police escort has been sent\Nfrom the capital
+Dialogue: 0,0:09:02.72,0:09:04.56,Default,,0000,0000,0000,,so it is fully prepared for the convoy.
+Dialogue: 0,0:09:05.36,0:09:07.39,Default,,0000,0000,0000,,But since the opponents are ex-Ninja,
+Dialogue: 0,0:09:07.42,0:09:09.06,Default,,0000,0000,0000,,the idea is that Shinobi would be\Nthe best countermeasure for Shinobi,
+Dialogue: 0,0:09:09.09,0:09:11.56,Default,,0000,0000,0000,,so they requested that the Leaf Village\Nalso send out some Ninja.
+Dialogue: 0,0:09:12.06,0:09:13.56,Default,,0000,0000,0000,,That’s what this request is all about.
+Dialogue: 0,0:09:14.23,0:09:18.27,Default,,0000,0000,0000,,I’m getting excited! I’ll show ‘em\Nhow great Leaf Ninja are!
+Dialogue: 0,0:09:18.54,0:09:20.97,Default,,0000,0000,0000,,–Got it!\N–Let’s give it a shot!
+Dialogue: 0,0:09:21.54,0:09:25.44,Default,,0000,0000,0000,,All right! Naruto Uzumaki,\NSakura Haruno, Rock Lee.
+Dialogue: 0,0:09:25.64,0:09:27.21,Default,,0000,0000,0000,,The three of you are assigned\Nto the mission
+Dialogue: 0,0:09:27.24,0:09:29.55,Default,,0000,0000,0000,,of guarding the Gantetsu convoy!
+Dialogue: 0,0:09:29.88,0:09:31.68,Default,,0000,0000,0000,,–Yes, ma’am! 					–Roger!
+Dialogue: 0,0:09:37.66,0:09:39.22,Default,,0000,0000,0000,,Look, the harbor.
+Dialogue: 0,0:09:47.23,0:09:49.97,Default,,0000,0000,0000,,Huh… So they’re gonna\Ntransport him in this.
+Dialogue: 0,0:09:50.53,0:09:53.60,Default,,0000,0000,0000,,The only way to get to the capital\Nof the Land of Forests is
+Dialogue: 0,0:09:53.64,0:09:55.17,Default,,0000,0000,0000,,to go up this river.
+Dialogue: 0,0:09:56.21,0:09:57.51,Default,,0000,0000,0000,,Hey, look over there.
+Dialogue: 0,0:10:02.55,0:10:03.55,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:10:03.55,0:10:05.05,Default,,0000,0000,0000,,The Ninja Dropout, Gantetsu.
+Dialogue: 0,0:10:06.18,0:10:07.69,Default,,0000,0000,0000,,Are you the Leaf Ninja?
+Dialogue: 0,0:10:07.92,0:10:09.69,Default,,0000,0000,0000,,Yes. Uh, and who are you?
+Dialogue: 0,0:10:10.42,0:10:11.76,Default,,0000,0000,0000,,I’m Tsuzumi with the police department.
+Dialogue: 0,0:10:12.36,0:10:13.89,Default,,0000,0000,0000,,I’m supervising this convoy.
+Dialogue: 0,0:10:14.33,0:10:15.83,Default,,0000,0000,0000,,My name is Naruto Uzumaki.
+Dialogue: 0,0:10:16.13,0:10:20.76,Default,,0000,0000,0000,,This guy here’s Bushy Brows and\Nher name is Sakura Haruno.
+Dialogue: 0,0:10:21.27,0:10:26.64,Default,,0000,0000,0000,,Hmmm… You guys are still kids…\NAre you really Ninja?
+Dialogue: 0,0:10:27.30,0:10:28.31,Default,,0000,0000,0000,,We sure are.
+Dialogue: 0,0:10:28.34,0:10:30.07,Default,,0000,0000,0000,,Huh, we might not look it,
+Dialogue: 0,0:10:30.11,0:10:34.04,Default,,0000,0000,0000,,but we’re all full-fledged Ninja who’ve\Nbeen tested by fire numerous times.
+Dialogue: 0,0:10:34.55,0:10:37.21,Default,,0000,0000,0000,,We’ll display our skills for you\Nat some point.
+Dialogue: 0,0:10:38.02,0:10:39.02,Default,,0000,0000,0000,,Just leave it to us.
+Dialogue: 0,0:10:39.55,0:10:43.55,Default,,0000,0000,0000,,Well, I have a strong team of\Nexperts handling security,
+Dialogue: 0,0:10:43.55,0:10:45.16,Default,,0000,0000,0000,,but if it ever comes to that,
+Dialogue: 0,0:10:45.19,0:10:47.09,Default,,0000,0000,0000,,I’m counting on you to use\Nyour specialty, Ninjutsu.
+Dialogue: 0,0:10:47.52,0:10:48.53,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:10:49.26,0:10:52.13,Default,,0000,0000,0000,,Those are the security personnel\Nguarding the prisoner.
+Dialogue: 0,0:10:57.53,0:10:59.14,Default,,0000,0000,0000,,They’re all dressed alike, aren’t they?
+Dialogue: 0,0:10:59.54,0:11:02.31,Default,,0000,0000,0000,,Huh, they don’t have much style.
+Dialogue: 0,0:11:02.34,0:11:04.21,Default,,0000,0000,0000,,Naruto, that’s rude.
+Dialogue: 0,0:11:11.12,0:11:12.12,Default,,0000,0000,0000,,Captain Todoroki!
+Dialogue: 0,0:11:12.98,0:11:14.75,Default,,0000,0000,0000,,What is it, Commander Tsuzumi?
+Dialogue: 0,0:11:15.32,0:11:16.32,Default,,0000,0000,0000,,These people came from
+Dialogue: 0,0:11:16.35,0:11:18.09,Default,,0000,0000,0000,,the Village Hidden in the Leaves\Nas reinforcements.
+Dialogue: 0,0:11:18.56,0:11:20.32,Default,,0000,0000,0000,,The name’s Naruto Uzumaki.
+Dialogue: 0,0:11:20.56,0:11:21.56,Default,,0000,0000,0000,,I’m Sakura Haruno.
+Dialogue: 0,0:11:21.56,0:11:22.93,Default,,0000,0000,0000,,My name is Rock Lee.
+Dialogue: 0,0:11:25.56,0:11:27.56,Default,,0000,0000,0000,,Commander, I told you already.
+Dialogue: 0,0:11:27.67,0:11:29.63,Default,,0000,0000,0000,,We already have enough security on this.
+Dialogue: 0,0:11:30.07,0:11:33.27,Default,,0000,0000,0000,,Can’t be helped.\Nlt’s something the bosses decided.
+Dialogue: 0,0:11:34.71,0:11:36.61,Default,,0000,0000,0000,,There won’t be any role for\Nyou guys to play.
+Dialogue: 0,0:11:37.51,0:11:38.98,Default,,0000,0000,0000,,We will guard Gantetsu.
+Dialogue: 0,0:11:39.78,0:11:41.25,Default,,0000,0000,0000,,I promise that on this sword.
+Dialogue: 0,0:11:43.55,0:11:45.55,Default,,0000,0000,0000,,Huh… That sword’s nothing.
+Dialogue: 0,0:11:45.85,0:11:48.69,Default,,0000,0000,0000,,Snapping that thing in half would be\Nas easy as apple pie.
+Dialogue: 0,0:11:49.15,0:11:50.55,Default,,0000,0000,0000,,Yeah, with just one finger.
+Dialogue: 0,0:11:50.55,0:11:54.26,Default,,0000,0000,0000,,Stop it, you guys!\NPlease excuse them…
+Dialogue: 0,0:11:54.56,0:11:56.96,Default,,0000,0000,0000,,Be careful not to get seasick.
+Dialogue: 0,0:11:57.23,0:11:58.73,Default,,0000,0000,0000,,Well, I leave it to you.
+Dialogue: 0,0:11:59.23,0:12:00.56,Default,,0000,0000,0000,,Y-Yes, sir. Thanks.
+Dialogue: 0,0:12:07.47,0:12:08.47,Default,,0000,0000,0000,,Gantetsu…
+Dialogue: 0,0:12:10.11,0:12:11.11,Default,,0000,0000,0000,,All right…
+Dialogue: 0,0:12:11.54,0:12:12.81,Default,,0000,0000,0000,,Put the cage into the belly of the ship!
+Dialogue: 0,0:12:13.94,0:12:16.55,Default,,0000,0000,0000,,Okay…Okay…
+Dialogue: 0,0:12:19.35,0:12:21.09,Default,,0000,0000,0000,,Okay, lower it!
+Dialogue: 0,0:12:47.75,0:12:48.75,Default,,0000,0000,0000,,Wow…
+Dialogue: 0,0:12:48.81,0:12:50.31,Default,,0000,0000,0000,,This feels great!
+Dialogue: 0,0:13:23.65,0:13:25.15,Default,,0000,0000,0000,,What the heck is this anyway?
+Dialogue: 0,0:13:25.42,0:13:27.55,Default,,0000,0000,0000,,They won’t let us even get near him.
+Dialogue: 0,0:13:27.82,0:13:29.85,Default,,0000,0000,0000,,They’re totally treating us like nuisances.
+Dialogue: 0,0:13:30.15,0:13:32.66,Default,,0000,0000,0000,,If only those Ninja Dropout guys\Nwould launch an attack,
+Dialogue: 0,0:13:32.69,0:13:35.56,Default,,0000,0000,0000,,we could show them how awesome\Nwe are.
+Dialogue: 0,0:13:35.56,0:13:36.76,Default,,0000,0000,0000,,Don’t say stupid things like that.
+Dialogue: 0,0:13:37.26,0:13:39.76,Default,,0000,0000,0000,,The best scenario would be that\Nthe Ninja Dropout won’t show up at all.
+Dialogue: 0,0:13:40.23,0:13:44.57,Default,,0000,0000,0000,,Our mission is to transport Gantetsu\Nsafely to the capital, you know.
+Dialogue: 0,0:13:45.00,0:13:50.27,Default,,0000,0000,0000,,But this is getting too boring…\Nthere’s no thrill to it.
+Dialogue: 0,0:13:50.31,0:13:51.54,Default,,0000,0000,0000,,Better just grin and bear it.
+Dialogue: 0,0:13:51.54,0:13:52.54,Default,,0000,0000,0000,,There are missions like this too.
+Dialogue: 0,0:13:52.71,0:13:55.55,Default,,0000,0000,0000,,Well, I sure understand\Nhow you feel, Naruto.
+Dialogue: 0,0:13:56.95,0:13:59.72,Default,,0000,0000,0000,,Yeah… I guess this is getting\Na little boring.
+Dialogue: 0,0:14:31.88,0:14:33.12,Default,,0000,0000,0000,,Dig in…
+Dialogue: 0,0:14:36.55,0:14:38.06,Default,,0000,0000,0000,,Gimme a break…
+Dialogue: 0,0:14:38.32,0:14:40.36,Default,,0000,0000,0000,,Who do those guys think we are?
+Dialogue: 0,0:14:40.42,0:14:42.09,Default,,0000,0000,0000,,But this stuff is pretty good.
+Dialogue: 0,0:14:42.33,0:14:43.56,Default,,0000,0000,0000,,Yeah, very tasty.
+Dialogue: 0,0:14:44.76,0:14:46.56,Default,,0000,0000,0000,,It makes me so mad…
+Dialogue: 0,0:14:48.27,0:14:52.54,Default,,0000,0000,0000,,I mean, why did we go to all\Nthe trouble of coming all this way?
+Dialogue: 0,0:14:56.54,0:14:57.84,Default,,0000,0000,0000,,I’m gonna do my mission.
+Dialogue: 0,0:14:57.88,0:14:59.54,Default,,0000,0000,0000,,Gonna stand guard over Gantetsu.
+Dialogue: 0,0:14:59.71,0:15:02.05,Default,,0000,0000,0000,,But the captain’s gonna scold you.
+Dialogue: 0,0:15:02.21,0:15:03.51,Default,,0000,0000,0000,,I’m doing this out of Ninja pride!
+Dialogue: 0,0:15:05.55,0:15:06.75,Default,,0000,0000,0000,,Uh, Naruto!
+Dialogue: 0,0:15:06.82,0:15:07.82,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:27.54,0:15:29.91,Default,,0000,0000,0000,,He does have the face of\Na criminal after all.
+Dialogue: 0,0:15:37.68,0:15:38.68,Default,,0000,0000,0000,,Todoroki?
+Dialogue: 0,0:15:39.55,0:15:41.75,Default,,0000,0000,0000,,What the heck is he doing here?
+Dialogue: 0,0:15:46.02,0:15:47.39,Default,,0000,0000,0000,,Akio…!
+Dialogue: 0,0:15:59.14,0:16:00.14,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:16:04.98,0:16:07.44,Default,,0000,0000,0000,,Father! Mother!
+Dialogue: 0,0:16:19.39,0:16:20.39,Default,,0000,0000,0000,,Akio…
+Dialogue: 0,0:16:25.40,0:16:26.40,Default,,0000,0000,0000,,Akio!
+Dialogue: 0,0:16:53.32,0:16:54.32,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:16:59.56,0:17:00.63,Default,,0000,0000,0000,,Akio…!
+Dialogue: 0,0:17:03.00,0:17:05.07,Default,,0000,0000,0000,,I will avenge your death right now!
+Dialogue: 0,0:17:19.12,0:17:20.12,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:17:20.55,0:17:21.72,Default,,0000,0000,0000,,What the heck are you doing?!
+Dialogue: 0,0:17:23.59,0:17:25.56,Default,,0000,0000,0000,,Are you in your right mind?
+Dialogue: 0,0:17:28.13,0:17:29.93,Default,,0000,0000,0000,,What was it you were about\Nto do just now?!
+Dialogue: 0,0:17:44.11,0:17:46.98,Default,,0000,0000,0000,,Ninja Art: Crimson Mud.
+Dialogue: 0,0:18:14.47,0:18:15.47,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:18:15.51,0:18:16.67,Default,,0000,0000,0000,,What’s the matter, Sakura?
+Dialogue: 0,0:18:17.27,0:18:18.48,Default,,0000,0000,0000,,Lee, over there.
+Dialogue: 0,0:18:25.18,0:18:26.18,Default,,0000,0000,0000,,That’s strange…
+Dialogue: 0,0:18:26.55,0:18:28.72,Default,,0000,0000,0000,,I’ve never knew this river has a tributary.
+Dialogue: 0,0:18:31.35,0:18:33.72,Default,,0000,0000,0000,,Why are you in here?
+Dialogue: 0,0:18:34.06,0:18:36.36,Default,,0000,0000,0000,,Why does that matter?
+Dialogue: 0,0:18:36.76,0:18:39.80,Default,,0000,0000,0000,,What were you about to do to Gantetsu!?
+Dialogue: 0,0:18:40.56,0:18:41.57,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:18:42.10,0:18:44.17,Default,,0000,0000,0000,,It looked to me like\Nyou were going to kill him.
+Dialogue: 0,0:18:44.53,0:18:47.54,Default,,0000,0000,0000,,Huh? Me?\NThat’s a stupid thing to say.
+Dialogue: 0,0:18:48.34,0:18:52.54,Default,,0000,0000,0000,,It’s my mission to guard this guy.\NWhy would I?!
+Dialogue: 0,0:18:52.54,0:18:53.54,Default,,0000,0000,0000,,Yeah, I guess.
+Dialogue: 0,0:18:53.58,0:18:55.11,Default,,0000,0000,0000,,Even if he is a criminal,
+Dialogue: 0,0:18:55.15,0:18:59.12,Default,,0000,0000,0000,,you can’t just kill him off\Nwithout interrogating him first.
+Dialogue: 0,0:18:59.38,0:19:01.55,Default,,0000,0000,0000,,A brat talking like he knows, huh?
+Dialogue: 0,0:19:02.55,0:19:03.89,Default,,0000,0000,0000,,There isn’t any need to interrogate him!
+Dialogue: 0,0:19:04.55,0:19:05.56,Default,,0000,0000,0000,,This is the guy who did it!
+Dialogue: 0,0:19:05.92,0:19:06.92,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:07.06,0:19:08.06,Default,,0000,0000,0000,,This guy…
+Dialogue: 0,0:19:08.56,0:19:13.36,Default,,0000,0000,0000,,These guys…slaughtered a lot of people\Nwithout mercy…
+Dialogue: 0,0:19:14.23,0:19:16.43,Default,,0000,0000,0000,,Even innocent children.
+Dialogue: 0,0:19:24.54,0:19:26.71,Default,,0000,0000,0000,,If things continue like this,\Nwe’ll be sucked into the tributary…
+Dialogue: 0,0:19:27.34,0:19:28.35,Default,,0000,0000,0000,,What should we do?!
+Dialogue: 0,0:19:35.65,0:19:38.36,Default,,0000,0000,0000,,Ninja Art: Link and Slay.
+Dialogue: 0,0:19:59.54,0:20:00.98,Default,,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:20:01.01,0:20:02.21,Default,,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:20:07.42,0:20:09.59,Default,,0000,0000,0000,,Th-The ship’s been sliced in half…
+Dialogue: 0,0:20:16.13,0:20:17.46,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:20:17.56,0:20:18.93,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:20:27.84,0:20:28.84,Default,,0000,0000,0000,,You jerk!
+Dialogue: 0,0:20:31.98,0:20:34.34,Default,,0000,0000,0000,,It’s them! The Ninja Dropouts!
+Dialogue: 0,0:20:34.54,0:20:35.55,Default,,0000,0000,0000,,So they showed up after all…
+Dialogue: 0,0:20:40.55,0:20:41.55,Default,,0000,0000,0000,,Gantetsu…
+Dialogue: 0,0:20:48.56,0:20:49.56,Default,,0000,0000,0000,,Reinforcements, huh?!
+Dialogue: 0,0:20:49.93,0:20:52.86,Default,,0000,0000,0000,,Hey, who are you guys anyway!
+Dialogue: 0,0:20:53.46,0:20:56.57,Default,,0000,0000,0000,,The head of the Ninja Dropouts,\NShura, on the scene!
+Dialogue: 0,0:21:00.24,0:21:01.30,Default,,0000,0000,0000,,Ninja Dropouts…
+Dialogue: 0,0:21:01.54,0:21:04.54,Default,,0000,0000,0000,,We’ll take Gantetsu…
+Dialogue: 0,0:21:04.61,0:21:06.54,Default,,0000,0000,0000,,I’m not about to let that happen!
+Dialogue: 0,0:21:19.16,0:21:23.56,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.56,0:21:29.77,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.31,0:21:39.54,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.58,0:21:44.25,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.31,0:21:49.19,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:49.22,0:21:54.02,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:54.06,0:21:58.96,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:59.00,0:22:03.37,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.40,0:22:07.67,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.70,0:22:15.18,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:15.21,0:22:19.05,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:19.12,0:22:24.39,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.42,0:22:28.56,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.56,0:22:33.40,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.56,0:22:38.00,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:38.07,0:22:44.17,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:51.01,0:22:52.38,Default,,0000,0000,0000,,Lee, are you all right?
+Dialogue: 0,0:22:52.42,0:22:55.89,Default,,0000,0000,0000,,Yes, somehow.\NMore importantly, what happened?
+Dialogue: 0,0:22:55.99,0:22:56.99,Default,,0000,0000,0000,,I don’t know.
+Dialogue: 0,0:22:57.02,0:22:59.22,Default,,0000,0000,0000,,Only thing I know is that after\Nthat huge crash,
+Dialogue: 0,0:22:59.26,0:23:00.76,Default,,0000,0000,0000,,suddenly the ship was sliced in two…
+Dialogue: 0,0:23:00.82,0:23:01.83,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:23:02.19,0:23:04.79,Default,,0000,0000,0000,,Well then, we need to confirm everyone’s\Nsafety for the moment…
+Dialogue: 0,0:23:04.93,0:23:05.93,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:23:06.10,0:23:07.50,Default,,0000,0000,0000,,What’s wrong, Sakura?
+Dialogue: 0,0:23:07.56,0:23:12.24,Default,,0000,0000,0000,,I can’t find the prisoner, Gantetsu,\NCaptain Todoroki, and Naruto.
+Dialogue: 0,0:23:13.47,0:23:15.11,Default,,0000,0000,0000,,Next time:\N“The Bewildering Forest”

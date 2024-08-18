@@ -1,0 +1,410 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.44,0:00:03.85,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.89,0:00:06.65,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.69,0:00:12.77,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:23.15,0:00:29.06,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:29.10,0:00:34.60,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.65,0:00:37.23,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.27,0:00:40.85,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.89,0:00:45.27,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.89,0:00:51.89,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.31,0:00:56.89,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.90,0:01:02.48,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.52,0:01:07.89,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.89,0:01:10.94,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.98,0:01:19.89,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:43.06,0:01:44.06,Default,,0000,0000,0000,,I’ll give it to you straight…
+Dialogue: 0,0:01:44.56,0:01:47.89,Default,,0000,0000,0000,,Your next mission was commissioned\Nby a certain Feudal Lord’s daughter.
+Dialogue: 0,0:01:48.31,0:01:49.31,Default,,0000,0000,0000,,You are to act as her double.
+Dialogue: 0,0:01:49.89,0:01:51.89,Default,,0000,0000,0000,,I don’t know where she heard about you,
+Dialogue: 0,0:01:51.89,0:01:53.90,Default,,0000,0000,0000,,but you apparently bear\Na striking resemblance to the princess.
+Dialogue: 0,0:01:54.44,0:01:57.48,Default,,0000,0000,0000,,Therefore she requested\Nthat you be the one who carries it out…
+Dialogue: 0,0:01:57.89,0:01:59.89,Default,,0000,0000,0000,,A double…?
+Dialogue: 0,0:01:59.89,0:02:02.73,Default,,0000,0000,0000,,Is someone targeting the princess?
+Dialogue: 0,0:02:03.06,0:02:05.90,Default,,0000,0000,0000,,Well, if anything,\Nshe’s the one who’s doing the targeting…
+Dialogue: 0,0:02:06.69,0:02:07.69,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:09.15,0:02:10.15,Default,,0000,0000,0000,,Not to worry.
+Dialogue: 0,0:02:10.40,0:02:12.89,Default,,0000,0000,0000,,You’re already an admirable\NHidden Leaf Shinobi.
+Dialogue: 0,0:02:13.40,0:02:15.40,Default,,0000,0000,0000,,Furthermore, I’ve arranged for you\Nto have an assistant.
+Dialogue: 0,0:02:16.40,0:02:17.40,Default,,0000,0000,0000,,Assistant?
+Dialogue: 0,0:02:18.19,0:02:21.40,Default,,0000,0000,0000,,Grandma Tsunade!\NYou have a mission for me?
+Dialogue: 0,0:02:21.52,0:02:22.90,Default,,0000,0000,0000,,And one from a Feudal Lord to boot!
+Dialogue: 0,0:02:23.10,0:02:24.89,Default,,0000,0000,0000,,Huh?! 					Lady Tsunade!
+Dialogue: 0,0:02:25.27,0:02:28.06,Default,,0000,0000,0000,,Sorry, but all the other guys\Nare too busy.
+Dialogue: 0,0:02:29.48,0:02:30.94,Default,,0000,0000,0000,,Just me and this guy?
+Dialogue: 0,0:02:31.77,0:02:34.65,Default,,0000,0000,0000,,Yup.\NDo your best to carry out the mission.
+Dialogue: 0,0:02:40.98,0:02:43.60,Default,,0000,0000,0000,,The client is\Na Feudal Lord’s daughter, huh…
+Dialogue: 0,0:02:43.90,0:02:46.77,Default,,0000,0000,0000,,Wow… I guess that means that\NI’ve finally became good enough
+Dialogue: 0,0:02:46.81,0:02:48.89,Default,,0000,0000,0000,,to handle amazing missions\Nlike this, huh?!
+Dialogue: 0,0:02:49.19,0:02:50.89,Default,,0000,0000,0000,,Hey, don’t get too excited.
+Dialogue: 0,0:02:51.23,0:02:53.35,Default,,0000,0000,0000,,Terrible things happen\Nwhen you're like that.
+Dialogue: 0,0:02:54.02,0:02:58.69,Default,,0000,0000,0000,,I know…\NJust leave things in my capable hands!
+Dialogue: 0,0:02:59.02,0:03:00.77,Default,,0000,0000,0000,,You’re really a piece of work…
+Dialogue: 0,0:03:03.73,0:03:09.73,Default,,0000,0000,0000,,Ino Screams! Chubby Paradise!
+Dialogue: 0,0:03:14.02,0:03:16.98,Default,,0000,0000,0000,,Thank you for coming from afar.
+Dialogue: 0,0:03:18.10,0:03:19.77,Default,,0000,0000,0000,,That’s the client?
+Dialogue: 0,0:03:19.98,0:03:22.52,Default,,0000,0000,0000,,She and Ino really do look alike, but…
+Dialogue: 0,0:03:24.27,0:03:25.90,Default,,0000,0000,0000,,I-It’s a bit of a stretch…
+Dialogue: 0,0:03:29.89,0:03:34.23,Default,,0000,0000,0000,,It’s all right.\NI have an idea of what you wish to say.
+Dialogue: 0,0:03:34.69,0:03:38.77,Default,,0000,0000,0000,,My physique doesn’t really resemble\Nthat of the double there…
+Dialogue: 0,0:03:38.89,0:03:40.56,Default,,0000,0000,0000,,That’s what you’re thinking, right?
+Dialogue: 0,0:03:40.89,0:03:44.27,Default,,0000,0000,0000,,– Oh…not at all… Umm…\N– To be honest,
+Dialogue: 0,0:03:44.31,0:03:46.52,Default,,0000,0000,0000,,– I don’t think you resemble her at all.\N– Hey!
+Dialogue: 0,0:03:46.81,0:03:50.23,Default,,0000,0000,0000,,Well, I don’t blame you for thinking that.\NBut here, have a look at this!
+Dialogue: 0,0:03:54.85,0:03:55.85,Default,,0000,0000,0000,,T-That’s…lno!
+Dialogue: 0,0:03:56.06,0:03:58.89,Default,,0000,0000,0000,,That’s what I looked like\Na short time ago…
+Dialogue: 0,0:03:59.02,0:04:02.77,Default,,0000,0000,0000,,Truth be told, I only got like this
+Dialogue: 0,0:04:02.81,0:04:04.89,Default,,0000,0000,0000,,after it was decided that\NI was to have an arranged courtship.
+Dialogue: 0,0:04:04.98,0:04:05.98,Default,,0000,0000,0000,,An arranged courtship?!
+Dialogue: 0,0:04:06.10,0:04:09.23,Default,,0000,0000,0000,,The other party is Master Chikara\Nfrom the neighboring Land of Udon.
+Dialogue: 0,0:04:09.85,0:04:12.06,Default,,0000,0000,0000,,Ever since I saw his picture,
+Dialogue: 0,0:04:12.10,0:04:16.27,Default,,0000,0000,0000,,my feelings for him\Nhave deepened day by day.
+Dialogue: 0,0:04:18.10,0:04:20.52,Default,,0000,0000,0000,,And as the day\Nof the arranged courtship grows closer,
+Dialogue: 0,0:04:20.56,0:04:22.89,Default,,0000,0000,0000,,I have become increasingly nervous,\Nmy cheeks have been flushed,
+Dialogue: 0,0:04:22.90,0:04:24.89,Default,,0000,0000,0000,,and my heart has been pounding.
+Dialogue: 0,0:04:25.40,0:04:27.73,Default,,0000,0000,0000,,I can’t even sleep at night.
+Dialogue: 0,0:04:31.35,0:04:35.15,Default,,0000,0000,0000,,And because of that stress,\NI’ve started overeating…
+Dialogue: 0,0:04:35.69,0:04:38.52,Default,,0000,0000,0000,,It goes without saying that\Nyou’ll get fat if you pig out.
+Dialogue: 0,0:04:38.73,0:04:41.85,Default,,0000,0000,0000,,Of course,\NI’ve taken appropriate countermeasures!
+Dialogue: 0,0:04:41.98,0:04:44.89,Default,,0000,0000,0000,,I’ve been using something that cuts all\Nthe fats and carbohydrates that I ingest…
+Dialogue: 0,0:04:44.89,0:04:47.15,Default,,0000,0000,0000,,"Easy-Peasy Slim Special”
+Dialogue: 0,0:04:50.31,0:04:51.98,Default,,0000,0000,0000,,It didn’t work, did it?
+Dialogue: 0,0:04:52.60,0:04:54.02,Default,,0000,0000,0000,,I placed too strong hopes in it…
+Dialogue: 0,0:04:54.35,0:04:56.23,Default,,0000,0000,0000,,How can I possibly have\Nan arranged courtship
+Dialogue: 0,0:04:56.27,0:04:58.73,Default,,0000,0000,0000,,with the man I’m infatuated with\Nwhen I look like this?
+Dialogue: 0,0:04:59.52,0:05:01.89,Default,,0000,0000,0000,,So that’s my situation…\NNow, let’s get to the main issue.
+Dialogue: 0,0:05:02.60,0:05:05.27,Default,,0000,0000,0000,,I want you to attend\Nthe arranged courtship in my place
+Dialogue: 0,0:05:05.31,0:05:08.52,Default,,0000,0000,0000,,and make it a success at any cost.
+Dialogue: 0,0:05:08.69,0:05:12.02,Default,,0000,0000,0000,,Huh?! 					So this double thing
+Dialogue: 0,0:05:12.06,0:05:13.98,Default,,0000,0000,0000,,is just to act on you behalf\Nat some arranged courtship?!
+Dialogue: 0,0:05:14.35,0:05:16.31,Default,,0000,0000,0000,,What do you mean by\N“some arranged courtship”?!
+Dialogue: 0,0:05:16.65,0:05:19.89,Default,,0000,0000,0000,,I mean, when you talk about doubles,\Nyou thinks of situations
+Dialogue: 0,0:05:19.89,0:05:21.98,Default,,0000,0000,0000,,where someone’s life is in danger\Nand that sort of thing.
+Dialogue: 0,0:05:22.02,0:05:23.60,Default,,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:05:23.81,0:05:27.15,Default,,0000,0000,0000,,The princess’s entire life is at stake!\NThis is major!
+Dialogue: 0,0:05:27.19,0:05:30.90,Default,,0000,0000,0000,,Oh! So you understand a heart in love…
+Dialogue: 0,0:05:31.31,0:05:33.89,Default,,0000,0000,0000,,I sure do…\NA girl always wants to look cute
+Dialogue: 0,0:05:33.89,0:05:36.65,Default,,0000,0000,0000,,for the guy she loves.
+Dialogue: 0,0:05:36.81,0:05:38.02,Default,,0000,0000,0000,,Even if she’s a fake…?
+Dialogue: 0,0:05:38.52,0:05:42.89,Default,,0000,0000,0000,,It can’t be helped.\NI mean, guys prefer slender girls.
+Dialogue: 0,0:05:43.35,0:05:44.89,Default,,0000,0000,0000,,That’s exactly right!
+Dialogue: 0,0:05:45.52,0:05:46.65,Default,,0000,0000,0000,,I’m counting on you.
+Dialogue: 0,0:05:47.23,0:05:49.27,Default,,0000,0000,0000,,Sure thing! Leave it to me!
+Dialogue: 0,0:05:49.65,0:05:52.69,Default,,0000,0000,0000,,But even if\Nthe arranged courtship goes well…
+Dialogue: 0,0:05:52.73,0:05:53.94,Default,,0000,0000,0000,,The gap is just too big.
+Dialogue: 0,0:05:54.19,0:05:58.60,Default,,0000,0000,0000,,I’ll just have to lose weight\Nby the day of the wedding.
+Dialogue: 0,0:05:58.90,0:06:01.06,Default,,0000,0000,0000,,I already have a plan in place for that.
+Dialogue: 0,0:06:01.69,0:06:05.10,Default,,0000,0000,0000,,This supplemental type diet food,\N“Supplement Slender”!
+Dialogue: 0,0:06:05.15,0:06:07.56,Default,,0000,0000,0000,,If I supplement all three meals with this…
+Dialogue: 0,0:06:07.94,0:06:10.52,Default,,0000,0000,0000,,Why don’t you draw on the lessons\Nyou’re supposed to have learned…?
+Dialogue: 0,0:06:10.89,0:06:15.89,Default,,0000,0000,0000,,In any case, I’ll use my charms to make\Nthis arranged courtship a success!
+Dialogue: 0,0:06:22.89,0:06:26.89,Default,,0000,0000,0000,,This annex is where\NI often played in my childhood.
+Dialogue: 0,0:06:27.90,0:06:32.19,Default,,0000,0000,0000,,I plan to use this to listen in on\Nthe arranged courtship from here.
+Dialogue: 0,0:06:32.81,0:06:35.81,Default,,0000,0000,0000,,Huh… That’s pretty convenient.
+Dialogue: 0,0:06:36.15,0:06:38.94,Default,,0000,0000,0000,,I would love to meet him in person\Nif I could, but…
+Dialogue: 0,0:06:39.77,0:06:42.89,Default,,0000,0000,0000,,Hey, is he that cool looking?
+Dialogue: 0,0:06:44.77,0:06:45.85,Default,,0000,0000,0000,,Of course he is!
+Dialogue: 0,0:06:45.89,0:06:48.31,Default,,0000,0000,0000,,He’s someone with\Nsomething really special about him!
+Dialogue: 0,0:06:48.94,0:06:51.85,Default,,0000,0000,0000,,Well then,\Njust make sure he falls for you.
+Dialogue: 0,0:06:53.15,0:06:54.52,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:06:56.69,0:06:58.89,Default,,0000,0000,0000,,I thought you weren’t motivated…
+Dialogue: 0,0:06:58.89,0:07:01.15,Default,,0000,0000,0000,,Well, this is a mission after all.
+Dialogue: 0,0:07:01.35,0:07:03.89,Default,,0000,0000,0000,,So I think I’ll pull myself together\Nand hustle!
+Dialogue: 0,0:07:04.27,0:07:06.19,Default,,0000,0000,0000,,Don’t do anything unnecessary, okay!
+Dialogue: 0,0:07:11.85,0:07:13.10,Default,,0000,0000,0000,,W-What’s up?
+Dialogue: 0,0:07:13.19,0:07:14.85,Default,,0000,0000,0000,,The sound is getting closer!
+Dialogue: 0,0:07:17.06,0:07:18.89,Default,,0000,0000,0000,,– What? 					– It’s so bright!
+Dialogue: 0,0:07:22.23,0:07:24.06,Default,,0000,0000,0000,,There are many a handsome man\Nin this world,
+Dialogue: 0,0:07:24.10,0:07:26.27,Default,,0000,0000,0000,,but this man is\Nrenowned even among them!
+Dialogue: 0,0:07:27.89,0:07:29.90,Default,,0000,0000,0000,,This man makes\NLand of Udon what it is…
+Dialogue: 0,0:07:29.94,0:07:32.35,Default,,0000,0000,0000,,that sexy man\Nwith glistening sidelong glances!
+Dialogue: 0,0:07:34.35,0:07:36.89,Default,,0000,0000,0000,,The oh-so-great young prince Chikara…
+Dialogue: 0,0:07:36.89,0:07:38.65,Default,,0000,0000,0000,,Kneel down and bow before him!
+Dialogue: 0,0:07:44.06,0:07:45.06,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:07:45.10,0:07:47.56,Default,,0000,0000,0000,,It appears that\NI have kept you waiting, princess
+Dialogue: 0,0:07:47.89,0:07:49.89,Default,,0000,0000,0000,,You're…Master Chikara?
+Dialogue: 0,0:07:50.10,0:07:52.94,Default,,0000,0000,0000,,He’s even more intense than\Nlntense-Brow Sensei.
+Dialogue: 0,0:08:05.31,0:08:07.77,Default,,0000,0000,0000,,I’m sorry, pretty girl.
+Dialogue: 0,0:08:08.27,0:08:10.89,Default,,0000,0000,0000,,I have constitutional low blood pressure.
+Dialogue: 0,0:08:11.27,0:08:13.69,Default,,0000,0000,0000,,Dunno. He looks more like\Nhe has high blood pressure to me…
+Dialogue: 0,0:08:16.81,0:08:17.52,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:17.56,0:08:20.52,Default,,0000,0000,0000,,D-Do you always scatter\Nflower petals?
+Dialogue: 0,0:08:20.94,0:08:22.23,Default,,0000,0000,0000,,Flowers are wonderful.
+Dialogue: 0,0:08:22.27,0:08:24.35,Default,,0000,0000,0000,,They truly allay the fatigue\Nof your mind and your body.
+Dialogue: 0,0:08:24.60,0:08:26.02,Default,,0000,0000,0000,,Don’t you find them relaxing?
+Dialogue: 0,0:08:26.40,0:08:28.27,Default,,0000,0000,0000,,I-I guess…
+Dialogue: 0,0:08:28.94,0:08:30.98,Default,,0000,0000,0000,,Okay then, next…
+Dialogue: 0,0:08:34.89,0:08:38.89,Default,,0000,0000,0000,,Hey, don’t you think\Nhe’s different from her description…?
+Dialogue: 0,0:08:38.89,0:08:39.89,Default,,0000,0000,0000,,I mean, he’s fa…
+Dialogue: 0,0:08:40.02,0:08:41.02,Default,,0000,0000,0000,,Fa…?!
+Dialogue: 0,0:08:41.35,0:08:42.35,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:08:42.65,0:08:45.89,Default,,0000,0000,0000,,These sweets are really fabulous,\Naren't they?
+Dialogue: 0,0:08:46.77,0:08:48.02,Default,,0000,0000,0000,,Do excuse us a little.
+Dialogue: 0,0:08:54.23,0:08:55.89,Default,,0000,0000,0000,,What the heck are you doing,\Nout of the blue like that?!
+Dialogue: 0,0:08:56.27,0:08:57.40,Default,,0000,0000,0000,,It’s women’s intuition.
+Dialogue: 0,0:08:57.85,0:08:59.60,Default,,0000,0000,0000,,I got the same vibe from him as Choji.
+Dialogue: 0,0:08:59.85,0:09:02.27,Default,,0000,0000,0000,,That word is probably taboo.
+Dialogue: 0,0:09:02.52,0:09:03.52,Default,,0000,0000,0000,,Oh, I see!
+Dialogue: 0,0:09:03.89,0:09:05.52,Default,,0000,0000,0000,,Gimme a break!
+Dialogue: 0,0:09:05.56,0:09:08.60,Default,,0000,0000,0000,,What’s up with that uselessly\Nintense chubby guy showing up
+Dialogue: 0,0:09:08.65,0:09:10.89,Default,,0000,0000,0000,,when she told us\Nhe’d be a handsome prince?!
+Dialogue: 0,0:09:11.40,0:09:13.89,Default,,0000,0000,0000,,But wouldn’t his physique\Nbe a perfect match for her?
+Dialogue: 0,0:09:13.98,0:09:15.89,Default,,0000,0000,0000,,I’m sure there must be some mistake.
+Dialogue: 0,0:09:16.02,0:09:18.73,Default,,0000,0000,0000,,There’s no way a girl\Nwould fall in love with a guy like that.
+Dialogue: 0,0:09:18.81,0:09:20.69,Default,,0000,0000,0000,,But maybe that’s\Nthe princess’ taste in men…
+Dialogue: 0,0:09:21.89,0:09:23.73,Default,,0000,0000,0000,,That’s impossible. I mean…
+Dialogue: 0,0:09:23.77,0:09:24.77,Default,,0000,0000,0000,,He’s flashy…!
+Dialogue: 0,0:09:24.81,0:09:25.81,Default,,0000,0000,0000,,Intense…!
+Dialogue: 0,0:09:25.85,0:09:26.85,Default,,0000,0000,0000,,And a fatso!
+Dialogue: 0,0:09:26.89,0:09:28.73,Default,,0000,0000,0000,,He’s a freak! A freak!
+Dialogue: 0,0:09:28.77,0:09:31.02,Default,,0000,0000,0000,,There’s gotta be a mistake!\NI’m sure of it!
+Dialogue: 0,0:09:31.69,0:09:32.89,Default,,0000,0000,0000,,Y-You think so?
+Dialogue: 0,0:09:35.10,0:09:36.77,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:09:37.48,0:09:43.19,Default,,0000,0000,0000,,There’s no mistake that that’s\NMaster Chikara, the man of my heart.
+Dialogue: 0,0:09:43.89,0:09:44.89,Default,,0000,0000,0000,,I thought so…
+Dialogue: 0,0:09:45.52,0:09:46.94,Default,,0000,0000,0000,,What an elegant man…
+Dialogue: 0,0:09:47.48,0:09:50.89,Default,,0000,0000,0000,,I deeply regret that I cannot see him\Nup close with my very own eyes.
+Dialogue: 0,0:09:51.52,0:09:53.65,Default,,0000,0000,0000,,I guess one could say that everybody\Nhas their own set of woes.
+Dialogue: 0,0:09:53.89,0:09:56.73,Default,,0000,0000,0000,,Listen, make sure that\Nhe takes a liking to me no matter what!
+Dialogue: 0,0:09:56.89,0:09:59.65,Default,,0000,0000,0000,,Stop complaining and get the ball rolling\Nwith dogged persistence!
+Dialogue: 0,0:10:00.94,0:10:02.19,Default,,0000,0000,0000,,I will convey that to her.
+Dialogue: 0,0:10:08.73,0:10:12.89,Default,,0000,0000,0000,,Has you tension not eased?\NMusic is good for relaxation.
+Dialogue: 0,0:10:15.44,0:10:17.27,Default,,0000,0000,0000,,Please, you need not go to the trouble…
+Dialogue: 0,0:10:17.89,0:10:20.89,Default,,0000,0000,0000,,– What did she say?\N– She said there’s no mistake.
+Dialogue: 0,0:10:20.89,0:10:23.44,Default,,0000,0000,0000,,She wants you to bulldoze on ahead!
+Dialogue: 0,0:10:24.02,0:10:25.19,Default,,0000,0000,0000,,I can’t believe it!
+Dialogue: 0,0:10:25.35,0:10:26.94,Default,,0000,0000,0000,,It’s our mission, you know!
+Dialogue: 0,0:10:27.56,0:10:29.31,Default,,0000,0000,0000,,I know that…
+Dialogue: 0,0:10:30.94,0:10:33.89,Default,,0000,0000,0000,,Princess Fuku…do you like roses?
+Dialogue: 0,0:10:34.48,0:10:36.27,Default,,0000,0000,0000,,Yes…very much so…
+Dialogue: 0,0:10:36.69,0:10:40.15,Default,,0000,0000,0000,,Great! 					I love roses too!
+Dialogue: 0,0:10:40.35,0:10:42.31,Default,,0000,0000,0000,,In the language of flowers,\Nthey signify love!
+Dialogue: 0,0:10:43.94,0:10:47.69,Default,,0000,0000,0000,,But don't their meanings\Ndiffer depending on their color?
+Dialogue: 0,0:10:48.06,0:10:50.89,Default,,0000,0000,0000,,For example, yellow roses are\Nsupposed to mean “Let’s break up”…
+Dialogue: 0,0:10:50.89,0:10:54.02,Default,,0000,0000,0000,,It’s nonsense to discriminate\Nbecause of color…
+Dialogue: 0,0:10:55.94,0:10:59.23,Default,,0000,0000,0000,,I mean the flowers\Nare not at fault, after all.
+Dialogue: 0,0:11:19.94,0:11:20.94,Default,,0000,0000,0000,,For you.
+Dialogue: 0,0:11:29.89,0:11:31.89,Default,,0000,0000,0000,,Hey…wait!
+Dialogue: 0,0:11:33.65,0:11:34.65,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:36.89,0:11:38.19,Default,,0000,0000,0000,,I can’t do it! I can’t do it!
+Dialogue: 0,0:11:38.23,0:11:40.23,Default,,0000,0000,0000,,There’s no way!\NHe’s too intense.
+Dialogue: 0,0:11:40.35,0:11:44.89,Default,,0000,0000,0000,,There’s no way I can act as\Na substitute for the princess!
+Dialogue: 0,0:11:45.06,0:11:48.15,Default,,0000,0000,0000,,Calm down.\NStop saying that and do your best.
+Dialogue: 0,0:11:48.35,0:11:49.94,Default,,0000,0000,0000,,Nope.\NI just can’t stand him physically.
+Dialogue: 0,0:11:50.89,0:11:51.89,Default,,0000,0000,0000,,Oh, I got it.
+Dialogue: 0,0:11:51.90,0:11:52.90,Default,,0000,0000,0000,,If you just think of him
+Dialogue: 0,0:11:52.94,0:11:54.89,Default,,0000,0000,0000,,– as a somewhat intense Choji…\N– Choji has fat on him
+Dialogue: 0,0:11:54.90,0:11:56.69,Default,,0000,0000,0000,,for the sake of his Ninjutsu…
+Dialogue: 0,0:11:56.89,0:11:59.89,Default,,0000,0000,0000,,I don’t have the slightest idea\Nwhat purpose that prince’s fat serves.
+Dialogue: 0,0:12:00.56,0:12:02.89,Default,,0000,0000,0000,,That’s a pretty severe opinion,\Nyou know…
+Dialogue: 0,0:12:03.23,0:12:04.90,Default,,0000,0000,0000,,I’m going off somewhere for a moment.
+Dialogue: 0,0:12:04.98,0:12:07.73,Default,,0000,0000,0000,,Huh? Hey, where are you going?!
+Dialogue: 0,0:12:08.27,0:12:10.69,Default,,0000,0000,0000,,Gimme a break, that girl’s a handful…
+Dialogue: 0,0:12:12.31,0:12:14.35,Default,,0000,0000,0000,,Well, this is for the sake of\Na mission after all.
+Dialogue: 0,0:12:14.89,0:12:18.73,Default,,0000,0000,0000,,I guess it’s about time for Naruto\Nto lend a helping hand!
+Dialogue: 0,0:12:23.56,0:12:24.98,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:12:25.27,0:12:29.10,Default,,0000,0000,0000,,I’m not judging you, but I think you\Nshould pass on that young prince.
+Dialogue: 0,0:12:29.77,0:12:32.89,Default,,0000,0000,0000,,There’s something wrong with his head.\NI’m positive!
+Dialogue: 0,0:12:33.15,0:12:37.89,Default,,0000,0000,0000,,What are you saying?\NHe’s a passionate and wonderful man!
+Dialogue: 0,0:12:37.94,0:12:38.94,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:12:39.44,0:12:41.94,Default,,0000,0000,0000,,I hired the Leaf to\Nprovide me with substitute for
+Dialogue: 0,0:12:41.98,0:12:44.31,Default,,0000,0000,0000,,the arranged courtship\Nand bring it to success.
+Dialogue: 0,0:12:44.89,0:12:46.73,Default,,0000,0000,0000,,You’re a professional Shinobi, right?
+Dialogue: 0,0:12:46.89,0:12:49.31,Default,,0000,0000,0000,,So I suggest you get on it\Nand get the job done!
+Dialogue: 0,0:12:50.73,0:12:53.90,Default,,0000,0000,0000,,The atmosphere in there\Nhasn’t been very congenial at all!
+Dialogue: 0,0:12:54.27,0:12:57.10,Default,,0000,0000,0000,,You need to be aggressive\Nin making yourself appealing to him!
+Dialogue: 0,0:12:58.56,0:13:00.31,Default,,0000,0000,0000,,I’m sorry to have\Nkept you waiting, Chikara!
+Dialogue: 0,0:13:00.44,0:13:02.60,Default,,0000,0000,0000,,That’s right!\NJust like that…huh?
+Dialogue: 0,0:13:02.89,0:13:03.89,Default,,0000,0000,0000,,That jerk…!
+Dialogue: 0,0:13:03.94,0:13:04.94,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:13:05.89,0:13:09.27,Default,,0000,0000,0000,,P-P-Princess?
+Dialogue: 0,0:13:13.27,0:13:18.10,Default,,0000,0000,0000,,Master Chikara… Could you loosen\Nmy sash for me, please?
+Dialogue: 0,0:13:18.48,0:13:20.19,Default,,0000,0000,0000,,But…but…
+Dialogue: 0,0:13:21.44,0:13:23.89,Default,,0000,0000,0000,,Please.
+Dialogue: 0,0:13:23.90,0:13:25.19,Default,,0000,0000,0000,,Oh my gosh!
+Dialogue: 0,0:13:25.40,0:13:28.65,Default,,0000,0000,0000,,There’s a creepy-crawler up here\Nunder the roof that looks like a sow bug!
+Dialogue: 0,0:13:30.89,0:13:32.52,Default,,0000,0000,0000,,Mind Destruction Jutsu!
+Dialogue: 0,0:13:34.48,0:13:36.40,Default,,0000,0000,0000,,A creepy-crawler\Nthat looks like a sow bug?
+Dialogue: 0,0:13:36.89,0:13:37.89,Default,,0000,0000,0000,,An insect?
+Dialogue: 0,0:13:38.10,0:13:39.56,Default,,0000,0000,0000,,Oh…she vanished…
+Dialogue: 0,0:13:40.15,0:13:42.27,Default,,0000,0000,0000,,What the heck are you thinking?!
+Dialogue: 0,0:13:42.89,0:13:44.35,Default,,0000,0000,0000,,Where is the princess?
+Dialogue: 0,0:13:44.40,0:13:45.40,Default,,0000,0000,0000,,I don’t know.
+Dialogue: 0,0:13:45.89,0:13:46.89,Default,,0000,0000,0000,,She vanished…
+Dialogue: 0,0:13:47.19,0:13:48.89,Default,,0000,0000,0000,,What is going on anyway?
+Dialogue: 0,0:13:49.73,0:13:53.81,Default,,0000,0000,0000,,This is starting to irritate me…\NI can’t get what’s happening from here.
+Dialogue: 0,0:13:54.31,0:13:57.81,Default,,0000,0000,0000,,Why are you meddling!\NI was just one step away!
+Dialogue: 0,0:13:58.19,0:14:01.89,Default,,0000,0000,0000,,What do you think you’re doing,\Ndressed up like Princess Fuku?!
+Dialogue: 0,0:14:02.23,0:14:03.27,Default,,0000,0000,0000,,I’m telling you!
+Dialogue: 0,0:14:03.31,0:14:05.10,Default,,0000,0000,0000,,In one of Pervy Sage’s books\Nhappened to glance at,
+Dialogue: 0,0:14:05.15,0:14:07.31,Default,,0000,0000,0000,,this is the kind of thing that worked.
+Dialogue: 0,0:14:07.73,0:14:10.56,Default,,0000,0000,0000,,I don’t believe that anyone would\Nuse such a garish advance!
+Dialogue: 0,0:14:12.60,0:14:13.60,Default,,0000,0000,0000,,That’s dirty!
+Dialogue: 0,0:14:13.69,0:14:15.40,Default,,0000,0000,0000,,There’s absolutely no way\Na type of guy like you
+Dialogue: 0,0:14:15.44,0:14:17.52,Default,,0000,0000,0000,,would ever be mistaken for\Nthe protagonist of a boy’s comic!
+Dialogue: 0,0:14:17.73,0:14:21.94,Default,,0000,0000,0000,,Huh! I was doing a way better job\Nthan you were!
+Dialogue: 0,0:14:25.10,0:14:26.10,Default,,0000,0000,0000,,Gimme a break…
+Dialogue: 0,0:14:26.85,0:14:27.85,Default,,0000,0000,0000,,Now that things have come to this,
+Dialogue: 0,0:14:27.89,0:14:30.89,Default,,0000,0000,0000,,I need to take care of business\Nbefore another meddler gets in the way!
+Dialogue: 0,0:14:32.31,0:14:35.69,Default,,0000,0000,0000,,Huh… You gotta be kidding…
+Dialogue: 0,0:14:35.90,0:14:40.15,Default,,0000,0000,0000,,It looks like my help is needed\Nif this mission is going to be a success.
+Dialogue: 0,0:14:42.23,0:14:44.85,Default,,0000,0000,0000,,Princess…\Nwhere in the world have you been?
+Dialogue: 0,0:14:46.31,0:14:51.27,Default,,0000,0000,0000,,Please forgive me. I was so nervous\NI just flew into a panic earlier on…
+Dialogue: 0,0:14:51.85,0:14:54.35,Default,,0000,0000,0000,,You really seemed like\Na totally different person.
+Dialogue: 0,0:14:54.89,0:14:56.23,Default,,0000,0000,0000,,I’m so sorry.
+Dialogue: 0,0:14:56.65,0:15:01.89,Default,,0000,0000,0000,,You were such a wonderful person,\Nthat it became almost unbearable…
+Dialogue: 0,0:15:02.15,0:15:04.81,Default,,0000,0000,0000,,Non. That is bad.
+Dialogue: 0,0:15:04.89,0:15:06.94,Default,,0000,0000,0000,,We must change\Nthe air in here then.
+Dialogue: 0,0:15:07.23,0:15:09.56,Default,,0000,0000,0000,,Oh, in that case, I will…
+Dialogue: 0,0:15:11.60,0:15:13.73,Default,,0000,0000,0000,,Hi… Chikara!
+Dialogue: 0,0:15:14.44,0:15:15.02,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:21.90,0:15:23.89,Default,,0000,0000,0000,,That just now,\Noutside the sliding paper door…
+Dialogue: 0,0:15:23.90,0:15:25.56,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:15:25.89,0:15:29.52,Default,,0000,0000,0000,,There was one more…princess!
+Dialogue: 0,0:15:30.89,0:15:33.10,Default,,0000,0000,0000,,That can’t be… Impossible.
+Dialogue: 0,0:15:33.60,0:15:35.94,Default,,0000,0000,0000,,INNER INO 							Naruto…!
+Dialogue: 0,0:15:36.23,0:15:40.06,Default,,0000,0000,0000,,But I’m very moved that\Nyou have such deep feelings for me
+Dialogue: 0,0:15:40.10,0:15:41.60,Default,,0000,0000,0000,,that you actually saw a vision…
+Dialogue: 0,0:15:41.65,0:15:44.48,Default,,0000,0000,0000,,Vision? No, I definitely saw…
+Dialogue: 0,0:15:44.52,0:15:45.89,Default,,0000,0000,0000,,You mustn’t look!
+Dialogue: 0,0:15:51.89,0:15:53.56,Default,,0000,0000,0000,,P-Princess?
+Dialogue: 0,0:15:53.73,0:15:55.89,Default,,0000,0000,0000,,Damn…I did that without thinking…
+Dialogue: 0,0:15:56.56,0:15:57.73,Default,,0000,0000,0000,,Oh goodness me…
+Dialogue: 0,0:15:57.89,0:16:01.89,Default,,0000,0000,0000,,In my ardent desire for\Nyou to look just at me, I…
+Dialogue: 0,0:16:02.10,0:16:04.89,Default,,0000,0000,0000,,What intense passion…
+Dialogue: 0,0:16:05.31,0:16:08.23,Default,,0000,0000,0000,,All right…\NAs you wish, princess.
+Dialogue: 0,0:16:09.06,0:16:11.65,Default,,0000,0000,0000,,– Huh? 					– Allow me to catch
+Dialogue: 0,0:16:11.69,0:16:13.48,Default,,0000,0000,0000,,those hot feelings in fine style!
+Dialogue: 0,0:16:13.85,0:16:15.19,Default,,0000,0000,0000,,Could this be…?
+Dialogue: 0,0:16:15.23,0:16:17.89,Default,,0000,0000,0000,,Come, don’t hold back.
+Dialogue: 0,0:16:18.89,0:16:19.98,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:16:27.65,0:16:29.89,Default,,0000,0000,0000,,You may not kiss him!\NNo kisses!
+Dialogue: 0,0:16:29.89,0:16:30.89,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:16:32.94,0:16:34.98,Default,,0000,0000,0000,,Goodness, you cannot\Nbe too careful these days!
+Dialogue: 0,0:16:35.52,0:16:37.90,Default,,0000,0000,0000,,Who told you that you could\Ngo as far as kissing him?!
+Dialogue: 0,0:16:37.98,0:16:40.10,Default,,0000,0000,0000,,Oh, it’s not that I wanted to…
+Dialogue: 0,0:16:40.35,0:16:42.02,Default,,0000,0000,0000,,I’d have to say that\Nyou actually came to my rescue.
+Dialogue: 0,0:16:42.65,0:16:43.89,Default,,0000,0000,0000,,Don’t bandy words with me!
+Dialogue: 0,0:16:44.27,0:16:47.94,Default,,0000,0000,0000,,Listen carefully, holding hands is\Nas much as I can concede to you…!
+Dialogue: 0,0:16:48.10,0:16:49.65,Default,,0000,0000,0000,,You’re too loud!
+Dialogue: 0,0:16:49.89,0:16:51.89,Default,,0000,0000,0000,,The princess vanished again.
+Dialogue: 0,0:16:51.89,0:16:53.35,Default,,0000,0000,0000,,– Princess! 					– Princess!
+Dialogue: 0,0:16:54.19,0:16:55.98,Default,,0000,0000,0000,,This isn’t good!\NI better hurry back.
+Dialogue: 0,0:16:56.23,0:16:58.40,Default,,0000,0000,0000,,Don’t try anything funny in there!
+Dialogue: 0,0:16:58.60,0:17:04.85,Default,,0000,0000,0000,,I know that! In any case, we can’t let him\Nsee the two of us together!
+Dialogue: 0,0:17:05.15,0:17:06.89,Default,,0000,0000,0000,,Hurry back to your room, Princess!
+Dialogue: 0,0:17:06.89,0:17:08.10,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:17:13.90,0:17:15.65,Default,,0000,0000,0000,,Gimme a break that Ino…
+Dialogue: 0,0:17:15.85,0:17:20.02,Default,,0000,0000,0000,,Dumping me in the lake like that.\NThanks to her I’m freezing!
+Dialogue: 0,0:17:23.89,0:17:26.19,Default,,0000,0000,0000,,This is bad! I gotta pee…\NGotta go!
+Dialogue: 0,0:17:26.65,0:17:28.27,Default,,0000,0000,0000,,I don’t know where\Nthe toilet is around here.
+Dialogue: 0,0:17:29.56,0:17:31.90,Default,,0000,0000,0000,,There’s nobody around…\NWell, it is an emergency situation after all.
+Dialogue: 0,0:17:35.94,0:17:36.94,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:17:37.90,0:17:41.81,Default,,0000,0000,0000,,W-W-What the heck do you think\Nyou’re doing over there looking like me?!
+Dialogue: 0,0:17:41.89,0:17:43.35,Default,,0000,0000,0000,,No…this is…um…
+Dialogue: 0,0:17:43.89,0:17:45.98,Default,,0000,0000,0000,,How shameless!\NStop that immediately!
+Dialogue: 0,0:17:46.02,0:17:47.02,Default,,0000,0000,0000,,I can’t stop it…
+Dialogue: 0,0:17:47.06,0:17:48.89,Default,,0000,0000,0000,,Do you not understand that\NI’m telling you to stop!
+Dialogue: 0,0:17:49.35,0:17:51.81,Default,,0000,0000,0000,,It’s impossible to stop so sudden!
+Dialogue: 0,0:17:55.10,0:17:56.10,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:00.89,0:18:03.31,Default,,0000,0000,0000,,Wait up!
+Dialogue: 0,0:18:07.65,0:18:11.15,Default,,0000,0000,0000,,I wasn’t quite\Nemotionally prepared earlier on…
+Dialogue: 0,0:18:11.73,0:18:15.06,Default,,0000,0000,0000,,However, the feelings I have\Nfor you in my heart are true.
+Dialogue: 0,0:18:15.52,0:18:16.52,Default,,0000,0000,0000,,Princess…
+Dialogue: 0,0:18:16.69,0:18:17.81,Default,,0000,0000,0000,,Master Chikara…
+Dialogue: 0,0:18:17.85,0:18:19.52,Default,,0000,0000,0000,,I have harbored a secret love for you\Nfor a long time.
+Dialogue: 0,0:18:22.06,0:18:23.89,Default,,0000,0000,0000,,Please, take me…
+Dialogue: 0,0:18:25.89,0:18:26.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:29.10,0:18:31.60,Default,,0000,0000,0000,,– I wonder what that sound is?\N– I have no idea…
+Dialogue: 0,0:18:34.89,0:18:35.89,Default,,0000,0000,0000,,Rain?
+Dialogue: 0,0:18:40.23,0:18:41.77,Default,,0000,0000,0000,,What a beautiful rainbow…
+Dialogue: 0,0:18:42.81,0:18:43.89,Default,,0000,0000,0000,,Stop, I say!
+Dialogue: 0,0:18:44.90,0:18:46.40,Default,,0000,0000,0000,,I told you, it’s impossible!
+Dialogue: 0,0:18:53.23,0:18:54.23,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:18:54.85,0:18:55.89,Default,,0000,0000,0000,,Princess?!
+Dialogue: 0,0:18:58.48,0:19:00.52,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:19:00.85,0:19:02.81,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:19:02.94,0:19:04.60,Default,,0000,0000,0000,,Forgive me for this one, please!
+Dialogue: 0,0:19:04.77,0:19:06.10,Default,,0000,0000,0000,,I won’t forgive you!
+Dialogue: 0,0:19:06.19,0:19:09.15,Default,,0000,0000,0000,,Look what you’ve done!
+Dialogue: 0,0:19:09.19,0:19:10.19,Default,,0000,0000,0000,,Ouch… Stop!
+Dialogue: 0,0:19:10.23,0:19:12.06,Default,,0000,0000,0000,,What in the world is going on?!
+Dialogue: 0,0:19:12.35,0:19:15.44,Default,,0000,0000,0000,,Oh no!… 					Umm…this is, well…
+Dialogue: 0,0:19:15.89,0:19:20.02,Default,,0000,0000,0000,,All right, that’s enough…\NWe can't fake it any longer.
+Dialogue: 0,0:19:20.73,0:19:27.23,Default,,0000,0000,0000,,I apologize for having hoodwinked you.\NI am…the bona fide Fuku.
+Dialogue: 0,0:19:27.69,0:19:30.81,Default,,0000,0000,0000,,You mean to say that\Nthe princess up to now was an imposter?
+Dialogue: 0,0:19:30.89,0:19:32.73,Default,,0000,0000,0000,,That is correct.
+Dialogue: 0,0:19:32.89,0:19:36.02,Default,,0000,0000,0000,,What is the meaning of all this?
+Dialogue: 0,0:19:36.98,0:19:40.48,Default,,0000,0000,0000,,I wouldn’t have imagined that\Nthings would come to such a finale!
+Dialogue: 0,0:19:40.52,0:19:42.48,Default,,0000,0000,0000,,No, that’s not correct, Master Chikara!
+Dialogue: 0,0:19:42.89,0:19:43.89,Default,,0000,0000,0000,,Out of my way!
+Dialogue: 0,0:19:45.56,0:19:50.85,Default,,0000,0000,0000,,The super body I fantasized about\Nin my dreams! My ideal personified!
+Dialogue: 0,0:19:50.89,0:19:52.02,Default,,0000,0000,0000,,Bravo!
+Dialogue: 0,0:19:52.31,0:19:53.31,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:20:01.65,0:20:05.89,Default,,0000,0000,0000,,My cute princess. Please marry me!
+Dialogue: 0,0:20:06.19,0:20:08.40,Default,,0000,0000,0000,,I’m delighted, Master Chikara!
+Dialogue: 0,0:20:08.44,0:20:12.19,Default,,0000,0000,0000,,Hail the future wife!
+Dialogue: 0,0:20:14.65,0:20:16.56,Default,,0000,0000,0000,,What is this anyway…?
+Dialogue: 0,0:20:16.69,0:20:20.52,Default,,0000,0000,0000,,Somehow it seems like our mission\Nturned out to be success in the end…
+Dialogue: 0,0:20:20.89,0:20:21.89,Default,,0000,0000,0000,,I think?
+Dialogue: 0,0:20:22.44,0:20:26.89,Default,,0000,0000,0000,,Could it be? I put all my efforts\Nin making advances on a guy
+Dialogue: 0,0:20:26.89,0:20:29.65,Default,,0000,0000,0000,,who’s not my type in the least\Nand got rejected.
+Dialogue: 0,0:20:29.69,0:20:33.89,Default,,0000,0000,0000,,Moreover,\Nit was a totally wasted effort…
+Dialogue: 0,0:20:33.89,0:20:34.89,Default,,0000,0000,0000,,Is that what happened?
+Dialogue: 0,0:20:38.89,0:20:42.15,Default,,0000,0000,0000,,But, everything turned out well.\NSo isn’t it okay?
+Dialogue: 0,0:20:42.52,0:20:44.35,Default,,0000,0000,0000,,And both of them look so happy together…
+Dialogue: 0,0:20:44.60,0:20:48.98,Default,,0000,0000,0000,,That’s not the problem!\NA damsel’s heart has been wounded…
+Dialogue: 0,0:20:49.10,0:20:52.89,Default,,0000,0000,0000,,I can’t believe that, of all things,\NI was brushed off by a guy like that…
+Dialogue: 0,0:20:52.90,0:20:55.89,Default,,0000,0000,0000,,He didn’t even glance in your direction\Nat the end there.
+Dialogue: 0,0:20:56.06,0:20:58.23,Default,,0000,0000,0000,,Stop it! Don’t remind me.
+Dialogue: 0,0:20:59.15,0:21:01.81,Default,,0000,0000,0000,,You can never knows\Nwhat a person likes, can you?
+Dialogue: 0,0:21:02.10,0:21:04.35,Default,,0000,0000,0000,,Nope…\Nthere’s no way I’ll acknowledge that!
+Dialogue: 0,0:21:04.73,0:21:08.69,Default,,0000,0000,0000,,A man’s got to like a slender girl better!
+Dialogue: 0,0:21:09.27,0:21:11.06,Default,,0000,0000,0000,,In order to become\Neven more of a woman,
+Dialogue: 0,0:21:11.10,0:21:13.10,Default,,0000,0000,0000,,I’m going on a diet! On a diet!
+Dialogue: 0,0:21:13.65,0:21:15.06,Default,,0000,0000,0000,,Wait…wait up!
+Dialogue: 0,0:21:41.69,0:21:43.94,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:43.98,0:21:46.56,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.60,0:21:50.94,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.48,0:21:54.10,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.73,0:21:58.89,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.65,0:22:05.69,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.73,0:22:09.81,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:12.19,0:22:17.19,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.23,0:22:22.40,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:50.98,0:22:55.52,Default,,0000,0000,0000,,Naruto, let’s make some\Nbittersweet memories of youth together!
+Dialogue: 0,0:22:55.56,0:22:57.56,Default,,0000,0000,0000,,– Huh? 					– No need to be shy.
+Dialogue: 0,0:22:57.60,0:23:00.31,Default,,0000,0000,0000,,I am ready both in mind and body!
+Dialogue: 0,0:23:00.35,0:23:01.89,Default,,0000,0000,0000,,What are you blabbing about\Nall of a sudden?!
+Dialogue: 0,0:23:01.90,0:23:02.90,Default,,0000,0000,0000,,It was long…
+Dialogue: 0,0:23:02.94,0:23:05.35,Default,,0000,0000,0000,,To think how much\NI’ve waited for this moment!
+Dialogue: 0,0:23:05.40,0:23:07.81,Default,,0000,0000,0000,,I have no idea what you’re talking about!
+Dialogue: 0,0:23:07.85,0:23:11.89,Default,,0000,0000,0000,,Here I come Naruto!\NPlease become my first.
+Dialogue: 0,0:23:11.89,0:23:12.89,Default,,0000,0000,0000,,Just a minute.
+Dialogue: 0,0:23:13.89,0:23:17.10,Default,,0000,0000,0000,,Next Time: “Viva Dojo Challenge!\NYouth is all about Passion!”

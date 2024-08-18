@@ -1,0 +1,298 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.60,0:00:09.77,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.89,0:00:18.02,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.27,0:00:20.31,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.27,0:00:27.02,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:27.06,0:00:30.56,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.77,0:00:34.27,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.69,0:00:37.94,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.98,0:00:45.56,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.60,0:00:54.81,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.85,0:01:02.89,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:03.02,0:01:09.89,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.90,0:01:18.02,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.35,0:01:26.89,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.89,0:01:28.89,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:51.35,0:01:52.89,Default,,0000,0000,0000,,– Start the operation!\N– Start the operation!
+Dialogue: 0,0:01:53.77,0:01:59.73,Default,,0000,0000,0000,,Zero Hour!\NThe Destruction of\N		the Hidden Leaf Village Begins!
+Dialogue: 0,0:02:10.02,0:02:10.90,Default,,0000,0000,0000,,Lord Hokage!
+Dialogue: 0,0:02:11.69,0:02:12.27,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:02:15.15,0:02:17.65,Default,,0000,0000,0000,,Lord Kazekage!\NWhat is going on?
+Dialogue: 0,0:02:21.94,0:02:22.94,Default,,0000,0000,0000,,Lord Hokage!
+Dialogue: 0,0:02:26.77,0:02:27.69,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:02:31.31,0:02:32.27,Default,,0000,0000,0000,,Squad One, above.
+Dialogue: 0,0:02:32.44,0:02:34.85,Default,,0000,0000,0000,,Squad Two, below!\NProtect the lords!
+Dialogue: 0,0:02:42.89,0:02:43.81,Default,,0000,0000,0000,,You’re in the way!
+Dialogue: 0,0:03:00.56,0:03:05.02,Default,,0000,0000,0000,,Lord Hokage… 					Please…flee…
+Dialogue: 0,0:03:26.19,0:03:27.85,Default,,0000,0000,0000,,It’s finally our time to\Ncome on the scene.
+Dialogue: 0,0:03:28.10,0:03:30.35,Default,,0000,0000,0000,,We’ve been transformed\Nsuch a long time.
+Dialogue: 0,0:03:30.40,0:03:33.06,Default,,0000,0000,0000,,I’m totally pent up with frustration.
+Dialogue: 0,0:03:33.52,0:03:35.89,Default,,0000,0000,0000,,You guys smell all sweaty!
+Dialogue: 0,0:03:36.10,0:03:38.65,Default,,0000,0000,0000,,Come on, we’re all comrades, right…?
+Dialogue: 0,0:03:39.89,0:03:41.10,Default,,0000,0000,0000,,Sound Ninja…!
+Dialogue: 0,0:03:44.40,0:03:45.10,Default,,0000,0000,0000,,Raido…
+Dialogue: 0,0:03:45.89,0:03:47.27,Default,,0000,0000,0000,,We’re heading out to\Nback up Lord Hokage.
+Dialogue: 0,0:03:47.31,0:03:48.31,Default,,0000,0000,0000,,Be careful of any traps!
+Dialogue: 0,0:03:50.40,0:03:50.94,Default,,0000,0000,0000,,Do it…
+Dialogue: 0,0:03:52.02,0:03:52.89,Default,,0000,0000,0000,,Yes sir!
+Dialogue: 0,0:03:55.19,0:03:56.10,Default,,0000,0000,0000,,– Ninja Art! 					– Ninja Art!
+Dialogue: 0,0:03:56.15,0:03:57.31,Default,,0000,0000,0000,,– Four Flames Formation!\N– Four Flames Formation!
+Dialogue: 0,0:04:08.02,0:04:08.89,Default,,0000,0000,0000,,Barrier…!
+Dialogue: 0,0:04:18.52,0:04:19.98,Default,,0000,0000,0000,,Lord Kazekage…
+Dialogue: 0,0:04:23.81,0:04:25.44,Default,,0000,0000,0000,,Barrier Ninjutsu, huh?!
+Dialogue: 0,0:04:26.44,0:04:27.89,Default,,0000,0000,0000,,To think that they could outwit Anbu…
+Dialogue: 0,0:04:28.85,0:04:30.02,Default,,0000,0000,0000,,They're not just ordinary…
+Dialogue: 0,0:04:33.73,0:04:35.94,Default,,0000,0000,0000,,What are you doing here?!\NLord Hokage is in danger!
+Dialogue: 0,0:04:45.94,0:04:48.31,Default,,0000,0000,0000,,What a nuisance…
+Dialogue: 0,0:04:48.52,0:04:51.19,Default,,0000,0000,0000,,To think that the enemy was\Nmasquerading as our Anbu…
+Dialogue: 0,0:04:52.44,0:04:54.31,Default,,0000,0000,0000,,So it was also that guy\Nwho used Genjutsu!
+Dialogue: 0,0:04:54.90,0:04:57.06,Default,,0000,0000,0000,,Yeah…there’s no mistake.
+Dialogue: 0,0:05:00.40,0:05:01.81,Default,,0000,0000,0000,,I didn’t expect that…
+Dialogue: 0,0:05:02.40,0:05:04.89,Default,,0000,0000,0000,,Sand Village would betray Leaf Village.
+Dialogue: 0,0:05:05.90,0:05:10.73,Default,,0000,0000,0000,,The treaty is simply a camouflage to\Nmake the enemy let down their guard.
+Dialogue: 0,0:05:11.19,0:05:14.06,Default,,0000,0000,0000,,The petty little battle game ends now.
+Dialogue: 0,0:05:14.90,0:05:17.77,Default,,0000,0000,0000,,From this point on, the course\Nof history will change!
+Dialogue: 0,0:05:19.23,0:05:22.89,Default,,0000,0000,0000,,Are you saying that\Nyou’re starting a war?
+Dialogue: 0,0:05:24.02,0:05:25.19,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:05:26.23,0:05:28.89,Default,,0000,0000,0000,,One should avoid resolution\Nthrough armed force
+Dialogue: 0,0:05:28.90,0:05:32.31,Default,,0000,0000,0000,,and should rather seek\Na solution through negotiations.
+Dialogue: 0,0:05:33.06,0:05:36.89,Default,,0000,0000,0000,,There’s still time…Lord Kazekage!
+Dialogue: 0,0:05:41.81,0:05:44.89,Default,,0000,0000,0000,,Perhaps one gets addicted to\Npeace as one grows older…
+Dialogue: 0,0:05:45.89,0:05:47.73,Default,,0000,0000,0000,,Sarutobi Sensei!
+Dialogue: 0,0:05:50.89,0:05:52.10,Default,,0000,0000,0000,,You’re…
+Dialogue: 0,0:06:01.77,0:06:03.27,Default,,0000,0000,0000,,Just my bad luck…
+Dialogue: 0,0:06:03.65,0:06:05.27,Default,,0000,0000,0000,,to have lookout duty\Non a day like this.
+Dialogue: 0,0:06:05.90,0:06:08.89,Default,,0000,0000,0000,,I wanted to watch Chunin Exam too.
+Dialogue: 0,0:06:09.40,0:06:10.40,Default,,0000,0000,0000,,Stop fussing.
+Dialogue: 0,0:06:10.73,0:06:12.89,Default,,0000,0000,0000,,The Chunin Exam takes\Nplace twice a year.
+Dialogue: 0,0:06:13.02,0:06:14.89,Default,,0000,0000,0000,,You’ll have many more chances\Nto see it.
+Dialogue: 0,0:06:15.02,0:06:19.10,Default,,0000,0000,0000,,But this year, that kid from\Nthe Uchiha Clan is taking part, right?
+Dialogue: 0,0:06:19.31,0:06:20.94,Default,,0000,0000,0000,,And I won’t have\Na chance to see that…
+Dialogue: 0,0:06:21.89,0:06:23.52,Default,,0000,0000,0000,,I won’t be able to die peacefully.
+Dialogue: 0,0:06:25.65,0:06:26.23,Default,,0000,0000,0000,,What’s that?!
+Dialogue: 0,0:06:42.52,0:06:44.65,Default,,0000,0000,0000,,It’s time! Begin!
+Dialogue: 0,0:06:52.77,0:06:55.06,Default,,0000,0000,0000,,The Summoning has succeeded.
+Dialogue: 0,0:06:59.89,0:07:00.89,Default,,0000,0000,0000,,Huge boa!
+Dialogue: 0,0:07:01.35,0:07:02.94,Default,,0000,0000,0000,,Notify Lord Hokage immediately!
+Dialogue: 0,0:07:19.89,0:07:20.89,Default,,0000,0000,0000,,I’m not letting you in the village!
+Dialogue: 0,0:07:34.15,0:07:35.19,Default,,0000,0000,0000,,Dispatch the reinforcements immediately!
+Dialogue: 0,0:07:35.48,0:07:35.98,Default,,0000,0000,0000,,Yes sir!
+Dialogue: 0,0:07:49.02,0:07:49.89,Default,,0000,0000,0000,,Sand Ninja!
+Dialogue: 0,0:07:55.02,0:07:56.44,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:07:57.06,0:07:57.94,Default,,0000,0000,0000,,Stop that, Gaara!
+Dialogue: 0,0:07:59.89,0:08:02.65,Default,,0000,0000,0000,,I’ll kill him…!
+Dialogue: 0,0:08:05.06,0:08:07.52,Default,,0000,0000,0000,,There’s no meaning in\Ncontinuing this fight!
+Dialogue: 0,0:08:07.56,0:08:09.19,Default,,0000,0000,0000,,Don’t forget our mission!
+Dialogue: 0,0:08:10.89,0:08:11.69,Default,,0000,0000,0000,,Out of my way…!
+Dialogue: 0,0:08:13.89,0:08:15.56,Default,,0000,0000,0000,,What are you guys doing?!
+Dialogue: 0,0:08:16.19,0:08:18.31,Default,,0000,0000,0000,,The operation is already underway!
+Dialogue: 0,0:08:32.89,0:08:35.10,Default,,0000,0000,0000,,What in the world is going on?
+Dialogue: 0,0:08:38.10,0:08:38.89,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:08:40.40,0:08:41.10,Default,,0000,0000,0000,,What’s the matter?!
+Dialogue: 0,0:08:44.15,0:08:45.73,Default,,0000,0000,0000,,His wound is deeper than\NI thought!
+Dialogue: 0,0:08:46.31,0:08:48.89,Default,,0000,0000,0000,,And moreover his Chakra\Nis pretty drained!
+Dialogue: 0,0:08:49.35,0:08:51.19,Default,,0000,0000,0000,,In that case,\Nwhat about using that thing…?
+Dialogue: 0,0:08:52.02,0:08:53.15,Default,,0000,0000,0000,,That’s impossible to do right away!
+Dialogue: 0,0:08:53.52,0:08:55.89,Default,,0000,0000,0000,,Idiot! It’s all because\Nyou didn’t wait for the signal
+Dialogue: 0,0:08:55.89,0:08:57.98,Default,,0000,0000,0000,,and tried to become\Nthe Perfect Possession…
+Dialogue: 0,0:08:58.23,0:08:59.89,Default,,0000,0000,0000,,What should we do?!
+Dialogue: 0,0:09:00.19,0:09:01.89,Default,,0000,0000,0000,,Are you saying we have to do\Nthis without Gaara?
+Dialogue: 0,0:09:15.10,0:09:16.40,Default,,0000,0000,0000,,Isn’t Gaara here yet?!
+Dialogue: 0,0:09:22.89,0:09:25.81,Default,,0000,0000,0000,,Gaara is Sand’s trump card.
+Dialogue: 0,0:09:26.40,0:09:29.19,Default,,0000,0000,0000,,We have to get Gaara to do his work,\Nno matter what!
+Dialogue: 0,0:09:29.89,0:09:33.60,Default,,0000,0000,0000,,You guys leave for the moment and\Ntend to Gaara’s wounds!
+Dialogue: 0,0:09:34.27,0:09:36.40,Default,,0000,0000,0000,,As soon as Gaara’s Chakra has\Nbeen restored…
+Dialogue: 0,0:09:36.77,0:09:38.31,Default,,0000,0000,0000,,the operation will recommence!
+Dialogue: 0,0:09:38.94,0:09:39.89,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:09:42.89,0:09:43.89,Default,,0000,0000,0000,,What about you, Sensei?!
+Dialogue: 0,0:09:44.35,0:09:46.48,Default,,0000,0000,0000,,I’m gonna suppress those guys!
+Dialogue: 0,0:09:48.19,0:09:51.40,Default,,0000,0000,0000,,Do you think things will\Ngo according to your plan?
+Dialogue: 0,0:09:52.85,0:09:55.02,Default,,0000,0000,0000,,I’ll make them so…
+Dialogue: 0,0:10:10.81,0:10:11.44,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:10:12.85,0:10:13.31,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:20.89,0:10:23.89,Default,,0000,0000,0000,,Is Orochimaru the host of this party?
+Dialogue: 0,0:10:25.81,0:10:30.60,Default,,0000,0000,0000,,Dunno… In any case,\Nlet’s heat this thing up.
+Dialogue: 0,0:10:37.60,0:10:38.52,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:10:40.10,0:10:43.89,Default,,0000,0000,0000,,Sorry, but the Chunin Exam ends here.
+Dialogue: 0,0:10:45.89,0:10:47.90,Default,,0000,0000,0000,,You’ve already achieved Chunin level.
+Dialogue: 0,0:10:48.89,0:10:52.06,Default,,0000,0000,0000,,If you’re a Leaf Shinobi,\Nbe of service to the Leaf!
+Dialogue: 0,0:10:53.48,0:10:56.23,Default,,0000,0000,0000,,In other words, I’m supposed to\Ntake down that jerk Gaara, right?
+Dialogue: 0,0:10:56.52,0:10:57.89,Default,,0000,0000,0000,,A continuation of earlier on, right?
+Dialogue: 0,0:10:58.27,0:10:59.56,Default,,0000,0000,0000,,Don’t pursue too far.
+Dialogue: 0,0:10:59.89,0:11:02.89,Default,,0000,0000,0000,,From here on, it’s no longer an exam.\Nlt’s the real thing!
+Dialogue: 0,0:11:03.81,0:11:05.89,Default,,0000,0000,0000,,What I have to do though…\Nis the same!
+Dialogue: 0,0:11:07.89,0:11:08.89,Default,,0000,0000,0000,,I won’t let him through!
+Dialogue: 0,0:11:22.35,0:11:23.27,Default,,0000,0000,0000,,Sasuke…!
+Dialogue: 0,0:11:25.89,0:11:27.10,Default,,0000,0000,0000,,Boy oh boy…
+Dialogue: 0,0:11:27.73,0:11:32.06,Default,,0000,0000,0000,,We intended to take Sasuke\Nwhile Gaara was causing the trouble.
+Dialogue: 0,0:11:33.06,0:11:36.90,Default,,0000,0000,0000,,But not everything goes as planned.
+Dialogue: 0,0:11:38.73,0:11:41.73,Default,,0000,0000,0000,,I see… Is that so?
+Dialogue: 0,0:11:42.69,0:11:47.89,Default,,0000,0000,0000,,So Leaf Village and…\NSasuke were the target, huh?
+Dialogue: 0,0:11:48.73,0:11:51.15,Default,,0000,0000,0000,,Is the Leaf such a big catch?
+Dialogue: 0,0:11:51.98,0:11:55.90,Default,,0000,0000,0000,,More importantly,\Nif Gaara wakes up,
+Dialogue: 0,0:11:56.02,0:11:59.19,Default,,0000,0000,0000,,I’ll be able to show you something\Nmuch more interesting.
+Dialogue: 0,0:11:59.69,0:12:01.40,Default,,0000,0000,0000,,Well, anyway…
+Dialogue: 0,0:12:01.90,0:12:05.85,Default,,0000,0000,0000,,Your thick-headedness has caused\Nthe Leaf to be outmaneuvered.
+Dialogue: 0,0:12:06.65,0:12:08.23,Default,,0000,0000,0000,,It’s my win.
+Dialogue: 0,0:12:09.89,0:12:12.94,Default,,0000,0000,0000,,Nothing is decided\Nuntil the very end.
+Dialogue: 0,0:12:13.56,0:12:15.89,Default,,0000,0000,0000,,I believe that’s what I taught you…
+Dialogue: 0,0:12:24.94,0:12:26.52,Default,,0000,0000,0000,,Orochimaru.
+Dialogue: 0,0:12:31.81,0:12:35.89,Default,,0000,0000,0000,,I thought this day would\Neventually arrive.
+Dialogue: 0,0:12:36.89,0:12:37.89,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:12:38.90,0:12:42.77,Default,,0000,0000,0000,,You won’t get my head that easily!
+Dialogue: 0,0:12:44.44,0:12:45.89,Default,,0000,0000,0000,,I told you, didn’t I?
+Dialogue: 0,0:12:46.23,0:12:49.89,Default,,0000,0000,0000,,It is preferable to decide\Nthe Fifth Hokage quickly…
+Dialogue: 0,0:12:50.44,0:12:51.89,Default,,0000,0000,0000,,Third Hokage…
+Dialogue: 0,0:12:52.60,0:12:56.35,Default,,0000,0000,0000,,because you will…die here.
+Dialogue: 0,0:13:13.85,0:13:16.89,Default,,0000,0000,0000,,I wonder how the Chunin Exams\Nare going?
+Dialogue: 0,0:13:17.89,0:13:20.65,Default,,0000,0000,0000,,I wonder if Naruto’s match is over yet?
+Dialogue: 0,0:13:21.94,0:13:24.69,Default,,0000,0000,0000,,The first match was\Nwith Neji, right?
+Dialogue: 0,0:13:25.94,0:13:27.94,Default,,0000,0000,0000,,I want him to win that\Nmatch somehow or other.
+Dialogue: 0,0:13:28.77,0:13:29.85,Default,,0000,0000,0000,,That’s no good!
+Dialogue: 0,0:13:29.89,0:13:32.10,Default,,0000,0000,0000,,A teacher mustn’t root for\None particular student!
+Dialogue: 0,0:13:32.15,0:13:34.10,Default,,0000,0000,0000,,All the graduating students\Nare dear to him!
+Dialogue: 0,0:13:34.15,0:13:35.98,Default,,0000,0000,0000,,I must root for all of them equally!
+Dialogue: 0,0:13:40.44,0:13:44.89,Default,,0000,0000,0000,,But I still…want Naruto to win…
+Dialogue: 0,0:13:45.89,0:13:47.85,Default,,0000,0000,0000,,Are you worried about Naruto?
+Dialogue: 0,0:13:47.89,0:13:49.40,Default,,0000,0000,0000,,Well, of course…!
+Dialogue: 0,0:13:51.60,0:13:52.81,Default,,0000,0000,0000,,As I thought…
+Dialogue: 0,0:13:54.10,0:13:56.15,Default,,0000,0000,0000,,Y-You guys…
+Dialogue: 0,0:13:57.56,0:13:59.89,Default,,0000,0000,0000,,I told you to do ten laps around\Nthe school grounds, didn’t I?!
+Dialogue: 0,0:14:00.44,0:14:02.40,Default,,0000,0000,0000,,We finished that long ago.
+Dialogue: 0,0:14:02.89,0:14:05.10,Default,,0000,0000,0000,,While you were daydreaming, Sensei.
+Dialogue: 0,0:14:07.19,0:14:10.89,Default,,0000,0000,0000,,When our teacher is in that state,\Nhe can’t teach a class!
+Dialogue: 0,0:14:11.23,0:14:13.52,Default,,0000,0000,0000,,So let’s call it quits for today!
+Dialogue: 0,0:14:13.73,0:14:17.15,Default,,0000,0000,0000,,N-No, no!\NI’m continuing with class.
+Dialogue: 0,0:14:20.65,0:14:22.52,Default,,0000,0000,0000,,I wonder what that smoke is…?
+Dialogue: 0,0:14:24.81,0:14:26.52,Default,,0000,0000,0000,,That’s coming from the direction\Nof the exam arena…
+Dialogue: 0,0:14:28.90,0:14:31.31,Default,,0000,0000,0000,,Isn’t there some disturbance\Nto the east?
+Dialogue: 0,0:14:32.19,0:14:34.27,Default,,0000,0000,0000,,I wonder if something happened?
+Dialogue: 0,0:14:39.77,0:14:40.89,Default,,0000,0000,0000,,That Orochimaru…
+Dialogue: 0,0:14:41.77,0:14:42.56,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:14:42.73,0:14:44.19,Default,,0000,0000,0000,,Should we send reinforcements?
+Dialogue: 0,0:14:44.56,0:14:47.89,Default,,0000,0000,0000,,No… It’s dangerous to make a move\Nwhen we don't really know
+Dialogue: 0,0:14:47.89,0:14:48.94,Default,,0000,0000,0000,,what the situation is.
+Dialogue: 0,0:14:49.31,0:14:51.89,Default,,0000,0000,0000,,If the mastermind is Orochimaru…
+Dialogue: 0,0:14:51.98,0:14:52.90,Default,,0000,0000,0000,,even more so.
+Dialogue: 0,0:14:54.65,0:14:58.44,Default,,0000,0000,0000,,Is Orochimaru…\Nthat dangerous a guy?
+Dialogue: 0,0:14:59.44,0:15:03.35,Default,,0000,0000,0000,,Originally…he was a student\Nof the Third Hokage.
+Dialogue: 0,0:15:03.89,0:15:06.48,Default,,0000,0000,0000,,So why did he become a Rogue Ninja?
+Dialogue: 0,0:15:07.40,0:15:11.52,Default,,0000,0000,0000,,Long ago, when the Fourth Hokage\Nwas decided…
+Dialogue: 0,0:15:12.60,0:15:16.23,Default,,0000,0000,0000,,Orochimaru apparently asserted that\Nhe was capable of taking on that role.
+Dialogue: 0,0:15:17.35,0:15:18.81,Default,,0000,0000,0000,,But his request was denied.
+Dialogue: 0,0:15:20.44,0:15:23.60,Default,,0000,0000,0000,,And shortly afterwards,\Nthat guy slipped out of this village.
+Dialogue: 0,0:15:24.48,0:15:26.85,Default,,0000,0000,0000,,Orochimaru most likely holds\Na grudge against
+Dialogue: 0,0:15:26.89,0:15:28.65,Default,,0000,0000,0000,,the Third Hokage because of that.
+Dialogue: 0,0:15:29.89,0:15:31.23,Default,,0000,0000,0000,,Revenge…is it?
+Dialogue: 0,0:15:31.77,0:15:32.77,Default,,0000,0000,0000,,Probably.
+Dialogue: 0,0:15:34.15,0:15:35.89,Default,,0000,0000,0000,,Long ago, when I was a kid…
+Dialogue: 0,0:15:37.23,0:15:40.81,Default,,0000,0000,0000,,there’s one thing I remember\Nthinking when I saw that guy…
+Dialogue: 0,0:15:46.15,0:15:48.35,Default,,0000,0000,0000,,That he didn’t seem human…
+Dialogue: 0,0:15:48.90,0:15:52.15,Default,,0000,0000,0000,,That he seems to be something\Nthat just took on a human form…
+Dialogue: 0,0:15:54.23,0:15:55.27,Default,,0000,0000,0000,,Frightening…
+Dialogue: 0,0:15:57.15,0:15:59.89,Default,,0000,0000,0000,,Simply…frightening.
+Dialogue: 0,0:16:03.89,0:16:04.60,Default,,0000,0000,0000,,Reporting!
+Dialogue: 0,0:16:05.40,0:16:07.52,Default,,0000,0000,0000,,A large boa has appeared near\Nthe eastern gate of the Leaf Village!
+Dialogue: 0,0:16:07.89,0:16:11.35,Default,,0000,0000,0000,,And behind it, some one hundred\NSand Ninja are infiltrating the country!
+Dialogue: 0,0:16:11.89,0:16:13.89,Default,,0000,0000,0000,,They are currently engaged in\Narmed conflict with our Shinobi
+Dialogue: 0,0:16:13.89,0:16:14.69,Default,,0000,0000,0000,,who were patrolling nearby!
+Dialogue: 0,0:16:15.56,0:16:16.35,Default,,0000,0000,0000,,The Sand…?!
+Dialogue: 0,0:16:18.89,0:16:21.69,Default,,0000,0000,0000,,Leave Squad One and Two behind\Nand make for the eastern gate.
+Dialogue: 0,0:16:21.89,0:16:22.44,Default,,0000,0000,0000,,Immediately!
+Dialogue: 0,0:16:22.89,0:16:23.48,Default,,0000,0000,0000,,– Yes sir! 					– Yes sir!
+Dialogue: 0,0:16:34.89,0:16:36.69,Default,,0000,0000,0000,,We won’t let you past this point!
+Dialogue: 0,0:16:52.31,0:16:53.89,Default,,0000,0000,0000,,There’s quite a large number.
+Dialogue: 0,0:16:53.89,0:16:55.06,Default,,0000,0000,0000,,We were careless!
+Dialogue: 0,0:16:55.60,0:16:57.60,Default,,0000,0000,0000,,And even Lord Hokage has been…
+Dialogue: 0,0:16:58.98,0:17:01.89,Default,,0000,0000,0000,,Kakashi! Look inside the Barrier!
+Dialogue: 0,0:17:02.31,0:17:02.89,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:03.65,0:17:04.48,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:17:10.89,0:17:11.73,Default,,0000,0000,0000,,Orochimaru!
+Dialogue: 0,0:17:13.40,0:17:14.27,Default,,0000,0000,0000,,Orochimaru?!
+Dialogue: 0,0:17:15.98,0:17:17.15,Default,,0000,0000,0000,,Why is that guy…?
+Dialogue: 0,0:17:18.81,0:17:20.85,Default,,0000,0000,0000,,Don’t tell me that\Nthey’re after Sasuke again?!
+Dialogue: 0,0:17:22.60,0:17:23.35,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:17:25.73,0:17:26.48,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:27.31,0:17:28.60,Default,,0000,0000,0000,,He’s not there…?
+Dialogue: 0,0:17:41.35,0:17:43.89,Default,,0000,0000,0000,,Sakura, stay there for a while.
+Dialogue: 0,0:17:44.81,0:17:45.89,Default,,0000,0000,0000,,I’m gonna go reduce\Nthe number of enemies.
+Dialogue: 0,0:18:17.27,0:18:20.31,Default,,0000,0000,0000,,Darn! I’m worried about\NLord Hokage, but…
+Dialogue: 0,0:18:20.89,0:18:22.06,Default,,0000,0000,0000,,Leave above to Anbu.
+Dialogue: 0,0:18:22.89,0:18:23.81,Default,,0000,0000,0000,,Besides…
+Dialogue: 0,0:18:24.10,0:18:27.85,Default,,0000,0000,0000,,Lord Hokage isn’t the kind of guy\Nwho can be taken down that easily.
+Dialogue: 0,0:18:29.31,0:18:29.89,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:18:30.89,0:18:36.06,Default,,0000,0000,0000,,After all, he is the Hokage of\Nthe Village Hidden in the Leaves.
+Dialogue: 0,0:18:46.44,0:18:49.60,Default,,0000,0000,0000,,Are you so happy, you’re crying?
+Dialogue: 0,0:18:50.60,0:18:51.56,Default,,0000,0000,0000,,Or…
+Dialogue: 0,0:18:52.27,0:18:59.40,Default,,0000,0000,0000,,do you have an iota of sadness\Nin your heart to kill me, your teacher?
+Dialogue: 0,0:19:01.23,0:19:01.98,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:19:18.89,0:19:21.19,Default,,0000,0000,0000,,Since earlier on, I was feeling so sleepy…
+Dialogue: 0,0:19:21.48,0:19:23.60,Default,,0000,0000,0000,,but I’m finally awake.
+Dialogue: 0,0:19:25.35,0:19:27.94,Default,,0000,0000,0000,,That’s what I thought.
+Dialogue: 0,0:19:32.23,0:19:36.89,Default,,0000,0000,0000,,I know you aren’t someone\Nwho would hold a grudge.
+Dialogue: 0,0:19:37.02,0:19:40.77,Default,,0000,0000,0000,,You have neither a goal nor motive.
+Dialogue: 0,0:19:40.98,0:19:43.40,Default,,0000,0000,0000,,Hmm… I guess…
+Dialogue: 0,0:19:44.15,0:19:46.69,Default,,0000,0000,0000,,I do kind of have a goal.
+Dialogue: 0,0:19:47.35,0:19:48.94,Default,,0000,0000,0000,,If I were to explain it…
+Dialogue: 0,0:19:50.35,0:19:53.73,Default,,0000,0000,0000,,It’s interesting to watch things\Nthat move.
+Dialogue: 0,0:19:54.44,0:19:57.77,Default,,0000,0000,0000,,I get no pleasure if\Nsomething doesn’t move.
+Dialogue: 0,0:19:58.44,0:20:00.69,Default,,0000,0000,0000,,Like a windmill that doesn’t turn…
+Dialogue: 0,0:20:01.15,0:20:05.06,Default,,0000,0000,0000,,Well, it may have some kind\Nof appeal once in a while.
+Dialogue: 0,0:20:05.40,0:20:08.06,Default,,0000,0000,0000,,But usually,\Nit’s not worth looking at it.
+Dialogue: 0,0:20:09.44,0:20:13.60,Default,,0000,0000,0000,,Right now…with a wind called\N“Destroy the Leaf Village,”
+Dialogue: 0,0:20:13.65,0:20:16.10,Default,,0000,0000,0000,,I want to turn that windmill.
+Dialogue: 0,0:20:18.52,0:20:20.89,Default,,0000,0000,0000,,You’re the same as always…
+Dialogue: 0,0:20:38.40,0:20:39.15,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:20:40.89,0:20:43.89,Default,,0000,0000,0000,,It was worth teaching you Genjutsu\Nsurvival training
+Dialogue: 0,0:20:43.89,0:20:45.35,Default,,0000,0000,0000,,during the Genin Exam.
+Dialogue: 0,0:20:45.98,0:20:48.89,Default,,0000,0000,0000,,You truly have a talent for it.
+Dialogue: 0,0:20:49.31,0:20:49.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:50.94,0:20:53.90,Default,,0000,0000,0000,,Release the Genjutsu and\Nwake up Naruto and Shikamaru!
+Dialogue: 0,0:20:59.69,0:21:01.85,Default,,0000,0000,0000,,Naruto will be delighted.
+Dialogue: 0,0:21:02.89,0:21:04.10,Default,,0000,0000,0000,,He’ll be getting a mission\Nafter such a long while.
+Dialogue: 0,0:21:05.89,0:21:06.90,Default,,0000,0000,0000,,What do you mean by a mission?
+Dialogue: 0,0:21:07.81,0:21:09.06,Default,,0000,0000,0000,,Be careful…
+Dialogue: 0,0:21:10.89,0:21:13.89,Default,,0000,0000,0000,,It’s the first A-ranked mission\Nsince the Land of the Waves.
+Dialogue: 0,0:21:20.10,0:21:30.23,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:21:30.73,0:21:41.56,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:51.65,0:21:57.23,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:57.27,0:22:02.35,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:02.77,0:22:07.69,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:07.73,0:22:12.89,Default,,0000,0000,0000,,Let’s go carve the badges in our chest\NYes, it’s Show Time, life begins now.
+Dialogue: 0,0:22:12.89,0:22:22.98,Default,,0000,0000,0000,,Everyone makes mistakes\N It’s nothing to be ashamed about
+Dialogue: 0,0:22:23.31,0:22:33.89,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:33.89,0:22:44.44,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:44.48,0:22:49.98,Default,,0000,0000,0000,,Forge on strong\N264.01	02:38:02:02	02:38:05:10	Yes! I've been waiting for this!
+Dialogue: 0,0:23:06.65,0:23:09.35,Default,,0000,0000,0000,,Finally, it’s the first A-Ranked mission\Nin a while!
+Dialogue: 0,0:23:09.56,0:23:11.15,Default,,0000,0000,0000,,Listen, Sakura and Shikamaru!
+Dialogue: 0,0:23:11.19,0:23:13.89,Default,,0000,0000,0000,,As long as I’m with you,\Nit will be an easy one.
+Dialogue: 0,0:23:14.10,0:23:16.81,Default,,0000,0000,0000,,I’m the super hero who\Ncan wake a sleeping lion.
+Dialogue: 0,0:23:16.85,0:23:21.94,Default,,0000,0000,0000,,Just keep watching\NMr. Naruto’s stellar performance!
+Dialogue: 0,0:23:22.69,0:23:25.90,Default,,0000,0000,0000,,Next time: “Village in Distress:\NA New A-Ranked Mission!”
+Dialogue: 0,0:23:26.10,0:23:27.89,Default,,0000,0000,0000,,Let’s go! Let’s go! Let’s go!

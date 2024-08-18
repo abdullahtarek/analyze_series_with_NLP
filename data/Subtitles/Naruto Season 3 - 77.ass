@@ -1,0 +1,294 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.52,0:00:09.69,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.85,0:00:17.94,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.19,0:00:20.23,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.19,0:00:26.94,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:26.98,0:00:30.48,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.69,0:00:34.19,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.60,0:00:37.89,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.90,0:00:45.48,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.52,0:00:54.73,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.77,0:01:02.89,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.94,0:01:09.89,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.89,0:01:17.94,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.27,0:01:26.89,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.89,0:01:28.89,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:53.44,0:01:54.48,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:02:02.40,0:02:05.98,Default,,0000,0000,0000,,Darn it! Things will really be bad\Nif it stays like this…!
+Dialogue: 0,0:02:09.89,0:02:10.81,Default,,0000,0000,0000,,I’ll have to…
+Dialogue: 0,0:02:13.65,0:02:17.23,Default,,0000,0000,0000,,I’ll have to save…\Neveryone for sure!
+Dialogue: 0,0:02:18.35,0:02:24.23,Default,,0000,0000,0000,,Light vs. Dark:\NThe Two Faces of Gaara!
+Dialogue: 0,0:02:36.15,0:02:38.89,Default,,0000,0000,0000,,So you’ll fight for the sake of others?!
+Dialogue: 0,0:02:40.73,0:02:42.90,Default,,0000,0000,0000,,That’s why you guys are\Nonly at that level!
+Dialogue: 0,0:02:43.44,0:02:45.73,Default,,0000,0000,0000,,You don’t need a reason to fight!
+Dialogue: 0,0:02:47.60,0:02:51.31,Default,,0000,0000,0000,,Only the one who remains undefeated\Ncan actually feel his own existence!
+Dialogue: 0,0:02:51.89,0:02:54.98,Default,,0000,0000,0000,,Come on, forget about\Nyour insignificant friends
+Dialogue: 0,0:02:55.02,0:02:57.73,Default,,0000,0000,0000,,and fight only for the sake\Nof your own existence!
+Dialogue: 0,0:02:58.44,0:02:59.48,Default,,0000,0000,0000,,Insignificant…
+Dialogue: 0,0:03:01.40,0:03:02.65,Default,,0000,0000,0000,,friends?
+Dialogue: 0,0:03:05.27,0:03:09.10,Default,,0000,0000,0000,,Those who hold silly sentiments\Nabout fighting
+Dialogue: 0,0:03:09.44,0:03:10.56,Default,,0000,0000,0000,,should just die!
+Dialogue: 0,0:03:10.89,0:03:12.98,Default,,0000,0000,0000,,I'm sick of listening to you talk!
+Dialogue: 0,0:03:13.90,0:03:15.89,Default,,0000,0000,0000,,I'll clobber you for sure!
+Dialogue: 0,0:03:19.56,0:03:22.52,Default,,0000,0000,0000,,You guys misunderstand real strength!
+Dialogue: 0,0:03:23.44,0:03:24.89,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:04:16.65,0:04:18.94,Default,,0000,0000,0000,,W-Why…? Why is it?!
+Dialogue: 0,0:04:19.81,0:04:21.77,Default,,0000,0000,0000,,Why Yashamaru…?
+Dialogue: 0,0:04:22.40,0:04:24.31,Default,,0000,0000,0000,,Why did you, why…?
+Dialogue: 0,0:04:27.94,0:04:29.52,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:04:30.35,0:04:31.73,Default,,0000,0000,0000,,Love is…
+Dialogue: 0,0:04:31.77,0:04:34.98,Default,,0000,0000,0000,,a heart that desires to serve\Na precious person who is close to oneself,
+Dialogue: 0,0:04:35.27,0:04:37.65,Default,,0000,0000,0000,,to love and watch over that person.
+Dialogue: 0,0:04:38.15,0:04:39.56,Default,,0000,0000,0000,,Just like my older sister did.
+Dialogue: 0,0:04:42.89,0:04:46.89,Default,,0000,0000,0000,,You are a precious person\Nwho is close to me, Gaara!
+Dialogue: 0,0:04:48.94,0:04:54.27,Default,,0000,0000,0000,,Always…\Nonly Yashamaru would always…
+Dialogue: 0,0:04:54.65,0:04:56.23,Default,,0000,0000,0000,,Me…always me…
+Dialogue: 0,0:04:58.89,0:04:59.94,Default,,0000,0000,0000,,It was an order.
+Dialogue: 0,0:05:02.89,0:05:06.27,Default,,0000,0000,0000,,I was commissioned to kill you…
+Dialogue: 0,0:05:09.69,0:05:10.98,Default,,0000,0000,0000,,By your father…
+Dialogue: 0,0:05:12.56,0:05:13.65,Default,,0000,0000,0000,,Lord Kazekage.
+Dialogue: 0,0:05:17.27,0:05:18.48,Default,,0000,0000,0000,,My father…?
+Dialogue: 0,0:05:27.02,0:05:29.23,Default,,0000,0000,0000,,Why did my father…?
+Dialogue: 0,0:05:29.56,0:05:30.89,Default,,0000,0000,0000,,Why…? Why me?
+Dialogue: 0,0:05:32.56,0:05:36.02,Default,,0000,0000,0000,,Gaara, you who were born and possessed\Nby the Sand Spirit Shukaku…
+Dialogue: 0,0:05:36.89,0:05:40.81,Default,,0000,0000,0000,,have been watched over\Nas an experiment.
+Dialogue: 0,0:05:43.19,0:05:47.35,Default,,0000,0000,0000,,However, Gaara, you couldn’t\Ncontrol the living spirit Shukaku,
+Dialogue: 0,0:05:47.40,0:05:51.02,Default,,0000,0000,0000,,the Sand Spirit which possesses\Nthe power of the sand.
+Dialogue: 0,0:05:51.98,0:05:56.27,Default,,0000,0000,0000,,Eventually your existence would\Nbecome too dangerous for the village.
+Dialogue: 0,0:05:58.89,0:06:00.23,Default,,0000,0000,0000,,Before that occurred…
+Dialogue: 0,0:06:03.40,0:06:05.81,Default,,0000,0000,0000,,So Yashamaru, you had not choice…
+Dialogue: 0,0:06:06.19,0:06:07.94,Default,,0000,0000,0000,,but to comply with my father’s order…?
+Dialogue: 0,0:06:09.89,0:06:12.31,Default,,0000,0000,0000,,No… That is not correct.
+Dialogue: 0,0:06:14.77,0:06:17.52,Default,,0000,0000,0000,,It is true I accepted\NLord Kazekage’s order.
+Dialogue: 0,0:06:18.48,0:06:22.31,Default,,0000,0000,0000,,But if I had wanted to turn it down,\NI could have turned it down.
+Dialogue: 0,0:06:25.52,0:06:26.52,Default,,0000,0000,0000,,Gaara…
+Dialogue: 0,0:06:27.89,0:06:32.10,Default,,0000,0000,0000,,Deep down in my heart,\NI probably…
+Dialogue: 0,0:06:33.89,0:06:34.94,Default,,0000,0000,0000,,hated you.
+Dialogue: 0,0:06:36.52,0:06:39.27,Default,,0000,0000,0000,,You, whose birth took the life\Nof my beloved older sister.
+Dialogue: 0,0:06:39.89,0:06:41.98,Default,,0000,0000,0000,,The child she left behind in death…
+Dialogue: 0,0:06:42.89,0:06:49.52,Default,,0000,0000,0000,,Thinking that you were her remembrance,\NI tried desperately to love you.
+Dialogue: 0,0:06:50.31,0:06:52.89,Default,,0000,0000,0000,,However… I was not able to.
+Dialogue: 0,0:06:53.90,0:06:57.10,Default,,0000,0000,0000,,My sister didn’t choose to have you.
+Dialogue: 0,0:06:58.19,0:07:00.56,Default,,0000,0000,0000,,My sister became a sacrifice\Nfor the village,
+Dialogue: 0,0:07:00.85,0:07:03.15,Default,,0000,0000,0000,,and she died while\Ncursing this village!
+Dialogue: 0,0:07:04.94,0:07:06.85,Default,,0000,0000,0000,,From that time, I probably…
+Dialogue: 0,0:07:07.06,0:07:10.89,Default,,0000,0000,0000,,have been burdened with a wound\Nof the heart that could never heal.
+Dialogue: 0,0:07:11.89,0:07:15.10,Default,,0000,0000,0000,,Unlike a wound on the body,\Nthere is no ointment and sometimes,
+Dialogue: 0,0:07:15.15,0:07:17.48,Default,,0000,0000,0000,,it doesn’t heal for one’s entire life.
+Dialogue: 0,0:07:19.27,0:07:20.85,Default,,0000,0000,0000,,A wound of the heart?
+Dialogue: 0,0:07:24.60,0:07:27.90,Default,,0000,0000,0000,,Your name…\Nis the name my sister gave you.
+Dialogue: 0,0:07:31.02,0:07:33.19,Default,,0000,0000,0000,,"This child’s name is Gaara…
+Dialogue: 0,0:07:33.89,0:07:35.77,Default,,0000,0000,0000,,"A devil that loves only itself…
+Dialogue: 0,0:07:36.02,0:07:37.89,Default,,0000,0000,0000,,"Love only yourself…
+Dialogue: 0,0:07:38.89,0:07:41.89,Default,,0000,0000,0000,,"And fight only for\Nyour own sake.
+Dialogue: 0,0:07:42.89,0:07:45.81,Default,,0000,0000,0000,,"If you do that,\Nyou will continue to exist."
+Dialogue: 0,0:07:46.06,0:07:48.23,Default,,0000,0000,0000,,Such was the hope it contained.
+Dialogue: 0,0:07:48.89,0:07:49.81,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:07:49.98,0:07:52.31,Default,,0000,0000,0000,,my sister did not give you this name
+Dialogue: 0,0:07:52.35,0:07:55.06,Default,,0000,0000,0000,,because she was concerned\Nabout you or loved you.
+Dialogue: 0,0:07:55.44,0:07:59.85,Default,,0000,0000,0000,,The reason she gave you this name,\Na name so you would continue to exist…
+Dialogue: 0,0:08:02.19,0:08:04.48,Default,,0000,0000,0000,,…was so that the deep-seated hatred\Nof my sister
+Dialogue: 0,0:08:04.52,0:08:07.48,Default,,0000,0000,0000,,who died hating and cursing\Nthis village…
+Dialogue: 0,0:08:09.19,0:08:11.31,Default,,0000,0000,0000,,would remain…
+Dialogue: 0,0:08:13.89,0:08:15.77,Default,,0000,0000,0000,,and be known to all!
+Dialogue: 0,0:08:32.35,0:08:36.40,Default,,0000,0000,0000,,You were never…loved!
+Dialogue: 0,0:08:45.77,0:08:46.56,Default,,0000,0000,0000,,This is the last…
+Dialogue: 0,0:08:48.73,0:08:49.89,Default,,0000,0000,0000,,Please die…
+Dialogue: 0,0:09:19.69,0:09:23.65,Default,,0000,0000,0000,,I believe that my sister loved you, Gaara.
+Dialogue: 0,0:09:24.73,0:09:25.85,Default,,0000,0000,0000,,Love?
+Dialogue: 0,0:09:32.69,0:09:37.77,Default,,0000,0000,0000,,The sand automatically trying to\Nprotect you is like the love of a mother.
+Dialogue: 0,0:09:38.19,0:09:42.89,Default,,0000,0000,0000,,I believe that sand is filled\Nwith your mother’s will.
+Dialogue: 0,0:09:50.31,0:09:51.48,Default,,0000,0000,0000,,Love.
+Dialogue: 0,0:10:38.35,0:10:40.65,Default,,0000,0000,0000,,Love only yourself.
+Dialogue: 0,0:10:40.94,0:10:44.77,Default,,0000,0000,0000,,And fight only for your own sake.
+Dialogue: 0,0:10:45.89,0:10:48.65,Default,,0000,0000,0000,,So that is Gaara…\NThat is me.
+Dialogue: 0,0:10:49.23,0:10:50.89,Default,,0000,0000,0000,,I finally understand.
+Dialogue: 0,0:10:52.89,0:10:54.23,Default,,0000,0000,0000,,I am alone.
+Dialogue: 0,0:10:55.06,0:10:58.31,Default,,0000,0000,0000,,I will no longer believe in anyone…\Nor love anyone.
+Dialogue: 0,0:10:59.90,0:11:01.40,Default,,0000,0000,0000,,I am alone!
+Dialogue: 0,0:11:06.65,0:11:09.52,Default,,0000,0000,0000,,Yes, I am all by myself.
+Dialogue: 0,0:11:25.89,0:11:28.60,Default,,0000,0000,0000,,What’s the matter?\NHurry up and come at me!
+Dialogue: 0,0:11:28.89,0:11:32.44,Default,,0000,0000,0000,,Don't you care what happens\Nto your so-called precious friends?!
+Dialogue: 0,0:11:34.89,0:11:35.65,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:11:39.89,0:11:40.89,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:11:42.06,0:11:43.89,Default,,0000,0000,0000,,Naruto’s not his usual self…
+Dialogue: 0,0:11:44.85,0:11:47.15,Default,,0000,0000,0000,,Did something happen between them?
+Dialogue: 0,0:11:48.15,0:11:49.19,Default,,0000,0000,0000,,In any case…
+Dialogue: 0,0:11:49.65,0:11:51.94,Default,,0000,0000,0000,,In any case,\NI need to save Sakura!
+Dialogue: 0,0:11:53.02,0:11:55.27,Default,,0000,0000,0000,,But… what to do?!
+Dialogue: 0,0:11:57.52,0:11:58.85,Default,,0000,0000,0000,,That’s it!
+Dialogue: 0,0:11:59.10,0:12:01.89,Default,,0000,0000,0000,,Since it's come to this…\NThough it's gonna use up a lot of Chakra…
+Dialogue: 0,0:12:03.89,0:12:07.44,Default,,0000,0000,0000,,There’s no choice\Nbut to summon the Chief Gamabunta!
+Dialogue: 0,0:12:12.81,0:12:14.23,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:12:23.02,0:12:24.85,Default,,0000,0000,0000,,What’s this?! You’re a little kid!
+Dialogue: 0,0:12:25.06,0:12:27.23,Default,,0000,0000,0000,,If you want something from me,\Ngive me some snack!
+Dialogue: 0,0:12:27.69,0:12:29.90,Default,,0000,0000,0000,,If you don’t, I won’t play with you!
+Dialogue: 0,0:12:30.06,0:12:33.69,Default,,0000,0000,0000,,You know something?\NI hate you frogs!
+Dialogue: 0,0:12:33.73,0:12:36.89,Default,,0000,0000,0000,,What did you say?!\NDon’t make fun of amphibians! Really!
+Dialogue: 0,0:12:37.89,0:12:41.65,Default,,0000,0000,0000,,Jeez, I don’t have time to\Nplay with you, little squirt!
+Dialogue: 0,0:12:44.19,0:12:46.02,Default,,0000,0000,0000,,Darn! Why is it…?
+Dialogue: 0,0:12:46.06,0:12:49.89,Default,,0000,0000,0000,,I practiced for so long, but with this,\Nthere’s no other way…
+Dialogue: 0,0:12:50.73,0:12:52.69,Default,,0000,0000,0000,,I need to save everyone!
+Dialogue: 0,0:12:53.98,0:12:56.27,Default,,0000,0000,0000,,Everyone…you say?
+Dialogue: 0,0:12:56.60,0:12:57.89,Default,,0000,0000,0000,,Don’t make me laugh.
+Dialogue: 0,0:12:58.35,0:13:01.40,Default,,0000,0000,0000,,I fight…only for myself!
+Dialogue: 0,0:13:06.77,0:13:09.10,Default,,0000,0000,0000,,He…he’s transforming again!
+Dialogue: 0,0:13:12.89,0:13:16.89,Default,,0000,0000,0000,,If you don’t take me down,\Nthe sand over this girl won’t fall away!
+Dialogue: 0,0:13:17.35,0:13:20.60,Default,,0000,0000,0000,,Not only that, as time passes…
+Dialogue: 0,0:13:20.65,0:13:23.94,Default,,0000,0000,0000,,this sand will slowly squeeze tighter\Nand eventually suffocate this girl!
+Dialogue: 0,0:13:25.44,0:13:26.48,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:13:27.48,0:13:29.89,Default,,0000,0000,0000,,He’s getting closer and closer\Nto being a Perfect Possession.
+Dialogue: 0,0:13:30.89,0:13:33.15,Default,,0000,0000,0000,,That Jutsu hasn’t been activated yet,
+Dialogue: 0,0:13:33.60,0:13:35.31,Default,,0000,0000,0000,,but at this rate, I’ll also be…!
+Dialogue: 0,0:13:40.15,0:13:41.06,Default,,0000,0000,0000,,Those eyes…
+Dialogue: 0,0:13:42.81,0:13:44.19,Default,,0000,0000,0000,,Sand Shuriken!
+Dialogue: 0,0:13:57.77,0:13:59.44,Default,,0000,0000,0000,,You’re…really weak!
+Dialogue: 0,0:14:00.02,0:14:00.89,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:01.52,0:14:03.10,Default,,0000,0000,0000,,But what is that guy?
+Dialogue: 0,0:14:22.06,0:14:25.69,Default,,0000,0000,0000,,You’re persistent…\NSarutobi Sensei!
+Dialogue: 0,0:14:28.98,0:14:30.65,Default,,0000,0000,0000,,I-It doesn’t move?!
+Dialogue: 0,0:14:32.56,0:14:34.44,Default,,0000,0000,0000,,Y-You hard-to-kill fools!
+Dialogue: 0,0:14:37.23,0:14:40.10,Default,,0000,0000,0000,,Do you still not understand, Orochimaru?
+Dialogue: 0,0:14:41.89,0:14:44.52,Default,,0000,0000,0000,,The Leaf Village is my home!
+Dialogue: 0,0:14:44.89,0:14:48.65,Default,,0000,0000,0000,,I told you I am the pillar\Nof that house!
+Dialogue: 0,0:14:49.10,0:14:54.15,Default,,0000,0000,0000,,That’s why I’m saying\NI will break that pillar!
+Dialogue: 0,0:14:54.31,0:14:56.19,Default,,0000,0000,0000,,As long as the people of the village
+Dialogue: 0,0:14:56.23,0:15:00.77,Default,,0000,0000,0000,,fiercely fight to protect\Ntheir dear comrades,
+Dialogue: 0,0:15:00.81,0:15:04.69,Default,,0000,0000,0000,,the pillar of the Leaf Village will not\Nbe broken by the likes of you!
+Dialogue: 0,0:15:04.90,0:15:06.89,Default,,0000,0000,0000,,I wonder about that.
+Dialogue: 0,0:15:08.27,0:15:10.40,Default,,0000,0000,0000,,Do not underestimate the Hokage!
+Dialogue: 0,0:15:13.69,0:15:14.69,Default,,0000,0000,0000,,I-Impossible…!
+Dialogue: 0,0:15:15.15,0:15:19.52,Default,,0000,0000,0000,,Where is…?\NMost of your Chakra should be gone!
+Dialogue: 0,0:15:19.89,0:15:24.89,Default,,0000,0000,0000,,Chakra and Ninjutsu are\Nnot all there is to strength!
+Dialogue: 0,0:15:28.89,0:15:30.89,Default,,0000,0000,0000,,W-What lonely eyes…
+Dialogue: 0,0:15:32.15,0:15:34.77,Default,,0000,0000,0000,,Such lonely eyes…
+Dialogue: 0,0:15:36.90,0:15:41.81,Default,,0000,0000,0000,,This guy is also turning into a monster…\Nthe same as me.
+Dialogue: 0,0:15:50.90,0:15:53.31,Default,,0000,0000,0000,,I hated every last one of them.
+Dialogue: 0,0:15:54.06,0:15:55.85,Default,,0000,0000,0000,,I didn’t understand who I was,
+Dialogue: 0,0:15:55.89,0:16:00.60,Default,,0000,0000,0000,,why I was so hated,\Nwhy I even existed.
+Dialogue: 0,0:16:01.35,0:16:02.73,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:16:03.10,0:16:07.90,Default,,0000,0000,0000,,you’re the Nine-Tailed Fox who killed\Nlruka’s parents and ruined the village!
+Dialogue: 0,0:16:08.89,0:16:12.19,Default,,0000,0000,0000,,You’ve been deceived by everyone\Nin the village all along!
+Dialogue: 0,0:16:12.90,0:16:13.89,Default,,0000,0000,0000,,I…
+Dialogue: 0,0:16:14.31,0:16:16.89,Default,,0000,0000,0000,,When I learned that the\NNine-Tailed Fox was inside me,
+Dialogue: 0,0:16:17.27,0:16:19.89,Default,,0000,0000,0000,,everyone in the village seemed\Neven more cold-hearted…
+Dialogue: 0,0:16:20.85,0:16:23.65,Default,,0000,0000,0000,,I was so deeply troubled…
+Dialogue: 0,0:16:25.94,0:16:26.89,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:16:29.65,0:16:32.60,Default,,0000,0000,0000,,Naruto! Let’s go have\Nramen for a change!
+Dialogue: 0,0:16:32.89,0:16:34.94,Default,,0000,0000,0000,,Yay! I will, I will!
+Dialogue: 0,0:16:35.27,0:16:37.27,Default,,0000,0000,0000,,I’ll have the one with\Nextra BBQ pork slices!
+Dialogue: 0,0:16:37.90,0:16:41.90,Default,,0000,0000,0000,,Huh! You loser…\Nlf you want to beat me train harder!
+Dialogue: 0,0:16:42.10,0:16:45.15,Default,,0000,0000,0000,,Shut up! I won’t lose to you!
+Dialogue: 0,0:16:45.89,0:16:49.19,Default,,0000,0000,0000,,Hey Naruto!\NWhat did Sasuke say about me?
+Dialogue: 0,0:16:49.52,0:16:50.89,Default,,0000,0000,0000,,He didn’t say anything…
+Dialogue: 0,0:16:51.56,0:16:55.15,Default,,0000,0000,0000,,By the way! By the way!\NWouldn't you rather know how I feel…?
+Dialogue: 0,0:16:55.19,0:16:57.27,Default,,0000,0000,0000,,Oh! Really, Sakura!
+Dialogue: 0,0:16:58.89,0:17:00.69,Default,,0000,0000,0000,,I’m gonna eat now!
+Dialogue: 0,0:17:01.52,0:17:06.02,Default,,0000,0000,0000,,Um… Naruto, you’ll really die if you eat\Nonly noodles and sweet red bean porridge.
+Dialogue: 0,0:17:06.60,0:17:08.89,Default,,0000,0000,0000,,You’re a Ninja,\Nso eat more vegetables!
+Dialogue: 0,0:17:09.19,0:17:10.52,Default,,0000,0000,0000,,Here, have some!
+Dialogue: 0,0:17:10.56,0:17:13.35,Default,,0000,0000,0000,,What?! I don’t like vegetables!
+Dialogue: 0,0:17:14.69,0:17:17.56,Default,,0000,0000,0000,,People appeared\N who acknowledged me…
+Dialogue: 0,0:17:17.89,0:17:19.35,Default,,0000,0000,0000,,That’s why I became all right,
+Dialogue: 0,0:17:19.89,0:17:22.35,Default,,0000,0000,0000,,even though there was\Nthe demon fox inside my body,
+Dialogue: 0,0:17:22.40,0:17:25.89,Default,,0000,0000,0000,,or even if the people of the village\Nlooked at me with cold eyes.
+Dialogue: 0,0:17:26.48,0:17:29.69,Default,,0000,0000,0000,,Because…\NI wasn’t alone anymore!
+Dialogue: 0,0:17:30.90,0:17:34.60,Default,,0000,0000,0000,,I never imagined how happy and\Nfortunate I could feel.
+Dialogue: 0,0:17:35.69,0:17:37.89,Default,,0000,0000,0000,,How really…really…
+Dialogue: 0,0:17:38.73,0:17:39.89,Default,,0000,0000,0000,,great it was.
+Dialogue: 0,0:17:40.52,0:17:41.90,Default,,0000,0000,0000,,How truly great it was\Nto be here.
+Dialogue: 0,0:17:42.60,0:17:46.69,Default,,0000,0000,0000,,I was relieved to know\NI am allowed to be here, to exist!
+Dialogue: 0,0:17:48.81,0:17:51.52,Default,,0000,0000,0000,,That’s why it scares me\Nto think about the past…
+Dialogue: 0,0:17:51.89,0:17:53.89,Default,,0000,0000,0000,,That suffering is agonizing…
+Dialogue: 0,0:17:55.19,0:17:56.94,Default,,0000,0000,0000,,It’s a pitch-black hell!
+Dialogue: 0,0:17:57.89,0:18:00.69,Default,,0000,0000,0000,,If…I had remained that way, all alone…
+Dialogue: 0,0:18:03.31,0:18:05.89,Default,,0000,0000,0000,,That’s precisely why I understand!
+Dialogue: 0,0:18:07.65,0:18:11.65,Default,,0000,0000,0000,,So what did I have in this life,\Nwhy did I keep living?
+Dialogue: 0,0:18:12.89,0:18:14.56,Default,,0000,0000,0000,,This is the answer I came to…
+Dialogue: 0,0:18:14.94,0:18:19.60,Default,,0000,0000,0000,,I am living in order to kill\Nhuman beings other than myself.
+Dialogue: 0,0:18:21.06,0:18:23.15,Default,,0000,0000,0000,,I don’t know what happened, but…
+Dialogue: 0,0:18:23.90,0:18:27.19,Default,,0000,0000,0000,,This guy’s always been\Nsuffering all alone…
+Dialogue: 0,0:18:27.89,0:18:29.69,Default,,0000,0000,0000,,Even now, without ever feeling relief…
+Dialogue: 0,0:18:29.90,0:18:33.15,Default,,0000,0000,0000,,Only able to believe in himself…
+Dialogue: 0,0:18:33.98,0:18:36.69,Default,,0000,0000,0000,,Even now, he’s battling in hell…
+Dialogue: 0,0:18:37.40,0:18:38.35,Default,,0000,0000,0000,,That’s how it is…
+Dialogue: 0,0:18:38.85,0:18:41.90,Default,,0000,0000,0000,,To him, someone like me\Nwho's acknowledged by others…
+Dialogue: 0,0:18:42.06,0:18:46.35,Default,,0000,0000,0000,,might seem like a weakling in\Na world of happiness without tension…
+Dialogue: 0,0:18:48.10,0:18:50.89,Default,,0000,0000,0000,,Can I really win against\Na guy like this?
+Dialogue: 0,0:18:53.89,0:18:56.90,Default,,0000,0000,0000,,What’s the matter?!\NAre you afraid of me?
+Dialogue: 0,0:18:57.48,0:19:01.44,Default,,0000,0000,0000,,To fight for the sake of oneself?\NTo fight for the sake of others?
+Dialogue: 0,0:19:01.89,0:19:06.48,Default,,0000,0000,0000,,You should just love yourself,\Nand fight for yourself!
+Dialogue: 0,0:19:06.89,0:19:10.23,Default,,0000,0000,0000,,That is the definition of\Nthe strongest one!
+Dialogue: 0,0:19:11.56,0:19:13.06,Default,,0000,0000,0000,,Now fight me!
+Dialogue: 0,0:19:13.40,0:19:15.35,Default,,0000,0000,0000,,What happened to\Nthe boldness you had earlier?!
+Dialogue: 0,0:19:15.89,0:19:20.27,Default,,0000,0000,0000,,Show me your strength!\NI’ll throw that strength to the ground!
+Dialogue: 0,0:19:22.40,0:19:26.89,Default,,0000,0000,0000,,Now what’s the matter?!\Nlf you don’t fight me, I’ll kill that girl!
+Dialogue: 0,0:19:29.89,0:19:31.48,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:19:34.56,0:19:36.65,Default,,0000,0000,0000,,Multi-Shadow Clone Jutsu!
+Dialogue: 0,0:19:39.81,0:19:40.89,Default,,0000,0000,0000,,Wind Style!
+Dialogue: 0,0:19:42.89,0:19:45.89,Default,,0000,0000,0000,,Infinite Sandstorm Devastation!
+Dialogue: 0,0:19:52.69,0:19:55.52,Default,,0000,0000,0000,,This isn’t good…\NHe really got me.
+Dialogue: 0,0:19:55.89,0:19:58.81,Default,,0000,0000,0000,,First, I’ll toy with you\Nwithout killing you!
+Dialogue: 0,0:19:58.89,0:20:01.65,Default,,0000,0000,0000,,I look forward to seeing\Nwhen and how you give up
+Dialogue: 0,0:20:01.69,0:20:03.19,Default,,0000,0000,0000,,and abandon your friends!
+Dialogue: 0,0:20:10.89,0:20:11.77,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:20:13.35,0:20:15.73,Default,,0000,0000,0000,,But…what is it?
+Dialogue: 0,0:20:18.15,0:20:19.48,Default,,0000,0000,0000,,It’s far from over!
+Dialogue: 0,0:20:31.10,0:20:32.35,Default,,0000,0000,0000,,N-Naruto…
+Dialogue: 0,0:20:34.02,0:20:36.89,Default,,0000,0000,0000,,What is this…this feeling?
+Dialogue: 0,0:20:37.81,0:20:39.06,Default,,0000,0000,0000,,Sand Shuriken!
+Dialogue: 0,0:20:45.81,0:20:48.52,Default,,0000,0000,0000,,D-Dang it!
+Dialogue: 0,0:20:49.15,0:20:50.81,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:20:51.19,0:20:52.89,Default,,0000,0000,0000,,H-He's…
+Dialogue: 0,0:20:53.89,0:20:57.94,Default,,0000,0000,0000,,What is this?!\NThis feeling that’s overcoming me?
+Dialogue: 0,0:21:02.31,0:21:02.94,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:21:05.89,0:21:08.89,Default,,0000,0000,0000,,For some reason…\NI don’t want to lose to this guy…
+Dialogue: 0,0:21:09.06,0:21:10.89,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:21:14.15,0:21:16.02,Default,,0000,0000,0000,,…even if I die!
+Dialogue: 0,0:21:17.89,0:21:27.94,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:21:28.44,0:21:39.27,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:49.35,0:21:54.94,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:54.98,0:21:59.98,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:00.40,0:22:05.40,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:05.44,0:22:10.65,Default,,0000,0000,0000,,Let’s go carve the badges in our chest\NYes, it’s Show Time, life begins now.
+Dialogue: 0,0:22:10.69,0:22:20.89,Default,,0000,0000,0000,,Everyone makes mistakes\N It’s nothing to be ashamed about
+Dialogue: 0,0:22:21.02,0:22:31.60,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:31.65,0:22:42.15,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:42.19,0:22:47.89,Default,,0000,0000,0000,,Forge on strong
+Dialogue: 0,0:22:59.31,0:23:00.73,Default,,0000,0000,0000,,Hear! Hear! Hear! Hear!
+Dialogue: 0,0:23:00.77,0:23:02.69,Default,,0000,0000,0000,,If you're far away,\Nlisten well.
+Dialogue: 0,0:23:02.73,0:23:04.35,Default,,0000,0000,0000,,If you’re closer,\Nthen come and watch it!
+Dialogue: 0,0:23:04.44,0:23:06.02,Default,,0000,0000,0000,,Among all the Genin in the Leaf,
+Dialogue: 0,0:23:06.06,0:23:08.06,Default,,0000,0000,0000,,I’m the only one who’s\Nsuited to become Hokage!
+Dialogue: 0,0:23:08.10,0:23:09.90,Default,,0000,0000,0000,,I turn the biggest pinch\Ninto opportunity
+Dialogue: 0,0:23:09.94,0:23:12.02,Default,,0000,0000,0000,,with Transform Jutsu, Summoning Jutsu,\Nand Shadow Clone Jutsu.
+Dialogue: 0,0:23:12.06,0:23:13.89,Default,,0000,0000,0000,,I give back twice as much\Nwhen I receive a punch.
+Dialogue: 0,0:23:13.89,0:23:15.77,Default,,0000,0000,0000,,I’m the hyperactive knucklehead Ninja!
+Dialogue: 0,0:23:16.23,0:23:20.89,Default,,0000,0000,0000,,This is the start of the spiraling series\Nof Naruto’s Ninja Handbook!
+Dialogue: 0,0:23:21.23,0:23:25.10,Default,,0000,0000,0000,,Next time: “Naruto’s Ninja Handbook”

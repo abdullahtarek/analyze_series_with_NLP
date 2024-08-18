@@ -1,0 +1,295 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.15,0:00:13.86,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.31,0:00:33.54,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.54,0:00:39.55,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:39.98,0:00:45.56,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.56,0:00:51.23,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.50,0:00:57.80,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:57.84,0:01:04.84,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:04.94,0:01:17.56,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.56,0:01:23.90,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:23.93,0:01:29.13,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:01:52.06,0:01:53.36,Default,,0000,0000,0000,,Please, Sensei!
+Dialogue: 0,0:02:12.98,0:02:13.68,Default,,0000,0000,0000,,– What?! 					– What?!
+Dialogue: 0,0:02:18.75,0:02:22.55,Default,,0000,0000,0000,,Whoa, my heart, my heart!
+Dialogue: 0,0:02:25.32,0:02:27.59,Default,,0000,0000,0000,,Huh? There's nothing wrong.
+Dialogue: 0,0:02:27.96,0:02:29.63,Default,,0000,0000,0000,,Hey, it's you again.
+Dialogue: 0,0:02:30.63,0:02:33.06,Default,,0000,0000,0000,,To think you'd transform into Kurenai\Nwith a Transformation Jutsu.
+Dialogue: 0,0:02:33.36,0:02:35.97,Default,,0000,0000,0000,,Hey, what the heck was that earlier?
+Dialogue: 0,0:02:36.23,0:02:40.54,Default,,0000,0000,0000,,Shut up! For your sake,\Ndon't be nosing around needlessly.
+Dialogue: 0,0:02:45.31,0:02:45.88,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:46.98,0:02:49.55,Default,,0000,0000,0000,,You're Yakumo. Right?
+Dialogue: 0,0:02:49.82,0:02:53.55,Default,,0000,0000,0000,,I want to ask you something\Nabout Kurenai Sensei!
+Dialogue: 0,0:02:57.39,0:02:59.79,Default,,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:03:19.31,0:03:22.61,Default,,0000,0000,0000,,This is…the Academy's hallway.
+Dialogue: 0,0:03:25.59,0:03:27.05,Default,,0000,0000,0000,,Sensei, please!
+Dialogue: 0,0:03:32.69,0:03:38.00,Default,,0000,0000,0000,,Yakumo's Sealed Power
+Dialogue: 0,0:03:43.53,0:03:45.34,Default,,0000,0000,0000,,Why am I no good?!
+Dialogue: 0,0:03:46.24,0:03:47.27,Default,,0000,0000,0000,,Kurenai Sensei?
+Dialogue: 0,0:03:48.34,0:03:50.68,Default,,0000,0000,0000,,I want to become a Ninja,\Nno matter what!
+Dialogue: 0,0:03:51.28,0:03:52.68,Default,,0000,0000,0000,,I must become one!
+Dialogue: 0,0:03:53.51,0:03:55.21,Default,,0000,0000,0000,,I told you to give up.
+Dialogue: 0,0:03:55.55,0:03:56.55,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:03:58.55,0:04:00.65,Default,,0000,0000,0000,,Then I’ll just have to perform\Na Sealing Jutsu
+Dialogue: 0,0:04:01.32,0:04:03.55,Default,,0000,0000,0000,,and seal your power.
+Dialogue: 0,0:04:03.55,0:04:04.26,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:04.56,0:04:05.26,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:04:05.69,0:04:07.09,Default,,0000,0000,0000,,Kurenai Sensei!
+Dialogue: 0,0:04:07.23,0:04:08.56,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:04:24.38,0:04:29.51,Default,,0000,0000,0000,,S-Sakura. Umm, where am I?!
+Dialogue: 0,0:04:30.55,0:04:33.25,Default,,0000,0000,0000,,As for me,\Nwhat am I doing lying here?!
+Dialogue: 0,0:04:33.88,0:04:36.32,Default,,0000,0000,0000,,Oh yeah! Kurenai Sensei\Ngot stabbed
+Dialogue: 0,0:04:36.35,0:04:38.36,Default,,0000,0000,0000,,and my heart leapt out\Nof my chest and…
+Dialogue: 0,0:04:38.72,0:04:41.56,Default,,0000,0000,0000,,No, that’s not it.\NWhere’s that girl?
+Dialogue: 0,0:04:41.96,0:04:42.93,Default,,0000,0000,0000,,Where’s Yakumo?
+Dialogue: 0,0:04:45.56,0:04:47.57,Default,,0000,0000,0000,,It seems you don’t remember at all.
+Dialogue: 0,0:04:48.40,0:04:50.53,Default,,0000,0000,0000,,You got caught breaking\Ninto a mountain cottage
+Dialogue: 0,0:04:50.53,0:04:52.07,Default,,0000,0000,0000,,under special security!
+Dialogue: 0,0:04:52.80,0:04:53.54,Default,,0000,0000,0000,,Huh…?!
+Dialogue: 0,0:04:54.41,0:04:56.14,Default,,0000,0000,0000,,The Anbu Black Ops are in action,
+Dialogue: 0,0:04:56.17,0:04:59.28,Default,,0000,0000,0000,,so you should be thankful\Nyou’re alive!
+Dialogue: 0,0:05:00.54,0:05:01.55,Default,,0000,0000,0000,,Oh yeah!
+Dialogue: 0,0:05:03.55,0:05:06.68,Default,,0000,0000,0000,,The dream I just had…\Nlt was strangely real.
+Dialogue: 0,0:05:07.52,0:05:10.42,Default,,0000,0000,0000,,No doubt it was the girl\Nin the mountain cottage!
+Dialogue: 0,0:05:10.55,0:05:12.56,Default,,0000,0000,0000,,What’re you blabbing about?!
+Dialogue: 0,0:05:12.89,0:05:15.56,Default,,0000,0000,0000,,I’ll inject you with a stimulant\Nif you don’t knock it off.
+Dialogue: 0,0:05:16.89,0:05:18.56,Default,,0000,0000,0000,,I can’t be doing stuff like this!
+Dialogue: 0,0:05:20.43,0:05:21.97,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:05:22.23,0:05:24.54,Default,,0000,0000,0000,,The medicine hasn’t worn off, yet!
+Dialogue: 0,0:05:33.54,0:05:36.55,Default,,0000,0000,0000,,Sensei! Kurenai Sensei!
+Dialogue: 0,0:05:37.55,0:05:39.35,Default,,0000,0000,0000,,Kurenai’s already gone out.
+Dialogue: 0,0:05:39.55,0:05:40.35,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:40.55,0:05:42.52,Default,,0000,0000,0000,,You’ve gone to the trouble\Nof getting up early.
+Dialogue: 0,0:05:42.89,0:05:45.92,Default,,0000,0000,0000,,So how about joining me for\Nan early-morning marathon?
+Dialogue: 0,0:05:46.02,0:05:48.43,Default,,0000,0000,0000,,This isn’t the time for that!
+Dialogue: 0,0:05:48.46,0:05:50.23,Default,,0000,0000,0000,,Morning marathons are great!
+Dialogue: 0,0:05:50.63,0:05:53.56,Default,,0000,0000,0000,,Marathons purge the sweat\Nand impurities built up
+Dialogue: 0,0:05:53.56,0:05:55.73,Default,,0000,0000,0000,,in your body from a night of sleep.
+Dialogue: 0,0:05:57.94,0:06:00.77,Default,,0000,0000,0000,,More importantly,\Nwhere did Kurenai Sensei go?!
+Dialogue: 0,0:06:01.07,0:06:02.17,Default,,0000,0000,0000,,Come to think of it,
+Dialogue: 0,0:06:02.21,0:06:03.81,Default,,0000,0000,0000,,she said something about going\Nto visit someone…
+Dialogue: 0,0:06:04.31,0:06:05.71,Default,,0000,0000,0000,,Something about a student
+Dialogue: 0,0:06:05.78,0:06:07.21,Default,,0000,0000,0000,,she took care of in the past\Nbeing in poor health…
+Dialogue: 0,0:06:07.51,0:06:09.21,Default,,0000,0000,0000,,Huh? She went to see Yakumo!
+Dialogue: 0,0:06:10.31,0:06:12.72,Default,,0000,0000,0000,,Then at least join me for\Nsome morning exercise!
+Dialogue: 0,0:06:13.12,0:06:16.72,Default,,0000,0000,0000,,Morning exercise purges the sweat\Nand impurities built up
+Dialogue: 0,0:06:16.75,0:06:19.22,Default,,0000,0000,0000,,in your body from a night of sleep…
+Dialogue: 0,0:06:28.67,0:06:30.60,Default,,0000,0000,0000,,Kurenai Sensei!
+Dialogue: 0,0:06:32.10,0:06:33.30,Default,,0000,0000,0000,,Whoa?!
+Dialogue: 0,0:06:38.81,0:06:41.31,Default,,0000,0000,0000,,I have something I want to ask you,\NKurenai Sensei.
+Dialogue: 0,0:06:41.51,0:06:45.55,Default,,0000,0000,0000,,Naruto, don’t stick your nose\Ninto my business any further.
+Dialogue: 0,0:06:45.65,0:06:48.02,Default,,0000,0000,0000,,Yesterday I went to see Yakumo!
+Dialogue: 0,0:06:48.49,0:06:50.25,Default,,0000,0000,0000,,I don’t know if it was\Non account of that,
+Dialogue: 0,0:06:50.32,0:06:52.76,Default,,0000,0000,0000,,but I just had a strangely real dream!
+Dialogue: 0,0:06:53.19,0:06:53.82,Default,,0000,0000,0000,,A dream…?
+Dialogue: 0,0:06:53.96,0:06:54.63,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:55.06,0:06:58.40,Default,,0000,0000,0000,,You said to Yakumo that you were\Ngoing to use a Sealing Jutsu
+Dialogue: 0,0:06:58.43,0:07:00.43,Default,,0000,0000,0000,,if she wouldn’t give up\Nbecoming a Ninja…
+Dialogue: 0,0:07:02.60,0:07:04.34,Default,,0000,0000,0000,,Sorry, but I’m in a hurry…
+Dialogue: 0,0:07:04.47,0:07:06.80,Default,,0000,0000,0000,,H-Hey. Wait!
+Dialogue: 0,0:07:06.90,0:07:08.54,Default,,0000,0000,0000,,It doesn’t concern you…
+Dialogue: 0,0:07:11.38,0:07:13.01,Default,,0000,0000,0000,,Yes, it does!
+Dialogue: 0,0:07:13.84,0:07:16.18,Default,,0000,0000,0000,,Hinata, Kiba and Shino are\Nall troubled
+Dialogue: 0,0:07:16.21,0:07:18.75,Default,,0000,0000,0000,,because you said you were\Ngoing to quit!
+Dialogue: 0,0:07:20.65,0:07:23.15,Default,,0000,0000,0000,,Doesn’t the fact that\Nyou’re quitting Squad Eight
+Dialogue: 0,0:07:23.45,0:07:26.56,Default,,0000,0000,0000,,have something to do with\Nthat girl Yakumo?!
+Dialogue: 0,0:07:31.56,0:07:33.90,Default,,0000,0000,0000,,What you saw wasn’t just a dream…
+Dialogue: 0,0:07:34.30,0:07:34.93,Default,,0000,0000,0000,,What…?!
+Dialogue: 0,0:07:38.90,0:07:42.97,Default,,0000,0000,0000,,I used a Sealing Jutsu and\Ntook away a student’s power!
+Dialogue: 0,0:07:44.98,0:07:46.61,Default,,0000,0000,0000,,No way. That couldn’t be!
+Dialogue: 0,0:07:48.31,0:07:50.55,Default,,0000,0000,0000,,It happened over a year ago…
+Dialogue: 0,0:07:51.38,0:07:54.72,Default,,0000,0000,0000,,By my own hand,\NI crushed the dream of a girl…
+Dialogue: 0,0:07:55.99,0:07:58.86,Default,,0000,0000,0000,,I tutored individually named Yakumo…
+Dialogue: 0,0:08:00.76,0:08:03.03,Default,,0000,0000,0000,,who was trying to become\Na practitioner of Genjutsu.
+Dialogue: 0,0:08:03.06,0:08:03.69,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:08:04.93,0:08:08.00,Default,,0000,0000,0000,,I don’t deserve to have\Nthe lives of the Genin
+Dialogue: 0,0:08:08.07,0:08:10.13,Default,,0000,0000,0000,,in Squad Eight entrusted to me.
+Dialogue: 0,0:08:12.30,0:08:13.64,Default,,0000,0000,0000,,But why…?
+Dialogue: 0,0:08:16.17,0:08:17.44,Default,,0000,0000,0000,,Now, get out of my way!
+Dialogue: 0,0:08:18.01,0:08:19.54,Default,,0000,0000,0000,,That’s the end of this conversation.
+Dialogue: 0,0:08:19.81,0:08:22.71,Default,,0000,0000,0000,,No way…\NBut I still have stuff I want to ask you…!
+Dialogue: 0,0:08:23.51,0:08:24.25,Default,,0000,0000,0000,,I have no choice.
+Dialogue: 0,0:08:33.86,0:08:35.53,Default,,0000,0000,0000,,What's happening?!
+Dialogue: 0,0:08:46.54,0:08:47.84,Default,,0000,0000,0000,,They won’t come off!
+Dialogue: 0,0:08:48.54,0:08:53.31,Default,,0000,0000,0000,,Kurenai Sensei, that’s just cruel!
+Dialogue: 0,0:09:01.85,0:09:03.39,Default,,0000,0000,0000,,We’re already surrounded…
+Dialogue: 0,0:09:04.56,0:09:05.92,Default,,0000,0000,0000,,Make emergency contact\Nwith the village…
+Dialogue: 0,0:09:06.56,0:09:07.09,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:09:11.96,0:09:12.63,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:09:31.02,0:09:31.62,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:43.86,0:09:44.76,Default,,0000,0000,0000,,We’re counting on you!
+Dialogue: 0,0:09:47.63,0:09:48.57,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:55.54,0:09:58.54,Default,,0000,0000,0000,,Hurry…to the Hokage!
+Dialogue: 0,0:10:42.35,0:10:45.56,Default,,0000,0000,0000,,Yakumo… Come with us.
+Dialogue: 0,0:11:15.22,0:11:16.55,Default,,0000,0000,0000,,Geez, that Naruto.
+Dialogue: 0,0:11:17.66,0:11:20.69,Default,,0000,0000,0000,,The least he could do is thank me\Nfor attending to him all night.
+Dialogue: 0,0:11:24.80,0:11:25.56,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:36.54,0:11:39.54,Default,,0000,0000,0000,,Isn’t it about tea time?
+Dialogue: 0,0:11:39.54,0:11:41.75,Default,,0000,0000,0000,,After you’ve taken care of\Nthese documents!
+Dialogue: 0,0:11:44.18,0:11:46.62,Default,,0000,0000,0000,,Why’s there so much work?
+Dialogue: 0,0:11:46.68,0:11:49.55,Default,,0000,0000,0000,,It’s because you didn’t take care\Nof it lickety-split, Lady Tsunade.
+Dialogue: 0,0:11:51.56,0:11:53.36,Default,,0000,0000,0000,,It’s a carrier pigeon for\Nemergency contacts!
+Dialogue: 0,0:11:53.56,0:11:54.36,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:59.43,0:12:01.23,Default,,0000,0000,0000,,It’s from the mountain cottage\Nin Satomi Hill…
+Dialogue: 0,0:12:02.00,0:12:03.67,Default,,0000,0000,0000,,Something’s happened to Yakumo!
+Dialogue: 0,0:12:19.85,0:12:22.75,Default,,0000,0000,0000,,There’s a possibility that\Na person being protected
+Dialogue: 0,0:12:22.82,0:12:25.96,Default,,0000,0000,0000,,by the Village Hidden in Leaves,\NYakumo Kurama, has been kidnapped.
+Dialogue: 0,0:12:26.56,0:12:30.06,Default,,0000,0000,0000,,Head for the mountain cottage in\NSatomi Hill and secure Yakumo.
+Dialogue: 0,0:12:32.93,0:12:33.93,Default,,0000,0000,0000,,Yakumo Kurama…
+Dialogue: 0,0:12:34.90,0:12:38.54,Default,,0000,0000,0000,,As I recall, that’s the girl Kurenai\Ntook custody of, right?
+Dialogue: 0,0:12:38.97,0:12:43.54,Default,,0000,0000,0000,,Yes, the only daughter of Murakumo\Nof the Kurama Clan head family.
+Dialogue: 0,0:12:44.54,0:12:47.64,Default,,0000,0000,0000,,Umm, what’s the Kurama Clan?
+Dialogue: 0,0:12:48.11,0:12:50.41,Default,,0000,0000,0000,,It’s natural that you guys wouldn’t know.
+Dialogue: 0,0:12:51.01,0:12:52.88,Default,,0000,0000,0000,,They were a distinguished family
+Dialogue: 0,0:12:52.92,0:12:54.89,Default,,0000,0000,0000,,that wielded considerable power\Nin the village,
+Dialogue: 0,0:12:54.92,0:12:56.92,Default,,0000,0000,0000,,but they’re just a shadow\Nof what they used to be.
+Dialogue: 0,0:12:57.55,0:13:01.76,Default,,0000,0000,0000,,The death of Murakumo\Nand his wife about a year ago
+Dialogue: 0,0:13:01.83,0:13:03.86,Default,,0000,0000,0000,,became the catalyst for that.
+Dialogue: 0,0:13:04.29,0:13:07.36,Default,,0000,0000,0000,,I hear that the clan fell apart\Nafter that.
+Dialogue: 0,0:13:07.56,0:13:10.40,Default,,0000,0000,0000,,Does the kidnapping of the only\Ndaughter of the head family mean
+Dialogue: 0,0:13:10.43,0:13:14.54,Default,,0000,0000,0000,,that the Kurama Clan’s\NSecret Jutsu is being targeted?
+Dialogue: 0,0:13:16.11,0:13:17.01,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:13:18.21,0:13:19.44,Default,,0000,0000,0000,,According to the documents
+Dialogue: 0,0:13:19.48,0:13:20.98,Default,,0000,0000,0000,,handed down from\Nthe Third Hokage,
+Dialogue: 0,0:13:21.38,0:13:24.35,Default,,0000,0000,0000,,it seems her latent powers as\Na Genjutsu Ninja
+Dialogue: 0,0:13:24.38,0:13:26.32,Default,,0000,0000,0000,,are extremely dangerous…
+Dialogue: 0,0:13:27.82,0:13:31.66,Default,,0000,0000,0000,,In other words, she would make\Nfor a powerful asset
+Dialogue: 0,0:13:31.69,0:13:33.82,Default,,0000,0000,0000,,if those powers can be awakened.
+Dialogue: 0,0:13:34.42,0:13:36.73,Default,,0000,0000,0000,,That means it wouldn’t\Nbe surprising
+Dialogue: 0,0:13:36.76,0:13:38.56,Default,,0000,0000,0000,,if there were guys seeking\Nthat power, huh?
+Dialogue: 0,0:13:38.73,0:13:40.56,Default,,0000,0000,0000,,After her parents died,
+Dialogue: 0,0:13:40.80,0:13:44.47,Default,,0000,0000,0000,,she was kept under\Nprotective custody in the village.
+Dialogue: 0,0:13:44.74,0:13:46.54,Default,,0000,0000,0000,,All right. Leave it to me!
+Dialogue: 0,0:13:47.07,0:13:49.14,Default,,0000,0000,0000,,I won’t allow a girl to cry!
+Dialogue: 0,0:13:49.17,0:13:52.14,Default,,0000,0000,0000,,Might Guy,\Nthe Leaf Village's Handsome Devil
+Dialogue: 0,0:13:52.18,0:13:54.24,Default,,0000,0000,0000,,will rescue her,\Nno matter what!
+Dialogue: 0,0:13:54.75,0:13:56.55,Default,,0000,0000,0000,,Sakura, you go with them as well.
+Dialogue: 0,0:13:56.55,0:13:57.65,Default,,0000,0000,0000,,– What?! 					– Huh?
+Dialogue: 0,0:13:57.85,0:13:59.55,Default,,0000,0000,0000,,Once we have her in custody,
+Dialogue: 0,0:13:59.55,0:14:01.55,Default,,0000,0000,0000,,we’ll need someone to look\Nafter her condition.
+Dialogue: 0,0:14:02.02,0:14:05.09,Default,,0000,0000,0000,,Only one with experience as\Na Medical Ninja can do this.
+Dialogue: 0,0:14:06.09,0:14:06.89,Default,,0000,0000,0000,,Y-Yes ma’am!
+Dialogue: 0,0:14:09.36,0:14:11.80,Default,,0000,0000,0000,,This mission is a chance\Nto show my master
+Dialogue: 0,0:14:11.86,0:14:14.10,Default,,0000,0000,0000,,the fruits of my training!
+Dialogue: 0,0:14:22.54,0:14:24.07,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:14:24.11,0:14:27.34,Default,,0000,0000,0000,,Ouch? Did you trip on a tree root\Nor something?
+Dialogue: 0,0:14:29.71,0:14:30.81,Default,,0000,0000,0000,,What’s this?!
+Dialogue: 0,0:14:36.02,0:14:37.39,Default,,0000,0000,0000,,N-Naruto…!
+Dialogue: 0,0:14:39.56,0:14:41.86,Default,,0000,0000,0000,,He fell asleep in a place like this?!
+Dialogue: 0,0:14:49.27,0:14:50.57,Default,,0000,0000,0000,,Nice, Akamaru!
+Dialogue: 0,0:14:52.94,0:14:53.97,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:15:01.04,0:15:03.55,Default,,0000,0000,0000,,He’s…caught in a Genjutsu!
+Dialogue: 0,0:15:03.55,0:15:04.15,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:15:10.52,0:15:11.09,Default,,0000,0000,0000,,Release!
+Dialogue: 0,0:15:23.13,0:15:25.50,Default,,0000,0000,0000,,What…? Sakura…
+Dialogue: 0,0:15:28.47,0:15:29.54,Default,,0000,0000,0000,,Salty!
+Dialogue: 0,0:15:29.57,0:15:35.21,Default,,0000,0000,0000,,What the hell is this?!\NI mean, was I asleep again?
+Dialogue: 0,0:15:35.35,0:15:36.85,Default,,0000,0000,0000,,What’re you babbling about?!
+Dialogue: 0,0:15:37.55,0:15:39.98,Default,,0000,0000,0000,,You were caught in a Genjutsu.
+Dialogue: 0,0:15:40.52,0:15:41.55,Default,,0000,0000,0000,,Genjutsu…
+Dialogue: 0,0:15:44.72,0:15:47.36,Default,,0000,0000,0000,,I was chasing after Kurenai Sensei
+Dialogue: 0,0:15:47.39,0:15:49.53,Default,,0000,0000,0000,,who was heading for\Nthe Satomi mountain cottage
+Dialogue: 0,0:15:49.56,0:15:51.43,Default,,0000,0000,0000,,and I tried to get her to listen to me.
+Dialogue: 0,0:15:51.63,0:15:53.23,Default,,0000,0000,0000,,Satomi mountain cottage,\Nyou say?
+Dialogue: 0,0:15:53.56,0:15:56.57,Default,,0000,0000,0000,,Then Kurenai went alone?
+Dialogue: 0,0:15:56.57,0:15:58.14,Default,,0000,0000,0000,,Yeah, probably.
+Dialogue: 0,0:16:00.54,0:16:02.14,Default,,0000,0000,0000,,Kurenai’s in danger
+Dialogue: 0,0:16:02.17,0:16:04.57,Default,,0000,0000,0000,,if she went without being aware\Nwhat’s happening!
+Dialogue: 0,0:16:04.64,0:16:05.44,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:14.69,0:16:16.05,Default,,0000,0000,0000,,Something’s strange…
+Dialogue: 0,0:16:22.23,0:16:23.56,Default,,0000,0000,0000,,Someone’s here!
+Dialogue: 0,0:16:24.56,0:16:27.56,Default,,0000,0000,0000,,Damn it. Was it a mistake\Nto come alone…?
+Dialogue: 0,0:16:27.80,0:16:29.87,Default,,0000,0000,0000,,But I don’t have the time\Nto return to the village…
+Dialogue: 0,0:16:30.60,0:16:33.54,Default,,0000,0000,0000,,They’re most likely after…Yakumo.
+Dialogue: 0,0:16:36.84,0:16:37.54,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:43.55,0:16:44.38,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:17:03.60,0:17:08.91,Default,,0000,0000,0000,,Sorry, but I mustn’t allow you\Nto interfere with our work.
+Dialogue: 0,0:17:13.14,0:17:13.78,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:17:15.18,0:17:17.51,Default,,0000,0000,0000,,You think you caught me with that?
+Dialogue: 0,0:17:17.55,0:17:18.42,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:19.05,0:17:21.55,Default,,0000,0000,0000,,You’re the one who’s caught!
+Dialogue: 0,0:18:03.09,0:18:04.69,Default,,0000,0000,0000,,The enemies are also practitioners\Nof Genjutsu.
+Dialogue: 0,0:18:05.56,0:18:07.23,Default,,0000,0000,0000,,I must not lose…
+Dialogue: 0,0:18:13.54,0:18:14.57,Default,,0000,0000,0000,,What’s this presence?!
+Dialogue: 0,0:18:43.73,0:18:45.84,Default,,0000,0000,0000,,They’re both caught in a Genjutsu.
+Dialogue: 0,0:18:56.38,0:18:59.02,Default,,0000,0000,0000,,Yakumo… Is that you, Yakumo?
+Dialogue: 0,0:19:21.07,0:19:22.17,Default,,0000,0000,0000,,So you were safe!
+Dialogue: 0,0:19:26.98,0:19:28.04,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:19:31.55,0:19:33.42,Default,,0000,0000,0000,,It’s okay now, Yakumo.
+Dialogue: 0,0:19:34.68,0:19:37.65,Default,,0000,0000,0000,,I’ll protect you, no matter what.
+Dialogue: 0,0:19:39.02,0:19:40.39,Default,,0000,0000,0000,,Kurenai Sensei!
+Dialogue: 0,0:19:57.77,0:19:58.54,Default,,0000,0000,0000,,Release!
+Dialogue: 0,0:20:05.38,0:20:07.38,Default,,0000,0000,0000,,You were hit with\Na reverse Genjutsu, eh?
+Dialogue: 0,0:20:07.92,0:20:09.59,Default,,0000,0000,0000,,I-I’m sorry.
+Dialogue: 0,0:20:10.35,0:20:11.56,Default,,0000,0000,0000,,Just what I’d expect from\Na Jonin…
+Dialogue: 0,0:20:12.36,0:20:15.83,Default,,0000,0000,0000,,No, I should probably say Kurenai Yuhi…
+Dialogue: 0,0:20:17.86,0:20:18.90,Default,,0000,0000,0000,,Stay alert!
+Dialogue: 0,0:20:19.56,0:20:20.96,Default,,0000,0000,0000,,We should consider ourselves
+Dialogue: 0,0:20:21.00,0:20:23.00,Default,,0000,0000,0000,,as being under suspicion\Nby the Leaf Village.
+Dialogue: 0,0:20:23.57,0:20:24.33,Default,,0000,0000,0000,,– Yes, sir! 					– Yes, sir!
+Dialogue: 0,0:20:27.67,0:20:31.14,Default,,0000,0000,0000,,The two who took Yakumo\Nhaven’t returned…
+Dialogue: 0,0:20:32.21,0:20:35.45,Default,,0000,0000,0000,,I guess somewhat violent action\Ncan’t be avoided.
+Dialogue: 0,0:20:36.25,0:20:38.35,Default,,0000,0000,0000,,Although we come from\Nthe same village…
+Dialogue: 0,0:20:38.55,0:20:41.55,Default,,0000,0000,0000,,we will get Yakumo,\Nno matter what the cost.
+Dialogue: 0,0:20:41.65,0:20:42.55,Default,,0000,0000,0000,,Understood?
+Dialogue: 0,0:20:42.82,0:20:43.55,Default,,0000,0000,0000,,– Yes, sir! 					– Yes, sir!
+Dialogue: 0,0:20:46.42,0:20:47.06,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:20:47.46,0:20:48.56,Default,,0000,0000,0000,,What is it, Hinata?!
+Dialogue: 0,0:20:49.06,0:20:49.93,Default,,0000,0000,0000,,Did you see something?
+Dialogue: 0,0:20:53.80,0:20:56.17,Default,,0000,0000,0000,,The mountain cottage is\Nbeing attacked by someone.
+Dialogue: 0,0:20:57.07,0:20:59.54,Default,,0000,0000,0000,,There are four out front and four inside\Nthe mountain cottage.
+Dialogue: 0,0:20:59.90,0:21:02.01,Default,,0000,0000,0000,,Are two of the people inside\Nthe mountain cottage
+Dialogue: 0,0:21:02.07,0:21:03.27,Default,,0000,0000,0000,,Kurenai and Yakumo?
+Dialogue: 0,0:21:03.47,0:21:04.71,Default,,0000,0000,0000,,I bet that’s it!
+Dialogue: 0,0:21:05.54,0:21:08.95,Default,,0000,0000,0000,,Kurenai Sensei,\Nwhat the hell happened?!
+Dialogue: 0,0:21:11.41,0:21:12.75,Default,,0000,0000,0000,,Tell us!
+Dialogue: 0,0:21:18.82,0:21:23.26,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.33,0:21:29.57,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:34.97,0:21:39.44,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.48,0:21:43.95,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:43.98,0:21:48.85,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:48.89,0:21:53.69,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:53.72,0:21:58.63,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:58.70,0:22:03.00,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.07,0:22:07.54,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.54,0:22:14.84,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:14.88,0:22:18.72,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:18.75,0:22:24.05,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.09,0:22:28.22,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.26,0:22:33.06,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.30,0:22:37.67,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:37.73,0:22:43.84,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.55,0:22:51.61,Default,,0000,0000,0000,,I’m surprised…
+Dialogue: 0,0:22:52.42,0:22:53.65,Default,,0000,0000,0000,,Who would’ve thought that
+Dialogue: 0,0:22:53.68,0:22:55.39,Default,,0000,0000,0000,,the intruders would turn out\Nto be you people.
+Dialogue: 0,0:22:55.92,0:22:59.16,Default,,0000,0000,0000,,But whatever reasons you may have,\NI won’t let you take Yakumo!
+Dialogue: 0,0:22:59.89,0:23:02.56,Default,,0000,0000,0000,,The Third Hokage entrusted\Nthis child to me.
+Dialogue: 0,0:23:03.56,0:23:06.23,Default,,0000,0000,0000,,Even if you are experts in Genjutsu,
+Dialogue: 0,0:23:06.46,0:23:10.67,Default,,0000,0000,0000,,I will protect this child with\Nevery ounce of strength I have in my body.
+Dialogue: 0,0:23:11.23,0:23:14.77,Default,,0000,0000,0000,,Next time: “Kurenai's Top-Secret Mission:\NThe Promise with the Third Hokage”

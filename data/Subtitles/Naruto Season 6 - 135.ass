@@ -1,0 +1,307 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.43,0:00:16.72,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.76,0:00:21.47,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:22.05,0:00:26.26,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.30,0:00:29.59,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.47,0:00:33.60,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.64,0:00:40.05,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:40.93,0:00:45.51,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.55,0:00:49.01,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.51,0:00:52.47,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.51,0:00:55.47,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.51,0:00:59.68,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.89,0:01:02.35,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.39,0:01:08.18,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.59,0:01:11.80,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.80,0:01:14.26,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.30,0:01:19.10,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.14,0:01:21.43,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.47,0:01:23.85,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.89,0:01:27.39,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:42.55,0:01:46.60,Default,,0000,0000,0000,,The Promise That Could Not Be Kept
+Dialogue: 0,0:01:55.64,0:01:57.10,Default,,0000,0000,0000,,Kakashi Sensei…
+Dialogue: 0,0:01:59.59,0:02:00.85,Default,,0000,0000,0000,,Where’s Sasuke?
+Dialogue: 0,0:02:08.35,0:02:09.43,Default,,0000,0000,0000,,Kakashi!
+Dialogue: 0,0:02:10.55,0:02:12.01,Default,,0000,0000,0000,,How is Naruto Uzumaki’s condition?
+Dialogue: 0,0:02:12.59,0:02:13.68,Default,,0000,0000,0000,,He’s okay.
+Dialogue: 0,0:02:14.30,0:02:17.93,Default,,0000,0000,0000,,What about Sasuke?\NWhere’s Sasuke Uchiha?!
+Dialogue: 0,0:02:32.59,0:02:34.55,Default,,0000,0000,0000,,How are the other Genin?
+Dialogue: 0,0:02:34.72,0:02:37.30,Default,,0000,0000,0000,,Yes! By Lady Hokage’s order,
+Dialogue: 0,0:02:37.35,0:02:39.59,Default,,0000,0000,0000,,the first and second medical corps\Nhave been dispatched…
+Dialogue: 0,0:02:39.59,0:02:42.05,Default,,0000,0000,0000,,The wounded from all areas have\Nalready been gathered.
+Dialogue: 0,0:02:42.47,0:02:45.89,Default,,0000,0000,0000,,They were convoyed after\Nadministering emergency treatment.
+Dialogue: 0,0:02:46.35,0:02:47.55,Default,,0000,0000,0000,,How are their conditions?
+Dialogue: 0,0:02:47.59,0:02:50.39,Default,,0000,0000,0000,,Yes! Shikamaru Nara has minor injuries…
+Dialogue: 0,0:02:50.59,0:02:55.18,Default,,0000,0000,0000,,Kiba Inuzuka has serious injuries,\Nbut it’s not life-threatening.
+Dialogue: 0,0:02:55.59,0:02:59.59,Default,,0000,0000,0000,,Neji Hyuga and Choji Akimichi\Nare in serious condition…
+Dialogue: 0,0:03:00.30,0:03:02.51,Default,,0000,0000,0000,,At this point,\Nthere’s no telling what will happen.
+Dialogue: 0,0:03:16.89,0:03:18.18,Default,,0000,0000,0000,,Everyone…
+Dialogue: 0,0:03:38.30,0:03:40.59,Default,,0000,0000,0000,,The ingredients and\Neffects of the medicine
+Dialogue: 0,0:03:40.59,0:03:42.59,Default,,0000,0000,0000,,have been thoroughly researched.
+Dialogue: 0,0:03:43.59,0:03:45.43,Default,,0000,0000,0000,,Excellent…
+Dialogue: 0,0:03:46.14,0:03:47.60,Default,,0000,0000,0000,,Now bring the deer antler!
+Dialogue: 0,0:03:47.89,0:03:48.59,Default,,0000,0000,0000,,Yes, ma’am!
+Dialogue: 0,0:03:53.72,0:03:55.72,Default,,0000,0000,0000,,How is he…Big Sister?
+Dialogue: 0,0:04:03.35,0:04:05.47,Default,,0000,0000,0000,,No walks for him for quite a while…
+Dialogue: 0,0:04:05.51,0:04:07.55,Default,,0000,0000,0000,,The muscles of his limbs\Nhave been severely damaged.
+Dialogue: 0,0:04:07.72,0:04:10.55,Default,,0000,0000,0000,,You’re a vet, right, Big Sister?\NCan’t you somehow…?
+Dialogue: 0,0:04:10.59,0:04:11.59,Default,,0000,0000,0000,,It’ll be okay.
+Dialogue: 0,0:04:11.85,0:04:16.30,Default,,0000,0000,0000,,It’ll take time. But there’s no threat\Nto his life, so rest easy.
+Dialogue: 0,0:04:19.59,0:04:22.26,Default,,0000,0000,0000,,Walks for you are out of the question\Nfor quite a while, too!
+Dialogue: 0,0:04:24.10,0:04:26.01,Default,,0000,0000,0000,,Yeah, I know…
+Dialogue: 0,0:04:28.64,0:04:31.80,Default,,0000,0000,0000,,Intensive Care Unit 7
+Dialogue: 0,0:04:40.35,0:04:43.59,Default,,0000,0000,0000,,It’ll soon be three hours…\NPlease take over.
+Dialogue: 0,0:04:43.76,0:04:44.72,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:04:44.76,0:04:47.93,Default,,0000,0000,0000,,Although we’re making\Nthis kid’s hair into a conductor,
+Dialogue: 0,0:04:47.97,0:04:51.26,Default,,0000,0000,0000,,please don’t mistake the cellular rate\Nof the deficient parts!
+Dialogue: 0,0:04:51.59,0:04:52.68,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:04:53.51,0:04:55.97,Default,,0000,0000,0000,,As for the Chakra control, handle it\Nas if we’re threading a needle!
+Dialogue: 0,0:04:56.35,0:04:57.35,Default,,0000,0000,0000,,Understood!
+Dialogue: 0,0:05:07.55,0:05:10.59,Default,,0000,0000,0000,,Intensive Care Unit 6
+Dialogue: 0,0:05:20.59,0:05:23.10,Default,,0000,0000,0000,,There’s no point in\Nyou getting frustrated, right?
+Dialogue: 0,0:05:24.59,0:05:26.72,Default,,0000,0000,0000,,Missions come with sacrifice…
+Dialogue: 0,0:05:27.10,0:05:29.43,Default,,0000,0000,0000,,You took the mental training, right?
+Dialogue: 0,0:05:33.51,0:05:36.22,Default,,0000,0000,0000,,Training and actual battle\Nare different, you know…
+Dialogue: 0,0:05:36.59,0:05:39.43,Default,,0000,0000,0000,,I know what missions are about…
+Dialogue: 0,0:05:40.01,0:05:43.59,Default,,0000,0000,0000,,And I thought I knew what\Nthe Shinobi world is like.
+Dialogue: 0,0:05:45.55,0:05:50.26,Default,,0000,0000,0000,,I became a platoon leader\Nfor the first time on this mission.
+Dialogue: 0,0:05:50.59,0:05:52.35,Default,,0000,0000,0000,,With that, I understood…
+Dialogue: 0,0:05:53.35,0:05:55.59,Default,,0000,0000,0000,,I’m not cut out to be a Shinobi.
+Dialogue: 0,0:05:58.55,0:06:02.18,Default,,0000,0000,0000,,Surprisingly fragile…for a man.
+Dialogue: 0,0:06:03.64,0:06:05.14,Default,,0000,0000,0000,,This time…
+Dialogue: 0,0:06:05.18,0:06:08.30,Default,,0000,0000,0000,,The only thing I was able to do\Nas platoon leader…
+Dialogue: 0,0:06:08.64,0:06:10.97,Default,,0000,0000,0000,,was to believe in everyone.
+Dialogue: 0,0:06:12.10,0:06:13.59,Default,,0000,0000,0000,,I was naïve…
+Dialogue: 0,0:06:13.93,0:06:16.01,Default,,0000,0000,0000,,I didn’t have enough power…
+Dialogue: 0,0:06:16.59,0:06:18.30,Default,,0000,0000,0000,,It’s all my fault!
+Dialogue: 0,0:06:19.55,0:06:21.59,Default,,0000,0000,0000,,Are you afraid of getting hurt?
+Dialogue: 0,0:06:34.59,0:06:36.14,Default,,0000,0000,0000,,Shikamaru…
+Dialogue: 0,0:06:37.76,0:06:41.01,Default,,0000,0000,0000,,Are you going to be argued down\Nby a girl and run away?
+Dialogue: 0,0:06:42.18,0:06:43.59,Default,,0000,0000,0000,,It’s a drag…
+Dialogue: 0,0:06:43.59,0:06:47.55,Default,,0000,0000,0000,,I don’t want to have arguments.\NI’m not a woman.
+Dialogue: 0,0:06:47.68,0:06:51.18,Default,,0000,0000,0000,,Yeah… But you’re not a man, either.
+Dialogue: 0,0:06:51.59,0:06:54.01,Default,,0000,0000,0000,,You’re just a coward!
+Dialogue: 0,0:06:54.59,0:06:57.47,Default,,0000,0000,0000,,Even if you quit being Shinobi,\Nthe missions will continue.
+Dialogue: 0,0:06:57.89,0:07:00.39,Default,,0000,0000,0000,,Someone has to do it.
+Dialogue: 0,0:07:01.10,0:07:04.55,Default,,0000,0000,0000,,Your comrades will just\Nbe dispatched again…
+Dialogue: 0,0:07:04.59,0:07:06.64,Default,,0000,0000,0000,,under a different platoon leader.
+Dialogue: 0,0:07:06.93,0:07:10.05,Default,,0000,0000,0000,,And your comrades might die there.
+Dialogue: 0,0:07:10.51,0:07:13.76,Default,,0000,0000,0000,,But if at that time,\Nyou were the platoon leader…
+Dialogue: 0,0:07:13.80,0:07:17.14,Default,,0000,0000,0000,,your comrades might be saved\Nfrom that happening to them.
+Dialogue: 0,0:07:17.93,0:07:21.59,Default,,0000,0000,0000,,If you reflect on this time,\Nmake use of the experience and learn,
+Dialogue: 0,0:07:21.60,0:07:25.22,Default,,0000,0000,0000,,you might be able to carry out missions\Nwith more perfection.
+Dialogue: 0,0:07:27.59,0:07:30.59,Default,,0000,0000,0000,,If you really think your comrades\Nare important to you,
+Dialogue: 0,0:07:30.59,0:07:33.18,Default,,0000,0000,0000,,before you think about running away…
+Dialogue: 0,0:07:33.22,0:07:38.35,Default,,0000,0000,0000,,think about becoming more exceptional\Nfor the sake of your comrades!
+Dialogue: 0,0:07:38.60,0:07:43.47,Default,,0000,0000,0000,,That’s what real comrades are,\Nyou coward!
+Dialogue: 0,0:07:49.60,0:07:51.93,Default,,0000,0000,0000,,Intensive Care Unit 6
+Dialogue: 0,0:08:04.60,0:08:06.55,Default,,0000,0000,0000,,He’s okay, now!
+Dialogue: 0,0:08:08.93,0:08:11.26,Default,,0000,0000,0000,,The antidote has stopped\Nthe death of cells
+Dialogue: 0,0:08:11.30,0:08:14.68,Default,,0000,0000,0000,,caused by the side effects of the Pills.
+Dialogue: 0,0:08:15.30,0:08:17.76,Default,,0000,0000,0000,,You were a big help this time, Shikaku!
+Dialogue: 0,0:08:18.55,0:08:22.18,Default,,0000,0000,0000,,The Nara Clan’s secret medicinal\Npreparation manual was very useful.
+Dialogue: 0,0:08:23.89,0:08:26.80,Default,,0000,0000,0000,,It must’ve been tough to\Nmake something like that…
+Dialogue: 0,0:08:27.47,0:08:29.80,Default,,0000,0000,0000,,It’s the result of day-to-day study.
+Dialogue: 0,0:08:30.22,0:08:31.39,Default,,0000,0000,0000,,Thanks…
+Dialogue: 0,0:08:31.68,0:08:32.80,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:08:38.05,0:08:41.55,Default,,0000,0000,0000,,Neji Hyuga…\NHis safety line has been secured.
+Dialogue: 0,0:08:44.59,0:08:46.72,Default,,0000,0000,0000,,And, there’s some information…
+Dialogue: 0,0:08:47.18,0:08:51.59,Default,,0000,0000,0000,,Kakashi Hatake and Naruto Uzumaki\Nhave just now returned.
+Dialogue: 0,0:08:52.30,0:08:56.39,Default,,0000,0000,0000,,Although seriously injured,\Nit seems it’s not life-threatening.
+Dialogue: 0,0:09:06.68,0:09:08.10,Default,,0000,0000,0000,,Two, huh?
+Dialogue: 0,0:09:08.59,0:09:12.55,Default,,0000,0000,0000,,Shikamaru…\Nlt seems the mission is a failure.
+Dialogue: 0,0:09:17.05,0:09:21.51,Default,,0000,0000,0000,,But, everyone is alive!\NThat’s the most important thing.
+Dialogue: 0,0:09:26.59,0:09:28.51,Default,,0000,0000,0000,,Next time for sure…
+Dialogue: 0,0:09:28.55,0:09:30.59,Default,,0000,0000,0000,,I’ll carry out the mission perfectly!
+Dialogue: 0,0:09:47.01,0:09:50.59,Default,,0000,0000,0000,,Sasuke…You’re the chosen one.
+Dialogue: 0,0:09:51.01,0:09:54.76,Default,,0000,0000,0000,,Whatever… Just give me “power.”
+Dialogue: 0,0:09:59.97,0:10:04.59,Default,,0000,0000,0000,,Even though the form is different,\Nit’s still Lord Orochimaru before your eyes.
+Dialogue: 0,0:10:05.05,0:10:08.39,Default,,0000,0000,0000,,If you don’t want to die,\Nuse more care in how you talk.
+Dialogue: 0,0:10:11.64,0:10:14.14,Default,,0000,0000,0000,,Wh-What? This quality of Chakra…
+Dialogue: 0,0:10:14.59,0:10:19.14,Default,,0000,0000,0000,,Yes… My future is inside this kid…
+Dialogue: 0,0:10:19.51,0:10:22.18,Default,,0000,0000,0000,,Hidden Leaf Hospital
+Dialogue: 0,0:10:31.85,0:10:34.39,Default,,0000,0000,0000,,I’m going to where Orochimaru is!
+Dialogue: 0,0:10:35.39,0:10:39.51,Default,,0000,0000,0000,,Please…bring back Sasuke!
+Dialogue: 0,0:10:41.59,0:10:46.68,Default,,0000,0000,0000,,I’ll bring Sasuke back without fail!\NI promise that on my life!
+Dialogue: 0,0:10:54.85,0:10:57.59,Default,,0000,0000,0000,,Oh…You were awake, huh?
+Dialogue: 0,0:10:58.80,0:11:00.26,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:11:04.59,0:11:08.05,Default,,0000,0000,0000,,I’m going on ahead to Choji!\NWhat about you?
+Dialogue: 0,0:11:08.59,0:11:12.18,Default,,0000,0000,0000,,I’m going on ahead to…\NNaruto and Sasuke!
+Dialogue: 0,0:11:13.05,0:11:17.60,Default,,0000,0000,0000,,I see… So everyone’s okay.\NThat’s good.
+Dialogue: 0,0:11:22.85,0:11:25.10,Default,,0000,0000,0000,,Then, Sasuke…
+Dialogue: 0,0:11:26.97,0:11:29.59,Default,,0000,0000,0000,,Yeah…he's gone.
+Dialogue: 0,0:11:45.30,0:11:47.85,Default,,0000,0000,0000,,Intensive Care Unit 6
+Dialogue: 0,0:11:48.30,0:11:50.47,Default,,0000,0000,0000,,Then, I still can’t see him…?
+Dialogue: 0,0:11:51.35,0:11:56.22,Default,,0000,0000,0000,,Yeah… But Lady Tsunade said that\Nhe should regain consciousness soon.
+Dialogue: 0,0:11:58.18,0:11:59.59,Default,,0000,0000,0000,,Thank goodness…
+Dialogue: 0,0:12:00.47,0:12:02.26,Default,,0000,0000,0000,,It’s really a great help that
+Dialogue: 0,0:12:02.30,0:12:04.85,Default,,0000,0000,0000,,Lady Tsunade returned\Nto the Leaf Village.
+Dialogue: 0,0:12:05.89,0:12:08.43,Default,,0000,0000,0000,,If she hadn’t, right about now,\NChoji would be…
+Dialogue: 0,0:12:10.59,0:12:13.97,Default,,0000,0000,0000,,The Lady Fifth…Hokage.
+Dialogue: 0,0:12:23.85,0:12:25.18,Default,,0000,0000,0000,,You’ve come to visit?
+Dialogue: 0,0:12:26.59,0:12:28.47,Default,,0000,0000,0000,,Information sure travels fast.
+Dialogue: 0,0:12:35.10,0:12:36.55,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:12:37.60,0:12:38.72,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:44.18,0:12:46.68,Default,,0000,0000,0000,,I heard you suffered\Nquite a serious injury…
+Dialogue: 0,0:12:47.35,0:12:49.30,Default,,0000,0000,0000,,But you look well, considering.
+Dialogue: 0,0:12:54.10,0:12:56.59,Default,,0000,0000,0000,,I’m sorry… Sakura…
+Dialogue: 0,0:13:00.10,0:13:02.14,Default,,0000,0000,0000,,Why do you apologize?
+Dialogue: 0,0:13:07.68,0:13:11.01,Default,,0000,0000,0000,,Being you, you probably\Ngot reckless again, right?!
+Dialogue: 0,0:13:11.47,0:13:14.05,Default,,0000,0000,0000,,Jeez, you look like a mummy…
+Dialogue: 0,0:13:15.43,0:13:17.76,Default,,0000,0000,0000,,I’m sorry… I…
+Dialogue: 0,0:13:18.55,0:13:23.18,Default,,0000,0000,0000,,Hey… The weather’s nice today.\NSo open the curtains.
+Dialogue: 0,0:13:27.80,0:13:29.85,Default,,0000,0000,0000,,Sakura! I…
+Dialogue: 0,0:13:29.89,0:13:32.51,Default,,0000,0000,0000,,I’ll keep my promise, no matter what!
+Dialogue: 0,0:13:32.72,0:13:36.80,Default,,0000,0000,0000,,I promised on my life.\NThat’s what I said, so I…!
+Dialogue: 0,0:13:38.85,0:13:42.10,Default,,0000,0000,0000,,It’s okay already, Naruto…
+Dialogue: 0,0:13:43.39,0:13:44.80,Default,,0000,0000,0000,,Sakura! He…
+Dialogue: 0,0:13:44.85,0:13:46.59,Default,,0000,0000,0000,,I always…
+Dialogue: 0,0:13:47.14,0:13:49.60,Default,,0000,0000,0000,,said that, so… I…
+Dialogue: 0,0:13:50.35,0:13:53.43,Default,,0000,0000,0000,,I stick straight to what I say!
+Dialogue: 0,0:13:53.72,0:13:56.26,Default,,0000,0000,0000,,That’s my Way of Ninja!
+Dialogue: 0,0:14:15.47,0:14:16.59,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:14:20.59,0:14:22.72,Default,,0000,0000,0000,,Thanks, Naruto…
+Dialogue: 0,0:14:27.97,0:14:32.30,Default,,0000,0000,0000,,I’ll get right to healing this injury\Nand I’ve got to bring Sasuke back!
+Dialogue: 0,0:14:35.47,0:14:37.43,Default,,0000,0000,0000,,Wh-What was that?!
+Dialogue: 0,0:14:41.93,0:14:44.10,Default,,0000,0000,0000,,Per…Pervy Sage?!
+Dialogue: 0,0:14:45.05,0:14:46.55,Default,,0000,0000,0000,,Yo!
+Dialogue: 0,0:14:49.93,0:14:53.39,Default,,0000,0000,0000,,I’ve come today to tell you\Nsomething important.
+Dialogue: 0,0:14:53.97,0:14:57.18,Default,,0000,0000,0000,,From here on,\Nas my official disciple,
+Dialogue: 0,0:14:57.22,0:15:00.26,Default,,0000,0000,0000,,I’ll train you to become\Na full-fledged Shinobi in three years.
+Dialogue: 0,0:15:00.68,0:15:02.05,Default,,0000,0000,0000,,Three years…?
+Dialogue: 0,0:15:02.60,0:15:05.60,Default,,0000,0000,0000,,I’ve received some credible information\Nfrom a certain source
+Dialogue: 0,0:15:05.64,0:15:07.01,Default,,0000,0000,0000,,concerning the “Akatsuki.”
+Dialogue: 0,0:15:07.30,0:15:08.60,Default,,0000,0000,0000,,Akatsuki…
+Dialogue: 0,0:15:10.05,0:15:13.72,Default,,0000,0000,0000,,It seems that it will be\Nthree or four years
+Dialogue: 0,0:15:13.76,0:15:16.59,Default,,0000,0000,0000,,before they come after you next.
+Dialogue: 0,0:15:19.05,0:15:20.72,Default,,0000,0000,0000,,I don’t care about that!
+Dialogue: 0,0:15:21.80,0:15:23.93,Default,,0000,0000,0000,,Talking about stuff that’s\Nso far down the road…
+Dialogue: 0,0:15:23.97,0:15:27.05,Default,,0000,0000,0000,,I don’t have the time\Nto be doing slowpoke training!
+Dialogue: 0,0:15:27.60,0:15:29.35,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:15:29.93,0:15:32.51,Default,,0000,0000,0000,,If I don’t go after\NSasuke immediately,
+Dialogue: 0,0:15:32.55,0:15:35.43,Default,,0000,0000,0000,,he might be killed by Orochimaru!
+Dialogue: 0,0:15:35.93,0:15:40.85,Default,,0000,0000,0000,,“Immortal” doesn’t mean that\Nthe flesh is being maintained as is.
+Dialogue: 0,0:15:41.85,0:15:43.80,Default,,0000,0000,0000,,Before his body decays,
+Dialogue: 0,0:15:43.85,0:15:48.35,Default,,0000,0000,0000,,a strong and new flesh will be made\Ninto a vessel for his soul.
+Dialogue: 0,0:15:52.51,0:15:55.43,Default,,0000,0000,0000,,It seems you’ve learned\Nof the true purpose
+Dialogue: 0,0:15:55.47,0:15:57.59,Default,,0000,0000,0000,,for Orochimaru seeking Sasuke…
+Dialogue: 0,0:15:57.60,0:16:00.59,Default,,0000,0000,0000,,Huh?! Then that means you also knew…?
+Dialogue: 0,0:16:01.51,0:16:06.05,Default,,0000,0000,0000,,I was looking into\NOrochimaru’s Immortality Jutsu.
+Dialogue: 0,0:16:06.39,0:16:07.89,Default,,0000,0000,0000,,It seems with that Jutsu,
+Dialogue: 0,0:16:07.93,0:16:13.59,Default,,0000,0000,0000,,he can’t reincarnate into\Nthe next body for three years.
+Dialogue: 0,0:16:14.10,0:16:19.26,Default,,0000,0000,0000,,And unable to wait for Sasuke,\Nhe just recently reincarnated…
+Dialogue: 0,0:16:19.30,0:16:23.97,Default,,0000,0000,0000,,It’ll be okay for three years from now…\NThere is time.
+Dialogue: 0,0:16:24.59,0:16:26.93,Default,,0000,0000,0000,,That’s not a lie, is it?!
+Dialogue: 0,0:16:27.59,0:16:29.18,Default,,0000,0000,0000,,Not a lie, is it?!
+Dialogue: 0,0:16:31.22,0:16:32.47,Default,,0000,0000,0000,,Nope…
+Dialogue: 0,0:16:37.30,0:16:38.85,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:16:41.10,0:16:43.85,Default,,0000,0000,0000,,Forget about Sasuke…
+Dialogue: 0,0:16:45.76,0:16:50.18,Default,,0000,0000,0000,,Sasuke went to Orochimaru\Non his own accord.
+Dialogue: 0,0:16:50.55,0:16:53.39,Default,,0000,0000,0000,,No matter what you do,\Nhe won’t change.
+Dialogue: 0,0:16:56.18,0:16:58.72,Default,,0000,0000,0000,,I’ve seen many Shinobi, so I know…
+Dialogue: 0,0:16:58.76,0:17:02.30,Default,,0000,0000,0000,,Sasuke is the same kind\Nas Orochimaru.
+Dialogue: 0,0:17:04.59,0:17:08.59,Default,,0000,0000,0000,,If you’re thinking about bringing him back,\Njust forget it.
+Dialogue: 0,0:17:08.59,0:17:11.85,Default,,0000,0000,0000,,That’s something an arrogant fool\Nwould do!
+Dialogue: 0,0:17:12.01,0:17:17.68,Default,,0000,0000,0000,,He may be nothing to you\Nbut he’s my friend!
+Dialogue: 0,0:17:17.97,0:17:20.59,Default,,0000,0000,0000,,Would a friend hurt his comrade?!
+Dialogue: 0,0:17:20.59,0:17:23.72,Default,,0000,0000,0000,,Take a look at your current plight!
+Dialogue: 0,0:17:24.93,0:17:26.10,Default,,0000,0000,0000,,This is…!
+Dialogue: 0,0:17:32.60,0:17:35.59,Default,,0000,0000,0000,,Why? Why would you…?
+Dialogue: 0,0:17:36.22,0:17:38.76,Default,,0000,0000,0000,,We were called Sannin together…
+Dialogue: 0,0:17:38.80,0:17:41.89,Default,,0000,0000,0000,,Weren’t we comrades\Nsince we were kids?!
+Dialogue: 0,0:17:43.59,0:17:46.97,Default,,0000,0000,0000,,In every regard,\Nyou’re a foolish guy, Jiraiya…
+Dialogue: 0,0:17:47.01,0:17:50.22,Default,,0000,0000,0000,,You lack thought\Nin everything you do.
+Dialogue: 0,0:17:50.85,0:17:55.39,Default,,0000,0000,0000,,That’s why you didn’t notice\Nwhat I was doing.
+Dialogue: 0,0:17:55.59,0:17:59.60,Default,,0000,0000,0000,,Can’t you rethink it, Orochimaru?
+Dialogue: 0,0:18:00.01,0:18:01.59,Default,,0000,0000,0000,,Absurd!
+Dialogue: 0,0:18:02.59,0:18:04.43,Default,,0000,0000,0000,,How can you be so stupid?!
+Dialogue: 0,0:18:06.59,0:18:08.72,Default,,0000,0000,0000,,No matter how much I wanted it…
+Dialogue: 0,0:18:09.18,0:18:12.18,Default,,0000,0000,0000,,in the end, there was no way\Nhe would come back.
+Dialogue: 0,0:18:12.59,0:18:17.55,Default,,0000,0000,0000,,After the agony, all that’s left was\Nmy own powerlessness and regret.
+Dialogue: 0,0:18:17.93,0:18:22.59,Default,,0000,0000,0000,,I don’t want you to go through\Nthe same thing…
+Dialogue: 0,0:18:27.18,0:18:30.18,Default,,0000,0000,0000,,If you’re going to go after Sasuke,\Nthen there’ll be no training.
+Dialogue: 0,0:18:30.72,0:18:32.80,Default,,0000,0000,0000,,I’ll get Anbu Black Ops to watch you
+Dialogue: 0,0:18:32.85,0:18:35.89,Default,,0000,0000,0000,,and depending on the case,\Nprohibit you from leaving the village.
+Dialogue: 0,0:18:38.10,0:18:40.30,Default,,0000,0000,0000,,You’re not just an ordinary kid…
+Dialogue: 0,0:18:40.68,0:18:43.43,Default,,0000,0000,0000,,You possess the Nine Tail Fox\Nthat the Akatsuki is after!
+Dialogue: 0,0:18:43.68,0:18:46.22,Default,,0000,0000,0000,,This is serious.\NI'll just have to do that…
+Dialogue: 0,0:18:46.26,0:18:49.93,Default,,0000,0000,0000,,if you’re going to act on your own\Nwithout listening to what I say.
+Dialogue: 0,0:18:52.89,0:18:55.30,Default,,0000,0000,0000,,Eventually, you’re going to have to deal
+Dialogue: 0,0:18:55.35,0:18:58.47,Default,,0000,0000,0000,,with guys more troublesome\Nthan Orochimaru.
+Dialogue: 0,0:18:59.59,0:19:01.72,Default,,0000,0000,0000,,Give up on Sasuke.
+Dialogue: 0,0:19:03.05,0:19:05.64,Default,,0000,0000,0000,,Sooner or later this was\Ngoing to happen.
+Dialogue: 0,0:19:05.93,0:19:09.59,Default,,0000,0000,0000,,Don’t suffer anymore!\NForget and dismiss him.
+Dialogue: 0,0:19:10.39,0:19:12.01,Default,,0000,0000,0000,,It’s not just Jutsu or power…
+Dialogue: 0,0:19:12.14,0:19:16.10,Default,,0000,0000,0000,,If you’re a Shinobi, develop eyes that\Ncan make the right judgment.
+Dialogue: 0,0:19:16.59,0:19:19.59,Default,,0000,0000,0000,,And if you’re going to live\Nas a Shinobi, become wise.
+Dialogue: 0,0:19:20.14,0:19:21.85,Default,,0000,0000,0000,,If you remain a fool…
+Dialogue: 0,0:19:21.89,0:19:24.55,Default,,0000,0000,0000,,the reality is that it will be tough\Nliving in this world.
+Dialogue: 0,0:19:26.89,0:19:28.05,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:19:30.43,0:19:33.26,Default,,0000,0000,0000,,If that’s what being wise is…
+Dialogue: 0,0:19:33.30,0:19:35.59,Default,,0000,0000,0000,,Then I’m fine being a fool for life!
+Dialogue: 0,0:19:37.47,0:19:38.59,Default,,0000,0000,0000,,Even if by myself,
+Dialogue: 0,0:19:38.59,0:19:42.59,Default,,0000,0000,0000,,I’ll create even more awesome Jutsu\Nand save Sasuke no matter what!
+Dialogue: 0,0:19:42.59,0:19:46.26,Default,,0000,0000,0000,,And, and,\NI’ll even kick the Akatsuki’s butt!
+Dialogue: 0,0:20:01.59,0:20:04.59,Default,,0000,0000,0000,,If someone like you\Nwere to do it alone…
+Dialogue: 0,0:20:05.60,0:20:07.43,Default,,0000,0000,0000,,the best you’d be able\Nto come up with
+Dialogue: 0,0:20:07.47,0:20:10.47,Default,,0000,0000,0000,,would be some\Nstupid erotic Jutsu, anyway.
+Dialogue: 0,0:20:16.35,0:20:17.89,Default,,0000,0000,0000,,It might somehow work out
+Dialogue: 0,0:20:17.93,0:20:20.72,Default,,0000,0000,0000,,if you are a big fool and\Nnot an ordinary fool…
+Dialogue: 0,0:20:21.05,0:20:24.01,Default,,0000,0000,0000,,Be prepared once\Nyou’re out of the hospital,
+Dialogue: 0,0:20:24.05,0:20:25.89,Default,,0000,0000,0000,,you big fool.
+Dialogue: 0,0:20:27.47,0:20:29.05,Default,,0000,0000,0000,,See you then.
+Dialogue: 0,0:20:29.18,0:20:30.59,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:20:38.59,0:20:42.10,Default,,0000,0000,0000,,– It’s been seven years since…\N– …all the members gathered like this.
+Dialogue: 0,0:20:42.14,0:20:45.05,Default,,0000,0000,0000,,Since Orochimaru left\Nthe organization.
+Dialogue: 0,0:20:45.55,0:20:49.05,Default,,0000,0000,0000,,That Orochimaru has gotten\Nthe Sharingan.
+Dialogue: 0,0:20:49.10,0:20:52.01,Default,,0000,0000,0000,,Itachi…Your little brother?
+Dialogue: 0,0:20:54.64,0:20:56.59,Default,,0000,0000,0000,,Don’t get hasty. Yeah.
+Dialogue: 0,0:20:56.60,0:20:59.47,Default,,0000,0000,0000,,We’ll kill Orochimaru eventually…
+Dialogue: 0,0:21:00.55,0:21:02.89,Default,,0000,0000,0000,,More importantly,\Nthere are only three years left.
+Dialogue: 0,0:21:03.35,0:21:05.68,Default,,0000,0000,0000,,Can everyone accomplish\Nthe work required of them?
+Dialogue: 0,0:21:05.89,0:21:06.76,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:07.35,0:21:10.30,Default,,0000,0000,0000,,Yes, our goal is…
+Dialogue: 0,0:21:10.51,0:21:15.68,Default,,0000,0000,0000,,to get everything,\Nincluding the Nine Tail Fox in question!
+Dialogue: 0,0:21:24.39,0:21:29.01,Default,,0000,0000,0000,,When I recalled the parts one by one,
+Dialogue: 0,0:21:29.05,0:21:35.47,Default,,0000,0000,0000,,I felt as though\NI had understood everything
+Dialogue: 0,0:21:35.51,0:21:45.93,Default,,0000,0000,0000,,Faded words which I kept so close to me
+Dialogue: 0,0:21:46.26,0:21:55.64,Default,,0000,0000,0000,,Speechless nights, a hint of warmth,
+Dialogue: 0,0:21:57.51,0:22:02.59,Default,,0000,0000,0000,,and this distant yearning for you
+Dialogue: 0,0:22:02.72,0:22:11.76,Default,,0000,0000,0000,,I live, simply repeating this cycle
+Dialogue: 0,0:22:13.93,0:22:23.59,Default,,0000,0000,0000,,Held in my two hands\NA droplet of time
+Dialogue: 0,0:22:24.89,0:22:33.93,Default,,0000,0000,0000,,Softly clutching forgotten memories\NLost words
+Dialogue: 0,0:22:42.72,0:22:46.60,Default,,0000,0000,0000,,I’ll keep these thoughts…
+Dialogue: 0,0:22:50.89,0:22:54.80,Default,,0000,0000,0000,,Sakura’s been weird all along\Never since Sasuke left.
+Dialogue: 0,0:22:55.18,0:22:56.64,Default,,0000,0000,0000,,I can’t put it well,
+Dialogue: 0,0:22:56.68,0:22:59.59,Default,,0000,0000,0000,,but she’s gloomy or fretting\Nor something.
+Dialogue: 0,0:23:00.05,0:23:03.18,Default,,0000,0000,0000,,On top of that she says,\N“This time I’ll do my best on my own.”
+Dialogue: 0,0:23:03.93,0:23:06.47,Default,,0000,0000,0000,,What the heck does that mean?
+Dialogue: 0,0:23:06.59,0:23:08.85,Default,,0000,0000,0000,,It’s bugging me, it’s bugging me!
+Dialogue: 0,0:23:08.89,0:23:12.22,Default,,0000,0000,0000,,This isn’t the time for me\Nto be relaxing in the hospital!
+Dialogue: 0,0:23:12.55,0:23:17.22,Default,,0000,0000,0000,,Next episode:\N“Deep Cover?! A Super S-Rank Mission”

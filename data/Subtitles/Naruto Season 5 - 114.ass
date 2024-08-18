@@ -1,0 +1,248 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.73,0:00:21.06,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.89,0:00:29.89,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.89,0:00:35.27,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.31,0:00:39.44,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.69,0:00:45.60,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.23,0:00:53.15,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.60,0:00:58.02,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:58.06,0:01:05.15,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.19,0:01:12.31,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.35,0:01:18.98,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.44,0:01:28.94,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:42.94,0:01:46.89,Default,,0000,0000,0000,,Shikamaru always believed in me…
+Dialogue: 0,0:01:47.69,0:01:53.10,Default,,0000,0000,0000,,More than myself or Neji or\Nany of us here… He is stronger!
+Dialogue: 0,0:01:58.27,0:01:59.69,Default,,0000,0000,0000,,Let’s go, fatso!
+Dialogue: 0,0:02:01.02,0:02:02.52,Default,,0000,0000,0000,,Don’t YOU say that!
+Dialogue: 0,0:02:03.40,0:02:05.56,Default,,0000,0000,0000,,Partial Expansion Jutsu...
+Dialogue: 0,0:02:07.19,0:02:07.90,Default,,0000,0000,0000,,Arm!
+Dialogue: 0,0:02:14.85,0:02:16.77,Default,,0000,0000,0000,,Partial Expansion Jutsu...
+Dialogue: 0,0:02:19.02,0:02:19.94,Default,,0000,0000,0000,,Leg!
+Dialogue: 0,0:02:21.02,0:02:22.81,Default,,0000,0000,0000,,Partial Expansion Jutsu...
+Dialogue: 0,0:02:22.85,0:02:23.35,Default,,0000,0000,0000,,Arm!
+Dialogue: 0,0:02:37.90,0:02:40.89,Default,,0000,0000,0000,,Don’t mess with me! Scum!
+Dialogue: 0,0:02:44.48,0:02:45.19,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:02:45.60,0:02:46.15,Default,,0000,0000,0000,,What!
+Dialogue: 0,0:02:46.19,0:02:48.56,Default,,0000,0000,0000,,Super Expansion Jutsu!
+Dialogue: 0,0:03:00.60,0:03:06.56,Default,,0000,0000,0000,,Good-bye Old Friend!\NI’ll Always Believe in You!
+Dialogue: 0,0:03:10.02,0:03:12.65,Default,,0000,0000,0000,,I did it…Shikamaru…
+Dialogue: 0,0:03:17.23,0:03:17.89,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:22.77,0:03:25.06,Default,,0000,0000,0000,,I can’t believe I had to get to\Nthe second state
+Dialogue: 0,0:03:25.10,0:03:27.89,Default,,0000,0000,0000,,for an opponent like this one…
+Dialogue: 0,0:03:31.94,0:03:33.89,Default,,0000,0000,0000,,Slamming Palm
+Dialogue: 0,0:03:53.69,0:03:56.15,Default,,0000,0000,0000,,What…What is that appearance?!
+Dialogue: 0,0:03:56.90,0:03:59.31,Default,,0000,0000,0000,,Now that it’s come to this, it’s over.
+Dialogue: 0,0:03:59.85,0:04:03.89,Default,,0000,0000,0000,,In the second state, I can put out ten times\Nmore power than I have thus far.
+Dialogue: 0,0:04:03.89,0:04:05.40,Default,,0000,0000,0000,,I’m invincible.
+Dialogue: 0,0:04:14.73,0:04:16.65,Default,,0000,0000,0000,,It’s too painful to move…
+Dialogue: 0,0:04:16.85,0:04:20.02,Default,,0000,0000,0000,,Who knew that the side effects\Nof the Curry Pill would be this intense.
+Dialogue: 0,0:04:22.89,0:04:26.89,Default,,0000,0000,0000,,This is what happens…
+Dialogue: 0,0:04:27.35,0:04:30.81,Default,,0000,0000,0000,,to a powerless scum for butting in!
+Dialogue: 0,0:04:34.52,0:04:39.56,Default,,0000,0000,0000,,Playing Ninja better suits you!
+Dialogue: 0,0:04:43.81,0:04:47.23,Default,,0000,0000,0000,,Raise your hand if you’re playing Ninja.
+Dialogue: 0,0:04:49.89,0:04:51.19,Default,,0000,0000,0000,,Wait…
+Dialogue: 0,0:04:51.48,0:04:53.52,Default,,0000,0000,0000,,Rock, paper…scissors!
+Dialogue: 0,0:04:54.31,0:04:55.19,Default,,0000,0000,0000,,Split!
+Dialogue: 0,0:04:55.89,0:04:58.98,Default,,0000,0000,0000,,One, two, three…
+Dialogue: 0,0:04:59.60,0:05:01.89,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:05:05.94,0:05:08.85,Default,,0000,0000,0000,,99…100!
+Dialogue: 0,0:05:14.94,0:05:16.89,Default,,0000,0000,0000,,Hey! I said, split!
+Dialogue: 0,0:05:18.85,0:05:19.81,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:05:20.15,0:05:21.48,Default,,0000,0000,0000,,Found you!
+Dialogue: 0,0:05:22.06,0:05:24.44,Default,,0000,0000,0000,,Give up quietly, the two of you!
+Dialogue: 0,0:05:31.31,0:05:33.60,Default,,0000,0000,0000,,We finally caught ‘em!
+Dialogue: 0,0:05:33.89,0:05:38.27,Default,,0000,0000,0000,,I’m sick of this!\NThe team with Choji always loses!
+Dialogue: 0,0:05:39.77,0:05:40.85,Default,,0000,0000,0000,,Sorry…
+Dialogue: 0,0:05:59.65,0:06:03.31,Default,,0000,0000,0000,,I need a lot of Chakra\Nfor this "second state."
+Dialogue: 0,0:06:03.69,0:06:07.52,Default,,0000,0000,0000,,I’ll take whatever Chakra\Nyou have left!
+Dialogue: 0,0:06:08.77,0:06:11.89,Default,,0000,0000,0000,,Well then, I’ll take them now.
+Dialogue: 0,0:06:17.69,0:06:19.89,Default,,0000,0000,0000,,There’s not much left…
+Dialogue: 0,0:06:19.89,0:06:21.73,Default,,0000,0000,0000,,You’re empty!
+Dialogue: 0,0:06:22.44,0:06:25.48,Default,,0000,0000,0000,,I haven’t had nearly enough to eat…
+Dialogue: 0,0:06:41.23,0:06:43.90,Default,,0000,0000,0000,,I said I haven’t had enough to eat!
+Dialogue: 0,0:06:45.65,0:06:46.48,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:06:46.89,0:06:49.89,Default,,0000,0000,0000,,What, just one last piece, huh…
+Dialogue: 0,0:06:51.27,0:06:54.60,Default,,0000,0000,0000,,When I said I haven’t had\Nenough to eat…
+Dialogue: 0,0:06:58.35,0:07:03.35,Default,,0000,0000,0000,,Just as I thought, you’re the scum\Nused as a sacrificial pawn.
+Dialogue: 0,0:07:04.35,0:07:09.06,Default,,0000,0000,0000,,Die…you pitiful fatso, the odd man out.
+Dialogue: 0,0:07:09.90,0:07:12.81,Default,,0000,0000,0000,,I won’t let you play Ninja with us!
+Dialogue: 0,0:07:13.44,0:07:14.81,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:07:15.65,0:07:18.02,Default,,0000,0000,0000,,Because if we let you play,\Nwe’ll lose.
+Dialogue: 0,0:07:18.19,0:07:19.85,Default,,0000,0000,0000,,You’re slow.
+Dialogue: 0,0:07:22.40,0:07:26.35,Default,,0000,0000,0000,,Yeah, but…then the number\Nof people won’t be even.
+Dialogue: 0,0:07:26.40,0:07:29.89,Default,,0000,0000,0000,,Japanese chess is fun\Nbecause the number of pieces are even.
+Dialogue: 0,0:07:32.02,0:07:35.89,Default,,0000,0000,0000,,A piece that is useless is\Nthe same as not having that piece!
+Dialogue: 0,0:07:36.10,0:07:37.35,Default,,0000,0000,0000,,Yeah, that’s right!
+Dialogue: 0,0:07:40.60,0:07:42.94,Default,,0000,0000,0000,,We’re the ones with fewer people\Nand we’re not complaining.
+Dialogue: 0,0:07:42.98,0:07:44.27,Default,,0000,0000,0000,,Hurry up, let’s do it!
+Dialogue: 0,0:07:44.56,0:07:46.89,Default,,0000,0000,0000,,if it’s okay with you, then it’s fine…
+Dialogue: 0,0:07:47.65,0:07:48.89,Default,,0000,0000,0000,,Okay, it’s settled!
+Dialogue: 0,0:07:48.89,0:07:50.73,Default,,0000,0000,0000,,We can win it!
+Dialogue: 0,0:07:50.77,0:07:51.10,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:07:51.15,0:07:53.10,Default,,0000,0000,0000,,Where are we gonna hide this time?
+Dialogue: 0,0:08:30.23,0:08:34.77,Default,,0000,0000,0000,,And um, the whole Akimichi Clan\Nis fat and slow…
+Dialogue: 0,0:08:34.89,0:08:37.06,Default,,0000,0000,0000,,That’s what everyone says.
+Dialogue: 0,0:08:37.10,0:08:38.23,Default,,0000,0000,0000,,Really...
+Dialogue: 0,0:08:42.19,0:08:47.69,Default,,0000,0000,0000,,But Choji, you’re a kindhearted guy…\Nmore than everyone else.
+Dialogue: 0,0:08:49.89,0:08:55.15,Default,,0000,0000,0000,,One day, you’ll surely make friends\Nwho’ll see that quality of yours.
+Dialogue: 0,0:08:56.89,0:09:00.73,Default,,0000,0000,0000,,And then you should cherish\Nthose friends
+Dialogue: 0,0:09:00.77,0:09:03.35,Default,,0000,0000,0000,,and be the kind of friends\Nwho believe in each other…
+Dialogue: 0,0:09:05.60,0:09:10.89,Default,,0000,0000,0000,,Can I really make…friends like that…\Nsomeone like me…?
+Dialogue: 0,0:09:11.52,0:09:13.23,Default,,0000,0000,0000,,Rest in peace…
+Dialogue: 0,0:09:13.27,0:09:15.77,Default,,0000,0000,0000,,you’re not the only one\NI’m going to get.
+Dialogue: 0,0:09:16.44,0:09:18.60,Default,,0000,0000,0000,,After I kill you,
+Dialogue: 0,0:09:18.65,0:09:24.94,Default,,0000,0000,0000,,I’m going to get the cruel, sleazy,\Nmean guys who used you as a sacrifice!
+Dialogue: 0,0:09:32.19,0:09:35.35,Default,,0000,0000,0000,,Because he…promised…
+Dialogue: 0,0:09:39.89,0:09:42.77,Default,,0000,0000,0000,,You better catch up with us…Choji.
+Dialogue: 0,0:09:42.89,0:09:43.89,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:44.89,0:09:50.65,Default,,0000,0000,0000,,He’s definitely going to defeat\Nthe opponent and come after us…!
+Dialogue: 0,0:09:51.94,0:09:52.73,Default,,0000,0000,0000,,Yep!
+Dialogue: 0,0:09:52.77,0:09:56.48,Default,,0000,0000,0000,,That’s right…he can do it.
+Dialogue: 0,0:09:58.85,0:10:00.89,Default,,0000,0000,0000,,Okay! While I’m here…
+Dialogue: 0,0:10:02.10,0:10:03.89,Default,,0000,0000,0000,,Me too…
+Dialogue: 0,0:10:07.89,0:10:09.35,Default,,0000,0000,0000,,All right, everyone,
+Dialogue: 0,0:10:09.40,0:10:12.27,Default,,0000,0000,0000,,we get Sasuke back\Nbefore Choji catches up!
+Dialogue: 0,0:10:13.90,0:10:14.77,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:10:15.98,0:10:18.19,Default,,0000,0000,0000,,All right! Here we come!
+Dialogue: 0,0:10:32.15,0:10:34.81,Default,,0000,0000,0000,,He’s late…that Jirobo…
+Dialogue: 0,0:10:34.98,0:10:37.52,Default,,0000,0000,0000,,He’s greedy and eats so much…
+Dialogue: 0,0:10:37.89,0:10:40.81,Default,,0000,0000,0000,,He’s probably squeezing out Chakra\Neven from the marrow of their bones.
+Dialogue: 0,0:10:40.94,0:10:43.85,Default,,0000,0000,0000,,I wish he had switched\Nwith me already…
+Dialogue: 0,0:10:49.85,0:10:52.44,Default,,0000,0000,0000,,Here, I’ll give it back!
+Dialogue: 0,0:10:55.65,0:10:56.85,Default,,0000,0000,0000,,Well, then…
+Dialogue: 0,0:10:56.89,0:10:59.52,Default,,0000,0000,0000,,If I linger,\NI won’t be able to catch up.
+Dialogue: 0,0:10:59.90,0:11:02.89,Default,,0000,0000,0000,,It’s about time to put an end to this.
+Dialogue: 0,0:11:06.10,0:11:09.15,Default,,0000,0000,0000,,The Chili Pepper Pill is left…
+Dialogue: 0,0:11:09.40,0:11:15.89,Default,,0000,0000,0000,,But…if I take that…\NI’ll die, without a doubt…
+Dialogue: 0,0:11:20.89,0:11:23.89,Default,,0000,0000,0000,,Don’t you dare die, Choji…
+Dialogue: 0,0:11:28.60,0:11:31.89,Default,,0000,0000,0000,,We’ve been doing things together\Nsince that day…
+Dialogue: 0,0:11:53.06,0:11:54.89,Default,,0000,0000,0000,,Oh…! You…
+Dialogue: 0,0:11:56.02,0:11:58.65,Default,,0000,0000,0000,,You…were there just now…
+Dialogue: 0,0:11:59.40,0:12:01.02,Default,,0000,0000,0000,,What about playing Ninja?
+Dialogue: 0,0:12:01.89,0:12:03.77,Default,,0000,0000,0000,,It was a drag,\Nso I pulled myself out from it.
+Dialogue: 0,0:12:03.81,0:12:04.31,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:12:04.81,0:12:07.35,Default,,0000,0000,0000,,By the way, that’s my special seat.
+Dialogue: 0,0:12:07.69,0:12:09.02,Default,,0000,0000,0000,,Your special seat?
+Dialogue: 0,0:12:09.35,0:12:14.52,Default,,0000,0000,0000,,I like to lie on my back and\Nlook at the clouds on a nice day like this.
+Dialogue: 0,0:12:16.60,0:12:18.40,Default,,0000,0000,0000,,You’ve come to look at clouds?
+Dialogue: 0,0:12:19.89,0:12:21.89,Default,,0000,0000,0000,,Mind if I sit there?
+Dialogue: 0,0:12:22.27,0:12:23.89,Default,,0000,0000,0000,,Oh…sure!
+Dialogue: 0,0:12:27.94,0:12:31.40,Default,,0000,0000,0000,,This is a good place.\NYou can see the clouds well.
+Dialogue: 0,0:12:33.89,0:12:34.69,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:12:38.94,0:12:40.27,Default,,0000,0000,0000,,Why don’t you…
+Dialogue: 0,0:12:40.31,0:12:41.02,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:12:42.89,0:12:46.89,Default,,0000,0000,0000,,watch the clouds with me\Nand lounge around?
+Dialogue: 0,0:12:48.73,0:12:49.56,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:50.40,0:12:54.23,Default,,0000,0000,0000,,You know! I-I brought snacks.\NWant some?
+Dialogue: 0,0:12:54.27,0:12:55.52,Default,,0000,0000,0000,,Oh, that’d be great!
+Dialogue: 0,0:12:58.89,0:12:59.73,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:13:04.02,0:13:07.81,Default,,0000,0000,0000,,Eating potato chips\Nwhile watching clouds…this is the best.
+Dialogue: 0,0:13:07.98,0:13:08.73,Default,,0000,0000,0000,,Yep!
+Dialogue: 0,0:13:13.31,0:13:16.73,Default,,0000,0000,0000,,My name is Shikamaru…\Nfrom the Nara Clan.
+Dialogue: 0,0:13:16.98,0:13:18.89,Default,,0000,0000,0000,,You… What’s your name?
+Dialogue: 0,0:13:19.65,0:13:23.69,Default,,0000,0000,0000,,It’s Choji! Choji Akimichi\Nof the Akimichi Clan!
+Dialogue: 0,0:13:24.02,0:13:27.81,Default,,0000,0000,0000,,Choji, huh…\NI think I’ll get along with you.
+Dialogue: 0,0:13:28.89,0:13:29.98,Default,,0000,0000,0000,,Me, too!
+Dialogue: 0,0:13:40.31,0:13:44.89,Default,,0000,0000,0000,,We’ll always do things together\Nfrom now on, too.
+Dialogue: 0,0:13:46.90,0:13:47.89,Default,,0000,0000,0000,,Choji…!
+Dialogue: 0,0:13:57.89,0:14:02.27,Default,,0000,0000,0000,,Shikamaru… Sorry…I can’t go…
+Dialogue: 0,0:14:03.48,0:14:05.85,Default,,0000,0000,0000,,It’s over…
+Dialogue: 0,0:14:06.44,0:14:08.06,Default,,0000,0000,0000,,But, this guy…
+Dialogue: 0,0:14:09.85,0:14:12.73,Default,,0000,0000,0000,,I have to beat him…\Neven if it means death.
+Dialogue: 0,0:14:13.15,0:14:15.89,Default,,0000,0000,0000,,No matter what you do now,\Nit’s too late!
+Dialogue: 0,0:14:16.15,0:14:16.98,Default,,0000,0000,0000,,Crushing Palm!
+Dialogue: 0,0:14:42.98,0:14:45.31,Default,,0000,0000,0000,,Wh-What’s that…?
+Dialogue: 0,0:14:47.06,0:14:47.94,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:14:49.02,0:14:50.69,Default,,0000,0000,0000,,Boulder Blow!
+Dialogue: 0,0:14:53.19,0:14:54.23,Default,,0000,0000,0000,,It’s no good!
+Dialogue: 0,0:14:56.10,0:14:59.56,Default,,0000,0000,0000,,I’m 100 times stronger than before!
+Dialogue: 0,0:15:06.89,0:15:07.89,Default,,0000,0000,0000,,They say that food\Ncan be a reason
+Dialogue: 0,0:15:07.89,0:15:09.89,Default,,0000,0000,0000,,for people to hold a horrible grudge\Nagainst somebody.
+Dialogue: 0,0:15:10.31,0:15:16.02,Default,,0000,0000,0000,,The blow just now…\Nwas for eating the last bite of my snack…
+Dialogue: 0,0:15:16.77,0:15:17.56,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:15:17.89,0:15:21.23,Default,,0000,0000,0000,,This guy has so much Chakra that\Nhis body has changed physically!
+Dialogue: 0,0:15:21.89,0:15:23.56,Default,,0000,0000,0000,,And this is…
+Dialogue: 0,0:15:26.31,0:15:30.31,Default,,0000,0000,0000,,for making fun of me by calling me\Na sacrificial pawn and fat!
+Dialogue: 0,0:15:30.73,0:15:33.89,Default,,0000,0000,0000,,But what I can’t forgive you for\Nmore than anything else …
+Dialogue: 0,0:15:35.52,0:15:40.65,Default,,0000,0000,0000,,You sure do suffer when\Nyou have a stupid leader. You underlings!
+Dialogue: 0,0:15:40.69,0:15:42.90,Default,,0000,0000,0000,,Well… I’ll kill you losers
+Dialogue: 0,0:15:42.94,0:15:48.81,Default,,0000,0000,0000,,before you suffer working\Nunder a glum shadow lover like him!
+Dialogue: 0,0:15:49.73,0:15:53.31,Default,,0000,0000,0000,,You should blame your stupid leader\Nfor choosing you!
+Dialogue: 0,0:15:55.52,0:15:58.69,Default,,0000,0000,0000,,You insulted my best friend!
+Dialogue: 0,0:15:59.15,0:16:05.06,Default,,0000,0000,0000,,More than mocking me\Nby calling me fat,
+Dialogue: 0,0:16:05.10,0:16:08.02,Default,,0000,0000,0000,,and poaching the last bite\Nof a four-star meal…
+Dialogue: 0,0:16:09.90,0:16:11.19,Default,,0000,0000,0000,,I can’t forgive you for that!
+Dialogue: 0,0:16:13.89,0:16:16.90,Default,,0000,0000,0000,,All of my Chakra…to my left hand!
+Dialogue: 0,0:16:17.35,0:16:18.90,Default,,0000,0000,0000,,Uh, uh-oh…!
+Dialogue: 0,0:16:19.27,0:16:23.06,Default,,0000,0000,0000,,This blow…is heavier than my life!
+Dialogue: 0,0:16:23.89,0:16:26.60,Default,,0000,0000,0000,,W-Wait…! Don’t be hasty…!
+Dialogue: 0,0:17:10.23,0:17:11.52,Default,,0000,0000,0000,,I…I won.
+Dialogue: 0,0:17:12.56,0:17:15.19,Default,,0000,0000,0000,,Me… I won!
+Dialogue: 0,0:17:40.10,0:17:40.89,Default,,0000,0000,0000,,Everyone…
+Dialogue: 0,0:18:25.02,0:18:26.85,Default,,0000,0000,0000,,But Choji…
+Dialogue: 0,0:18:27.40,0:18:30.77,Default,,0000,0000,0000,,you’re a kindhearted guy,\Nmore than everyone else…
+Dialogue: 0,0:18:32.90,0:18:38.40,Default,,0000,0000,0000,,One day, you’ll surely make friends\Nwho’ll see that part of you…
+Dialogue: 0,0:18:40.31,0:18:44.23,Default,,0000,0000,0000,,And then you should cherish\Nthose friends
+Dialogue: 0,0:18:44.77,0:18:46.89,Default,,0000,0000,0000,,and be the kind of friends\Nwho believe in each other.
+Dialogue: 0,0:19:02.56,0:19:07.06,Default,,0000,0000,0000,,“Hurry up and get over here.”\Nlt’s Naruto.
+Dialogue: 0,0:19:08.15,0:19:10.89,Default,,0000,0000,0000,,“Everyone’s waiting.” 					Kiba…
+Dialogue: 0,0:19:12.65,0:19:14.02,Default,,0000,0000,0000,,Shikamaru…
+Dialogue: 0,0:19:29.10,0:19:30.90,Default,,0000,0000,0000,,Ino-Shika-Cho!
+Dialogue: 0,0:19:45.85,0:19:46.90,Default,,0000,0000,0000,,Even if it is just potato chips,
+Dialogue: 0,0:19:46.94,0:19:50.06,Default,,0000,0000,0000,,I won't let anybody else have\Nthe last piece, no matter who you are.
+Dialogue: 0,0:19:52.06,0:19:55.73,Default,,0000,0000,0000,,Choji and I have worked as a team\Nfor many years,
+Dialogue: 0,0:19:55.77,0:19:58.15,Default,,0000,0000,0000,,so coordinating with him\Nis easiest for me.
+Dialogue: 0,0:20:05.89,0:20:06.90,Default,,0000,0000,0000,,Dad…
+Dialogue: 0,0:20:07.89,0:20:11.94,Default,,0000,0000,0000,,I’ve made…a lot of friends…
+Dialogue: 0,0:20:48.98,0:20:49.89,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:20:56.15,0:20:56.94,Default,,0000,0000,0000,,Nothin’…
+Dialogue: 0,0:21:25.48,0:21:32.65,Default,,0000,0000,0000,,Once in a long while, once in a while
+Dialogue: 0,0:21:32.77,0:21:38.23,Default,,0000,0000,0000,,The remnants of a person\Nbroken by dreams
+Dialogue: 0,0:21:38.40,0:21:43.52,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:21:46.85,0:21:53.89,Default,,0000,0000,0000,,Clinging to the Divine,\Nclinging to Buddha
+Dialogue: 0,0:21:53.89,0:21:59.40,Default,,0000,0000,0000,,The remnants of a person crying
+Dialogue: 0,0:21:59.85,0:22:03.44,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:04.98,0:22:08.10,Default,,0000,0000,0000,,Rendezvous with a happy dance circle
+Dialogue: 0,0:22:08.15,0:22:11.94,Default,,0000,0000,0000,,This is my victory pose, round and around\N (round around)
+Dialogue: 0,0:22:12.31,0:22:15.27,Default,,0000,0000,0000,,Shake shake shake\NLet’s look
+Dialogue: 0,0:22:15.31,0:22:19.52,Default,,0000,0000,0000,,With a bye-bye rhythm that never ends
+Dialogue: 0,0:22:28.69,0:22:33.85,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:35.73,0:22:38.89,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:39.31,0:22:42.60,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:42.89,0:22:46.89,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:51.60,0:22:53.02,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:22:53.06,0:22:54.06,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:22:54.10,0:22:55.15,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:22:55.98,0:22:56.90,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:22:58.60,0:23:00.19,Default,,0000,0000,0000,,That damn spider bastard!
+Dialogue: 0,0:23:00.23,0:23:03.48,Default,,0000,0000,0000,,Me, Naruto, Kiba and Neji.\NOur careful planning is not working!
+Dialogue: 0,0:23:03.52,0:23:06.10,Default,,0000,0000,0000,,If we dawdle Sasuke will be gone!
+Dialogue: 0,0:23:06.15,0:23:07.65,Default,,0000,0000,0000,,Hey, what should we do?!
+Dialogue: 0,0:23:07.85,0:23:10.94,Default,,0000,0000,0000,,If we want to continue our pursuit,\Nthere’s only one way to do it!
+Dialogue: 0,0:23:11.52,0:23:14.77,Default,,0000,0000,0000,,Next time: “Your Opponent is Me!”

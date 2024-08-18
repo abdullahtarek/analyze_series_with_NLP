@@ -1,0 +1,344 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.00,0:00:12.59,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.63,0:00:16.09,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:16.13,0:00:19.71,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.75,0:00:23.30,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.34,0:00:26.71,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.75,0:00:28.71,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.42,0:00:33.38,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.42,0:00:37.21,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.67,0:00:44.50,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.75,0:00:51.79,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.96,0:00:58.17,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.30,0:01:02.75,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.79,0:01:06.34,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.38,0:01:09.79,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.79,0:01:13.46,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.50,0:01:17.05,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:17.09,0:01:20.75,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.79,0:01:24.34,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.38,0:01:28.55,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:01:44.79,0:01:48.13,Default,,0000,0000,0000,,Well then, Guy.\NI’ll leave Sasuke to you.
+Dialogue: 0,0:01:55.46,0:01:56.50,Default,,0000,0000,0000,,Master Jiraiya…
+Dialogue: 0,0:01:56.71,0:01:57.42,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:01:58.17,0:02:01.21,Default,,0000,0000,0000,,Be sure to find Mistress Tsunade\Nand bring her back to…
+Dialogue: 0,0:02:01.25,0:02:04.96,Default,,0000,0000,0000,,You bet we'll find her\Nand bring her right away!
+Dialogue: 0,0:02:14.46,0:02:19.79,Default,,0000,0000,0000,,Naruto! I like kids with guts like you!\NI'm going to give this to you!
+Dialogue: 0,0:02:21.00,0:02:22.80,Default,,0000,0000,0000,,This made Lee stronger…
+Dialogue: 0,0:02:23.13,0:02:24.88,Default,,0000,0000,0000,,Huh?! What ?! What?!
+Dialogue: 0,0:02:32.79,0:02:33.67,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:02:42.05,0:02:43.92,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:02:44.46,0:02:46.09,Default,,0000,0000,0000,,They're breathable and\Nmoisture-wicking,
+Dialogue: 0,0:02:46.13,0:02:50.59,Default,,0000,0000,0000,,and perfectly designed for free movement,\Nall in a beautiful, stylish package.
+Dialogue: 0,0:02:50.79,0:02:53.92,Default,,0000,0000,0000,,You'll notice a difference immediately\Nif you train with them on!
+Dialogue: 0,0:02:54.42,0:02:56.09,Default,,0000,0000,0000,,They're going to grow on you!
+Dialogue: 0,0:02:56.79,0:02:59.67,Default,,0000,0000,0000,,Before long, you'll be wanting to\Nwear them all the time like Lee!
+Dialogue: 0,0:02:59.71,0:03:02.00,Default,,0000,0000,0000,,Of course, I have a thing for them, too!
+Dialogue: 0,0:03:03.80,0:03:06.88,Default,,0000,0000,0000,,Woooow!
+Dialogue: 0,0:03:12.88,0:03:15.25,Default,,0000,0000,0000,,Why couldn’t you bring a mirror\Nor something
+Dialogue: 0,0:03:15.30,0:03:18.38,Default,,0000,0000,0000,,instead of carrying around\Nthose things, you dork!
+Dialogue: 0,0:03:26.50,0:03:27.88,Default,,0000,0000,0000,,Do you think they'll look good on me?
+Dialogue: 0,0:03:30.80,0:03:34.09,Default,,0000,0000,0000,,Don't even think about it.\NGet a load of that…
+Dialogue: 0,0:03:36.59,0:03:38.55,Default,,0000,0000,0000,,Now that is truly dorky.
+Dialogue: 0,0:03:49.00,0:03:51.00,Default,,0000,0000,0000,,Okay! This is the place!
+Dialogue: 0,0:03:53.38,0:03:55.21,Default,,0000,0000,0000,,Here?!
+Dialogue: 0,0:03:55.46,0:03:57.80,Default,,0000,0000,0000,,The gambling house frequented\Nby the entire town…
+Dialogue: 0,0:04:13.13,0:04:15.75,Default,,0000,0000,0000,,Your target is Naruto, after all.
+Dialogue: 0,0:04:16.21,0:04:23.05,Default,,0000,0000,0000,,To abduct Naruto is the No.1 priority\Nplaced by our organization, Akatsuki!
+Dialogue: 0,0:04:29.71,0:04:30.63,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:04:31.09,0:04:36.34,Default,,0000,0000,0000,,Pervy Sage… Why are they after me?
+Dialogue: 0,0:04:39.79,0:04:43.00,Default,,0000,0000,0000,,You know, don't you, Pervert Sage?\NTell me why…
+Dialogue: 0,0:04:47.79,0:04:53.79,Default,,0000,0000,0000,,They're not really after you…\NThey're after what's inside of you.
+Dialogue: 0,0:04:54.75,0:04:57.38,Default,,0000,0000,0000,,What on earth is this thing?
+Dialogue: 0,0:05:00.09,0:05:03.21,Default,,0000,0000,0000,,It's a horrible demon that\Nattacked Leaf Village, right?
+Dialogue: 0,0:05:03.59,0:05:05.71,Default,,0000,0000,0000,,And was dreaded by all.
+Dialogue: 0,0:05:05.79,0:05:08.88,Default,,0000,0000,0000,,So why do they want it so much?
+Dialogue: 0,0:05:12.00,0:05:13.88,Default,,0000,0000,0000,,Indeed, the Nine-Tailed Fox\Nis a demon
+Dialogue: 0,0:05:13.92,0:05:16.38,Default,,0000,0000,0000,,that appears at each critical juncture\Nthroughout the ages
+Dialogue: 0,0:05:16.71,0:05:19.88,Default,,0000,0000,0000,,destroying everything in its path…
+Dialogue: 0,0:05:20.88,0:05:25.34,Default,,0000,0000,0000,,And people feared it like\Nan act of nature.
+Dialogue: 0,0:05:32.21,0:05:35.30,Default,,0000,0000,0000,,The reason they want that thing…\Nfor what purpose.
+Dialogue: 0,0:05:35.79,0:05:39.46,Default,,0000,0000,0000,,Honestly, I can't quite say.
+Dialogue: 0,0:05:41.30,0:05:45.30,Default,,0000,0000,0000,,Just that now that Nine-Tailed Fox\Nis sealed up inside of you…
+Dialogue: 0,0:05:45.84,0:05:51.63,Default,,0000,0000,0000,,they might be thinking\Nthey want that power in their control.
+Dialogue: 0,0:05:54.42,0:05:56.13,Default,,0000,0000,0000,,It must be harsh to know
+Dialogue: 0,0:05:56.17,0:05:58.63,Default,,0000,0000,0000,,that Ninja like them\Nwould keep coming after you…
+Dialogue: 0,0:05:58.67,0:05:59.79,Default,,0000,0000,0000,,But well, that's your destiny!
+Dialogue: 0,0:06:00.17,0:06:03.21,Default,,0000,0000,0000,,Now don’t you worry,\NI'm going to protect--
+Dialogue: 0,0:06:03.25,0:06:06.79,Default,,0000,0000,0000,,Then there's nothing to do\Nbut hurry up and get stronger! I've got to!
+Dialogue: 0,0:06:08.84,0:06:13.09,Default,,0000,0000,0000,,Okay! Let's go find that Tsunade person,
+Dialogue: 0,0:06:13.13,0:06:16.59,Default,,0000,0000,0000,,have her save Sasuke\Nand get down to some serious training!
+Dialogue: 0,0:06:18.79,0:06:20.79,Default,,0000,0000,0000,,That's just like this kid…
+Dialogue: 0,0:06:21.42,0:06:27.38,Default,,0000,0000,0000,,A New Training Begins:\NI Will Be Strong!
+Dialogue: 0,0:06:34.21,0:06:37.09,Default,,0000,0000,0000,,Th-This place has the highest antes…!
+Dialogue: 0,0:06:37.84,0:06:39.50,Default,,0000,0000,0000,,Don't go fretting over\Nevery little thing!
+Dialogue: 0,0:06:39.50,0:06:40.63,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:06:40.79,0:06:43.96,Default,,0000,0000,0000,,Oh dear! Please wait!
+Dialogue: 0,0:06:48.00,0:06:48.79,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:06:49.88,0:06:51.09,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:51.88,0:06:55.59,Default,,0000,0000,0000,,The beautiful woman you\Nwant to "research" on…
+Dialogue: 0,0:06:55.79,0:06:57.79,Default,,0000,0000,0000,,That's this Tsunade person?
+Dialogue: 0,0:06:57.79,0:07:02.79,Default,,0000,0000,0000,,Whoa! That’s sharp coming from you!\NAnd what about it?
+Dialogue: 0,0:07:03.00,0:07:08.34,Default,,0000,0000,0000,,She's part of the Sannin thing\Nlike you, right, Pervy Sage?
+Dialogue: 0,0:07:08.38,0:07:10.59,Default,,0000,0000,0000,,Yes, and what of it?
+Dialogue: 0,0:07:11.42,0:07:13.50,Default,,0000,0000,0000,,How…old is she?
+Dialogue: 0,0:07:13.55,0:07:14.79,Default,,0000,0000,0000,,My age.
+Dialogue: 0,0:07:15.79,0:07:17.13,Default,,0000,0000,0000,,Heck, she's an old lady.
+Dialogue: 0,0:07:26.80,0:07:28.92,Default,,0000,0000,0000,,Yikes!
+Dialogue: 0,0:07:30.71,0:07:31.55,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:07:31.59,0:07:33.17,Default,,0000,0000,0000,,Th-This woman is…!
+Dialogue: 0,0:07:42.38,0:07:45.75,Default,,0000,0000,0000,,Would you mind changing all\Nof this money into chips for me?
+Dialogue: 0,0:07:48.50,0:07:50.92,Default,,0000,0000,0000,,Oh no! She's really going for it!
+Dialogue: 0,0:07:56.17,0:07:59.30,Default,,0000,0000,0000,,Just who is this? This lady…
+Dialogue: 0,0:07:59.55,0:08:01.30,Default,,0000,0000,0000,,You don't know?
+Dialogue: 0,0:08:01.79,0:08:04.38,Default,,0000,0000,0000,,She's that woman with\Nthe famous alias…
+Dialogue: 0,0:08:04.46,0:08:05.55,Default,,0000,0000,0000,,Famous alias…?
+Dialogue: 0,0:08:08.67,0:08:11.50,Default,,0000,0000,0000,,So, well…what kind of person\Nis this Tsunade like?
+Dialogue: 0,0:08:11.79,0:08:13.79,Default,,0000,0000,0000,,Oh, you want to know?
+Dialogue: 0,0:08:13.79,0:08:14.63,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:15.05,0:08:16.13,Default,,0000,0000,0000,,Let's see…
+Dialogue: 0,0:08:17.34,0:08:19.42,Default,,0000,0000,0000,,Put simply, she's an unpleasant type.
+Dialogue: 0,0:08:20.17,0:08:24.75,Default,,0000,0000,0000,,Besides that, she's a diehard gambler\Nand her face is known far and wide for it.
+Dialogue: 0,0:08:24.79,0:08:26.79,Default,,0000,0000,0000,,Then we should have no problems\Nfinding her!
+Dialogue: 0,0:08:26.79,0:08:28.63,Default,,0000,0000,0000,,If she's that famous!
+Dialogue: 0,0:08:28.79,0:08:33.75,Default,,0000,0000,0000,,She's famous, all right…\NLegendary, you might say…
+Dialogue: 0,0:08:38.79,0:08:41.42,Default,,0000,0000,0000,,Boss, what's this alias…?
+Dialogue: 0,0:08:42.00,0:08:43.09,Default,,0000,0000,0000,,The Legendary…
+Dialogue: 0,0:08:43.79,0:08:44.92,Default,,0000,0000,0000,,Legendary…?
+Dialogue: 0,0:08:59.80,0:09:02.79,Default,,0000,0000,0000,,Oh dear! They're all laughing!
+Dialogue: 0,0:09:09.79,0:09:11.55,Default,,0000,0000,0000,,– Legendary… 					– Legendary…
+Dialogue: 0,0:09:13.71,0:09:14.79,Default,,0000,0000,0000,,Sitting Duck!
+Dialogue: 0,0:09:16.25,0:09:20.63,Default,,0000,0000,0000,,Yup! But no matter how famous\NLegendary Sitting Duck is,
+Dialogue: 0,0:09:20.67,0:09:23.09,Default,,0000,0000,0000,,I doubt we'll find her right away.
+Dialogue: 0,0:09:23.25,0:09:24.80,Default,,0000,0000,0000,,Why not?!
+Dialogue: 0,0:09:25.09,0:09:27.21,Default,,0000,0000,0000,,She hates growing old so much
+Dialogue: 0,0:09:27.25,0:09:30.63,Default,,0000,0000,0000,,she's probably used some special Jutsu\Nto change her appearance.
+Dialogue: 0,0:09:31.79,0:09:33.79,Default,,0000,0000,0000,,She's actually 50 years old,
+Dialogue: 0,0:09:33.79,0:09:36.21,Default,,0000,0000,0000,,but no doubt she looks like\Nshe did when she was 20…
+Dialogue: 0,0:09:38.17,0:09:40.96,Default,,0000,0000,0000,,And not just that,\Nrecently I heard that…
+Dialogue: 0,0:09:41.00,0:09:45.88,Default,,0000,0000,0000,,she transforms into her teens or\N30s or 40s as the situation calls for
+Dialogue: 0,0:09:45.92,0:09:48.55,Default,,0000,0000,0000,,to escape moneylenders.
+Dialogue: 0,0:09:48.88,0:09:52.38,Default,,0000,0000,0000,,What?! That's a horrible thing to do!
+Dialogue: 0,0:09:52.67,0:09:56.79,Default,,0000,0000,0000,,Tsunade has always loved\Nto gamble more than anything
+Dialogue: 0,0:09:57.21,0:10:00.21,Default,,0000,0000,0000,,But she has terrible luck and no skill.
+Dialogue: 0,0:10:01.96,0:10:04.96,Default,,0000,0000,0000,,She was always being played\Nfor the Sitting Duck and the name stuck…
+Dialogue: 0,0:10:05.34,0:10:08.38,Default,,0000,0000,0000,,Then she was always borrowing money\Nand skipping out on her debts, too…
+Dialogue: 0,0:10:10.59,0:10:12.17,Default,,0000,0000,0000,,Ah, it brings back memories.
+Dialogue: 0,0:10:12.46,0:10:14.59,Default,,0000,0000,0000,,This is no time to be\Ngetting all nostalgic!
+Dialogue: 0,0:10:14.96,0:10:17.79,Default,,0000,0000,0000,,Tell me, how do you propose\Nwe go about finding her?!
+Dialogue: 0,0:10:17.96,0:10:19.46,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:10:19.71,0:10:21.30,Default,,0000,0000,0000,,We may very well have to\Nput our noses to the ground,
+Dialogue: 0,0:10:21.34,0:10:23.34,Default,,0000,0000,0000,,but we're not without our little tricks.
+Dialogue: 0,0:10:23.50,0:10:28.67,Default,,0000,0000,0000,,What?! So you have no idea\Nhow long it's gong to take?!
+Dialogue: 0,0:10:28.79,0:10:30.79,Default,,0000,0000,0000,,We won't be wasting any time.
+Dialogue: 0,0:10:32.25,0:10:35.63,Default,,0000,0000,0000,,All of our time on the road\Nwill be your time.
+Dialogue: 0,0:10:36.75,0:10:37.79,Default,,0000,0000,0000,,My time?
+Dialogue: 0,0:10:38.21,0:10:41.79,Default,,0000,0000,0000,,Time to make you strong…\NTraining!
+Dialogue: 0,0:10:50.84,0:10:52.13,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:52.79,0:10:56.75,Default,,0000,0000,0000,,No, no… I told you that is definitely out.
+Dialogue: 0,0:10:56.80,0:11:01.75,Default,,0000,0000,0000,,I won't be seen walking with someone\Ndressed like that.
+Dialogue: 0,0:11:09.38,0:11:13.71,Default,,0000,0000,0000,,Come on, Pervy Sage!\NLet's hurry up and start training!
+Dialogue: 0,0:11:13.79,0:11:16.00,Default,,0000,0000,0000,,Now now, don't get ahead of yourself…
+Dialogue: 0,0:11:16.67,0:11:18.79,Default,,0000,0000,0000,,The training won't mean anything
+Dialogue: 0,0:11:18.80,0:11:21.84,Default,,0000,0000,0000,,unless it's done in the process of\Ngathering information on Tsunade.
+Dialogue: 0,0:11:21.96,0:11:23.96,Default,,0000,0000,0000,,Huh? Gathering information…?
+Dialogue: 0,0:11:27.92,0:11:29.05,Default,,0000,0000,0000,,In this town.
+Dialogue: 0,0:11:29.79,0:11:31.55,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:11:44.05,0:11:48.79,Default,,0000,0000,0000,,Cool! This is my first time\Nfor this kind of thing!
+Dialogue: 0,0:11:48.96,0:11:50.79,Default,,0000,0000,0000,,Down time is important, too!
+Dialogue: 0,0:11:50.79,0:11:52.79,Default,,0000,0000,0000,,You go have yourself some fun\Nbefore we start training.
+Dialogue: 0,0:11:53.09,0:11:55.42,Default,,0000,0000,0000,,The festival should continue\Nfor some time.
+Dialogue: 0,0:11:55.71,0:11:57.79,Default,,0000,0000,0000,,We'll stay here in this city\Nfor the duration.
+Dialogue: 0,0:11:58.09,0:11:59.84,Default,,0000,0000,0000,,We'll train here, too!
+Dialogue: 0,0:11:59.88,0:12:01.71,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:12:09.25,0:12:13.84,Default,,0000,0000,0000,,Whoa! That's a fat wallet!\NYou're rich!
+Dialogue: 0,0:12:13.88,0:12:16.17,Default,,0000,0000,0000,,I have quite a bit!
+Dialogue: 0,0:12:16.21,0:12:18.55,Default,,0000,0000,0000,,I've saved it little by little\Nthroughout my missions.
+Dialogue: 0,0:12:19.30,0:12:20.17,Default,,0000,0000,0000,,Well then!
+Dialogue: 0,0:12:20.21,0:12:21.88,Default,,0000,0000,0000,,– Wait! Naruto! 					– Huh?
+Dialogue: 0,0:12:22.25,0:12:24.46,Default,,0000,0000,0000,,I'll hold on to your wallet for you!
+Dialogue: 0,0:12:24.55,0:12:26.71,Default,,0000,0000,0000,,Wh-What do you think you're doing?!
+Dialogue: 0,0:12:26.96,0:12:29.50,Default,,0000,0000,0000,,You can spend this much…
+Dialogue: 0,0:12:30.21,0:12:32.59,Default,,0000,0000,0000,,What?! Only 300 ryo!
+Dialogue: 0,0:12:32.79,0:12:34.05,Default,,0000,0000,0000,,No complaints!
+Dialogue: 0,0:12:34.34,0:12:38.42,Default,,0000,0000,0000,,Remember Shinobi must honor\Nthe " Shinobi’s Three Taboos"!
+Dialogue: 0,0:12:38.75,0:12:41.79,Default,,0000,0000,0000,,Shinobi’s Three Taboos…?\NWhat's that?
+Dialogue: 0,0:12:42.00,0:12:43.84,Default,,0000,0000,0000,,What?! You don't know!
+Dialogue: 0,0:12:44.09,0:12:45.79,Default,,0000,0000,0000,,The "three taboos" are\Nthe three temptations
+Dialogue: 0,0:12:45.79,0:12:48.59,Default,,0000,0000,0000,,that will bring Shinobi to ruin!
+Dialogue: 0,0:12:48.79,0:12:53.55,Default,,0000,0000,0000,,The three temptations are\Nbooze, women and money…
+Dialogue: 0,0:12:53.63,0:12:57.30,Default,,0000,0000,0000,,Oh, then this doesn't really apply\Nto me all that much!
+Dialogue: 0,0:12:57.75,0:13:03.17,Default,,0000,0000,0000,,I'm minor, so I can't drink yet!\NI don't quite get the women thing!
+Dialogue: 0,0:13:03.30,0:13:05.17,Default,,0000,0000,0000,,And I worked so hard\Nto save all that money,
+Dialogue: 0,0:13:05.21,0:13:06.84,Default,,0000,0000,0000,,I don't really feel much like using it…
+Dialogue: 0,0:13:07.05,0:13:10.46,Default,,0000,0000,0000,,You fool! Don't you underestimate\Nthe desire for money!
+Dialogue: 0,0:13:10.50,0:13:12.38,Default,,0000,0000,0000,,Once you start using it,\Nit goes really fast!
+Dialogue: 0,0:13:13.88,0:13:16.34,Default,,0000,0000,0000,,Money has a frightful power.
+Dialogue: 0,0:13:16.79,0:13:18.71,Default,,0000,0000,0000,,This Tsunade we are going\Nto be looking for
+Dialogue: 0,0:13:18.75,0:13:21.13,Default,,0000,0000,0000,,has ruined herself over it!
+Dialogue: 0,0:13:22.67,0:13:25.79,Default,,0000,0000,0000,,Your desire for women is always\N getting the better of you, too, Pervy Sage!
+Dialogue: 0,0:13:26.09,0:13:28.75,Default,,0000,0000,0000,,I'm going on\Nan information-gathering mission!
+Dialogue: 0,0:13:28.88,0:13:31.79,Default,,0000,0000,0000,,Here, you hold on to my bag for me!
+Dialogue: 0,0:13:32.30,0:13:33.30,Default,,0000,0000,0000,,If you get lost,
+Dialogue: 0,0:13:33.34,0:13:36.88,Default,,0000,0000,0000,,my tracking SummonsToad\Nwill follow my scent!
+Dialogue: 0,0:13:42.46,0:13:45.34,Default,,0000,0000,0000,,He's really just a child after all,\Ncontrary to appearances…
+Dialogue: 0,0:13:51.13,0:13:54.00,Default,,0000,0000,0000,,Okay! First, I'll get a little something to eat!
+Dialogue: 0,0:13:58.25,0:14:00.13,Default,,0000,0000,0000,,I’ll take one order of\Noctopus dumplings, sir!
+Dialogue: 0,0:14:00.17,0:14:00.79,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:14:01.55,0:14:03.46,Default,,0000,0000,0000,,– Potatoes with butter please!\N– You got it!
+Dialogue: 0,0:14:03.80,0:14:06.05,Default,,0000,0000,0000,,– I want chocolate bananas.\N– Right!
+Dialogue: 0,0:14:06.13,0:14:08.75,Default,,0000,0000,0000,,– I want apricot candy!\N– Thank you!
+Dialogue: 0,0:14:08.79,0:14:12.13,Default,,0000,0000,0000,,– I want okonomiyaki too!\N– Here you go! Watch out, it's hot!
+Dialogue: 0,0:14:13.71,0:14:16.17,Default,,0000,0000,0000,,One extra-large order\Nof fried noodle, sir!
+Dialogue: 0,0:14:16.63,0:14:19.55,Default,,0000,0000,0000,,Right…But my you've got\Na lot of food there, young man!
+Dialogue: 0,0:14:19.59,0:14:22.13,Default,,0000,0000,0000,,You don't plan\Nto eat it all yourself now, do you?!
+Dialogue: 0,0:14:22.55,0:14:24.75,Default,,0000,0000,0000,,Eh? As a matter of fact,\NI am gong to eat it all myself.
+Dialogue: 0,0:14:25.00,0:14:26.50,Default,,0000,0000,0000,,Oh, um, here you go…
+Dialogue: 0,0:14:32.13,0:14:34.25,Default,,0000,0000,0000,,I think I ate a bit too much.
+Dialogue: 0,0:14:36.09,0:14:38.67,Default,,0000,0000,0000,,I wonder how everyone is?
+Dialogue: 0,0:14:39.80,0:14:44.79,Default,,0000,0000,0000,,Kakashi Sensei… Sasuke… Sakura…
+Dialogue: 0,0:14:45.79,0:14:49.67,Default,,0000,0000,0000,,I'm going to train hard every day\Nand come back stronger.
+Dialogue: 0,0:14:49.71,0:14:50.80,Default,,0000,0000,0000,,Just you wait and see!
+Dialogue: 0,0:14:51.84,0:14:54.79,Default,,0000,0000,0000,,But before that…\NI better work off that meal!
+Dialogue: 0,0:14:55.55,0:14:57.42,Default,,0000,0000,0000,,Last one!
+Dialogue: 0,0:14:59.42,0:15:01.67,Default,,0000,0000,0000,,– All right! Perfect!\N– Oh! Amazing!
+Dialogue: 0,0:15:03.79,0:15:06.50,Default,,0000,0000,0000,,That's the fruit of hard training\Nthrowing shuriken.
+Dialogue: 0,0:15:14.46,0:15:16.25,Default,,0000,0000,0000,,You stink, sonny!
+Dialogue: 0,0:15:16.30,0:15:19.00,Default,,0000,0000,0000,,Hah! Gosh darn it!\NWell, just watch this!
+Dialogue: 0,0:15:20.00,0:15:20.88,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:15:20.92,0:15:21.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:25.30,0:15:28.09,Default,,0000,0000,0000,,Attention: Shinobi!\NNinjutsu strictly forbidden!
+Dialogue: 0,0:15:31.88,0:15:32.79,Default,,0000,0000,0000,,Thanks now!
+Dialogue: 0,0:15:36.96,0:15:39.55,Default,,0000,0000,0000,,You shouldn't try to walk around\Nwith the mask on.
+Dialogue: 0,0:15:48.71,0:15:50.79,Default,,0000,0000,0000,,It's Pervy Sage’s bank saving book.
+Dialogue: 0,0:15:51.79,0:15:54.80,Default,,0000,0000,0000,,One, ten, one hundred…
+Dialogue: 0,0:15:56.79,0:15:59.30,Default,,0000,0000,0000,,L-Look at all those zeros!
+Dialogue: 0,0:15:59.79,0:16:03.79,Default,,0000,0000,0000,,He should be treating me now and then\Nif he has this much money.
+Dialogue: 0,0:16:04.55,0:16:05.79,Default,,0000,0000,0000,,Stingy old geezer!
+Dialogue: 0,0:16:10.00,0:16:14.09,Default,,0000,0000,0000,,There's only a little left… .\NOne more stand and that will be it…
+Dialogue: 0,0:16:16.84,0:16:20.50,Default,,0000,0000,0000,,Time to make you strong…\NTraining!
+Dialogue: 0,0:16:26.46,0:16:32.59,Default,,0000,0000,0000,,Two grilled squids please, sir!\NMake one of those an adult size!
+Dialogue: 0,0:16:32.71,0:16:35.59,Default,,0000,0000,0000,,Okay! Someone sent you\Nto buy some squid, eh?!
+Dialogue: 0,0:16:35.71,0:16:37.96,Default,,0000,0000,0000,,I'll throw in a child size for free!\NComing right up!
+Dialogue: 0,0:16:38.75,0:16:41.00,Default,,0000,0000,0000,,Hurray for you, sir!\NYou're a man among men!
+Dialogue: 0,0:16:41.05,0:16:45.00,Default,,0000,0000,0000,,Oh, you can tell, eh?! All right!\NI'll give you the adult one for half price!
+Dialogue: 0,0:16:45.21,0:16:46.50,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:16:47.88,0:16:50.67,Default,,0000,0000,0000,,Good grief, where did he go to?!
+Dialogue: 0,0:16:53.71,0:16:55.88,Default,,0000,0000,0000,,Huh? The voice of Pervy Sage?
+Dialogue: 0,0:16:59.71,0:17:01.79,Default,,0000,0000,0000,,Young ladies are so nice.
+Dialogue: 0,0:17:01.92,0:17:05.79,Default,,0000,0000,0000,,Oh, Naruto! You've already had\Nyou're fill of the festival?
+Dialogue: 0,0:17:16.79,0:17:20.38,Default,,0000,0000,0000,,Repeat those three Shinobi Taboos again!
+Dialogue: 0,0:17:20.79,0:17:23.79,Default,,0000,0000,0000,,You're breaking all three at once!\NYou bastard!
+Dialogue: 0,0:17:23.84,0:17:25.79,Default,,0000,0000,0000,,W-Wait, Naruto…
+Dialogue: 0,0:17:25.80,0:17:27.21,Default,,0000,0000,0000,,N-No, I won't wait!
+Dialogue: 0,0:17:27.25,0:17:30.71,Default,,0000,0000,0000,,You used all my hard-saved money!
+Dialogue: 0,0:17:30.79,0:17:32.79,Default,,0000,0000,0000,,– Take this and this and this!\N– N-Naruto, stop!
+Dialogue: 0,0:17:32.79,0:17:35.63,Default,,0000,0000,0000,,I'll pay it all back!\NI'm sorry, p-please!
+Dialogue: 0,0:17:35.79,0:17:39.25,Default,,0000,0000,0000,,You! You!\NYou made my froggy wallet all flat!
+Dialogue: 0,0:17:40.05,0:17:43.13,Default,,0000,0000,0000,,Hey! Look what you did, you urchin!
+Dialogue: 0,0:17:46.46,0:17:50.92,Default,,0000,0000,0000,,You stained Leader's designer suit!\NYou'll have to pay for it!
+Dialogue: 0,0:17:51.05,0:17:52.79,Default,,0000,0000,0000,,Fork over 100,000 ryo!
+Dialogue: 0,0:17:53.05,0:17:56.50,Default,,0000,0000,0000,,What?! You're telling me\Nthat suit cost 100,000 ryo?!
+Dialogue: 0,0:17:56.67,0:17:59.05,Default,,0000,0000,0000,,Yeah, really, that's quite a stretch
+Dialogue: 0,0:17:59.09,0:18:01.96,Default,,0000,0000,0000,,to say a dorky suit like that\Ncost 100,000 ryo.
+Dialogue: 0,0:18:02.30,0:18:04.00,Default,,0000,0000,0000,,Are you asking for it?!
+Dialogue: 0,0:18:04.05,0:18:06.17,Default,,0000,0000,0000,,You better put a lid on it\Nif you know what's good for you.
+Dialogue: 0,0:18:06.79,0:18:09.38,Default,,0000,0000,0000,,The leader used be a Chunin from\Nthe Hidden Village of Stones,
+Dialogue: 0,0:18:09.42,0:18:13.34,Default,,0000,0000,0000,,the legendary dark Ninja, feared by all!
+Dialogue: 0,0:18:13.79,0:18:16.96,Default,,0000,0000,0000,,Come again? Legendary what?
+Dialogue: 0,0:18:17.42,0:18:19.96,Default,,0000,0000,0000,,You seem to want to get hurt!
+Dialogue: 0,0:18:20.92,0:18:21.92,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:18:23.00,0:18:24.05,Default,,0000,0000,0000,,Perfect timing.
+Dialogue: 0,0:18:24.55,0:18:28.92,Default,,0000,0000,0000,,I'll show you a Jutsu now…\NWatch very carefully!
+Dialogue: 0,0:18:29.80,0:18:31.17,Default,,0000,0000,0000,,Now you've done it!
+Dialogue: 0,0:18:39.79,0:18:41.71,Default,,0000,0000,0000,,A-Amazing!
+Dialogue: 0,0:18:47.05,0:18:50.63,Default,,0000,0000,0000,,I was holding back quite a bit…\NYou guys are so weak.
+Dialogue: 0,0:18:54.88,0:18:58.79,Default,,0000,0000,0000,,A-Are you? The…legendary…
+Dialogue: 0,0:18:59.30,0:19:02.59,Default,,0000,0000,0000,,I'm sorry…\NWe kind of destroyed your stand…
+Dialogue: 0,0:19:02.88,0:19:05.34,Default,,0000,0000,0000,,H-Here… Fix it with this.
+Dialogue: 0,0:19:05.55,0:19:07.71,Default,,0000,0000,0000,,Oh! Thanks.
+Dialogue: 0,0:19:08.71,0:19:12.79,Default,,0000,0000,0000,,Would you mind if I bought all\Nyour balloons and water balloons
+Dialogue: 0,0:19:12.79,0:19:14.21,Default,,0000,0000,0000,,at the same time, my man?
+Dialogue: 0,0:19:14.50,0:19:15.79,Default,,0000,0000,0000,,Fine by me…
+Dialogue: 0,0:19:19.34,0:19:21.25,Default,,0000,0000,0000,,That wasn’t an ordinary hand move…
+Dialogue: 0,0:19:21.71,0:19:24.34,Default,,0000,0000,0000,,What in blazes was that?!\NThat Jutsu!
+Dialogue: 0,0:19:24.84,0:19:25.79,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:19:26.75,0:19:28.96,Default,,0000,0000,0000,,Come with me! It’s training time!
+Dialogue: 0,0:19:30.17,0:19:30.96,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:19:39.80,0:19:42.67,Default,,0000,0000,0000,,Finally, the mood is right\Nfor a little training.
+Dialogue: 0,0:19:42.88,0:19:44.79,Default,,0000,0000,0000,,– Here! Water balloon!\N– Wha--?
+Dialogue: 0,0:19:45.42,0:19:47.55,Default,,0000,0000,0000,,Eh?! What is it for?!
+Dialogue: 0,0:19:48.05,0:19:51.13,Default,,0000,0000,0000,,You saw that Jutsu I just used, right?
+Dialogue: 0,0:19:51.25,0:19:52.71,Default,,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:19:52.79,0:19:54.13,Default,,0000,0000,0000,,What Jutsu did it look like to you?
+Dialogue: 0,0:19:56.38,0:19:59.21,Default,,0000,0000,0000,,It looked like you made\Nyour opponent spin violently.
+Dialogue: 0,0:20:00.09,0:20:02.79,Default,,0000,0000,0000,,His perspective's off…\NBut I guess that's to be expected.
+Dialogue: 0,0:20:03.84,0:20:05.79,Default,,0000,0000,0000,,Right, okay… Yes, spinning!
+Dialogue: 0,0:20:07.25,0:20:10.80,Default,,0000,0000,0000,,He's spinning the water in the balloon\Nwithout moving his hand?!
+Dialogue: 0,0:20:14.17,0:20:15.09,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:20:15.75,0:20:17.00,Default,,0000,0000,0000,,The tree-climbing exercise
+Dialogue: 0,0:20:17.05,0:20:19.79,Default,,0000,0000,0000,,to learn to gather and\Nmaintain Chakra in necessary places…
+Dialogue: 0,0:20:20.63,0:20:22.13,Default,,0000,0000,0000,,The Walk-on-Water exercise
+Dialogue: 0,0:20:22.17,0:20:24.25,Default,,0000,0000,0000,,to learn how to release\Na set amount of Chakra…
+Dialogue: 0,0:20:24.79,0:20:27.00,Default,,0000,0000,0000,,You did both of these, right?
+Dialogue: 0,0:20:27.80,0:20:30.79,Default,,0000,0000,0000,,And now with this water balloon exercise,
+Dialogue: 0,0:20:30.79,0:20:32.71,Default,,0000,0000,0000,,you'll learn how to create\Na stream of Chakra…
+Dialogue: 0,0:20:33.30,0:20:34.79,Default,,0000,0000,0000,,In other words, spinning.
+Dialogue: 0,0:20:35.79,0:20:38.05,Default,,0000,0000,0000,,Create a stream of Chakra…
+Dialogue: 0,0:20:38.50,0:20:40.79,Default,,0000,0000,0000,,I'll give a more detailed explanation\Nof the Jutsu
+Dialogue: 0,0:20:40.79,0:20:43.42,Default,,0000,0000,0000,,once you get these first steps down.
+Dialogue: 0,0:20:44.09,0:20:46.34,Default,,0000,0000,0000,,First, you must gather\Nand maintain Chakra in your hand
+Dialogue: 0,0:20:46.38,0:20:47.79,Default,,0000,0000,0000,,using the tree-climbing technique.
+Dialogue: 0,0:20:48.46,0:20:49.92,Default,,0000,0000,0000,,Then you must continuously\Nrelease Chakra
+Dialogue: 0,0:20:49.96,0:20:51.84,Default,,0000,0000,0000,,using the Walk-on-Water technique.
+Dialogue: 0,0:20:52.75,0:20:57.79,Default,,0000,0000,0000,,Then you push and churn the water\Nin the balloon with the Chakra!
+Dialogue: 0,0:20:58.50,0:20:59.80,Default,,0000,0000,0000,,I get it!
+Dialogue: 0,0:21:00.21,0:21:02.75,Default,,0000,0000,0000,,Then you spin the water\Nin the balloon faster and faster
+Dialogue: 0,0:21:02.79,0:21:04.96,Default,,0000,0000,0000,,until the balloon pops!
+Dialogue: 0,0:21:05.79,0:21:08.75,Default,,0000,0000,0000,,You're catching on\Nmore and more quickly!
+Dialogue: 0,0:21:09.05,0:21:11.59,Default,,0000,0000,0000,,Okay, today we're going\Nto train until evening!
+Dialogue: 0,0:21:11.71,0:21:12.59,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:21.79,0:21:25.75,Default,,0000,0000,0000,,A cycle of hardship, right?
+Dialogue: 0,0:21:26.71,0:21:30.71,Default,,0000,0000,0000,,Inside, we were crying, right?
+Dialogue: 0,0:21:31.80,0:21:39.80,Default,,0000,0000,0000,,But the one thing we won't give up\Nis the dream we've chosen, right?
+Dialogue: 0,0:21:40.79,0:21:42.88,Default,,0000,0000,0000,,It's a secondary role,
+Dialogue: 0,0:21:45.79,0:21:48.79,Default,,0000,0000,0000,,a role in the shadows
+Dialogue: 0,0:21:49.13,0:21:54.09,Default,,0000,0000,0000,,But in reaching for that dream,
+Dialogue: 0,0:21:54.21,0:21:59.79,Default,,0000,0000,0000,,let us stay centered,\Nlet us stay true
+Dialogue: 0,0:21:59.88,0:22:04.88,Default,,0000,0000,0000,,Over and over,\Nwe hung on without giving up
+Dialogue: 0,0:22:04.92,0:22:09.84,Default,,0000,0000,0000,,Over and over,\Nwe kept coming back up
+Dialogue: 0,0:22:09.88,0:22:19.13,Default,,0000,0000,0000,,Over and over,\Nwe believed and dreamed
+Dialogue: 0,0:22:19.67,0:22:24.55,Default,,0000,0000,0000,,Over and over,\Nwe've seen fools
+Dialogue: 0,0:22:49.88,0:22:53.25,Default,,0000,0000,0000,,I will break this water balloon\Nno matter what!
+Dialogue: 0,0:22:53.38,0:22:55.79,Default,,0000,0000,0000,,Hey, you're full of spirit!
+Dialogue: 0,0:22:56.80,0:22:58.88,Default,,0000,0000,0000,,Perhaps I can expect him\Nto master the Jutsu.
+Dialogue: 0,0:22:59.96,0:23:02.75,Default,,0000,0000,0000,,The water inside the balloon\Nis moving.
+Dialogue: 0,0:23:04.21,0:23:06.79,Default,,0000,0000,0000,,By the way, when does that pop?
+Dialogue: 0,0:23:07.42,0:23:10.67,Default,,0000,0000,0000,,Next time: “Keep on Training:\NPop Goes the Water Balloon!”
+Dialogue: 0,0:23:10.92,0:23:14.25,Default,,0000,0000,0000,,Aw geez! Why won't it pop?!

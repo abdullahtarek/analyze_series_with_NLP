@@ -1,0 +1,378 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.15,0:00:13.86,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.31,0:00:33.54,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.54,0:00:39.55,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:39.98,0:00:45.56,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.56,0:00:51.23,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.50,0:00:57.80,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:57.84,0:01:04.84,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:04.94,0:01:17.56,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.56,0:01:23.90,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:23.93,0:01:29.13,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:02:19.12,0:02:20.08,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:02:21.55,0:02:23.72,Default,,0000,0000,0000,,D-Don’t push my father around!
+Dialogue: 0,0:02:23.96,0:02:25.86,Default,,0000,0000,0000,,You idiot, Fuki. Get out of here!
+Dialogue: 0,0:02:27.96,0:02:31.46,Default,,0000,0000,0000,,What’re you hesitating for?\NTake care of him quickly.
+Dialogue: 0,0:02:31.70,0:02:33.56,Default,,0000,0000,0000,,That’s your job, right?
+Dialogue: 0,0:02:36.30,0:02:36.93,Default,,0000,0000,0000,,Get out of my way.
+Dialogue: 0,0:02:37.64,0:02:38.54,Default,,0000,0000,0000,,Fuki!
+Dialogue: 0,0:02:39.60,0:02:41.17,Default,,0000,0000,0000,,You’ve got something nice there.
+Dialogue: 0,0:02:42.01,0:02:42.94,Default,,0000,0000,0000,,I’ll take that.
+Dialogue: 0,0:02:43.44,0:02:45.54,Default,,0000,0000,0000,,Please spare my daughter!
+Dialogue: 0,0:02:45.81,0:02:46.74,Default,,0000,0000,0000,,Like I care!
+Dialogue: 0,0:02:51.02,0:02:52.05,Default,,0000,0000,0000,,Father…
+Dialogue: 0,0:02:52.42,0:02:54.72,Default,,0000,0000,0000,,Father! Father!
+Dialogue: 0,0:02:58.56,0:02:59.72,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:03:03.56,0:03:05.63,Default,,0000,0000,0000,,Y-You jerk.
+Dialogue: 0,0:03:23.55,0:03:24.55,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:03:25.85,0:03:26.82,Default,,0000,0000,0000,,It’s okay.
+Dialogue: 0,0:03:45.07,0:03:45.67,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:04:00.89,0:04:04.72,Default,,0000,0000,0000,,Just a little more…\NJust a little more, believe it.
+Dialogue: 0,0:04:07.43,0:04:09.03,Default,,0000,0000,0000,,Rare menma pickled bamboo shoots?
+Dialogue: 0,0:04:09.26,0:04:13.36,Default,,0000,0000,0000,,Right. But only if I can get my hands\Non it when it’s in rare bamboo state.
+Dialogue: 0,0:04:13.66,0:04:17.74,Default,,0000,0000,0000,,It seems the rare bamboo only grows\Non some ungodly cliff…
+Dialogue: 0,0:04:17.94,0:04:20.54,Default,,0000,0000,0000,,Then I’ll get it, no matter what.
+Dialogue: 0,0:04:20.77,0:04:24.21,Default,,0000,0000,0000,,And then I’ll eat some Ichiraku ramen\Nwith the rare pickled bamboo shoots on top…
+Dialogue: 0,0:04:24.28,0:04:26.31,Default,,0000,0000,0000,,No matter what, believe it!
+Dialogue: 0,0:04:26.81,0:04:29.75,Default,,0000,0000,0000,,Rare pickled bamboo shoots.
+Dialogue: 0,0:04:30.18,0:04:31.05,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:04:36.22,0:04:37.56,Default,,0000,0000,0000,,I’m saved.
+Dialogue: 0,0:04:38.16,0:04:38.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:41.36,0:04:42.06,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:04:45.50,0:04:46.20,Default,,0000,0000,0000,,It’s a person!
+Dialogue: 0,0:04:52.10,0:04:57.28,Default,,0000,0000,0000,,Vanished Memories
+Dialogue: 0,0:05:04.12,0:05:06.72,Default,,0000,0000,0000,,To think there’d be thunder\Neven though it’s not raining…
+Dialogue: 0,0:05:07.32,0:05:08.55,Default,,0000,0000,0000,,It’s kind of eerie.
+Dialogue: 0,0:05:14.53,0:05:16.59,Default,,0000,0000,0000,,You shouldn’t shout like that…
+Dialogue: 0,0:05:16.63,0:05:18.30,Default,,0000,0000,0000,,This is a hospital.
+Dialogue: 0,0:05:18.36,0:05:20.23,Default,,0000,0000,0000,,You made me shout.
+Dialogue: 0,0:05:20.56,0:05:22.57,Default,,0000,0000,0000,,Huh? That white coat.
+Dialogue: 0,0:05:22.57,0:05:24.54,Default,,0000,0000,0000,,Could it be that you’re helping out\Nthe Medical Team, Sakura?
+Dialogue: 0,0:05:24.67,0:05:27.77,Default,,0000,0000,0000,,Isn’t it lovely? I finally got the white coat.
+Dialogue: 0,0:05:27.81,0:05:32.01,Default,,0000,0000,0000,,I see. It’s great that you were here\Njust at the right time.
+Dialogue: 0,0:05:32.54,0:05:34.55,Default,,0000,0000,0000,,I’ve got someone I’d like you\Nto take a look at.
+Dialogue: 0,0:05:35.05,0:05:36.38,Default,,0000,0000,0000,,Someone you want me\Nto take a look at?
+Dialogue: 0,0:05:37.55,0:05:38.92,Default,,0000,0000,0000,,It’s him.
+Dialogue: 0,0:05:39.35,0:05:42.22,Default,,0000,0000,0000,,Wh-What? Could that be Dozaemon…?
+Dialogue: 0,0:05:42.55,0:05:44.56,Default,,0000,0000,0000,,His name’s Dozaemon, huh…?
+Dialogue: 0,0:05:45.06,0:05:46.96,Default,,0000,0000,0000,,I didn’t think he was\Nyour acquaintance Sakura.
+Dialogue: 0,0:05:47.06,0:05:49.46,Default,,0000,0000,0000,,No. Dozaemon is a drowned body…
+Dialogue: 0,0:05:49.93,0:05:50.96,Default,,0000,0000,0000,,Oh, never mind…
+Dialogue: 0,0:05:51.43,0:05:53.56,Default,,0000,0000,0000,,I thought I knew him, but I was mistaken.
+Dialogue: 0,0:05:53.56,0:05:56.57,Default,,0000,0000,0000,,I see. Then I leave him to you.
+Dialogue: 0,0:05:56.57,0:05:59.10,Default,,0000,0000,0000,,Hey, this is a Leaf hospital.
+Dialogue: 0,0:05:59.30,0:06:01.54,Default,,0000,0000,0000,,So people outside of the village\Ncan’t be admitted.
+Dialogue: 0,0:06:01.54,0:06:03.21,Default,,0000,0000,0000,,Come on, just do this for me.
+Dialogue: 0,0:06:03.37,0:06:05.54,Default,,0000,0000,0000,,I’ve got other business to attend to.\NSo I leave the rest to you.
+Dialogue: 0,0:06:05.58,0:06:08.71,Default,,0000,0000,0000,,Oh, hey, Naruto! Hold it!
+Dialogue: 0,0:06:12.55,0:06:15.55,Default,,0000,0000,0000,,This is indeed the rare bamboo\NI’ve heard about.
+Dialogue: 0,0:06:15.55,0:06:19.56,Default,,0000,0000,0000,,Yeah, now I can eat the rare ramen!
+Dialogue: 0,0:06:19.56,0:06:20.56,Default,,0000,0000,0000,,What’re you talking about?
+Dialogue: 0,0:06:20.86,0:06:22.69,Default,,0000,0000,0000,,It takes three or four weeks to make
+Dialogue: 0,0:06:22.73,0:06:24.90,Default,,0000,0000,0000,,the pickled bamboo shoots\Nout of the rare bamboo.
+Dialogue: 0,0:06:24.96,0:06:26.20,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:26.56,0:06:30.27,Default,,0000,0000,0000,,First, I boil this\Nand then ferment it slowly.
+Dialogue: 0,0:06:30.47,0:06:33.47,Default,,0000,0000,0000,,What, I can’t eat it right away?!
+Dialogue: 0,0:06:33.54,0:06:36.61,Default,,0000,0000,0000,,You need a degree of determination\Nto eat delicious things.
+Dialogue: 0,0:06:36.64,0:06:38.64,Default,,0000,0000,0000,,Naruto, so this is where you were.
+Dialogue: 0,0:06:38.68,0:06:40.51,Default,,0000,0000,0000,,Hey, what’s up with you?
+Dialogue: 0,0:06:40.64,0:06:42.55,Default,,0000,0000,0000,,What’s up, nothing, you jerk…
+Dialogue: 0,0:06:42.55,0:06:43.68,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:06:43.71,0:06:45.75,Default,,0000,0000,0000,,So you force a strange patient on me
+Dialogue: 0,0:06:45.82,0:06:48.09,Default,,0000,0000,0000,,and intend to eat ramen\Nby yourself at your leisure?
+Dialogue: 0,0:06:48.15,0:06:49.55,Default,,0000,0000,0000,,Ouch. That hurts.
+Dialogue: 0,0:07:00.80,0:07:01.97,Default,,0000,0000,0000,,Back to the Past Jutsu!
+Dialogue: 0,0:07:05.30,0:07:07.54,Default,,0000,0000,0000,,Oh, what’s he doing there?
+Dialogue: 0,0:07:08.77,0:07:11.48,Default,,0000,0000,0000,,He’s probing into his memory\Nfrom his subconscious.
+Dialogue: 0,0:07:11.54,0:07:14.55,Default,,0000,0000,0000,,That reverse hypnosis thing, huh?
+Dialogue: 0,0:07:14.68,0:07:15.55,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:07:18.82,0:07:20.48,Default,,0000,0000,0000,,Have you remembered anything?
+Dialogue: 0,0:07:23.89,0:07:24.56,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:25.26,0:07:27.56,Default,,0000,0000,0000,,It seems he’s lost his memory.
+Dialogue: 0,0:07:27.83,0:07:29.33,Default,,0000,0000,0000,,Lost his memory?
+Dialogue: 0,0:07:30.49,0:07:33.13,Default,,0000,0000,0000,,Let’s call it a day.\NWe’ll do more tomorrow.
+Dialogue: 0,0:07:35.67,0:07:37.54,Default,,0000,0000,0000,,It seems he doesn’t remember anything.
+Dialogue: 0,0:07:38.24,0:07:39.54,Default,,0000,0000,0000,,Not his name or address…
+Dialogue: 0,0:07:40.00,0:07:42.54,Default,,0000,0000,0000,,If none the doctor’s Jutsu don’t work,\Nthen this is the real deal.
+Dialogue: 0,0:07:42.77,0:07:46.44,Default,,0000,0000,0000,,Then, doesn’t he have something\Nwe could use to identify him?
+Dialogue: 0,0:07:46.54,0:07:49.55,Default,,0000,0000,0000,,Nope… This is all he had.
+Dialogue: 0,0:07:53.55,0:07:54.85,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:07:55.05,0:07:57.46,Default,,0000,0000,0000,,It’s a dove flute, also called an ocarina.
+Dialogue: 0,0:07:58.06,0:07:59.26,Default,,0000,0000,0000,,Ocarina?
+Dialogue: 0,0:07:59.56,0:08:00.89,Default,,0000,0000,0000,,It’s broken, though.
+Dialogue: 0,0:08:01.09,0:08:02.86,Default,,0000,0000,0000,,Oh, it looks like this will stick.
+Dialogue: 0,0:08:03.69,0:08:07.13,Default,,0000,0000,0000,,Not having memory could also\Nbe a temporary state of shock…
+Dialogue: 0,0:08:07.50,0:08:09.57,Default,,0000,0000,0000,,Anyway, you sign this.
+Dialogue: 0,0:08:09.77,0:08:10.84,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:08:11.54,0:08:12.50,Default,,0000,0000,0000,,A letter of undertaking.
+Dialogue: 0,0:08:12.84,0:08:15.64,Default,,0000,0000,0000,,I told you earlier,\Nbut this is a Leaf hospital.
+Dialogue: 0,0:08:16.14,0:08:18.08,Default,,0000,0000,0000,,Outsiders aren’t allowed.
+Dialogue: 0,0:08:18.44,0:08:19.94,Default,,0000,0000,0000,,If something were to happen,
+Dialogue: 0,0:08:19.98,0:08:22.01,Default,,0000,0000,0000,,you will take responsibility\Nfor everything, Naruto.
+Dialogue: 0,0:08:22.05,0:08:23.21,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:23.25,0:08:23.98,Default,,0000,0000,0000,,You got a problem?
+Dialogue: 0,0:08:24.01,0:08:25.85,Default,,0000,0000,0000,,Fine, okay.
+Dialogue: 0,0:08:26.55,0:08:30.25,Default,,0000,0000,0000,,I sure picked up something troublesome.
+Dialogue: 0,0:09:03.75,0:09:04.76,Default,,0000,0000,0000,,What’s going on?!
+Dialogue: 0,0:09:06.09,0:09:08.13,Default,,0000,0000,0000,,That’s in the direction of the hospital!
+Dialogue: 0,0:09:09.69,0:09:15.07,Default,,0000,0000,0000,,Everyone, it’ll be okay.\NPlease evacuate calmly.
+Dialogue: 0,0:09:41.13,0:09:42.63,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:09:47.30,0:09:50.13,Default,,0000,0000,0000,,Forgive me… Forgive me.
+Dialogue: 0,0:09:51.47,0:09:53.67,Default,,0000,0000,0000,,Is there anyone left?
+Dialogue: 0,0:09:54.77,0:09:56.54,Default,,0000,0000,0000,,Anyone here?
+Dialogue: 0,0:10:03.45,0:10:05.32,Default,,0000,0000,0000,,Sakura, did you evacuate everyone?
+Dialogue: 0,0:10:05.55,0:10:07.15,Default,,0000,0000,0000,,I’m checking right now.
+Dialogue: 0,0:10:07.18,0:10:08.99,Default,,0000,0000,0000,,Hey, Sakura!
+Dialogue: 0,0:10:09.05,0:10:09.72,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:10:10.35,0:10:11.26,Default,,0000,0000,0000,,Everything okay?
+Dialogue: 0,0:10:11.32,0:10:12.36,Default,,0000,0000,0000,,Somehow.
+Dialogue: 0,0:10:12.56,0:10:13.96,Default,,0000,0000,0000,,Hey, where is that guy?
+Dialogue: 0,0:10:14.02,0:10:14.56,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:15.26,0:10:16.03,Default,,0000,0000,0000,,Come to think of it…
+Dialogue: 0,0:10:17.96,0:10:18.86,Default,,0000,0000,0000,,He’s not here.
+Dialogue: 0,0:10:19.76,0:10:24.84,Default,,0000,0000,0000,,Please help! My baby is…\NMy baby is still inside!
+Dialogue: 0,0:10:25.24,0:10:26.24,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:10:26.54,0:10:30.44,Default,,0000,0000,0000,,No way. It doesn’t look like\Nwe can get in with these flames…
+Dialogue: 0,0:10:30.54,0:10:32.61,Default,,0000,0000,0000,,What’re you doing?!\NHurry up and put out the fire!
+Dialogue: 0,0:11:01.11,0:11:02.47,Default,,0000,0000,0000,,I’ll go in!
+Dialogue: 0,0:11:02.51,0:11:03.41,Default,,0000,0000,0000,,That’s reckless.
+Dialogue: 0,0:11:03.44,0:11:05.88,Default,,0000,0000,0000,,The baby is in the deepest part\Nof the hospital.
+Dialogue: 0,0:11:10.75,0:11:11.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:12.92,0:11:13.98,Default,,0000,0000,0000,,It’s the sound of a flute.
+Dialogue: 0,0:11:15.32,0:11:15.99,Default,,0000,0000,0000,,It's him!
+Dialogue: 0,0:11:17.66,0:11:18.56,Default,,0000,0000,0000,,He’s getting closer.
+Dialogue: 0,0:11:20.42,0:11:21.19,Default,,0000,0000,0000,,Here he comes!
+Dialogue: 0,0:11:22.33,0:11:23.56,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:11:26.43,0:11:28.30,Default,,0000,0000,0000,,– This way! 					– To the right.
+Dialogue: 0,0:11:29.57,0:11:31.50,Default,,0000,0000,0000,,He did it! The baby is with him, too!
+Dialogue: 0,0:11:31.84,0:11:32.57,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:11:32.64,0:11:33.67,Default,,0000,0000,0000,,My boy!
+Dialogue: 0,0:11:34.30,0:11:35.81,Default,,0000,0000,0000,,That was a close shave.
+Dialogue: 0,0:11:36.31,0:11:37.71,Default,,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:11:37.84,0:11:40.44,Default,,0000,0000,0000,,Thank you very much…Thank you!
+Dialogue: 0,0:11:40.84,0:11:41.55,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:11:43.51,0:11:45.42,Default,,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:11:50.72,0:11:53.09,Default,,0000,0000,0000,,An outsider with amnesia, huh?
+Dialogue: 0,0:11:54.46,0:11:56.76,Default,,0000,0000,0000,,Good grief. What a dilemma.
+Dialogue: 0,0:11:57.09,0:12:00.86,Default,,0000,0000,0000,,It’d be okay just to let\Nthat one guy stay, right?
+Dialogue: 0,0:12:00.93,0:12:02.30,Default,,0000,0000,0000,,We can’t do that.
+Dialogue: 0,0:12:02.50,0:12:03.93,Default,,0000,0000,0000,,For the safety of the village,
+Dialogue: 0,0:12:03.97,0:12:06.74,Default,,0000,0000,0000,,we must not overlook even\Nthe slightest thing.
+Dialogue: 0,0:12:06.84,0:12:07.94,Default,,0000,0000,0000,,But, we figured out that
+Dialogue: 0,0:12:07.97,0:12:11.61,Default,,0000,0000,0000,,he’s not a bad guy\Nafter that incident, right?
+Dialogue: 0,0:12:11.64,0:12:14.75,Default,,0000,0000,0000,,Unfortunately, we must not let someone\Nwhose identity we don’t know
+Dialogue: 0,0:12:14.81,0:12:16.25,Default,,0000,0000,0000,,stay in the village.
+Dialogue: 0,0:12:16.31,0:12:17.88,Default,,0000,0000,0000,,Then, if he were to do something,
+Dialogue: 0,0:12:17.92,0:12:19.82,Default,,0000,0000,0000,,I’ll take the responsibility\Nand figure something out.
+Dialogue: 0,0:12:20.05,0:12:24.05,Default,,0000,0000,0000,,Sakura, how’s he doing?\NHas he remembered anything?
+Dialogue: 0,0:12:24.46,0:12:26.56,Default,,0000,0000,0000,,No, nothing yet.
+Dialogue: 0,0:12:27.06,0:12:28.36,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:12:28.89,0:12:31.50,Default,,0000,0000,0000,,I’m begging you.\NI’ll let you guys have some of
+Dialogue: 0,0:12:31.56,0:12:34.23,Default,,0000,0000,0000,,the rare pickled bamboo\Nshoot ramen too, Grandma.
+Dialogue: 0,0:12:34.57,0:12:36.60,Default,,0000,0000,0000,,Rare…pickled bamboo shoots?
+Dialogue: 0,0:12:36.87,0:12:40.54,Default,,0000,0000,0000,,Yeah. I went to pick some on\Nthe way back from a mission
+Dialogue: 0,0:12:40.54,0:12:42.64,Default,,0000,0000,0000,,and then found him--!
+Dialogue: 0,0:12:43.57,0:12:45.01,Default,,0000,0000,0000,,That’s news to me.
+Dialogue: 0,0:12:46.44,0:12:49.61,Default,,0000,0000,0000,,So you were loitering around like\Nthat on your way back from a mission?
+Dialogue: 0,0:12:49.65,0:12:50.91,Default,,0000,0000,0000,,Ouch. Oww.
+Dialogue: 0,0:12:51.55,0:12:55.99,Default,,0000,0000,0000,,Naruto, so you’re serious about\Nlooking after that boy, huh?
+Dialogue: 0,0:12:56.52,0:12:58.59,Default,,0000,0000,0000,,Yeah, it’s true.
+Dialogue: 0,0:12:59.22,0:13:02.56,Default,,0000,0000,0000,,All right, then I’ll let that boy\Nremain in the village.
+Dialogue: 0,0:13:02.83,0:13:03.89,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:13:04.43,0:13:07.93,Default,,0000,0000,0000,,I can’t run out the person\Nwho saved a child from this village.
+Dialogue: 0,0:13:08.23,0:13:11.54,Default,,0000,0000,0000,,Excellent, Grandma.\NNow you’re talking!
+Dialogue: 0,0:13:14.17,0:13:17.54,Default,,0000,0000,0000,,I’m Naruto Uzumaki…\NNice to know you.
+Dialogue: 0,0:13:18.54,0:13:20.81,Default,,0000,0000,0000,,I-I’m…
+Dialogue: 0,0:13:20.98,0:13:24.48,Default,,0000,0000,0000,,Oh, that’s right.\NYour memory hasn’t come back yet.
+Dialogue: 0,0:13:24.98,0:13:26.72,Default,,0000,0000,0000,,Then, hmmm.
+Dialogue: 0,0:13:27.85,0:13:30.22,Default,,0000,0000,0000,,Menma, make it Menma.
+Dialogue: 0,0:13:31.05,0:13:31.76,Default,,0000,0000,0000,,Menma?
+Dialogue: 0,0:13:31.92,0:13:34.96,Default,,0000,0000,0000,,Yeah. I’d gone to pick some\Nand then I found you, so…
+Dialogue: 0,0:13:35.96,0:13:36.69,Default,,0000,0000,0000,,Menma…
+Dialogue: 0,0:13:37.63,0:13:40.76,Default,,0000,0000,0000,,Okay, got it. My name’s Menma.
+Dialogue: 0,0:13:41.17,0:13:42.97,Default,,0000,0000,0000,,It’s settled. Nice to meet you, Menma.
+Dialogue: 0,0:13:43.57,0:13:45.14,Default,,0000,0000,0000,,Good to meet you, Naruto.
+Dialogue: 0,0:13:45.60,0:13:46.67,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:13:47.67,0:13:49.57,Default,,0000,0000,0000,,Wow, it looks delicious.
+Dialogue: 0,0:13:50.01,0:13:52.54,Default,,0000,0000,0000,,The ramen here is the best\Nin the world, believe it.
+Dialogue: 0,0:13:55.05,0:13:56.55,Default,,0000,0000,0000,,Let’s eat.
+Dialogue: 0,0:13:59.52,0:14:00.85,Default,,0000,0000,0000,,Tasty.
+Dialogue: 0,0:14:02.55,0:14:07.56,Default,,0000,0000,0000,,But this isn’t the finished product.\NDon’t you notice something lacking?
+Dialogue: 0,0:14:07.76,0:14:08.56,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:09.56,0:14:10.46,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:14:10.76,0:14:13.43,Default,,0000,0000,0000,,Come to think of it, there isn’t\Nany menma pickled bamboo shoots on top.
+Dialogue: 0,0:14:13.56,0:14:16.40,Default,,0000,0000,0000,,Right. Until the rare pickled\Nbamboo shoots are ready,
+Dialogue: 0,0:14:16.43,0:14:18.84,Default,,0000,0000,0000,,they’re sealed from your ramen.
+Dialogue: 0,0:14:19.24,0:14:21.67,Default,,0000,0000,0000,,Hey, old man, you’ll be\Nsure to make it, right?
+Dialogue: 0,0:14:21.81,0:14:23.31,Default,,0000,0000,0000,,Absolutely.
+Dialogue: 0,0:14:23.44,0:14:26.54,Default,,0000,0000,0000,,I can’t wait. Say, Menma.
+Dialogue: 0,0:14:26.78,0:14:29.55,Default,,0000,0000,0000,,Let’s definitely come here together\Nto have some at that time.
+Dialogue: 0,0:14:29.55,0:14:30.51,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:14:33.15,0:14:34.82,Default,,0000,0000,0000,,Okay, come on in.
+Dialogue: 0,0:14:35.19,0:14:36.09,Default,,0000,0000,0000,,Excuse me for barging in.
+Dialogue: 0,0:14:36.55,0:14:39.16,Default,,0000,0000,0000,,As of today, this is your home.
+Dialogue: 0,0:14:39.42,0:14:42.26,Default,,0000,0000,0000,,It’s a dirty place,\Nbut make yourself comfortable.
+Dialogue: 0,0:14:42.56,0:14:43.56,Default,,0000,0000,0000,,Whoa.
+Dialogue: 0,0:14:44.56,0:14:46.36,Default,,0000,0000,0000,,It really is dirty.
+Dialogue: 0,0:14:47.36,0:14:49.67,Default,,0000,0000,0000,,Don’t get so hung up on the details.
+Dialogue: 0,0:14:49.87,0:14:51.90,Default,,0000,0000,0000,,Y-You’re right.
+Dialogue: 0,0:14:52.24,0:14:54.44,Default,,0000,0000,0000,,More importantly, let’s get to sleep and
+Dialogue: 0,0:14:54.47,0:14:57.88,Default,,0000,0000,0000,,starting tomorrow we’ll come up with\Na way to get your memory back.
+Dialogue: 0,0:14:58.31,0:14:58.81,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:15:04.72,0:15:06.55,Default,,0000,0000,0000,,I can’t eat anymore…
+Dialogue: 0,0:15:24.53,0:15:27.67,Default,,0000,0000,0000,,Man, I slept well!
+Dialogue: 0,0:15:28.17,0:15:29.51,Default,,0000,0000,0000,,Morning, Naruto.
+Dialogue: 0,0:15:31.31,0:15:32.34,Default,,0000,0000,0000,,Menma?
+Dialogue: 0,0:15:33.68,0:15:34.75,Default,,0000,0000,0000,,Whoa.
+Dialogue: 0,0:15:35.55,0:15:37.61,Default,,0000,0000,0000,,Everything’s been cleaned up nicely!
+Dialogue: 0,0:15:38.55,0:15:40.88,Default,,0000,0000,0000,,Did you do this?
+Dialogue: 0,0:15:41.02,0:15:43.75,Default,,0000,0000,0000,,Yeah. I couldn’t sleep and\Nhad time to kill.
+Dialogue: 0,0:15:43.95,0:15:45.86,Default,,0000,0000,0000,,Thanks for that…
+Dialogue: 0,0:15:47.82,0:15:50.23,Default,,0000,0000,0000,,Hey, Menma! What’re you doing?!
+Dialogue: 0,0:15:50.46,0:15:54.06,Default,,0000,0000,0000,,What do you mean?\NI’m hanging up the laundry.
+Dialogue: 0,0:15:54.93,0:15:56.93,Default,,0000,0000,0000,,Don’t wash someone else’s underwear!
+Dialogue: 0,0:15:57.17,0:15:59.47,Default,,0000,0000,0000,,I’ll do that myself,\Nso don’t worry about it!
+Dialogue: 0,0:15:59.84,0:16:00.80,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:16:05.14,0:16:09.51,Default,,0000,0000,0000,,Now then…\NHow should we get your memory back?
+Dialogue: 0,0:16:10.31,0:16:11.75,Default,,0000,0000,0000,,Oh, I know!
+Dialogue: 0,0:16:12.18,0:16:13.55,Default,,0000,0000,0000,,Come with me, Menma.
+Dialogue: 0,0:16:18.96,0:16:21.76,Default,,0000,0000,0000,,This is a specialty from the Land of Wind,\NSand Dumplings.
+Dialogue: 0,0:16:21.86,0:16:25.40,Default,,0000,0000,0000,,This fine soy powder is used to\Nresemble sand and they taste really good.
+Dialogue: 0,0:16:25.56,0:16:26.56,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:16:26.80,0:16:29.57,Default,,0000,0000,0000,,And this one is a specialty from\Nthe Land of Earth, Stone Rice Cakes.
+Dialogue: 0,0:16:29.60,0:16:32.30,Default,,0000,0000,0000,,The crunchy texture is irresistible.
+Dialogue: 0,0:16:32.34,0:16:33.40,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:16:33.47,0:16:37.34,Default,,0000,0000,0000,,And this is a specialty from\Nthe Land of Water, Mist Mitsumame Beans.
+Dialogue: 0,0:16:37.37,0:16:39.54,Default,,0000,0000,0000,,So? Have you remembered anything?
+Dialogue: 0,0:16:39.81,0:16:41.55,Default,,0000,0000,0000,,No… Nothing at all.
+Dialogue: 0,0:16:41.88,0:16:44.98,Default,,0000,0000,0000,,Oh, I thought you might\Nremember something
+Dialogue: 0,0:16:45.02,0:16:47.55,Default,,0000,0000,0000,,if they had a specialty\Nfrom your home.
+Dialogue: 0,0:16:47.82,0:16:48.55,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:16:48.55,0:16:50.55,Default,,0000,0000,0000,,No need to apologize.
+Dialogue: 0,0:16:51.59,0:16:55.39,Default,,0000,0000,0000,,Naruto, forget about my memory.
+Dialogue: 0,0:16:55.73,0:16:56.56,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:57.09,0:17:01.43,Default,,0000,0000,0000,,You see, we don’t know how\Nor when my memory will come back.
+Dialogue: 0,0:17:02.57,0:17:05.54,Default,,0000,0000,0000,,More importantly,\Nyou’ve got your own work, right?
+Dialogue: 0,0:17:05.64,0:17:07.30,Default,,0000,0000,0000,,Well, you’ve got a point.
+Dialogue: 0,0:17:07.54,0:17:10.54,Default,,0000,0000,0000,,I’ve got to finish cleaning\Nthe Great Stone Faces by today…
+Dialogue: 0,0:17:10.54,0:17:12.14,Default,,0000,0000,0000,,Then let’s do that.
+Dialogue: 0,0:17:14.51,0:17:16.31,Default,,0000,0000,0000,,But before that, wait just a minute.
+Dialogue: 0,0:17:16.61,0:17:17.51,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:17.55,0:17:18.82,Default,,0000,0000,0000,,Hey, Menma.
+Dialogue: 0,0:17:20.55,0:17:21.18,Default,,0000,0000,0000,,Ma’am…
+Dialogue: 0,0:17:22.02,0:17:24.02,Default,,0000,0000,0000,,I’ll carry your things\Nto your house.
+Dialogue: 0,0:17:24.55,0:17:27.32,Default,,0000,0000,0000,,Oh, thank you.
+Dialogue: 0,0:17:35.67,0:17:37.83,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:17:37.97,0:17:39.40,Default,,0000,0000,0000,,No problem.
+Dialogue: 0,0:17:39.74,0:17:43.61,Default,,0000,0000,0000,,At any rate, you’ve sure got\Na lot of weeds growing in your yard.
+Dialogue: 0,0:17:44.98,0:17:47.54,Default,,0000,0000,0000,,My lower back has been\Nbothering me lately…
+Dialogue: 0,0:17:47.61,0:17:50.25,Default,,0000,0000,0000,,The grass grows as much as it wants.
+Dialogue: 0,0:17:50.55,0:17:52.35,Default,,0000,0000,0000,,Then I’ll do it.
+Dialogue: 0,0:17:52.55,0:17:53.55,Default,,0000,0000,0000,,Oh, my.
+Dialogue: 0,0:17:55.42,0:17:57.55,Default,,0000,0000,0000,,I-I will, too!
+Dialogue: 0,0:17:57.65,0:17:59.56,Default,,0000,0000,0000,,Thanks so much!
+Dialogue: 0,0:18:01.12,0:18:04.36,Default,,0000,0000,0000,,Phew… Finally done!
+Dialogue: 0,0:18:04.56,0:18:05.50,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:18:05.56,0:18:06.56,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:18:06.86,0:18:08.00,Default,,0000,0000,0000,,They want help too!
+Dialogue: 0,0:18:08.13,0:18:08.77,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:09.30,0:18:12.57,Default,,0000,0000,0000,,It seems this area here\Nis all homes of the elderly.
+Dialogue: 0,0:18:13.40,0:18:14.40,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:18:14.64,0:18:16.44,Default,,0000,0000,0000,,I leave it to you.
+Dialogue: 0,0:18:16.54,0:18:18.54,Default,,0000,0000,0000,,F-For real?
+Dialogue: 0,0:18:21.51,0:18:22.71,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:18:23.01,0:18:26.38,Default,,0000,0000,0000,,Actually, thank-you gifts have\Nbeen sent to Naruto and that boy
+Dialogue: 0,0:18:26.42,0:18:28.02,Default,,0000,0000,0000,,from all over the village.
+Dialogue: 0,0:18:28.35,0:18:30.85,Default,,0000,0000,0000,,What’re those two doing?
+Dialogue: 0,0:18:33.59,0:18:36.63,Default,,0000,0000,0000,,But really, you’re sure an odd guy.
+Dialogue: 0,0:18:36.93,0:18:37.79,Default,,0000,0000,0000,,Am I?
+Dialogue: 0,0:18:38.43,0:18:40.56,Default,,0000,0000,0000,,You’ve got a strong\Nsense of righteousness,
+Dialogue: 0,0:18:40.56,0:18:42.23,Default,,0000,0000,0000,,I mean,\Nyou’re the embodiment of kindness.
+Dialogue: 0,0:18:42.57,0:18:44.60,Default,,0000,0000,0000,,It’s not something easily done.
+Dialogue: 0,0:18:44.80,0:18:47.44,Default,,0000,0000,0000,,I just want to live right.
+Dialogue: 0,0:18:48.47,0:18:50.54,Default,,0000,0000,0000,,I don’t want to have any more regrets.
+Dialogue: 0,0:18:50.87,0:18:54.11,Default,,0000,0000,0000,,Hm? Menma,\Nhave you remembered something?
+Dialogue: 0,0:18:54.24,0:18:55.95,Default,,0000,0000,0000,,Huh? No, not really.
+Dialogue: 0,0:18:56.31,0:18:57.51,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:18:58.15,0:19:00.98,Default,,0000,0000,0000,,What?! Is it bird poop?
+Dialogue: 0,0:19:02.85,0:19:03.65,Default,,0000,0000,0000,,It’s blood!
+Dialogue: 0,0:19:09.59,0:19:10.93,Default,,0000,0000,0000,,Give me a hand, Menma!
+Dialogue: 0,0:19:11.36,0:19:12.00,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:19:15.57,0:19:16.80,Default,,0000,0000,0000,,What’s the matter?!
+Dialogue: 0,0:19:17.40,0:19:19.84,Default,,0000,0000,0000,,Someone…in this village…
+Dialogue: 0,0:19:22.54,0:19:23.51,Default,,0000,0000,0000,,Let’s get out of here!
+Dialogue: 0,0:19:25.11,0:19:27.01,Default,,0000,0000,0000,,Menma, I leave this guy to you.
+Dialogue: 0,0:19:27.28,0:19:27.88,Default,,0000,0000,0000,,Got it.
+Dialogue: 0,0:19:37.69,0:19:38.72,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:19:43.56,0:19:46.00,Default,,0000,0000,0000,,Damn you. Come on out!
+Dialogue: 0,0:19:50.23,0:19:52.54,Default,,0000,0000,0000,,Damn it! Where’s he hiding?
+Dialogue: 0,0:19:54.14,0:19:54.91,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:20:07.85,0:20:10.49,Default,,0000,0000,0000,,Sound of a flute? Is it Menma?!
+Dialogue: 0,0:20:16.86,0:20:18.56,Default,,0000,0000,0000,,Huh? What’s this…?
+Dialogue: 0,0:20:19.40,0:20:22.50,Default,,0000,0000,0000,,Awesome power’s starting to\Nwell up in my whole body.
+Dialogue: 0,0:20:22.97,0:20:23.77,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:20:26.80,0:20:28.31,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:20:29.01,0:20:30.84,Default,,0000,0000,0000,,Power’s flowing over me!
+Dialogue: 0,0:20:38.55,0:20:39.55,Default,,0000,0000,0000,,I see you.
+Dialogue: 0,0:20:42.02,0:20:42.99,Default,,0000,0000,0000,,Damn it.
+Dialogue: 0,0:20:50.56,0:20:51.29,Default,,0000,0000,0000,,I did it.
+Dialogue: 0,0:20:54.56,0:20:55.57,Default,,0000,0000,0000,,It’s a Substitution!
+Dialogue: 0,0:20:56.57,0:20:58.47,Default,,0000,0000,0000,,Damn it. He got away, huh…?
+Dialogue: 0,0:21:00.80,0:21:02.81,Default,,0000,0000,0000,,You okay, Naruto?
+Dialogue: 0,0:21:04.67,0:21:05.51,Default,,0000,0000,0000,,Menma…
+Dialogue: 0,0:21:06.18,0:21:07.51,Default,,0000,0000,0000,,That flute just now…
+Dialogue: 0,0:21:09.38,0:21:12.42,Default,,0000,0000,0000,,Who in the world are you?
+Dialogue: 0,0:21:19.19,0:21:23.56,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.56,0:21:29.80,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.34,0:21:39.58,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.61,0:21:44.31,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.35,0:21:49.22,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:49.25,0:21:54.06,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:54.09,0:21:59.00,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:59.06,0:22:03.40,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.43,0:22:07.70,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.77,0:22:15.21,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:15.25,0:22:19.12,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:19.15,0:22:24.42,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.45,0:22:28.56,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.56,0:22:33.43,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.56,0:22:38.07,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:38.10,0:22:44.21,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.88,0:22:52.68,Default,,0000,0000,0000,,As I thought, he’s no ordinary man.
+Dialogue: 0,0:22:52.72,0:22:54.92,Default,,0000,0000,0000,,He won’t be an easy opponent to fight.
+Dialogue: 0,0:22:54.98,0:22:56.25,Default,,0000,0000,0000,,Wait a minute.
+Dialogue: 0,0:22:56.35,0:22:57.82,Default,,0000,0000,0000,,You are talking about Menma\Nlike his our enemy or something.
+Dialogue: 0,0:22:57.85,0:22:59.56,Default,,0000,0000,0000,,There is that possibility, you know.
+Dialogue: 0,0:22:59.56,0:23:01.56,Default,,0000,0000,0000,,He could be with the intruder\Nfrom the other day.
+Dialogue: 0,0:23:01.56,0:23:02.69,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:23:03.03,0:23:05.93,Default,,0000,0000,0000,,Weren't you two gonna help us\Nseek Menma's memory together?
+Dialogue: 0,0:23:06.06,0:23:08.60,Default,,0000,0000,0000,,Our mission is to find out\Nthe guy's identity
+Dialogue: 0,0:23:08.63,0:23:09.87,Default,,0000,0000,0000,,and to catch the intruder.
+Dialogue: 0,0:23:10.00,0:23:13.10,Default,,0000,0000,0000,,Unlike you, we don't trust Menma just yet.
+Dialogue: 0,0:23:13.54,0:23:16.21,Default,,0000,0000,0000,,Next time: "Bringing Back Reality"

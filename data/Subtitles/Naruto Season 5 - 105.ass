@@ -1,0 +1,331 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.60,0:00:20.93,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.84,0:00:29.84,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.84,0:00:35.14,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.18,0:00:39.30,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.55,0:00:45.47,Default,,0000,0000,0000,,I'll laugh with  you\Nand live for the moment
+Dialogue: 0,0:00:46.10,0:00:53.01,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.47,0:00:57.89,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:57.93,0:01:05.01,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.05,0:01:12.18,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.22,0:01:18.85,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.39,0:01:28.84,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:50.55,0:01:52.97,Default,,0000,0000,0000,,Okay! Drink! Sing!
+Dialogue: 0,0:01:53.01,0:01:54.60,Default,,0000,0000,0000,,Let's have fun!
+Dialogue: 0,0:01:54.64,0:01:58.72,Default,,0000,0000,0000,,Good grief…This is too much for…\Na pre-celebration.
+Dialogue: 0,0:02:00.64,0:02:01.84,Default,,0000,0000,0000,,Did you take care of the business?
+Dialogue: 0,0:02:03.14,0:02:03.84,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:02:05.84,0:02:08.05,Default,,0000,0000,0000,,More importantly,\Nthe rain’s starting to let up.
+Dialogue: 0,0:02:08.84,0:02:11.84,Default,,0000,0000,0000,,Shouldn’t you quickly put an end\Nto this farce of a race?
+Dialogue: 0,0:02:13.68,0:02:14.84,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:02:17.55,0:02:19.35,Default,,0000,0000,0000,,Guess I’ll go for a run!
+Dialogue: 0,0:02:40.76,0:02:42.68,Default,,0000,0000,0000,,A-Above here, huh?
+Dialogue: 0,0:02:42.80,0:02:43.51,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:02:43.84,0:02:47.10,Default,,0000,0000,0000,,It’s a quite a long staircase,\Nbelieve it.
+Dialogue: 0,0:02:47.84,0:02:50.89,Default,,0000,0000,0000,,They’re also called\Nthe Stone Steps that Tear Hearts Apart.
+Dialogue: 0,0:02:51.51,0:02:53.51,Default,,0000,0000,0000,,Heh, cool!
+Dialogue: 0,0:02:53.84,0:02:55.22,Default,,0000,0000,0000,,Let’s go at a sprint!
+Dialogue: 0,0:03:03.47,0:03:05.84,Default,,0000,0000,0000,,Hey, he’s kidding, right?
+Dialogue: 0,0:03:06.35,0:03:08.89,Default,,0000,0000,0000,,What kind of stamina does he have?
+Dialogue: 0,0:03:17.51,0:03:18.05,Default,,0000,0000,0000,,Boss.
+Dialogue: 0,0:03:20.10,0:03:22.39,Default,,0000,0000,0000,,It seems Idate is heading this way!
+Dialogue: 0,0:03:23.01,0:03:26.51,Default,,0000,0000,0000,,He hasn’t run away,\Njust like you said, Boss.
+Dialogue: 0,0:03:27.80,0:03:28.84,Default,,0000,0000,0000,,Of course…
+Dialogue: 0,0:03:31.51,0:03:33.84,Default,,0000,0000,0000,,I saw potential in him.
+Dialogue: 0,0:03:35.93,0:03:39.84,Default,,0000,0000,0000,,Now, it’s just a little more!\NRun Idate!
+Dialogue: 0,0:03:40.35,0:03:46.22,Default,,0000,0000,0000,,A Fierce Battle of Rolling Thunder
+Dialogue: 0,0:03:52.84,0:03:54.18,Default,,0000,0000,0000,,Hey…you…!
+Dialogue: 0,0:03:54.76,0:03:55.51,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:56.55,0:03:57.51,Default,,0000,0000,0000,,Let me tell you…
+Dialogue: 0,0:03:57.84,0:04:00.18,Default,,0000,0000,0000,,It’s not like I trust you\Nor anything yet, okay?
+Dialogue: 0,0:04:00.22,0:04:01.51,Default,,0000,0000,0000,,Yeah, yeah whatever.
+Dialogue: 0,0:04:01.55,0:04:03.18,Default,,0000,0000,0000,,It doesn’t really matter to me,\Nbelieve it.
+Dialogue: 0,0:04:05.26,0:04:09.26,Default,,0000,0000,0000,,There’s a person\Nwho still trusts you, right?!
+Dialogue: 0,0:04:15.68,0:04:17.26,Default,,0000,0000,0000,,During the Chunin Exam…
+Dialogue: 0,0:04:18.26,0:04:18.93,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:19.47,0:04:22.84,Default,,0000,0000,0000,,You said that a tenth problem\Nappeared, right?
+Dialogue: 0,0:04:23.68,0:04:29.18,Default,,0000,0000,0000,,Yeah. It was a weird problem to determine\Nwhether you’d take the problem or not.
+Dialogue: 0,0:04:30.84,0:04:31.84,Default,,0000,0000,0000,,Three years ago…
+Dialogue: 0,0:04:33.05,0:04:36.10,Default,,0000,0000,0000,,I got a similar problem…
+Dialogue: 0,0:04:37.84,0:04:41.35,Default,,0000,0000,0000,,Okay, now I’m going to\Ngive the tenth problem.
+Dialogue: 0,0:04:42.84,0:04:43.84,Default,,0000,0000,0000,,The tenth problem…
+Dialogue: 0,0:04:45.10,0:04:47.84,Default,,0000,0000,0000,,What kind of problem is\NBig Brother going to give?!
+Dialogue: 0,0:04:49.30,0:04:50.55,Default,,0000,0000,0000,,The tenth problem is a battle
+Dialogue: 0,0:04:50.84,0:04:54.39,Default,,0000,0000,0000,,with the Three-Man Squad\Nyou were teamed up with.
+Dialogue: 0,0:04:56.84,0:04:59.84,Default,,0000,0000,0000,,The three of you will compete against\Neach other this exercise.
+Dialogue: 0,0:05:00.35,0:05:04.64,Default,,0000,0000,0000,,And among you…\None of you will be failed!
+Dialogue: 0,0:05:06.55,0:05:09.68,Default,,0000,0000,0000,,And the one who is failed\Nwill remain a Genin for life
+Dialogue: 0,0:05:09.72,0:05:12.89,Default,,0000,0000,0000,,and we will never again\Nlet them take the Chunin Exam!
+Dialogue: 0,0:05:13.39,0:05:14.30,Default,,0000,0000,0000,,N-No way…
+Dialogue: 0,0:05:14.64,0:05:17.35,Default,,0000,0000,0000,,Then for what purpose\Nwere we together until now?
+Dialogue: 0,0:05:17.60,0:05:19.18,Default,,0000,0000,0000,,I make the rules here.
+Dialogue: 0,0:05:19.89,0:05:21.85,Default,,0000,0000,0000,,Back-talk is not allowed at all!
+Dialogue: 0,0:05:24.22,0:05:25.97,Default,,0000,0000,0000,,If you want to withdraw,\Nyou should do so.
+Dialogue: 0,0:05:28.22,0:05:32.64,Default,,0000,0000,0000,,Withdrawing here and\Nwaiting half a year is also a way.
+Dialogue: 0,0:05:34.47,0:05:37.72,Default,,0000,0000,0000,,If one person among\Nthe three withdraws,
+Dialogue: 0,0:05:37.84,0:05:39.97,Default,,0000,0000,0000,,of course all three members\Nwill be disqualified.
+Dialogue: 0,0:05:40.68,0:05:43.26,Default,,0000,0000,0000,,But you will be allowed\Nto take the Chunin Exam
+Dialogue: 0,0:05:43.30,0:05:45.39,Default,,0000,0000,0000,,one more time, in half a year.
+Dialogue: 0,0:05:47.01,0:05:48.64,Default,,0000,0000,0000,,So, what will you do?
+Dialogue: 0,0:05:50.84,0:05:53.60,Default,,0000,0000,0000,,One comrade will be dropped.
+Dialogue: 0,0:05:54.84,0:05:56.55,Default,,0000,0000,0000,,I have the confidence to pass.
+Dialogue: 0,0:05:58.84,0:06:03.51,Default,,0000,0000,0000,,But, one of them will remain\Na Genin for life.
+Dialogue: 0,0:06:10.89,0:06:13.55,Default,,0000,0000,0000,,It’s a choice between\Ncomrades and your life.
+Dialogue: 0,0:06:14.35,0:06:16.30,Default,,0000,0000,0000,,If you’re going to quit,\Nnow’s the time.
+Dialogue: 0,0:06:19.76,0:06:22.26,Default,,0000,0000,0000,,Is there nobody else\Nwho’s going to withdraw?
+Dialogue: 0,0:06:24.84,0:06:25.72,Default,,0000,0000,0000,,We’re good, then.
+Dialogue: 0,0:06:29.72,0:06:33.18,Default,,0000,0000,0000,,Okay, to everyone who\Nhas remained here…
+Dialogue: 0,0:06:35.39,0:06:36.84,Default,,0000,0000,0000,,I render you disqualified!
+Dialogue: 0,0:06:37.84,0:06:39.39,Default,,0000,0000,0000,,Wh-Why…?
+Dialogue: 0,0:06:39.85,0:06:41.68,Default,,0000,0000,0000,,H-Hold on a minute!
+Dialogue: 0,0:06:41.84,0:06:44.18,Default,,0000,0000,0000,,I prepared myself and remained here!
+Dialogue: 0,0:06:44.47,0:06:46.84,Default,,0000,0000,0000,,Such preparedness is below contempt!
+Dialogue: 0,0:06:47.18,0:06:51.18,Default,,0000,0000,0000,,Scums like you don’t have\Nthe qualifications to become Chunin!
+Dialogue: 0,0:06:52.51,0:06:53.18,Default,,0000,0000,0000,,That’s all!
+Dialogue: 0,0:06:55.84,0:06:57.01,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:06:58.14,0:07:00.26,Default,,0000,0000,0000,,What kind of a test was it\Nfor you guys?
+Dialogue: 0,0:07:04.01,0:07:05.47,Default,,0000,0000,0000,,I forgot…
+Dialogue: 0,0:07:06.64,0:07:10.26,Default,,0000,0000,0000,,I mean, it was explained to me,\Nbut I didn’t really get it.
+Dialogue: 0,0:07:10.84,0:07:13.84,Default,,0000,0000,0000,,Trusting in my big brother’s words,\NI remained in the classroom.
+Dialogue: 0,0:07:14.64,0:07:16.60,Default,,0000,0000,0000,,And yet I was failed!
+Dialogue: 0,0:07:18.10,0:07:22.18,Default,,0000,0000,0000,,No way could I take that.\NI questioned my big brother.
+Dialogue: 0,0:07:23.84,0:07:25.84,Default,,0000,0000,0000,,Big Brother!\NWhat’s up with that test?!
+Dialogue: 0,0:07:26.84,0:07:28.84,Default,,0000,0000,0000,,A Shinobi reads the double bluff.
+Dialogue: 0,0:07:29.84,0:07:33.10,Default,,0000,0000,0000,,You should’ve understood\Nthat was the test.
+Dialogue: 0,0:07:33.60,0:07:35.14,Default,,0000,0000,0000,,Even so, I can’t accept that!
+Dialogue: 0,0:07:35.84,0:07:37.10,Default,,0000,0000,0000,,No matter how dangerous,
+Dialogue: 0,0:07:37.14,0:07:39.43,Default,,0000,0000,0000,,isn’t it necessary to have\Nthe courage to plunge into any mission?!
+Dialogue: 0,0:07:40.01,0:07:40.84,Default,,0000,0000,0000,,Idate.
+Dialogue: 0,0:07:43.26,0:07:45.30,Default,,0000,0000,0000,,Can you really not accept it?
+Dialogue: 0,0:07:46.39,0:07:48.35,Default,,0000,0000,0000,,Of course not, such a…
+Dialogue: 0,0:07:49.84,0:07:53.01,Default,,0000,0000,0000,,You…quit as a Ninja.
+Dialogue: 0,0:07:56.18,0:07:58.14,Default,,0000,0000,0000,,If you’re telling me to quit,\Nthen I will.
+Dialogue: 0,0:07:58.72,0:08:01.84,Default,,0000,0000,0000,,But tell me why I’m no good!
+Dialogue: 0,0:08:02.72,0:08:04.84,Default,,0000,0000,0000,,That’s something you should\Nrealize yourself,
+Dialogue: 0,0:08:04.84,0:08:07.55,Default,,0000,0000,0000,,with your own power.
+Dialogue: 0,0:08:10.60,0:08:13.55,Default,,0000,0000,0000,,To this day…I don’t understand\Nthe answer to that.
+Dialogue: 0,0:08:14.43,0:08:17.22,Default,,0000,0000,0000,,So after that,\Nyou were deceived by Aoi, huh?
+Dialogue: 0,0:08:17.51,0:08:19.84,Default,,0000,0000,0000,,Yeah, that’s right.
+Dialogue: 0,0:08:24.10,0:08:26.93,Default,,0000,0000,0000,,We made it…to the top!
+Dialogue: 0,0:08:28.84,0:08:31.89,Default,,0000,0000,0000,,I’m going by myself from here.\NYou rest!
+Dialogue: 0,0:08:32.43,0:08:35.14,Default,,0000,0000,0000,,Huh?! You still saying stuff like that?!
+Dialogue: 0,0:08:35.55,0:08:38.47,Default,,0000,0000,0000,,I can’t be asking you guys\Nto help any more.
+Dialogue: 0,0:08:38.84,0:08:42.85,Default,,0000,0000,0000,,There’s no point if I don’t win by myself,\Non my own strength!
+Dialogue: 0,0:08:42.89,0:08:44.84,Default,,0000,0000,0000,,Oh…hey! Idate!
+Dialogue: 0,0:08:45.14,0:08:48.18,Default,,0000,0000,0000,,I can make it! It seems\NSakura’s special medicine has worked!
+Dialogue: 0,0:08:51.68,0:08:52.47,Default,,0000,0000,0000,,Blast!
+Dialogue: 0,0:08:52.84,0:08:54.43,Default,,0000,0000,0000,,This doesn’t hurt!
+Dialogue: 0,0:08:57.14,0:09:00.80,Default,,0000,0000,0000,,I’m back in the game…\Nfrom here!
+Dialogue: 0,0:09:15.30,0:09:18.35,Default,,0000,0000,0000,,If we cross this suspension bridge,\Nit’s Ouzu Island, huh?
+Dialogue: 0,0:09:18.84,0:09:20.05,Default,,0000,0000,0000,,We should hurry.
+Dialogue: 0,0:09:21.22,0:09:23.93,Default,,0000,0000,0000,,It seems Idate has made it\Nto the Modoroki Shrine.
+Dialogue: 0,0:09:24.22,0:09:25.10,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:25.64,0:09:28.55,Default,,0000,0000,0000,,It seems we underestimated\Nthe Leaf Genin a bit…
+Dialogue: 0,0:09:28.85,0:09:32.60,Default,,0000,0000,0000,,You jerk!\NYou didn’t finish them?!
+Dialogue: 0,0:09:32.84,0:09:35.35,Default,,0000,0000,0000,,Now’s not the time to be talking\Nabout stuff like that.
+Dialogue: 0,0:09:36.05,0:09:37.84,Default,,0000,0000,0000,,Please cross the bridge quickly!
+Dialogue: 0,0:09:37.85,0:09:39.80,Default,,0000,0000,0000,,Useless Ninja!
+Dialogue: 0,0:09:43.85,0:09:47.84,Default,,0000,0000,0000,,Hey! I’m only helping you\Nbecause it’s the job.
+Dialogue: 0,0:09:48.68,0:09:51.89,Default,,0000,0000,0000,,I’ll waste you if you keep\Ntalking smart to me.
+Dialogue: 0,0:09:52.93,0:09:54.43,Default,,0000,0000,0000,,I-I’m sorry…
+Dialogue: 0,0:09:54.51,0:09:57.26,Default,,0000,0000,0000,,If you’ve understood,\Nthen get a move on!
+Dialogue: 0,0:09:57.35,0:09:58.22,Default,,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:10:04.18,0:10:06.01,Default,,0000,0000,0000,,There he is! That Fukusuke jerk!
+Dialogue: 0,0:10:11.39,0:10:12.84,Default,,0000,0000,0000,,This is quite something.
+Dialogue: 0,0:10:13.55,0:10:16.39,Default,,0000,0000,0000,,I never thought\Nyou’d make it this far.
+Dialogue: 0,0:10:17.55,0:10:19.85,Default,,0000,0000,0000,,That’s the…\NBlade of the Thunder God!
+Dialogue: 0,0:10:30.93,0:10:31.84,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:10:34.72,0:10:35.89,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:10:39.26,0:10:40.84,Default,,0000,0000,0000,,Stop kicking a dead horse.
+Dialogue: 0,0:10:41.22,0:10:44.84,Default,,0000,0000,0000,,Nobody is a match for\Nthe legendary Blade of the Thunder God,
+Dialogue: 0,0:10:44.84,0:10:48.10,Default,,0000,0000,0000,,said to have been used\Nby the Second Hokage.
+Dialogue: 0,0:10:50.51,0:10:52.35,Default,,0000,0000,0000,,You should know this well.
+Dialogue: 0,0:10:52.97,0:10:57.64,Default,,0000,0000,0000,,After all, you’re the man\Nwho stole this for me.
+Dialogue: 0,0:10:58.89,0:10:59.76,Default,,0000,0000,0000,,Blast…
+Dialogue: 0,0:11:05.72,0:11:09.84,Default,,0000,0000,0000,,Mud balls, huh?\Nlt’s just like a kid’s fight.
+Dialogue: 0,0:11:10.55,0:11:13.18,Default,,0000,0000,0000,,Sorry, I didn’t have\Nany Kunai Knives.
+Dialogue: 0,0:11:13.60,0:11:14.26,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:11:16.10,0:11:19.84,Default,,0000,0000,0000,,But you won’t be able to dodge\Nthe next ball just with that.
+Dialogue: 0,0:11:20.68,0:11:22.14,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:11:27.93,0:11:30.68,Default,,0000,0000,0000,,He’s concentrating\Nthe Chakra in his palm.
+Dialogue: 0,0:11:32.35,0:11:33.64,Default,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:11:36.05,0:11:36.84,Default,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:11:41.97,0:11:42.85,Default,,0000,0000,0000,,Once more!
+Dialogue: 0,0:11:55.05,0:11:56.84,Default,,0000,0000,0000,,I don’t know what\Nyou intend to do, but…
+Dialogue: 0,0:12:02.84,0:12:04.80,Default,,0000,0000,0000,,Ninja Art: Senbon Rainstorm!
+Dialogue: 0,0:12:08.55,0:12:09.84,Default,,0000,0000,0000,,Too bad.
+Dialogue: 0,0:12:09.97,0:12:12.84,Default,,0000,0000,0000,,This Blade of the Thunder God\Ncuts through anything!
+Dialogue: 0,0:12:13.84,0:12:16.43,Default,,0000,0000,0000,,Even Chakra itself is no exception.
+Dialogue: 0,0:12:16.84,0:12:17.68,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:12:19.80,0:12:22.35,Default,,0000,0000,0000,,I have to make doubly sure
+Dialogue: 0,0:12:22.84,0:12:24.84,Default,,0000,0000,0000,,so that nothing troublesome\Nwill happen again.
+Dialogue: 0,0:12:25.84,0:12:29.05,Default,,0000,0000,0000,,I’m your opponent!\NKeep your hands off Idate!
+Dialogue: 0,0:12:29.35,0:12:32.39,Default,,0000,0000,0000,,Humph, are you still\Nsaying such things?
+Dialogue: 0,0:12:32.93,0:12:36.84,Default,,0000,0000,0000,,Saving each other, protecting each other,\Ntrusting each other.
+Dialogue: 0,0:12:37.14,0:12:38.64,Default,,0000,0000,0000,,It ticks me off!
+Dialogue: 0,0:12:40.18,0:12:43.35,Default,,0000,0000,0000,,The weak can't survive\Nif they don’t support each other.
+Dialogue: 0,0:12:44.14,0:12:47.84,Default,,0000,0000,0000,,So they trust people easily\Nand are betrayed.
+Dialogue: 0,0:12:48.72,0:12:52.39,Default,,0000,0000,0000,,Weaklings like you guys\Nshould just run about and away.
+Dialogue: 0,0:12:53.14,0:12:55.05,Default,,0000,0000,0000,,Right, Idate?
+Dialogue: 0,0:12:56.26,0:12:59.05,Default,,0000,0000,0000,,It was like that also\Nwhen you stole
+Dialogue: 0,0:12:59.10,0:13:00.68,Default,,0000,0000,0000,,this Blade of the Thunder God, right?
+Dialogue: 0,0:13:07.76,0:13:10.84,Default,,0000,0000,0000,,I can see it.\NThat’s the Village Hidden in the Rain.
+Dialogue: 0,0:13:14.01,0:13:14.93,Default,,0000,0000,0000,,Aoi Sensei?!
+Dialogue: 0,0:13:19.43,0:13:20.51,Default,,0000,0000,0000,,Aoi Sensei!
+Dialogue: 0,0:13:23.76,0:13:24.35,Default,,0000,0000,0000,,Idate…
+Dialogue: 0,0:13:24.84,0:13:26.18,Default,,0000,0000,0000,,B-Big Brother…
+Dialogue: 0,0:13:26.93,0:13:28.22,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:13:28.85,0:13:31.18,Default,,0000,0000,0000,,Go back to the village immediately\Nand surrender yourself!
+Dialogue: 0,0:13:33.55,0:13:34.47,Default,,0000,0000,0000,,You?!
+Dialogue: 0,0:13:35.05,0:13:37.89,Default,,0000,0000,0000,,Do you know what\Nyou have done?
+Dialogue: 0,0:13:40.22,0:13:40.89,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:43.85,0:13:48.01,Default,,0000,0000,0000,,Strict as always, eh?\NAnd he’s your cute little brother.
+Dialogue: 0,0:13:48.72,0:13:52.60,Default,,0000,0000,0000,,But it’s truly perfect that\Nyou’ve shown up here.
+Dialogue: 0,0:13:53.47,0:13:54.80,Default,,0000,0000,0000,,Aoi Sensei…
+Dialogue: 0,0:13:55.68,0:13:57.68,Default,,0000,0000,0000,,This forbidden Jutsu scroll\Ncan’t be deciphered
+Dialogue: 0,0:13:57.72,0:14:00.05,Default,,0000,0000,0000,,unless you’re Jonin class.
+Dialogue: 0,0:14:00.72,0:14:03.76,Default,,0000,0000,0000,,I’ll have the brothers\Nbetray the Leaf Village together.
+Dialogue: 0,0:14:20.51,0:14:23.84,Default,,0000,0000,0000,,Ibiki, please decipher it already.
+Dialogue: 0,0:14:24.64,0:14:25.72,Default,,0000,0000,0000,,I refuse.
+Dialogue: 0,0:14:26.10,0:14:29.76,Default,,0000,0000,0000,,So are you choosing death,\Ntogether with Idate?
+Dialogue: 0,0:14:32.26,0:14:34.47,Default,,0000,0000,0000,,Such as he is,\Nhe’s also a Shinobi.
+Dialogue: 0,0:14:35.47,0:14:37.47,Default,,0000,0000,0000,,He’s not afraid of death.
+Dialogue: 0,0:14:40.84,0:14:42.84,Default,,0000,0000,0000,,It doesn’t seem so.
+Dialogue: 0,0:14:43.72,0:14:46.14,Default,,0000,0000,0000,,This face is one taut with fear.
+Dialogue: 0,0:14:48.05,0:14:52.55,Default,,0000,0000,0000,,I’m quitting as a Ninja!\NSo please don’t kill me!
+Dialogue: 0,0:14:53.01,0:14:55.26,Default,,0000,0000,0000,,Please decipher it.
+Dialogue: 0,0:14:55.55,0:14:58.30,Default,,0000,0000,0000,,You don’t want to see\Nyour cute little brother killed
+Dialogue: 0,0:14:58.35,0:15:00.10,Default,,0000,0000,0000,,before your eyes, do you?
+Dialogue: 0,0:15:01.18,0:15:02.68,Default,,0000,0000,0000,,Little brother, you say?
+Dialogue: 0,0:15:03.60,0:15:04.93,Default,,0000,0000,0000,,That fool?
+Dialogue: 0,0:15:05.84,0:15:06.80,Default,,0000,0000,0000,,Big Brother…
+Dialogue: 0,0:15:07.72,0:15:10.84,Default,,0000,0000,0000,,Such a threat means nothing to me.
+Dialogue: 0,0:15:13.97,0:15:17.80,Default,,0000,0000,0000,,Hey, Ibiki, is the Village Hidden\Nin the Leaves that important?
+Dialogue: 0,0:15:19.84,0:15:21.85,Default,,0000,0000,0000,,Even if you protect it at\Nthe risk of your own life,
+Dialogue: 0,0:15:22.05,0:15:24.39,Default,,0000,0000,0000,,you’re nothing but a pawn!
+Dialogue: 0,0:15:25.93,0:15:28.01,Default,,0000,0000,0000,,So that’s why\Nyou became a traitor?
+Dialogue: 0,0:15:29.64,0:15:30.89,Default,,0000,0000,0000,,You’re a pathetic man!
+Dialogue: 0,0:15:31.84,0:15:33.51,Default,,0000,0000,0000,,You punk!
+Dialogue: 0,0:15:46.64,0:15:47.22,Default,,0000,0000,0000,,Idate!
+Dialogue: 0,0:15:48.60,0:15:49.64,Default,,0000,0000,0000,,You, run away!
+Dialogue: 0,0:15:51.51,0:15:52.26,Default,,0000,0000,0000,,What about you, Big Brother?
+Dialogue: 0,0:15:52.68,0:15:54.84,Default,,0000,0000,0000,,I’ll go, after I clean up\Nthe mess here!
+Dialogue: 0,0:15:55.10,0:15:56.64,Default,,0000,0000,0000,,I don’t think so!
+Dialogue: 0,0:16:05.89,0:16:06.84,Default,,0000,0000,0000,,Big Brother!
+Dialogue: 0,0:16:07.76,0:16:08.51,Default,,0000,0000,0000,,Go, quickly!
+Dialogue: 0,0:16:09.39,0:16:10.72,Default,,0000,0000,0000,,But Big Brother…!
+Dialogue: 0,0:16:10.84,0:16:13.80,Default,,0000,0000,0000,,Go! Having you stay is a burden!
+Dialogue: 0,0:16:17.68,0:16:18.76,Default,,0000,0000,0000,,I won’t let you!
+Dialogue: 0,0:16:19.47,0:16:20.22,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:16:51.84,0:16:53.14,Default,,0000,0000,0000,,So appalling…
+Dialogue: 0,0:16:53.84,0:16:57.05,Default,,0000,0000,0000,,that he’d risk\Nhis life for such an idiotic guy.
+Dialogue: 0,0:16:57.80,0:17:00.47,Default,,0000,0000,0000,,All you could do after that\Nwas run.
+Dialogue: 0,0:17:01.10,0:17:04.18,Default,,0000,0000,0000,,You could’ve returned\Nto the village and called for help.
+Dialogue: 0,0:17:04.84,0:17:06.43,Default,,0000,0000,0000,,But you didn’t do that.
+Dialogue: 0,0:17:07.55,0:17:11.97,Default,,0000,0000,0000,,Thinking Ibiki was dead\Nwas no excuse!
+Dialogue: 0,0:17:12.76,0:17:14.60,Default,,0000,0000,0000,,The fact is, he was alive…
+Dialogue: 0,0:17:15.72,0:17:17.93,Default,,0000,0000,0000,,In that regard,\Nlbiki was admirable.
+Dialogue: 0,0:17:18.68,0:17:21.64,Default,,0000,0000,0000,,Not only did he completely endure\Nrepeated interrogation,
+Dialogue: 0,0:17:21.84,0:17:24.01,Default,,0000,0000,0000,,but he also retrieved\Nthe Forbidden Jutsu scroll...
+Dialogue: 0,0:17:24.60,0:17:27.51,Default,,0000,0000,0000,,without having confessed to anything!
+Dialogue: 0,0:17:31.84,0:17:33.51,Default,,0000,0000,0000,,And to think that he did\Nall this
+Dialogue: 0,0:17:33.55,0:17:36.89,Default,,0000,0000,0000,,for his good-for-nothing little brother.
+Dialogue: 0,0:17:38.26,0:17:41.55,Default,,0000,0000,0000,,You betrayed your village,\Nabandoned your older brother,
+Dialogue: 0,0:17:41.60,0:17:44.01,Default,,0000,0000,0000,,and came to think of only yourself.
+Dialogue: 0,0:17:45.80,0:17:50.55,Default,,0000,0000,0000,,Even Ibiki who is blood-related\Nand risked his life to save you,
+Dialogue: 0,0:17:50.68,0:17:52.80,Default,,0000,0000,0000,,you didn’t trust him!
+Dialogue: 0,0:17:53.84,0:17:55.93,Default,,0000,0000,0000,,Afraid of being accused,
+Dialogue: 0,0:17:56.18,0:18:00.10,Default,,0000,0000,0000,,you didn’t trust the Village Hidden\Nin the Leaves, your birthplace…
+Dialogue: 0,0:18:00.93,0:18:02.39,Default,,0000,0000,0000,,You trust nobody.
+Dialogue: 0,0:18:03.35,0:18:05.51,Default,,0000,0000,0000,,You’re not trusted by anyone.
+Dialogue: 0,0:18:06.68,0:18:10.22,Default,,0000,0000,0000,,For me, there is no pupil\Nas excellent as you.
+Dialogue: 0,0:18:11.35,0:18:13.85,Default,,0000,0000,0000,,As a reward,\NI’ll let you die in one instant.
+Dialogue: 0,0:18:20.84,0:18:21.60,Default,,0000,0000,0000,,Idate!
+Dialogue: 0,0:18:22.05,0:18:23.84,Default,,0000,0000,0000,,Sasuke…Sakura!
+Dialogue: 0,0:18:24.43,0:18:26.01,Default,,0000,0000,0000,,Rest, Naruto!
+Dialogue: 0,0:18:26.84,0:18:28.84,Default,,0000,0000,0000,,I’ll beat this guy!
+Dialogue: 0,0:18:30.84,0:18:32.76,Default,,0000,0000,0000,,Don’t be acting cool, believe it.
+Dialogue: 0,0:18:33.18,0:18:36.72,Default,,0000,0000,0000,,You can’t beat me, no matter\Nhow many people show up.
+Dialogue: 0,0:18:37.64,0:18:39.26,Default,,0000,0000,0000,,Me, Aoi Rokusho,
+Dialogue: 0,0:18:39.30,0:18:43.35,Default,,0000,0000,0000,,the Rain Jonin who possesses\Nthe Blade of the Thunder God.
+Dialogue: 0,0:18:44.05,0:18:44.89,Default,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:18:47.22,0:18:48.84,Default,,0000,0000,0000,,Interesting.
+Dialogue: 0,0:18:49.18,0:18:51.84,Default,,0000,0000,0000,,The Blade of the Thunder God\Nand my Chidori!
+Dialogue: 0,0:18:52.97,0:18:55.72,Default,,0000,0000,0000,,Let’s test which is better!
+Dialogue: 0,0:19:10.01,0:19:11.97,Default,,0000,0000,0000,,The rumors were true.
+Dialogue: 0,0:19:12.55,0:19:15.84,Default,,0000,0000,0000,,The survivor of the village’s honorable\NUchiha Clan…
+Dialogue: 0,0:19:15.84,0:19:18.14,Default,,0000,0000,0000,,is just a good-for-nothing kid…
+Dialogue: 0,0:19:24.47,0:19:25.26,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:19:25.68,0:19:26.84,Default,,0000,0000,0000,,Run, Sakura!
+Dialogue: 0,0:19:26.89,0:19:28.85,Default,,0000,0000,0000,,He’ll show no mercy,\Nno matter who the person is.
+Dialogue: 0,0:19:28.89,0:19:30.72,Default,,0000,0000,0000,,Everyone will be killed!
+Dialogue: 0,0:19:31.35,0:19:32.18,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:19:32.80,0:19:33.39,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:33.68,0:19:35.39,Default,,0000,0000,0000,,We’ll protect you,\Nno matter what.
+Dialogue: 0,0:19:35.80,0:19:37.05,Default,,0000,0000,0000,,We promised that, didn’t we?!
+Dialogue: 0,0:19:37.84,0:19:39.05,Default,,0000,0000,0000,,Trust us!
+Dialogue: 0,0:19:39.93,0:19:42.39,Default,,0000,0000,0000,,Now all that’s left is\Nthe wounded rabbit
+Dialogue: 0,0:19:42.43,0:19:44.72,Default,,0000,0000,0000,,and the excellent pupil, huh?
+Dialogue: 0,0:19:45.84,0:19:48.84,Default,,0000,0000,0000,,You two together,\Ngo to the next world.
+Dialogue: 0,0:19:51.01,0:19:52.05,Default,,0000,0000,0000,,Take it back!
+Dialogue: 0,0:19:54.84,0:19:55.84,Default,,0000,0000,0000,,Take it back!
+Dialogue: 0,0:19:57.18,0:19:58.47,Default,,0000,0000,0000,,What’re you talking about?
+Dialogue: 0,0:19:59.10,0:20:00.18,Default,,0000,0000,0000,,What you said…
+Dialogue: 0,0:20:01.18,0:20:02.64,Default,,0000,0000,0000,,earlier!
+Dialogue: 0,0:20:04.55,0:20:06.26,Default,,0000,0000,0000,,Don't mess…
+Dialogue: 0,0:20:07.26,0:20:08.80,Default,,0000,0000,0000,,with the Uchiha…\N276	02:10:08:14	02:10:10:02\Nwith me!
+Dialogue: 0,0:20:18.18,0:20:20.55,Default,,0000,0000,0000,,Why you--!
+Dialogue: 0,0:20:45.84,0:20:46.76,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:20:51.01,0:20:52.35,Default,,0000,0000,0000,,Sasuke! Get up!
+Dialogue: 0,0:20:53.35,0:20:56.84,Default,,0000,0000,0000,,How very cold the bottom\Nof the ocean must be.
+Dialogue: 0,0:20:56.84,0:20:58.35,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:21:00.10,0:21:00.84,Default,,0000,0000,0000,,Idate!
+Dialogue: 0,0:21:07.68,0:21:08.51,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:21:14.55,0:21:16.18,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:21:24.76,0:21:31.84,Default,,0000,0000,0000,,Once in a long while, once in a while
+Dialogue: 0,0:21:31.85,0:21:37.55,Default,,0000,0000,0000,,The remnants of a person\Nbroken by dreams
+Dialogue: 0,0:21:37.72,0:21:42.84,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:21:45.93,0:21:52.97,Default,,0000,0000,0000,,Clinging to the Divine,\Nclinging to Buddha
+Dialogue: 0,0:21:53.01,0:21:58.72,Default,,0000,0000,0000,,The remnants of a person crying
+Dialogue: 0,0:21:58.93,0:22:02.76,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:04.30,0:22:07.43,Default,,0000,0000,0000,,Rendezvous with a happy dance circle
+Dialogue: 0,0:22:07.47,0:22:11.26,Default,,0000,0000,0000,,This is my victory pose, round and around\N (round around)
+Dialogue: 0,0:22:11.64,0:22:14.60,Default,,0000,0000,0000,,Shake shake shake\NLet’s look
+Dialogue: 0,0:22:14.64,0:22:18.84,Default,,0000,0000,0000,,With a bye-bye rhythm that never ends
+Dialogue: 0,0:22:27.84,0:22:32.93,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:34.84,0:22:38.18,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:38.64,0:22:41.84,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:42.01,0:22:45.97,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:49.97,0:22:51.84,Default,,0000,0000,0000,,What the heck should we do?
+Dialogue: 0,0:22:52.14,0:22:54.14,Default,,0000,0000,0000,,That sword of the Second Hokage\Nwon't budge an inch
+Dialogue: 0,0:22:54.18,0:22:58.05,Default,,0000,0000,0000,,even with Sasuke's Chidori\Nor my Rasengan!
+Dialogue: 0,0:22:58.64,0:23:01.72,Default,,0000,0000,0000,,But I can't lose this battle.
+Dialogue: 0,0:23:01.97,0:23:03.68,Default,,0000,0000,0000,,I won't run away, no matter what!
+Dialogue: 0,0:23:04.05,0:23:09.14,Default,,0000,0000,0000,,If my techniques aren't going to work,\NI'll just have to keep trying!
+Dialogue: 0,0:23:10.30,0:23:14.35,Default,,0000,0000,0000,,Next time: "The Last Leg:\NA Final Act of Desperation"

@@ -1,0 +1,268 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.65,0:00:20.98,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.89,0:00:29.89,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.89,0:00:35.19,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.23,0:00:39.35,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.60,0:00:45.52,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.15,0:00:53.06,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.52,0:00:57.94,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:57.98,0:01:05.06,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.10,0:01:12.23,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.27,0:01:18.90,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.44,0:01:28.89,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:57.89,0:01:58.69,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:02:12.06,0:02:15.89,Default,,0000,0000,0000,,It will be necessary for you\Nto die once…
+Dialogue: 0,0:02:18.19,0:02:19.94,Default,,0000,0000,0000,,Die once, you said?
+Dialogue: 0,0:02:30.40,0:02:31.73,Default,,0000,0000,0000,,Mind Awakening Pill.
+Dialogue: 0,0:02:32.90,0:02:34.81,Default,,0000,0000,0000,,You will take these.
+Dialogue: 0,0:02:35.27,0:02:38.69,Default,,0000,0000,0000,,Mind Awakening Pill…?\NWhat is that?
+Dialogue: 0,0:02:39.73,0:02:42.81,Default,,0000,0000,0000,,Your Curse Mark level is\Nat the first state…
+Dialogue: 0,0:02:43.31,0:02:44.89,Default,,0000,0000,0000,,These pills will forcibly stimulate
+Dialogue: 0,0:02:44.89,0:02:47.89,Default,,0000,0000,0000,,the power of the Curse Marks\Nto the second state.
+Dialogue: 0,0:02:50.31,0:02:52.89,Default,,0000,0000,0000,,However, if you move up\Nto the second state,
+Dialogue: 0,0:02:52.89,0:02:56.06,Default,,0000,0000,0000,,the Curse Mark’s erosion\Nwill accelerate drastically
+Dialogue: 0,0:02:56.77,0:02:59.19,Default,,0000,0000,0000,,and if things are left that way\Nyou will die immediately!
+Dialogue: 0,0:03:00.89,0:03:01.81,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:03:02.60,0:03:05.85,Default,,0000,0000,0000,,In order to control\Nthe power of the second state,
+Dialogue: 0,0:03:05.94,0:03:07.98,Default,,0000,0000,0000,,it is necessary to allow one’s body\Nto get accustomed to it
+Dialogue: 0,0:03:08.02,0:03:09.89,Default,,0000,0000,0000,,over the course of several hours.
+Dialogue: 0,0:03:13.23,0:03:15.89,Default,,0000,0000,0000,,In doing so, you will…
+Dialogue: 0,0:03:16.15,0:03:20.89,Default,,0000,0000,0000,,attain power that is\Nequal to ours, however…
+Dialogue: 0,0:03:22.89,0:03:25.56,Default,,0000,0000,0000,,Once awake, you can’t possibly\Nlast more than a few minutes…
+Dialogue: 0,0:03:25.90,0:03:27.69,Default,,0000,0000,0000,,and will certainly die!
+Dialogue: 0,0:03:28.69,0:03:34.48,Default,,0000,0000,0000,,Sound vs. Leaf
+Dialogue: 0,0:03:50.44,0:03:53.48,Default,,0000,0000,0000,,Die…and what will happen after that?
+Dialogue: 0,0:03:54.10,0:03:55.94,Default,,0000,0000,0000,,You don’t need to worry.
+Dialogue: 0,0:03:57.35,0:03:59.69,Default,,0000,0000,0000,,That’s why we’re here.
+Dialogue: 0,0:04:06.06,0:04:10.02,Default,,0000,0000,0000,,We will use Barrier Ninjutsu\Nto suppress the side effects.
+Dialogue: 0,0:04:10.90,0:04:12.44,Default,,0000,0000,0000,,We will mitigate that phase
+Dialogue: 0,0:04:12.48,0:04:15.52,Default,,0000,0000,0000,,to ease you from eternal death\Nto a state of half death.
+Dialogue: 0,0:04:19.31,0:04:23.90,Default,,0000,0000,0000,,You really think I can put my faith\Nin your Barrier Ninjutsu or whatever?
+Dialogue: 0,0:04:24.81,0:04:26.31,Default,,0000,0000,0000,,Master Sasuke…
+Dialogue: 0,0:04:27.19,0:04:31.27,Default,,0000,0000,0000,,We normally function\Nas Lord Orochimaru’s bodyguards!
+Dialogue: 0,0:04:31.85,0:04:34.35,Default,,0000,0000,0000,,We know our stuff when it comes\Nto Barrier or Defense Ninjutsu,
+Dialogue: 0,0:04:34.40,0:04:36.89,Default,,0000,0000,0000,,Curse Marks and Sealing Jutsu!
+Dialogue: 0,0:04:50.73,0:04:55.44,Default,,0000,0000,0000,,I absolutely cannot die yet!
+Dialogue: 0,0:04:59.52,0:05:00.52,Default,,0000,0000,0000,,I’m counting on you.
+Dialogue: 0,0:05:26.06,0:05:26.85,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:27.23,0:05:30.31,Default,,0000,0000,0000,,We’re gonna lose him\Nif you guys are slow!
+Dialogue: 0,0:05:44.19,0:05:45.15,Default,,0000,0000,0000,,Get into position!
+Dialogue: 0,0:05:46.89,0:05:47.89,Default,,0000,0000,0000,,Begin!
+Dialogue: 0,0:06:10.89,0:06:11.98,Default,,0000,0000,0000,,– Four Black Mists Formation!\N– Four Black Mists Formation!
+Dialogue: 0,0:06:30.65,0:06:31.90,Default,,0000,0000,0000,,Black Seal!
+Dialogue: 0,0:06:36.89,0:06:39.15,Default,,0000,0000,0000,,All right. We're done for now.
+Dialogue: 0,0:06:48.89,0:06:50.85,Default,,0000,0000,0000,,Man, I’m exhausted.
+Dialogue: 0,0:06:50.98,0:06:53.89,Default,,0000,0000,0000,,I didn’t think this mission\Nwould drag on this long.
+Dialogue: 0,0:07:01.40,0:07:04.94,Default,,0000,0000,0000,,I’ll go check out the situation.\NLet’s go, Raido!
+Dialogue: 0,0:07:05.69,0:07:06.40,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:07:14.90,0:07:17.65,Default,,0000,0000,0000,,Darn. This has sure gotten troublesome.
+Dialogue: 0,0:07:18.23,0:07:19.40,Default,,0000,0000,0000,,There’s one…
+Dialogue: 0,0:07:19.90,0:07:21.02,Default,,0000,0000,0000,,No, two of them.
+Dialogue: 0,0:07:23.06,0:07:23.94,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:07:35.73,0:07:37.77,Default,,0000,0000,0000,,You guys are Orochimaru’s…
+Dialogue: 0,0:07:38.81,0:07:40.19,Default,,0000,0000,0000,,Judging from the direction\Nyou came from,
+Dialogue: 0,0:07:40.23,0:07:43.77,Default,,0000,0000,0000,,it appears that you are on your way back\Nfrom the Village Hidden in the Leaves…
+Dialogue: 0,0:07:50.90,0:07:52.89,Default,,0000,0000,0000,,What’s in that barrel?
+Dialogue: 0,0:07:53.89,0:07:55.89,Default,,0000,0000,0000,,Having two Jonin as opponents…
+Dialogue: 0,0:07:56.89,0:07:58.73,Default,,0000,0000,0000,,That’s a tough one.
+Dialogue: 0,0:08:40.23,0:08:42.52,Default,,0000,0000,0000,,Every one of them\Ngot the Curse Marks…
+Dialogue: 0,0:08:43.06,0:08:45.02,Default,,0000,0000,0000,,You refuse to answer?
+Dialogue: 0,0:08:45.81,0:08:48.77,Default,,0000,0000,0000,,This will be different from that time before\Nwith your surprise attack.
+Dialogue: 0,0:08:49.02,0:08:50.69,Default,,0000,0000,0000,,Shut up, you scum!
+Dialogue: 0,0:08:50.89,0:08:52.02,Default,,0000,0000,0000,,Just drop dead!
+Dialogue: 0,0:08:54.10,0:08:55.89,Default,,0000,0000,0000,,Orochimaru’s toys…
+Dialogue: 0,0:08:56.98,0:08:59.31,Default,,0000,0000,0000,,Don’t you dare monkey around\Nwith Leaf Shinobi!
+Dialogue: 0,0:09:18.89,0:09:20.94,Default,,0000,0000,0000,,Those two are really late, aren’t they?
+Dialogue: 0,0:09:22.48,0:09:24.48,Default,,0000,0000,0000,,What should we do, Shizune?
+Dialogue: 0,0:09:25.98,0:09:26.90,Default,,0000,0000,0000,,Let’s go see!
+Dialogue: 0,0:09:26.94,0:09:27.73,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:09:36.35,0:09:37.15,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:09:38.44,0:09:39.27,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:09:40.06,0:09:43.48,Default,,0000,0000,0000,,There’s a smell of blood nearby.
+Dialogue: 0,0:09:57.19,0:09:58.89,Default,,0000,0000,0000,,Wh-What’s this?!
+Dialogue: 0,0:10:13.81,0:10:14.90,Default,,0000,0000,0000,,Raido! Genma!
+Dialogue: 0,0:10:25.98,0:10:26.89,Default,,0000,0000,0000,,This isn’t good!
+Dialogue: 0,0:10:35.19,0:10:38.52,Default,,0000,0000,0000,,I can’t believe these two\Ncould have been taken down…!
+Dialogue: 0,0:10:54.60,0:10:57.81,Default,,0000,0000,0000,,The best I can do right now is\Ngive him some stop-gap treatment…
+Dialogue: 0,0:10:58.23,0:10:59.23,Default,,0000,0000,0000,,Shizune…
+Dialogue: 0,0:11:00.89,0:11:03.19,Default,,0000,0000,0000,,I’m gonna hunt those guys down!
+Dialogue: 0,0:11:03.85,0:11:04.56,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:04.89,0:11:06.27,Default,,0000,0000,0000,,B-But…
+Dialogue: 0,0:11:06.56,0:11:09.89,Default,,0000,0000,0000,,W-Wait…lwashi.
+Dialogue: 0,0:11:12.23,0:11:16.85,Default,,0000,0000,0000,,Th-The Jutsu that those guys have\Nis no longer that of mere Shinobi…
+Dialogue: 0,0:11:18.89,0:11:22.89,Default,,0000,0000,0000,,If you pursue them alone,\Nyou'll only die.
+Dialogue: 0,0:11:24.23,0:11:26.89,Default,,0000,0000,0000,,Genma…don’t talk anymore!
+Dialogue: 0,0:11:37.35,0:11:41.89,Default,,0000,0000,0000,,The smell of the other two impinged\Non the five others including Sasuke…
+Dialogue: 0,0:11:42.89,0:11:45.69,Default,,0000,0000,0000,,But the five are moving away\Nfrom the smell of the blood!
+Dialogue: 0,0:11:45.89,0:11:46.73,Default,,0000,0000,0000,,What should we do?!
+Dialogue: 0,0:11:47.40,0:11:50.98,Default,,0000,0000,0000,,Just as I thought.\NHe has guides.
+Dialogue: 0,0:11:51.89,0:11:54.06,Default,,0000,0000,0000,,This has really turned into\Na real pain in the neck.
+Dialogue: 0,0:11:54.48,0:11:57.23,Default,,0000,0000,0000,,Let’s hurry up and pursue Sasuke!
+Dialogue: 0,0:11:57.48,0:11:59.02,Default,,0000,0000,0000,,Shut up, Naruto!
+Dialogue: 0,0:11:59.81,0:12:03.89,Default,,0000,0000,0000,,That’s for Shikamaru to decide!\NDon’t play the boss!
+Dialogue: 0,0:12:04.98,0:12:05.94,Default,,0000,0000,0000,,Shikamaru?
+Dialogue: 0,0:12:07.23,0:12:10.15,Default,,0000,0000,0000,,The fact that there was\Nthe smell of blood probably means
+Dialogue: 0,0:12:10.56,0:12:12.44,Default,,0000,0000,0000,,that a battle occurred somewhere.
+Dialogue: 0,0:12:12.98,0:12:16.81,Default,,0000,0000,0000,,If we go to that location we should\Nbe able to gather some information…
+Dialogue: 0,0:12:19.89,0:12:21.77,Default,,0000,0000,0000,,We must be attentive\Nas we near the location,
+Dialogue: 0,0:12:21.81,0:12:23.52,Default,,0000,0000,0000,,so we would have to switch over to
+Dialogue: 0,0:12:23.56,0:12:25.90,Default,,0000,0000,0000,,a reconnaissance pattern\Nand approach walking slowly…
+Dialogue: 0,0:12:26.44,0:12:28.89,Default,,0000,0000,0000,,While all that’s going on
+Dialogue: 0,0:12:28.89,0:12:30.90,Default,,0000,0000,0000,,Sasuke will cross over\Nthe Land of Fire border!
+Dialogue: 0,0:12:31.89,0:12:33.89,Default,,0000,0000,0000,,What are we gonna do, Shikamaru?!
+Dialogue: 0,0:12:40.52,0:12:42.19,Default,,0000,0000,0000,,All right! Let’s pursue Sasuke!
+Dialogue: 0,0:12:42.56,0:12:45.10,Default,,0000,0000,0000,,All right! That’s what I was waiting for!
+Dialogue: 0,0:12:45.89,0:12:46.85,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:12:49.48,0:12:53.89,Default,,0000,0000,0000,,The fact that there was a battle\Nmeans they’ll have their guard up.
+Dialogue: 0,0:12:54.60,0:12:55.48,Default,,0000,0000,0000,,They’ll certainly be aware
+Dialogue: 0,0:12:55.52,0:12:57.73,Default,,0000,0000,0000,,of the fact that there might\Nbe Ninja on their tail.
+Dialogue: 0,0:12:59.81,0:13:00.89,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:13:00.89,0:13:03.69,Default,,0000,0000,0000,,the odds are high that\Nthere will be traps or an ambush.
+Dialogue: 0,0:13:05.94,0:13:07.23,Default,,0000,0000,0000,,Listen carefully…
+Dialogue: 0,0:13:07.27,0:13:09.89,Default,,0000,0000,0000,,Hereafter, I want you to use your visual\Nand acoustic senses to the fullest!
+Dialogue: 0,0:13:10.10,0:13:13.85,Default,,0000,0000,0000,,We need to locate those guys before\Nwe get caught in an ambush!
+Dialogue: 0,0:13:14.77,0:13:17.69,Default,,0000,0000,0000,,And if we come across\Nanything suspicious,
+Dialogue: 0,0:13:17.73,0:13:20.77,Default,,0000,0000,0000,,don't just dodge them,\Ninterpret them!
+Dialogue: 0,0:13:21.52,0:13:22.77,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:13:22.89,0:13:23.94,Default,,0000,0000,0000,,When we find them,
+Dialogue: 0,0:13:23.98,0:13:26.89,Default,,0000,0000,0000,,I’m gonna use my new Jutsu\Nto clobber them!
+Dialogue: 0,0:13:27.35,0:13:28.85,Default,,0000,0000,0000,,That Naruto…
+Dialogue: 0,0:13:28.89,0:13:31.90,Default,,0000,0000,0000,,Each time I see him\Nhe’s added a new Jutsu to his arsenal.
+Dialogue: 0,0:13:32.52,0:13:35.73,Default,,0000,0000,0000,,Darn! Just when I thought\NI had caught up with him…
+Dialogue: 0,0:13:39.90,0:13:42.06,Default,,0000,0000,0000,,Hey! The enemy’s smell is everywhere!
+Dialogue: 0,0:13:42.56,0:13:43.73,Default,,0000,0000,0000,,Everybody! Stop!
+Dialogue: 0,0:13:46.89,0:13:48.48,Default,,0000,0000,0000,,Take a careful look above you.
+Dialogue: 0,0:13:52.56,0:13:53.65,Default,,0000,0000,0000,,Paper Bombs…
+Dialogue: 0,0:13:54.69,0:13:55.98,Default,,0000,0000,0000,,And in five other places too!
+Dialogue: 0,0:13:57.23,0:13:59.52,Default,,0000,0000,0000,,The figuration is that of\Na Perimeter Barrier.
+Dialogue: 0,0:14:00.35,0:14:01.89,Default,,0000,0000,0000,,Perimeter Barrier…?
+Dialogue: 0,0:14:02.69,0:14:04.65,Default,,0000,0000,0000,,It’s one type of Booby Trap Ninjutsu!
+Dialogue: 0,0:14:05.81,0:14:09.10,Default,,0000,0000,0000,,Perimeter-type traps have a time lag\Nand are activated
+Dialogue: 0,0:14:09.15,0:14:13.52,Default,,0000,0000,0000,,when one enters the area that\Nhas been marked by the enemy.
+Dialogue: 0,0:14:14.81,0:14:16.69,Default,,0000,0000,0000,,It’s advanced Jutsu…
+Dialogue: 0,0:14:16.73,0:14:19.02,Default,,0000,0000,0000,,It was in one of the books that\Nmy father made me read.
+Dialogue: 0,0:14:22.10,0:14:24.98,Default,,0000,0000,0000,,Darn! Our only choice\Nis to make a detour…
+Dialogue: 0,0:14:50.69,0:14:54.52,Default,,0000,0000,0000,,Lee… Do what you have to do!
+Dialogue: 0,0:15:08.90,0:15:09.73,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:15:09.77,0:15:11.19,Default,,0000,0000,0000,,It’s too soon to be doing that!
+Dialogue: 0,0:15:12.31,0:15:13.40,Default,,0000,0000,0000,,Lady Fifth Hokage!
+Dialogue: 0,0:15:13.89,0:15:16.48,Default,,0000,0000,0000,,I already know that\Nyou’re a foolhardy guy.
+Dialogue: 0,0:15:17.60,0:15:19.94,Default,,0000,0000,0000,,But you’ve just had an operation.
+Dialogue: 0,0:15:21.02,0:15:22.89,Default,,0000,0000,0000,,You don’t need to be rushing\Ninto things.
+Dialogue: 0,0:15:31.94,0:15:35.19,Default,,0000,0000,0000,,I want to hurry up and\Ndo even a little training.
+Dialogue: 0,0:15:35.89,0:15:38.02,Default,,0000,0000,0000,,I also want to… I want to…
+Dialogue: 0,0:15:39.06,0:15:42.15,Default,,0000,0000,0000,,Building your strength isn’t\Nthe only form of training.
+Dialogue: 0,0:15:43.06,0:15:44.23,Default,,0000,0000,0000,,Don’t you agree?
+Dialogue: 0,0:15:46.69,0:15:48.35,Default,,0000,0000,0000,,It is said that Ninja are those
+Dialogue: 0,0:15:48.40,0:15:51.31,Default,,0000,0000,0000,,who can forebear and\Nendure any hardship.
+Dialogue: 0,0:15:52.69,0:15:53.89,Default,,0000,0000,0000,,I understand how you feel but…
+Dialogue: 0,0:15:54.73,0:15:56.89,Default,,0000,0000,0000,,That means that this too\Nis one kind of training.
+Dialogue: 0,0:15:59.52,0:16:00.65,Default,,0000,0000,0000,,Training…
+Dialogue: 0,0:16:01.73,0:16:04.89,Default,,0000,0000,0000,,What if you were to do something foolhardy\Nand you got worse?
+Dialogue: 0,0:16:08.44,0:16:10.35,Default,,0000,0000,0000,,Wh-What’s that?
+Dialogue: 0,0:16:11.89,0:16:14.10,Default,,0000,0000,0000,,It’s medicine that I prepared.
+Dialogue: 0,0:16:14.60,0:16:16.85,Default,,0000,0000,0000,,First, drink this and get better!
+Dialogue: 0,0:16:20.89,0:16:21.81,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:16:22.10,0:16:23.44,Default,,0000,0000,0000,,Come, let’s go…
+Dialogue: 0,0:16:23.65,0:16:24.44,Default,,0000,0000,0000,,Yes, ma’am.
+Dialogue: 0,0:16:29.89,0:16:32.89,Default,,0000,0000,0000,,Damn! Nothing but traps!
+Dialogue: 0,0:16:32.89,0:16:35.89,Default,,0000,0000,0000,,Yeah, but the enemy seems\Npressed for time.
+Dialogue: 0,0:16:36.89,0:16:38.56,Default,,0000,0000,0000,,The traps have noticeable flaws.
+Dialogue: 0,0:16:43.27,0:16:46.89,Default,,0000,0000,0000,,Hey, hey, Naruto!\NThere’s wire at your feet!
+Dialogue: 0,0:16:47.10,0:16:48.52,Default,,0000,0000,0000,,Don’t trip on it!
+Dialogue: 0,0:16:48.98,0:16:50.56,Default,,0000,0000,0000,,I know that already!
+Dialogue: 0,0:16:51.89,0:16:53.02,Default,,0000,0000,0000,,Wait, Naruto!
+Dialogue: 0,0:17:06.73,0:17:08.27,Default,,0000,0000,0000,,Shadow Possession Jutsu…
+Dialogue: 0,0:17:09.06,0:17:12.10,Default,,0000,0000,0000,,M-Made it just in the nick of time.
+Dialogue: 0,0:17:12.89,0:17:15.89,Default,,0000,0000,0000,,Naruto! I told you to be careful!
+Dialogue: 0,0:17:18.85,0:17:24.48,Default,,0000,0000,0000,,I see… One of the wires is\Nreadily visible because it reflects light.
+Dialogue: 0,0:17:25.06,0:17:28.85,Default,,0000,0000,0000,,The other wire has been coated\Nwith a matte green.
+Dialogue: 0,0:17:29.89,0:17:31.90,Default,,0000,0000,0000,,So it’s very difficult to see\Nwith the naked eye.
+Dialogue: 0,0:17:33.10,0:17:34.31,Default,,0000,0000,0000,,It’s a double trap, huh.
+Dialogue: 0,0:17:35.81,0:17:37.44,Default,,0000,0000,0000,,Despite the fact that\Nthey’re in a hurry,
+Dialogue: 0,0:17:37.48,0:17:39.56,Default,,0000,0000,0000,,that’s certainly an elaborate trap.
+Dialogue: 0,0:17:40.15,0:17:41.23,Default,,0000,0000,0000,,Which means that…
+Dialogue: 0,0:17:42.35,0:17:43.52,Default,,0000,0000,0000,,That they’re at rest.
+Dialogue: 0,0:17:44.44,0:17:47.94,Default,,0000,0000,0000,,Perhaps they got injured,\Nor that itself could be a trap…
+Dialogue: 0,0:17:50.06,0:17:50.89,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:18:00.40,0:18:01.23,Default,,0000,0000,0000,,Caught ‘em!
+Dialogue: 0,0:18:01.89,0:18:05.02,Default,,0000,0000,0000,,All right! All right!\NI’ll drag Sasuke back without fail!
+Dialogue: 0,0:18:05.31,0:18:07.81,Default,,0000,0000,0000,,Naruto! Hate to tell you this,
+Dialogue: 0,0:18:07.85,0:18:10.60,Default,,0000,0000,0000,,but I’m gonna demonstrate\Nmy new Jutsu right here!
+Dialogue: 0,0:18:11.73,0:18:12.69,Default,,0000,0000,0000,,Me too!
+Dialogue: 0,0:18:13.77,0:18:14.89,Default,,0000,0000,0000,,Don’t be so hasty.
+Dialogue: 0,0:18:15.69,0:18:17.89,Default,,0000,0000,0000,,As soon as preparations have been made\Nto implement my strategy…
+Dialogue: 0,0:18:18.89,0:18:20.85,Default,,0000,0000,0000,,we’ll make direct contact\Nwith the target!
+Dialogue: 0,0:18:38.15,0:18:43.56,Default,,0000,0000,0000,,Darn! When we’re in a hurry,\Nhaving to take a darn break…
+Dialogue: 0,0:18:44.90,0:18:46.15,Default,,0000,0000,0000,,It can’t be helped.
+Dialogue: 0,0:18:46.98,0:18:50.27,Default,,0000,0000,0000,,When one fights at the second state,\None’s body gets drained drastically.
+Dialogue: 0,0:18:51.02,0:18:52.02,Default,,0000,0000,0000,,More than that,
+Dialogue: 0,0:18:52.06,0:18:54.98,Default,,0000,0000,0000,,it’s an ordeal not to be able\Nto use one’s body for a while…
+Dialogue: 0,0:18:55.69,0:18:58.89,Default,,0000,0000,0000,,It can’t be helped with\Ntwo Jonin-class guys as the opponents.
+Dialogue: 0,0:18:59.65,0:19:01.98,Default,,0000,0000,0000,,If we act in moderation,\Nwe’ll be done in.
+Dialogue: 0,0:19:08.69,0:19:09.27,Default,,0000,0000,0000,,Kiba…
+Dialogue: 0,0:19:09.89,0:19:10.89,Default,,0000,0000,0000,,In that event,
+Dialogue: 0,0:19:10.89,0:19:13.69,Default,,0000,0000,0000,,don’t mess up the timing\Nof the Smoke Bombs.
+Dialogue: 0,0:19:13.89,0:19:14.77,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:19:15.89,0:19:16.69,Default,,0000,0000,0000,,Now then…
+Dialogue: 0,0:19:16.90,0:19:18.31,Default,,0000,0000,0000,,we'll split up into two teams.
+Dialogue: 0,0:19:18.89,0:19:19.56,Default,,0000,0000,0000,,– Right! 					– Okay!
+Dialogue: 0,0:20:19.81,0:20:22.31,Default,,0000,0000,0000,,It looks like they haven’t noticed us yet.
+Dialogue: 0,0:20:24.73,0:20:26.81,Default,,0000,0000,0000,,Hey, Sasuke's not around.
+Dialogue: 0,0:20:29.77,0:20:30.89,Default,,0000,0000,0000,,It appears that…
+Dialogue: 0,0:20:31.23,0:20:32.89,Default,,0000,0000,0000,,He’s inside that “coffin.”
+Dialogue: 0,0:20:33.73,0:20:34.89,Default,,0000,0000,0000,,Is he dead?!
+Dialogue: 0,0:20:35.90,0:20:39.60,Default,,0000,0000,0000,,That barrel is secured with Barriers.\NI can't see through it.
+Dialogue: 0,0:20:40.65,0:20:43.19,Default,,0000,0000,0000,,I wouldn’t think that the guys\Nwho wanted Sasuke
+Dialogue: 0,0:20:43.27,0:20:46.15,Default,,0000,0000,0000,,would kill him that easily.
+Dialogue: 0,0:20:49.02,0:20:50.73,Default,,0000,0000,0000,,You might be right about that.
+Dialogue: 0,0:21:25.73,0:21:32.89,Default,,0000,0000,0000,,Once in a long while, once in a while
+Dialogue: 0,0:21:32.89,0:21:38.48,Default,,0000,0000,0000,,The remnants of a person\Nbroken by dreams
+Dialogue: 0,0:21:38.65,0:21:43.77,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:21:46.89,0:21:53.90,Default,,0000,0000,0000,,Clinging to the Divine,\Nclinging to Buddha
+Dialogue: 0,0:21:53.94,0:21:59.65,Default,,0000,0000,0000,,The remnants of a person crying
+Dialogue: 0,0:21:59.89,0:22:03.69,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:05.23,0:22:08.35,Default,,0000,0000,0000,,Rendezvous with a happy dance circle
+Dialogue: 0,0:22:08.40,0:22:12.19,Default,,0000,0000,0000,,This is my victory pose, round and around\N (round around)
+Dialogue: 0,0:22:12.56,0:22:15.52,Default,,0000,0000,0000,,Shake shake shake\NLet’s look
+Dialogue: 0,0:22:15.56,0:22:19.77,Default,,0000,0000,0000,,With a bye-bye rhythm that never ends
+Dialogue: 0,0:22:28.89,0:22:33.89,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:35.89,0:22:39.10,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:39.56,0:22:42.85,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:42.90,0:22:46.94,Default,,0000,0000,0000,,Look like a mountain
+Dialogue: 0,0:22:50.81,0:22:53.27,Default,,0000,0000,0000,,Gimme a break, Shikamaru!\NYou're not reliable in the least!
+Dialogue: 0,0:22:53.31,0:22:54.48,Default,,0000,0000,0000,,And you still call yourself\Na leader?!
+Dialogue: 0,0:22:54.52,0:22:56.35,Default,,0000,0000,0000,,But this situation sure\Nis a problem.
+Dialogue: 0,0:22:56.40,0:22:58.27,Default,,0000,0000,0000,,Leave this kind of thing to me.\Nlt'll be a cinch.
+Dialogue: 0,0:22:58.31,0:23:00.31,Default,,0000,0000,0000,,– I sure hope it will be.\N– What do you mean by that?!
+Dialogue: 0,0:23:00.81,0:23:02.35,Default,,0000,0000,0000,,It's too much of a hassle to explain.
+Dialogue: 0,0:23:02.40,0:23:03.69,Default,,0000,0000,0000,,– Shut up, Akamaru!\N– Shut up, Akamaru!
+Dialogue: 0,0:23:03.73,0:23:05.85,Default,,0000,0000,0000,,What was that?!\NGive 'em some more, Akamaru!
+Dialogue: 0,0:23:07.02,0:23:10.89,Default,,0000,0000,0000,,Well, if things come to this,\NI'll use that special weapon, Rasengan!
+Dialogue: 0,0:23:10.90,0:23:14.89,Default,,0000,0000,0000,,Next time: "Squad Mutiny:\NEverything Falls Apart!"

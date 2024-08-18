@@ -1,0 +1,349 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.89,0:00:10.69,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.03,0:00:19.63,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.63,0:00:22.90,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.57,0:00:27.31,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.37,0:00:30.98,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.58,0:00:35.71,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.45,0:00:39.58,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:40.95,0:00:45.46,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:47.96,0:00:49.73,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:49.79,0:00:51.60,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.60,0:00:54.00,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.60,0:00:57.37,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.44,0:00:59.34,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.37,0:01:01.81,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.64,0:01:10.38,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.45,0:01:13.89,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.59,0:01:17.59,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.43,0:01:23.59,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.13,0:01:27.60,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:45.88,0:01:47.59,Default,,0000,0000,0000,,Hey, you there.
+Dialogue: 0,0:01:48.35,0:01:49.05,Default,,0000,0000,0000,,Identify yourself.
+Dialogue: 0,0:01:49.62,0:01:51.29,Default,,0000,0000,0000,,I'm not obliged to answer…
+Dialogue: 0,0:01:51.86,0:01:52.76,Default,,0000,0000,0000,,What…?!
+Dialogue: 0,0:01:54.43,0:01:55.46,Default,,0000,0000,0000,,Cute…
+Dialogue: 0,0:02:00.53,0:02:03.60,Default,,0000,0000,0000,,So those are Kakashi and\NGuy's treasured brats…
+Dialogue: 0,0:02:04.34,0:02:07.81,Default,,0000,0000,0000,,Well, for the time being,\Ntheir applications will pass.
+Dialogue: 0,0:02:08.24,0:02:09.11,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:02:10.91,0:02:13.58,Default,,0000,0000,0000,,It appears this year's\Ntest-takers will be amusing.
+Dialogue: 0,0:02:14.98,0:02:16.91,Default,,0000,0000,0000,,For us proctors too, eh…
+Dialogue: 0,0:02:17.95,0:02:20.59,Default,,0000,0000,0000,,Now then!\NSasuke, Naruto, let's go!
+Dialogue: 0,0:02:21.52,0:02:22.42,Default,,0000,0000,0000,,Don't pull.
+Dialogue: 0,0:02:29.59,0:02:32.66,Default,,0000,0000,0000,,Sasuke… Sasuke Uchiha, eh.
+Dialogue: 0,0:02:37.14,0:02:39.57,Default,,0000,0000,0000,,Does that kid concern you?
+Dialogue: 0,0:02:40.14,0:02:40.97,Default,,0000,0000,0000,,Hmph…
+Dialogue: 0,0:02:47.48,0:02:48.65,Default,,0000,0000,0000,,Lee, let's go.
+Dialogue: 0,0:02:48.71,0:02:50.28,Default,,0000,0000,0000,,What're you doing?
+Dialogue: 0,0:02:50.58,0:02:55.12,Default,,0000,0000,0000,,You guys go on ahead.\NI have something I want to check out.
+Dialogue: 0,0:02:57.79,0:02:58.92,Default,,0000,0000,0000,,What's that about?
+Dialogue: 0,0:02:59.19,0:03:00.39,Default,,0000,0000,0000,,Why should I know?
+Dialogue: 0,0:03:06.60,0:03:09.40,Default,,0000,0000,0000,,You, with the unpleasant look.\NWait a minute!
+Dialogue: 0,0:03:11.20,0:03:11.77,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:17.38,0:03:18.51,Default,,0000,0000,0000,,– Oh! 					– Yikes!
+Dialogue: 0,0:03:20.98,0:03:21.68,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:03:22.25,0:03:24.78,Default,,0000,0000,0000,,Why don't you fight with me\Nhere now?
+Dialogue: 0,0:03:25.15,0:03:31.09,Default,,0000,0000,0000,,Chunin Challenge:\NRock Lee vs. Sasuke!
+Dialogue: 0,0:03:32.96,0:03:34.86,Default,,0000,0000,0000,,A fight here now…?
+Dialogue: 0,0:03:35.59,0:03:36.49,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:43.20,0:03:44.80,Default,,0000,0000,0000,,My name's Rock Lee.
+Dialogue: 0,0:03:46.34,0:03:48.01,Default,,0000,0000,0000,,When asking a person their name,
+Dialogue: 0,0:03:48.04,0:03:50.37,Default,,0000,0000,0000,,I'm supposed to give\Nmy own name first, right?
+Dialogue: 0,0:03:50.98,0:03:52.24,Default,,0000,0000,0000,,Sasuke Uchiha…
+Dialogue: 0,0:03:52.74,0:03:55.18,Default,,0000,0000,0000,,Hmph… So you knew?
+Dialogue: 0,0:03:57.18,0:03:58.42,Default,,0000,0000,0000,,I want to fight with you!
+Dialogue: 0,0:04:00.59,0:04:03.59,Default,,0000,0000,0000,,I want to test out how effective\Nmy techniques will be
+Dialogue: 0,0:04:04.39,0:04:07.79,Default,,0000,0000,0000,,against the descendant of the\Nclan reputed for genius Ninjas.
+Dialogue: 0,0:04:08.86,0:04:09.59,Default,,0000,0000,0000,,Also…
+Dialogue: 0,0:04:14.80,0:04:17.30,Default,,0000,0000,0000,,Sakura. Love.
+Dialogue: 0,0:04:17.57,0:04:22.57,Default,,0000,0000,0000,,Noooo!\NThose lower eyelashes are awful!
+Dialogue: 0,0:04:23.34,0:04:24.54,Default,,0000,0000,0000,,The hairstyle is awful, too!
+Dialogue: 0,0:04:24.58,0:04:27.58,Default,,0000,0000,0000,,Those bushy eyebrows,\Njust too intense!
+Dialogue: 0,0:04:27.58,0:04:28.71,Default,,0000,0000,0000,,Everything is...!
+Dialogue: 0,0:04:29.15,0:04:31.28,Default,,0000,0000,0000,,You're an angel!
+Dialogue: 0,0:04:33.25,0:04:36.02,Default,,0000,0000,0000,,Noooooo!
+Dialogue: 0,0:04:38.59,0:04:41.59,Default,,0000,0000,0000,,You are good at it.\NThen, how about...?
+Dialogue: 0,0:04:59.24,0:05:00.58,Default,,0000,0000,0000,,Really... That was super close.
+Dialogue: 0,0:05:01.51,0:05:04.02,Default,,0000,0000,0000,,You! Don't throw strange stuff!
+Dialogue: 0,0:05:04.38,0:05:06.58,Default,,0000,0000,0000,,I was dodging for my life!
+Dialogue: 0,0:05:08.19,0:05:10.05,Default,,0000,0000,0000,,You don't have to resent me that much.
+Dialogue: 0,0:05:11.09,0:05:14.49,Default,,0000,0000,0000,,It's Sasuke again!\NDarn it! Darn it!
+Dialogue: 0,0:05:14.73,0:05:17.60,Default,,0000,0000,0000,,To be honest, you're a naive one,
+Dialogue: 0,0:05:17.73,0:05:21.17,Default,,0000,0000,0000,,knowing the name of Uchiha\Nand challenging me.
+Dialogue: 0,0:05:22.30,0:05:26.57,Default,,0000,0000,0000,,Do you want to realize\Nwhat this name is , Bushy-Brow?
+Dialogue: 0,0:05:28.64,0:05:29.57,Default,,0000,0000,0000,,I insist.
+Dialogue: 0,0:05:30.41,0:05:31.54,Default,,0000,0000,0000,,I'm lucky...
+Dialogue: 0,0:05:31.58,0:05:35.35,Default,,0000,0000,0000,,to be able to have a bout with\Nthe number one rookie right away.
+Dialogue: 0,0:05:36.48,0:05:39.28,Default,,0000,0000,0000,,And, I'll prove it to you, Guy Sensei!
+Dialogue: 0,0:05:40.42,0:05:41.22,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:50.93,0:05:53.53,Default,,0000,0000,0000,,I AM going to take out\Nthe Bushy-Brow. Believe it!
+Dialogue: 0,0:05:54.67,0:05:56.33,Default,,0000,0000,0000,,Hey, you…!
+Dialogue: 0,0:05:56.40,0:05:57.47,Default,,0000,0000,0000,,Big deal.
+Dialogue: 0,0:05:57.50,0:05:59.50,Default,,0000,0000,0000,,I'll be able to take care of him\Nin just five minutes!
+Dialogue: 0,0:05:59.84,0:06:03.81,Default,,0000,0000,0000,,The one I want to fight isn't you…\Nlt's Uchiha.
+Dialogue: 0,0:06:05.11,0:06:06.61,Default,,0000,0000,0000,,All these people…
+Dialogue: 0,0:06:07.08,0:06:09.58,Default,,0000,0000,0000,,keep saying Sasuke, Sasuke.\NHow annoying!
+Dialogue: 0,0:06:23.59,0:06:25.26,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:06:26.16,0:06:27.53,Default,,0000,0000,0000,,Leaf Whirlwind!
+Dialogue: 0,0:06:34.74,0:06:37.01,Default,,0000,0000,0000,,As I thought, he's strong…
+Dialogue: 0,0:06:39.51,0:06:43.58,Default,,0000,0000,0000,,I declare. You are absolutely\Nno match for me.
+Dialogue: 0,0:06:43.88,0:06:44.92,Default,,0000,0000,0000,,Because…
+Dialogue: 0,0:06:46.45,0:06:50.99,Default,,0000,0000,0000,,among the Leaf Village Genin,\NI'm the strongest now.
+Dialogue: 0,0:06:57.90,0:06:59.50,Default,,0000,0000,0000,,He stopped my kick…
+Dialogue: 0,0:06:59.63,0:07:02.17,Default,,0000,0000,0000,,What's with that Chakra in his arm…?
+Dialogue: 0,0:07:04.54,0:07:07.67,Default,,0000,0000,0000,,Interesting. I'll do it.
+Dialogue: 0,0:07:10.51,0:07:11.04,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:07:13.84,0:07:15.25,Default,,0000,0000,0000,,Stop! Sasuke!
+Dialogue: 0,0:07:15.75,0:07:19.25,Default,,0000,0000,0000,,There's less than thirty minutes\Nuntil the 3:00 registration.
+Dialogue: 0,0:07:20.45,0:07:21.62,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:07:23.55,0:07:24.92,Default,,0000,0000,0000,,It'll be over in five minutes.
+Dialogue: 0,0:07:26.46,0:07:26.99,Default,,0000,0000,0000,,Here he comes!
+Dialogue: 0,0:07:27.73,0:07:29.59,Default,,0000,0000,0000,,I'm sorry, Guy Sensei.
+Dialogue: 0,0:07:30.09,0:07:32.40,Default,,0000,0000,0000,,I may end up breaking the taboo.
+Dialogue: 0,0:07:32.43,0:07:34.83,Default,,0000,0000,0000,,I may end up using…\Nthat technique!
+Dialogue: 0,0:07:38.60,0:07:40.14,Default,,0000,0000,0000,,Leaf Hurricanes!
+Dialogue: 0,0:07:43.34,0:07:44.58,Default,,0000,0000,0000,,I can't get completely out\Nof the way…
+Dialogue: 0,0:07:44.58,0:07:45.41,Default,,0000,0000,0000,,Guard!
+Dialogue: 0,0:07:47.48,0:07:48.15,Default,,0000,0000,0000,,What…?!
+Dialogue: 0,0:07:49.38,0:07:50.28,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:07:59.36,0:08:01.49,Default,,0000,0000,0000,,W-What's going on?
+Dialogue: 0,0:08:02.59,0:08:06.13,Default,,0000,0000,0000,,But…he did guard himself\Njust now, no mistake.
+Dialogue: 0,0:08:07.80,0:08:09.60,Default,,0000,0000,0000,,He got around my guard.
+Dialogue: 0,0:08:10.17,0:08:10.97,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:11.00,0:08:13.67,Default,,0000,0000,0000,,Is it Ninjutsu…?\NOr is it Genjutsu…?!
+Dialogue: 0,0:08:14.24,0:08:16.91,Default,,0000,0000,0000,,As I thought, he's going to get up!
+Dialogue: 0,0:08:17.74,0:08:19.58,Default,,0000,0000,0000,,Hmph… That's okay.
+Dialogue: 0,0:08:20.51,0:08:21.58,Default,,0000,0000,0000,,If that's the case,
+Dialogue: 0,0:08:21.58,0:08:23.85,Default,,0000,0000,0000,,this is a good opportunity\Nto get used to THAT.
+Dialogue: 0,0:08:24.92,0:08:26.95,Default,,0000,0000,0000,,I'll do it.
+Dialogue: 0,0:08:32.59,0:08:35.59,Default,,0000,0000,0000,,Huh?! C-Could that be…?
+Dialogue: 0,0:08:37.43,0:08:38.40,Default,,0000,0000,0000,,Sharingan!
+Dialogue: 0,0:08:38.96,0:08:43.00,Default,,0000,0000,0000,,Sasuke, when has he...\NWhy is that in his eyes…
+Dialogue: 0,0:08:44.17,0:08:45.37,Default,,0000,0000,0000,,And in both eyes…!
+Dialogue: 0,0:08:46.57,0:08:48.31,Default,,0000,0000,0000,,Is that the Sharingan?
+Dialogue: 0,0:08:56.05,0:08:58.45,Default,,0000,0000,0000,,Sasuke's awesome, after all!
+Dialogue: 0,0:08:59.65,0:09:02.75,Default,,0000,0000,0000,,If this is the same Kekkei Genkai\Nas Kakashi Sensei's…
+Dialogue: 0,0:09:03.35,0:09:05.29,Default,,0000,0000,0000,,he can read Bushy-Brow's Jutsu!
+Dialogue: 0,0:09:05.99,0:09:07.73,Default,,0000,0000,0000,,Genjutsu or Ninjutsu…
+Dialogue: 0,0:09:07.76,0:09:12.80,Default,,0000,0000,0000,,It's some kind of magic either way…\NI'll reveal that!
+Dialogue: 0,0:09:15.63,0:09:18.54,Default,,0000,0000,0000,,It feels like Sasuke's rapidly\Ngetting stronger.
+Dialogue: 0,0:09:21.94,0:09:23.64,Default,,0000,0000,0000,,That's to be expected\Nof the Uchiha clan.
+Dialogue: 0,0:09:26.24,0:09:30.21,Default,,0000,0000,0000,,That's right…\NSasuke should not lose to a guy like this.
+Dialogue: 0,0:09:35.05,0:09:35.75,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:09:36.55,0:09:37.56,Default,,0000,0000,0000,,The Sharingan…!
+Dialogue: 0,0:09:38.49,0:09:40.79,Default,,0000,0000,0000,,To not be able to discern the Jutsu\Nwith the Sharingan…
+Dialogue: 0,0:09:41.16,0:09:43.59,Default,,0000,0000,0000,,Could it be…that his technique is…!
+Dialogue: 0,0:09:45.30,0:09:45.93,Default,,0000,0000,0000,,That's right…
+Dialogue: 0,0:09:46.16,0:09:48.90,Default,,0000,0000,0000,,My technique is neither\NNinjutsu nor Genjutsu.
+Dialogue: 0,0:09:54.84,0:09:56.57,Default,,0000,0000,0000,,S-Sasuke!
+Dialogue: 0,0:10:02.55,0:10:03.41,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:10:04.38,0:10:08.59,Default,,0000,0000,0000,,My technique is\Nmere Taijutsu…Sasuke.
+Dialogue: 0,0:10:11.06,0:10:13.59,Default,,0000,0000,0000,,You may not be able to\Nbelieve it just like that, but…
+Dialogue: 0,0:10:13.59,0:10:14.59,Default,,0000,0000,0000,,Punk!
+Dialogue: 0,0:10:17.60,0:10:20.50,Default,,0000,0000,0000,,It's said that the Sharingan has\Nthe ability to spot
+Dialogue: 0,0:10:20.53,0:10:24.57,Default,,0000,0000,0000,,all Genjutsu, Taijutsu and Ninjutsu.
+Dialogue: 0,0:10:25.97,0:10:27.14,Default,,0000,0000,0000,,Make no mistake,
+Dialogue: 0,0:10:27.17,0:10:29.94,Default,,0000,0000,0000,,the Sharingan reads Ninjutsu\Nand Genjutsu that
+Dialogue: 0,0:10:29.97,0:10:32.01,Default,,0000,0000,0000,,require the principle of building up\NChakra and weaving Signs,
+Dialogue: 0,0:10:32.04,0:10:34.21,Default,,0000,0000,0000,,and can most surely handle such Jutsu.
+Dialogue: 0,0:10:35.21,0:10:38.58,Default,,0000,0000,0000,,However, only Taijutsu is\Na little bit different…
+Dialogue: 0,0:10:38.92,0:10:40.68,Default,,0000,0000,0000,,W-What do you mean?!
+Dialogue: 0,0:10:41.59,0:10:44.12,Default,,0000,0000,0000,,Even if you can spot my movements\Nwith the Sharingan,
+Dialogue: 0,0:10:44.59,0:10:49.59,Default,,0000,0000,0000,,your body is not equipped with\Nthe speed to respond to my Taijutsu.
+Dialogue: 0,0:10:50.96,0:10:53.13,Default,,0000,0000,0000,,In other words, even if you understand\Nwith your eyes,
+Dialogue: 0,0:10:53.16,0:10:56.17,Default,,0000,0000,0000,,there's nothing you can do if your\Nbody can't keep up.
+Dialogue: 0,0:10:58.10,0:10:59.30,Default,,0000,0000,0000,,Do you know?
+Dialogue: 0,0:10:59.94,0:11:03.54,Default,,0000,0000,0000,,There are two types of strong people,\Ngenius-types and effort-types.
+Dialogue: 0,0:11:04.04,0:11:07.68,Default,,0000,0000,0000,,If your Sharingan is\Na genius-type drawing Uchiha ability…
+Dialogue: 0,0:11:08.41,0:11:12.55,Default,,0000,0000,0000,,I'm an effort-type who has\Npatiently mastered only Taijutsu.
+Dialogue: 0,0:11:14.12,0:11:15.19,Default,,0000,0000,0000,,In a manner of speaking,
+Dialogue: 0,0:11:15.22,0:11:19.69,Default,,0000,0000,0000,,your Sharingan and my ultimate\NTaijutsu have the worst compatibility…
+Dialogue: 0,0:11:20.26,0:11:21.29,Default,,0000,0000,0000,,Guard!
+Dialogue: 0,0:11:33.14,0:11:34.67,Default,,0000,0000,0000,,Huh?! Dancing Leaf Shadow…!
+Dialogue: 0,0:11:35.57,0:11:37.61,Default,,0000,0000,0000,,And I shall prove it with this technique.
+Dialogue: 0,0:11:40.68,0:11:43.38,Default,,0000,0000,0000,,Prove that effort exceeds the genius.
+Dialogue: 0,0:11:43.58,0:11:45.58,Default,,0000,0000,0000,,W-What's he going to do…?!
+Dialogue: 0,0:11:46.88,0:11:48.02,Default,,0000,0000,0000,,It's my victory!
+Dialogue: 0,0:11:56.59,0:11:58.03,Default,,0000,0000,0000,,Huh?! Dancing Leaf Shadow!
+Dialogue: 0,0:11:58.63,0:12:01.00,Default,,0000,0000,0000,,And I shall prove it with this technique.
+Dialogue: 0,0:12:03.43,0:12:05.97,Default,,0000,0000,0000,,Prove that effort exceeds the genius.
+Dialogue: 0,0:12:06.60,0:12:08.24,Default,,0000,0000,0000,,W-What's he going to do…?!
+Dialogue: 0,0:12:09.47,0:12:10.57,Default,,0000,0000,0000,,It's my victory!
+Dialogue: 0,0:12:12.38,0:12:13.01,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:16.01,0:12:17.58,Default,,0000,0000,0000,,– Huh? 					– Huh?!
+Dialogue: 0,0:12:17.58,0:12:18.72,Default,,0000,0000,0000,,That's…!
+Dialogue: 0,0:12:19.38,0:12:21.59,Default,,0000,0000,0000,,That's as far as it goes! Lee!
+Dialogue: 0,0:12:27.06,0:12:28.73,Default,,0000,0000,0000,,W-What is it…?\NWhat's going on?
+Dialogue: 0,0:12:30.43,0:12:31.53,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:12:40.47,0:12:42.01,Default,,0000,0000,0000,,Sasuke was beaten?!
+Dialogue: 0,0:12:42.24,0:12:45.58,Default,,0000,0000,0000,,What happened while\NI was knocked out?!
+Dialogue: 0,0:12:49.28,0:12:51.18,Default,,0000,0000,0000,,Are you okay?! Sasuke.
+Dialogue: 0,0:12:52.95,0:12:57.59,Default,,0000,0000,0000,,He's agitated…\NTo think he couldn't fall properly.
+Dialogue: 0,0:12:59.12,0:13:00.86,Default,,0000,0000,0000,,Y-You were watching…?
+Dialogue: 0,0:13:01.99,0:13:05.53,Default,,0000,0000,0000,,Lee! That technique just now\Nis prohibited, you know!
+Dialogue: 0,0:13:06.50,0:13:09.17,Default,,0000,0000,0000,,W-What's with that turtle…?
+Dialogue: 0,0:13:09.67,0:13:12.57,Default,,0000,0000,0000,,I-I'm sorry.\NI didn't mean to…
+Dialogue: 0,0:13:14.47,0:13:16.31,Default,,0000,0000,0000,,He's…getting scolded or something…
+Dialogue: 0,0:13:17.57,0:13:21.58,Default,,0000,0000,0000,,Could that be…Bushy-Brow's teacher?!
+Dialogue: 0,0:13:27.58,0:13:29.59,Default,,0000,0000,0000,,B-But, of course,
+Dialogue: 0,0:13:29.59,0:13:34.63,Default,,0000,0000,0000,,I didn't even remotely have\Na mind to use the Hidden technique…
+Dialogue: 0,0:13:34.79,0:13:36.59,Default,,0000,0000,0000,,There's no mistake!
+Dialogue: 0,0:13:37.16,0:13:37.96,Default,,0000,0000,0000,,– Huh? 					– Huh?
+Dialogue: 0,0:13:38.43,0:13:39.83,Default,,0000,0000,0000,,Hey-hey.
+Dialogue: 0,0:13:40.30,0:13:41.33,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:13:42.13,0:13:45.47,Default,,0000,0000,0000,,That thing… It's a turtle, right…?\NRight?
+Dialogue: 0,0:13:45.50,0:13:47.34,Default,,0000,0000,0000,,Isn't it obvious?!
+Dialogue: 0,0:13:47.57,0:13:51.34,Default,,0000,0000,0000,,Say! Say! Can even a turtle\Nbecome a Ninja teacher?
+Dialogue: 0,0:13:51.58,0:13:53.24,Default,,0000,0000,0000,,I don't know!
+Dialogue: 0,0:13:53.48,0:13:54.58,Default,,0000,0000,0000,,Fool!
+Dialogue: 0,0:13:55.58,0:13:58.65,Default,,0000,0000,0000,,You think such subterfuge will work?!
+Dialogue: 0,0:13:59.18,0:14:01.59,Default,,0000,0000,0000,,You should know very well what\Nit means
+Dialogue: 0,0:14:01.59,0:14:05.59,Default,,0000,0000,0000,,for a Shinobi to give away\Nhis technique!
+Dialogue: 0,0:14:06.62,0:14:07.59,Default,,0000,0000,0000,,I…I know.
+Dialogue: 0,0:14:10.29,0:14:13.63,Default,,0000,0000,0000,,To think I lost to someone so flippant…
+Dialogue: 0,0:14:18.20,0:14:20.57,Default,,0000,0000,0000,,Have you prepared yourself?
+Dialogue: 0,0:14:20.70,0:14:22.11,Default,,0000,0000,0000,,Y-Yes sir…
+Dialogue: 0,0:14:23.44,0:14:26.58,Default,,0000,0000,0000,,All right, if you will, Guy Sensei!
+Dialogue: 0,0:14:29.91,0:14:33.68,Default,,0000,0000,0000,,Man! Life treating you good, huh?
+Dialogue: 0,0:14:33.72,0:14:34.72,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:36.69,0:14:41.23,Default,,0000,0000,0000,,Whoaaa! An even more\Nintense guy has appeared!
+Dialogue: 0,0:14:41.26,0:14:42.26,Default,,0000,0000,0000,,Yo, Lee!
+Dialogue: 0,0:14:44.26,0:14:47.03,Default,,0000,0000,0000,,Super intense.\NThe extreme bowl cut...
+Dialogue: 0,0:14:47.43,0:14:50.00,Default,,0000,0000,0000,,T-Those are some incredibly\Nraging brows…
+Dialogue: 0,0:14:50.03,0:14:52.80,Default,,0000,0000,0000,,I've never seen anything like that\Nin my life.
+Dialogue: 0,0:14:54.67,0:14:58.58,Default,,0000,0000,0000,,H-Hey! You guys!\NDon't mock Guy Sensei!
+Dialogue: 0,0:14:58.81,0:15:00.68,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:15:01.01,0:15:02.58,Default,,0000,0000,0000,,I'm at a loss for a reaction because
+Dialogue: 0,0:15:02.58,0:15:04.45,Default,,0000,0000,0000,,of those bizarre things appearing\None after another!
+Dialogue: 0,0:15:04.51,0:15:05.58,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:05.68,0:15:07.18,Default,,0000,0000,0000,,Hey, Lee! Drop it!
+Dialogue: 0,0:15:09.59,0:15:10.39,Default,,0000,0000,0000,,Yes, sir…
+Dialogue: 0,0:15:14.26,0:15:15.63,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:15:28.14,0:15:30.81,Default,,0000,0000,0000,,Lee, you…you…
+Dialogue: 0,0:15:31.14,0:15:32.81,Default,,0000,0000,0000,,S-Sensei…!
+Dialogue: 0,0:15:34.68,0:15:36.08,Default,,0000,0000,0000,,L-Lee…
+Dialogue: 0,0:15:37.41,0:15:40.68,Default,,0000,0000,0000,,Sensei…I…I…
+Dialogue: 0,0:15:41.59,0:15:44.59,Default,,0000,0000,0000,,Enough, Lee!\NDon't say anything!
+Dialogue: 0,0:15:45.76,0:15:47.36,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:15:47.59,0:15:48.59,Default,,0000,0000,0000,,Lee!
+Dialogue: 0,0:15:53.33,0:15:55.60,Default,,0000,0000,0000,,I lost to a guy like that…
+Dialogue: 0,0:15:55.97,0:15:58.64,Default,,0000,0000,0000,,Yes…this is adolescence!
+Dialogue: 0,0:15:58.67,0:16:00.47,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:16:03.81,0:16:06.74,Default,,0000,0000,0000,,That sort of tone's kind of nice, too.
+Dialogue: 0,0:16:07.18,0:16:09.75,Default,,0000,0000,0000,,I-Idiot! That's dangerous!\NVery dangerous!
+Dialogue: 0,0:16:11.58,0:16:13.02,Default,,0000,0000,0000,,It's okay, Lee!
+Dialogue: 0,0:16:13.58,0:16:16.72,Default,,0000,0000,0000,,Mistakes come with adolescence.\NDon't worry about it!
+Dialogue: 0,0:16:17.19,0:16:19.79,Default,,0000,0000,0000,,You're so kind…Sensei!
+Dialogue: 0,0:16:20.89,0:16:25.63,Default,,0000,0000,0000,,Now then, take a hundred laps around\Nthe Training Field toward that setting sun!
+Dialogue: 0,0:16:25.66,0:16:27.50,Default,,0000,0000,0000,,Yes! Sensei!
+Dialogue: 0,0:16:40.21,0:16:41.18,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:16:41.21,0:16:42.08,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:16:43.48,0:16:45.35,Default,,0000,0000,0000,,Hey, wait a minute.
+Dialogue: 0,0:16:45.42,0:16:47.58,Default,,0000,0000,0000,,We're still in the middle\Nof the conversation!
+Dialogue: 0,0:16:47.68,0:16:49.59,Default,,0000,0000,0000,,What're you going to do\Nabout the Chunin Exam?!
+Dialogue: 0,0:16:49.79,0:16:51.46,Default,,0000,0000,0000,,There's no time!
+Dialogue: 0,0:16:51.89,0:16:54.99,Default,,0000,0000,0000,,Huh? Oh, that's right…
+Dialogue: 0,0:16:56.76,0:17:01.53,Default,,0000,0000,0000,,Lee, you will be punished for attempting\Nto break the prohibition on top of fighting…
+Dialogue: 0,0:17:01.60,0:17:05.37,Default,,0000,0000,0000,,in principle, after\Nthe Chunin Exam.
+Dialogue: 0,0:17:05.47,0:17:06.34,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:06.57,0:17:09.37,Default,,0000,0000,0000,,Five hundred howls of adolescence!
+Dialogue: 0,0:17:09.44,0:17:10.31,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:17:14.01,0:17:14.75,Default,,0000,0000,0000,,Idiots…
+Dialogue: 0,0:17:15.08,0:17:16.55,Default,,0000,0000,0000,,Say! Say!
+Dialogue: 0,0:17:16.58,0:17:18.92,Default,,0000,0000,0000,,By the way, what's with that turtle?
+Dialogue: 0,0:17:20.55,0:17:22.59,Default,,0000,0000,0000,,If I'm not mistaken, those kids are…
+Dialogue: 0,0:17:22.59,0:17:23.95,Default,,0000,0000,0000,,Kakashi's…
+Dialogue: 0,0:17:25.19,0:17:27.72,Default,,0000,0000,0000,,Oh! No, he's looking this way!
+Dialogue: 0,0:17:28.56,0:17:31.60,Default,,0000,0000,0000,,You guys…how's Kakashi Sensei?
+Dialogue: 0,0:17:31.73,0:17:33.46,Default,,0000,0000,0000,,You know Kakashi…?
+Dialogue: 0,0:17:33.80,0:17:35.43,Default,,0000,0000,0000,,I know him all too well.
+Dialogue: 0,0:17:37.57,0:17:42.71,Default,,0000,0000,0000,,People call us…\Neternal rivals.
+Dialogue: 0,0:17:43.11,0:17:44.88,Default,,0000,0000,0000,,Sounds like a lie!
+Dialogue: 0,0:17:44.91,0:17:47.68,Default,,0000,0000,0000,,What're you saying?!\NGuy Sensei really is…
+Dialogue: 0,0:17:47.71,0:17:48.98,Default,,0000,0000,0000,,That's fine.
+Dialogue: 0,0:17:49.58,0:17:52.25,Default,,0000,0000,0000,,"Action speaks louder than words"\Nanyway.
+Dialogue: 0,0:17:56.29,0:17:57.12,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:17:59.86,0:18:03.79,Default,,0000,0000,0000,,By the way, my record is fifty wins\Nand forty-nine losses.
+Dialogue: 0,0:18:03.86,0:18:04.59,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:04.59,0:18:05.96,Default,,0000,0000,0000,,This guy…
+Dialogue: 0,0:18:06.93,0:18:08.50,Default,,0000,0000,0000,,When did he...?
+Dialogue: 0,0:18:08.67,0:18:13.00,Default,,0000,0000,0000,,One thing, I'm stronger than Kakashi…
+Dialogue: 0,0:18:14.37,0:18:15.84,Default,,0000,0000,0000,,N-No way…
+Dialogue: 0,0:18:16.24,0:18:20.91,Default,,0000,0000,0000,,He's fast! He's faster than Kakashi!\Nls he human…?!
+Dialogue: 0,0:18:21.48,0:18:24.58,Default,,0000,0000,0000,,How about that?!\NGuy Sensei is awesome, isn't he?!
+Dialogue: 0,0:18:24.71,0:18:26.08,Default,,0000,0000,0000,,Darn it…
+Dialogue: 0,0:18:26.28,0:18:28.59,Default,,0000,0000,0000,,This time around,\NLee caused the trouble.
+Dialogue: 0,0:18:28.59,0:18:31.25,Default,,0000,0000,0000,,Out of consideration for my face,\Nforgive him.
+Dialogue: 0,0:18:31.59,0:18:34.59,Default,,0000,0000,0000,,Out of consideration for\Nthis pleasant face.
+Dialogue: 0,0:18:34.59,0:18:36.93,Default,,0000,0000,0000,,He's better than that Kakashi…?
+Dialogue: 0,0:18:37.66,0:18:40.60,Default,,0000,0000,0000,,Darn it! He's…
+Dialogue: 0,0:18:41.20,0:18:42.90,Default,,0000,0000,0000,,not just all talk…
+Dialogue: 0,0:18:43.80,0:18:48.14,Default,,0000,0000,0000,,You guys and Lee should probably go\Nto the classroom pretty soon.
+Dialogue: 0,0:18:56.25,0:18:57.18,Default,,0000,0000,0000,,He...!
+Dialogue: 0,0:19:01.38,0:19:04.59,Default,,0000,0000,0000,,Then, do your best, Lee!\NFarewell!
+Dialogue: 0,0:19:04.69,0:19:05.59,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:19:05.62,0:19:06.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:09.59,0:19:10.59,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:19:11.60,0:19:13.90,Default,,0000,0000,0000,,I have one last thing to tell you.
+Dialogue: 0,0:19:14.60,0:19:19.57,Default,,0000,0000,0000,,I actually came here to\Nverify my own ability.
+Dialogue: 0,0:19:22.04,0:19:23.84,Default,,0000,0000,0000,,I lied before.
+Dialogue: 0,0:19:24.84,0:19:30.08,Default,,0000,0000,0000,,The strongest man of the\NLeaf Village Genin might be on my team.
+Dialogue: 0,0:19:34.38,0:19:37.59,Default,,0000,0000,0000,,I'm entering in order\Nto defeat that person.
+Dialogue: 0,0:19:38.49,0:19:41.12,Default,,0000,0000,0000,,And, you are one of my targets.
+Dialogue: 0,0:19:42.96,0:19:45.60,Default,,0000,0000,0000,,Please prepare yourself for the Exam!
+Dialogue: 0,0:19:55.57,0:19:56.57,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:19:58.04,0:20:00.11,Default,,0000,0000,0000,,Ha! So…
+Dialogue: 0,0:20:00.41,0:20:03.58,Default,,0000,0000,0000,,I guess Uchiha clan's not all that, huh?
+Dialogue: 0,0:20:03.78,0:20:05.02,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:20:06.52,0:20:07.58,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:20:08.69,0:20:10.89,Default,,0000,0000,0000,,I'll knock him flat next time!
+Dialogue: 0,0:20:11.05,0:20:13.59,Default,,0000,0000,0000,,Ha! That from someone\Nwho just got whipped.
+Dialogue: 0,0:20:13.59,0:20:16.86,Default,,0000,0000,0000,,Hey…what's your problem?!\NNaruto, you!
+Dialogue: 0,0:20:21.43,0:20:24.57,Default,,0000,0000,0000,,You saw it, didn't you? His hand…
+Dialogue: 0,0:20:29.11,0:20:32.58,Default,,0000,0000,0000,,That Bushy-Brow probably did a heck\Nof a lot of special training.
+Dialogue: 0,0:20:32.61,0:20:34.34,Default,,0000,0000,0000,,Day after day…
+Dialogue: 0,0:20:35.01,0:20:36.58,Default,,0000,0000,0000,,More than you have…
+Dialogue: 0,0:20:39.58,0:20:41.45,Default,,0000,0000,0000,,That's all it is.
+Dialogue: 0,0:20:47.59,0:20:48.59,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:20:59.67,0:21:00.97,Default,,0000,0000,0000,,Interesting…
+Dialogue: 0,0:21:02.57,0:21:03.57,Default,,0000,0000,0000,,Hmph!
+Dialogue: 0,0:21:04.57,0:21:09.18,Default,,0000,0000,0000,,It's starting to get interesting…\Nthe Chunin Exam!
+Dialogue: 0,0:21:09.21,0:21:10.68,Default,,0000,0000,0000,,What's next?
+Dialogue: 0,0:21:13.58,0:21:14.58,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:14.58,0:21:15.22,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:21:17.29,0:21:20.69,Default,,0000,0000,0000,,Let's go, Naruto! Sakura!
+Dialogue: 0,0:21:21.06,0:21:22.06,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:04.23,0:23:07.26,Default,,0000,0000,0000,,Whoaaaa!\NThere are tons of people here!
+Dialogue: 0,0:23:07.50,0:23:09.70,Default,,0000,0000,0000,,Are they all here to take\Nthe Chunin Exam?
+Dialogue: 0,0:23:09.83,0:23:13.20,Default,,0000,0000,0000,,Ino, Shikamaru, Choji, Kiba,\NShino, Hinata and Rock Lee?
+Dialogue: 0,0:23:13.27,0:23:14.70,Default,,0000,0000,0000,,So you're all here, too?
+Dialogue: 0,0:23:14.74,0:23:17.54,Default,,0000,0000,0000,,Yeah, I'm pumped, pumped, pumped!
+Dialogue: 0,0:23:17.57,0:23:21.54,Default,,0000,0000,0000,,Open up your eyes and watch me\Nbecome the Hokage!
+Dialogue: 0,0:23:22.08,0:23:25.58,Default,,0000,0000,0000,,Next episode:\N"Genin Takedown!\N		All Nine Rookies Face Off!"
+Dialogue: 0,0:23:25.58,0:23:28.59,Default,,0000,0000,0000,,As for me,\NI'm going to kick butt once again!

@@ -1,0 +1,372 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.41,0:00:03.75,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.75,0:00:06.62,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.68,0:00:12.76,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:23.13,0:00:29.04,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:29.11,0:00:34.58,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.65,0:00:37.22,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.25,0:00:40.75,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.75,0:00:45.26,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.76,0:00:51.80,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.30,0:00:56.83,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.87,0:01:02.47,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.51,0:01:07.75,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.75,0:01:10.92,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.95,0:01:19.76,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:46.95,0:01:49.22,Default,,0000,0000,0000,,All right, thanks for waiting!
+Dialogue: 0,0:01:49.72,0:01:52.22,Default,,0000,0000,0000,,"The Special Presentation Today!"
+Dialogue: 0,0:01:52.26,0:01:54.93,Default,,0000,0000,0000,,"The Top 5 Famous\NSweat and Tears Ninja Battles!
+Dialogue: 0,0:01:54.96,0:01:58.30,Default,,0000,0000,0000,,"There Are Also Fun Extras"\Nhas finally started!
+Dialogue: 0,0:01:58.43,0:02:00.77,Default,,0000,0000,0000,,Isn't this exciting, Sakura?!
+Dialogue: 0,0:02:00.77,0:02:02.80,Default,,0000,0000,0000,,Yes, from the next episode,
+Dialogue: 0,0:02:02.83,0:02:06.10,Default,,0000,0000,0000,,“Naruto” which you’ve all\Nbeen supporting
+Dialogue: 0,0:02:06.14,0:02:08.11,Default,,0000,0000,0000,,for the past four years\Nwill enter its fifth year.
+Dialogue: 0,0:02:08.74,0:02:11.64,Default,,0000,0000,0000,,And so today,\Nwe’re changing our plans
+Dialogue: 0,0:02:11.68,0:02:14.81,Default,,0000,0000,0000,,to present you with\Nfamous battle scenes
+Dialogue: 0,0:02:14.85,0:02:18.38,Default,,0000,0000,0000,,in the order determined by\Nvotes from the guys in the Leaf!
+Dialogue: 0,0:02:18.75,0:02:21.95,Default,,0000,0000,0000,,Is that favorite battle you want\Nto see again included?
+Dialogue: 0,0:02:22.39,0:02:24.22,Default,,0000,0000,0000,,We’ve also invited\Nsome special guests,
+Dialogue: 0,0:02:24.26,0:02:26.12,Default,,0000,0000,0000,,so don’t miss it!
+Dialogue: 0,0:02:26.46,0:02:28.03,Default,,0000,0000,0000,,Then, we’ll be moving on ahead.
+Dialogue: 0,0:02:28.66,0:02:32.76,Default,,0000,0000,0000,,First, check out fifth and\Nfourth place back to back!
+Dialogue: 0,0:02:38.44,0:02:40.64,Default,,0000,0000,0000,,FIFTH PLACE\NNARUTO VS. SASUKE\N		~LEAF HOSPITAL ROOF~
+Dialogue: 0,0:02:40.74,0:02:42.74,Default,,0000,0000,0000,,All right, here we go,\Nhere we go, here we go!
+Dialogue: 0,0:02:42.87,0:02:44.58,Default,,0000,0000,0000,,Just what you’d expect of me,\Nthe hero!
+Dialogue: 0,0:02:44.74,0:02:46.41,Default,,0000,0000,0000,,To think I’d appear right at the start.
+Dialogue: 0,0:02:46.54,0:02:49.21,Default,,0000,0000,0000,,I’ve shrewdly got everyone’s hearts!
+Dialogue: 0,0:02:49.41,0:02:50.92,Default,,0000,0000,0000,,You’re right!
+Dialogue: 0,0:02:51.08,0:02:52.12,Default,,0000,0000,0000,,To be honest,
+Dialogue: 0,0:02:52.18,0:02:55.85,Default,,0000,0000,0000,,the coolness of Sasuke in motion\Nis unfathomable.
+Dialogue: 0,0:02:56.05,0:02:58.12,Default,,0000,0000,0000,,Outstanding destructive power.\NCha!
+Dialogue: 0,0:02:58.42,0:03:00.76,Default,,0000,0000,0000,,Umm, Sakura?
+Dialogue: 0,0:03:01.03,0:03:03.56,Default,,0000,0000,0000,,Our comments aren’t meshing\Nright off the bat.
+Dialogue: 0,0:03:03.59,0:03:05.06,Default,,0000,0000,0000,,Just keep quiet!
+Dialogue: 0,0:03:05.26,0:03:06.26,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:03:08.97,0:03:11.34,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu!
+Dialogue: 0,0:03:20.95,0:03:22.75,Default,,0000,0000,0000,,Attack and defense with\Nno time to breathe.
+Dialogue: 0,0:03:22.75,0:03:24.35,Default,,0000,0000,0000,,This is gripping.
+Dialogue: 0,0:03:26.05,0:03:27.29,Default,,0000,0000,0000,,Throw in a kick there!
+Dialogue: 0,0:03:30.25,0:03:32.26,Default,,0000,0000,0000,,Give him a beat down and thrash up!
+Dialogue: 0,0:03:32.76,0:03:38.63,Default,,0000,0000,0000,,Umm, Sakura. How about\Na little support for the hero there…?
+Dialogue: 0,0:03:38.66,0:03:39.70,Default,,0000,0000,0000,,Shut up, Naruto!
+Dialogue: 0,0:03:46.20,0:03:47.71,Default,,0000,0000,0000,,Naruto Barrage!
+Dialogue: 0,0:03:50.81,0:03:52.98,Default,,0000,0000,0000,,Fire Style: Fireball Jutsu!
+Dialogue: 0,0:04:00.75,0:04:02.55,Default,,0000,0000,0000,,Wh-What’s that Jutsu?!
+Dialogue: 0,0:04:08.03,0:04:09.03,Default,,0000,0000,0000,,You jerk!
+Dialogue: 0,0:04:10.76,0:04:11.76,Default,,0000,0000,0000,,Chidori!
+Dialogue: 0,0:04:12.93,0:04:14.87,Default,,0000,0000,0000,,Stop it…you two…
+Dialogue: 0,0:04:18.97,0:04:20.30,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:04:28.55,0:04:31.62,Default,,0000,0000,0000,,That’s mean to punch me all\Nof a sudden, Sakura!
+Dialogue: 0,0:04:31.75,0:04:34.12,Default,,0000,0000,0000,,I couldn’t help it.\NI got excited.
+Dialogue: 0,0:04:34.62,0:04:38.09,Default,,0000,0000,0000,,FOURTH PLACE\NCHOJI VS. JIROBO\N		~FATSO VS. FATSO~\N		Now, let’s collect ourselves\N		and check out fourth place next!
+Dialogue: 0,0:04:39.52,0:04:41.76,Default,,0000,0000,0000,,It’s too late whatever you do now!
+Dialogue: 0,0:04:41.93,0:04:43.56,Default,,0000,0000,0000,,Crushing Palm!
+Dialogue: 0,0:04:47.16,0:04:51.34,Default,,0000,0000,0000,,Man, this battle moves me to tears,\Nno matter how often I watch it.
+Dialogue: 0,0:04:51.37,0:04:53.47,Default,,0000,0000,0000,,That’s right! As it happens,
+Dialogue: 0,0:04:53.50,0:04:55.84,Default,,0000,0000,0000,,I sat down on my knees in front of\Nthe TV while blowing my nose.
+Dialogue: 0,0:04:56.41,0:04:59.68,Default,,0000,0000,0000,,It invoked tears in the living rooms\Nin the Land of Fire for sure.
+Dialogue: 0,0:04:59.71,0:05:04.42,Default,,0000,0000,0000,,Yeah, yeah… I really thought\NChoji had died in this episode.
+Dialogue: 0,0:05:04.58,0:05:05.72,Default,,0000,0000,0000,,That’s for sure.
+Dialogue: 0,0:05:05.85,0:05:09.25,Default,,0000,0000,0000,,I was also totally fooled\Nby the producers.
+Dialogue: 0,0:05:09.52,0:05:11.72,Default,,0000,0000,0000,,Wh-What’s that…?
+Dialogue: 0,0:05:13.22,0:05:14.26,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:05:15.03,0:05:16.79,Default,,0000,0000,0000,,Boulder Blow!
+Dialogue: 0,0:05:19.46,0:05:20.46,Default,,0000,0000,0000,,It’s futile!
+Dialogue: 0,0:05:22.67,0:05:25.74,Default,,0000,0000,0000,,I’m a hundred times stronger\Nthan before!
+Dialogue: 0,0:05:32.98,0:05:35.75,Default,,0000,0000,0000,,They say a grudge over food\Nis ferocious, right?
+Dialogue: 0,0:05:36.65,0:05:38.52,Default,,0000,0000,0000,,That one punch just now
+Dialogue: 0,0:05:38.55,0:05:42.19,Default,,0000,0000,0000,,was the grudge for you eating\Nthe last bite of the snack.
+Dialogue: 0,0:05:42.89,0:05:47.53,Default,,0000,0000,0000,,No way! He’s got so much Chakra\Nhis build has changed!
+Dialogue: 0,0:05:48.09,0:05:49.53,Default,,0000,0000,0000,,And this is…
+Dialogue: 0,0:05:52.70,0:05:56.27,Default,,0000,0000,0000,,This is for insulting me by calling me\Na sacrificial piece and fat!
+Dialogue: 0,0:05:57.13,0:06:04.34,Default,,0000,0000,0000,,But what’s most unforgivable is\Nyou insulting my best friend!
+Dialogue: 0,0:06:04.98,0:06:11.35,Default,,0000,0000,0000,,That’s more unforgivable than\Nswiping the last bite of gourmet food
+Dialogue: 0,0:06:11.38,0:06:16.75,Default,,0000,0000,0000,,or insulting me by calling me fat!
+Dialogue: 0,0:06:19.72,0:06:22.66,Default,,0000,0000,0000,,All my Chakra…\Nto my left hand!
+Dialogue: 0,0:06:23.26,0:06:24.70,Default,,0000,0000,0000,,O-Oh, no…!
+Dialogue: 0,0:06:24.90,0:06:28.77,Default,,0000,0000,0000,,This one punch is heavier than life!
+Dialogue: 0,0:06:29.77,0:06:32.10,Default,,0000,0000,0000,,W-Wait…! 					Don’t be hasty…!
+Dialogue: 0,0:06:41.91,0:06:46.75,Default,,0000,0000,0000,,But seeing it again,\Nvisually it’s just fatso versus fatso.
+Dialogue: 0,0:06:46.92,0:06:50.76,Default,,0000,0000,0000,,No appealing parts at all\Nand the screen is stifling.
+Dialogue: 0,0:06:50.79,0:06:53.09,Default,,0000,0000,0000,,I mean, no way would I want\Nto see this during the summer
+Dialogue: 0,0:06:53.22,0:06:55.63,Default,,0000,0000,0000,,Excuse me for being stifling.
+Dialogue: 0,0:06:56.76,0:06:57.76,Default,,0000,0000,0000,,Yikes! Choji.
+Dialogue: 0,0:06:57.76,0:06:58.76,Default,,0000,0000,0000,,How long were you there…?
+Dialogue: 0,0:06:58.76,0:07:02.33,Default,,0000,0000,0000,,I heard my famous battle made it\Ninto the top five, you see…
+Dialogue: 0,0:07:02.37,0:07:03.37,Default,,0000,0000,0000,,Oh wait, Choji.
+Dialogue: 0,0:07:03.43,0:07:04.97,Default,,0000,0000,0000,,– You’ll understand once I tell you!\N– Calm down!
+Dialogue: 0,0:07:05.00,0:07:07.10,Default,,0000,0000,0000,,Human Boulder!\N97.01	01:57:15:03	01:57:16:07	I won!
+Dialogue: 0,0:07:17.75,0:07:20.75,Default,,0000,0000,0000,,I actually…won!
+Dialogue: 0,0:07:26.06,0:07:27.76,Default,,0000,0000,0000,,We had a bit of an incident here,
+Dialogue: 0,0:07:27.76,0:07:29.76,Default,,0000,0000,0000,,but let’s not worry about that\Nand move on.
+Dialogue: 0,0:07:30.33,0:07:33.20,Default,,0000,0000,0000,,Now before we present\Nthird to first place,
+Dialogue: 0,0:07:33.26,0:07:36.87,Default,,0000,0000,0000,,we’ll show the famous battles\Nleft out of the top five.
+Dialogue: 0,0:07:37.50,0:07:40.04,Default,,0000,0000,0000,,Is the famous battle\Nyou chose included?
+Dialogue: 0,0:07:40.50,0:07:41.71,Default,,0000,0000,0000,,Now then, here we go!
+Dialogue: 0,0:07:41.74,0:07:42.74,Default,,0000,0000,0000,,EXTRA SEGMENT\NUNRANKED FAMOUS BATTLES
+Dialogue: 0,0:07:43.41,0:07:47.08,Default,,0000,0000,0000,,KAKASHI VS. ZABUSA\N~THE LAND OF WAVES ARC~
+Dialogue: 0,0:07:47.71,0:07:48.71,Default,,0000,0000,0000,,– Rooster! 					– Rooster!
+Dialogue: 0,0:07:49.88,0:07:51.75,Default,,0000,0000,0000,,– Water Style: Water Dragon Jutsu!\N– Water Style: Water Dragon Jutsu!
+Dialogue: 0,0:07:52.58,0:07:56.02,Default,,0000,0000,0000,,Sure enough, Kakashi Sensei’s\NSharingan is super unfair!
+Dialogue: 0,0:07:56.19,0:07:58.12,Default,,0000,0000,0000,,Just what you’d expect from a Jonin.
+Dialogue: 0,0:08:10.13,0:08:13.27,Default,,0000,0000,0000,,KAKASHI VS. GAI\N~ROCK-PAPER-SCISSORS~
+Dialogue: 0,0:08:13.84,0:08:14.84,Default,,0000,0000,0000,,– What?! 					– You’re late!
+Dialogue: 0,0:08:14.87,0:08:16.34,Default,,0000,0000,0000,,– This is a famous battle?!\N– You’re seventeen minutes
+Dialogue: 0,0:08:16.37,0:08:17.58,Default,,0000,0000,0000,,– Well, it’s cool to have stuff like this\N– and thirty two seconds late!
+Dialogue: 0,0:08:17.64,0:08:19.51,Default,,0000,0000,0000,,– included once in a while, right?\N– Let’s forget about today…
+Dialogue: 0,0:08:19.98,0:08:21.65,Default,,0000,0000,0000,,We both have forty eight wins!
+Dialogue: 0,0:08:22.18,0:08:24.22,Default,,0000,0000,0000,,One of us will move ahead\Nwith this battle!
+Dialogue: 0,0:08:27.59,0:08:29.75,Default,,0000,0000,0000,,It seems it won’t work\Neven if I say no…
+Dialogue: 0,0:08:31.22,0:08:34.43,Default,,0000,0000,0000,,This time it’s my turn to determine\Nthe battle category…
+Dialogue: 0,0:08:35.76,0:08:37.90,Default,,0000,0000,0000,,What will it be?\NA Taijutsu fight?
+Dialogue: 0,0:08:38.10,0:08:39.10,Default,,0000,0000,0000,,A 100-meter dash?
+Dialogue: 0,0:08:39.76,0:08:42.67,Default,,0000,0000,0000,,Skin diving? I wouldn’t mind\Nan eating contest…
+Dialogue: 0,0:08:43.43,0:08:44.44,Default,,0000,0000,0000,,Listen, you…
+Dialogue: 0,0:08:45.34,0:08:46.44,Default,,0000,0000,0000,,Well then…
+Dialogue: 0,0:08:46.70,0:08:48.37,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:08:49.37,0:08:50.37,Default,,0000,0000,0000,,Rock-paper-scissors!
+Dialogue: 0,0:08:50.84,0:08:53.34,Default,,0000,0000,0000,,I accept the challenge.\NNo way will I lose!
+Dialogue: 0,0:08:53.94,0:08:56.18,Default,,0000,0000,0000,,If I lose, I’ll do five hundred laps
+Dialogue: 0,0:08:56.21,0:08:58.32,Default,,0000,0000,0000,,around the Leaf Village\Nstanding on my head!
+Dialogue: 0,0:08:58.55,0:08:59.75,Default,,0000,0000,0000,,Absurdity again…
+Dialogue: 0,0:09:00.75,0:09:01.75,Default,,0000,0000,0000,,It’s a promise!
+Dialogue: 0,0:09:02.42,0:09:05.76,Default,,0000,0000,0000,,Here we go again…\NHis favorite own rules.
+Dialogue: 0,0:09:10.63,0:09:12.26,Default,,0000,0000,0000,,Okay, everyone together now.
+Dialogue: 0,0:09:12.76,0:09:14.13,Default,,0000,0000,0000,,– Rock-paper… 					– Rock-paper…
+Dialogue: 0,0:09:14.50,0:09:15.50,Default,,0000,0000,0000,,Scissors!
+Dialogue: 0,0:09:16.13,0:09:19.60,Default,,0000,0000,0000,,After the commercial,\Nwe’ll present third to first place.
+Dialogue: 0,0:09:19.74,0:09:20.74,Default,,0000,0000,0000,,Don’t miss it.
+Dialogue: 0,0:09:24.98,0:09:28.18,Default,,0000,0000,0000,,Now at last for the presentation\Nof third to first place.
+Dialogue: 0,0:09:28.58,0:09:29.81,Default,,0000,0000,0000,,First up is third place!
+Dialogue: 0,0:09:30.58,0:09:33.75,Default,,0000,0000,0000,,Now then, which battle has worked\Nits way up to the higher ranks?
+Dialogue: 0,0:09:36.55,0:09:39.66,Default,,0000,0000,0000,,Here we go! The appearance of\Nthe famous team of Kiba and Akamaru!
+Dialogue: 0,0:09:39.72,0:09:40.76,Default,,0000,0000,0000,,– Heh! 					– Damn it…
+Dialogue: 0,0:09:40.76,0:09:42.09,Default,,0000,0000,0000,,– It’s the appearance of\N– Is it all over…?
+Dialogue: 0,0:09:42.13,0:09:44.06,Default,,0000,0000,0000,,a team that’s just loud.
+Dialogue: 0,0:09:44.76,0:09:47.70,Default,,0000,0000,0000,,What?!\NYou’re saying to do that?!
+Dialogue: 0,0:09:49.13,0:09:50.13,Default,,0000,0000,0000,,No, Akamaru!
+Dialogue: 0,0:09:50.80,0:09:53.64,Default,,0000,0000,0000,,It’s too dangerous to do that\Nwithout any comrades around!
+Dialogue: 0,0:09:54.31,0:09:55.34,Default,,0000,0000,0000,,You understand that, don’t you?!
+Dialogue: 0,0:09:56.54,0:09:59.41,Default,,0000,0000,0000,,We’ll die like dogs here if we miss…
+Dialogue: 0,0:10:00.64,0:10:01.65,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:10:04.92,0:10:05.92,Default,,0000,0000,0000,,Akamaru…
+Dialogue: 0,0:10:13.72,0:10:17.63,Default,,0000,0000,0000,,To think I’d get bitten by you.\NI’m a pathetic owner…
+Dialogue: 0,0:10:19.76,0:10:24.17,Default,,0000,0000,0000,,Okay, Akamaru…\NAs you say, we just have to do that…
+Dialogue: 0,0:10:26.47,0:10:27.47,Default,,0000,0000,0000,,Wolf Fang Over Fang!
+Dialogue: 0,0:10:40.72,0:10:41.72,Default,,0000,0000,0000,,Now, Akamaru!
+Dialogue: 0,0:10:42.69,0:10:43.69,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:44.15,0:10:45.96,Default,,0000,0000,0000,,Show him the fruits of our training!
+Dialogue: 0,0:10:46.52,0:10:48.06,Default,,0000,0000,0000,,Dynamic Marking!
+Dialogue: 0,0:10:49.53,0:10:51.13,Default,,0000,0000,0000,,That’s a dirty trick!
+Dialogue: 0,0:10:52.40,0:10:53.76,Default,,0000,0000,0000,,Now we’re ready!
+Dialogue: 0,0:10:55.83,0:10:58.04,Default,,0000,0000,0000,,Inuzuka Style! Man-Beast\NTransformation Combo!
+Dialogue: 0,0:11:09.71,0:11:10.85,Default,,0000,0000,0000,,Two-Headed Wolf!
+Dialogue: 0,0:11:13.75,0:11:14.75,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:11:20.66,0:11:22.46,Default,,0000,0000,0000,,Sakon, what’re you doing! To the right!
+Dialogue: 0,0:11:22.76,0:11:23.76,Default,,0000,0000,0000,,Uh oh…!
+Dialogue: 0,0:11:24.19,0:11:25.33,Default,,0000,0000,0000,,Wolf Fang Over Fang!
+Dialogue: 0,0:11:27.77,0:11:29.43,Default,,0000,0000,0000,,Though he sometimes bites\Nhis owner’s hand,
+Dialogue: 0,0:11:29.47,0:11:30.47,Default,,0000,0000,0000,,he presses for a decision.
+Dialogue: 0,0:11:30.87,0:11:34.74,Default,,0000,0000,0000,,It seems Akamaru’s stock shot up\Nin the Leaf after this.
+Dialogue: 0,0:11:34.87,0:11:36.74,Default,,0000,0000,0000,,What a man!
+Dialogue: 0,0:11:36.74,0:11:42.75,Default,,0000,0000,0000,,Man, my butt! Just a puppy\Nwhose evil eyes got worse!
+Dialogue: 0,0:11:43.38,0:11:45.55,Default,,0000,0000,0000,,Who has evil eyes?!
+Dialogue: 0,0:11:45.75,0:11:47.52,Default,,0000,0000,0000,,Yikes, Kiba!
+Dialogue: 0,0:11:47.55,0:11:50.85,Default,,0000,0000,0000,,H-How long were you there…?
+Dialogue: 0,0:11:51.39,0:11:52.42,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:11:52.56,0:11:54.29,Default,,0000,0000,0000,,Here I was invited as a guest
+Dialogue: 0,0:11:54.32,0:11:55.79,Default,,0000,0000,0000,,with my battle\Nhaving been ranked high.
+Dialogue: 0,0:11:56.53,0:11:57.93,Default,,0000,0000,0000,,What’s the deal of\Nfinishing in third place
+Dialogue: 0,0:11:57.96,0:11:59.76,Default,,0000,0000,0000,,on top of being told mean things?!
+Dialogue: 0,0:12:02.00,0:12:04.77,Default,,0000,0000,0000,,It’s Kiba and Akamaru\Nwho finished in third.
+Dialogue: 0,0:12:05.37,0:12:06.50,Default,,0000,0000,0000,,Please face the camera
+Dialogue: 0,0:12:06.54,0:12:09.61,Default,,0000,0000,0000,,and say a few words to everyone\Nin their living rooms.
+Dialogue: 0,0:12:10.11,0:12:13.81,Default,,0000,0000,0000,,Oh, umm, thanks for your support.
+Dialogue: 0,0:12:13.84,0:12:16.08,Default,,0000,0000,0000,,Well, we came in third this time.
+Dialogue: 0,0:12:16.85,0:12:20.78,Default,,0000,0000,0000,,But we’ll kick the butts of some enemies,
+Dialogue: 0,0:12:20.85,0:12:23.39,Default,,0000,0000,0000,,so please look forward\Nto our success!
+Dialogue: 0,0:12:24.79,0:12:26.89,Default,,0000,0000,0000,,Considering you’re talking\Nall big or whatever,
+Dialogue: 0,0:12:26.92,0:12:29.66,Default,,0000,0000,0000,,didn’t you have a rough time\Nwith it after this?
+Dialogue: 0,0:12:29.79,0:12:31.83,Default,,0000,0000,0000,,The best is yet to come,\NI tell you!
+Dialogue: 0,0:12:32.43,0:12:35.77,Default,,0000,0000,0000,,That’s the last straw.\NGet him, Akamaru!
+Dialogue: 0,0:12:40.77,0:12:43.04,Default,,0000,0000,0000,,Now for the presentation\Nof second place.
+Dialogue: 0,0:12:51.95,0:12:54.05,Default,,0000,0000,0000,,He’s like a completely different person…
+Dialogue: 0,0:12:54.89,0:12:56.75,Default,,0000,0000,0000,,His Chakra activity is overwhelming…
+Dialogue: 0,0:12:58.76,0:13:00.66,Default,,0000,0000,0000,,And those markings…
+Dialogue: 0,0:13:08.77,0:13:09.97,Default,,0000,0000,0000,,The movements earlier…
+Dialogue: 0,0:13:10.73,0:13:12.74,Default,,0000,0000,0000,,He dodged the attack from behind
+Dialogue: 0,0:13:12.74,0:13:14.97,Default,,0000,0000,0000,,and saw me hiding in the shadows…
+Dialogue: 0,0:13:16.74,0:13:21.08,Default,,0000,0000,0000,,In other words, he’s combining\Nwide vision and x-ray vision.
+Dialogue: 0,0:13:22.35,0:13:24.72,Default,,0000,0000,0000,,And in addition, that Jutsu…
+Dialogue: 0,0:13:25.75,0:13:26.75,Default,,0000,0000,0000,,Then…
+Dialogue: 0,0:13:31.26,0:13:32.66,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:13:40.76,0:13:46.44,Default,,0000,0000,0000,,I’ll find a perfect…\Nway to attack that power of yours.
+Dialogue: 0,0:13:53.01,0:13:56.75,Default,,0000,0000,0000,,If he defends physical attacks\Nwith rotation
+Dialogue: 0,0:13:56.75,0:13:59.52,Default,,0000,0000,0000,,and a large emission of Chakra…
+Dialogue: 0,0:13:59.55,0:14:02.72,Default,,0000,0000,0000,,then I should stop that Chakra rotation!
+Dialogue: 0,0:14:05.06,0:14:06.79,Default,,0000,0000,0000,,– This is the second place battle?\N– Scatter!
+Dialogue: 0,0:14:06.86,0:14:10.23,Default,,0000,0000,0000,,That’s right! It’s a battle of brains while\Nassessing the opponent’s weak point!
+Dialogue: 0,0:14:10.43,0:14:11.96,Default,,0000,0000,0000,,Hmm. But as for me…
+Dialogue: 0,0:14:12.26,0:14:14.87,Default,,0000,0000,0000,,I’m not a big fan of sluggish battles!
+Dialogue: 0,0:14:14.93,0:14:16.83,Default,,0000,0000,0000,,– Oh, why? 					– Hmm.
+Dialogue: 0,0:14:16.87,0:14:18.97,Default,,0000,0000,0000,,How can I put it?\Nlf you’re talking about battle
+Dialogue: 0,0:14:19.00,0:14:22.97,Default,,0000,0000,0000,,I want to see a collision of fist\Non fist, and body on body.
+Dialogue: 0,0:14:23.01,0:14:26.01,Default,,0000,0000,0000,,Oh, but a Ninja isn’t just\Nabout Taijutsu.
+Dialogue: 0,0:14:26.04,0:14:28.95,Default,,0000,0000,0000,,Oh. That’s being rude to Bushy Brow.
+Dialogue: 0,0:14:29.01,0:14:30.01,Default,,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:14:30.05,0:14:31.92,Default,,0000,0000,0000,,I mean, yeah, I want to see
+Dialogue: 0,0:14:31.95,0:14:34.08,Default,,0000,0000,0000,,something fiery, like Bushy Brow!
+Dialogue: 0,0:14:34.62,0:14:37.75,Default,,0000,0000,0000,,There just isn’t anything fiery\Nin Neji’s battles.
+Dialogue: 0,0:14:38.16,0:14:39.16,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:14:39.76,0:14:41.76,Default,,0000,0000,0000,,He’s argumentative or something.
+Dialogue: 0,0:14:41.76,0:14:43.23,Default,,0000,0000,0000,,Unexciting or something.
+Dialogue: 0,0:14:43.26,0:14:46.76,Default,,0000,0000,0000,,I’d like him to just take on the enemy\Nwithout regard to appearances!
+Dialogue: 0,0:14:47.13,0:14:51.54,Default,,0000,0000,0000,,Heh! Missions with you are\Na chore because you think like that.
+Dialogue: 0,0:14:51.60,0:14:53.54,Default,,0000,0000,0000,,Yikes, Neji!
+Dialogue: 0,0:14:53.74,0:14:58.18,Default,,0000,0000,0000,,Now then, a few words from\Nthe second place Neji.
+Dialogue: 0,0:14:59.04,0:15:00.74,Default,,0000,0000,0000,,Humph! How silly.
+Dialogue: 0,0:15:01.45,0:15:04.75,Default,,0000,0000,0000,,You’re free to evaluate my battles,\Nbut it’s unthinkable
+Dialogue: 0,0:15:04.75,0:15:07.75,Default,,0000,0000,0000,,for me to be forced to appear\Nin a place like this.
+Dialogue: 0,0:15:08.45,0:15:11.92,Default,,0000,0000,0000,,Heh! You’re sure making\Nan exhibition of yourself, considering!
+Dialogue: 0,0:15:12.12,0:15:15.29,Default,,0000,0000,0000,,Oh! Could it be you’re after\Nan appearance fee?!
+Dialogue: 0,0:15:16.76,0:15:17.83,Default,,0000,0000,0000,,Too bad.
+Dialogue: 0,0:15:18.06,0:15:21.10,Default,,0000,0000,0000,,This is a program for everyone\Nin their living rooms,
+Dialogue: 0,0:15:21.13,0:15:23.43,Default,,0000,0000,0000,,so we asked you to do this for free!
+Dialogue: 0,0:15:24.64,0:15:28.17,Default,,0000,0000,0000,,No problem.\NI asked the Fifth Hokage
+Dialogue: 0,0:15:28.21,0:15:29.74,Default,,0000,0000,0000,,and she’s treating this appearance\Nas a mission.
+Dialogue: 0,0:15:30.51,0:15:32.74,Default,,0000,0000,0000,,Since it’s a mission,\NI have no choice but to appear.
+Dialogue: 0,0:15:32.98,0:15:35.35,Default,,0000,0000,0000,,And of course, a mission fee\Nwill be incurred.
+Dialogue: 0,0:15:35.75,0:15:38.75,Default,,0000,0000,0000,,Whoa, always the realist.
+Dialogue: 0,0:15:39.85,0:15:42.39,Default,,0000,0000,0000,,Neji, it’s not fair that\Nyou get paid for this!
+Dialogue: 0,0:15:43.12,0:15:46.46,Default,,0000,0000,0000,,My brain is built differently than yours!
+Dialogue: 0,0:15:49.43,0:15:50.43,Default,,0000,0000,0000,,Gentle Fist!
+Dialogue: 0,0:15:54.77,0:15:57.20,Default,,0000,0000,0000,,It seems the ranking board is busted,
+Dialogue: 0,0:15:57.27,0:15:59.60,Default,,0000,0000,0000,,so we’ll go right on ahead\Nand present first place.
+Dialogue: 0,0:15:59.94,0:16:02.67,Default,,0000,0000,0000,,Which battle has finished in first?
+Dialogue: 0,0:16:07.81,0:16:08.81,Default,,0000,0000,0000,,Chidori!
+Dialogue: 0,0:16:09.38,0:16:11.85,Default,,0000,0000,0000,,Oh ho! Sure enough, it’s pointless
+Dialogue: 0,0:16:11.88,0:16:15.25,Default,,0000,0000,0000,,if the number one battle\Nisn’t one of my battles!
+Dialogue: 0,0:16:15.29,0:16:17.35,Default,,0000,0000,0000,,That’s right!\NThis is the battle that
+Dialogue: 0,0:16:17.39,0:16:19.22,Default,,0000,0000,0000,,anyone would\Nacknowledge as number one.
+Dialogue: 0,0:16:20.76,0:16:21.83,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:16:50.39,0:16:51.39,Default,,0000,0000,0000,,– Rasengan! 					– Chidori!
+Dialogue: 0,0:17:33.30,0:17:36.10,Default,,0000,0000,0000,,And so, did you all guess right?
+Dialogue: 0,0:17:36.60,0:17:40.34,Default,,0000,0000,0000,,The glorious best battle has been\Ndetermined to be “Sasuke’s Battle!”
+Dialogue: 0,0:17:40.74,0:17:45.14,Default,,0000,0000,0000,,Hey, hey, Sakura.\Nlt’s the “Battle in the Final Valley”!
+Dialogue: 0,0:17:45.58,0:17:47.28,Default,,0000,0000,0000,,FIRST PLACE\NNARUTO VS. SASUKE\N		~FINAL VALLEY~\N		What? Was it?
+Dialogue: 0,0:17:48.15,0:17:49.81,Default,,0000,0000,0000,,Forget it.
+Dialogue: 0,0:17:50.38,0:17:53.55,Default,,0000,0000,0000,,Well, let’s collect ourselves\Nand check out
+Dialogue: 0,0:17:53.58,0:17:58.76,Default,,0000,0000,0000,,some special footage of myself,\Nwho came in a glorious first place!
+Dialogue: 0,0:17:58.76,0:18:00.52,Default,,0000,0000,0000,,Y-You…idiot!
+Dialogue: 0,0:18:02.29,0:18:05.76,Default,,0000,0000,0000,,Hold it!\NWhat’s up with this recording?!
+Dialogue: 0,0:18:05.76,0:18:08.30,Default,,0000,0000,0000,,– This is different from what I prepared!\N– What’re you doing?!
+Dialogue: 0,0:18:08.33,0:18:10.77,Default,,0000,0000,0000,,– No, no, don’t watch!\N– Don’t be peeping!
+Dialogue: 0,0:18:10.77,0:18:13.74,Default,,0000,0000,0000,,I demand a do-over as the hero!
+Dialogue: 0,0:18:13.74,0:18:15.81,Default,,0000,0000,0000,,Someone not involved is\Nmaking a ruckus.
+Dialogue: 0,0:18:17.31,0:18:18.74,Default,,0000,0000,0000,,And now, thanks for waiting!
+Dialogue: 0,0:18:19.14,0:18:20.81,Default,,0000,0000,0000,,Now for the appearance of\Na special guest.
+Dialogue: 0,0:18:21.41,0:18:25.38,Default,,0000,0000,0000,,Let’s go live to the site.\NMaster Jiraiya!
+Dialogue: 0,0:18:25.42,0:18:26.42,Default,,0000,0000,0000,,What? What?
+Dialogue: 0,0:18:26.88,0:18:28.59,Default,,0000,0000,0000,,Master Jiraiya, can you hear me?
+Dialogue: 0,0:18:28.79,0:18:31.15,Default,,0000,0000,0000,,Yes… Loud and clear.
+Dialogue: 0,0:18:31.22,0:18:32.42,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:32.46,0:18:35.39,Default,,0000,0000,0000,,Master Jiraiya,\Nwhere are you right now?
+Dialogue: 0,0:18:35.63,0:18:38.63,Default,,0000,0000,0000,,Mm, I’m in kind of a dubious place.
+Dialogue: 0,0:18:38.76,0:18:41.67,Default,,0000,0000,0000,,I hope you’ll excuse me from\Ndivulging my location.
+Dialogue: 0,0:18:42.10,0:18:43.50,Default,,0000,0000,0000,,Well, if I have to say something,
+Dialogue: 0,0:18:43.57,0:18:46.20,Default,,0000,0000,0000,,I’d say I’m in a certain person’s\Nhideout, I guess.
+Dialogue: 0,0:18:46.74,0:18:50.74,Default,,0000,0000,0000,,Hey! Pervy Sage!\NWhat’re you doing there?!
+Dialogue: 0,0:18:50.77,0:18:53.74,Default,,0000,0000,0000,,What happened to you\Nwatching my training?!
+Dialogue: 0,0:18:53.74,0:18:56.18,Default,,0000,0000,0000,,Now, now.\NToday’s a special program,
+Dialogue: 0,0:18:56.21,0:18:58.52,Default,,0000,0000,0000,,so don’t be such a stick-in-the-mud.
+Dialogue: 0,0:18:58.62,0:19:01.75,Default,,0000,0000,0000,,More importantly,\NI’ve met up with someone special…
+Dialogue: 0,0:19:02.05,0:19:03.92,Default,,0000,0000,0000,,None other than Orochimaru.
+Dialogue: 0,0:19:05.02,0:19:06.02,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:06.76,0:19:09.56,Default,,0000,0000,0000,,Sakura…\NWhat the hell is this…?!
+Dialogue: 0,0:19:10.76,0:19:13.13,Default,,0000,0000,0000,,It sure has been a long time,\NOrochimaru!
+Dialogue: 0,0:19:13.76,0:19:15.20,Default,,0000,0000,0000,,Oh, same here…
+Dialogue: 0,0:19:15.77,0:19:18.74,Default,,0000,0000,0000,,Here you could have invited me\Nto the studio.
+Dialogue: 0,0:19:19.37,0:19:21.84,Default,,0000,0000,0000,,Who would invite the likes of you?!
+Dialogue: 0,0:19:22.74,0:19:28.75,Default,,0000,0000,0000,,Well, I have been busy collecting Jutsu\Nand conducting experiments.
+Dialogue: 0,0:19:28.95,0:19:34.42,Default,,0000,0000,0000,,And more importantly,\NI need him to get stronger quickly, so.
+Dialogue: 0,0:19:35.19,0:19:38.26,Default,,0000,0000,0000,,– If he’s there, bring him out!\N– What…?!
+Dialogue: 0,0:19:38.66,0:19:45.26,Default,,0000,0000,0000,,Actually, I tried talking him into it\Nmany times saying today’s special…
+Dialogue: 0,0:19:45.90,0:19:49.77,Default,,0000,0000,0000,,But in the end,\Nhe didn’t give me a good answer.
+Dialogue: 0,0:19:49.83,0:19:51.30,Default,,0000,0000,0000,,– I see… 					– Hey.
+Dialogue: 0,0:19:51.33,0:19:52.34,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:52.37,0:19:54.17,Default,,0000,0000,0000,,Are you going to go\Non and on forever?
+Dialogue: 0,0:19:54.74,0:19:58.71,Default,,0000,0000,0000,,If you’ve got that kind of time,\Nthen continue the training, Orochimaru.
+Dialogue: 0,0:19:59.08,0:20:00.74,Default,,0000,0000,0000,,S-Sasuke…
+Dialogue: 0,0:20:01.41,0:20:04.05,Default,,0000,0000,0000,,Sasuke…\Nls that you, Sasuke?!
+Dialogue: 0,0:20:04.88,0:20:08.92,Default,,0000,0000,0000,,I’ll be going on ahead to the dojo.\NGet a move on.
+Dialogue: 0,0:20:09.55,0:20:10.62,Default,,0000,0000,0000,,Oh, wait…!
+Dialogue: 0,0:20:10.75,0:20:14.52,Default,,0000,0000,0000,,Oh, it seems I’ve angered Sasuke.
+Dialogue: 0,0:20:14.79,0:20:17.39,Default,,0000,0000,0000,,I shall also be leaving now.
+Dialogue: 0,0:20:17.76,0:20:20.76,Default,,0000,0000,0000,,Wait! Orochimaru!\NPut Sasuke on one more time…
+Dialogue: 0,0:20:20.76,0:20:23.97,Default,,0000,0000,0000,,Sakura…\NHe can’t hear you anymore.
+Dialogue: 0,0:20:24.70,0:20:25.74,Default,,0000,0000,0000,,I know…
+Dialogue: 0,0:20:27.64,0:20:30.37,Default,,0000,0000,0000,,– Sakura… 					– Yeah. Right!
+Dialogue: 0,0:20:30.74,0:20:31.74,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:20:31.98,0:20:34.01,Default,,0000,0000,0000,,Now then,\Nit’s about time to say goodbye.
+Dialogue: 0,0:20:34.58,0:20:36.81,Default,,0000,0000,0000,,Did you all enjoy our special:
+Dialogue: 0,0:20:36.85,0:20:39.88,Default,,0000,0000,0000,,“The Special Presentation Today!"
+Dialogue: 0,0:20:39.92,0:20:42.75,Default,,0000,0000,0000,,The Top 5 Famous\NSweat and Tears Ninja Battles!
+Dialogue: 0,0:20:42.75,0:20:45.09,Default,,0000,0000,0000,,There Are Also Fun Extras”?
+Dialogue: 0,0:20:45.39,0:20:48.39,Default,,0000,0000,0000,,Hey, what’re you wrapping things\Nup on your own for?
+Dialogue: 0,0:20:48.59,0:20:51.06,Default,,0000,0000,0000,,What about my do-over\Nspecial footage?
+Dialogue: 0,0:20:51.29,0:20:52.76,Default,,0000,0000,0000,,You’re annoying.
+Dialogue: 0,0:20:52.76,0:20:54.97,Default,,0000,0000,0000,,We don’t have any time left,\Nso wrap things up now!
+Dialogue: 0,0:20:55.33,0:20:58.74,Default,,0000,0000,0000,,What?! Fine!
+Dialogue: 0,0:20:58.97,0:21:02.74,Default,,0000,0000,0000,,Unfortunately, my special footage will\Nhave to wait for the next time.
+Dialogue: 0,0:21:02.77,0:21:05.08,Default,,0000,0000,0000,,But everyone in the village,\Nincluding me,
+Dialogue: 0,0:21:05.14,0:21:07.84,Default,,0000,0000,0000,,will keep showing\Nawesome fights one after another!
+Dialogue: 0,0:21:07.88,0:21:10.05,Default,,0000,0000,0000,,Everyone, please continue to support us…
+Dialogue: 0,0:21:10.08,0:21:12.05,Default,,0000,0000,0000,,– and keep watching “Naruto”!\N– and keep watching “Naruto”!
+Dialogue: 0,0:21:12.55,0:21:15.22,Default,,0000,0000,0000,,SEE YOU LATER\N		– See you later!\N		– See you later!
+Dialogue: 0,0:21:40.81,0:21:43.31,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:43.35,0:21:45.75,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:45.75,0:21:50.29,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:51.76,0:21:53.46,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:53.86,0:21:58.19,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:21:59.76,0:22:04.80,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:04.83,0:22:11.51,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:11.54,0:22:16.55,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:16.58,0:22:21.75,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:50.21,0:22:53.08,Default,,0000,0000,0000,,I never thought that\Nyou were so stubborn!
+Dialogue: 0,0:22:53.12,0:22:55.12,Default,,0000,0000,0000,,Even if you make a fuss,\Nnothing's going to change.
+Dialogue: 0,0:22:55.19,0:22:57.75,Default,,0000,0000,0000,,But, at this rate,\Nshe's going to abandon us.
+Dialogue: 0,0:22:57.75,0:22:59.22,Default,,0000,0000,0000,,It's her choice.\NThere's nothing we can do.
+Dialogue: 0,0:22:59.26,0:23:01.26,Default,,0000,0000,0000,,Hey, Hinata!\NWhat do you think?
+Dialogue: 0,0:23:01.29,0:23:03.09,Default,,0000,0000,0000,,We still don't know\Nwhat her situation is…
+Dialogue: 0,0:23:03.13,0:23:04.63,Default,,0000,0000,0000,,Does that mean that you're with Shino?!
+Dialogue: 0,0:23:04.66,0:23:05.66,Default,,0000,0000,0000,,It's not like that!
+Dialogue: 0,0:23:05.70,0:23:06.76,Default,,0000,0000,0000,,Hey, what are you fighting about?
+Dialogue: 0,0:23:07.00,0:23:08.77,Default,,0000,0000,0000,,Naruto, Sensei is…
+Dialogue: 0,0:23:09.20,0:23:10.83,Default,,0000,0000,0000,,Kurenai Sensei is going to quit!
+Dialogue: 0,0:23:11.53,0:23:14.84,Default,,0000,0000,0000,,Next time: "Kurenai's Decision:\NSquad 8 Left Behind”

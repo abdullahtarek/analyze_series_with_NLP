@@ -1,0 +1,264 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.47,0:00:09.64,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:00:09.80,0:00:17.89,Default,,0000,0000,0000,,Even if you get lost, let’s start walking
+Dialogue: 0,0:00:18.14,0:00:20.18,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:00:23.14,0:00:26.89,Default,,0000,0000,0000,,Are you really happy
+Dialogue: 0,0:00:26.93,0:00:30.43,Default,,0000,0000,0000,,when you're always meeting\Nto someone's expectations?
+Dialogue: 0,0:00:30.64,0:00:34.14,Default,,0000,0000,0000,,Even if you change to\Nwho you really wanna be
+Dialogue: 0,0:00:34.55,0:00:37.84,Default,,0000,0000,0000,,Will you always have a great smile?
+Dialogue: 0,0:00:37.85,0:00:45.43,Default,,0000,0000,0000,,Dreaming of only “the beginning,”\NI wake up
+Dialogue: 0,0:00:45.47,0:00:54.68,Default,,0000,0000,0000,,and someday, I'll live on my own.
+Dialogue: 0,0:00:54.72,0:01:02.84,Default,,0000,0000,0000,,Yes, precious things are never in shape
+Dialogue: 0,0:01:02.89,0:01:09.84,Default,,0000,0000,0000,,You never know what it is\Nwhen you get it or lose it
+Dialogue: 0,0:01:09.84,0:01:17.89,Default,,0000,0000,0000,,Yeah, turn your sadness into kindness,\Nyour uniqueness into strength
+Dialogue: 0,0:01:18.22,0:01:26.84,Default,,0000,0000,0000,,Even if you get lost,\Nlet's start walking
+Dialogue: 0,0:01:26.84,0:01:28.84,Default,,0000,0000,0000,,One more time
+Dialogue: 0,0:01:46.93,0:01:50.84,Default,,0000,0000,0000,,Sasuke’s movements have stopped!\NThere’s still quite a bit of distance, though…
+Dialogue: 0,0:01:52.93,0:01:55.43,Default,,0000,0000,0000,,So Sasuke caught up to him, huh?
+Dialogue: 0,0:01:56.39,0:01:57.22,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:01:57.76,0:01:59.84,Default,,0000,0000,0000,,Huh? This smell is…?!
+Dialogue: 0,0:02:02.26,0:02:04.47,Default,,0000,0000,0000,,W-What’s wrong?!
+Dialogue: 0,0:02:04.84,0:02:06.72,Default,,0000,0000,0000,,Did something happen to Sasuke?!
+Dialogue: 0,0:02:07.84,0:02:09.84,Default,,0000,0000,0000,,I didn't notice until now.
+Dialogue: 0,0:02:11.10,0:02:12.26,Default,,0000,0000,0000,,You…
+Dialogue: 0,0:02:12.93,0:02:15.64,Default,,0000,0000,0000,,use the same shampoo as me.
+Dialogue: 0,0:02:18.84,0:02:22.93,Default,,0000,0000,0000,,This floral green fragrance…\NNo doubt!
+Dialogue: 0,0:02:23.05,0:02:24.97,Default,,0000,0000,0000,,H-Hey now…!
+Dialogue: 0,0:02:25.43,0:02:28.84,Default,,0000,0000,0000,,Well…my coat’s shinier.
+Dialogue: 0,0:02:28.84,0:02:32.47,Default,,0000,0000,0000,,Don’t be saying stupid things\Nat such an important time!
+Dialogue: 0,0:02:32.72,0:02:34.84,Default,,0000,0000,0000,,– I'm the same as a dog?\N– Sorry, sorry…
+Dialogue: 0,0:02:35.72,0:02:38.43,Default,,0000,0000,0000,,Same as a dog… Same as a dog…
+Dialogue: 0,0:02:38.60,0:02:40.60,Default,,0000,0000,0000,,– Hey Sakura?\N– Same as a dog…
+Dialogue: 0,0:02:40.93,0:02:42.22,Default,,0000,0000,0000,,Same as a dog…
+Dialogue: 0,0:02:43.14,0:02:46.18,Default,,0000,0000,0000,,Same as a dog… Same as a dog…
+Dialogue: 0,0:02:46.85,0:02:49.76,Default,,0000,0000,0000,,Hey Sakura…! 					Wait!
+Dialogue: 0,0:02:49.89,0:02:52.84,Default,,0000,0000,0000,,Oh! Hey! Don’t go ahead of me!
+Dialogue: 0,0:02:53.55,0:02:58.55,Default,,0000,0000,0000,,A Mistake from the Past:\NA Face Revealed!
+Dialogue: 0,0:03:01.68,0:03:02.43,Default,,0000,0000,0000,,Dang it!
+Dialogue: 0,0:03:03.84,0:03:05.84,Default,,0000,0000,0000,,Sasuke Uchiha!
+Dialogue: 0,0:03:08.10,0:03:10.10,Default,,0000,0000,0000,,I won’t let you get away now!
+Dialogue: 0,0:03:11.93,0:03:15.97,Default,,0000,0000,0000,,Jeez, this kid of all people…\Nat a time when Gaara is like this.
+Dialogue: 0,0:03:16.60,0:03:18.30,Default,,0000,0000,0000,,Man, this is bad.
+Dialogue: 0,0:03:21.72,0:03:23.47,Default,,0000,0000,0000,,Heh! That’s fine.
+Dialogue: 0,0:03:24.89,0:03:27.39,Default,,0000,0000,0000,,Kankuro! Take Gaara and go quickly!
+Dialogue: 0,0:03:32.43,0:03:33.85,Default,,0000,0000,0000,,Leave him to me!
+Dialogue: 0,0:03:35.22,0:03:36.68,Default,,0000,0000,0000,,But Temari…!
+Dialogue: 0,0:03:37.05,0:03:39.60,Default,,0000,0000,0000,,No matter how you look at it,\Nyou can't beat him alone!
+Dialogue: 0,0:03:39.84,0:03:40.76,Default,,0000,0000,0000,,Leave me be!
+Dialogue: 0,0:03:40.84,0:03:42.97,Default,,0000,0000,0000,,This is an important mission for\Nthe Village Hidden in the Sand!
+Dialogue: 0,0:03:43.76,0:03:45.60,Default,,0000,0000,0000,,Make Gaara the first priority!
+Dialogue: 0,0:03:46.80,0:03:50.35,Default,,0000,0000,0000,,Besides, he’s quite my type of a guy…
+Dialogue: 0,0:03:51.84,0:03:52.97,Default,,0000,0000,0000,,Go! Kankuro!
+Dialogue: 0,0:03:55.10,0:03:55.93,Default,,0000,0000,0000,,I don’t think so!
+Dialogue: 0,0:03:58.68,0:03:59.68,Default,,0000,0000,0000,,I won’t let you get away!
+Dialogue: 0,0:04:03.51,0:04:04.22,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:04:10.89,0:04:12.80,Default,,0000,0000,0000,,My opponent is that Uchiha kid…
+Dialogue: 0,0:04:13.26,0:04:16.84,Default,,0000,0000,0000,,This is not good. I only have\Na bit of Chakra left.
+Dialogue: 0,0:04:20.84,0:04:24.84,Default,,0000,0000,0000,,I’ll stand even less of a chance\Nif he uses his Sharingan here…
+Dialogue: 0,0:04:25.51,0:04:29.10,Default,,0000,0000,0000,,But I need to get him to use\Na large amount of Chakra at any cost.
+Dialogue: 0,0:04:30.43,0:04:33.80,Default,,0000,0000,0000,,Shall I take care of her in\None hit with Chidori? Or…
+Dialogue: 0,0:04:34.93,0:04:36.72,Default,,0000,0000,0000,,In this situation, maybe I should…
+Dialogue: 0,0:04:50.93,0:04:55.47,Default,,0000,0000,0000,,As I thought… He’s trying to save\Nsome Chakra for Gaara.
+Dialogue: 0,0:04:57.01,0:04:58.84,Default,,0000,0000,0000,,Ninja Art: Wind Scythe Jutsu!
+Dialogue: 0,0:05:10.26,0:05:11.26,Default,,0000,0000,0000,,Don’t underestimate me!
+Dialogue: 0,0:05:11.51,0:05:13.01,Default,,0000,0000,0000,,Ninja Art: Sand Storm!
+Dialogue: 0,0:05:22.85,0:05:26.51,Default,,0000,0000,0000,,Darn! I have to do something about\Nthat bothersome fan…
+Dialogue: 0,0:05:27.89,0:05:32.01,Default,,0000,0000,0000,,Humph… I wonder how long\Nyou’ll last with such a way of fighting.
+Dialogue: 0,0:05:33.43,0:05:34.60,Default,,0000,0000,0000,,It can’t be helped…
+Dialogue: 0,0:05:39.93,0:05:42.22,Default,,0000,0000,0000,,It looks like you’ve finally\Ngotten serious, eh?
+Dialogue: 0,0:05:45.47,0:05:47.39,Default,,0000,0000,0000,,Fire Style: Phoenix Flower Jutsu!
+Dialogue: 0,0:05:48.51,0:05:49.93,Default,,0000,0000,0000,,That’s the stuff!
+Dialogue: 0,0:06:02.85,0:06:04.51,Default,,0000,0000,0000,,Aim with precision!
+Dialogue: 0,0:06:05.51,0:06:07.22,Default,,0000,0000,0000,,Fire Style: Fireball Jutsu!
+Dialogue: 0,0:06:10.84,0:06:11.80,Default,,0000,0000,0000,,Did I get her?
+Dialogue: 0,0:06:14.47,0:06:15.43,Default,,0000,0000,0000,,Wind Scythe Jutsu!
+Dialogue: 0,0:06:17.84,0:06:18.84,Default,,0000,0000,0000,,I’ve got you.
+Dialogue: 0,0:06:20.47,0:06:21.10,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:06:21.68,0:06:22.22,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:06:26.10,0:06:27.60,Default,,0000,0000,0000,,You’re mine!
+Dialogue: 0,0:06:34.84,0:06:35.60,Default,,0000,0000,0000,,Good!
+Dialogue: 0,0:06:37.85,0:06:40.10,Default,,0000,0000,0000,,W-What?! Substitution?!
+Dialogue: 0,0:06:43.84,0:06:44.76,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:06:59.47,0:07:03.18,Default,,0000,0000,0000,,Sorry, but I don’t have the time\Nto be dealing with you forever!
+Dialogue: 0,0:07:15.84,0:07:20.72,Default,,0000,0000,0000,,D-Dang it…\NG-Gaara, at any cost…
+Dialogue: 0,0:07:27.64,0:07:28.84,Default,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:07:29.43,0:07:31.05,Default,,0000,0000,0000,,What the heck is going on?
+Dialogue: 0,0:07:32.93,0:07:35.35,Default,,0000,0000,0000,,Who the heck is that youth?
+Dialogue: 0,0:07:37.51,0:07:39.55,Default,,0000,0000,0000,,Who on earth are you?!
+Dialogue: 0,0:07:40.84,0:07:44.05,Default,,0000,0000,0000,,Is it so sudden you can’t tell?
+Dialogue: 0,0:07:44.60,0:07:47.47,Default,,0000,0000,0000,,It’s me. Orochimaru.
+Dialogue: 0,0:07:49.60,0:07:54.43,Default,,0000,0000,0000,,It can’t be… Have you completed\Nthat Forbidden Jutsu?
+Dialogue: 0,0:07:59.97,0:08:04.10,Default,,0000,0000,0000,,I struggled for decades…\Nafter leaving the village.
+Dialogue: 0,0:08:04.84,0:08:07.84,Default,,0000,0000,0000,,You’re a truly frightening,\Ninhuman monster!
+Dialogue: 0,0:08:17.80,0:08:19.84,Default,,0000,0000,0000,,So, he did it, huh…?
+Dialogue: 0,0:08:20.84,0:08:23.97,Default,,0000,0000,0000,,The reason I couldn’t select you\Nto be the Fourth Hokage…
+Dialogue: 0,0:08:24.85,0:08:27.10,Default,,0000,0000,0000,,is because of that distorted\Nconsciousness.
+Dialogue: 0,0:09:11.14,0:09:13.68,Default,,0000,0000,0000,,I’ve finally been found out, eh…?
+Dialogue: 0,0:09:16.84,0:09:18.05,Default,,0000,0000,0000,,It’s too bad.
+Dialogue: 0,0:09:18.60,0:09:22.68,Default,,0000,0000,0000,,Orochimaru…\NWhat’s the meaning of this?!
+Dialogue: 0,0:09:22.93,0:09:26.84,Default,,0000,0000,0000,,Here I’d set that\Nmany booby traps…
+Dialogue: 0,0:09:28.18,0:09:30.01,Default,,0000,0000,0000,,so I was quite surprised.
+Dialogue: 0,0:09:30.80,0:09:33.76,Default,,0000,0000,0000,,But I see… So it was you.
+Dialogue: 0,0:09:34.26,0:09:37.84,Default,,0000,0000,0000,,Recently, there has been a steady stream\Nof people going missing from the village,
+Dialogue: 0,0:09:37.84,0:09:39.97,Default,,0000,0000,0000,,from Genin to Chunin,\Nand even Anbu Black Ops members.
+Dialogue: 0,0:09:40.64,0:09:44.84,Default,,0000,0000,0000,,There was also information that\Nyou had been acting strange…
+Dialogue: 0,0:09:45.84,0:09:46.84,Default,,0000,0000,0000,,Master Orochimaru…
+Dialogue: 0,0:09:46.97,0:09:49.39,Default,,0000,0000,0000,,Why did a Shinobi of your rank\Ndo such a thing?
+Dialogue: 0,0:09:51.22,0:09:53.26,Default,,0000,0000,0000,,Shall I kill you, too?
+Dialogue: 0,0:09:54.97,0:09:58.97,Default,,0000,0000,0000,,Orochimaru! Sure enough,\Nthis was your doing…?
+Dialogue: 0,0:09:59.84,0:10:02.68,Default,,0000,0000,0000,,Say it! What were you doing here?!
+Dialogue: 0,0:10:02.84,0:10:05.84,Default,,0000,0000,0000,,Alas! I’ve been found out.
+Dialogue: 0,0:10:05.85,0:10:08.60,Default,,0000,0000,0000,,There’s no point in acting cute…
+Dialogue: 0,0:10:09.93,0:10:13.14,Default,,0000,0000,0000,,It’s for Jutsu development!
+Dialogue: 0,0:10:13.84,0:10:15.47,Default,,0000,0000,0000,,Orochi… You!
+Dialogue: 0,0:10:15.64,0:10:17.43,Default,,0000,0000,0000,,For that purpose, you did this\Nto fellow Shinobi…?!
+Dialogue: 0,0:10:18.64,0:10:20.51,Default,,0000,0000,0000,,As I thought, Forbidden Jutsu, eh…
+Dialogue: 0,0:10:22.84,0:10:25.35,Default,,0000,0000,0000,,What is it that you want?
+Dialogue: 0,0:10:26.05,0:10:27.72,Default,,0000,0000,0000,,I want everything!
+Dialogue: 0,0:10:28.55,0:10:30.26,Default,,0000,0000,0000,,Everything, you say?!
+Dialogue: 0,0:10:37.55,0:10:42.97,Default,,0000,0000,0000,,Get every Jutsu and understand\Nall of the truths of this world!
+Dialogue: 0,0:10:43.84,0:10:46.84,Default,,0000,0000,0000,,The one who first mixed\Nblue and yellow
+Dialogue: 0,0:10:46.85,0:10:50.84,Default,,0000,0000,0000,,named the new color made\Nin that way, green.
+Dialogue: 0,0:10:51.80,0:10:54.76,Default,,0000,0000,0000,,I just want to do the same thing.
+Dialogue: 0,0:10:55.76,0:10:57.97,Default,,0000,0000,0000,,If blue is Chakra, yellow is a Sign…
+Dialogue: 0,0:10:58.18,0:11:00.14,Default,,0000,0000,0000,,and green is a Jutsu.
+Dialogue: 0,0:11:00.72,0:11:04.14,Default,,0000,0000,0000,,In the same way that there\Nare no limits to the kinds of colors,
+Dialogue: 0,0:11:04.35,0:11:07.84,Default,,0000,0000,0000,,there are probably also tens\Nof thousands of Jutsu in this world…
+Dialogue: 0,0:11:08.55,0:11:12.30,Default,,0000,0000,0000,,But in order to get any\Nand all of the Jutsu…
+Dialogue: 0,0:11:12.35,0:11:17.84,Default,,0000,0000,0000,,as well as the truths,\Na long time is necessary.
+Dialogue: 0,0:11:18.60,0:11:23.72,Default,,0000,0000,0000,,It’s the one who takes those\Nlong years to know everything,
+Dialogue: 0,0:11:23.84,0:11:26.89,Default,,0000,0000,0000,,who can suitably be called\Nthe ultimate individual.
+Dialogue: 0,0:11:28.89,0:11:32.84,Default,,0000,0000,0000,,For me, the life span of\Nthe body is too short.
+Dialogue: 0,0:11:33.39,0:11:34.64,Default,,0000,0000,0000,,Too fleeting.
+Dialogue: 0,0:11:35.97,0:11:41.84,Default,,0000,0000,0000,,Even if I were to be called the Hokage,\Nif I die, it all ends there.
+Dialogue: 0,0:11:42.30,0:11:47.01,Default,,0000,0000,0000,,Orochimaru… Could it be that\Nthe Jutsu you’re testing here is…
+Dialogue: 0,0:11:47.22,0:11:50.05,Default,,0000,0000,0000,,Right… It sure could be…
+Dialogue: 0,0:11:59.39,0:12:01.84,Default,,0000,0000,0000,,Immortality Jutsu!
+Dialogue: 0,0:12:11.84,0:12:13.51,Default,,0000,0000,0000,,Immortality Jutsu is a technique of
+Dialogue: 0,0:12:13.64,0:12:17.84,Default,,0000,0000,0000,,eternally pooling one’s own\Nspirits into this earth…
+Dialogue: 0,0:12:17.89,0:12:21.43,Default,,0000,0000,0000,,In other words,\Nit’s a Revival Jutsu where…
+Dialogue: 0,0:12:21.85,0:12:27.68,Default,,0000,0000,0000,,you find a new body, put your own spirit\Ninto that body and take it over.
+Dialogue: 0,0:12:31.84,0:12:35.43,Default,,0000,0000,0000,,I assumed my old form until now,
+Dialogue: 0,0:12:35.72,0:12:40.47,Default,,0000,0000,0000,,so that you would feel nostalgic\Nabout our reunion…
+Dialogue: 0,0:12:41.84,0:12:45.14,Default,,0000,0000,0000,,Aging is an empty thing, isn’t it?
+Dialogue: 0,0:12:45.84,0:12:49.30,Default,,0000,0000,0000,,I feel that keenly when I look at you.
+Dialogue: 0,0:12:50.84,0:12:52.84,Default,,0000,0000,0000,,You’ll die here…
+Dialogue: 0,0:12:53.18,0:12:58.64,Default,,0000,0000,0000,,and I’ll get a younger,\Nmore beautiful and stronger body…
+Dialogue: 0,0:12:59.39,0:13:03.47,Default,,0000,0000,0000,,The Leaf truly lets me have my fill of fun…
+Dialogue: 0,0:13:09.84,0:13:13.30,Default,,0000,0000,0000,,I get it…\NYou want Sasuke Uchiha, eh?!
+Dialogue: 0,0:13:22.64,0:13:27.22,Default,,0000,0000,0000,,Right… Exactly… Sasuke.
+Dialogue: 0,0:13:28.26,0:13:30.18,Default,,0000,0000,0000,,A Reviving Jutsu where\Nsomeone else’s body is stolen
+Dialogue: 0,0:13:30.68,0:13:33.80,Default,,0000,0000,0000,,and the spirit is immortalized, huh?
+Dialogue: 0,0:13:34.26,0:13:38.01,Default,,0000,0000,0000,,How many faces and bodies\Nhave you gone through?!
+Dialogue: 0,0:13:39.35,0:13:41.89,Default,,0000,0000,0000,,Two, I think…
+Dialogue: 0,0:13:42.35,0:13:47.80,Default,,0000,0000,0000,,I plan to take Sasuke over after\Nraising him a little more to my liking.
+Dialogue: 0,0:13:51.84,0:13:55.55,Default,,0000,0000,0000,,But after all, in order to make you regret\Nyour very own life…
+Dialogue: 0,0:13:55.60,0:13:58.84,Default,,0000,0000,0000,,and curse destiny as you die…
+Dialogue: 0,0:13:59.84,0:14:03.10,Default,,0000,0000,0000,,…perhaps this face is better?
+Dialogue: 0,0:14:05.84,0:14:06.97,Default,,0000,0000,0000,,You monster!
+Dialogue: 0,0:14:19.64,0:14:20.80,Default,,0000,0000,0000,,Lord Hokage!
+Dialogue: 0,0:14:25.84,0:14:31.85,Default,,0000,0000,0000,,Don’t lower your guard, Sensei!\NYou’re always too soft…
+Dialogue: 0,0:14:39.35,0:14:42.14,Default,,0000,0000,0000,,What’s been wrong with you?\NThis isn’t like you!
+Dialogue: 0,0:14:42.51,0:14:43.72,Default,,0000,0000,0000,,I’m sorry…
+Dialogue: 0,0:15:16.72,0:15:17.64,Default,,0000,0000,0000,,Eyes…
+Dialogue: 0,0:15:18.80,0:15:21.30,Default,,0000,0000,0000,,Eyes with malice and ambition\Nconcealed in them…
+Dialogue: 0,0:15:21.84,0:15:24.93,Default,,0000,0000,0000,,I had noticed that\Nyou had such tendencies.
+Dialogue: 0,0:15:26.51,0:15:29.26,Default,,0000,0000,0000,,I had noticed,\Nbut pretended not to know.
+Dialogue: 0,0:15:30.84,0:15:33.18,Default,,0000,0000,0000,,It was still during the war-torn era.
+Dialogue: 0,0:15:33.35,0:15:36.01,Default,,0000,0000,0000,,A genius who brimmed\Nover strongly with ability…
+Dialogue: 0,0:15:36.05,0:15:40.18,Default,,0000,0000,0000,,Nothing less than a phenomenon\Nthat comes once in several decades.
+Dialogue: 0,0:15:41.10,0:15:43.47,Default,,0000,0000,0000,,So I wanted to think that
+Dialogue: 0,0:15:43.51,0:15:47.80,Default,,0000,0000,0000,,you would carry on\Nmy own will and power.
+Dialogue: 0,0:15:49.05,0:15:50.97,Default,,0000,0000,0000,,That softness on my part…
+Dialogue: 0,0:15:51.80,0:15:55.55,Default,,0000,0000,0000,,created the conditions of that time\Nas well as now!
+Dialogue: 0,0:15:56.97,0:16:00.84,Default,,0000,0000,0000,,Are you going to…kill me?
+Dialogue: 0,0:16:03.84,0:16:05.76,Default,,0000,0000,0000,,Ninja Art: Summoning Jutsu!
+Dialogue: 0,0:16:10.14,0:16:15.97,Default,,0000,0000,0000,,I wonder if you can…\NSarutobi Sensei!
+Dialogue: 0,0:16:33.93,0:16:36.84,Default,,0000,0000,0000,,Kill him, Sarutobi!\NNow’s your only chance!
+Dialogue: 0,0:16:56.93,0:16:59.22,Default,,0000,0000,0000,,Sarutobi… You…
+Dialogue: 0,0:17:00.60,0:17:02.80,Default,,0000,0000,0000,,I couldn’t kill him…
+Dialogue: 0,0:17:05.39,0:17:09.64,Default,,0000,0000,0000,,I’ll bury you and correct\Nmy old mistakes, now!
+Dialogue: 0,0:17:13.01,0:17:14.01,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:17:16.85,0:17:19.26,Default,,0000,0000,0000,,It’s too late!
+Dialogue: 0,0:17:22.47,0:17:24.68,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:17:26.18,0:17:28.43,Default,,0000,0000,0000,,No way!\NWhy the Shadow Clone Jutsu?!
+Dialogue: 0,0:17:28.84,0:17:31.26,Default,,0000,0000,0000,,To disperse the little Chakra\Nhe has left…!
+Dialogue: 0,0:17:32.89,0:17:35.14,Default,,0000,0000,0000,,You’ve gotten old, after all…
+Dialogue: 0,0:17:35.80,0:17:39.39,Default,,0000,0000,0000,,To think you’d shorten your\Nown life span out of impatience…
+Dialogue: 0,0:17:40.22,0:17:41.84,Default,,0000,0000,0000,,D-Don’t tell me, you…?!
+Dialogue: 0,0:17:43.84,0:17:47.93,Default,,0000,0000,0000,,Mi, I, Hitsuji, U, Inu, Ne, Tori, Uma, Mi…
+Dialogue: 0,0:17:50.68,0:17:51.84,Default,,0000,0000,0000,,This order of Signs…
+Dialogue: 0,0:17:52.72,0:17:54.76,Default,,0000,0000,0000,,I knew it, Sarutobi,\Nyou are using that Jutsu!
+Dialogue: 0,0:18:10.84,0:18:14.64,Default,,0000,0000,0000,,So this is the Grim Reaper\Nthe Fourth Hokage was talking about,
+Dialogue: 0,0:18:14.68,0:18:18.93,Default,,0000,0000,0000,,which only the one who has signed\Na contract with this Jutsu can see, eh?!
+Dialogue: 0,0:18:19.76,0:18:23.97,Default,,0000,0000,0000,,Whatever you do now, it’s too late…\NI’ve won.
+Dialogue: 0,0:18:24.68,0:18:26.43,Default,,0000,0000,0000,,The Leaf Village will crumble!
+Dialogue: 0,0:18:26.84,0:18:29.72,Default,,0000,0000,0000,,The Village Hidden in the Leaves\Nis the home where I live.
+Dialogue: 0,0:18:29.84,0:18:35.84,Default,,0000,0000,0000,,The Hokage exists as the pillar\Nto protect that home!
+Dialogue: 0,0:18:36.47,0:18:40.10,Default,,0000,0000,0000,,The Hokage is the one who inherits\Nand is entrusted the will of the Leaf.
+Dialogue: 0,0:18:40.35,0:18:42.39,Default,,0000,0000,0000,,I won’t go easily!
+Dialogue: 0,0:18:44.30,0:18:46.72,Default,,0000,0000,0000,,Genjutsu! Infinite Darkness Jutsu!
+Dialogue: 0,0:18:54.68,0:18:56.26,Default,,0000,0000,0000,,Stupid nonsense…
+Dialogue: 0,0:18:56.85,0:18:59.47,Default,,0000,0000,0000,,You’re merely a temporal head
+Dialogue: 0,0:18:59.51,0:19:02.85,Default,,0000,0000,0000,,in the history of the organization\Ncalled the Leaf Village…
+Dialogue: 0,0:19:10.35,0:19:15.39,Default,,0000,0000,0000,,Even the face rock that is left\Nwill eventually weather and decay.
+Dialogue: 0,0:19:16.51,0:19:21.39,Default,,0000,0000,0000,,Humph… Leaf Village is\Nnot just an organization to me!
+Dialogue: 0,0:19:25.84,0:19:27.43,Default,,0000,0000,0000,,In the Leaf Village,
+Dialogue: 0,0:19:27.84,0:19:30.93,Default,,0000,0000,0000,,every year many Shinobi\Nare born and raised…
+Dialogue: 0,0:19:31.14,0:19:35.26,Default,,0000,0000,0000,,and live and fight…\Nand die to protect the village.
+Dialogue: 0,0:20:01.76,0:20:04.14,Default,,0000,0000,0000,,The people of this village…
+Dialogue: 0,0:20:04.18,0:20:06.84,Default,,0000,0000,0000,,even if they don’t have blood ties…
+Dialogue: 0,0:20:08.22,0:20:11.01,Default,,0000,0000,0000,,To me, they are precious…
+Dialogue: 0,0:20:12.64,0:20:13.84,Default,,0000,0000,0000,,precious…
+Dialogue: 0,0:20:14.97,0:20:16.64,Default,,0000,0000,0000,,family!
+Dialogue: 0,0:20:25.51,0:20:32.72,Default,,0000,0000,0000,,Then I shall smash you, the pillar,\Nand destroy the Leaf home.
+Dialogue: 0,0:20:33.35,0:20:39.39,Default,,0000,0000,0000,,Humph! Even if you kill me,\Nthat pillar will not break!
+Dialogue: 0,0:20:40.14,0:20:45.84,Default,,0000,0000,0000,,I am the man who carried on the Leaf Will\Nof the First and Second Hokages…
+Dialogue: 0,0:20:46.64,0:20:48.05,Default,,0000,0000,0000,,The Third Hokage!
+Dialogue: 0,0:20:49.85,0:20:54.10,Default,,0000,0000,0000,,No matter how much you target\Nthis Village Hidden in the Leaves…
+Dialogue: 0,0:20:54.39,0:20:59.85,Default,,0000,0000,0000,,A new Hokage will carry on my will,\Nshall become a pillar and defend the Leaf!
+Dialogue: 0,0:21:01.80,0:21:03.43,Default,,0000,0000,0000,,Right, Fourth Hokage?
+Dialogue: 0,0:21:04.76,0:21:10.05,Default,,0000,0000,0000,,Orochimaru! Now I will perform\Nan ace Jutsu that even you don’t know!
+Dialogue: 0,0:21:11.68,0:21:15.84,Default,,0000,0000,0000,,Behold! Sealing Jutsu!\NReaper Death Seal!
+Dialogue: 0,0:21:17.85,0:21:27.97,Default,,0000,0000,0000,,Everyone makes mistakes\Nlt’s nothing to be ashamed about
+Dialogue: 0,0:21:28.47,0:21:39.30,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:21:49.39,0:21:54.97,Default,,0000,0000,0000,,Yes, breathe in the air\NLift your face to the sky and jump
+Dialogue: 0,0:21:55.01,0:22:00.01,Default,,0000,0000,0000,,If it rains, take a break\NGo where the wind takes you
+Dialogue: 0,0:22:00.43,0:22:05.43,Default,,0000,0000,0000,,So many regrets\NDon’t let this scar be for naught
+Dialogue: 0,0:22:05.47,0:22:10.68,Default,,0000,0000,0000,,Let’s go carve the badges in our chest\NYes, it’s Show Time, life begins now.
+Dialogue: 0,0:22:10.72,0:22:20.84,Default,,0000,0000,0000,,Everyone makes mistakes\N It’s nothing to be ashamed about
+Dialogue: 0,0:22:21.05,0:22:31.64,Default,,0000,0000,0000,,Don’t let this scar be for naught\NWalk with a smile
+Dialogue: 0,0:22:31.68,0:22:42.18,Default,,0000,0000,0000,,Transform sadness into the wind\Nand continue to forge on
+Dialogue: 0,0:22:42.22,0:22:47.84,Default,,0000,0000,0000,,Forge on strong
+Dialogue: 0,0:22:59.51,0:23:01.84,Default,,0000,0000,0000,,Every year in this village,
+Dialogue: 0,0:23:01.84,0:23:05.84,Default,,0000,0000,0000,,Shinobi are born, nurtured,\Nand fight for the sake of the village.
+Dialogue: 0,0:23:06.05,0:23:10.43,Default,,0000,0000,0000,,They live to protect the village and\Nthings that are precious to them.
+Dialogue: 0,0:23:10.84,0:23:16.89,Default,,0000,0000,0000,,Even if they aren’t related to me,\Nthey are my precious family.
+Dialogue: 0,0:23:17.51,0:23:23.05,Default,,0000,0000,0000,,I won’t let you have your way\Nwith my family!
+Dialogue: 0,0:23:23.64,0:23:26.30,Default,,0000,0000,0000,,Next time: “Forbidden Secret Technique:\NReaper Death Seal!”

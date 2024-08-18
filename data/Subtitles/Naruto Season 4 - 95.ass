@@ -1,0 +1,231 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.80,0:00:12.38,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:00:12.42,0:00:15.88,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:00:15.92,0:00:19.50,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:00:19.55,0:00:23.09,Default,,0000,0000,0000,,Oli Oli Oli Oh! Just go my way
+Dialogue: 0,0:00:23.13,0:00:26.50,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:00:26.55,0:00:28.50,Default,,0000,0000,0000,,Right here right now (Burn)
+Dialogue: 0,0:00:30.21,0:00:33.17,Default,,0000,0000,0000,,Down a difficult road\Nfilled with endless struggles
+Dialogue: 0,0:00:33.21,0:00:37.00,Default,,0000,0000,0000,,Where do you think you are going\Nfollowing someone else's map?
+Dialogue: 0,0:00:37.46,0:00:44.30,Default,,0000,0000,0000,,An insightful crow comes along\Nto tear up the map
+Dialogue: 0,0:00:44.55,0:00:51.67,Default,,0000,0000,0000,,Now open your eyes and\Ntake a look at the truth (Yeah!)
+Dialogue: 0,0:00:51.79,0:00:57.96,Default,,0000,0000,0000,,There's nothing to lose,\Nso let's GO!!!
+Dialogue: 0,0:00:58.09,0:01:02.55,Default,,0000,0000,0000,,We are Fighting Dreamers aiming high
+Dialogue: 0,0:01:02.59,0:01:06.13,Default,,0000,0000,0000,,Fighting Dreamers\Ndon't care what people think about them
+Dialogue: 0,0:01:06.17,0:01:09.63,Default,,0000,0000,0000,,Fighting Dreamers\Nfollow what they believe
+Dialogue: 0,0:01:09.67,0:01:13.25,Default,,0000,0000,0000,,Oli Oli Oli Oh!\NJust go my way
+Dialogue: 0,0:01:13.30,0:01:16.84,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:16.88,0:01:20.55,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best!
+Dialogue: 0,0:01:20.59,0:01:23.96,Default,,0000,0000,0000,,Right here right now (Bang)\NHit it straight like a line drive!
+Dialogue: 0,0:01:24.17,0:01:28.34,Default,,0000,0000,0000,,Right here right now (Burn)\NWe're gonna do it and do our best! BANG!
+Dialogue: 0,0:01:43.25,0:01:47.25,Default,,0000,0000,0000,,As for me…\NI stand by my words.
+Dialogue: 0,0:01:49.71,0:01:52.88,Default,,0000,0000,0000,,That’s…my Way of Ninja!
+Dialogue: 0,0:01:53.71,0:01:57.13,Default,,0000,0000,0000,,If you die, there will be no dreams,\Nno nothing!
+Dialogue: 0,0:01:57.17,0:02:00.21,Default,,0000,0000,0000,,Just get out of the way!\NRun away!
+Dialogue: 0,0:02:00.79,0:02:02.79,Default,,0000,0000,0000,,Just like our wager,
+Dialogue: 0,0:02:03.30,0:02:06.79,Default,,0000,0000,0000,,I will definitely win\Nthat unlucky necklace from you.
+Dialogue: 0,0:02:14.59,0:02:15.79,Default,,0000,0000,0000,,I…
+Dialogue: 0,0:02:16.25,0:02:21.17,Default,,0000,0000,0000,,I will absolutely not die\Nuntil I’ve become Hokage!
+Dialogue: 0,0:02:25.88,0:02:28.79,Default,,0000,0000,0000,,This way, I can hold on to you.\NHere I go!
+Dialogue: 0,0:02:39.17,0:02:40.63,Default,,0000,0000,0000,,I-It can’t be…
+Dialogue: 0,0:02:40.79,0:02:46.96,Default,,0000,0000,0000,,The Fifth Hokage!\NA Life on the Line!
+Dialogue: 0,0:02:47.92,0:02:49.21,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:02:52.00,0:02:53.21,Default,,0000,0000,0000,,This is…?!
+Dialogue: 0,0:03:51.79,0:03:54.71,Default,,0000,0000,0000,,Way to go, Naruto.
+Dialogue: 0,0:03:55.38,0:03:57.13,Default,,0000,0000,0000,,That Nine-Tailed Fox kid…
+Dialogue: 0,0:03:57.59,0:03:59.79,Default,,0000,0000,0000,,a kid like that,\Ndoing a technique like that…
+Dialogue: 0,0:04:00.34,0:04:01.79,Default,,0000,0000,0000,,I-It can’t be…
+Dialogue: 0,0:04:02.80,0:04:04.50,Default,,0000,0000,0000,,He can’t be, really…
+Dialogue: 0,0:04:10.80,0:04:14.42,Default,,0000,0000,0000,,In only one week,\Nthat Rasengan…
+Dialogue: 0,0:05:02.79,0:05:05.75,Default,,0000,0000,0000,,You… Even after you received\Nthat Jutsu…?!
+Dialogue: 0,0:05:08.71,0:05:10.75,Default,,0000,0000,0000,,I gathered the Chakra in my stomach,
+Dialogue: 0,0:05:10.79,0:05:13.67,Default,,0000,0000,0000,,and before I received the Jutsu\NI had started healing.
+Dialogue: 0,0:05:15.25,0:05:17.79,Default,,0000,0000,0000,,The reason why Orochimaru favors me…
+Dialogue: 0,0:05:18.59,0:05:21.42,Default,,0000,0000,0000,,is not because of my use of Jutsu\Nor my sense for Jutsu…
+Dialogue: 0,0:05:21.63,0:05:23.84,Default,,0000,0000,0000,,It is because my recuperative power.
+Dialogue: 0,0:05:26.21,0:05:31.17,Default,,0000,0000,0000,,The power to energize cells\Nand make new cells.
+Dialogue: 0,0:05:32.30,0:05:36.71,Default,,0000,0000,0000,,On the other hand…\NI’ve used up almost all of my Chakra.
+Dialogue: 0,0:05:37.92,0:05:42.38,Default,,0000,0000,0000,,That Jutsu…\Nseems it was Naruto’s last effort…
+Dialogue: 0,0:05:57.79,0:05:58.96,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:06:05.79,0:06:07.59,Default,,0000,0000,0000,,I-It can’t be…
+Dialogue: 0,0:06:08.79,0:06:13.79,Default,,0000,0000,0000,,Even with my powers of recuperation,\Nthis much damage.
+Dialogue: 0,0:06:15.17,0:06:18.79,Default,,0000,0000,0000,,I don’t…have…enough Chakra.
+Dialogue: 0,0:06:34.71,0:06:36.00,Default,,0000,0000,0000,,Arrhythmia!
+Dialogue: 0,0:06:41.21,0:06:43.84,Default,,0000,0000,0000,,Drats! His heart muscle is in tatters…
+Dialogue: 0,0:06:44.50,0:06:46.13,Default,,0000,0000,0000,,Why did that happen…?
+Dialogue: 0,0:06:47.59,0:06:48.46,Default,,0000,0000,0000,,That moment?!
+Dialogue: 0,0:06:51.17,0:06:52.71,Default,,0000,0000,0000,,At that moment of release…
+Dialogue: 0,0:06:52.75,0:06:55.42,Default,,0000,0000,0000,,did he shred the muscles\Naround his heart…?
+Dialogue: 0,0:07:03.50,0:07:04.55,Default,,0000,0000,0000,,Stop shaking!
+Dialogue: 0,0:07:12.71,0:07:14.79,Default,,0000,0000,0000,,Hey, Big Brother Gamakichi.
+Dialogue: 0,0:07:15.00,0:07:19.79,Default,,0000,0000,0000,,Are we really getting a snack?\NThat guy looks like he’s going to die.
+Dialogue: 0,0:07:19.79,0:07:22.59,Default,,0000,0000,0000,,You’re annoying! Be quiet!
+Dialogue: 0,0:07:32.00,0:07:35.42,Default,,0000,0000,0000,,It’s all over…for Naruto.
+Dialogue: 0,0:07:37.63,0:07:45.09,Default,,0000,0000,0000,,I…cut…his heart’s Chakra Network\Nwhich restores the strength…
+Dialogue: 0,0:07:45.13,0:07:47.46,Default,,0000,0000,0000,,through the Nine-Tail’s Chakra…
+Dialogue: 0,0:07:48.34,0:07:49.79,Default,,0000,0000,0000,,With all my strength.
+Dialogue: 0,0:07:52.80,0:07:57.88,Default,,0000,0000,0000,,In order to eliminate the possibility\Nthat he would heal with his own power.
+Dialogue: 0,0:07:58.34,0:08:01.17,Default,,0000,0000,0000,,There's no way he can recover…
+Dialogue: 0,0:08:02.17,0:08:03.84,Default,,0000,0000,0000,,Even with you.
+Dialogue: 0,0:08:03.88,0:08:04.96,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:06.79,0:08:08.79,Default,,0000,0000,0000,,I’ll kill you later…
+Dialogue: 0,0:08:15.13,0:08:16.84,Default,,0000,0000,0000,,He’s stopped breathing…!
+Dialogue: 0,0:08:28.00,0:08:29.00,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:08:29.84,0:08:31.05,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:08:31.67,0:08:32.79,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:08:42.38,0:08:43.88,Default,,0000,0000,0000,,It’s dark…
+Dialogue: 0,0:08:44.88,0:08:46.79,Default,,0000,0000,0000,,Dark…
+Dialogue: 0,0:08:47.92,0:08:50.25,Default,,0000,0000,0000,,Why is it getting dark?
+Dialogue: 0,0:08:51.34,0:08:55.71,Default,,0000,0000,0000,,My strength is… Why…?
+Dialogue: 0,0:08:58.79,0:09:00.09,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:09:06.67,0:09:07.63,Default,,0000,0000,0000,,Don’t die…
+Dialogue: 0,0:09:08.67,0:09:09.67,Default,,0000,0000,0000,,Don’t die!
+Dialogue: 0,0:09:10.55,0:09:11.79,Default,,0000,0000,0000,,Don’t die!
+Dialogue: 0,0:09:12.50,0:09:13.79,Default,,0000,0000,0000,,Don’t die!
+Dialogue: 0,0:09:14.46,0:09:15.67,Default,,0000,0000,0000,,Don’t die!
+Dialogue: 0,0:09:24.63,0:09:25.80,Default,,0000,0000,0000,,The bet…
+Dialogue: 0,0:09:33.80,0:09:34.96,Default,,0000,0000,0000,,I won it.
+Dialogue: 0,0:09:38.21,0:09:40.05,Default,,0000,0000,0000,,I-It’s impossible…
+Dialogue: 0,0:09:51.63,0:09:56.80,Default,,0000,0000,0000,,“Hokage is…my dream,” eh?
+Dialogue: 0,0:10:08.09,0:10:09.17,Default,,0000,0000,0000,,For the last time…
+Dialogue: 0,0:10:11.80,0:10:13.25,Default,,0000,0000,0000,,For the last time…
+Dialogue: 0,0:10:14.05,0:10:15.59,Default,,0000,0000,0000,,Just one more time…
+Dialogue: 0,0:10:19.92,0:10:21.80,Default,,0000,0000,0000,,I want to bet on you…
+Dialogue: 0,0:10:36.50,0:10:39.46,Default,,0000,0000,0000,,That child, he’s not well…
+Dialogue: 0,0:10:39.80,0:10:42.13,Default,,0000,0000,0000,,Tsunade is a medical specialist.
+Dialogue: 0,0:10:42.80,0:10:46.79,Default,,0000,0000,0000,,Don’t worry, there’s no need to\Nworry about Naruto’s body.
+Dialogue: 0,0:10:46.88,0:10:48.92,Default,,0000,0000,0000,,That’s not what I meant.
+Dialogue: 0,0:10:49.21,0:10:50.17,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:50.79,0:10:56.50,Default,,0000,0000,0000,,Your battle is with me,\Nthere’s no time to look away.
+Dialogue: 0,0:10:57.17,0:11:00.71,Default,,0000,0000,0000,,Who would have imagined this?
+Dialogue: 0,0:11:01.30,0:11:04.50,Default,,0000,0000,0000,,If that child is found by the Akatsuki,\Nthere will be trouble.
+Dialogue: 0,0:11:05.34,0:11:07.50,Default,,0000,0000,0000,,In other words,\Nif I'm to kill him…
+Dialogue: 0,0:11:07.55,0:11:08.55,Default,,0000,0000,0000,,now is the time!
+Dialogue: 0,0:11:16.96,0:11:17.79,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:11:28.75,0:11:29.96,Default,,0000,0000,0000,,He’s aiming at this child!
+Dialogue: 0,0:12:15.30,0:12:19.38,Default,,0000,0000,0000,,Tsunade… You’re the only one\NI wasn’t going to kill…
+Dialogue: 0,0:12:20.05,0:12:22.42,Default,,0000,0000,0000,,If that child lives,
+Dialogue: 0,0:12:22.59,0:12:27.34,Default,,0000,0000,0000,,there will be trouble in the future\Non a variety of levels.
+Dialogue: 0,0:12:27.71,0:12:29.59,Default,,0000,0000,0000,,Don’t get in my way.
+Dialogue: 0,0:12:31.13,0:12:32.46,Default,,0000,0000,0000,,This is one child…
+Dialogue: 0,0:12:34.79,0:12:37.75,Default,,0000,0000,0000,,This is one child…\NI will absolutely protect!
+Dialogue: 0,0:12:40.13,0:12:45.55,Default,,0000,0000,0000,,Trembling at the sight of blood,\Nwhy would you, one of the Sannin,
+Dialogue: 0,0:12:45.79,0:12:50.46,Default,,0000,0000,0000,,risk your life to protect that Genin kid?
+Dialogue: 0,0:13:03.05,0:13:05.05,Default,,0000,0000,0000,,To protect…
+Dialogue: 0,0:13:06.30,0:13:09.25,Default,,0000,0000,0000,,my hometown…the Leaf Village…!
+Dialogue: 0,0:13:14.21,0:13:16.50,Default,,0000,0000,0000,,To protect the Leaf Village…?
+Dialogue: 0,0:13:26.71,0:13:29.59,Default,,0000,0000,0000,,Because…because…
+Dialogue: 0,0:13:30.79,0:13:32.55,Default,,0000,0000,0000,,this small child…
+Dialogue: 0,0:13:33.55,0:13:36.21,Default,,0000,0000,0000,,is the kid who will become\NHokage some day…
+Dialogue: 0,0:13:38.84,0:13:41.38,Default,,0000,0000,0000,,What utter nonsense…
+Dialogue: 0,0:13:42.21,0:13:45.67,Default,,0000,0000,0000,,By the way…\Nto hell with Hokage!
+Dialogue: 0,0:13:46.30,0:13:48.59,Default,,0000,0000,0000,,Only a fool does that job.
+Dialogue: 0,0:13:50.25,0:13:54.05,Default,,0000,0000,0000,,To hell with Hokage!\NOnly a fool does that job.
+Dialogue: 0,0:14:01.25,0:14:02.71,Default,,0000,0000,0000,,The wishes of the two…
+Dialogue: 0,0:14:03.63,0:14:07.71,Default,,0000,0000,0000,,More importantly, Lady Tsunade,\Nyour wish…
+Dialogue: 0,0:14:08.71,0:14:10.30,Default,,0000,0000,0000,,Have you forgotten your dream?
+Dialogue: 0,0:14:15.79,0:14:17.92,Default,,0000,0000,0000,,The successive lines of Hokage\Nhave protected
+Dialogue: 0,0:14:17.96,0:14:21.42,Default,,0000,0000,0000,,the Leaf Village and\Nand those living in it.
+Dialogue: 0,0:14:21.75,0:14:25.50,Default,,0000,0000,0000,,They brought troubled times under control\Nand helped the village to prosper.
+Dialogue: 0,0:14:25.55,0:14:28.30,Default,,0000,0000,0000,,They risked their lives\Nfor this dream, this ideal!
+Dialogue: 0,0:14:33.00,0:14:36.79,Default,,0000,0000,0000,,Anyone who makes fun of the old man\Nand the Fourth Hokage…
+Dialogue: 0,0:14:36.79,0:14:39.09,Default,,0000,0000,0000,,It doesn’t matter if\Nyou are a woman!
+Dialogue: 0,0:14:39.50,0:14:41.50,Default,,0000,0000,0000,,I’ll clobber you with all my might!
+Dialogue: 0,0:14:52.00,0:14:56.75,Default,,0000,0000,0000,,And now,\NI also will put my life on the line!
+Dialogue: 0,0:15:00.13,0:15:04.30,Default,,0000,0000,0000,,If your life is worth throwing away\Nfor a kid like him… !
+Dialogue: 0,0:15:04.79,0:15:08.09,Default,,0000,0000,0000,,Then dying now would be\Na fitting end!
+Dialogue: 0,0:15:27.75,0:15:30.55,Default,,0000,0000,0000,,All that’s left…is Naruto.
+Dialogue: 0,0:15:31.46,0:15:32.59,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:15:36.09,0:15:37.34,Default,,0000,0000,0000,,Make it in time!
+Dialogue: 0,0:15:49.55,0:15:52.79,Default,,0000,0000,0000,,She’s still able to move even\Nafter I pierced her down to her lungs!
+Dialogue: 0,0:16:02.00,0:16:04.96,Default,,0000,0000,0000,,You mean you’ll still protect that kid?!
+Dialogue: 0,0:16:08.79,0:16:10.30,Default,,0000,0000,0000,,That’s what I said…
+Dialogue: 0,0:16:10.84,0:16:11.96,Default,,0000,0000,0000,,From now…
+Dialogue: 0,0:16:14.55,0:16:16.67,Default,,0000,0000,0000,,I’m putting my life on the line!
+Dialogue: 0,0:16:18.09,0:16:20.05,Default,,0000,0000,0000,,You, half-dead corpse!
+Dialogue: 0,0:16:33.79,0:16:38.79,Default,,0000,0000,0000,,No matter how cool you try to be,\Nyour trembling doesn’t stop.
+Dialogue: 0,0:16:39.46,0:16:43.21,Default,,0000,0000,0000,,You can’t get away from\Nthe curse of hemophobia.
+Dialogue: 0,0:16:44.34,0:16:50.13,Default,,0000,0000,0000,,And yet, why would you\Ntake the blows for that kid?
+Dialogue: 0,0:16:50.79,0:16:54.79,Default,,0000,0000,0000,,Why would you battle for the Leaf?
+Dialogue: 0,0:17:05.88,0:17:06.80,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:17:07.42,0:17:09.25,Default,,0000,0000,0000,,Tsunade’s trembling has…
+Dialogue: 0,0:17:09.79,0:17:10.84,Default,,0000,0000,0000,,has stopped?
+Dialogue: 0,0:17:12.84,0:17:15.79,Default,,0000,0000,0000,,That is because…I am…
+Dialogue: 0,0:17:20.30,0:17:24.09,Default,,0000,0000,0000,,the Leaf Village’s…Fifth Hokage!
+Dialogue: 0,0:17:25.75,0:17:26.79,Default,,0000,0000,0000,,That sign is?!
+Dialogue: 0,0:17:28.59,0:17:30.79,Default,,0000,0000,0000,,Lady Tsunade has conquered\Nher fear of blood,
+Dialogue: 0,0:17:30.79,0:17:32.09,Default,,0000,0000,0000,,but that’s…
+Dialogue: 0,0:17:36.09,0:17:38.79,Default,,0000,0000,0000,,What are you saying you’ll do,\Nafter all this time?
+Dialogue: 0,0:17:39.38,0:17:45.79,Default,,0000,0000,0000,,You can’t fight with that wound\Neven if you’ve conquered your fear.
+Dialogue: 0,0:17:50.79,0:17:57.50,Default,,0000,0000,0000,,W-Wait! I’ll treat that wound.\NSo don’t release that seal!
+Dialogue: 0,0:18:00.71,0:18:02.42,Default,,0000,0000,0000,,Tsunade: Release the Secret Seal!
+Dialogue: 0,0:18:02.80,0:18:06.13,Default,,0000,0000,0000,,Ninja Art: Mitotic Regeneration!
+Dialogue: 0,0:18:22.59,0:18:24.09,Default,,0000,0000,0000,,What is this Jutsu…?!
+Dialogue: 0,0:18:29.21,0:18:33.92,Default,,0000,0000,0000,,It looks like I’m not the only one\Nwho develops new Jutsu.
+Dialogue: 0,0:18:34.55,0:18:37.71,Default,,0000,0000,0000,,What in the world is this Jutsu?
+Dialogue: 0,0:18:38.17,0:18:39.13,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:18:40.21,0:18:43.92,Default,,0000,0000,0000,,For many years I’ve stored Chakra\Nin my forehead.
+Dialogue: 0,0:18:45.21,0:18:49.34,Default,,0000,0000,0000,,The mass of Chakra stimulated\Na variety of proteins.
+Dialogue: 0,0:18:49.71,0:18:52.84,Default,,0000,0000,0000,,The number of times my cells divide\Nspeeds to a dizzying rate…
+Dialogue: 0,0:18:53.63,0:18:55.25,Default,,0000,0000,0000,,The cells rebuild…
+Dialogue: 0,0:18:55.88,0:19:00.17,Default,,0000,0000,0000,,and all the organs and body systems\Nare revitalized.
+Dialogue: 0,0:19:00.79,0:19:04.09,Default,,0000,0000,0000,,It’s not the ability to restore,\Nit’s the ability to reincarnate.
+Dialogue: 0,0:19:04.79,0:19:08.30,Default,,0000,0000,0000,,That means I won’t die…from battles.
+Dialogue: 0,0:19:10.75,0:19:14.79,Default,,0000,0000,0000,,But the number of times a person’s cells\Ndivide in their lifetime is fixed…
+Dialogue: 0,0:19:15.25,0:19:20.05,Default,,0000,0000,0000,,If that is sped up,\Nit essentially shortens the life!
+Dialogue: 0,0:19:23.00,0:19:24.21,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:19:25.80,0:19:26.84,Default,,0000,0000,0000,,That action is…
+Dialogue: 0,0:19:27.79,0:19:29.17,Default,,0000,0000,0000,,Lord Orochimaru!
+Dialogue: 0,0:19:31.88,0:19:33.55,Default,,0000,0000,0000,,Come out!
+Dialogue: 0,0:19:35.13,0:19:36.25,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:19:37.59,0:19:39.50,Default,,0000,0000,0000,,Ino, inu, saru, tori, hitsuji!
+Dialogue: 0,0:19:41.92,0:19:43.59,Default,,0000,0000,0000,,– Summoning Jutsu!\N– Summoning Jutsu!
+Dialogue: 0,0:21:19.00,0:21:23.79,Default,,0000,0000,0000,,I believe your promise,\Nits a true heart give me courage
+Dialogue: 0,0:21:23.79,0:21:28.17,Default,,0000,0000,0000,,Always I feel it\Nthe precious time with you
+Dialogue: 0,0:21:28.79,0:21:32.34,Default,,0000,0000,0000,,On your still shoulder
+Dialogue: 0,0:21:33.59,0:21:37.96,Default,,0000,0000,0000,,I feel the wind that blows\Ntowards tomorrow
+Dialogue: 0,0:21:38.13,0:21:43.71,Default,,0000,0000,0000,,The city lights are like pieces of stars
+Dialogue: 0,0:21:44.05,0:21:48.46,Default,,0000,0000,0000,,That hold us together
+Dialogue: 0,0:21:48.79,0:21:58.09,Default,,0000,0000,0000,,“Each one of us glows differently,”
+Dialogue: 0,0:21:58.13,0:22:00.79,Default,,0000,0000,0000,,you say laughingly
+Dialogue: 0,0:22:01.00,0:22:06.79,Default,,0000,0000,0000,,but you look most dazzling
+Dialogue: 0,0:22:07.30,0:22:11.79,Default,,0000,0000,0000,,Like a comet,
+Dialogue: 0,0:22:11.79,0:22:17.79,Default,,0000,0000,0000,,like the rainbow after the storm
+Dialogue: 0,0:22:17.80,0:22:24.96,Default,,0000,0000,0000,,You bring light into my heart
+Dialogue: 0,0:22:25.92,0:22:35.42,Default,,0000,0000,0000,,Being lost can be the answer
+Dialogue: 0,0:22:36.79,0:22:44.25,Default,,0000,0000,0000,,Let’s promise we won’t cheat
+Dialogue: 0,0:22:44.30,0:22:48.34,Default,,0000,0000,0000,,Uh... like a shooting star,\Nwe do go ahead.
+Dialogue: 0,0:22:51.17,0:22:55.59,Default,,0000,0000,0000,,The time to conclude this long, fateful\Nconfrontation has come, Orochimaru.
+Dialogue: 0,0:22:55.79,0:22:58.21,Default,,0000,0000,0000,,You have sunk too deeply into vice.
+Dialogue: 0,0:22:58.46,0:23:00.79,Default,,0000,0000,0000,,You are no longer a comrade!
+Dialogue: 0,0:23:01.00,0:23:04.75,Default,,0000,0000,0000,,Comrade? How odious.
+Dialogue: 0,0:23:04.79,0:23:07.21,Default,,0000,0000,0000,,That word makes me shiver.
+Dialogue: 0,0:23:07.63,0:23:09.63,Default,,0000,0000,0000,,I will bring you down!
+Dialogue: 0,0:23:09.67,0:23:13.00,Default,,0000,0000,0000,,Today is the last day that\Nwe are called Sannin!
+Dialogue: 0,0:23:13.38,0:23:15.79,Default,,0000,0000,0000,,Next time:\N "Deadlock! Sannin Showdown!"

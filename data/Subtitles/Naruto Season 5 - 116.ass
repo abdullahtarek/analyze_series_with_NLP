@@ -1,0 +1,226 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.73,0:00:21.06,Default,,0000,0000,0000,,Connecting old words\Nthat have been used up
+Dialogue: 0,0:00:21.89,0:00:29.89,Default,,0000,0000,0000,,I just want to convey\Nmy simple thoughts
+Dialogue: 0,0:00:29.89,0:00:35.27,Default,,0000,0000,0000,,That day's faint wind blows away
+Dialogue: 0,0:00:35.31,0:00:39.44,Default,,0000,0000,0000,,at the castle ruins of yesterday
+Dialogue: 0,0:00:40.69,0:00:45.60,Default,,0000,0000,0000,,I'll laugh with you\Nand live for the moment
+Dialogue: 0,0:00:46.23,0:00:53.15,Default,,0000,0000,0000,,Still that incident\Nwill continue to trouble you, right?
+Dialogue: 0,0:00:54.60,0:00:58.02,Default,,0000,0000,0000,,That's why it must be good-bye
+Dialogue: 0,0:00:58.06,0:01:05.15,Default,,0000,0000,0000,,Leaving nothing behind,\Nlet us share what is left
+Dialogue: 0,0:01:05.19,0:01:12.31,Default,,0000,0000,0000,,In time, we'll realize\Nthat it was everything
+Dialogue: 0,0:01:12.35,0:01:18.98,Default,,0000,0000,0000,,And sadness will touch our cheeks,\Ncreating a river of tears
+Dialogue: 0,0:01:19.44,0:01:28.94,Default,,0000,0000,0000,,Trembling thoughts swept into a vortex\Nand melting away
+Dialogue: 0,0:01:45.89,0:01:50.85,Default,,0000,0000,0000,,Gentle Fist: 8 Trigrams 64 Palms!
+Dialogue: 0,0:01:51.94,0:01:52.89,Default,,0000,0000,0000,,Uh-oh!
+Dialogue: 0,0:01:56.10,0:01:57.40,Default,,0000,0000,0000,,8 Trigrams 2 Palms!
+Dialogue: 0,0:02:02.23,0:02:02.94,Default,,0000,0000,0000,,4 Palms!
+Dialogue: 0,0:02:04.89,0:02:05.81,Default,,0000,0000,0000,,8 Palms!
+Dialogue: 0,0:02:06.94,0:02:07.98,Default,,0000,0000,0000,,16 Palms!
+Dialogue: 0,0:02:09.15,0:02:10.06,Default,,0000,0000,0000,,32 Palms!
+Dialogue: 0,0:02:12.77,0:02:13.89,Default,,0000,0000,0000,,64 Palms!
+Dialogue: 0,0:02:35.94,0:02:37.89,Default,,0000,0000,0000,,What’s going on?!
+Dialogue: 0,0:02:53.15,0:02:55.15,Default,,0000,0000,0000,,A golden body surface…?
+Dialogue: 0,0:03:20.27,0:03:23.44,Default,,0000,0000,0000,,It’s the same material as the weapon\Nhe spit out of his mouth earlier…
+Dialogue: 0,0:03:25.73,0:03:27.31,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:03:27.89,0:03:29.94,Default,,0000,0000,0000,,I hear that if you’re hit straight on\Nwith Gentle Fist,
+Dialogue: 0,0:03:29.98,0:03:31.56,Default,,0000,0000,0000,,your Chakra Network gets damaged
+Dialogue: 0,0:03:31.60,0:03:33.65,Default,,0000,0000,0000,,and you become unable\Nto build up Chakra…
+Dialogue: 0,0:03:34.19,0:03:35.44,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:03:37.89,0:03:39.15,Default,,0000,0000,0000,,Are you a monster?
+Dialogue: 0,0:03:40.23,0:03:42.44,Default,,0000,0000,0000,,It seems to come\Nnot just from your mouth.
+Dialogue: 0,0:03:44.35,0:03:46.35,Default,,0000,0000,0000,,Gum Style Spider Thread…
+Dialogue: 0,0:03:46.40,0:03:49.89,Default,,0000,0000,0000,,is a metal that hardens\Nthe instant it leaves my body.
+Dialogue: 0,0:03:50.15,0:03:52.73,Default,,0000,0000,0000,,Moreover, it doesn’t let Chakra through.
+Dialogue: 0,0:03:53.35,0:03:58.52,Default,,0000,0000,0000,,And…it can be secreted\Nnot just from my mouth,
+Dialogue: 0,0:03:58.56,0:04:01.81,Default,,0000,0000,0000,,but also from the sweat glands\Nthroughout my body.
+Dialogue: 0,0:04:11.27,0:04:16.19,Default,,0000,0000,0000,,Attacks on Chakra points won’t work.\NNow it makes sense…
+Dialogue: 0,0:04:24.65,0:04:26.77,Default,,0000,0000,0000,,The Spider Web Net won’t work.
+Dialogue: 0,0:04:26.89,0:04:28.69,Default,,0000,0000,0000,,And there’ll be no close-range\Ncombat fighting
+Dialogue: 0,0:04:28.73,0:04:30.27,Default,,0000,0000,0000,,against a Gentle Fist opponent.
+Dialogue: 0,0:04:30.73,0:04:31.89,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:04:31.89,0:04:34.89,Default,,0000,0000,0000,,I just have to attack the blind side\Nfrom long distance.
+Dialogue: 0,0:05:24.89,0:05:28.89,Default,,0000,0000,0000,,There’ll be no sound…\Nlt’ll be in a flash.
+Dialogue: 0,0:05:36.10,0:05:38.19,Default,,0000,0000,0000,,The game’s over.
+Dialogue: 0,0:05:42.48,0:05:43.44,Default,,0000,0000,0000,,The Kunai Knife is a fake!
+Dialogue: 0,0:05:50.23,0:05:51.15,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:51.98,0:05:53.35,Default,,0000,0000,0000,,8 Trigrams Palm…
+Dialogue: 0,0:05:54.10,0:05:55.02,Default,,0000,0000,0000,,Rotation!
+Dialogue: 0,0:06:04.89,0:06:07.40,Default,,0000,0000,0000,,Wha–?! What is that?!
+Dialogue: 0,0:06:16.52,0:06:20.27,Default,,0000,0000,0000,,Does he…have eyes behind him?!
+Dialogue: 0,0:06:21.77,0:06:24.02,Default,,0000,0000,0000,,And the defense just now…
+Dialogue: 0,0:06:24.81,0:06:27.60,Default,,0000,0000,0000,,He repelled physical attacks\Nwith Chakra?!
+Dialogue: 0,0:06:29.35,0:06:35.52,Default,,0000,0000,0000,,360 Degrees of Vision:\NThe Byakugan's Blind Spot!
+Dialogue: 0,0:06:46.48,0:06:48.89,Default,,0000,0000,0000,,If we’re not prepared for\N“one person, one kill,”
+Dialogue: 0,0:06:48.89,0:06:50.48,Default,,0000,0000,0000,,then it’s not going to work out…
+Dialogue: 0,0:06:51.85,0:06:53.31,Default,,0000,0000,0000,,That’s what you said earlier.
+Dialogue: 0,0:06:54.85,0:06:58.98,Default,,0000,0000,0000,,Hurry up and go!\NI’ll catch up with you all!
+Dialogue: 0,0:07:04.31,0:07:06.89,Default,,0000,0000,0000,,We have to be prepared for\N“one person, one kill.”
+Dialogue: 0,0:07:08.06,0:07:09.69,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:07:10.35,0:07:13.19,Default,,0000,0000,0000,,You’ve got better eyes than me.
+Dialogue: 0,0:07:16.06,0:07:17.10,Default,,0000,0000,0000,,Neji…
+Dialogue: 0,0:07:17.89,0:07:19.94,Default,,0000,0000,0000,,Catch up with us, no matter what!
+Dialogue: 0,0:07:33.52,0:07:35.10,Default,,0000,0000,0000,,Can he see me?!
+Dialogue: 0,0:07:37.19,0:07:39.15,Default,,0000,0000,0000,,What the heck is he?!
+Dialogue: 0,0:07:41.48,0:07:43.48,Default,,0000,0000,0000,,I know you’re there.
+Dialogue: 0,0:07:44.69,0:07:45.65,Default,,0000,0000,0000,,Come out.
+Dialogue: 0,0:07:46.89,0:07:48.02,Default,,0000,0000,0000,,Those eyes…
+Dialogue: 0,0:07:48.69,0:07:51.89,Default,,0000,0000,0000,,It seems they can do more\Nthan just see through the Chakra flow…
+Dialogue: 0,0:07:52.89,0:07:55.81,Default,,0000,0000,0000,,So I see there was\Nan extraordinary Visual Jutsu user.
+Dialogue: 0,0:07:57.27,0:07:59.27,Default,,0000,0000,0000,,A long range battle\Nis unfavorable…
+Dialogue: 0,0:08:00.10,0:08:03.06,Default,,0000,0000,0000,,I must bring this to\Nclose combat by all means.
+Dialogue: 0,0:08:03.89,0:08:04.98,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:08:09.89,0:08:15.44,Default,,0000,0000,0000,,I’ll acknowledge that this game has\Na somewhat high level of difficulty!
+Dialogue: 0,0:08:16.81,0:08:18.89,Default,,0000,0000,0000,,I too shall go for it seriously…
+Dialogue: 0,0:08:22.89,0:08:25.31,Default,,0000,0000,0000,,It’s like he’s a totally different person\Nfrom before…
+Dialogue: 0,0:08:25.90,0:08:28.06,Default,,0000,0000,0000,,His Chakra activity is overwhelming.
+Dialogue: 0,0:08:29.85,0:08:32.02,Default,,0000,0000,0000,,And those markings…
+Dialogue: 0,0:08:39.40,0:08:41.31,Default,,0000,0000,0000,,His move earlier…
+Dialogue: 0,0:08:41.44,0:08:43.52,Default,,0000,0000,0000,,He dodged an attack aimed\Nfrom behind
+Dialogue: 0,0:08:43.56,0:08:45.89,Default,,0000,0000,0000,,and was able to see me hiding\Nin the shadows.
+Dialogue: 0,0:08:47.65,0:08:49.06,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:08:49.10,0:08:52.15,Default,,0000,0000,0000,,he has a combined wide range\Nof sight and X-ray vision.
+Dialogue: 0,0:08:53.10,0:08:55.73,Default,,0000,0000,0000,,And what’s more, that Jutsu…
+Dialogue: 0,0:08:56.10,0:08:57.48,Default,,0000,0000,0000,,If so…
+Dialogue: 0,0:09:02.19,0:09:03.31,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:09:11.60,0:09:13.89,Default,,0000,0000,0000,,Your ability…
+Dialogue: 0,0:09:13.89,0:09:17.69,Default,,0000,0000,0000,,I’ll find a way to impeccably assault it.
+Dialogue: 0,0:09:25.35,0:09:28.06,Default,,0000,0000,0000,,If he defends\Nagainst physical attacks
+Dialogue: 0,0:09:28.10,0:09:31.60,Default,,0000,0000,0000,,with a large emission\Nof Chakra and its Rotation…
+Dialogue: 0,0:09:31.65,0:09:35.40,Default,,0000,0000,0000,,all I need to do then is to stop\Nthat Chakra Rotation!
+Dialogue: 0,0:09:37.85,0:09:38.85,Default,,0000,0000,0000,,Scatter!
+Dialogue: 0,0:09:49.81,0:09:50.89,Default,,0000,0000,0000,,Rotation!
+Dialogue: 0,0:10:00.40,0:10:02.02,Default,,0000,0000,0000,,It’s starting to stop.
+Dialogue: 0,0:10:10.65,0:10:11.65,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:10:22.89,0:10:23.89,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:10:36.40,0:10:39.94,Default,,0000,0000,0000,,He released the Chakra just in time\Nand repelled the Kunai Knife!
+Dialogue: 0,0:10:43.81,0:10:45.10,Default,,0000,0000,0000,,To think he’d stop my Chakra Rotation
+Dialogue: 0,0:10:45.15,0:10:47.19,Default,,0000,0000,0000,,by binding it with Chakra threads…
+Dialogue: 0,0:10:48.15,0:10:49.52,Default,,0000,0000,0000,,These things…
+Dialogue: 0,0:10:50.69,0:10:51.94,Default,,0000,0000,0000,,I just have to cut them for now.
+Dialogue: 0,0:10:54.85,0:10:56.44,Default,,0000,0000,0000,,If the Rotation won’t do,
+Dialogue: 0,0:10:56.48,0:10:58.31,Default,,0000,0000,0000,,then I just have to dodge\Neach and every one.
+Dialogue: 0,0:11:00.10,0:11:03.02,Default,,0000,0000,0000,,This guy uses\Nclose-range Taijutsu-style combat .
+Dialogue: 0,0:11:03.31,0:11:05.77,Default,,0000,0000,0000,,There will be no problem\Nif I fight him from afar.
+Dialogue: 0,0:11:08.35,0:11:11.89,Default,,0000,0000,0000,,In that way…\NI’ll have a good long look at your ability.
+Dialogue: 0,0:11:41.40,0:11:44.27,Default,,0000,0000,0000,,8 Trigrams, 64 Palms!
+Dialogue: 0,0:11:52.35,0:11:53.52,Default,,0000,0000,0000,,What a number!
+Dialogue: 0,0:12:14.81,0:12:17.48,Default,,0000,0000,0000,,Hm?! His stance changed?!
+Dialogue: 0,0:12:18.56,0:12:19.89,Default,,0000,0000,0000,,8 Trigrams.
+Dialogue: 0,0:12:20.56,0:12:21.98,Default,,0000,0000,0000,,128 Palms!
+Dialogue: 0,0:12:34.81,0:12:37.77,Default,,0000,0000,0000,,He’s fast!\NThe number of strikes has doubled…!
+Dialogue: 0,0:12:38.73,0:12:41.44,Default,,0000,0000,0000,,If I get nailed by that straight on,\Nit'll be the end for me.
+Dialogue: 0,0:12:42.31,0:12:44.35,Default,,0000,0000,0000,,If that’s the case on his end,
+Dialogue: 0,0:12:44.40,0:12:46.69,Default,,0000,0000,0000,,then it’ll be a battle of numbers\Non this end, too!
+Dialogue: 0,0:13:04.40,0:13:07.65,Default,,0000,0000,0000,,The number’s too great!\NI won’t have enough time!
+Dialogue: 0,0:13:14.19,0:13:16.02,Default,,0000,0000,0000,,The Rotation’s no good,\Njust as I thought…
+Dialogue: 0,0:13:29.85,0:13:32.89,Default,,0000,0000,0000,,It seems he has 360-degree vision.
+Dialogue: 0,0:13:33.48,0:13:35.73,Default,,0000,0000,0000,,And it seems he deals\Nwith enemy attacks
+Dialogue: 0,0:13:35.77,0:13:39.27,Default,,0000,0000,0000,,by combining his X-ray vision ability\Nfor seeing through things
+Dialogue: 0,0:13:39.31,0:13:42.48,Default,,0000,0000,0000,,and his telescopic vision ability\Nfor long-distance sight.
+Dialogue: 0,0:13:43.89,0:13:48.69,Default,,0000,0000,0000,,Furthermore, although\Nhe’s got 360-degree vision,
+Dialogue: 0,0:13:48.73,0:13:50.89,Default,,0000,0000,0000,,that vision has a formidable extent…
+Dialogue: 0,0:13:51.94,0:13:56.44,Default,,0000,0000,0000,,If I were to determine the range\Nfrom his reaction before…
+Dialogue: 0,0:13:56.48,0:13:58.85,Default,,0000,0000,0000,,he almost unfailingly detected\Nthe Kunai Knives
+Dialogue: 0,0:13:58.89,0:14:04.48,Default,,0000,0000,0000,,that entered the approximately\N150-foot circumference around him.
+Dialogue: 0,0:14:06.77,0:14:08.89,Default,,0000,0000,0000,,But for some reason,
+Dialogue: 0,0:14:08.89,0:14:11.10,Default,,0000,0000,0000,,there are Kunai Knives\Nhe can’t evade completely.
+Dialogue: 0,0:14:12.73,0:14:13.90,Default,,0000,0000,0000,,If so…
+Dialogue: 0,0:14:20.89,0:14:23.40,Default,,0000,0000,0000,,8 Trigrams, Sixty…
+Dialogue: 0,0:14:28.89,0:14:30.44,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:14:43.73,0:14:45.89,Default,,0000,0000,0000,,This time, there’ll be even more.
+Dialogue: 0,0:14:54.52,0:14:56.89,Default,,0000,0000,0000,,This time, two will hit…
+Dialogue: 0,0:15:17.60,0:15:20.90,Default,,0000,0000,0000,,I’ve found a way to impeccably\Nassault your ability!
+Dialogue: 0,0:15:21.90,0:15:24.40,Default,,0000,0000,0000,,It seems that defense technique
+Dialogue: 0,0:15:24.44,0:15:27.89,Default,,0000,0000,0000,,was something to compensate\Nfor this weak point!
+Dialogue: 0,0:15:29.23,0:15:34.35,Default,,0000,0000,0000,,In other words...\NYour Visual Jutsu isn’t perfect!
+Dialogue: 0,0:15:44.89,0:15:49.81,Default,,0000,0000,0000,,Why even bother?!\NI’ve won the game!
+Dialogue: 0,0:15:59.52,0:16:03.89,Default,,0000,0000,0000,,Come on. Are you going to\Nkeep at it for naught?
+Dialogue: 0,0:16:04.65,0:16:09.52,Default,,0000,0000,0000,,The fate of the small fry character in an\Neasy game is to be destroyed right away!
+Dialogue: 0,0:16:12.69,0:16:14.52,Default,,0000,0000,0000,,You can’t beat me!
+Dialogue: 0,0:16:21.89,0:16:23.94,Default,,0000,0000,0000,,– I-I’m not done yet.\N– Lee…
+Dialogue: 0,0:16:24.40,0:16:27.27,Default,,0000,0000,0000,,You never give up do you?
+Dialogue: 0,0:16:27.31,0:16:32.52,Default,,0000,0000,0000,,No way you can beat him.\NHe’s a genius unlike you.
+Dialogue: 0,0:16:33.89,0:16:36.52,Default,,0000,0000,0000,,Genius? What is genius anyway!
+Dialogue: 0,0:16:36.52,0:16:40.48,Default,,0000,0000,0000,,Even without any talent,\NI’ll surpass “genius” by working hard.
+Dialogue: 0,0:16:40.65,0:16:42.19,Default,,0000,0000,0000,,It’s no use, Lee.
+Dialogue: 0,0:16:43.89,0:16:47.89,Default,,0000,0000,0000,,No matter how hard you work,\Nyou cannot beat me.
+Dialogue: 0,0:16:48.73,0:16:50.52,Default,,0000,0000,0000,,It’s already decided.
+Dialogue: 0,0:16:50.98,0:16:52.35,Default,,0000,0000,0000,,Lady Hinata...
+Dialogue: 0,0:16:52.40,0:16:55.60,Default,,0000,0000,0000,,You’re the sheltered little baby\Nof the main branch.
+Dialogue: 0,0:16:55.65,0:16:58.15,Default,,0000,0000,0000,,A person can never change.
+Dialogue: 0,0:17:00.60,0:17:02.06,Default,,0000,0000,0000,,And then, this match…
+Dialogue: 0,0:17:02.44,0:17:06.89,Default,,0000,0000,0000,,Your destiny was decided at the point\Nwhen I became your opponent.
+Dialogue: 0,0:17:09.89,0:17:13.40,Default,,0000,0000,0000,,You don’t know until you try!
+Dialogue: 0,0:17:17.77,0:17:19.77,Default,,0000,0000,0000,,This is the end…
+Dialogue: 0,0:17:48.44,0:17:49.19,Default,,0000,0000,0000,,Gentle Fist!
+Dialogue: 0,0:17:59.10,0:18:03.73,Default,,0000,0000,0000,,Small fry character one…\NDestruction completed.
+Dialogue: 0,0:18:25.69,0:18:29.60,Default,,0000,0000,0000,,Well, for a crummy game,\NI was entertained…
+Dialogue: 0,0:19:17.15,0:19:21.77,Default,,0000,0000,0000,,Heh… I missed the fatal spots, huh?
+Dialogue: 0,0:19:22.23,0:19:27.31,Default,,0000,0000,0000,,And he wouldn’t easily die from\NKunai Knives from 150 feet away, eh?
+Dialogue: 0,0:19:30.06,0:19:33.90,Default,,0000,0000,0000,,I see…\NHe’s still going to entertain me, huh?
+Dialogue: 0,0:19:35.77,0:19:37.52,Default,,0000,0000,0000,,This is thanks for that.
+Dialogue: 0,0:19:51.40,0:19:54.40,Default,,0000,0000,0000,,Seriously, that fat Jirobo\Ncan’t be helped,
+Dialogue: 0,0:19:54.44,0:19:56.89,Default,,0000,0000,0000,,but what’s that clod Kidomaru\Ndoing anyway…?
+Dialogue: 0,0:19:57.10,0:19:58.69,Default,,0000,0000,0000,,That lowlife!
+Dialogue: 0,0:19:59.31,0:20:02.52,Default,,0000,0000,0000,,He’s got the habit of playing games.
+Dialogue: 0,0:20:02.56,0:20:05.23,Default,,0000,0000,0000,,Maybe he’s found someone\Nto entertain him?
+Dialogue: 0,0:20:05.56,0:20:07.48,Default,,0000,0000,0000,,When that idiot plays too much,
+Dialogue: 0,0:20:07.52,0:20:11.06,Default,,0000,0000,0000,,he becomes hyper\Nand easily gets into that state…
+Dialogue: 0,0:20:14.23,0:20:17.89,Default,,0000,0000,0000,,But still...\NOnce he gets to the second state…
+Dialogue: 0,0:20:17.89,0:20:19.85,Default,,0000,0000,0000,,it’s instant death for the opponent.
+Dialogue: 0,0:20:49.31,0:21:01.06,Default,,0000,0000,0000,,Maximum destructive power…\Nwith 100% accuracy!
+Dialogue: 0,0:21:12.10,0:21:13.89,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:21:25.06,0:21:27.60,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:21:27.65,0:21:30.73,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:21:30.89,0:21:33.15,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:21:33.19,0:21:35.90,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:21:35.94,0:21:41.69,Default,,0000,0000,0000,,Would you think it was\Na bother if I approached you?
+Dialogue: 0,0:21:41.89,0:21:47.10,Default,,0000,0000,0000,,Despite my doubts,\NI worked up my courage
+Dialogue: 0,0:21:47.40,0:21:52.89,Default,,0000,0000,0000,,My clumsy attempts with words
+Dialogue: 0,0:21:52.90,0:21:58.60,Default,,0000,0000,0000,,You listened without turning away
+Dialogue: 0,0:21:59.52,0:22:04.89,Default,,0000,0000,0000,,No wonder I get carried away by you
+Dialogue: 0,0:22:05.10,0:22:11.89,Default,,0000,0000,0000,,But you don’t feel anything for me, do you?
+Dialogue: 0,0:22:12.31,0:22:14.98,Default,,0000,0000,0000,,I feel so sad
+Dialogue: 0,0:22:15.02,0:22:15.94,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:22:15.98,0:22:18.52,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:18.56,0:22:21.56,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:21.69,0:22:24.23,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:24.27,0:22:27.31,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:27.48,0:22:29.89,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:29.89,0:22:32.94,Default,,0000,0000,0000,,And you smiled
+Dialogue: 0,0:22:32.98,0:22:35.60,Default,,0000,0000,0000,,For the first time, I was able to speak
+Dialogue: 0,0:22:35.65,0:22:38.56,Default,,0000,0000,0000,,In my own words
+Dialogue: 0,0:22:38.77,0:22:43.10,Default,,0000,0000,0000,,For the first time, I spoke to you
+Dialogue: 0,0:22:51.60,0:22:53.27,Default,,0000,0000,0000,,He doesn’t carry out wasteful attacks.
+Dialogue: 0,0:22:53.31,0:22:56.35,Default,,0000,0000,0000,,And he accurately reads\Ninformation from the results.
+Dialogue: 0,0:22:56.40,0:23:00.89,Default,,0000,0000,0000,,No mistake, this guy’s the strongest\Nof all I’ve fought up until now!
+Dialogue: 0,0:23:01.27,0:23:03.81,Default,,0000,0000,0000,,I probably won’t be able\Nto evade the next attack.
+Dialogue: 0,0:23:04.27,0:23:07.89,Default,,0000,0000,0000,,I’ve had enough.\NI can’t dodge it anyway.
+Dialogue: 0,0:23:08.02,0:23:12.77,Default,,0000,0000,0000,,Since the secret of my eyes\Nhas been discovered, I won’t run or hide!
+Dialogue: 0,0:23:13.35,0:23:15.89,Default,,0000,0000,0000,,Next episode: “Losing is Not an Option!”

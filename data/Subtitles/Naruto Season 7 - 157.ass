@@ -1,0 +1,268 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.99,0:00:21.50,Default,,0000,0000,0000,,I want to try and gather\Nthe unrestrained winds
+Dialogue: 0,0:00:21.54,0:00:26.25,Default,,0000,0000,0000,,I’ll run toward the horizon,\Nalongside the wave crests
+Dialogue: 0,0:00:26.29,0:00:28.99,Default,,0000,0000,0000,,I’ve made my decision,
+Dialogue: 0,0:00:28.99,0:00:31.54,Default,,0000,0000,0000,,even if there’s a long way to go\Non that road.
+Dialogue: 0,0:00:31.58,0:00:36.04,Default,,0000,0000,0000,,I’ll continue towards the future I’ve planned
+Dialogue: 0,0:00:36.08,0:00:45.99,Default,,0000,0000,0000,,Time rushes us\NThe heartbeat speeds up
+Dialogue: 0,0:00:46.20,0:00:55.37,Default,,0000,0000,0000,,When I woke in the middle of a dream\NI kept searching for that same light
+Dialogue: 0,0:00:56.29,0:01:06.16,Default,,0000,0000,0000,,Under the shining star-lit sky with\Ncountless constellations and shadows
+Dialogue: 0,0:01:06.33,0:01:15.75,Default,,0000,0000,0000,,There was something beyond that…\NWhat were you gazing at?
+Dialogue: 0,0:01:16.25,0:01:20.91,Default,,0000,0000,0000,,What were you gazing at?
+Dialogue: 0,0:01:42.79,0:01:47.87,Default,,0000,0000,0000,,Run! The Curry of Life
+Dialogue: 0,0:02:06.16,0:02:08.66,Default,,0000,0000,0000,,Why…do you go that far…?
+Dialogue: 0,0:02:11.29,0:02:15.12,Default,,0000,0000,0000,,I’ll get so strong that Guy Sensei\Ncan look at me with a smile…
+Dialogue: 0,0:02:15.33,0:02:17.45,Default,,0000,0000,0000,,That is my Way of Ninja!
+Dialogue: 0,0:02:18.99,0:02:25.00,Default,,0000,0000,0000,,I see… So you live for the sake\Nof Guy or whatever…
+Dialogue: 0,0:02:27.45,0:02:30.99,Default,,0000,0000,0000,,Then have that Guy person\Ngive you a funeral!
+Dialogue: 0,0:02:31.37,0:02:35.99,Default,,0000,0000,0000,,I’m sure he’ll think of your hard work\Nand cry for you!
+Dialogue: 0,0:02:45.83,0:02:46.99,Default,,0000,0000,0000,,Ninja Art…
+Dialogue: 0,0:02:52.62,0:02:55.20,Default,,0000,0000,0000,,Thunder Dragon Tornado!
+Dialogue: 0,0:03:06.12,0:03:07.87,Default,,0000,0000,0000,,One, two!
+Dialogue: 0,0:03:08.12,0:03:12.16,Default,,0000,0000,0000,,Mom, don’t push!\NI can’t run that fast!
+Dialogue: 0,0:03:12.62,0:03:16.41,Default,,0000,0000,0000,,Oh my, this isn’t the time\Nfor complaining!
+Dialogue: 0,0:03:37.70,0:03:39.12,Default,,0000,0000,0000,,Please, hurry!
+Dialogue: 0,0:03:40.45,0:03:41.99,Default,,0000,0000,0000,,I’ll go on ahead, okay?!
+Dialogue: 0,0:03:42.99,0:03:43.99,Default,,0000,0000,0000,,Oh my!
+Dialogue: 0,0:03:50.99,0:03:55.99,Default,,0000,0000,0000,,Where’d he disappear to…?\NHas he evaporated to the bone…?
+Dialogue: 0,0:04:11.25,0:04:14.99,Default,,0000,0000,0000,,Hey! Hang in there!
+Dialogue: 0,0:04:15.58,0:04:17.16,Default,,0000,0000,0000,,One, two…!
+Dialogue: 0,0:04:18.83,0:04:20.45,Default,,0000,0000,0000,,One, two…!
+Dialogue: 0,0:04:20.62,0:04:22.62,Default,,0000,0000,0000,,I’ve had it…
+Dialogue: 0,0:04:22.99,0:04:25.99,Default,,0000,0000,0000,,Grandma Sansho, the curry of life!
+Dialogue: 0,0:04:26.12,0:04:26.99,Default,,0000,0000,0000,,One…
+Dialogue: 0,0:04:29.83,0:04:30.58,Default,,0000,0000,0000,,Two!
+Dialogue: 0,0:04:31.25,0:04:33.50,Default,,0000,0000,0000,,I'll look after Lee.
+Dialogue: 0,0:04:33.99,0:04:37.91,Default,,0000,0000,0000,,So give Neji and Naruto\Nsome curry!
+Dialogue: 0,0:04:41.16,0:04:43.04,Default,,0000,0000,0000,,Ranmaru, wait here.
+Dialogue: 0,0:04:43.83,0:04:44.41,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:04:44.83,0:04:48.66,Default,,0000,0000,0000,,I’m going to Naruto!\NPlease look after Lee.
+Dialogue: 0,0:04:53.83,0:04:56.58,Default,,0000,0000,0000,,You too, get your butt to Neji!
+Dialogue: 0,0:04:57.16,0:04:58.83,Default,,0000,0000,0000,,Oh… right, Mom.
+Dialogue: 0,0:05:00.99,0:05:04.58,Default,,0000,0000,0000,,Right… Open Lee’s mouth.
+Dialogue: 0,0:05:05.08,0:05:07.00,Default,,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:05:10.00,0:05:11.79,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:05:24.99,0:05:27.99,Default,,0000,0000,0000,,So even the curry of life\Nwon’t work, huh…?
+Dialogue: 0,0:05:32.95,0:05:33.75,Default,,0000,0000,0000,,Oh my!
+Dialogue: 0,0:05:36.45,0:05:37.79,Default,,0000,0000,0000,,Oh my…
+Dialogue: 0,0:05:39.00,0:05:42.62,Default,,0000,0000,0000,,You little--! This isn’t the time\Nto be passing out!
+Dialogue: 0,0:05:44.99,0:05:46.29,Default,,0000,0000,0000,,Hot!
+Dialogue: 0,0:05:46.37,0:05:47.99,Default,,0000,0000,0000,,What’re you doing, believe it?!
+Dialogue: 0,0:05:47.99,0:05:48.99,Default,,0000,0000,0000,,Are you awake?
+Dialogue: 0,0:05:49.25,0:05:53.41,Default,,0000,0000,0000,,Oh, Tenten?\NDidn’t you fall off the cliff?!
+Dialogue: 0,0:05:54.25,0:05:57.29,Default,,0000,0000,0000,,You should’ve realized\Nthat was his trap!
+Dialogue: 0,0:05:57.58,0:06:00.99,Default,,0000,0000,0000,,What?! I was totally snow-jobbed,\Nbelieve it!
+Dialogue: 0,0:06:01.75,0:06:03.45,Default,,0000,0000,0000,,Neji, Neji!
+Dialogue: 0,0:06:06.50,0:06:10.37,Default,,0000,0000,0000,,It’s the curry of life!\NEat this and get better.
+Dialogue: 0,0:06:14.04,0:06:14.99,Default,,0000,0000,0000,,Neji?!
+Dialogue: 0,0:06:15.66,0:06:17.08,Default,,0000,0000,0000,,Neji!
+Dialogue: 0,0:06:27.79,0:06:31.33,Default,,0000,0000,0000,,Oh my, thank goodness he got better!
+Dialogue: 0,0:06:31.66,0:06:32.25,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:43.58,0:06:45.41,Default,,0000,0000,0000,,The world is spinning…
+Dialogue: 0,0:06:45.83,0:06:47.91,Default,,0000,0000,0000,,He’s acting kind of strange…
+Dialogue: 0,0:06:48.12,0:06:49.41,Default,,0000,0000,0000,,Oh my…
+Dialogue: 0,0:06:50.99,0:06:52.41,Default,,0000,0000,0000,,One, two…
+Dialogue: 0,0:06:52.91,0:06:56.08,Default,,0000,0000,0000,,Put the curry of life in this,\Npot and all.
+Dialogue: 0,0:06:56.50,0:06:57.33,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:07:01.33,0:07:02.25,Default,,0000,0000,0000,,Hot!
+Dialogue: 0,0:07:02.99,0:07:03.95,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:07:09.87,0:07:11.20,Default,,0000,0000,0000,,Oh! The curry…
+Dialogue: 0,0:07:14.99,0:07:16.37,Default,,0000,0000,0000,,This is bad!
+Dialogue: 0,0:07:19.83,0:07:22.37,Default,,0000,0000,0000,,Don’t worry about it. Move it!
+Dialogue: 0,0:07:24.04,0:07:25.99,Default,,0000,0000,0000,,On account of that wine…
+Dialogue: 0,0:07:26.95,0:07:28.20,Default,,0000,0000,0000,,Will he be okay?
+Dialogue: 0,0:07:28.99,0:07:34.04,Default,,0000,0000,0000,,Oh my, there’s a slight problem\Nwith the ingredients…
+Dialogue: 0,0:07:34.29,0:07:37.12,Default,,0000,0000,0000,,But there shouldn’t be\Nmuch difference in efficacy.
+Dialogue: 0,0:07:38.12,0:07:39.08,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:07:52.99,0:07:53.87,Default,,0000,0000,0000,,Oh my…!
+Dialogue: 0,0:07:54.00,0:07:56.04,Default,,0000,0000,0000,,He’s coming this way.
+Dialogue: 0,0:07:56.87,0:07:59.12,Default,,0000,0000,0000,,It’s okay! I’ll go…
+Dialogue: 0,0:08:08.41,0:08:13.00,Default,,0000,0000,0000,,You’re still alive?!\NI have to finish you off…
+Dialogue: 0,0:08:13.41,0:08:14.16,Default,,0000,0000,0000,,Raiga…
+Dialogue: 0,0:08:18.99,0:08:21.62,Default,,0000,0000,0000,,You’re alive, Ranmaru?!
+Dialogue: 0,0:08:22.20,0:08:23.33,Default,,0000,0000,0000,,It’s Ranmaru!
+Dialogue: 0,0:08:23.99,0:08:28.41,Default,,0000,0000,0000,,That kid gave Raiga his own Chakra\Nand brought him back to life…
+Dialogue: 0,0:08:28.83,0:08:29.37,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:29.99,0:08:32.16,Default,,0000,0000,0000,,Raiga looked at Ranmaru\Nwho was unconscious
+Dialogue: 0,0:08:32.41,0:08:35.45,Default,,0000,0000,0000,,and assumed he was dead…
+Dialogue: 0,0:08:36.00,0:08:38.66,Default,,0000,0000,0000,,So that’s why he was saying\Nall that gibberish
+Dialogue: 0,0:08:38.70,0:08:41.12,Default,,0000,0000,0000,,about Ranmaru watching\Nfrom high above.
+Dialogue: 0,0:08:41.83,0:08:46.08,Default,,0000,0000,0000,,And I managed to get Ranmaru\Nto the Curry of Life Shop.
+Dialogue: 0,0:08:47.00,0:08:48.79,Default,,0000,0000,0000,,So that’s what happened…
+Dialogue: 0,0:08:49.83,0:08:52.58,Default,,0000,0000,0000,,We’ll again be together forever,\NRanmaru…
+Dialogue: 0,0:08:53.04,0:08:57.29,Default,,0000,0000,0000,,Let’s kill them and have fun\Ndoing lots of bad things.
+Dialogue: 0,0:08:57.83,0:08:59.37,Default,,0000,0000,0000,,Right, Raiga…
+Dialogue: 0,0:09:10.12,0:09:12.08,Default,,0000,0000,0000,,Some fog has appeared.
+Dialogue: 0,0:09:12.91,0:09:16.99,Default,,0000,0000,0000,,It’s okay.\NI’ll be your eyes again, Raiga…
+Dialogue: 0,0:09:17.99,0:09:22.75,Default,,0000,0000,0000,,Right. There’s nothing to be afraid of\Nif I’m with you, Ranmaru.
+Dialogue: 0,0:09:23.99,0:09:25.16,Default,,0000,0000,0000,,Now, let’s go, Raiga!
+Dialogue: 0,0:09:26.37,0:09:27.45,Default,,0000,0000,0000,,What about them?
+Dialogue: 0,0:09:29.25,0:09:30.99,Default,,0000,0000,0000,,They’re dead now…
+Dialogue: 0,0:09:32.37,0:09:36.20,Default,,0000,0000,0000,,Right…Shall we search\Nfor our next prey?
+Dialogue: 0,0:09:42.00,0:09:44.37,Default,,0000,0000,0000,,But there’s a precipitous cliff ahead!
+Dialogue: 0,0:09:44.99,0:09:47.99,Default,,0000,0000,0000,,That Ranmaru, what’s he going to do?!
+Dialogue: 0,0:09:49.83,0:09:50.99,Default,,0000,0000,0000,,Could it be…
+Dialogue: 0,0:09:51.12,0:09:54.99,Default,,0000,0000,0000,,he’s going to atone for the past sins\Ntogether with Raiga?!
+Dialogue: 0,0:09:55.83,0:09:59.54,Default,,0000,0000,0000,,He might be planning to lead Raiga\Nover that cliff and die together!
+Dialogue: 0,0:09:59.79,0:10:00.91,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:10:05.25,0:10:08.99,Default,,0000,0000,0000,,What’s with you, jerk?!
+Dialogue: 0,0:10:11.29,0:10:11.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:19.50,0:10:20.54,Default,,0000,0000,0000,,Lee…
+Dialogue: 0,0:10:31.87,0:10:33.08,Default,,0000,0000,0000,,Hey…
+Dialogue: 0,0:10:45.45,0:10:48.70,Default,,0000,0000,0000,,Here I go…!
+Dialogue: 0,0:10:55.95,0:10:56.87,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:00.95,0:11:02.04,Default,,0000,0000,0000,,You…brat!
+Dialogue: 0,0:11:07.33,0:11:09.29,Default,,0000,0000,0000,,He suddenly recovered!
+Dialogue: 0,0:11:20.37,0:11:22.45,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:11:41.91,0:11:43.25,Default,,0000,0000,0000,,He’s fast!
+Dialogue: 0,0:11:54.99,0:11:56.58,Default,,0000,0000,0000,,You okay, Ranmaru?
+Dialogue: 0,0:11:59.20,0:12:01.00,Default,,0000,0000,0000,,You stay here!
+Dialogue: 0,0:12:01.12,0:12:02.70,Default,,0000,0000,0000,,Take me with you…
+Dialogue: 0,0:12:07.16,0:12:09.16,Default,,0000,0000,0000,,Oh! Ranmaru!
+Dialogue: 0,0:12:11.41,0:12:13.16,Default,,0000,0000,0000,,Where’d you go, Ranmaru?!
+Dialogue: 0,0:12:21.20,0:12:24.41,Default,,0000,0000,0000,,You little--! You’re going to pay for this!
+Dialogue: 0,0:12:27.50,0:12:30.99,Default,,0000,0000,0000,,Ninja Art: Thunder Armor!
+Dialogue: 0,0:12:34.08,0:12:34.99,Default,,0000,0000,0000,,Now…
+Dialogue: 0,0:12:38.87,0:12:39.66,Default,,0000,0000,0000,,Bring it!
+Dialogue: 0,0:12:39.99,0:12:41.29,Default,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:12:41.41,0:12:42.83,Default,,0000,0000,0000,,Here I go…
+Dialogue: 0,0:13:02.79,0:13:04.25,Default,,0000,0000,0000,,That was a heck of a blow.
+Dialogue: 0,0:13:04.29,0:13:09.75,Default,,0000,0000,0000,,If I hadn’t put on the Thunder Armor;\NI’d be giving myself a funeral.
+Dialogue: 0,0:13:16.16,0:13:21.29,Default,,0000,0000,0000,,In order to remember your hard work\NI’ll give you your funeral myself!
+Dialogue: 0,0:13:21.91,0:13:23.00,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:13:32.33,0:13:33.79,Default,,0000,0000,0000,,What’s the idea…?
+Dialogue: 0,0:13:35.83,0:13:39.58,Default,,0000,0000,0000,,I want to feed you…\Nthe curry of life, too.
+Dialogue: 0,0:13:40.20,0:13:40.99,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:41.83,0:13:45.12,Default,,0000,0000,0000,,You’ll realize that you’re not alone\Nif you eat the curry…
+Dialogue: 0,0:13:45.99,0:13:48.25,Default,,0000,0000,0000,,Everyone’s feelings are blended in…
+Dialogue: 0,0:13:48.99,0:13:50.29,Default,,0000,0000,0000,,What’re you saying?!
+Dialogue: 0,0:13:50.99,0:13:53.87,Default,,0000,0000,0000,,Let’s stop hurting people…
+Dialogue: 0,0:13:53.99,0:13:55.99,Default,,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:13:56.95,0:13:58.99,Default,,0000,0000,0000,,You’re my eyes and ears!
+Dialogue: 0,0:13:59.99,0:14:04.66,Default,,0000,0000,0000,,We’ll no longer be two people in one\Nif you say such selfish things!
+Dialogue: 0,0:14:05.83,0:14:07.83,Default,,0000,0000,0000,,Shoot your lightning…
+Dialogue: 0,0:14:08.58,0:14:13.99,Default,,0000,0000,0000,,If I die, the strong Raiga will also die…\NWe’re two in one, so…
+Dialogue: 0,0:14:18.20,0:14:23.33,Default,,0000,0000,0000,,I…won’t be able to remember you\Nfrom when you were cool…
+Dialogue: 0,0:14:24.16,0:14:27.25,Default,,0000,0000,0000,,I must give you a funeral!
+Dialogue: 0,0:14:35.45,0:14:37.99,Default,,0000,0000,0000,,Stop…Raiga!
+Dialogue: 0,0:14:38.54,0:14:40.95,Default,,0000,0000,0000,,Multi Shadow Clone Jutsu!
+Dialogue: 0,0:14:50.00,0:14:51.99,Default,,0000,0000,0000,,There are lots of Narutos…
+Dialogue: 0,0:14:54.00,0:14:56.91,Default,,0000,0000,0000,,Did I get drunk?
+Dialogue: 0,0:15:05.29,0:15:09.62,Default,,0000,0000,0000,,You little--! It makes no difference,\Nno matter how many of you there are!
+Dialogue: 0,0:15:09.99,0:15:12.25,Default,,0000,0000,0000,,Neji, wake up!
+Dialogue: 0,0:15:15.00,0:15:16.79,Default,,0000,0000,0000,,What’re you doing, Neji?
+Dialogue: 0,0:15:20.20,0:15:24.12,Default,,0000,0000,0000,,Eat this and get it together!\NWe’ve got trouble here!
+Dialogue: 0,0:15:24.33,0:15:25.41,Default,,0000,0000,0000,,That’s…
+Dialogue: 0,0:15:32.25,0:15:32.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:33.25,0:15:34.37,Default,,0000,0000,0000,,Now we’ve done it…
+Dialogue: 0,0:15:35.87,0:15:40.54,Default,,0000,0000,0000,,You’re going to kill by your own hand\Nthe friend who risked his life to save you?!
+Dialogue: 0,0:15:40.99,0:15:43.62,Default,,0000,0000,0000,,Wha--?! Ranmaru betrayed me…
+Dialogue: 0,0:15:44.33,0:15:47.87,Default,,0000,0000,0000,,He broke the promise for it\Nto be just us two forever!
+Dialogue: 0,0:15:48.08,0:15:50.87,Default,,0000,0000,0000,,He’s not all alone anymore!
+Dialogue: 0,0:15:51.50,0:15:53.70,Default,,0000,0000,0000,,He figured out that it’s more fun…
+Dialogue: 0,0:15:53.75,0:15:58.00,Default,,0000,0000,0000,,to laugh with everyone\Nthan to cry with you!
+Dialogue: 0,0:15:58.99,0:15:59.99,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:16:00.50,0:16:03.87,Default,,0000,0000,0000,,Ranmaru, you were going to die\Nwith Raiga, weren’t you?!
+Dialogue: 0,0:16:04.45,0:16:06.58,Default,,0000,0000,0000,,Don’t be thinking about\Nsomething like that anymore!
+Dialogue: 0,0:16:06.99,0:16:08.66,Default,,0000,0000,0000,,You’re free now!
+Dialogue: 0,0:16:09.25,0:16:13.50,Default,,0000,0000,0000,,Don't worry. I won’t let Raiga\Ngive you a funeral, no matter what!
+Dialogue: 0,0:16:13.99,0:16:17.83,Default,,0000,0000,0000,,Hey, don’t be shooting off your mouth,\Nyou shrimp.
+Dialogue: 0,0:16:17.99,0:16:19.41,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:16:20.87,0:16:24.87,Default,,0000,0000,0000,,Don’t underestimate me.\NI’m Raiga Kurosuki!
+Dialogue: 0,0:16:24.91,0:16:29.87,Default,,0000,0000,0000,,I’ve been counted before as one of\Nthe Seven Ninja Swords Men of the Mist.
+Dialogue: 0,0:16:30.58,0:16:32.95,Default,,0000,0000,0000,,I won’t take orders from\Nthe likes of you!
+Dialogue: 0,0:16:32.99,0:16:35.41,Default,,0000,0000,0000,,Oh. That’s right.\NHe’s a Ninja Swordsman, huh?
+Dialogue: 0,0:16:35.99,0:16:38.95,Default,,0000,0000,0000,,If you’re one of the Seven Ninja Swords\NMen of the Mist,
+Dialogue: 0,0:16:38.99,0:16:41.08,Default,,0000,0000,0000,,then I’ve got something to ask you.
+Dialogue: 0,0:16:41.99,0:16:44.62,Default,,0000,0000,0000,,You know the guy called Kisame, right?!
+Dialogue: 0,0:16:45.37,0:16:49.45,Default,,0000,0000,0000,,Kisame? I hate that guy!
+Dialogue: 0,0:16:50.00,0:16:53.70,Default,,0000,0000,0000,,So I’ll give him a funeral for sure\Nthe next time I see him!
+Dialogue: 0,0:16:53.95,0:16:54.58,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:54.99,0:16:55.75,Default,,0000,0000,0000,,I hate him.
+Dialogue: 0,0:16:56.99,0:17:00.99,Default,,0000,0000,0000,,I hate all the Seven Ninja Swords\NMen of the Mist!
+Dialogue: 0,0:17:01.99,0:17:07.16,Default,,0000,0000,0000,,Ranmaru. You’re the only one\Nwho’s a friend to me…
+Dialogue: 0,0:17:08.87,0:17:14.00,Default,,0000,0000,0000,,But Ranmaru…\Nyou’ve made other friends…
+Dialogue: 0,0:17:16.79,0:17:19.45,Default,,0000,0000,0000,,We’re not two in one anymore…
+Dialogue: 0,0:17:21.58,0:17:22.41,Default,,0000,0000,0000,,Raiga…
+Dialogue: 0,0:17:28.08,0:17:31.04,Default,,0000,0000,0000,,Impudent!
+Dialogue: 0,0:17:34.75,0:17:38.79,Default,,0000,0000,0000,,Who do you think taught you\Nabout the outside world?!
+Dialogue: 0,0:17:40.99,0:17:43.99,Default,,0000,0000,0000,,It’s a funeral for you!
+Dialogue: 0,0:18:12.12,0:18:16.41,Default,,0000,0000,0000,,Clone Spinning Axe Kick!
+Dialogue: 0,0:18:17.99,0:18:19.25,Default,,0000,0000,0000,,You little…
+Dialogue: 0,0:18:19.62,0:18:22.79,Default,,0000,0000,0000,,Clone… Body Slam!
+Dialogue: 0,0:18:33.58,0:18:34.79,Default,,0000,0000,0000,,Ranmaru…
+Dialogue: 0,0:18:40.99,0:18:42.66,Default,,0000,0000,0000,,Now you're free…
+Dialogue: 0,0:18:43.70,0:18:44.45,Default,,0000,0000,0000,,Raiga?!
+Dialogue: 0,0:18:49.12,0:18:53.70,Default,,0000,0000,0000,,Thunder! Give me my funeral!
+Dialogue: 0,0:19:24.99,0:19:28.91,Default,,0000,0000,0000,,One, two… One…
+Dialogue: 0,0:19:29.66,0:19:30.99,Default,,0000,0000,0000,,Not loud enough!
+Dialogue: 0,0:19:31.54,0:19:34.25,Default,,0000,0000,0000,,– You can’t make genuine curry of life…\N– One, two…
+Dialogue: 0,0:19:34.29,0:19:36.83,Default,,0000,0000,0000,,– if you don’t stir it with all your heart!\N– One, two…
+Dialogue: 0,0:19:36.91,0:19:38.04,Default,,0000,0000,0000,,Oh my!
+Dialogue: 0,0:19:39.70,0:19:42.25,Default,,0000,0000,0000,,Ouch… What’re you doing, Mom?!
+Dialogue: 0,0:19:42.99,0:19:44.50,Default,,0000,0000,0000,,Oh my, Karashi!
+Dialogue: 0,0:19:44.83,0:19:49.79,Default,,0000,0000,0000,,It’s a hundred years too soon for you\Nto be uttering the word "genuine"!
+Dialogue: 0,0:19:50.29,0:19:53.79,Default,,0000,0000,0000,,You too, start your training over again\Nfrom the beginning!
+Dialogue: 0,0:19:54.58,0:19:55.50,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:55.99,0:19:56.79,Default,,0000,0000,0000,,Grandma Sansho!
+Dialogue: 0,0:19:58.16,0:20:00.25,Default,,0000,0000,0000,,We’ll be leaving now!
+Dialogue: 0,0:20:00.99,0:20:01.95,Default,,0000,0000,0000,,Thanks for your help.
+Dialogue: 0,0:20:02.04,0:20:04.45,Default,,0000,0000,0000,,I leave Ranmaru to you!
+Dialogue: 0,0:20:05.37,0:20:08.91,Default,,0000,0000,0000,,Oh my… I’ll train him mercilessly\Nas a successor…
+Dialogue: 0,0:20:08.95,0:20:11.37,Default,,0000,0000,0000,,to the preparation of the curry of life!
+Dialogue: 0,0:20:12.54,0:20:15.99,Default,,0000,0000,0000,,Good luck, Ranmaru, Karashi.
+Dialogue: 0,0:20:16.66,0:20:17.54,Default,,0000,0000,0000,,– Thanks! 					– Thanks!
+Dialogue: 0,0:20:18.62,0:20:24.29,Default,,0000,0000,0000,,Oh my… It’s a long way\Nto the Village Hidden in Leaves.
+Dialogue: 0,0:20:25.04,0:20:26.99,Default,,0000,0000,0000,,I made you guys some special curry
+Dialogue: 0,0:20:26.99,0:20:29.45,Default,,0000,0000,0000,,that’ll give you guys ten thousand times\Nthe strength.
+Dialogue: 0,0:20:29.58,0:20:32.20,Default,,0000,0000,0000,,Be on your way after having some.
+Dialogue: 0,0:20:36.41,0:20:39.62,Default,,0000,0000,0000,,What’s this very spicy-looking\Nbright red color…?
+Dialogue: 0,0:20:39.99,0:20:42.58,Default,,0000,0000,0000,,It kind of hurts my eyes, believe it!
+Dialogue: 0,0:20:42.62,0:20:45.00,Default,,0000,0000,0000,,Oh! That looks good!
+Dialogue: 0,0:20:45.04,0:20:47.45,Default,,0000,0000,0000,,– What? Seriously?!\N– What? Seriously?!
+Dialogue: 0,0:20:48.58,0:20:51.54,Default,,0000,0000,0000,,Lady Tsunade will get mad at us\Nif we don’t get back soon!
+Dialogue: 0,0:20:51.58,0:20:53.16,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:20:53.20,0:20:56.33,Default,,0000,0000,0000,,Unfortunately, we’ll have to be going now.
+Dialogue: 0,0:20:57.25,0:20:58.37,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:21:02.66,0:21:07.83,Default,,0000,0000,0000,,Oh my, those kids were sure\Ndiffident and reserved…
+Dialogue: 0,0:21:08.99,0:21:12.66,Default,,0000,0000,0000,,The curry… The curry…!
+Dialogue: 0,0:21:30.75,0:21:41.91,Default,,0000,0000,0000,,So many things happen\Non this endless road, huh?
+Dialogue: 0,0:21:42.25,0:21:53.37,Default,,0000,0000,0000,,Although you’re strong-willed,\Nyour voice wavered on the phone today
+Dialogue: 0,0:21:54.00,0:22:04.83,Default,,0000,0000,0000,,What dreams did you chase to get here?
+Dialogue: 0,0:22:05.00,0:22:16.99,Default,,0000,0000,0000,,Even I have times when\NI just don’t understand, baby
+Dialogue: 0,0:22:16.99,0:22:28.33,Default,,0000,0000,0000,,When you’re sad, I’ll be close to you
+Dialogue: 0,0:22:28.58,0:22:39.99,Default,,0000,0000,0000,,Even on nights when we’re apart,\NI’ll be close to you
+Dialogue: 0,0:22:40.04,0:22:45.70,Default,,0000,0000,0000,,I’ll be close to you
+Dialogue: 0,0:22:50.99,0:22:52.99,Default,,0000,0000,0000,,One’s duty as team captain:
+Dialogue: 0,0:22:52.99,0:22:54.91,Default,,0000,0000,0000,,"Issue appropriate instructions\Nto the subordinates,
+Dialogue: 0,0:22:54.95,0:22:57.99,Default,,0000,0000,0000,,protect the lives of your men and\Npromptly carry out your mission."
+Dialogue: 0,0:22:58.00,0:23:00.99,Default,,0000,0000,0000,,Awesome, that is so cool!
+Dialogue: 0,0:23:01.00,0:23:05.66,Default,,0000,0000,0000,,This is so perfect for me, Naruto, the man\Nwho will eventually become a Hokage!
+Dialogue: 0,0:23:05.87,0:23:09.95,Default,,0000,0000,0000,,All right, I’ll use this to instantly get closer\Nto the title of Hokage, believe it!
+Dialogue: 0,0:23:10.33,0:23:15.37,Default,,0000,0000,0000,,Next time: “Follow My Lead!\NThe Great Survival Challenge!”

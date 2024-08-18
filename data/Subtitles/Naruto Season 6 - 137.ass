@@ -1,0 +1,315 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.51,0:00:16.80,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.85,0:00:21.55,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:22.14,0:00:26.35,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.39,0:00:29.59,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.55,0:00:33.68,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.72,0:00:40.14,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:41.01,0:00:45.59,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.59,0:00:49.10,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.59,0:00:52.55,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.59,0:00:55.55,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.59,0:00:59.76,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.97,0:01:02.43,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.47,0:01:08.26,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.59,0:01:11.89,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.89,0:01:14.35,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.39,0:01:19.18,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.22,0:01:21.51,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.55,0:01:23.93,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.97,0:01:27.47,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:42.59,0:01:46.59,Default,,0000,0000,0000,,A Town of Outlaws!\N                          The Shadow of the Fuma Clan
+Dialogue: 0,0:01:46.93,0:01:50.97,Default,,0000,0000,0000,,It seems that the most bustling traveler’s\Ntown in the Land of Rice Paddies
+Dialogue: 0,0:01:51.01,0:01:52.59,Default,,0000,0000,0000,,is at the bottom of these mountains.
+Dialogue: 0,0:01:52.85,0:01:54.97,Default,,0000,0000,0000,,You’re going to weird places again
+Dialogue: 0,0:01:55.01,0:01:57.55,Default,,0000,0000,0000,,in the name of investigation,\Naren’t you, Pervy Sage?!
+Dialogue: 0,0:01:57.64,0:01:59.47,Default,,0000,0000,0000,,Please stop it already!
+Dialogue: 0,0:01:59.60,0:02:03.59,Default,,0000,0000,0000,,We had a rough time shaking\Noff the bodyguards from the rip-off bar.
+Dialogue: 0,0:02:06.51,0:02:08.59,Default,,0000,0000,0000,,I understand your point,
+Dialogue: 0,0:02:08.59,0:02:13.55,Default,,0000,0000,0000,,but there’s no other way to find\NVillage Hidden in the Sound.
+Dialogue: 0,0:02:13.59,0:02:16.51,Default,,0000,0000,0000,,Gee, I don’t like it either, but…
+Dialogue: 0,0:02:17.72,0:02:19.59,Default,,0000,0000,0000,,This is truly a problem…
+Dialogue: 0,0:02:19.59,0:02:23.59,Default,,0000,0000,0000,,But we have to do things\Nwe don’t like… Right?!
+Dialogue: 0,0:02:25.39,0:02:26.59,Default,,0000,0000,0000,,Okay, let’s go!
+Dialogue: 0,0:02:26.59,0:02:29.43,Default,,0000,0000,0000,,Naruto, Sakura,\Ndon’t drag your feet!
+Dialogue: 0,0:02:29.64,0:02:33.93,Default,,0000,0000,0000,,Investigation, investigation!\NWhat a pain.
+Dialogue: 0,0:02:34.10,0:02:35.59,Default,,0000,0000,0000,,He looks like he’s having fun.
+Dialogue: 0,0:02:35.85,0:02:38.14,Default,,0000,0000,0000,,He hasn’t learned at all.
+Dialogue: 0,0:02:43.51,0:02:45.59,Default,,0000,0000,0000,,Fuma Alley
+Dialogue: 0,0:02:47.59,0:02:49.59,Default,,0000,0000,0000,,– Oww! 					– That's my line!
+Dialogue: 0,0:02:53.97,0:02:57.76,Default,,0000,0000,0000,,This is even rougher than\Nthe traveler’s town before.
+Dialogue: 0,0:02:58.18,0:03:02.55,Default,,0000,0000,0000,,Let’s just take a pass on this place\Nand find Village Hidden in the Sound.
+Dialogue: 0,0:03:14.59,0:03:15.59,Default,,0000,0000,0000,,Say…
+Dialogue: 0,0:03:15.59,0:03:17.72,Default,,0000,0000,0000,,I don’t have any more money.
+Dialogue: 0,0:03:18.01,0:03:20.26,Default,,0000,0000,0000,,I don’t have any more money either!
+Dialogue: 0,0:03:20.47,0:03:21.39,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:03:22.59,0:03:24.76,Default,,0000,0000,0000,,You guys go get some food with that
+Dialogue: 0,0:03:24.80,0:03:26.93,Default,,0000,0000,0000,,and wait in the temple\Non the outskirts of town.
+Dialogue: 0,0:03:32.47,0:03:34.93,Default,,0000,0000,0000,,Information accumulates\Nin this kind of place,
+Dialogue: 0,0:03:34.97,0:03:37.55,Default,,0000,0000,0000,,but it’s not good for you guys to see.
+Dialogue: 0,0:03:37.59,0:03:40.76,Default,,0000,0000,0000,,I’ll sacrifice myself and check it out.
+Dialogue: 0,0:03:43.59,0:03:45.51,Default,,0000,0000,0000,,He’s a surprisingly nice person…
+Dialogue: 0,0:03:47.05,0:03:50.80,Default,,0000,0000,0000,,Sakura… You’re still so naïve.
+Dialogue: 0,0:03:51.68,0:03:54.01,Default,,0000,0000,0000,,Where should I investigate first?
+Dialogue: 0,0:03:54.55,0:03:58.59,Default,,0000,0000,0000,,Gee, how rough…\Nlnvestigations are painful.
+Dialogue: 0,0:04:00.76,0:04:04.80,Default,,0000,0000,0000,,Let’s leave the Pervy Sage be\Nand check somewhere else.
+Dialogue: 0,0:04:08.93,0:04:10.39,Default,,0000,0000,0000,,What’s the matter, Sakura?
+Dialogue: 0,0:04:13.51,0:04:17.01,Default,,0000,0000,0000,,I don’t think…\NSasuke’s in this land anymore.
+Dialogue: 0,0:04:17.51,0:04:19.18,Default,,0000,0000,0000,,What’s the matter?!
+Dialogue: 0,0:04:19.22,0:04:22.01,Default,,0000,0000,0000,,We won’t know that if\Nwe don’t investigate!
+Dialogue: 0,0:04:22.30,0:04:23.35,Default,,0000,0000,0000,,Yeah, but…
+Dialogue: 0,0:04:25.26,0:04:26.89,Default,,0000,0000,0000,,Our opponent is Orochimaru.
+Dialogue: 0,0:04:27.51,0:04:29.72,Default,,0000,0000,0000,,Of course, things might not go easily.
+Dialogue: 0,0:04:31.59,0:04:32.89,Default,,0000,0000,0000,,But you know…
+Dialogue: 0,0:04:34.59,0:04:37.26,Default,,0000,0000,0000,,But I’m sure we’ll find him!
+Dialogue: 0,0:04:39.18,0:04:39.89,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:04:43.26,0:04:43.93,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:04:48.22,0:04:50.18,Default,,0000,0000,0000,,You’re…the one from before?!
+Dialogue: 0,0:04:53.59,0:04:55.59,Default,,0000,0000,0000,,This kid’s…hurt…
+Dialogue: 0,0:04:56.26,0:04:57.22,Default,,0000,0000,0000,,You…?
+Dialogue: 0,0:04:58.18,0:04:58.97,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:05:26.10,0:05:27.51,Default,,0000,0000,0000,,Substitution, huh…?
+Dialogue: 0,0:05:28.59,0:05:29.85,Default,,0000,0000,0000,,We let them get away.
+Dialogue: 0,0:05:32.93,0:05:34.51,Default,,0000,0000,0000,,Don’t worry…
+Dialogue: 0,0:05:34.59,0:05:39.59,Default,,0000,0000,0000,,My cute children\Nare making a silver trail for us.
+Dialogue: 0,0:05:39.64,0:05:42.47,Default,,0000,0000,0000,,They can’t escape from us now…
+Dialogue: 0,0:05:46.60,0:05:50.18,Default,,0000,0000,0000,,It seems those two are\Npetty Ninja from somewhere.
+Dialogue: 0,0:05:50.22,0:05:53.18,Default,,0000,0000,0000,,But getting involved with us\Nhas sealed their fate.
+Dialogue: 0,0:05:53.47,0:05:54.59,Default,,0000,0000,0000,,It’s unfortunate for them…
+Dialogue: 0,0:05:55.30,0:06:00.10,Default,,0000,0000,0000,,The objective of those who sneak into\Nthis land is Lord Orochimaru, anyway.
+Dialogue: 0,0:06:21.89,0:06:25.14,Default,,0000,0000,0000,,Sure enough, the skin of\Na young woman is supple.
+Dialogue: 0,0:06:25.18,0:06:26.30,Default,,0000,0000,0000,,You’re mean!
+Dialogue: 0,0:06:26.51,0:06:28.30,Default,,0000,0000,0000,,Eh? Oh, sorry sorry.
+Dialogue: 0,0:06:29.47,0:06:34.14,Default,,0000,0000,0000,,By the way, have you guys heard\Nrumors about the Sound Village?
+Dialogue: 0,0:06:34.22,0:06:35.59,Default,,0000,0000,0000,,The Sound Village?
+Dialogue: 0,0:06:35.93,0:06:38.59,Default,,0000,0000,0000,,I’ve never heard the name\Nof such a village.
+Dialogue: 0,0:06:38.64,0:06:41.47,Default,,0000,0000,0000,,I’ll tip you handsomely if you tell me.
+Dialogue: 0,0:06:43.68,0:06:46.01,Default,,0000,0000,0000,,But I really don’t know.
+Dialogue: 0,0:06:46.18,0:06:47.80,Default,,0000,0000,0000,,I’ve never heard of it.
+Dialogue: 0,0:06:48.97,0:06:50.35,Default,,0000,0000,0000,,I’ve heard of it!
+Dialogue: 0,0:06:52.51,0:06:55.59,Default,,0000,0000,0000,,One of my regulars knows\Na lot about it.
+Dialogue: 0,0:06:56.43,0:06:57.14,Default,,0000,0000,0000,,Wanna come?
+Dialogue: 0,0:06:57.85,0:06:58.59,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:00.39,0:07:02.55,Default,,0000,0000,0000,,His home is in the back of this alley.
+Dialogue: 0,0:07:23.01,0:07:24.39,Default,,0000,0000,0000,,Trapped like a rat.
+Dialogue: 0,0:07:24.59,0:07:28.80,Default,,0000,0000,0000,,What, it’s a seedy old man!\NHey! He’s got money, right?
+Dialogue: 0,0:07:29.76,0:07:32.68,Default,,0000,0000,0000,,Yeah. I saw it with my own eyes.
+Dialogue: 0,0:07:33.05,0:07:38.05,Default,,0000,0000,0000,,You punks! Stop the idle chatter\Nand take care of him now!
+Dialogue: 0,0:07:38.59,0:07:39.59,Default,,0000,0000,0000,,Right, boss!
+Dialogue: 0,0:07:48.18,0:07:51.60,Default,,0000,0000,0000,,Getting infatuated with girls has sealed\Nyour fate! Rest in peace!
+Dialogue: 0,0:08:05.85,0:08:08.85,Default,,0000,0000,0000,,Ninja Art: 					Needle Jizo.
+Dialogue: 0,0:08:11.64,0:08:12.89,Default,,0000,0000,0000,,You punk…
+Dialogue: 0,0:08:15.18,0:08:18.05,Default,,0000,0000,0000,,I’m in a hurry…
+Dialogue: 0,0:08:18.72,0:08:21.01,Default,,0000,0000,0000,,I think it’d be best if you\Nanswer compliantly
+Dialogue: 0,0:08:21.05,0:08:26.51,Default,,0000,0000,0000,,whether or not you know\Nabout Hidden Sound Village.
+Dialogue: 0,0:08:26.89,0:08:31.59,Default,,0000,0000,0000,,You’re a fool if I look like\Na compliant person to you!
+Dialogue: 0,0:08:32.59,0:08:33.89,Default,,0000,0000,0000,,You a Ninja?
+Dialogue: 0,0:08:35.14,0:08:36.43,Default,,0000,0000,0000,,If so?
+Dialogue: 0,0:08:36.80,0:08:38.59,Default,,0000,0000,0000,,Interesting!
+Dialogue: 0,0:08:39.26,0:08:42.14,Default,,0000,0000,0000,,We’ve reduced ourselves to\Nbeing thieves,
+Dialogue: 0,0:08:42.18,0:08:45.59,Default,,0000,0000,0000,,but we’re a somewhat\Nfamous Shinobi clan around here!
+Dialogue: 0,0:08:46.05,0:08:49.97,Default,,0000,0000,0000,,Instead of taking your life,\NI could hire you if you want!
+Dialogue: 0,0:08:51.14,0:08:52.59,Default,,0000,0000,0000,,A Ninja, huh…
+Dialogue: 0,0:08:54.59,0:08:57.59,Default,,0000,0000,0000,,Then I don’t need to go easy on you.
+Dialogue: 0,0:08:58.64,0:09:01.30,Default,,0000,0000,0000,,Don’t be acting like a big shot, old man!
+Dialogue: 0,0:09:01.60,0:09:03.60,Default,,0000,0000,0000,,Shut up, you squirt!
+Dialogue: 0,0:09:05.72,0:09:08.55,Default,,0000,0000,0000,,A Ninja refers to one who endures.
+Dialogue: 0,0:09:09.22,0:09:10.59,Default,,0000,0000,0000,,Those who couldn’t endure\Ntheir hunger pangs
+Dialogue: 0,0:09:10.59,0:09:14.47,Default,,0000,0000,0000,,and resort to use their diligently\Nstudied Jutsu for stealing
+Dialogue: 0,0:09:14.51,0:09:16.59,Default,,0000,0000,0000,,are not called Ninja!
+Dialogue: 0,0:09:16.76,0:09:18.60,Default,,0000,0000,0000,,I won’t let that pass!
+Dialogue: 0,0:09:19.55,0:09:21.93,Default,,0000,0000,0000,,Thinking we’re fellow Shinobi,\Nwe took pity on you.
+Dialogue: 0,0:09:21.97,0:09:23.64,Default,,0000,0000,0000,,Acting all conceited!
+Dialogue: 0,0:09:24.59,0:09:27.30,Default,,0000,0000,0000,,Regret after being sliced in two!
+Dialogue: 0,0:09:32.05,0:09:34.85,Default,,0000,0000,0000,,Fuma Ninja Blade Zanbato!
+Dialogue: 0,0:09:40.68,0:09:42.22,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:09:56.05,0:09:57.89,Default,,0000,0000,0000,,You punk! How dare you\Ndo that to the boss!
+Dialogue: 0,0:09:58.59,0:10:00.39,Default,,0000,0000,0000,,We won’t let you do\Nany more than that!
+Dialogue: 0,0:10:00.51,0:10:01.22,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:10:01.35,0:10:03.43,Default,,0000,0000,0000,,Hold it, you guys!
+Dialogue: 0,0:10:16.26,0:10:18.35,Default,,0000,0000,0000,,I didn’t know you were so good!
+Dialogue: 0,0:10:18.80,0:10:19.89,Default,,0000,0000,0000,,That Jutsu just now…
+Dialogue: 0,0:10:20.22,0:10:23.30,Default,,0000,0000,0000,,I sense you must be\Na person of stature!
+Dialogue: 0,0:10:23.80,0:10:27.93,Default,,0000,0000,0000,,If it’s all right,\Nmay I ask you your name?
+Dialogue: 0,0:10:30.68,0:10:33.59,Default,,0000,0000,0000,,If you don’t know, then I shall tell you!
+Dialogue: 0,0:10:36.72,0:10:39.97,Default,,0000,0000,0000,,Women become infatuated\Nwith his sex appeal.
+Dialogue: 0,0:10:40.01,0:10:42.59,Default,,0000,0000,0000,,He’s strong against Shinobi,\Nbut has a soft spot for women!
+Dialogue: 0,0:10:42.59,0:10:45.22,Default,,0000,0000,0000,,He exists in Village Hidden in the Leaves…
+Dialogue: 0,0:10:45.89,0:10:48.05,Default,,0000,0000,0000,,And made his name known…
+Dialogue: 0,0:10:56.59,0:11:02.55,Default,,0000,0000,0000,,Master Jiraiya, that’s me!
+Dialogue: 0,0:11:03.59,0:11:05.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:05.93,0:11:09.51,Default,,0000,0000,0000,,You guys bow your heads\Nand beg for your lives!
+Dialogue: 0,0:11:09.89,0:11:11.68,Default,,0000,0000,0000,,We’ll all be killed!
+Dialogue: 0,0:11:13.59,0:11:15.10,Default,,0000,0000,0000,,– Yes, sir! 					– Yes, sir!
+Dialogue: 0,0:11:16.72,0:11:20.18,Default,,0000,0000,0000,,Although we didn’t know,\Nbeing so rude to Master Jiraiya,
+Dialogue: 0,0:11:20.22,0:11:23.68,Default,,0000,0000,0000,,reputed as one of the Legendary\NSannin of the Leaf Village!
+Dialogue: 0,0:11:23.80,0:11:27.59,Default,,0000,0000,0000,,We beg for your forgiveness!
+Dialogue: 0,0:11:29.55,0:11:32.47,Default,,0000,0000,0000,,So my name’s known in this land, too…
+Dialogue: 0,0:11:32.51,0:11:34.35,Default,,0000,0000,0000,,Well, it’s okay.
+Dialogue: 0,0:11:34.59,0:11:39.59,Default,,0000,0000,0000,,So is it true that you know about\NVillage Hidden in the Sound?
+Dialogue: 0,0:11:39.97,0:11:43.72,Default,,0000,0000,0000,,Yes! There were many Ninja clans\Nin the Land of Rice Paddies,
+Dialogue: 0,0:11:43.76,0:11:45.97,Default,,0000,0000,0000,,including us Fuma.
+Dialogue: 0,0:11:46.89,0:11:48.89,Default,,0000,0000,0000,,We divided up the roles\Namongst ourselves
+Dialogue: 0,0:11:48.93,0:11:52.89,Default,,0000,0000,0000,,and the Ninja of this land\Nwere doing well in their own way.
+Dialogue: 0,0:11:54.01,0:11:56.59,Default,,0000,0000,0000,,Until that man appeared…
+Dialogue: 0,0:11:58.59,0:12:00.01,Default,,0000,0000,0000,,Who was that man?
+Dialogue: 0,0:12:00.93,0:12:03.59,Default,,0000,0000,0000,,It’s regrettable to even speak\Nof that name…
+Dialogue: 0,0:12:05.89,0:12:08.55,Default,,0000,0000,0000,,It was Orochimaru!
+Dialogue: 0,0:12:23.59,0:12:25.59,Default,,0000,0000,0000,,It’s okay! Rest easy!
+Dialogue: 0,0:12:26.72,0:12:29.47,Default,,0000,0000,0000,,If germs get into the wound\Nand you get tetanus,
+Dialogue: 0,0:12:29.51,0:12:30.59,Default,,0000,0000,0000,,you won’t be saved.
+Dialogue: 0,0:12:31.47,0:12:34.64,Default,,0000,0000,0000,,But fortunately, I have medicine,\Nso let me treat you.
+Dialogue: 0,0:12:35.05,0:12:37.76,Default,,0000,0000,0000,,They’re not coming.
+Dialogue: 0,0:12:38.30,0:12:40.80,Default,,0000,0000,0000,,Just show us your wound.
+Dialogue: 0,0:12:45.89,0:12:47.05,Default,,0000,0000,0000,,Well, huh?
+Dialogue: 0,0:12:50.72,0:12:53.60,Default,,0000,0000,0000,,Naruto, go wait outside\Ntill my treatment is done.\N164.01	01:37:53:04	01:37:53:24	Huh?
+Dialogue: 0,0:13:00.72,0:13:04.60,Default,,0000,0000,0000,,Why do I have to be\Nthe only one chased out?!
+Dialogue: 0,0:13:06.47,0:13:07.76,Default,,0000,0000,0000,,Jeez!
+Dialogue: 0,0:13:08.43,0:13:10.35,Default,,0000,0000,0000,,I guess it can’t be helped.
+Dialogue: 0,0:13:17.01,0:13:18.14,Default,,0000,0000,0000,,Don’t peek!
+Dialogue: 0,0:13:27.59,0:13:28.64,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:13:29.10,0:13:30.97,Default,,0000,0000,0000,,Okay, show me your wound.
+Dialogue: 0,0:13:53.30,0:13:54.39,Default,,0000,0000,0000,,How mean…
+Dialogue: 0,0:13:54.43,0:13:56.59,Default,,0000,0000,0000,,To hit me out of the blue…?
+Dialogue: 0,0:14:00.80,0:14:02.93,Default,,0000,0000,0000,,Whoa, interesting.
+Dialogue: 0,0:14:03.59,0:14:05.59,Default,,0000,0000,0000,,Naruto! You can come in!
+Dialogue: 0,0:14:06.22,0:14:08.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:14:12.72,0:14:14.89,Default,,0000,0000,0000,,A cute girl?
+Dialogue: 0,0:14:18.89,0:14:21.68,Default,,0000,0000,0000,,Sakura! This girl!\NWho the heck is this girl?!
+Dialogue: 0,0:14:21.72,0:14:23.93,Default,,0000,0000,0000,,How dense. It’s the Ninja\Nfrom a moment ago.
+Dialogue: 0,0:14:32.14,0:14:33.47,Default,,0000,0000,0000,,Come to think of it…
+Dialogue: 0,0:14:36.80,0:14:38.47,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:14:44.05,0:14:45.72,Default,,0000,0000,0000,,I am Sasame Fuma.
+Dialogue: 0,0:14:53.14,0:14:57.30,Default,,0000,0000,0000,,Sasame… Why were you being\Nchased by those guys?
+Dialogue: 0,0:14:57.59,0:14:59.43,Default,,0000,0000,0000,,If you like, try talking about it.
+Dialogue: 0,0:14:59.72,0:15:01.80,Default,,0000,0000,0000,,We might be able to help.
+Dialogue: 0,0:15:08.80,0:15:13.22,Default,,0000,0000,0000,,They were the Sound Ninja protecting\NOrochimaru’s residence.
+Dialogue: 0,0:15:13.60,0:15:14.39,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:14.93,0:15:19.14,Default,,0000,0000,0000,,I’m sorry for mistaking you guys as\None of them the other day.
+Dialogue: 0,0:15:19.64,0:15:21.76,Default,,0000,0000,0000,,That doesn’t matter!
+Dialogue: 0,0:15:22.05,0:15:24.59,Default,,0000,0000,0000,,We’re also looking for Orochimaru!
+Dialogue: 0,0:15:25.18,0:15:27.30,Default,,0000,0000,0000,,Would you please give us the details?
+Dialogue: 0,0:15:29.01,0:15:29.76,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:15:30.72,0:15:34.60,Default,,0000,0000,0000,,It all started with the Feudal Lord\Nof the Land of Rice Paddies
+Dialogue: 0,0:15:34.64,0:15:36.85,Default,,0000,0000,0000,,launching an attack on\Na neighboring land
+Dialogue: 0,0:15:36.89,0:15:38.43,Default,,0000,0000,0000,,in an attempt to expand the territory.
+Dialogue: 0,0:15:40.22,0:15:42.43,Default,,0000,0000,0000,,The Land of Rice Paddies is a small land…
+Dialogue: 0,0:15:42.72,0:15:45.22,Default,,0000,0000,0000,,And there aren’t that many Shinobi.
+Dialogue: 0,0:15:47.26,0:15:50.60,Default,,0000,0000,0000,,It was a foolhardy attack.\NLosing was expected…
+Dialogue: 0,0:15:52.30,0:15:54.59,Default,,0000,0000,0000,,And the Shinobi clans of this land
+Dialogue: 0,0:15:54.59,0:15:58.93,Default,,0000,0000,0000,,who participated in\Nthe losing battle went to ruin…
+Dialogue: 0,0:16:00.55,0:16:03.59,Default,,0000,0000,0000,,We the Fuma Clan as well.
+Dialogue: 0,0:16:05.26,0:16:07.18,Default,,0000,0000,0000,,I hear that among\Nthe surviving Shinobi,
+Dialogue: 0,0:16:07.22,0:16:08.51,Default,,0000,0000,0000,,there are those who have left the land
+Dialogue: 0,0:16:08.55,0:16:10.93,Default,,0000,0000,0000,,and those who have\Nstooped to become thieves.
+Dialogue: 0,0:16:11.59,0:16:14.72,Default,,0000,0000,0000,,Even so, we’ve lived believing\Nin a restoration of the clan
+Dialogue: 0,0:16:14.76,0:16:17.01,Default,,0000,0000,0000,,and continued to live hiding\Nin the shadows.
+Dialogue: 0,0:16:18.59,0:16:22.97,Default,,0000,0000,0000,,At that time, an emissary of Village Hidden\Nin the Sound appeared before us
+Dialogue: 0,0:16:23.01,0:16:27.59,Default,,0000,0000,0000,,attempting to create the first full-scale\NShinobi village in the Land of Rice Paddies.
+Dialogue: 0,0:16:31.01,0:16:33.60,Default,,0000,0000,0000,,The emissary of\Nthe Sound Village said…
+Dialogue: 0,0:16:33.93,0:16:39.05,Default,,0000,0000,0000,,My master Orochimaru is\Ngathering all sorts of Jutsu!
+Dialogue: 0,0:16:39.59,0:16:42.51,Default,,0000,0000,0000,,He has taken an interest\Nin your Jutsu well.
+Dialogue: 0,0:16:43.18,0:16:44.68,Default,,0000,0000,0000,,Depending on your work,
+Dialogue: 0,0:16:44.72,0:16:47.01,Default,,0000,0000,0000,,you might be given the chance\Nto serve the Feudal Lord!
+Dialogue: 0,0:16:48.89,0:16:51.14,Default,,0000,0000,0000,,My cousin Arashi…
+Dialogue: 0,0:16:51.89,0:16:54.51,Default,,0000,0000,0000,,was an up-and-coming star\Nfor the restoration of the clan…
+Dialogue: 0,0:16:55.59,0:16:58.60,Default,,0000,0000,0000,,Arashi as a representative of the clan
+Dialogue: 0,0:16:58.64,0:17:01.64,Default,,0000,0000,0000,,headed for Village Hidden in\Nthe Sound together with the emissary.
+Dialogue: 0,0:17:02.01,0:17:02.97,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:17:07.43,0:17:08.22,Default,,0000,0000,0000,,And then…?
+Dialogue: 0,0:17:09.97,0:17:14.59,Default,,0000,0000,0000,,We waited for a notice from Arashi, but…
+Dialogue: 0,0:17:15.59,0:17:17.14,Default,,0000,0000,0000,,There is no word from him, huh?
+Dialogue: 0,0:17:21.68,0:17:25.30,Default,,0000,0000,0000,,Damn it!\NHe was tricked by that Orochimaru!
+Dialogue: 0,0:17:25.35,0:17:26.18,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:17:29.35,0:17:30.05,Default,,0000,0000,0000,,Oh…!
+Dialogue: 0,0:17:30.80,0:17:35.30,Default,,0000,0000,0000,,Uh, even so, your cousin Arashi\Nmight be safe…
+Dialogue: 0,0:17:35.47,0:17:38.35,Default,,0000,0000,0000,,We don’t know, right?\NAnd so…and so…
+Dialogue: 0,0:17:38.39,0:17:39.22,Default,,0000,0000,0000,,Idiot…!
+Dialogue: 0,0:17:39.39,0:17:41.72,Default,,0000,0000,0000,,I’m going to save Arashi!
+Dialogue: 0,0:17:43.35,0:17:47.18,Default,,0000,0000,0000,,I have a small body and\Nmy power is weak.
+Dialogue: 0,0:17:47.51,0:17:48.72,Default,,0000,0000,0000,,So no matter what I did…
+Dialogue: 0,0:17:48.76,0:17:51.59,Default,,0000,0000,0000,,I did nothing but become a hindrance\Neven in Ninjutsu training…
+Dialogue: 0,0:17:51.60,0:17:55.43,Default,,0000,0000,0000,,But Arashi always saved me!
+Dialogue: 0,0:17:56.80,0:17:59.60,Default,,0000,0000,0000,,Everyone in the village has\Nalready given up, but…
+Dialogue: 0,0:17:59.89,0:18:03.59,Default,,0000,0000,0000,,So I’ll find Village Hidden\Nin the Sound alone…
+Dialogue: 0,0:18:04.68,0:18:07.10,Default,,0000,0000,0000,,And so you were chased by\Nthe Sound Ninja, right?
+Dialogue: 0,0:18:07.59,0:18:10.76,Default,,0000,0000,0000,,This time, it’s my turn to save Arashi!
+Dialogue: 0,0:18:12.59,0:18:13.64,Default,,0000,0000,0000,,Sasame!
+Dialogue: 0,0:18:15.85,0:18:19.22,Default,,0000,0000,0000,,I…I want to be of help to Arashi!
+Dialogue: 0,0:18:20.89,0:18:21.89,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:18:22.59,0:18:25.22,Default,,0000,0000,0000,,Yeah…I know!
+Dialogue: 0,0:18:26.26,0:18:30.47,Default,,0000,0000,0000,,We have to go to Village of the Sound\Nto bring back Sasuke anyway, so!
+Dialogue: 0,0:18:31.22,0:18:32.68,Default,,0000,0000,0000,,Now instead of one,
+Dialogue: 0,0:18:32.72,0:18:35.05,Default,,0000,0000,0000,,it’s just that there are two guys\Nfor us to bring back.
+Dialogue: 0,0:18:39.35,0:18:42.97,Default,,0000,0000,0000,,I’ll save your cousin, Sasame!
+Dialogue: 0,0:18:45.51,0:18:46.43,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:18:49.76,0:18:51.05,Default,,0000,0000,0000,,Eew! A spider…
+Dialogue: 0,0:18:55.59,0:18:56.59,Default,,0000,0000,0000,,What’s this?!
+Dialogue: 0,0:19:01.80,0:19:02.60,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:19:02.85,0:19:04.80,Default,,0000,0000,0000,,Wha--! What’s this?!
+Dialogue: 0,0:19:08.59,0:19:10.59,Default,,0000,0000,0000,,Ninja Art: Wind Spiders!
+Dialogue: 0,0:19:12.47,0:19:16.93,Default,,0000,0000,0000,,My cute children made a path\Nfor me out of silver thread
+Dialogue: 0,0:19:16.97,0:19:20.64,Default,,0000,0000,0000,,and told me where you guys\Nwere going.
+Dialogue: 0,0:19:23.10,0:19:29.22,Default,,0000,0000,0000,,All three of you together will descend\Ninto hell while bearing the secret!
+Dialogue: 0,0:19:34.85,0:19:36.85,Default,,0000,0000,0000,,Naruto! It’s the Ventriloquism Jutsu!
+Dialogue: 0,0:19:37.55,0:19:39.26,Default,,0000,0000,0000,,He’s scattering his voice\Nto multiple directions
+Dialogue: 0,0:19:39.30,0:19:41.35,Default,,0000,0000,0000,,and covering up location and number!
+Dialogue: 0,0:19:41.55,0:19:44.55,Default,,0000,0000,0000,,I get it! I leave this girl to you, Sakura!
+Dialogue: 0,0:19:47.59,0:19:49.72,Default,,0000,0000,0000,,Multi-Shadow Clone Jutsu!
+Dialogue: 0,0:19:59.89,0:20:03.55,Default,,0000,0000,0000,,Okay! Bring it on from anywhere!
+Dialogue: 0,0:20:05.59,0:20:08.39,Default,,0000,0000,0000,,It’s a large number,\Nbut it’s just Clone Jutsu.
+Dialogue: 0,0:20:08.43,0:20:10.26,Default,,0000,0000,0000,,No. Look closely, Jigumo!
+Dialogue: 0,0:20:10.80,0:20:12.59,Default,,0000,0000,0000,,The threads are getting tangled.
+Dialogue: 0,0:20:14.05,0:20:17.85,Default,,0000,0000,0000,,All of the clones are tangible?!\NShadow clones?!
+Dialogue: 0,0:20:18.60,0:20:21.14,Default,,0000,0000,0000,,If so… Kagero!
+Dialogue: 0,0:20:21.59,0:20:22.76,Default,,0000,0000,0000,,Understood…
+Dialogue: 0,0:20:24.39,0:20:25.85,Default,,0000,0000,0000,,Come out!
+Dialogue: 0,0:20:27.97,0:20:34.39,Default,,0000,0000,0000,,Borne to be born, lived to live,\None sunrise and one sunset…
+Dialogue: 0,0:20:34.59,0:20:37.35,Default,,0000,0000,0000,,The life of a mayfly lasts but one day.
+Dialogue: 0,0:20:37.43,0:20:42.43,Default,,0000,0000,0000,,Thinking that such a fleeting life\Nis pitiable is, in fact, pitiable…
+Dialogue: 0,0:20:42.59,0:20:44.35,Default,,0000,0000,0000,,Know that I’m at my best
+Dialogue: 0,0:20:44.39,0:20:48.14,Default,,0000,0000,0000,,when living in the dark and\Ndeep in the ground!
+Dialogue: 0,0:20:52.14,0:20:53.35,Default,,0000,0000,0000,,Ninja Art:
+Dialogue: 0,0:20:53.59,0:20:55.59,Default,,0000,0000,0000,,Ant Lion Jutsu!
+Dialogue: 0,0:21:23.59,0:21:28.35,Default,,0000,0000,0000,,When I recalled the parts one by one,
+Dialogue: 0,0:21:28.39,0:21:34.59,Default,,0000,0000,0000,,I felt as though\NI had understood everything
+Dialogue: 0,0:21:34.60,0:21:45.26,Default,,0000,0000,0000,,Faded words which I kept so close to me
+Dialogue: 0,0:21:45.59,0:21:54.97,Default,,0000,0000,0000,,Speechless nights, a hint of warmth,
+Dialogue: 0,0:21:56.60,0:22:01.72,Default,,0000,0000,0000,,and this distant yearning for you
+Dialogue: 0,0:22:02.05,0:22:11.10,Default,,0000,0000,0000,,I live, simply repeating this cycle
+Dialogue: 0,0:22:13.26,0:22:22.72,Default,,0000,0000,0000,,Held in my two hands\NA droplet of time
+Dialogue: 0,0:22:24.22,0:22:33.26,Default,,0000,0000,0000,,Softly clutching forgotten memories\NLost words
+Dialogue: 0,0:22:42.05,0:22:45.93,Default,,0000,0000,0000,,I’ll keep these thoughts…
+Dialogue: 0,0:22:50.59,0:22:53.80,Default,,0000,0000,0000,,Darn it! What a pesky bunch!
+Dialogue: 0,0:22:54.26,0:22:57.80,Default,,0000,0000,0000,,But I won’t be done in so easily!
+Dialogue: 0,0:22:57.89,0:23:01.55,Default,,0000,0000,0000,,I have to kick that Orochimaru jerk’s butt
+Dialogue: 0,0:23:01.59,0:23:04.97,Default,,0000,0000,0000,,and bring back Sasuke and\NSasame’s cousin!
+Dialogue: 0,0:23:05.59,0:23:08.14,Default,,0000,0000,0000,,It doesn’t matter if you guys\Nare powerhouses!
+Dialogue: 0,0:23:08.39,0:23:12.59,Default,,0000,0000,0000,,I’ll kick all of your butts,\Nso bring it on from anywhere!
+Dialogue: 0,0:23:13.05,0:23:16.18,Default,,0000,0000,0000,,Next episode, “Pure Betrayal,\Nand a Fleeting Plea!”

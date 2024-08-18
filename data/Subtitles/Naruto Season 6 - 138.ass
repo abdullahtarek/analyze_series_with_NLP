@@ -1,0 +1,305 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.43,0:00:16.72,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.76,0:00:21.47,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:22.05,0:00:26.26,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.30,0:00:29.59,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.47,0:00:33.60,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.64,0:00:40.05,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:40.93,0:00:45.51,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.55,0:00:49.01,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.51,0:00:52.47,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.51,0:00:55.47,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.51,0:00:59.68,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.89,0:01:02.35,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.39,0:01:08.18,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.59,0:01:11.80,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.80,0:01:14.26,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.30,0:01:19.10,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.14,0:01:21.43,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.47,0:01:23.85,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.89,0:01:27.39,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:44.01,0:01:48.89,Default,,0000,0000,0000,,Pure Betrayal,\N                                and a Fleeting Plea!
+Dialogue: 0,0:01:56.93,0:01:59.30,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:02:03.60,0:02:05.14,Default,,0000,0000,0000,,Naruto! Grab on!
+Dialogue: 0,0:02:08.18,0:02:09.59,Default,,0000,0000,0000,,Okay, pull him up!
+Dialogue: 0,0:02:10.85,0:02:11.80,Default,,0000,0000,0000,,There, eh?!
+Dialogue: 0,0:02:15.68,0:02:17.59,Default,,0000,0000,0000,,Damn! Was it a clone?!
+Dialogue: 0,0:02:18.39,0:02:19.59,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:02:20.43,0:02:22.14,Default,,0000,0000,0000,,Counterattack, here it comes!
+Dialogue: 0,0:02:27.35,0:02:29.59,Default,,0000,0000,0000,,Rasengan, go!
+Dialogue: 0,0:02:29.97,0:02:30.59,Default,,0000,0000,0000,,What--?!
+Dialogue: 0,0:02:31.05,0:02:32.59,Default,,0000,0000,0000,,You little…!
+Dialogue: 0,0:02:42.10,0:02:42.80,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:02:42.93,0:02:46.14,Default,,0000,0000,0000,,Be careful, Naruto!\NThere are two others hiding!
+Dialogue: 0,0:02:48.22,0:02:49.97,Default,,0000,0000,0000,,Hey, there they are!
+Dialogue: 0,0:02:50.60,0:02:51.76,Default,,0000,0000,0000,,Kagero!
+Dialogue: 0,0:02:51.89,0:02:53.51,Default,,0000,0000,0000,,Let’s retreat for now!
+Dialogue: 0,0:02:54.76,0:02:55.60,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:02:59.35,0:03:02.26,Default,,0000,0000,0000,,Th-They’re totally quick\Nat running away!
+Dialogue: 0,0:03:13.10,0:03:16.01,Default,,0000,0000,0000,,Naruto, why’re you spacing out?!
+Dialogue: 0,0:03:17.47,0:03:18.64,Default,,0000,0000,0000,,Where’s Sakura?
+Dialogue: 0,0:03:18.72,0:03:20.35,Default,,0000,0000,0000,,Oh! Oh, no!
+Dialogue: 0,0:03:21.72,0:03:22.85,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:03:25.85,0:03:27.59,Default,,0000,0000,0000,,Oh! Naruto…
+Dialogue: 0,0:03:28.01,0:03:31.35,Default,,0000,0000,0000,,Thank goodness!\NYou’re okay, Sasame.
+Dialogue: 0,0:03:32.59,0:03:35.14,Default,,0000,0000,0000,,Yes… Sasame’s okay.
+Dialogue: 0,0:03:35.59,0:03:36.59,Default,,0000,0000,0000,,Sasame's totally okay.
+Dialogue: 0,0:03:38.05,0:03:40.05,Default,,0000,0000,0000,,What’re you mad about?
+Dialogue: 0,0:03:48.10,0:03:49.68,Default,,0000,0000,0000,,Let’s take a break here.
+Dialogue: 0,0:03:52.59,0:03:55.59,Default,,0000,0000,0000,,Sakura…Who’s the cute girl?
+Dialogue: 0,0:03:55.76,0:03:57.59,Default,,0000,0000,0000,,Okay! That’s close enough…
+Dialogue: 0,0:03:57.76,0:03:59.85,Default,,0000,0000,0000,,What’s the deal…Sakura?
+Dialogue: 0,0:04:00.43,0:04:02.64,Default,,0000,0000,0000,,Okay, don’t come any closer!
+Dialogue: 0,0:04:04.59,0:04:09.55,Default,,0000,0000,0000,,Wh-What… I’m only interested\Nin adult women!
+Dialogue: 0,0:04:09.59,0:04:11.05,Default,,0000,0000,0000,,You must not misunderstand…!
+Dialogue: 0,0:04:11.10,0:04:12.18,Default,,0000,0000,0000,,Don’t misunderstand!
+Dialogue: 0,0:04:13.30,0:04:14.59,Default,,0000,0000,0000,,It’s not a misunderstanding.
+Dialogue: 0,0:04:14.59,0:04:18.89,Default,,0000,0000,0000,,It seems Sakura’s finally figured out\NPervy Sage’s true nature!
+Dialogue: 0,0:04:19.39,0:04:21.85,Default,,0000,0000,0000,,I told you to stop calling me\Na “Pervy Sage”!
+Dialogue: 0,0:04:21.89,0:04:23.64,Default,,0000,0000,0000,,Then you’re the Lewd Sage!
+Dialogue: 0,0:04:24.14,0:04:28.26,Default,,0000,0000,0000,,Both of you stop it! Sasame’s scared!
+Dialogue: 0,0:04:28.59,0:04:29.35,Default,,0000,0000,0000,,– Okay. 					– Okay.
+Dialogue: 0,0:04:30.43,0:04:31.80,Default,,0000,0000,0000,,Jeez…
+Dialogue: 0,0:04:32.80,0:04:34.47,Default,,0000,0000,0000,,This girl is Sasame…
+Dialogue: 0,0:04:34.64,0:04:36.30,Default,,0000,0000,0000,,She’s a Ninja from\Nthe Land of Rice Paddies…
+Dialogue: 0,0:04:36.72,0:04:38.51,Default,,0000,0000,0000,,A member of the Fuma Clan.
+Dialogue: 0,0:04:38.55,0:04:41.14,Default,,0000,0000,0000,,She had her cousin taken away\Nby Orochimaru
+Dialogue: 0,0:04:41.30,0:04:42.85,Default,,0000,0000,0000,,and was looking for his hideout.
+Dialogue: 0,0:04:43.10,0:04:46.59,Default,,0000,0000,0000,,Right. And the Ninja just now\Nwere after Sasame
+Dialogue: 0,0:04:46.60,0:04:49.10,Default,,0000,0000,0000,,in order to protect the secret\Nof the hideout!
+Dialogue: 0,0:04:49.43,0:04:52.35,Default,,0000,0000,0000,,Oh…With the Fuma Clan, huh?
+Dialogue: 0,0:04:52.51,0:04:53.97,Default,,0000,0000,0000,,Huh?! You know?
+Dialogue: 0,0:04:54.59,0:04:59.59,Default,,0000,0000,0000,,I had contact with Ninja in the town\Nwho’d left the Fuma Clan.
+Dialogue: 0,0:05:00.22,0:05:05.05,Default,,0000,0000,0000,,What! So you were actually doing\Nsome serious investigating, Pervy Sage?!
+Dialogue: 0,0:05:05.22,0:05:07.26,Default,,0000,0000,0000,,I-I can’t believe it…!
+Dialogue: 0,0:05:07.59,0:05:10.39,Default,,0000,0000,0000,,Well you see, when I went to\Nthis nice-looking bar,
+Dialogue: 0,0:05:10.43,0:05:13.59,Default,,0000,0000,0000,,it just turned out to be their hideout.
+Dialogue: 0,0:05:13.60,0:05:17.22,Default,,0000,0000,0000,,What! So after all, you were just\Nhanging out with some girls, right?
+Dialogue: 0,0:05:17.35,0:05:20.55,Default,,0000,0000,0000,,You mustn’t talk in a way that’ll\Nlead to a misunderstanding!
+Dialogue: 0,0:05:20.80,0:05:23.10,Default,,0000,0000,0000,,Even Sakura who respects me will…
+Dialogue: 0,0:05:23.26,0:05:26.05,Default,,0000,0000,0000,,I’ve long since stopped respecting you!
+Dialogue: 0,0:05:26.43,0:05:28.97,Default,,0000,0000,0000,,I…I see…
+Dialogue: 0,0:05:29.76,0:05:31.51,Default,,0000,0000,0000,,Members of the Fuma Clan…?
+Dialogue: 0,0:05:31.97,0:05:35.93,Default,,0000,0000,0000,,Yeah. The boss was called Hanzaki\Nor something…
+Dialogue: 0,0:05:35.97,0:05:39.30,Default,,0000,0000,0000,,Hanzaki and the others are traitors\Nwho abandoned the clan.
+Dialogue: 0,0:05:39.60,0:05:40.59,Default,,0000,0000,0000,,Oh…
+Dialogue: 0,0:05:41.10,0:05:43.59,Default,,0000,0000,0000,,Did those people do something?
+Dialogue: 0,0:05:44.43,0:05:47.47,Default,,0000,0000,0000,,They were after my travel money,\Nso I taught them a lesson.
+Dialogue: 0,0:05:47.51,0:05:50.59,Default,,0000,0000,0000,,While at it, I attempted to ask them about\NOrochimaru’s hideout…
+Dialogue: 0,0:05:51.14,0:05:53.01,Default,,0000,0000,0000,,but they didn’t know anything.
+Dialogue: 0,0:05:55.10,0:05:59.60,Default,,0000,0000,0000,,I can show you the way to\NOrochimaru’s hideout.
+Dialogue: 0,0:06:00.30,0:06:01.59,Default,,0000,0000,0000,,For real?!
+Dialogue: 0,0:06:01.59,0:06:02.30,Default,,0000,0000,0000,,Yes…
+Dialogue: 0,0:06:02.59,0:06:04.05,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:06:14.80,0:06:17.68,Default,,0000,0000,0000,,Your wound hasn’t healed yet.\NDon’t push yourself.
+Dialogue: 0,0:06:17.97,0:06:19.89,Default,,0000,0000,0000,,Yes…but…
+Dialogue: 0,0:06:22.89,0:06:25.55,Default,,0000,0000,0000,,This is the entrance to\Nthe Village Hidden in Sound.
+Dialogue: 0,0:06:25.97,0:06:28.59,Default,,0000,0000,0000,,Orochimaru’s hideout is deep\Nin those mountains…
+Dialogue: 0,0:06:34.76,0:06:39.10,Default,,0000,0000,0000,,I bet Sasuke is\Nsomewhere in those mountains…
+Dialogue: 0,0:06:39.55,0:06:42.22,Default,,0000,0000,0000,,Okay, at last!
+Dialogue: 0,0:06:42.51,0:06:43.89,Default,,0000,0000,0000,,Let’s hurry!
+Dialogue: 0,0:06:44.05,0:06:45.14,Default,,0000,0000,0000,,Well, hold on…
+Dialogue: 0,0:06:47.72,0:06:48.59,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:06:48.97,0:06:53.51,Default,,0000,0000,0000,,If we don’t hurry, night will fall before\Nwe arrive at Orochimaru’s hideout…
+Dialogue: 0,0:06:53.68,0:06:54.80,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:06:54.85,0:06:58.47,Default,,0000,0000,0000,,Sasuke is just a stone’s throw away!\NPervy Sage!
+Dialogue: 0,0:06:58.64,0:07:01.35,Default,,0000,0000,0000,,If we’re going to save him,\Nwe should do it as soon as possible!
+Dialogue: 0,0:07:01.59,0:07:03.43,Default,,0000,0000,0000,,Why do we have to wait?!
+Dialogue: 0,0:07:05.51,0:07:06.14,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:07:06.72,0:07:07.59,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:07.60,0:07:08.59,Default,,0000,0000,0000,,Gee…
+Dialogue: 0,0:07:10.14,0:07:13.39,Default,,0000,0000,0000,,Well…I’m hungry, you see…
+Dialogue: 0,0:07:13.60,0:07:16.59,Default,,0000,0000,0000,,You know… All Shinobi must …
+Dialogue: 0,0:07:16.60,0:07:18.93,Default,,0000,0000,0000,,I can’t fight if I’m hungry!
+Dialogue: 0,0:07:19.51,0:07:22.05,Default,,0000,0000,0000,,Up ahead will become full-blown\Nenemy territory.
+Dialogue: 0,0:07:22.55,0:07:25.80,Default,,0000,0000,0000,,We won’t have time to\Nhave relaxed meals, so…
+Dialogue: 0,0:07:27.64,0:07:30.26,Default,,0000,0000,0000,,Okay, you guys eat, too! Eat!
+Dialogue: 0,0:07:34.43,0:07:37.72,Default,,0000,0000,0000,,Mm, this is good…
+Dialogue: 0,0:07:38.10,0:07:41.43,Default,,0000,0000,0000,,You prepared this especially for us?
+Dialogue: 0,0:07:41.47,0:07:47.55,Default,,0000,0000,0000,,No. It seems the prettiest girl\Nin the bar fell to my charm, you see.
+Dialogue: 0,0:07:49.72,0:07:53.59,Default,,0000,0000,0000,,She made these with tender loving care.
+Dialogue: 0,0:07:55.68,0:07:57.68,Default,,0000,0000,0000,,I’ll go make some tea.
+Dialogue: 0,0:07:58.26,0:08:00.10,Default,,0000,0000,0000,,Oh…thanks…
+Dialogue: 0,0:08:20.76,0:08:22.76,Default,,0000,0000,0000,,Tastes pretty good.
+Dialogue: 0,0:08:25.76,0:08:27.59,Default,,0000,0000,0000,,Tea is ready.
+Dialogue: 0,0:08:30.68,0:08:31.59,Default,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:08:33.43,0:08:34.22,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:08:34.26,0:08:35.35,Default,,0000,0000,0000,,Thanks…
+Dialogue: 0,0:08:35.97,0:08:36.68,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:08:37.01,0:08:38.64,Default,,0000,0000,0000,,Thank you, Sasame…
+Dialogue: 0,0:08:40.76,0:08:44.43,Default,,0000,0000,0000,,Sasame, you should come here\Nand eat with us, too.
+Dialogue: 0,0:08:44.64,0:08:45.59,Default,,0000,0000,0000,,Okay…
+Dialogue: 0,0:09:10.60,0:09:12.72,Default,,0000,0000,0000,,Pervy Sage…What’s wrong…?!
+Dialogue: 0,0:09:14.26,0:09:15.10,Default,,0000,0000,0000,,Naruto…!
+Dialogue: 0,0:09:50.43,0:09:52.93,Default,,0000,0000,0000,,Sasame did it…
+Dialogue: 0,0:09:53.59,0:09:55.64,Default,,0000,0000,0000,,Since it’s come to this, they’re ours.
+Dialogue: 0,0:09:59.35,0:10:00.80,Default,,0000,0000,0000,,Your wound still hasn’t healed.
+Dialogue: 0,0:10:01.22,0:10:03.60,Default,,0000,0000,0000,,Kagero, you wait here.
+Dialogue: 0,0:10:03.93,0:10:07.68,Default,,0000,0000,0000,,No mistake…They’re Leaf Ninja.
+Dialogue: 0,0:10:08.76,0:10:11.64,Default,,0000,0000,0000,,If we take care of the Leaf pursuers…
+Dialogue: 0,0:10:11.68,0:10:16.30,Default,,0000,0000,0000,,Lord Orochimaru will surely acknowledge\Nthe power of the Fuma Clan.
+Dialogue: 0,0:10:17.35,0:10:18.26,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:10:19.05,0:10:21.59,Default,,0000,0000,0000,,Let’s come back with good news.
+Dialogue: 0,0:10:21.80,0:10:24.26,Default,,0000,0000,0000,,And with the heads of\Nthe Leaf Ninja as souvenirs!
+Dialogue: 0,0:11:15.30,0:11:16.59,Default,,0000,0000,0000,,I finally found it!
+Dialogue: 0,0:11:26.35,0:11:28.76,Default,,0000,0000,0000,,At first, I thought it was someone\Nfrom the Hidden Leaf Village.
+Dialogue: 0,0:11:29.55,0:11:31.60,Default,,0000,0000,0000,,But it’s Sasame, believe it or not…
+Dialogue: 0,0:11:32.93,0:11:35.51,Default,,0000,0000,0000,,Kamikiri, Jigumo, Kagero…
+Dialogue: 0,0:11:35.89,0:11:37.76,Default,,0000,0000,0000,,This is an odd reunion.
+Dialogue: 0,0:11:40.39,0:11:43.59,Default,,0000,0000,0000,,Where’s Arashi?!\NHe wasn’t with all you guys?!
+Dialogue: 0,0:11:46.60,0:11:52.59,Default,,0000,0000,0000,,Arashi is serving near Lord Orochimaru\Nand is spending his days training.
+Dialogue: 0,0:11:53.80,0:11:56.30,Default,,0000,0000,0000,,Can I see Arashi?!
+Dialogue: 0,0:11:56.60,0:12:01.47,Default,,0000,0000,0000,,If you’re also going to work together\Nwith us for Lord Orochimaru,
+Dialogue: 0,0:12:01.51,0:12:03.14,Default,,0000,0000,0000,,I’m sure you’ll be able to see him.
+Dialogue: 0,0:12:14.68,0:12:15.93,Default,,0000,0000,0000,,How’d it go?
+Dialogue: 0,0:12:21.05,0:12:22.59,Default,,0000,0000,0000,,You’ve done well.
+Dialogue: 0,0:12:22.59,0:12:25.51,Default,,0000,0000,0000,,With this, I’ll be able to see Arashi, right?
+Dialogue: 0,0:12:27.39,0:12:30.59,Default,,0000,0000,0000,,After we’ve finished them off!
+Dialogue: 0,0:12:31.68,0:12:35.10,Default,,0000,0000,0000,,Why?! Weren’t we just supposed to\Ntake them to Lord Orochimaru
+Dialogue: 0,0:12:35.14,0:12:37.18,Default,,0000,0000,0000,,for examination after capturing them?!
+Dialogue: 0,0:12:37.35,0:12:40.76,Default,,0000,0000,0000,,We only need the heads\Nfor the examination.
+Dialogue: 0,0:12:42.47,0:12:43.30,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:12:43.59,0:12:45.60,Default,,0000,0000,0000,,These people… For my sake…!
+Dialogue: 0,0:12:45.68,0:12:46.55,Default,,0000,0000,0000,,Move it!
+Dialogue: 0,0:12:49.72,0:12:50.59,Default,,0000,0000,0000,,– Wha--?! 					– Huh?!
+Dialogue: 0,0:12:55.59,0:12:56.30,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:56.35,0:12:58.59,Default,,0000,0000,0000,,The Fuma numbing medicine\Ndidn’t work!
+Dialogue: 0,0:12:58.85,0:13:02.14,Default,,0000,0000,0000,,We knew about it all along\Nfrom the beginning!
+Dialogue: 0,0:13:02.85,0:13:03.93,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:13:10.76,0:13:12.30,Default,,0000,0000,0000,,Substitution…?!
+Dialogue: 0,0:13:12.59,0:13:13.76,Default,,0000,0000,0000,,I leave Sasame to you!
+Dialogue: 0,0:13:13.80,0:13:14.85,Default,,0000,0000,0000,,Leave her to me!
+Dialogue: 0,0:13:18.14,0:13:20.22,Default,,0000,0000,0000,,Sasame… Hang in there!
+Dialogue: 0,0:13:23.85,0:13:28.47,Default,,0000,0000,0000,,Why…? Why does Sasame have\Nto do something like this?!
+Dialogue: 0,0:13:29.10,0:13:31.55,Default,,0000,0000,0000,,No, it’s not that she’s doing it\Nagainst her will…!
+Dialogue: 0,0:13:31.59,0:13:33.76,Default,,0000,0000,0000,,It’s something she wanted to do!
+Dialogue: 0,0:13:33.97,0:13:34.97,Default,,0000,0000,0000,,Liar!
+Dialogue: 0,0:13:35.97,0:13:37.22,Default,,0000,0000,0000,,It’s true…
+Dialogue: 0,0:13:38.55,0:13:39.47,Default,,0000,0000,0000,,What…
+Dialogue: 0,0:13:39.76,0:13:42.55,Default,,0000,0000,0000,,What should I do to be able\Nto see Arashi again?
+Dialogue: 0,0:13:42.59,0:13:44.55,Default,,0000,0000,0000,,It’s not a difficult thing.
+Dialogue: 0,0:13:44.59,0:13:48.30,Default,,0000,0000,0000,,You just have to put the lights out of those\Nwho infiltrated the Land of Rice Paddies.
+Dialogue: 0,0:13:49.35,0:13:50.30,Default,,0000,0000,0000,,We have to kill them…?!
+Dialogue: 0,0:13:50.35,0:13:53.60,Default,,0000,0000,0000,,We’ll take them back to Lord Orochimaru\Nfor examination.
+Dialogue: 0,0:13:53.93,0:13:55.43,Default,,0000,0000,0000,,So we’re not going to kill, right?
+Dialogue: 0,0:13:55.59,0:13:59.72,Default,,0000,0000,0000,,If we carry out that work,\NLord Orochimaru will acknowledge us.
+Dialogue: 0,0:14:01.80,0:14:06.01,Default,,0000,0000,0000,,Hanzaki says that Arashi and everyone\Nare being tricked by Orochimaru.
+Dialogue: 0,0:14:06.51,0:14:08.60,Default,,0000,0000,0000,,He says that you’ll just be used\Nand thrown away…
+Dialogue: 0,0:14:08.80,0:14:12.39,Default,,0000,0000,0000,,Hanzaki’s just a traitor\Nwho abandoned the village.
+Dialogue: 0,0:14:12.59,0:14:14.59,Default,,0000,0000,0000,,Will you believe what we say?
+Dialogue: 0,0:14:15.22,0:14:17.59,Default,,0000,0000,0000,,Or will you believe what a traitor says?
+Dialogue: 0,0:14:17.59,0:14:22.85,Default,,0000,0000,0000,,Lord Orochimaru will surely restore\Nour Fuma Clan…
+Dialogue: 0,0:14:25.47,0:14:30.30,Default,,0000,0000,0000,,Sasame, although you’re still young,\Nyou’re also one of the Fuma.
+Dialogue: 0,0:14:30.97,0:14:34.43,Default,,0000,0000,0000,,Assist in the restoration\Nof our Fuma Clan…
+Dialogue: 0,0:14:41.26,0:14:43.59,Default,,0000,0000,0000,,So you guys did trick Sasame!
+Dialogue: 0,0:14:43.93,0:14:46.59,Default,,0000,0000,0000,,It’s all for the restoration\Nof the Fuma Clan!
+Dialogue: 0,0:14:50.60,0:14:51.59,Default,,0000,0000,0000,,You little!
+Dialogue: 0,0:14:58.22,0:14:59.60,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:15:00.01,0:15:01.30,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:15:01.51,0:15:02.05,Default,,0000,0000,0000,,Wha--!
+Dialogue: 0,0:15:02.14,0:15:04.85,Default,,0000,0000,0000,,U-zu-ma-ki…!
+Dialogue: 0,0:15:09.68,0:15:11.39,Default,,0000,0000,0000,,Naruto Barrage!
+Dialogue: 0,0:15:13.89,0:15:15.59,Default,,0000,0000,0000,,This is bad…!
+Dialogue: 0,0:15:25.39,0:15:26.89,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:15:36.22,0:15:39.59,Default,,0000,0000,0000,,This is for Sasame.\NPrepare yourselves!
+Dialogue: 0,0:15:40.51,0:15:41.30,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:47.55,0:15:49.93,Default,,0000,0000,0000,,You’re…from before?!
+Dialogue: 0,0:15:50.55,0:15:52.59,Default,,0000,0000,0000,,The Earth Style Jutsu user\Nin question, huh?
+Dialogue: 0,0:15:53.14,0:15:58.47,Default,,0000,0000,0000,,However, there’s no point to using that\NArt in this rocky area.
+Dialogue: 0,0:16:00.22,0:16:04.43,Default,,0000,0000,0000,,Indeed, the Ant Lion appears from\Ninside the ground
+Dialogue: 0,0:16:04.47,0:16:06.60,Default,,0000,0000,0000,,and the spreading of its wings under\Nthe sunlight is
+Dialogue: 0,0:16:06.64,0:16:08.85,Default,,0000,0000,0000,,but a momentary gleam.
+Dialogue: 0,0:16:09.72,0:16:13.14,Default,,0000,0000,0000,,That’s when I die as Kagero!
+Dialogue: 0,0:16:16.72,0:16:17.72,Default,,0000,0000,0000,,Be careful!
+Dialogue: 0,0:16:25.35,0:16:27.30,Default,,0000,0000,0000,,What’s this…?
+Dialogue: 0,0:16:28.64,0:16:29.97,Default,,0000,0000,0000,,Look! Naruto…
+Dialogue: 0,0:16:37.22,0:16:37.85,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:16:49.76,0:16:51.47,Default,,0000,0000,0000,,U-Unbelievable!
+Dialogue: 0,0:16:51.51,0:16:53.39,Default,,0000,0000,0000,,You were a woman…?!
+Dialogue: 0,0:16:54.93,0:16:58.22,Default,,0000,0000,0000,,The clan will once again be\Nin a place lit by the sunlight…
+Dialogue: 0,0:16:58.59,0:17:01.68,Default,,0000,0000,0000,,Lord Orochimaru promised that…
+Dialogue: 0,0:17:02.59,0:17:07.18,Default,,0000,0000,0000,,I’ll use this once-in-a-lifetime Art\Nif it’s for the sake of that.
+Dialogue: 0,0:17:12.26,0:17:14.59,Default,,0000,0000,0000,,Kagero's Ninja Art: Ephemera!
+Dialogue: 0,0:17:18.43,0:17:19.89,Default,,0000,0000,0000,,Naruto! Come with me!
+Dialogue: 0,0:17:27.10,0:17:28.30,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:17:45.05,0:17:48.85,Default,,0000,0000,0000,,I-I feel like…I’ve seen this before…
+Dialogue: 0,0:17:49.59,0:17:52.01,Default,,0000,0000,0000,,It’s Toad Mouth Trap Jutsu.
+Dialogue: 0,0:17:52.35,0:17:55.10,Default,,0000,0000,0000,,I summoned the extraordinarily\Nsturdy stomach of
+Dialogue: 0,0:17:55.14,0:17:57.47,Default,,0000,0000,0000,,the Mount Myoboku’s\Nlwajuku Giant Toad.
+Dialogue: 0,0:17:57.93,0:17:59.18,Default,,0000,0000,0000,,Stomach…?
+Dialogue: 0,0:18:01.89,0:18:02.76,Default,,0000,0000,0000,,Yikes!
+Dialogue: 0,0:18:03.14,0:18:05.05,Default,,0000,0000,0000,,It’s melting…
+Dialogue: 0,0:18:05.22,0:18:06.51,Default,,0000,0000,0000,,If I didn’t do this,
+Dialogue: 0,0:18:06.55,0:18:08.64,Default,,0000,0000,0000,,we wouldn’t have been able to\Ndefend ourselves from her Chakra.
+Dialogue: 0,0:18:26.22,0:18:30.80,Default,,0000,0000,0000,,I believed…that the clan\Nwould someday…
+Dialogue: 0,0:18:31.35,0:18:32.72,Default,,0000,0000,0000,,I believed in that.
+Dialogue: 0,0:18:42.80,0:18:44.76,Default,,0000,0000,0000,,Sh-She vanished.
+Dialogue: 0,0:18:45.80,0:18:47.39,Default,,0000,0000,0000,,I’ve got to hand it to her.
+Dialogue: 0,0:18:47.60,0:18:50.10,Default,,0000,0000,0000,,She probably put all of her life\Non the line
+Dialogue: 0,0:18:50.14,0:18:52.35,Default,,0000,0000,0000,,and attempted to save her comrades…
+Dialogue: 0,0:18:54.22,0:18:55.59,Default,,0000,0000,0000,,It’s unforgivable!
+Dialogue: 0,0:18:58.14,0:19:01.51,Default,,0000,0000,0000,,Those guys… 					the Fuma Ninja…
+Dialogue: 0,0:19:01.76,0:19:05.39,Default,,0000,0000,0000,,Their feelings toward the clan\Nis the same as our feelings!
+Dialogue: 0,0:19:06.01,0:19:11.26,Default,,0000,0000,0000,,Manipulating the Fuma’s desire\Nto restore their clan…
+Dialogue: 0,0:19:12.85,0:19:17.59,Default,,0000,0000,0000,,I’ll kick Orochimaru’s butt, no matter what!
+Dialogue: 0,0:19:35.55,0:19:37.01,Default,,0000,0000,0000,,Wh-Where are we?
+Dialogue: 0,0:19:38.51,0:19:39.59,Default,,0000,0000,0000,,Kagero…!
+Dialogue: 0,0:19:40.05,0:19:44.64,Default,,0000,0000,0000,,You risked your life to save us?
+Dialogue: 0,0:19:49.14,0:19:50.55,Default,,0000,0000,0000,,You idiot…
+Dialogue: 0,0:20:07.47,0:20:09.10,Default,,0000,0000,0000,,Please…
+Dialogue: 0,0:20:10.01,0:20:13.01,Default,,0000,0000,0000,,Please use your Medical Ninjutsu\Nto save her.
+Dialogue: 0,0:20:13.51,0:20:17.14,Default,,0000,0000,0000,,Our comrade doesn’t have\Nlong to live!
+Dialogue: 0,0:20:18.43,0:20:22.60,Default,,0000,0000,0000,,Put your hands to your chests and think.
+Dialogue: 0,0:20:23.59,0:20:28.30,Default,,0000,0000,0000,,Think about what you weren’t\Nable to accomplish…okay?
+Dialogue: 0,0:20:28.59,0:20:33.89,Default,,0000,0000,0000,,We risked our lives working for you…\Nto help you, Lord Orochimaru.
+Dialogue: 0,0:20:34.18,0:20:36.51,Default,,0000,0000,0000,,In order to restore the Fuma Clan!
+Dialogue: 0,0:20:36.55,0:20:38.68,Default,,0000,0000,0000,,Please recognize our work!
+Dialogue: 0,0:20:40.47,0:20:45.89,Default,,0000,0000,0000,,You’ll just have to atone for\Nyour failure with your bodies.
+Dialogue: 0,0:20:52.01,0:20:53.43,Default,,0000,0000,0000,,Lord Orochimaru!
+Dialogue: 0,0:20:54.64,0:20:56.18,Default,,0000,0000,0000,,I’m sorry for the betrayal!
+Dialogue: 0,0:21:23.72,0:21:28.59,Default,,0000,0000,0000,,When I recalled the parts one by one,
+Dialogue: 0,0:21:28.59,0:21:34.80,Default,,0000,0000,0000,,I felt as though\NI had understood everything
+Dialogue: 0,0:21:34.85,0:21:45.51,Default,,0000,0000,0000,,Faded words which I kept so close to me
+Dialogue: 0,0:21:45.60,0:21:55.22,Default,,0000,0000,0000,,Speechless nights, a hint of warmth,
+Dialogue: 0,0:21:56.85,0:22:01.97,Default,,0000,0000,0000,,and this distant yearning for you
+Dialogue: 0,0:22:02.30,0:22:11.35,Default,,0000,0000,0000,,I live, simply repeating this cycle
+Dialogue: 0,0:22:13.51,0:22:22.97,Default,,0000,0000,0000,,Held in my two hands\NA droplet of time
+Dialogue: 0,0:22:24.47,0:22:33.51,Default,,0000,0000,0000,,Softly clutching forgotten memories\NLost words
+Dialogue: 0,0:22:42.30,0:22:46.18,Default,,0000,0000,0000,,I’ll keep these thoughts…
+Dialogue: 0,0:22:50.59,0:22:52.39,Default,,0000,0000,0000,,That’s Orochimaru’s residence!
+Dialogue: 0,0:22:52.43,0:22:55.93,Default,,0000,0000,0000,,It really is just like him to construct\Nhis residence underground.
+Dialogue: 0,0:22:56.05,0:22:58.59,Default,,0000,0000,0000,,Sasuke is somewhere inside\Nthat residence, right?
+Dialogue: 0,0:22:58.59,0:23:00.10,Default,,0000,0000,0000,,Sakura, let’s hurry!
+Dialogue: 0,0:23:00.14,0:23:00.59,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:23:00.68,0:23:03.59,Default,,0000,0000,0000,,Be careful!\NFirst Avenue of hell is up ahead!
+Dialogue: 0,0:23:03.59,0:23:05.35,Default,,0000,0000,0000,,Will a devil appear,\Nor will a snake appear?
+Dialogue: 0,0:23:05.39,0:23:07.01,Default,,0000,0000,0000,,Heh! I’m looking forward to it!
+Dialogue: 0,0:23:07.18,0:23:08.80,Default,,0000,0000,0000,,I’ll kick the butts of the devil\Nand the snake.
+Dialogue: 0,0:23:08.85,0:23:12.59,Default,,0000,0000,0000,,And I’ll save Sasuke and Arashi!
+Dialogue: 0,0:23:12.93,0:23:15.72,Default,,0000,0000,0000,,Next episode, “Pure Terror!\NThe House of Orochimaru”

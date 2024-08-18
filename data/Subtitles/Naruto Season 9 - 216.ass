@@ -1,0 +1,318 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.25,0:00:08.42,Default,,0000,0000,0000,,Summoning Jutsu!
+Dialogue: 0,0:00:19.40,0:00:21.37,Default,,0000,0000,0000,,Oh, long time no see.
+Dialogue: 0,0:00:21.90,0:00:23.70,Default,,0000,0000,0000,,We don’t have much time\Nto get nostalgic.
+Dialogue: 0,0:00:24.60,0:00:25.60,Default,,0000,0000,0000,,We’ve got a mission.
+Dialogue: 0,0:00:29.81,0:00:32.61,Default,,0000,0000,0000,,That I see over there\Nis the Village of Artisans, isn’t it?
+Dialogue: 0,0:00:32.71,0:00:36.21,Default,,0000,0000,0000,,Yeah. It’s a village of professionals\Nwho develop Ninja tools.
+Dialogue: 0,0:00:36.81,0:00:39.02,Default,,0000,0000,0000,,The exceptional Ninja tools\Nthey develop are also
+Dialogue: 0,0:00:39.08,0:00:41.82,Default,,0000,0000,0000,,supplied to us\Nin the Five Great Nations…
+Dialogue: 0,0:00:42.95,0:00:45.36,Default,,0000,0000,0000,,But there’s been\Na strange rumor recently.
+Dialogue: 0,0:00:45.86,0:00:47.36,Default,,0000,0000,0000,,A strange rumor?
+Dialogue: 0,0:00:47.66,0:00:50.09,Default,,0000,0000,0000,,Something about them developing\Nthe ultimate weapon
+Dialogue: 0,0:00:50.16,0:00:53.03,Default,,0000,0000,0000,,and attempting to antagonize\Nthe Five Great Nations.
+Dialogue: 0,0:00:54.90,0:00:56.83,Default,,0000,0000,0000,,In other words, we should\Nsearch the village and…
+Dialogue: 0,0:00:56.87,0:01:01.51,Default,,0000,0000,0000,,verify whether or not\Nthere is that ultimate weapon, right?
+Dialogue: 0,0:01:01.71,0:01:02.71,Default,,0000,0000,0000,,That’s about the size of it.
+Dialogue: 0,0:01:03.47,0:01:04.64,Default,,0000,0000,0000,,Piece of cake.
+Dialogue: 0,0:01:28.20,0:01:40.91,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:54.36,0:02:00.67,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:02:00.67,0:02:06.64,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:02:07.11,0:02:12.64,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:02:12.68,0:02:18.35,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:02:18.65,0:02:24.96,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:02:24.99,0:02:31.90,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:02:32.00,0:02:44.64,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:02:44.64,0:02:50.95,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:02:50.98,0:02:56.19,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:03:15.41,0:03:17.41,Default,,0000,0000,0000,,Hey! Something strange is going on.
+Dialogue: 0,0:03:17.98,0:03:18.98,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:03:19.21,0:03:21.65,Default,,0000,0000,0000,,There’s not a soul in the village!
+Dialogue: 0,0:03:21.81,0:03:24.32,Default,,0000,0000,0000,,I also found something terrible\Non top of that.
+Dialogue: 0,0:03:24.65,0:03:25.65,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:32.82,0:03:33.82,Default,,0000,0000,0000,,It’s that.
+Dialogue: 0,0:03:34.43,0:03:37.73,Default,,0000,0000,0000,,The coffin of Seimei, the founder of\Nthe Village of Artisans.
+Dialogue: 0,0:03:38.23,0:03:39.40,Default,,0000,0000,0000,,Even his body is…
+Dialogue: 0,0:03:39.70,0:03:42.67,Default,,0000,0000,0000,,This is serious.
+Dialogue: 0,0:03:43.63,0:03:47.64,Default,,0000,0000,0000,,The artisans abandoned their village.\NWhere in the world did they go?
+Dialogue: 0,0:03:48.61,0:03:52.81,Default,,0000,0000,0000,,The Targeted Shukaku
+Dialogue: 0,0:04:01.12,0:04:02.92,Default,,0000,0000,0000,,I’m hungry, I’m hungry!
+Dialogue: 0,0:04:03.25,0:04:08.46,Default,,0000,0000,0000,,Maybe I’ll treat myself and have\Ntwo eggs in my ramen today.
+Dialogue: 0,0:04:12.90,0:04:13.90,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:19.90,0:04:20.91,Default,,0000,0000,0000,,What’s going on there?!
+Dialogue: 0,0:04:21.64,0:04:23.47,Default,,0000,0000,0000,,Did I keep you waiting by any chance?
+Dialogue: 0,0:04:23.64,0:04:26.31,Default,,0000,0000,0000,,Not really. I just got here a bit before.
+Dialogue: 0,0:04:27.45,0:04:29.65,Default,,0000,0000,0000,,That’s good… Then, here.
+Dialogue: 0,0:04:30.85,0:04:32.32,Default,,0000,0000,0000,,I made sure to hand it to you.
+Dialogue: 0,0:04:32.95,0:04:35.65,Default,,0000,0000,0000,,Yeah, yeah. What a pain.
+Dialogue: 0,0:04:36.45,0:04:37.92,Default,,0000,0000,0000,,Just a minute!
+Dialogue: 0,0:04:38.69,0:04:41.16,Default,,0000,0000,0000,,What’re you guys doing…
+Dialogue: 0,0:04:41.19,0:04:43.69,Default,,0000,0000,0000,,all in secret in a place like this\Nwithout even asking me?!
+Dialogue: 0,0:04:43.73,0:04:45.56,Default,,0000,0000,0000,,–Naruto? 					–Huh?
+Dialogue: 0,0:04:45.96,0:04:48.27,Default,,0000,0000,0000,,You’re terrible, just terrible, Sakura!
+Dialogue: 0,0:04:48.50,0:04:50.70,Default,,0000,0000,0000,,Here you won’t even go out\Non a date with me at all!
+Dialogue: 0,0:04:51.24,0:04:54.04,Default,,0000,0000,0000,,Why're you talking gibberish\Nall of a sudden?
+Dialogue: 0,0:04:54.64,0:04:56.91,Default,,0000,0000,0000,,Ouch-ouch-ouch-ouch…
+Dialogue: 0,0:04:58.64,0:05:00.31,Default,,0000,0000,0000,,An errand for the Old Lady?
+Dialogue: 0,0:05:00.65,0:05:04.12,Default,,0000,0000,0000,,Yes. It seems a new poison\Nwas discovered or something.
+Dialogue: 0,0:05:04.42,0:05:06.98,Default,,0000,0000,0000,,I delivered a list of\Nresearch medicinal substance
+Dialogue: 0,0:05:06.98,0:05:08.62,Default,,0000,0000,0000,,for Shikamaru’s father to prepare.
+Dialogue: 0,0:05:09.02,0:05:10.12,Default,,0000,0000,0000,,Oh, that’s it?!
+Dialogue: 0,0:05:10.15,0:05:11.99,Default,,0000,0000,0000,,Jeez, you jump to conclusions.
+Dialogue: 0,0:05:13.66,0:05:15.16,Default,,0000,0000,0000,,Oh, come to think of it,
+Dialogue: 0,0:05:15.19,0:05:19.36,Default,,0000,0000,0000,,an update report from Temari\Nhas been delivered to Lady Tsunade.
+Dialogue: 0,0:05:19.83,0:05:21.20,Default,,0000,0000,0000,,An update report?
+Dialogue: 0,0:05:21.67,0:05:22.67,Default,,0000,0000,0000,,So? What exactly?
+Dialogue: 0,0:05:23.10,0:05:27.44,Default,,0000,0000,0000,,I heard that the Village Hidden in\Nthe Sand started Ninja education,
+Dialogue: 0,0:05:27.44,0:05:29.64,Default,,0000,0000,0000,,imitating the curriculum program\Nof the Leaf’s.
+Dialogue: 0,0:05:30.57,0:05:33.64,Default,,0000,0000,0000,,It seems that Temari and her brothers\Nare working as instructors.
+Dialogue: 0,0:05:34.08,0:05:35.21,Default,,0000,0000,0000,,Instructors?!
+Dialogue: 0,0:05:35.65,0:05:38.98,Default,,0000,0000,0000,,Is that harsh woman fit to be\Nsomething like an instructor…?
+Dialogue: 0,0:05:39.28,0:05:42.12,Default,,0000,0000,0000,,Really? That Gaara, huh…?
+Dialogue: 0,0:05:53.03,0:05:54.20,Default,,0000,0000,0000,,This is hands-on training.
+Dialogue: 0,0:05:54.67,0:05:57.74,Default,,0000,0000,0000,,Choose from among these\Na Ninja tool that suits you.
+Dialogue: 0,0:05:59.64,0:06:00.64,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:06:01.24,0:06:05.78,Default,,0000,0000,0000,,Do we absolutely have to choose?!
+Dialogue: 0,0:06:07.65,0:06:08.65,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:06:09.45,0:06:13.22,Default,,0000,0000,0000,,We’ll end up hurting the other person\Nif we use a weapon.
+Dialogue: 0,0:06:13.82,0:06:15.65,Default,,0000,0000,0000,,We might kill them.
+Dialogue: 0,0:06:17.02,0:06:18.19,Default,,0000,0000,0000,,A weapon is…
+Dialogue: 0,0:06:30.63,0:06:32.57,Default,,0000,0000,0000,,No, never mind…
+Dialogue: 0,0:06:37.44,0:06:38.64,Default,,0000,0000,0000,,A mission isn’t a game.
+Dialogue: 0,0:06:39.04,0:06:42.58,Default,,0000,0000,0000,,If you were to enter a field of battle\Nwith that frame of mind, you'd die.
+Dialogue: 0,0:06:42.81,0:06:44.42,Default,,0000,0000,0000,,I-I’m sorry.
+Dialogue: 0,0:06:44.85,0:06:47.85,Default,,0000,0000,0000,,You got Gaara angry because\Nyou ask stupid questions.
+Dialogue: 0,0:06:48.25,0:06:49.25,Default,,0000,0000,0000,,You are in trouble.
+Dialogue: 0,0:06:54.46,0:06:57.46,Default,,0000,0000,0000,,The three of us will conduct\Nhands-on training.
+Dialogue: 0,0:06:58.00,0:07:00.06,Default,,0000,0000,0000,,Gather in the respective class\Nof your choice.
+Dialogue: 0,0:07:02.00,0:07:04.34,Default,,0000,0000,0000,,Gaara, put a smile on!
+Dialogue: 0,0:07:04.70,0:07:08.07,Default,,0000,0000,0000,,They'll get scared and nobody will\Nchoose you with that sulky look.
+Dialogue: 0,0:07:09.71,0:07:14.08,Default,,0000,0000,0000,,My dad said that Gaara\Nwas the Sand’s ultimate weapon.
+Dialogue: 0,0:07:14.45,0:07:18.65,Default,,0000,0000,0000,,Yeah. He's so powerful that the village\Nwould be destroyed, if he got mad.
+Dialogue: 0,0:07:18.65,0:07:21.35,Default,,0000,0000,0000,,He’s scary, so let’s not bother.
+Dialogue: 0,0:07:21.65,0:07:23.45,Default,,0000,0000,0000,,All right, I’m with Temari.
+Dialogue: 0,0:07:23.49,0:07:24.79,Default,,0000,0000,0000,,I’ll be with Kankuro!
+Dialogue: 0,0:07:24.82,0:07:27.32,Default,,0000,0000,0000,,– Me too! 					– Me too!
+Dialogue: 0,0:07:27.63,0:07:29.03,Default,,0000,0000,0000,,– Me too! 					– Me too!
+Dialogue: 0,0:07:30.23,0:07:31.30,Default,,0000,0000,0000,,Please be my teacher.
+Dialogue: 0,0:07:38.00,0:07:41.54,Default,,0000,0000,0000,,Earlier, he was trying to\Nteach me something…
+Dialogue: 0,0:07:47.98,0:07:50.41,Default,,0000,0000,0000,,Excuse me… Please be my teacher.
+Dialogue: 0,0:07:53.08,0:07:54.59,Default,,0000,0000,0000,,Are you okay with me?
+Dialogue: 0,0:07:55.32,0:07:56.32,Default,,0000,0000,0000,,Please teach me!
+Dialogue: 0,0:08:01.63,0:08:03.03,Default,,0000,0000,0000,,This is cool.
+Dialogue: 0,0:08:03.13,0:08:04.66,Default,,0000,0000,0000,,That’s too big!
+Dialogue: 0,0:08:05.36,0:08:06.53,Default,,0000,0000,0000,,I’ll take this.
+Dialogue: 0,0:08:23.45,0:08:24.45,Default,,0000,0000,0000,,What’s your name?
+Dialogue: 0,0:08:24.48,0:08:26.12,Default,,0000,0000,0000,,I’m Matsuri.
+Dialogue: 0,0:08:26.65,0:08:28.65,Default,,0000,0000,0000,,Matsuri, choose a weapon.
+Dialogue: 0,0:08:52.58,0:08:53.58,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:08:59.52,0:09:03.52,Default,,0000,0000,0000,,Come at me with that weapon\Nwith the intent to kill me.
+Dialogue: 0,0:09:03.65,0:09:04.66,Default,,0000,0000,0000,,Yes, sir…
+Dialogue: 0,0:09:08.66,0:09:12.16,Default,,0000,0000,0000,,They say an ogre with Iron Club\Nis invincible. But you are no ogre.
+Dialogue: 0,0:09:12.20,0:09:15.87,Default,,0000,0000,0000,,Yes, sir. Please tell me\Nwhat I should choose.
+Dialogue: 0,0:09:23.41,0:09:24.98,Default,,0000,0000,0000,,The weapon called the Rope Javelin.
+Dialogue: 0,0:09:25.58,0:09:26.64,Default,,0000,0000,0000,,Rope Javelin…
+Dialogue: 0,0:09:32.82,0:09:34.99,Default,,0000,0000,0000,,The sharp blade on the end of the rope
+Dialogue: 0,0:09:35.02,0:09:39.52,Default,,0000,0000,0000,,is to keep an enemy out of one's reach,\Nrather than for attack.
+Dialogue: 0,0:09:39.86,0:09:43.06,Default,,0000,0000,0000,,And you seal off an enemy’s movement\Nwith the rope.
+Dialogue: 0,0:09:47.00,0:09:50.53,Default,,0000,0000,0000,,Practice until you can control it\Nas a part of your body.
+Dialogue: 0,0:09:50.87,0:09:51.87,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:10:20.56,0:10:22.10,Default,,0000,0000,0000,,Damn. Who are you guys?!
+Dialogue: 0,0:10:27.87,0:10:31.48,Default,,0000,0000,0000,,Is this all\Nthe Sand Village Shinobi have?
+Dialogue: 0,0:10:32.18,0:10:33.18,Default,,0000,0000,0000,,Wait.
+Dialogue: 0,0:10:33.64,0:10:37.62,Default,,0000,0000,0000,,Leave this guy alive.\NWe can use him to draw that one out.
+Dialogue: 0,0:10:45.36,0:10:48.33,Default,,0000,0000,0000,,Hang in there! What is it?!\NWhat happened?
+Dialogue: 0,0:10:48.66,0:10:51.70,Default,,0000,0000,0000,,Take me to Gaara… Quickly.
+Dialogue: 0,0:11:23.56,0:11:24.56,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:11:24.73,0:11:29.33,Default,,0000,0000,0000,,My mother and father were hit with\Ncountless weapons right in front of me.
+Dialogue: 0,0:11:30.07,0:11:31.40,Default,,0000,0000,0000,,So I…
+Dialogue: 0,0:11:34.27,0:11:36.64,Default,,0000,0000,0000,,For what purpose\Ndo you hold a weapon?
+Dialogue: 0,0:11:38.64,0:11:39.64,Default,,0000,0000,0000,,He…
+Dialogue: 0,0:11:41.45,0:11:42.78,Default,,0000,0000,0000,,What are…
+Dialogue: 0,0:11:44.85,0:11:47.08,Default,,0000,0000,0000,,…these two to you?!
+Dialogue: 0,0:11:48.65,0:11:52.16,Default,,0000,0000,0000,,Th-These guys are…
+Dialogue: 0,0:11:52.19,0:11:54.06,Default,,0000,0000,0000,,…my friends!
+Dialogue: 0,0:11:54.66,0:11:57.39,Default,,0000,0000,0000,,Try laying so much as\Nanother finger on them!
+Dialogue: 0,0:11:57.66,0:11:59.73,Default,,0000,0000,0000,,I’ll clobber you!
+Dialogue: 0,0:12:00.06,0:12:02.77,Default,,0000,0000,0000,,He said that to me.
+Dialogue: 0,0:12:11.24,0:12:13.74,Default,,0000,0000,0000,,That’s what we’re after: Gaara.
+Dialogue: 0,0:12:20.65,0:12:23.52,Default,,0000,0000,0000,,Gaara, we were\Njust coming to get you.
+Dialogue: 0,0:12:24.02,0:12:26.66,Default,,0000,0000,0000,,The patrol Ninja was\Nattacked by somebody.
+Dialogue: 0,0:12:26.86,0:12:29.56,Default,,0000,0000,0000,,Guys calling themselves\NThe Four Celestials
+Dialogue: 0,0:12:29.63,0:12:34.16,Default,,0000,0000,0000,,brandishing strange weapons,\Nsaid to tell Gaara that…
+Dialogue: 0,0:12:35.23,0:12:40.17,Default,,0000,0000,0000,,"We declare a challenge to you,\Nthe ultimate weapon.
+Dialogue: 0,0:12:41.54,0:12:43.37,Default,,0000,0000,0000,,"If you don’t accept the challenge,
+Dialogue: 0,0:12:43.41,0:12:48.48,Default,,0000,0000,0000,,"we will take away one person\Nclose to you every day…
+Dialogue: 0,0:12:48.55,0:12:50.65,Default,,0000,0000,0000,,"and they shall\Npay the price for you."
+Dialogue: 0,0:12:59.82,0:13:00.79,Default,,0000,0000,0000,,You there.
+Dialogue: 0,0:13:01.56,0:13:03.06,Default,,0000,0000,0000,,Are you Gaara’s student?
+Dialogue: 0,0:13:06.66,0:13:09.07,Default,,0000,0000,0000,,You shall be the first sacrifice.
+Dialogue: 0,0:13:28.65,0:13:29.65,Default,,0000,0000,0000,,What’s this Rope Javelin?!
+Dialogue: 0,0:13:29.82,0:13:30.82,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:13:35.46,0:13:36.73,Default,,0000,0000,0000,,The enemy went northeast…
+Dialogue: 0,0:13:36.93,0:13:38.90,Default,,0000,0000,0000,,Matsuri has become a first sacrifice…
+Dialogue: 0,0:13:39.23,0:13:42.90,Default,,0000,0000,0000,,But the real target of the guys who\Ncall themselves the Four Celestials is…
+Dialogue: 0,0:13:42.97,0:13:44.40,Default,,0000,0000,0000,,you, Gaara.
+Dialogue: 0,0:13:44.74,0:13:45.74,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:13:46.17,0:13:47.64,Default,,0000,0000,0000,,This must be brought to\Na Jonin Council at once…
+Dialogue: 0,0:13:57.65,0:13:59.65,Default,,0000,0000,0000,,In the northeastern direction
+Dialogue: 0,0:13:59.65,0:14:02.62,Default,,0000,0000,0000,,where the ones who call themselves\Nthe Four Celestials left,
+Dialogue: 0,0:14:02.65,0:14:04.79,Default,,0000,0000,0000,,there is the Village Hidden in the Leaves\Nof the Land of Fire,
+Dialogue: 0,0:14:04.82,0:14:06.66,Default,,0000,0000,0000,,with the Land of Rivers\Nsandwiched between.
+Dialogue: 0,0:14:06.96,0:14:10.49,Default,,0000,0000,0000,,Therefore, we will be requesting\Nthe assistance of the Leaf…
+Dialogue: 0,0:14:12.16,0:14:14.23,Default,,0000,0000,0000,,Temari, Kankuro, Gaara.
+Dialogue: 0,0:14:14.67,0:14:17.53,Default,,0000,0000,0000,,Form a unit and prepare for\Npursuit immediately.
+Dialogue: 0,0:14:19.50,0:14:20.50,Default,,0000,0000,0000,,Hold it.
+Dialogue: 0,0:14:20.74,0:14:22.57,Default,,0000,0000,0000,,The enemy is after Gaara.
+Dialogue: 0,0:14:22.87,0:14:25.98,Default,,0000,0000,0000,,That would be like walking\Nright into a trap they laid.
+Dialogue: 0,0:14:26.11,0:14:29.21,Default,,0000,0000,0000,,That’s right.\NWhy won’t you send a party?!
+Dialogue: 0,0:14:30.85,0:14:33.12,Default,,0000,0000,0000,,It might be a diversionary tactic\Nby the enemy.
+Dialogue: 0,0:14:33.48,0:14:35.65,Default,,0000,0000,0000,,The village will become shorthanded\Nif we send out pursuers.
+Dialogue: 0,0:14:36.29,0:14:39.66,Default,,0000,0000,0000,,Then you at least could\Ncome with us, right, Baki?!
+Dialogue: 0,0:14:44.33,0:14:47.03,Default,,0000,0000,0000,,Most likely, the enemy is\Nafter Shukaku.
+Dialogue: 0,0:14:47.66,0:14:50.10,Default,,0000,0000,0000,,Gaara is the Sand’s ultimate weapon.
+Dialogue: 0,0:14:50.63,0:14:52.64,Default,,0000,0000,0000,,If we know that…
+Dialogue: 0,0:14:52.87,0:14:57.27,Default,,0000,0000,0000,,But it's also a dangerous\Ndouble-edged sword to the village.
+Dialogue: 0,0:14:57.74,0:15:01.45,Default,,0000,0000,0000,,If they would do us the favor\Nfacing each other and perishing…
+Dialogue: 0,0:15:04.82,0:15:07.15,Default,,0000,0000,0000,,Then at least\NI should go with them.
+Dialogue: 0,0:15:07.48,0:15:10.32,Default,,0000,0000,0000,,No. You have a different mission.
+Dialogue: 0,0:15:10.35,0:15:12.49,Default,,0000,0000,0000,,Just send those three!
+Dialogue: 0,0:15:19.20,0:15:20.70,Default,,0000,0000,0000,,Hey, how about it?!
+Dialogue: 0,0:15:21.47,0:15:24.64,Default,,0000,0000,0000,,I’ve been given\Na different mission, you see…
+Dialogue: 0,0:15:25.07,0:15:27.64,Default,,0000,0000,0000,,Go. She’s your student, right?
+Dialogue: 0,0:15:32.64,0:15:34.28,Default,,0000,0000,0000,,Let’s go, Kankuro.
+Dialogue: 0,0:15:47.66,0:15:49.13,Default,,0000,0000,0000,,Will it be okay with her?!
+Dialogue: 0,0:15:49.66,0:15:50.96,Default,,0000,0000,0000,,She’s just a kid.
+Dialogue: 0,0:15:51.83,0:15:53.66,Default,,0000,0000,0000,,Will he come?!
+Dialogue: 0,0:15:53.90,0:15:59.44,Default,,0000,0000,0000,,If he doesn’t come, we’ll just sacrifice\Nthose close to him one after another.
+Dialogue: 0,0:16:03.67,0:16:04.68,Default,,0000,0000,0000,,That is…?
+Dialogue: 0,0:16:13.65,0:16:15.45,Default,,0000,0000,0000,,It’s a message from the Sand Village!
+Dialogue: 0,0:16:16.65,0:16:18.66,Default,,0000,0000,0000,,Gaara? Why?
+Dialogue: 0,0:16:19.16,0:16:22.43,Default,,0000,0000,0000,,Who knows?\NThe goal is a challenge to Gaara.
+Dialogue: 0,0:16:23.06,0:16:25.20,Default,,0000,0000,0000,,The hostage is a Ninja school student.
+Dialogue: 0,0:16:26.16,0:16:29.57,Default,,0000,0000,0000,,The enemy is escaping in the direction of\Nthe Land of Fire from the Land of Rivers.
+Dialogue: 0,0:16:30.23,0:16:34.04,Default,,0000,0000,0000,,Gaara, Temari and Kankuro are\Nchasing after them.
+Dialogue: 0,0:16:34.71,0:16:36.81,Default,,0000,0000,0000,,At this point, that’s all we know.
+Dialogue: 0,0:16:37.67,0:16:40.84,Default,,0000,0000,0000,,You want me to set up an operation\Nto stop the overconfident jerks
+Dialogue: 0,0:16:40.91,0:16:43.85,Default,,0000,0000,0000,,who challenged Gaara\Njust with that information?
+Dialogue: 0,0:16:44.65,0:16:47.75,Default,,0000,0000,0000,,Yeah. We’re on friendly terms\Nwith the Sand Village, so.
+Dialogue: 0,0:16:48.65,0:16:50.25,Default,,0000,0000,0000,,Just a minute.
+Dialogue: 0,0:16:50.65,0:16:55.29,Default,,0000,0000,0000,,They came during the Sasuke incident\Nwith much less information than now.
+Dialogue: 0,0:16:55.66,0:16:57.66,Default,,0000,0000,0000,,Things are more bothersome\Nthan that time!
+Dialogue: 0,0:16:58.06,0:17:00.20,Default,,0000,0000,0000,,Our range would widen significantly\Nif we ambushed them
+Dialogue: 0,0:17:00.23,0:17:01.83,Default,,0000,0000,0000,,instead of pursuing them.
+Dialogue: 0,0:17:02.57,0:17:04.84,Default,,0000,0000,0000,,There’s also the incident in question\Nin the Village of Artisans,
+Dialogue: 0,0:17:04.87,0:17:06.67,Default,,0000,0000,0000,,and the Jonin and Chunin\Nare all away…
+Dialogue: 0,0:17:07.64,0:17:09.01,Default,,0000,0000,0000,,– Shizune… 					– Yes, ma’am!
+Dialogue: 0,0:17:11.58,0:17:13.64,Default,,0000,0000,0000,,Those are the only Genin\Nwe can use now.
+Dialogue: 0,0:17:14.31,0:17:16.35,Default,,0000,0000,0000,,Take the Genin you want to use
+Dialogue: 0,0:17:16.41,0:17:18.92,Default,,0000,0000,0000,,and leave the village\Nwithin thirty minutes!
+Dialogue: 0,0:17:19.72,0:17:22.19,Default,,0000,0000,0000,,Sakura’s name isn’t on here.
+Dialogue: 0,0:17:23.02,0:17:26.12,Default,,0000,0000,0000,,Yeah. She’s doing\NMedical Ninjutsu training now, so.
+Dialogue: 0,0:17:26.76,0:17:30.66,Default,,0000,0000,0000,,I’ll accept the mission.\NBut I have one condition.
+Dialogue: 0,0:17:32.23,0:17:33.80,Default,,0000,0000,0000,,Please let me borrow Sakura.
+Dialogue: 0,0:17:35.20,0:17:36.20,Default,,0000,0000,0000,,Sakura?
+Dialogue: 0,0:17:44.27,0:17:47.98,Default,,0000,0000,0000,,It’s almost time!\Nls this everyone, Shikamaru?!
+Dialogue: 0,0:17:48.41,0:17:49.58,Default,,0000,0000,0000,,One person still hasn’t come.
+Dialogue: 0,0:17:50.25,0:17:51.65,Default,,0000,0000,0000,,Could that be…?
+Dialogue: 0,0:17:53.95,0:17:55.49,Default,,0000,0000,0000,,Sorry to keep you waiting!
+Dialogue: 0,0:17:56.02,0:18:00.66,Default,,0000,0000,0000,,I can’t do a mission hungry.\NSo I stopped by Ichiraku for a bit.
+Dialogue: 0,0:18:00.72,0:18:03.69,Default,,0000,0000,0000,,What?! That's not fair just you\Ngetting to eat! I'll also…
+Dialogue: 0,0:18:03.73,0:18:07.66,Default,,0000,0000,0000,,All right! Now we’ve got\Nall our members together! We’re off!
+Dialogue: 0,0:18:08.03,0:18:10.83,Default,,0000,0000,0000,,Huh? What? This is it?!
+Dialogue: 0,0:18:11.37,0:18:13.50,Default,,0000,0000,0000,,I'd heard this was an operation\Nwith a mobilization
+Dialogue: 0,0:18:13.54,0:18:14.67,Default,,0000,0000,0000,,of the Genin\Nremaining in the village!
+Dialogue: 0,0:18:15.07,0:18:17.07,Default,,0000,0000,0000,,This is everyone, I tell you!
+Dialogue: 0,0:18:17.11,0:18:18.64,Default,,0000,0000,0000,,That’s messed up!
+Dialogue: 0,0:18:18.64,0:18:20.81,Default,,0000,0000,0000,,Setting aside Sakura who’s training,
+Dialogue: 0,0:18:20.84,0:18:23.85,Default,,0000,0000,0000,,there should still be\NShino, Neji and Hinata!
+Dialogue: 0,0:18:23.95,0:18:27.45,Default,,0000,0000,0000,,No mistake. It’s weird Akamaru and I\Nbeing the only Ninja
+Dialogue: 0,0:18:27.48,0:18:28.95,Default,,0000,0000,0000,,with search ability.
+Dialogue: 0,0:18:29.49,0:18:32.86,Default,,0000,0000,0000,,So is this team\Na go-for-it super attack-type?
+Dialogue: 0,0:18:33.42,0:18:36.66,Default,,0000,0000,0000,,Yeah. I name us\NTeam Return the Favor.
+Dialogue: 0,0:18:37.83,0:18:39.66,Default,,0000,0000,0000,,What lame naming!
+Dialogue: 0,0:18:40.23,0:18:44.90,Default,,0000,0000,0000,,The guys from the Sand Village\Nhelped us during the Sasuke incident!
+Dialogue: 0,0:18:45.34,0:18:48.31,Default,,0000,0000,0000,,In a manner, this operation will be\Nreturning the favor from that time!
+Dialogue: 0,0:18:48.71,0:18:52.81,Default,,0000,0000,0000,,All right! Guys, let’s make sure to\Nreturn the favor from that time.
+Dialogue: 0,0:18:53.28,0:18:55.35,Default,,0000,0000,0000,,You’re not the leader!
+Dialogue: 0,0:18:56.48,0:18:59.02,Default,,0000,0000,0000,,Shikamaru the Chunin is the leader\Nof this platoon, right?!
+Dialogue: 0,0:18:59.35,0:19:00.58,Default,,0000,0000,0000,,That’s right…
+Dialogue: 0,0:19:00.82,0:19:04.96,Default,,0000,0000,0000,,Jeez, then let’s settle on a strategy\Nand get going as soon as possible.
+Dialogue: 0,0:19:05.29,0:19:07.99,Default,,0000,0000,0000,,Are we going in one line\Nas we did for the Sasuke incident?
+Dialogue: 0,0:19:09.93,0:19:12.66,Default,,0000,0000,0000,,There’s no doubting the conditions\Nare similar to the Sasuke incident.
+Dialogue: 0,0:19:13.03,0:19:16.70,Default,,0000,0000,0000,,However, the strategies for pursuit\Nand ambush are completely different!
+Dialogue: 0,0:19:17.60,0:19:21.20,Default,,0000,0000,0000,,We can’t follow them with Byakugan\Nor by using Akamaru’s nose.
+Dialogue: 0,0:19:21.64,0:19:22.74,Default,,0000,0000,0000,,No mistake about that.
+Dialogue: 0,0:19:23.11,0:19:25.61,Default,,0000,0000,0000,,It’s unconventional, but since these are\Nall the people we’ve got,
+Dialogue: 0,0:19:25.88,0:19:29.28,Default,,0000,0000,0000,,we’ll act in groups of two basis\Nas Two-Man Cells.
+Dialogue: 0,0:19:29.65,0:19:32.22,Default,,0000,0000,0000,,Solo action is prohibited\Nno matter what the case!
+Dialogue: 0,0:19:32.95,0:19:34.92,Default,,0000,0000,0000,,We owe a debt to the Ninja in\Nthe Sand Village.
+Dialogue: 0,0:19:35.52,0:19:39.66,Default,,0000,0000,0000,,However, although this is to repay a debt,\Nno way will we produce casualties!
+Dialogue: 0,0:19:40.66,0:19:42.99,Default,,0000,0000,0000,,Yeah, I got it.
+Dialogue: 0,0:19:48.90,0:19:50.67,Default,,0000,0000,0000,,– Follow me, Ino. 					– Right!
+Dialogue: 0,0:19:51.57,0:19:52.64,Default,,0000,0000,0000,,Choji, you go with Kiba…
+Dialogue: 0,0:19:53.00,0:19:55.07,Default,,0000,0000,0000,,I’m counting on you, Choji, Akamaru.
+Dialogue: 0,0:19:55.31,0:19:56.31,Default,,0000,0000,0000,,Right…
+Dialogue: 0,0:19:57.54,0:19:58.64,Default,,0000,0000,0000,,Lee, you’re with Naruto…
+Dialogue: 0,0:19:58.74,0:20:02.05,Default,,0000,0000,0000,,Right. Please refrain\Nfrom selfish actions.
+Dialogue: 0,0:20:02.65,0:20:04.65,Default,,0000,0000,0000,,You don’t need to remind me like that.
+Dialogue: 0,0:20:04.95,0:20:09.19,Default,,0000,0000,0000,,Also, the four people Naruto mentioned\Nearlier have left before us.
+Dialogue: 0,0:20:09.65,0:20:13.66,Default,,0000,0000,0000,,Four people, do you mean\NShino, Neji, Hinata and Sakura?
+Dialogue: 0,0:20:13.92,0:20:16.66,Default,,0000,0000,0000,,Yeah. The four will be\Ngoing their separate ways
+Dialogue: 0,0:20:16.66,0:20:18.06,Default,,0000,0000,0000,,and won’t take part in future battles!
+Dialogue: 0,0:20:18.66,0:20:19.66,Default,,0000,0000,0000,,Why not?!
+Dialogue: 0,0:20:20.66,0:20:22.77,Default,,0000,0000,0000,,Isn’t that an incredible waste\Nof battle strength?!
+Dialogue: 0,0:20:23.23,0:20:26.54,Default,,0000,0000,0000,,In place of that, we get a wider range\Nof search action…
+Dialogue: 0,0:20:26.64,0:20:30.67,Default,,0000,0000,0000,,And we’ll have them focus on\Nmedical action in the case of battle starting.
+Dialogue: 0,0:20:31.54,0:20:35.31,Default,,0000,0000,0000,,I have been entrusted with your lives\Nand this is my strategy!
+Dialogue: 0,0:21:10.65,0:21:13.28,Default,,0000,0000,0000,,All right, just wait, Gaara!
+Dialogue: 0,0:21:13.65,0:21:16.52,Default,,0000,0000,0000,,I’ll make sure to return the favor!
+Dialogue: 0,0:21:19.16,0:21:23.63,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.66,0:21:29.77,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.31,0:21:39.64,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.64,0:21:44.28,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.31,0:21:49.19,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:49.25,0:21:54.02,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:54.06,0:21:59.00,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:59.03,0:22:03.37,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.40,0:22:07.70,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.74,0:22:15.21,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:15.25,0:22:19.08,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:19.12,0:22:24.42,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.45,0:22:28.56,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.63,0:22:33.40,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.66,0:22:38.03,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:38.07,0:22:44.21,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.78,0:22:55.59,Default,,0000,0000,0000,,One of the enemies uses wind, huh?\Nlnteresting. I will be her opponent!
+Dialogue: 0,0:22:55.65,0:23:00.12,Default,,0000,0000,0000,,Then I’ll take on the guy who brandishes\Nthe sword that looks like a kid’s toy.
+Dialogue: 0,0:23:00.16,0:23:02.53,Default,,0000,0000,0000,,We’ll take care of this.\NYou go ahead, Gaara.
+Dialogue: 0,0:23:02.66,0:23:04.13,Default,,0000,0000,0000,,But, will it be okay?
+Dialogue: 0,0:23:04.69,0:23:08.00,Default,,0000,0000,0000,,We don’t need your help\Nto deal with these chumps.
+Dialogue: 0,0:23:08.03,0:23:11.57,Default,,0000,0000,0000,,You hurry, Gaara. That girl is\Nyour student, isn’t she?
+Dialogue: 0,0:23:11.84,0:23:15.00,Default,,0000,0000,0000,,Next time: "Sand Alliance\Nwith The Leaf Shinobi"

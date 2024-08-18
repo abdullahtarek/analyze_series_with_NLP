@@ -1,0 +1,243 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.12,0:00:10.92,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.26,0:00:19.86,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.87,0:00:23.13,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.80,0:00:27.54,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.61,0:00:31.21,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.81,0:00:35.95,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.51,0:00:39.82,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.19,0:00:45.59,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.09,0:00:49.96,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:50.03,0:00:51.83,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.83,0:00:54.23,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.83,0:00:57.60,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.67,0:00:59.57,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.60,0:01:02.04,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.88,0:01:10.62,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.52,0:01:14.12,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.62,0:01:17.82,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.53,0:01:23.83,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.36,0:01:27.83,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:02:38.34,0:02:41.11,Default,,0000,0000,0000,,What's with you?!
+Dialogue: 0,0:03:09.23,0:03:15.24,Default,,0000,0000,0000,,Battle on the Bridge! Zabuza Returns!
+Dialogue: 0,0:03:22.21,0:03:23.92,Default,,0000,0000,0000,,Good morning!
+Dialogue: 0,0:03:29.45,0:03:29.99,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:03:30.69,0:03:31.52,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:03:37.70,0:03:40.83,Default,,0000,0000,0000,,Naruto didn't come back\Nlast night, either?
+Dialogue: 0,0:03:41.00,0:03:42.40,Default,,0000,0000,0000,,He's such a fool,
+Dialogue: 0,0:03:42.67,0:03:44.70,Default,,0000,0000,0000,,he's been out every night,\Nclimbing trees.
+Dialogue: 0,0:03:45.50,0:03:49.54,Default,,0000,0000,0000,,He might be dead already\Nfrom using up too much Chakra.
+Dialogue: 0,0:03:50.24,0:03:52.08,Default,,0000,0000,0000,,I wonder if Naruto's okay.
+Dialogue: 0,0:03:52.64,0:03:55.08,Default,,0000,0000,0000,,To think a child's out in\Nthe middle of the night.
+Dialogue: 0,0:03:55.78,0:03:57.82,Default,,0000,0000,0000,,Well, you don't need to worry.
+Dialogue: 0,0:03:57.98,0:04:00.82,Default,,0000,0000,0000,,Although he may not seem to be,\Nhe's a full-fledged Ninja.
+Dialogue: 0,0:04:01.49,0:04:02.62,Default,,0000,0000,0000,,I wonder…
+Dialogue: 0,0:04:02.99,0:04:07.39,Default,,0000,0000,0000,,That idiot's probably\Nall pooped out right about now.
+Dialogue: 0,0:04:11.83,0:04:12.83,Default,,0000,0000,0000,,Sasuke?
+Dialogue: 0,0:04:15.40,0:04:16.23,Default,,0000,0000,0000,,I'm going for a walk.
+Dialogue: 0,0:04:17.40,0:04:18.80,Default,,0000,0000,0000,,But we're about to eat…
+Dialogue: 0,0:04:21.94,0:04:22.81,Default,,0000,0000,0000,,That was fast!
+Dialogue: 0,0:04:50.80,0:04:53.74,Default,,0000,0000,0000,,You'll catch a cold if\Nyou keep sleeping here.
+Dialogue: 0,0:05:02.15,0:05:03.48,Default,,0000,0000,0000,,Who're you?
+Dialogue: 0,0:05:06.65,0:05:12.32,Default,,0000,0000,0000,,Uh... Did you wake me up, sis?\NI mean, what're you doing here?
+Dialogue: 0,0:05:12.82,0:05:14.29,Default,,0000,0000,0000,,I'm gathering medicinal herbs.
+Dialogue: 0,0:05:14.83,0:05:16.13,Default,,0000,0000,0000,,Herbs?
+Dialogue: 0,0:05:16.39,0:05:20.33,Default,,0000,0000,0000,,Yes. For healing injuries,\Nsickness and the like.
+Dialogue: 0,0:05:29.11,0:05:31.44,Default,,0000,0000,0000,,You got a lot to do early\Nin the morning, sis...
+Dialogue: 0,0:05:31.81,0:05:32.84,Default,,0000,0000,0000,,You, too.
+Dialogue: 0,0:05:32.98,0:05:35.81,Default,,0000,0000,0000,,What've you been doing\Nin a place like this so early?
+Dialogue: 0,0:05:37.75,0:05:38.82,Default,,0000,0000,0000,,Training!
+Dialogue: 0,0:05:41.59,0:05:45.12,Default,,0000,0000,0000,,Could it be that…\Nyou're a Ninja or something?
+Dialogue: 0,0:05:46.59,0:05:48.49,Default,,0000,0000,0000,,What with that headband and…
+Dialogue: 0,0:05:48.83,0:05:50.70,Default,,0000,0000,0000,,Is that what I look like? Is it?
+Dialogue: 0,0:05:51.03,0:05:52.83,Default,,0000,0000,0000,,Yup! I'm a Ninja!
+Dialogue: 0,0:05:54.00,0:05:57.60,Default,,0000,0000,0000,,No kidding.\NYou're great, aren't you.
+Dialogue: 0,0:05:59.90,0:06:03.71,Default,,0000,0000,0000,,But…why are you training?
+Dialogue: 0,0:06:03.91,0:06:06.61,Default,,0000,0000,0000,,As for me,\NI want to get stronger!
+Dialogue: 0,0:06:07.41,0:06:10.82,Default,,0000,0000,0000,,But, you already look\Nstrong enough.
+Dialogue: 0,0:06:10.82,0:06:14.02,Default,,0000,0000,0000,,No, no! I want to get\Neven stronger!
+Dialogue: 0,0:06:16.42,0:06:18.82,Default,,0000,0000,0000,,What for?
+Dialogue: 0,0:06:19.12,0:06:21.83,Default,,0000,0000,0000,,To become the best Ninja\Nin my village!
+Dialogue: 0,0:06:22.29,0:06:25.06,Default,,0000,0000,0000,,I'm going to get everyone\Nto recognize my strength!
+Dialogue: 0,0:06:25.70,0:06:29.03,Default,,0000,0000,0000,,And I have to prove something\Nto a certain person!
+Dialogue: 0,0:06:30.57,0:06:36.17,Default,,0000,0000,0000,,Is that for the sake of somebody?\NOr is it for your own sake?
+Dialogue: 0,0:06:37.04,0:06:37.81,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:40.28,0:06:42.01,Default,,0000,0000,0000,,What's so funny?!
+Dialogue: 0,0:06:43.81,0:06:46.82,Default,,0000,0000,0000,,Do you have somebody\Nprecious in your life?
+Dialogue: 0,0:06:47.82,0:06:48.92,Default,,0000,0000,0000,,Precious…?
+Dialogue: 0,0:06:49.65,0:06:51.79,Default,,0000,0000,0000,,What is it you want to say, sis?
+Dialogue: 0,0:08:32.82,0:08:33.72,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:34.39,0:08:39.00,Default,,0000,0000,0000,,When a person has something\Nprecious they want to protect…
+Dialogue: 0,0:08:39.73,0:08:41.83,Default,,0000,0000,0000,,that's when they can truly\Nbecome strong.
+Dialogue: 0,0:08:47.91,0:08:51.71,Default,,0000,0000,0000,,Your dad loves the town\Nyou're from, so…
+Dialogue: 0,0:08:51.84,0:08:55.81,Default,,0000,0000,0000,,I absolutely won't allow\Nmy comrades to get killed!
+Dialogue: 0,0:08:57.68,0:09:00.65,Default,,0000,0000,0000,,Get your hands off Iruka Sensei!
+Dialogue: 0,0:09:01.79,0:09:02.69,Default,,0000,0000,0000,,I'll kill you!!
+Dialogue: 0,0:09:03.82,0:09:06.82,Default,,0000,0000,0000,,Yeah! I know that well, too!
+Dialogue: 0,0:09:12.20,0:09:13.93,Default,,0000,0000,0000,,You'll get strong.
+Dialogue: 0,0:09:14.23,0:09:14.83,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:09:15.57,0:09:18.50,Default,,0000,0000,0000,,I hope we meet again somewhere.
+Dialogue: 0,0:09:20.20,0:09:21.81,Default,,0000,0000,0000,,Oh…and…
+Dialogue: 0,0:09:23.17,0:09:24.54,Default,,0000,0000,0000,,I'm a man!
+Dialogue: 0,0:09:25.98,0:09:29.41,Default,,0000,0000,0000,,That can't be!\NHe's cuter than Sakura.
+Dialogue: 0,0:09:58.78,0:10:00.81,Default,,0000,0000,0000,,Why? That's strange.
+Dialogue: 0,0:10:00.81,0:10:02.91,Default,,0000,0000,0000,,This world is full of mystery…
+Dialogue: 0,0:10:03.28,0:10:05.82,Default,,0000,0000,0000,,Ouch.\NHey! What're you doing?!
+Dialogue: 0,0:10:05.82,0:10:08.99,Default,,0000,0000,0000,,Did you forget about mealtime,\Nyou idiot?
+Dialogue: 0,0:10:14.99,0:10:16.13,Default,,0000,0000,0000,,Naruto?
+Dialogue: 0,0:10:20.50,0:10:22.40,Default,,0000,0000,0000,,What in the world is Naruto doing?
+Dialogue: 0,0:10:22.83,0:10:25.90,Default,,0000,0000,0000,,And Sasuke hasn't come back\Nfrom his walk either…
+Dialogue: 0,0:10:33.58,0:10:37.01,Default,,0000,0000,0000,,No way…\NNaruto can climb that high now?
+Dialogue: 0,0:10:38.18,0:10:38.95,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:10:41.15,0:10:42.52,Default,,0000,0000,0000,,How 'bout that, how 'bout that?!
+Dialogue: 0,0:10:42.65,0:10:45.46,Default,,0000,0000,0000,,As for me,\NI can climb this high now!
+Dialogue: 0,0:10:49.49,0:10:49.99,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:10:51.86,0:10:52.83,Default,,0000,0000,0000,,Oh, you idiot!
+Dialogue: 0,0:10:53.13,0:10:53.83,Default,,0000,0000,0000,,This is bad!
+Dialogue: 0,0:10:59.37,0:11:00.90,Default,,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:11:02.91,0:11:04.81,Default,,0000,0000,0000,,You fell for it, you fell for it!
+Dialogue: 0,0:11:06.81,0:11:08.91,Default,,0000,0000,0000,,Don't scare us like that!
+Dialogue: 0,0:11:09.81,0:11:12.48,Default,,0000,0000,0000,,I'll kill him later! Cha!
+Dialogue: 0,0:11:13.45,0:11:15.45,Default,,0000,0000,0000,,He's grown a little, eh.
+Dialogue: 0,0:11:19.82,0:11:21.16,Default,,0000,0000,0000,,Oh! You idiot, Naruto!
+Dialogue: 0,0:11:21.49,0:11:23.03,Default,,0000,0000,0000,,It's cuz you went overboard!
+Dialogue: 0,0:11:33.34,0:11:35.34,Default,,0000,0000,0000,,You fool.
+Dialogue: 0,0:11:36.81,0:11:37.81,Default,,0000,0000,0000,,Sasuke…?
+Dialogue: 0,0:11:38.64,0:11:40.81,Default,,0000,0000,0000,,Nice, Sasuke.\NYou're awesome !
+Dialogue: 0,0:11:42.28,0:11:45.58,Default,,0000,0000,0000,,These kids are really growing.
+Dialogue: 0,0:11:59.96,0:12:00.93,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:02.13,0:12:03.17,Default,,0000,0000,0000,,Uzumaki, eh.
+Dialogue: 0,0:12:11.38,0:12:13.54,Default,,0000,0000,0000,,You've recovered considerably.
+Dialogue: 0,0:12:14.31,0:12:15.11,Default,,0000,0000,0000,,All right…
+Dialogue: 0,0:12:15.81,0:12:17.82,Default,,0000,0000,0000,,Just a little more, Haku.
+Dialogue: 0,0:12:18.52,0:12:19.02,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:37.07,0:12:38.00,Default,,0000,0000,0000,,Shall we go back?
+Dialogue: 0,0:12:38.80,0:12:39.40,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:44.81,0:12:46.28,Default,,0000,0000,0000,,They're late.
+Dialogue: 0,0:12:46.54,0:12:48.81,Default,,0000,0000,0000,,And not just Naruto,\Nbut even Sasuke too.
+Dialogue: 0,0:12:54.12,0:12:55.69,Default,,0000,0000,0000,,What happened to you guys?
+Dialogue: 0,0:12:55.75,0:12:57.82,Default,,0000,0000,0000,,You're really muddy\Nand really wiped out.
+Dialogue: 0,0:12:59.66,0:13:02.83,Default,,0000,0000,0000,,We both…climbed up to the top.
+Dialogue: 0,0:13:04.03,0:13:04.70,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:13:06.23,0:13:10.83,Default,,0000,0000,0000,,Naruto, Sasuke, you'll also start guarding\NTazuna next time!
+Dialogue: 0,0:13:11.90,0:13:13.37,Default,,0000,0000,0000,,Got it! Whoa!
+Dialogue: 0,0:13:14.27,0:13:15.37,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:13:18.91,0:13:22.61,Default,,0000,0000,0000,,In just a teeny little bit,\Nthe bridge will be complete.
+Dialogue: 0,0:13:22.81,0:13:24.41,Default,,0000,0000,0000,,It's thanks to you guys.
+Dialogue: 0,0:13:24.68,0:13:26.82,Default,,0000,0000,0000,,Even so, don't let your guard down…
+Dialogue: 0,0:13:28.12,0:13:31.29,Default,,0000,0000,0000,,I've really wanted to ask\N you for a long time now…
+Dialogue: 0,0:13:32.49,0:13:36.96,Default,,0000,0000,0000,,But why are you still here\Neven though I lied about the mission?
+Dialogue: 0,0:13:39.83,0:13:42.83,Default,,0000,0000,0000,,To see what is right without doing it\Nbespeaks an absence of courage.
+Dialogue: 0,0:13:42.83,0:13:45.20,Default,,0000,0000,0000,,Like master, like man.
+Dialogue: 0,0:13:48.91,0:13:51.21,Default,,0000,0000,0000,,It's a teaching of the late Hokage.
+Dialogue: 0,0:14:18.84,0:14:20.34,Default,,0000,0000,0000,,The things I truly\Nhold dear to myself…
+Dialogue: 0,0:14:20.37,0:14:22.87,Default,,0000,0000,0000,,I'll protect until the very end\Nwith both these arms.
+Dialogue: 0,0:14:25.91,0:14:27.81,Default,,0000,0000,0000,,Don't cry…lnari.
+Dialogue: 0,0:14:39.59,0:14:40.16,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:14:42.46,0:14:43.63,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:14:45.83,0:14:48.83,Default,,0000,0000,0000,,Why do you desperately work so hard\Nuntil you get like that?!
+Dialogue: 0,0:14:48.83,0:14:52.60,Default,,0000,0000,0000,,There's no way you'd be\Na match for Gato's men even if you train!
+Dialogue: 0,0:14:53.80,0:14:56.61,Default,,0000,0000,0000,,No matter what cool things you say\Nor how much effort you make…
+Dialogue: 0,0:14:56.84,0:14:58.91,Default,,0000,0000,0000,,the weak always lose out…
+Dialogue: 0,0:14:58.94,0:15:01.81,Default,,0000,0000,0000,,against the truly strong!
+Dialogue: 0,0:15:07.48,0:15:11.59,Default,,0000,0000,0000,,Shut up. I'm not like you.
+Dialogue: 0,0:15:11.69,0:15:14.83,Default,,0000,0000,0000,,Shut up!\NLooking at you makes me sick!
+Dialogue: 0,0:15:14.83,0:15:17.96,Default,,0000,0000,0000,,Sticking your nose in even though\Nyou know nothing of this land!
+Dialogue: 0,0:15:18.76,0:15:20.83,Default,,0000,0000,0000,,I'm not like you who's always\Nacting frivolous
+Dialogue: 0,0:15:20.86,0:15:23.23,Default,,0000,0000,0000,,not knowing one thing about pain!
+Dialogue: 0,0:15:25.80,0:15:30.67,Default,,0000,0000,0000,,So you're just gonna cry\Nall day like the lead in a tragedy?
+Dialogue: 0,0:15:31.74,0:15:36.25,Default,,0000,0000,0000,,An idiot like you can just cry forever!\NYou crybaby!
+Dialogue: 0,0:15:38.02,0:15:40.12,Default,,0000,0000,0000,,Naruto! That's a bit harsh!
+Dialogue: 0,0:15:44.82,0:15:45.82,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:16:07.81,0:16:09.61,Default,,0000,0000,0000,,Got a minute?
+Dialogue: 0,0:16:17.82,0:16:20.86,Default,,0000,0000,0000,,Naruto didn't mean any harm\Nwith what he said…
+Dialogue: 0,0:16:22.39,0:16:24.39,Default,,0000,0000,0000,,He's just uncouth, so…
+Dialogue: 0,0:16:27.70,0:16:31.10,Default,,0000,0000,0000,,We heard the story\Nabout your father from Tazuna.
+Dialogue: 0,0:16:32.37,0:16:36.81,Default,,0000,0000,0000,,Like you, Naruto never had\Na father as a young child…
+Dialogue: 0,0:16:38.11,0:16:40.78,Default,,0000,0000,0000,,Actually he doesn't know either\Nof his parents.
+Dialogue: 0,0:16:41.28,0:16:44.11,Default,,0000,0000,0000,,Not only that.\NHe didn't have a single friend.
+Dialogue: 0,0:16:44.41,0:16:44.82,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:45.82,0:16:46.82,Default,,0000,0000,0000,,However…
+Dialogue: 0,0:16:47.12,0:16:50.62,Default,,0000,0000,0000,,I've never seen him sulk,\Nbe timid, or cry.
+Dialogue: 0,0:16:51.92,0:16:57.39,Default,,0000,0000,0000,,He's always eager,\Nwanting to be acknowledged by someone.
+Dialogue: 0,0:16:58.26,0:17:02.03,Default,,0000,0000,0000,,If it's for the sake of that "dream,"\Nhe always risks his life.
+Dialogue: 0,0:17:05.57,0:17:08.81,Default,,0000,0000,0000,,He's probably tired of crying.
+Dialogue: 0,0:17:16.48,0:17:19.62,Default,,0000,0000,0000,,So, he knows the true meaning\Nof the word strong.
+Dialogue: 0,0:17:21.79,0:17:23.82,Default,,0000,0000,0000,,Like your father.
+Dialogue: 0,0:17:24.92,0:17:29.09,Default,,0000,0000,0000,,Naruto might understand your feelings\Nthe most.
+Dialogue: 0,0:17:31.06,0:17:32.83,Default,,0000,0000,0000,,What Naruto said earlier…
+Dialogue: 0,0:17:33.63,0:17:38.80,Default,,0000,0000,0000,,There's no mistaking that\Nhe's told himself that over and over again.
+Dialogue: 0,0:17:51.82,0:17:54.08,Default,,0000,0000,0000,,Okay, then!\NI leave Naruto in your hands.
+Dialogue: 0,0:17:57.19,0:17:59.52,Default,,0000,0000,0000,,Because he's used his body\Nto the limit…
+Dialogue: 0,0:18:00.66,0:18:03.19,Default,,0000,0000,0000,,I don't think he'll be able\Nto move today.
+Dialogue: 0,0:18:04.53,0:18:07.53,Default,,0000,0000,0000,,Mr. Kakashi, are you feeling all right?
+Dialogue: 0,0:18:07.76,0:18:09.00,Default,,0000,0000,0000,,Yes, somehow.
+Dialogue: 0,0:18:09.67,0:18:10.90,Default,,0000,0000,0000,,We'll be going!
+Dialogue: 0,0:18:16.84,0:18:18.64,Default,,0000,0000,0000,,What're you doing?
+Dialogue: 0,0:18:18.78,0:18:21.61,Default,,0000,0000,0000,,I didn't hire you guys for charity work…
+Dialogue: 0,0:18:21.81,0:18:24.51,Default,,0000,0000,0000,,Hey, are you listening, Zabuza?!\NHey!!
+Dialogue: 0,0:18:28.82,0:18:30.85,Default,,0000,0000,0000,,Shall we go…Haku?
+Dialogue: 0,0:18:31.66,0:18:32.12,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:47.77,0:18:48.81,Default,,0000,0000,0000,,I overslept!
+Dialogue: 0,0:18:50.81,0:18:52.88,Default,,0000,0000,0000,,Hey hey!! Where is everyone?
+Dialogue: 0,0:18:53.81,0:18:57.95,Default,,0000,0000,0000,,Naruto. Your Sensei wanted you\Nto rest and relax…today
+Dialogue: 0,0:18:59.68,0:19:00.28,Default,,0000,0000,0000,,I knew it.
+Dialogue: 0,0:19:00.68,0:19:02.09,Default,,0000,0000,0000,,They left me behind.
+Dialogue: 0,0:19:05.82,0:19:06.66,Default,,0000,0000,0000,,I'll be back.
+Dialogue: 0,0:19:15.20,0:19:17.70,Default,,0000,0000,0000,,Darn it!\NThey could've woken me up!
+Dialogue: 0,0:19:27.21,0:19:29.31,Default,,0000,0000,0000,,W-What the heck is this?!
+Dialogue: 0,0:19:36.25,0:19:39.49,Default,,0000,0000,0000,,What is going on?\NWhat's happened?
+Dialogue: 0,0:19:40.29,0:19:41.22,Default,,0000,0000,0000,,It couldn't be…
+Dialogue: 0,0:19:42.83,0:19:44.83,Default,,0000,0000,0000,,Inari! Give me a hand.
+Dialogue: 0,0:19:45.53,0:19:46.36,Default,,0000,0000,0000,,Inari!?
+Dialogue: 0,0:19:46.73,0:19:47.83,Default,,0000,0000,0000,,I'll be right there.
+Dialogue: 0,0:20:04.28,0:20:04.98,Default,,0000,0000,0000,,This mist…
+Dialogue: 0,0:20:05.82,0:20:08.15,Default,,0000,0000,0000,,Sasuke! Sakura!\NThey're coming!
+Dialogue: 0,0:20:13.72,0:20:15.53,Default,,0000,0000,0000,,I knew he was still alive.
+Dialogue: 0,0:20:16.39,0:20:17.96,Default,,0000,0000,0000,,Making an appearance so soon, eh…
+Dialogue: 0,0:20:18.56,0:20:19.83,Default,,0000,0000,0000,,Say, Kakashi Sensei.
+Dialogue: 0,0:20:19.96,0:20:22.93,Default,,0000,0000,0000,,This is his…Hidden Mist Jutsu, right?!
+Dialogue: 0,0:20:29.81,0:20:31.81,Default,,0000,0000,0000,,Sorry to have kept you waiting, Kakashi.
+Dialogue: 0,0:20:32.71,0:20:35.61,Default,,0000,0000,0000,,I see you've got those brats\Nwith you as always.
+Dialogue: 0,0:20:36.71,0:20:40.42,Default,,0000,0000,0000,,He's still trembling. Poor thing.
+Dialogue: 0,0:20:50.23,0:20:52.66,Default,,0000,0000,0000,,I'm trembling with…excitement.
+Dialogue: 0,0:20:54.76,0:20:56.53,Default,,0000,0000,0000,,Do it, Sasuke.
+Dialogue: 0,0:21:08.51,0:21:09.48,Default,,0000,0000,0000,,I can see it!
+Dialogue: 0,0:21:10.78,0:21:13.78,Default,,0000,0000,0000,,Well-well. So he could\Nsee the Water Clones, eh.
+Dialogue: 0,0:21:13.95,0:21:16.49,Default,,0000,0000,0000,,That brat's grown quite a bit.
+Dialogue: 0,0:21:17.69,0:21:19.99,Default,,0000,0000,0000,,This means a rival has emerged, Haku.
+Dialogue: 0,0:21:20.69,0:21:21.96,Default,,0000,0000,0000,,So it seems.
+Dialogue: 0,0:23:07.20,0:23:10.67,Default,,0000,0000,0000,,Phew, that was a close shave.
+Dialogue: 0,0:23:10.83,0:23:14.80,Default,,0000,0000,0000,,Sorry I was late.\NBut Inari, you were great.
+Dialogue: 0,0:23:15.24,0:23:18.78,Default,,0000,0000,0000,,I was able to save your mom\Nthanks to your courage.
+Dialogue: 0,0:23:18.81,0:23:20.24,Default,,0000,0000,0000,,Hey, wait a minute.
+Dialogue: 0,0:23:20.48,0:23:22.31,Default,,0000,0000,0000,,Doesn't the fact that\Nwe were attacked mean
+Dialogue: 0,0:23:22.38,0:23:24.81,Default,,0000,0000,0000,,that Kakashi Sensei and\Nthe others are in danger too?!
+Dialogue: 0,0:23:25.75,0:23:28.42,Default,,0000,0000,0000,,Next episode:\N "Haku's Secret Jutsu: Crystal Ice Mirrors"
+Dialogue: 0,0:23:28.62,0:23:31.12,Default,,0000,0000,0000,,I'm going to kick butt once again!

@@ -1,0 +1,403 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.92,0:00:10.72,Default,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:00:17.13,0:00:19.70,Default,,0000,0000,0000,,Running like a fugitive,
+Dialogue: 0,0:00:20.70,0:00:22.97,Default,,0000,0000,0000,,Being chased by something
+Dialogue: 0,0:00:24.57,0:00:27.37,Default,,0000,0000,0000,,Inside my heart is pounding
+Dialogue: 0,0:00:28.47,0:00:31.04,Default,,0000,0000,0000,,My throat dry like it's withering
+Dialogue: 0,0:00:32.64,0:00:35.78,Default,,0000,0000,0000,,For no single one,
+Dialogue: 0,0:00:36.55,0:00:39.58,Default,,0000,0000,0000,,To none does belong,
+Dialogue: 0,0:00:41.05,0:00:45.56,Default,,0000,0000,0000,,This time is ours, right now...
+Dialogue: 0,0:00:48.06,0:00:49.79,Default,,0000,0000,0000,,Unraveling the pain,
+Dialogue: 0,0:00:49.89,0:00:51.60,Default,,0000,0000,0000,,Unraveling our hearts,
+Dialogue: 0,0:00:51.63,0:00:54.10,Default,,0000,0000,0000,,Unraveling shadows
+Dialogue: 0,0:00:55.60,0:00:57.47,Default,,0000,0000,0000,,Stifling our breath,
+Dialogue: 0,0:00:57.50,0:00:59.44,Default,,0000,0000,0000,,Reaching for beyond,
+Dialogue: 0,0:00:59.47,0:01:01.87,Default,,0000,0000,0000,,Tearing through the dark
+Dialogue: 0,0:01:03.71,0:01:10.45,Default,,0000,0000,0000,,In fighting and in love
+Dialogue: 0,0:01:11.55,0:01:13.95,Default,,0000,0000,0000,,To the distant light above,
+Dialogue: 0,0:01:14.62,0:01:17.59,Default,,0000,0000,0000,,Yes, we are on the way
+Dialogue: 0,0:01:22.49,0:01:23.66,Default,,0000,0000,0000,,I wanna rock...
+Dialogue: 0,0:01:26.23,0:01:27.67,Default,,0000,0000,0000,,Rockin' my heart
+Dialogue: 0,0:01:46.58,0:01:48.59,Default,,0000,0000,0000,,You're an embarrassment\Nto our village.
+Dialogue: 0,0:01:49.09,0:01:52.12,Default,,0000,0000,0000,,Why do you think we came all\Nthe way here to Leaf Village?
+Dialogue: 0,0:01:52.19,0:01:54.23,Default,,0000,0000,0000,,P-Please listen to me, Gaara.
+Dialogue: 0,0:01:55.43,0:01:57.90,Default,,0000,0000,0000,,T-They lashed out first…
+Dialogue: 0,0:01:58.23,0:01:59.10,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:02:02.47,0:02:03.43,Default,,0000,0000,0000,,I'll kill you.
+Dialogue: 0,0:02:03.70,0:02:07.00,Default,,0000,0000,0000,,U-Understood, I was wrong.
+Dialogue: 0,0:02:07.57,0:02:09.57,Default,,0000,0000,0000,,I-I'm sorry…\NI'm really sorry.
+Dialogue: 0,0:02:10.88,0:02:13.51,Default,,0000,0000,0000,,I'm sorry about that…
+Dialogue: 0,0:02:14.48,0:02:17.58,Default,,0000,0000,0000,,This guy…has a nasty look.
+Dialogue: 0,0:02:18.52,0:02:20.55,Default,,0000,0000,0000,,To think he was able to hit\Nthat Kankuro
+Dialogue: 0,0:02:20.59,0:02:22.59,Default,,0000,0000,0000,,with a tiny rock with great ease.
+Dialogue: 0,0:02:23.12,0:02:25.29,Default,,0000,0000,0000,,This guy's…good.
+Dialogue: 0,0:02:30.76,0:02:31.60,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:02:32.00,0:02:34.47,Default,,0000,0000,0000,,We didn't come here\Nto play around.
+Dialogue: 0,0:02:34.60,0:02:35.97,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:02:36.57,0:02:37.57,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:02:39.17,0:02:39.87,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:02:40.57,0:02:41.81,Default,,0000,0000,0000,,Judging from your headbands,
+Dialogue: 0,0:02:41.84,0:02:44.58,Default,,0000,0000,0000,,you're Ninjas from the Village\NHidden in the Sand, right?
+Dialogue: 0,0:02:46.34,0:02:49.28,Default,,0000,0000,0000,,Without question, the Land of Fire and\Nthe Land of Wind are allied nations.
+Dialogue: 0,0:02:49.51,0:02:51.22,Default,,0000,0000,0000,,But the arbitrary coming and\Ngoing of Shinobi
+Dialogue: 0,0:02:51.25,0:02:53.02,Default,,0000,0000,0000,,is supposed to\Nbe prohibited by the treaty.
+Dialogue: 0,0:02:53.58,0:02:55.02,Default,,0000,0000,0000,,State your purpose!
+Dialogue: 0,0:02:55.45,0:02:56.59,Default,,0000,0000,0000,,Depending on circumstances…
+Dialogue: 0,0:02:56.59,0:02:58.99,Default,,0000,0000,0000,,Hmph! So this is what they mean
+Dialogue: 0,0:02:59.06,0:03:00.36,Default,,0000,0000,0000,,by the darkest place being\Nunder the candlestick.
+Dialogue: 0,0:03:00.59,0:03:02.06,Default,,0000,0000,0000,,Don't you know anything about it?
+Dialogue: 0,0:03:03.06,0:03:04.26,Default,,0000,0000,0000,,My permit!
+Dialogue: 0,0:03:05.93,0:03:10.57,Default,,0000,0000,0000,,As you say, we're Sand Village Genins\Nfrom the Land of Wind.
+Dialogue: 0,0:03:11.34,0:03:14.24,Default,,0000,0000,0000,,We came to this village to\Ntake the Chunin Exam.
+Dialogue: 0,0:03:15.04,0:03:17.31,Default,,0000,0000,0000,,Chunin Exam…?
+Dialogue: 0,0:03:17.58,0:03:23.58,Default,,0000,0000,0000,,Identify Yourself:\NPowerful New Rivals
+Dialogue: 0,0:03:24.22,0:03:27.45,Default,,0000,0000,0000,,What is the Chunin Exam anyways?
+Dialogue: 0,0:03:27.72,0:03:29.79,Default,,0000,0000,0000,,You really don't know\Nanything, do you?
+Dialogue: 0,0:03:30.72,0:03:35.89,Default,,0000,0000,0000,,Bro, if you pass the exam,\Nyou can become a Chunin from a Genin!
+Dialogue: 0,0:03:36.29,0:03:39.26,Default,,0000,0000,0000,,I see! Then, maybe I'll try taking them!
+Dialogue: 0,0:03:39.60,0:03:40.10,Default,,0000,0000,0000,,Heh!
+Dialogue: 0,0:03:40.77,0:03:43.33,Default,,0000,0000,0000,,Hey! You there…
+Dialogue: 0,0:03:43.80,0:03:44.97,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:03:45.20,0:03:46.87,Default,,0000,0000,0000,,Huh?  M-Me?
+Dialogue: 0,0:03:47.44,0:03:49.91,Default,,0000,0000,0000,,No! The gourd next to you!
+Dialogue: 0,0:03:52.41,0:03:54.75,Default,,0000,0000,0000,,I'm Gaara of the desert…
+Dialogue: 0,0:03:55.51,0:03:57.45,Default,,0000,0000,0000,,I have an interest in you as well…
+Dialogue: 0,0:03:58.08,0:03:59.08,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:03:59.68,0:04:01.59,Default,,0000,0000,0000,,Sasuke Uchiha.
+Dialogue: 0,0:04:08.99,0:04:11.43,Default,,0000,0000,0000,,Say! Say! What about me?\NWhat about me?
+Dialogue: 0,0:04:12.16,0:04:13.33,Default,,0000,0000,0000,,Not interested.
+Dialogue: 0,0:04:17.17,0:04:19.64,Default,,0000,0000,0000,,Heh! Things have gotten interesting.
+Dialogue: 0,0:04:21.24,0:04:24.51,Default,,0000,0000,0000,,Konohamaru, do I look weak?
+Dialogue: 0,0:04:24.64,0:04:27.21,Default,,0000,0000,0000,,Compared to Sasuke, yes...
+Dialogue: 0,0:04:29.48,0:04:31.38,Default,,0000,0000,0000,,Sasuke, I won't lose to you!
+Dialogue: 0,0:04:31.42,0:04:32.85,Default,,0000,0000,0000,,What's gotten into you,\Nall of a sudden?!
+Dialogue: 0,0:04:33.45,0:04:34.55,Default,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:04:34.89,0:04:37.59,Default,,0000,0000,0000,,I don't think they're anything special.
+Dialogue: 0,0:04:37.89,0:04:40.59,Default,,0000,0000,0000,,But the black-haired one from Leaf Village\Nand the gourd from the Sand Village…
+Dialogue: 0,0:04:40.76,0:04:42.59,Default,,0000,0000,0000,,those two need to be checked.
+Dialogue: 0,0:04:44.60,0:04:49.43,Default,,0000,0000,0000,,Now then, in conjunction\Nwith beginning the Chunin Exam,
+Dialogue: 0,0:04:49.60,0:04:53.64,Default,,0000,0000,0000,,let us first have those in charge\Nof the rookie Genin come forward.
+Dialogue: 0,0:04:55.34,0:04:58.58,Default,,0000,0000,0000,,Kakashi and Kurenai and Asuma…
+Dialogue: 0,0:04:59.34,0:05:02.48,Default,,0000,0000,0000,,So?  Are there any Genin from\Nyour squads
+Dialogue: 0,0:05:02.51,0:05:06.08,Default,,0000,0000,0000,,you wish to recommend\Nfor these exams?
+Dialogue: 0,0:05:07.35,0:05:09.29,Default,,0000,0000,0000,,It goes without saying,
+Dialogue: 0,0:05:09.35,0:05:13.59,Default,,0000,0000,0000,,but if it's a Genin who has carried out\Neight or more formal missions,
+Dialogue: 0,0:05:13.59,0:05:16.96,Default,,0000,0000,0000,,you can recommend them\Nfor the exams if you wish.
+Dialogue: 0,0:05:17.60,0:05:19.43,Default,,0000,0000,0000,,Well, as a general rule,
+Dialogue: 0,0:05:19.46,0:05:23.57,Default,,0000,0000,0000,,having carried out more than twice\Nthat amount of missions is appropriate.
+Dialogue: 0,0:05:23.83,0:05:25.37,Default,,0000,0000,0000,,There's no need to hear this…
+Dialogue: 0,0:05:25.57,0:05:27.57,Default,,0000,0000,0000,,It's too soon for them.
+Dialogue: 0,0:05:28.57,0:05:30.14,Default,,0000,0000,0000,,Then, you first Kakashi.
+Dialogue: 0,0:05:31.38,0:05:32.91,Default,,0000,0000,0000,,The Kakashi-led Group Seven...
+Dialogue: 0,0:05:33.58,0:05:38.15,Default,,0000,0000,0000,,Sasuke Uchiha. Naruto Uzumaki.\NSakura Haruno.
+Dialogue: 0,0:05:38.68,0:05:44.79,Default,,0000,0000,0000,,I, Kakashi Hatake, recommend these\Nthree for the Chunin Exam.
+Dialogue: 0,0:05:45.59,0:05:46.26,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:47.09,0:05:48.93,Default,,0000,0000,0000,,The Kurenai-led Group Eight...
+Dialogue: 0,0:05:49.09,0:05:53.40,Default,,0000,0000,0000,,Hinata Hyuga, Kiba Inuzuka,\NShino Aburame.
+Dialogue: 0,0:05:53.60,0:05:57.57,Default,,0000,0000,0000,,These three, I, Kurenai Yuhi,\Nrecommend the same.
+Dialogue: 0,0:05:58.80,0:06:00.57,Default,,0000,0000,0000,,The Asuma-led Group Ten...
+Dialogue: 0,0:06:01.04,0:06:05.58,Default,,0000,0000,0000,,Ino Yamanaka, Shikamaru Nara,\NChoji Akimichi.
+Dialogue: 0,0:06:06.14,0:06:10.28,Default,,0000,0000,0000,,These three, I, Asuma Sarutobi,\Nrecommend the same.
+Dialogue: 0,0:06:10.58,0:06:12.58,Default,,0000,0000,0000,,All three recommended…
+Dialogue: 0,0:06:12.58,0:06:14.59,Default,,0000,0000,0000,,To think rookies will be\Nin the Chunin Exam…
+Dialogue: 0,0:06:14.59,0:06:15.59,Default,,0000,0000,0000,,Hasn't it been five years\Nsince that's happened?
+Dialogue: 0,0:06:16.95,0:06:17.72,Default,,0000,0000,0000,,Hmm…
+Dialogue: 0,0:06:17.76,0:06:19.22,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:06:19.59,0:06:20.86,Default,,0000,0000,0000,,What is it, Iruka?
+Dialogue: 0,0:06:21.16,0:06:23.59,Default,,0000,0000,0000,,Lord Hokage, please let me\Nsay one thing.
+Dialogue: 0,0:06:23.96,0:06:25.60,Default,,0000,0000,0000,,This may be presumptuous,
+Dialogue: 0,0:06:25.60,0:06:27.90,Default,,0000,0000,0000,,but as for the nine names\Nthat were given,
+Dialogue: 0,0:06:28.17,0:06:30.17,Default,,0000,0000,0000,,I was in charge of them at the Academy.
+Dialogue: 0,0:06:30.97,0:06:33.57,Default,,0000,0000,0000,,Admittedly, they were all students\Nwith ability,
+Dialogue: 0,0:06:33.57,0:06:34.94,Default,,0000,0000,0000,,but it's too soon…!
+Dialogue: 0,0:06:35.61,0:06:38.81,Default,,0000,0000,0000,,They should be tested after\Nhaving gained more experience!
+Dialogue: 0,0:06:39.68,0:06:44.38,Default,,0000,0000,0000,,I became a Chunin when I was\Nsix years younger than Naruto is now.
+Dialogue: 0,0:06:44.58,0:06:46.58,Default,,0000,0000,0000,,Naruto is different from you!
+Dialogue: 0,0:06:47.05,0:06:49.09,Default,,0000,0000,0000,,Is it your intent to crush Naruto?!
+Dialogue: 0,0:06:49.69,0:06:53.06,Default,,0000,0000,0000,,They always do nothing but complain\Nabout important missions…
+Dialogue: 0,0:06:53.12,0:06:56.06,Default,,0000,0000,0000,,Teaching them a lesson\Nonce would be fun.
+Dialogue: 0,0:06:56.29,0:06:58.60,Default,,0000,0000,0000,,Trying to crush them\Nwould be interesting, too.
+Dialogue: 0,0:06:58.93,0:07:00.60,Default,,0000,0000,0000,,W-What did you say?!
+Dialogue: 0,0:07:00.93,0:07:03.57,Default,,0000,0000,0000,,Well, joking aside…
+Dialogue: 0,0:07:04.54,0:07:05.57,Default,,0000,0000,0000,,Iruka Sensei...
+Dialogue: 0,0:07:06.64,0:07:09.04,Default,,0000,0000,0000,,I understand what you want to say.
+Dialogue: 0,0:07:09.37,0:07:11.74,Default,,0000,0000,0000,,It's aggravating, I know.\NHowever…
+Dialogue: 0,0:07:12.04,0:07:13.01,Default,,0000,0000,0000,,Kakashi...
+Dialogue: 0,0:07:13.04,0:07:14.51,Default,,0000,0000,0000,,Don't do it.
+Dialogue: 0,0:07:15.38,0:07:19.42,Default,,0000,0000,0000,,Stay out of this!\NThey're not your students anymore!
+Dialogue: 0,0:07:19.58,0:07:22.42,Default,,0000,0000,0000,,Now they're my subordinates!
+Dialogue: 0,0:07:24.56,0:07:27.56,Default,,0000,0000,0000,,Man…troublesome people.
+Dialogue: 0,0:07:32.46,0:07:35.33,Default,,0000,0000,0000,,B-But the Chunin Exam\Nis also known as…
+Dialogue: 0,0:07:35.40,0:07:36.27,Default,,0000,0000,0000,,Iruka…
+Dialogue: 0,0:07:37.17,0:07:39.94,Default,,0000,0000,0000,,I understand your point.
+Dialogue: 0,0:07:40.67,0:07:42.14,Default,,0000,0000,0000,,Master Hokage...
+Dialogue: 0,0:07:42.64,0:07:45.41,Default,,0000,0000,0000,,Therefore, I have decided to conduct
+Dialogue: 0,0:07:45.48,0:07:48.28,Default,,0000,0000,0000,,a special preliminary exam\Nfor these rookie Genins.
+Dialogue: 0,0:07:48.65,0:07:51.08,Default,,0000,0000,0000,,P-Preliminary exam…?!
+Dialogue: 0,0:08:01.06,0:08:02.29,Default,,0000,0000,0000,,Say! Say! Say!
+Dialogue: 0,0:08:02.59,0:08:04.53,Default,,0000,0000,0000,,Why is it that he's the one who\Nalways calls us out,
+Dialogue: 0,0:08:04.60,0:08:05.93,Default,,0000,0000,0000,,and then makes us wait?!
+Dialogue: 0,0:08:06.10,0:08:07.43,Default,,0000,0000,0000,,That's right! That's right!
+Dialogue: 0,0:08:07.60,0:08:09.67,Default,,0000,0000,0000,,What's he going to do about\Nthe feelings of a maiden
+Dialogue: 0,0:08:09.70,0:08:12.57,Default,,0000,0000,0000,,who accidentally overslept and resigned\Nherself to no blow-drying?!
+Dialogue: 0,0:08:12.64,0:08:16.51,Default,,0000,0000,0000,,I overslept, so I haven't washed my face\Nand didn't brush my teeth.
+Dialogue: 0,0:08:17.58,0:08:20.68,Default,,0000,0000,0000,,Y-You…That's dirty.
+Dialogue: 0,0:08:21.38,0:08:24.92,Default,,0000,0000,0000,,Why're these guys so hyper\Nfirst thing in the morning?!
+Dialogue: 0,0:08:28.09,0:08:30.19,Default,,0000,0000,0000,,Hey, good morning, folks!
+Dialogue: 0,0:08:30.59,0:08:33.59,Default,,0000,0000,0000,,Today, I got a bit lost on the path of life…
+Dialogue: 0,0:08:33.66,0:08:35.23,Default,,0000,0000,0000,,Right! That's a lie!!
+Dialogue: 0,0:08:36.99,0:08:38.10,Default,,0000,0000,0000,,Uh, well…
+Dialogue: 0,0:08:38.13,0:08:42.60,Default,,0000,0000,0000,,This is sudden, but I recommended\Nyou guys for the Chunin Exam, so…
+Dialogue: 0,0:08:42.83,0:08:44.57,Default,,0000,0000,0000,,Here, these are your applications.
+Dialogue: 0,0:08:45.00,0:08:46.50,Default,,0000,0000,0000,,Chunin Exam…
+Dialogue: 0,0:08:47.17,0:08:49.74,Default,,0000,0000,0000,,That being said, the recommendations\Nare not compulsory.
+Dialogue: 0,0:08:50.04,0:08:53.58,Default,,0000,0000,0000,,You guys are free to decide whether\Nyou take the Exam or not.
+Dialogue: 0,0:08:53.58,0:08:56.58,Default,,0000,0000,0000,,All right! I love you, Kakashi Sensei!
+Dialogue: 0,0:08:56.58,0:08:58.35,Default,,0000,0000,0000,,Hey, cut it out. Get away already…
+Dialogue: 0,0:08:58.85,0:09:02.35,Default,,0000,0000,0000,,Only those who want to take the Exam,\Nsign that application and
+Dialogue: 0,0:09:02.39,0:09:06.59,Default,,0000,0000,0000,,come to Room 301 of the Academy\Nat 3:00 p.m. five days from now…
+Dialogue: 0,0:09:06.86,0:09:07.73,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:09:10.06,0:09:12.53,Default,,0000,0000,0000,,Chunin Exam! Chunin Exam!
+Dialogue: 0,0:09:17.57,0:09:19.57,Default,,0000,0000,0000,,Chunin Exams, eh…
+Dialogue: 0,0:09:20.44,0:09:23.31,Default,,0000,0000,0000,,I bet lots of strong guys would be there…
+Dialogue: 0,0:09:24.14,0:09:25.84,Default,,0000,0000,0000,,For example, that guy!
+Dialogue: 0,0:09:27.58,0:09:29.21,Default,,0000,0000,0000,,And this guy!
+Dialogue: 0,0:09:34.59,0:09:38.92,Default,,0000,0000,0000,,Okaaay! I won't lose to\Nanybody no matter what!
+Dialogue: 0,0:09:40.29,0:09:44.33,Default,,0000,0000,0000,,If I take the first place, the path to\Nthe Hokage is right there!
+Dialogue: 0,0:09:44.60,0:09:48.60,Default,,0000,0000,0000,,Sure enough, it's decided that Naruto\Nwill be the Hokage…
+Dialogue: 0,0:09:48.60,0:09:51.34,Default,,0000,0000,0000,,I'll just retire my elderly self at once.
+Dialogue: 0,0:09:51.37,0:09:52.44,Default,,0000,0000,0000,,Yaaaay!
+Dialogue: 0,0:09:55.64,0:09:57.58,Default,,0000,0000,0000,,I might be able to fight him.
+Dialogue: 0,0:10:06.15,0:10:07.45,Default,,0000,0000,0000,,I...don't want to…
+Dialogue: 0,0:10:09.42,0:10:10.55,Default,,0000,0000,0000,,Here I can't…
+Dialogue: 0,0:10:10.75,0:10:13.06,Default,,0000,0000,0000,,keep up with Sasuke,\Nand not even with Naruto…
+Dialogue: 0,0:10:13.09,0:10:14.66,Default,,0000,0000,0000,,The Chunin Exam, no way…
+Dialogue: 0,0:10:38.08,0:10:41.59,Default,,0000,0000,0000,,Oh, Brother Naruto! Let's play!
+Dialogue: 0,0:10:41.59,0:10:45.86,Default,,0000,0000,0000,,Sure. I don't have any missions today,\Nso I'll play with you guys!
+Dialogue: 0,0:10:46.06,0:10:47.59,Default,,0000,0000,0000,,Yaaay!
+Dialogue: 0,0:10:48.59,0:10:49.26,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:10:54.63,0:10:57.70,Default,,0000,0000,0000,,Leader! Konohamaru!
+Dialogue: 0,0:10:57.77,0:11:00.14,Default,,0000,0000,0000,,What're you going to do with Moegi?!
+Dialogue: 0,0:11:00.17,0:11:02.24,Default,,0000,0000,0000,,Hey, you! Let Moegi go!
+Dialogue: 0,0:11:05.68,0:11:08.01,Default,,0000,0000,0000,,Darn!\NLet's follow them, Konohamaru!
+Dialogue: 0,0:11:08.18,0:11:09.48,Default,,0000,0000,0000,,Y-Yeah!
+Dialogue: 0,0:11:09.65,0:11:10.68,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:11:22.43,0:11:25.03,Default,,0000,0000,0000,,Chunin Exams, eh…
+Dialogue: 0,0:11:26.00,0:11:26.73,Default,,0000,0000,0000,,Yo.
+Dialogue: 0,0:11:27.13,0:11:29.70,Default,,0000,0000,0000,,S-Sasuke, what's up?
+Dialogue: 0,0:11:30.43,0:11:32.27,Default,,0000,0000,0000,,How about we go for a little walk?
+Dialogue: 0,0:11:32.70,0:11:35.21,Default,,0000,0000,0000,,No way! For real?!
+Dialogue: 0,0:11:38.21,0:11:41.35,Default,,0000,0000,0000,,Well well... So you can keep up\Nat this speed, eh?
+Dialogue: 0,0:11:42.51,0:11:44.58,Default,,0000,0000,0000,,Wait for me! Moegi!
+Dialogue: 0,0:11:48.42,0:11:50.59,Default,,0000,0000,0000,,Bro, where'd you go?
+Dialogue: 0,0:11:50.89,0:11:52.69,Default,,0000,0000,0000,,I think we are lost.
+Dialogue: 0,0:11:53.09,0:11:54.63,Default,,0000,0000,0000,,Nooo! Let me go!
+Dialogue: 0,0:11:57.03,0:11:59.46,Default,,0000,0000,0000,,Even the strongly fortified\NVillage Hidden in the Leaf…
+Dialogue: 0,0:11:59.83,0:12:03.53,Default,,0000,0000,0000,,is mine if I slip in the\Nmiddle of Chunin Exam's ruckus.
+Dialogue: 0,0:12:03.77,0:12:04.60,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:12:05.57,0:12:06.57,Default,,0000,0000,0000,,That was fast…
+Dialogue: 0,0:12:07.34,0:12:09.14,Default,,0000,0000,0000,,Hey! You fat old man!
+Dialogue: 0,0:12:09.24,0:12:11.24,Default,,0000,0000,0000,,What're you going to do with Moegi?
+Dialogue: 0,0:12:11.58,0:12:13.38,Default,,0000,0000,0000,,What am I going to do, you ask?
+Dialogue: 0,0:12:14.91,0:12:16.08,Default,,0000,0000,0000,,You want to know?
+Dialogue: 0,0:12:16.58,0:12:17.15,Default,,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:12:17.35,0:12:18.28,Default,,0000,0000,0000,,Don't move!
+Dialogue: 0,0:12:18.35,0:12:20.05,Default,,0000,0000,0000,,If you do,\Nthe brat's dead meat!
+Dialogue: 0,0:12:20.58,0:12:24.09,Default,,0000,0000,0000,,Y-You. Why're you doing this?!
+Dialogue: 0,0:12:24.29,0:12:26.42,Default,,0000,0000,0000,,I want the first Hokage's\NScroll of Sealing!
+Dialogue: 0,0:12:26.59,0:12:28.59,Default,,0000,0000,0000,,If you bring it to me,\NI'll return the brat!
+Dialogue: 0,0:12:29.59,0:12:31.23,Default,,0000,0000,0000,,Scroll of Sealing…
+Dialogue: 0,0:12:33.60,0:12:34.43,Default,,0000,0000,0000,,Umm…
+Dialogue: 0,0:12:35.27,0:12:36.40,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:12:37.00,0:12:38.27,Default,,0000,0000,0000,,What's up, all of a sudden?
+Dialogue: 0,0:12:39.14,0:12:40.14,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:12:40.74,0:12:44.58,Default,,0000,0000,0000,,Give up on the Chunin Exam…\Nlt's too early for you.
+Dialogue: 0,0:12:45.88,0:12:46.88,Default,,0000,0000,0000,,Is it…?
+Dialogue: 0,0:12:47.21,0:12:47.71,Default,,0000,0000,0000,,I thought so…
+Dialogue: 0,0:12:49.05,0:12:51.35,Default,,0000,0000,0000,,The Chunin Exam is\Na gathering of top dogs…
+Dialogue: 0,0:12:52.02,0:12:54.59,Default,,0000,0000,0000,,You might die if you're not careful…
+Dialogue: 0,0:12:55.59,0:12:56.62,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:12:56.69,0:12:59.22,Default,,0000,0000,0000,,So you're worried about me, right?
+Dialogue: 0,0:12:59.46,0:13:01.36,Default,,0000,0000,0000,,Yeah…kind of…
+Dialogue: 0,0:13:03.09,0:13:05.03,Default,,0000,0000,0000,,What a display of affection, eh?
+Dialogue: 0,0:13:05.10,0:13:07.30,Default,,0000,0000,0000,,Get lost! If you don't want to die.
+Dialogue: 0,0:13:07.40,0:13:09.43,Default,,0000,0000,0000,,Don't talk as if you know everything!
+Dialogue: 0,0:13:11.60,0:13:13.30,Default,,0000,0000,0000,,Don't make me angry!
+Dialogue: 0,0:13:13.37,0:13:14.20,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:13:16.57,0:13:17.54,Default,,0000,0000,0000,,Don't take me lightly!
+Dialogue: 0,0:13:22.71,0:13:23.58,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:13:37.59,0:13:38.60,Default,,0000,0000,0000,,Sasuke?
+Dialogue: 0,0:13:39.76,0:13:40.60,Default,,0000,0000,0000,,Sasuke!
+Dialogue: 0,0:13:40.70,0:13:42.50,Default,,0000,0000,0000,,Sasuke!!
+Dialogue: 0,0:13:46.30,0:13:47.57,Default,,0000,0000,0000,,What're you doing?
+Dialogue: 0,0:13:47.57,0:13:49.51,Default,,0000,0000,0000,,Hurry up and bring me\Nthe Scroll of Sealing!
+Dialogue: 0,0:13:49.57,0:13:52.91,Default,,0000,0000,0000,,What'll happen…if I say, heck no?
+Dialogue: 0,0:13:53.24,0:13:55.71,Default,,0000,0000,0000,,You don't care what happens\Nto this brat?
+Dialogue: 0,0:13:55.75,0:14:00.22,Default,,0000,0000,0000,,Heh, I'm fine with whatever happens\Nto that bunch of straw, I say.
+Dialogue: 0,0:14:00.25,0:14:02.59,Default,,0000,0000,0000,,Wha--?!\NWhen did he do that?!
+Dialogue: 0,0:14:04.96,0:14:07.62,Default,,0000,0000,0000,,I've taken Moegi back from you,\Nthank you!
+Dialogue: 0,0:14:07.66,0:14:10.59,Default,,0000,0000,0000,,As expected great leader!\NMoegi respects you.
+Dialogue: 0,0:14:10.79,0:14:13.66,Default,,0000,0000,0000,,Darn it! The Clone Jutsu, huh…?
+Dialogue: 0,0:14:13.93,0:14:16.17,Default,,0000,0000,0000,,You don't know when to give up!
+Dialogue: 0,0:14:20.04,0:14:21.37,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:14:21.84,0:14:23.97,Default,,0000,0000,0000,,Hey! You're late, Konohamaru!
+Dialogue: 0,0:14:24.24,0:14:26.68,Default,,0000,0000,0000,,Konohamaru, I was scared.
+Dialogue: 0,0:14:26.71,0:14:29.18,Default,,0000,0000,0000,,Oh, there-there…
+Dialogue: 0,0:14:29.21,0:14:30.65,Default,,0000,0000,0000,,Leader, did you catch him?
+Dialogue: 0,0:14:32.78,0:14:34.59,Default,,0000,0000,0000,,Yup, as you can see!
+Dialogue: 0,0:14:34.89,0:14:35.85,Default,,0000,0000,0000,,Huh?  What?!
+Dialogue: 0,0:14:36.19,0:14:38.56,Default,,0000,0000,0000,,Oh, it's the Substitution Jutsu!
+Dialogue: 0,0:14:38.59,0:14:40.59,Default,,0000,0000,0000,,Dang it! When did he switch?!
+Dialogue: 0,0:14:41.16,0:14:42.49,Default,,0000,0000,0000,,I see…
+Dialogue: 0,0:14:48.30,0:14:49.60,Default,,0000,0000,0000,,If you don't want to turn out\Nlike this,
+Dialogue: 0,0:14:49.63,0:14:52.50,Default,,0000,0000,0000,,you'll give up on\Nthe Chunin Exam, too.
+Dialogue: 0,0:14:52.97,0:14:55.54,Default,,0000,0000,0000,,Sasuke, don't die…!
+Dialogue: 0,0:14:55.97,0:14:58.58,Default,,0000,0000,0000,,Big mistake if you think\NI'd say that.
+Dialogue: 0,0:14:59.04,0:15:01.28,Default,,0000,0000,0000,,I was aware of this Genjutsu\Nright from the start!
+Dialogue: 0,0:15:01.55,0:15:02.35,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:02.78,0:15:04.72,Default,,0000,0000,0000,,The real Sasuke wouldn't do\Nsomething like
+Dialogue: 0,0:15:04.75,0:15:07.05,Default,,0000,0000,0000,,invite me to go for a walk!
+Dialogue: 0,0:15:07.75,0:15:09.22,Default,,0000,0000,0000,,Don't make me say\Nsuch frustrating things!
+Dialogue: 0,0:15:09.95,0:15:13.46,Default,,0000,0000,0000,,That kind of elementary Genjutsu\Nwon't work on me!
+Dialogue: 0,0:15:14.12,0:15:15.59,Default,,0000,0000,0000,,Did you say elementary…?
+Dialogue: 0,0:15:16.06,0:15:16.76,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:15:16.89,0:15:19.60,Default,,0000,0000,0000,,Incidentally, I've seen through that\Nyou're also an illusion
+Dialogue: 0,0:15:19.60,0:15:22.10,Default,,0000,0000,0000,,and aren't really here!
+Dialogue: 0,0:15:23.70,0:15:25.00,Default,,0000,0000,0000,,I don't know about…
+Dialogue: 0,0:15:25.04,0:15:25.70,Default,,0000,0000,0000,,that!
+Dialogue: 0,0:15:31.68,0:15:32.68,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:15:34.78,0:15:36.58,Default,,0000,0000,0000,,Just what I'd expect of\NKakashi's subordinate.
+Dialogue: 0,0:15:36.98,0:15:39.78,Default,,0000,0000,0000,,However, this will become reality\Nin the Chunin Exam!
+Dialogue: 0,0:15:40.52,0:15:42.59,Default,,0000,0000,0000,,I wonder if you can endure that…?
+Dialogue: 0,0:15:42.75,0:15:45.92,Default,,0000,0000,0000,,I'm not scared!\NI'll take them on anytime!
+Dialogue: 0,0:15:46.96,0:15:50.43,Default,,0000,0000,0000,,The Chunin Exam isn't...\NThe Chunin Exam isn't…!
+Dialogue: 0,0:15:51.66,0:15:53.80,Default,,0000,0000,0000,,I'm still not sure if I can do it…
+Dialogue: 0,0:16:01.97,0:16:03.57,Default,,0000,0000,0000,,That was a stupid thing to do…
+Dialogue: 0,0:16:11.78,0:16:13.08,Default,,0000,0000,0000,,How was it?
+Dialogue: 0,0:16:13.58,0:16:15.72,Default,,0000,0000,0000,,We went to the trouble of having\Na special preliminary exam,
+Dialogue: 0,0:16:15.92,0:16:19.49,Default,,0000,0000,0000,,but all nine of the rookies passed.
+Dialogue: 0,0:16:21.06,0:16:25.60,Default,,0000,0000,0000,,As you say, it appears their skills\Nhave definitely improved.
+Dialogue: 0,0:16:26.13,0:16:31.57,Default,,0000,0000,0000,,Well, the actual Chunin Exam\Nwon't just end at this, but...
+Dialogue: 0,0:16:33.67,0:16:34.87,Default,,0000,0000,0000,,Hey, have you heard?
+Dialogue: 0,0:16:35.31,0:16:36.67,Default,,0000,0000,0000,,Rookies are going to be\Nin the Chunin Exam
+Dialogue: 0,0:16:36.71,0:16:38.81,Default,,0000,0000,0000,,for the first time in five years.
+Dialogue: 0,0:16:39.31,0:16:40.58,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:16:40.91,0:16:43.88,Default,,0000,0000,0000,,It's probably just a Jonin battle of wills\Nor something anyway.
+Dialogue: 0,0:16:44.58,0:16:45.58,Default,,0000,0000,0000,,No…
+Dialogue: 0,0:16:45.75,0:16:49.45,Default,,0000,0000,0000,,The story is that three among them\Nare that Kakashi's unit.
+Dialogue: 0,0:16:49.72,0:16:51.59,Default,,0000,0000,0000,,That's interesting…
+Dialogue: 0,0:16:51.89,0:16:53.79,Default,,0000,0000,0000,,Well, be that as it may…
+Dialogue: 0,0:16:56.13,0:16:57.96,Default,,0000,0000,0000,,That's a sad story…
+Dialogue: 0,0:17:01.80,0:17:04.57,Default,,0000,0000,0000,,Sakura, you're late!
+Dialogue: 0,0:17:05.20,0:17:07.34,Default,,0000,0000,0000,,Yeah…sorry…
+Dialogue: 0,0:17:14.18,0:17:16.18,Default,,0000,0000,0000,,Morning, Sasuke.
+Dialogue: 0,0:17:16.58,0:17:17.45,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:17:18.58,0:17:21.35,Default,,0000,0000,0000,,Something's strange about Sakura.
+Dialogue: 0,0:17:28.26,0:17:30.59,Default,,0000,0000,0000,,So, are you sure you're going\Nto attempt taking
+Dialogue: 0,0:17:30.59,0:17:32.26,Default,,0000,0000,0000,,the Chunin Exam with that skill?
+Dialogue: 0,0:17:32.30,0:17:34.97,Default,,0000,0000,0000,,May it'd be best if you runts quit.
+Dialogue: 0,0:17:35.10,0:17:37.57,Default,,0000,0000,0000,,You're green-assed brats, after all.
+Dialogue: 0,0:17:38.60,0:17:41.24,Default,,0000,0000,0000,,Please let us through.
+Dialogue: 0,0:17:46.31,0:17:47.24,Default,,0000,0000,0000,,That's…mean…
+Dialogue: 0,0:17:48.58,0:17:49.75,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:17:50.15,0:17:53.58,Default,,0000,0000,0000,,Listen!\NWe're being nice to you!
+Dialogue: 0,0:17:53.58,0:17:55.72,Default,,0000,0000,0000,,The Chunin Exam is a high hurdle.
+Dialogue: 0,0:17:56.39,0:17:58.62,Default,,0000,0000,0000,,Many times have we seen\Npeople quit Shinobi
+Dialogue: 0,0:17:58.69,0:18:01.93,Default,,0000,0000,0000,,as well as people who were\Ndisabled for life
+Dialogue: 0,0:18:01.96,0:18:04.49,Default,,0000,0000,0000,,just because they took this Exam.
+Dialogue: 0,0:18:04.83,0:18:08.60,Default,,0000,0000,0000,,Also, a Chunin is at the level\Nof a unit leader.
+Dialogue: 0,0:18:08.60,0:18:10.77,Default,,0000,0000,0000,,Mission failures,\Ndeath of subordinates,
+Dialogue: 0,0:18:10.80,0:18:13.17,Default,,0000,0000,0000,,it's all part of the\Nresponsibilities of a leader!
+Dialogue: 0,0:18:13.20,0:18:15.31,Default,,0000,0000,0000,,A brat such as this a Chunin?
+Dialogue: 0,0:18:16.81,0:18:20.74,Default,,0000,0000,0000,,What's so bad about weeding out\Nthose who won't pass anyway?!
+Dialogue: 0,0:18:21.58,0:18:22.78,Default,,0000,0000,0000,,A just argument.
+Dialogue: 0,0:18:23.18,0:18:25.58,Default,,0000,0000,0000,,However, you will let me through.
+Dialogue: 0,0:18:27.25,0:18:31.25,Default,,0000,0000,0000,,And could you also immediately\Nundo this barrier created with Genjutsu?
+Dialogue: 0,0:18:31.79,0:18:33.79,Default,,0000,0000,0000,,I have business on the third floor.
+Dialogue: 0,0:18:34.62,0:18:35.96,Default,,0000,0000,0000,,What's this guy talking about…?
+Dialogue: 0,0:18:36.43,0:18:37.49,Default,,0000,0000,0000,,I don't know…
+Dialogue: 0,0:18:37.83,0:18:40.70,Default,,0000,0000,0000,,– Well, well…\N– So you noticed, eh?
+Dialogue: 0,0:18:42.30,0:18:43.60,Default,,0000,0000,0000,,How about it, Sakura?
+Dialogue: 0,0:18:43.67,0:18:46.14,Default,,0000,0000,0000,,You should've been\Nthe first one to realize it.
+Dialogue: 0,0:18:46.30,0:18:46.87,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:18:47.04,0:18:49.57,Default,,0000,0000,0000,,Your analytical strength and\NGenjutsu know-how
+Dialogue: 0,0:18:49.57,0:18:52.64,Default,,0000,0000,0000,,has improved the most in our squad, so...
+Dialogue: 0,0:18:53.24,0:18:54.54,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:18:56.18,0:18:57.18,Default,,0000,0000,0000,,Thank you…
+Dialogue: 0,0:18:57.91,0:19:00.68,Default,,0000,0000,0000,,Of course. I realized it ages ago!
+Dialogue: 0,0:19:00.92,0:19:02.85,Default,,0000,0000,0000,,You see, this is the second floor!
+Dialogue: 0,0:19:03.19,0:19:03.85,Default,,0000,0000,0000,,Yup!
+Dialogue: 0,0:19:06.79,0:19:11.53,Default,,0000,0000,0000,,Well, not bad…\NBut all you've done is to catch on.
+Dialogue: 0,0:19:12.60,0:19:13.26,Default,,0000,0000,0000,,Right?!
+Dialogue: 0,0:19:24.04,0:19:24.84,Default,,0000,0000,0000,,H-He's fast!
+Dialogue: 0,0:19:25.34,0:19:26.41,Default,,0000,0000,0000,,This person…
+Dialogue: 0,0:19:26.48,0:19:29.25,Default,,0000,0000,0000,,He's a different person from\Nwhen he was getting punched before!
+Dialogue: 0,0:19:30.91,0:19:32.58,Default,,0000,0000,0000,,He stopped my kick…
+Dialogue: 0,0:19:32.58,0:19:34.68,Default,,0000,0000,0000,,What's with that Chakra in his arm?
+Dialogue: 0,0:19:35.52,0:19:37.79,Default,,0000,0000,0000,,Hey, this isn't what you promised.
+Dialogue: 0,0:19:38.19,0:19:39.59,Default,,0000,0000,0000,,You were the one who said
+Dialogue: 0,0:19:39.59,0:19:42.36,Default,,0000,0000,0000,,you didn't want to carelessly\Nattract attention and be watched.
+Dialogue: 0,0:19:42.59,0:19:43.56,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:19:44.53,0:19:46.96,Default,,0000,0000,0000,,Oh boy… 					This again…
+Dialogue: 0,0:19:48.20,0:19:48.97,Default,,0000,0000,0000,,This guy…
+Dialogue: 0,0:19:49.93,0:19:51.94,Default,,0000,0000,0000,,The marks where he was hit\Nare disappearing.
+Dialogue: 0,0:19:52.57,0:19:53.57,Default,,0000,0000,0000,,Was he faking?
+Dialogue: 0,0:19:56.71,0:20:00.41,Default,,0000,0000,0000,,My name's Rock Lee.\NYour name's Sakura, right…?
+Dialogue: 0,0:20:01.55,0:20:02.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:03.48,0:20:07.52,Default,,0000,0000,0000,,Please go out with me!\NI'll protect you until I die!
+Dialogue: 0,0:20:09.59,0:20:11.59,Default,,0000,0000,0000,,Absolutely…not.
+Dialogue: 0,0:20:12.92,0:20:13.76,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:15.39,0:20:16.99,Default,,0000,0000,0000,,You're... too intense.
+Dialogue: 0,0:20:19.60,0:20:21.50,Default,,0000,0000,0000,,Hey, you there.
+Dialogue: 0,0:20:22.20,0:20:22.80,Default,,0000,0000,0000,,Identify yourself.
+Dialogue: 0,0:20:25.17,0:20:26.54,Default,,0000,0000,0000,,Dang it! Again?
+Dialogue: 0,0:20:26.57,0:20:28.17,Default,,0000,0000,0000,,It's always about Sasuke!
+Dialogue: 0,0:20:28.57,0:20:31.81,Default,,0000,0000,0000,,When asking someone his name,\Ngive your own name first.
+Dialogue: 0,0:20:32.24,0:20:35.58,Default,,0000,0000,0000,,You're... a rookie, right?\NHow old are you?
+Dialogue: 0,0:20:36.58,0:20:38.18,Default,,0000,0000,0000,,I'm not obliged to answer.
+Dialogue: 0,0:20:38.65,0:20:39.58,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:20:41.25,0:20:42.22,Default,,0000,0000,0000,,Cute.
+Dialogue: 0,0:20:47.46,0:20:48.49,Default,,0000,0000,0000,,Too intense, huh…
+Dialogue: 0,0:20:50.13,0:20:51.60,Default,,0000,0000,0000,,Uninterested, huh…
+Dialogue: 0,0:20:52.76,0:20:55.97,Default,,0000,0000,0000,,Now then!\NSasuke, Naruto, let's go!
+Dialogue: 0,0:20:57.57,0:21:00.94,Default,,0000,0000,0000,,So those are Kakashi and\NGuy's treasured brats.
+Dialogue: 0,0:21:01.57,0:21:05.01,Default,,0000,0000,0000,,Well, for the time being,\Ntheir applications will pass.
+Dialogue: 0,0:21:05.54,0:21:06.34,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:21:08.25,0:21:11.15,Default,,0000,0000,0000,,It appears this year's test-takers\Nwill be amusing…
+Dialogue: 0,0:21:12.15,0:21:14.58,Default,,0000,0000,0000,,For us proctors too, eh.
+Dialogue: 0,0:21:17.52,0:21:18.59,Default,,0000,0000,0000,,Good grief…
+Dialogue: 0,0:21:18.99,0:21:22.76,Default,,0000,0000,0000,,This Chunin Exam…\Nis full of monsters.
+Dialogue: 0,0:23:08.00,0:23:11.00,Default,,0000,0000,0000,,Bowl-cut, fuzzy eyelashes\Nand bushy eyebrows.
+Dialogue: 0,0:23:11.03,0:23:12.44,Default,,0000,0000,0000,,Oh! It's you!
+Dialogue: 0,0:23:12.47,0:23:14.87,Default,,0000,0000,0000,,You're the overly intense guy\Nwho just got rejected by Sakura.
+Dialogue: 0,0:23:14.94,0:23:17.14,Default,,0000,0000,0000,,What's with your bizarre\Ngreen jumpsuit?
+Dialogue: 0,0:23:17.44,0:23:20.61,Default,,0000,0000,0000,,What? You want to challenge me,\Nbushy-browed bumpkin?
+Dialogue: 0,0:23:20.98,0:23:24.58,Default,,0000,0000,0000,,I'll teach you that it's a million years\Ntoo soon to be doing that.
+Dialogue: 0,0:23:25.25,0:23:29.59,Default,,0000,0000,0000,,Next episode:\N "Chunin Challenge: Rock Lee vs. Sasuke!"
+Dialogue: 0,0:23:29.59,0:23:32.39,Default,,0000,0000,0000,,As for me,\NI'm going to kick butt once again!

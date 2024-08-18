@@ -1,0 +1,271 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.43,0:00:16.72,Default,,0000,0000,0000,,Hey boys, listen up!
+Dialogue: 0,0:00:16.76,0:00:21.47,Default,,0000,0000,0000,,Humans aren’t such a big deal
+Dialogue: 0,0:00:22.05,0:00:26.26,Default,,0000,0000,0000,,Who needs tomorrow anyway,
+Dialogue: 0,0:00:26.30,0:00:29.59,Default,,0000,0000,0000,,so don’t hide your fists
+Dialogue: 0,0:00:31.47,0:00:33.60,Default,,0000,0000,0000,,You’re not old enough
+Dialogue: 0,0:00:33.64,0:00:40.05,Default,,0000,0000,0000,,to sell your dreams away to uncertainty
+Dialogue: 0,0:00:40.93,0:00:45.51,Default,,0000,0000,0000,,Hey boys, you’re the only ones
+Dialogue: 0,0:00:45.55,0:00:49.01,Default,,0000,0000,0000,,who can pull the trigger in your heart
+Dialogue: 0,0:00:50.51,0:00:52.47,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:00:52.51,0:00:55.47,Default,,0000,0000,0000,,We’re living in this senseless, ridiculous,
+Dialogue: 0,0:00:55.51,0:00:59.68,Default,,0000,0000,0000,,awesome world right at this moment,
+Dialogue: 0,0:00:59.89,0:01:02.35,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:02.39,0:01:08.18,Default,,0000,0000,0000,,Don’t forget every truth or lie
+Dialogue: 0,0:01:09.59,0:01:11.80,Default,,0000,0000,0000,,All the kids said
+Dialogue: 0,0:01:11.80,0:01:14.26,Default,,0000,0000,0000,,We’re way too young to die
+Dialogue: 0,0:01:14.30,0:01:19.10,Default,,0000,0000,0000,,In this empty town lined with empty faces
+Dialogue: 0,0:01:19.14,0:01:21.43,Default,,0000,0000,0000,,All the kids took off
+Dialogue: 0,0:01:21.47,0:01:23.85,Default,,0000,0000,0000,,into this windless night
+Dialogue: 0,0:01:23.89,0:01:27.39,Default,,0000,0000,0000,,Because they want to change something
+Dialogue: 0,0:01:42.72,0:01:46.64,Default,,0000,0000,0000,,Two Heartbeats:\N                      Kabuto's Trap
+Dialogue: 0,0:01:49.59,0:01:50.55,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:01:54.89,0:01:55.89,Default,,0000,0000,0000,,It can’t be!
+Dialogue: 0,0:01:58.85,0:02:01.72,Default,,0000,0000,0000,,Even if you put up a bluff\NI can foresee …
+Dialogue: 0,0:02:02.68,0:02:06.39,Default,,0000,0000,0000,,that you are already…finished.
+Dialogue: 0,0:02:26.14,0:02:27.59,Default,,0000,0000,0000,,Poor thing.
+Dialogue: 0,0:02:28.60,0:02:31.64,Default,,0000,0000,0000,,This child is trembling\Nlike a puppy
+Dialogue: 0,0:02:32.60,0:02:34.10,Default,,0000,0000,0000,,Now, Kabuto…
+Dialogue: 0,0:02:34.39,0:02:37.51,Default,,0000,0000,0000,,Get rid of her,\Nbut don’t make her suffer.
+Dialogue: 0,0:02:37.59,0:02:38.59,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:02:44.18,0:02:45.47,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:02:46.72,0:02:49.76,Default,,0000,0000,0000,,I-I’ll do anything for you!
+Dialogue: 0,0:02:50.30,0:02:53.60,Default,,0000,0000,0000,,So I’m begging you…\NPlease stay here!
+Dialogue: 0,0:02:57.30,0:03:00.51,Default,,0000,0000,0000,,You are really annoying.
+Dialogue: 0,0:03:01.59,0:03:02.80,Default,,0000,0000,0000,,Please don’t go!
+Dialogue: 0,0:03:07.05,0:03:08.18,Default,,0000,0000,0000,,Sakura…
+Dialogue: 0,0:03:10.59,0:03:11.97,Default,,0000,0000,0000,,Thank you…
+Dialogue: 0,0:03:18.55,0:03:19.89,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:03:23.89,0:03:24.89,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:03:25.59,0:03:26.30,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:03:27.18,0:03:29.60,Default,,0000,0000,0000,,Did you…say something?
+Dialogue: 0,0:03:30.10,0:03:31.22,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:03:34.18,0:03:36.76,Default,,0000,0000,0000,,Where’s Sasuke!\NWhere is Sasuke?
+Dialogue: 0,0:03:37.43,0:03:40.59,Default,,0000,0000,0000,,It couldn’t be that…\Nyour body is already Sasuke's…?
+Dialogue: 0,0:03:41.59,0:03:44.35,Default,,0000,0000,0000,,There’s no need to keep it\Na secret any longer.
+Dialogue: 0,0:03:45.22,0:03:49.55,Default,,0000,0000,0000,,It’s all right, Kabuto,\Ngo on and tell her.
+Dialogue: 0,0:03:57.76,0:04:00.59,Default,,0000,0000,0000,,He was a little late\Nin getting here.
+Dialogue: 0,0:04:01.51,0:04:04.14,Default,,0000,0000,0000,,Lord Orochimaru wasn’t able to\Nwait for Sasuke,
+Dialogue: 0,0:04:04.22,0:04:07.14,Default,,0000,0000,0000,,and already had been reincarnated\Ninto another vessel.
+Dialogue: 0,0:04:07.51,0:04:11.85,Default,,0000,0000,0000,,So Sasuke is all right?!\NSomewhere in this building…
+Dialogue: 0,0:04:12.51,0:04:16.01,Default,,0000,0000,0000,,Lord Orochimaru gave Sasuke\Nthe Curse Mark,
+Dialogue: 0,0:04:16.59,0:04:19.43,Default,,0000,0000,0000,,so he could wait for\Nthe next opportunity to reincarnate.
+Dialogue: 0,0:04:20.59,0:04:21.43,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:04:22.22,0:04:26.10,Default,,0000,0000,0000,,Not all humans can\Ntolerate Curse Marks.
+Dialogue: 0,0:04:40.55,0:04:43.39,Default,,0000,0000,0000,,No way, there’s no way\Nthat Sasuke could be…
+Dialogue: 0,0:04:44.01,0:04:48.35,Default,,0000,0000,0000,,That’s right, Sasuke wasn’t able\Nto tolerate the Curse Mark
+Dialogue: 0,0:04:48.39,0:04:49.47,Default,,0000,0000,0000,,and so he died.
+Dialogue: 0,0:04:49.55,0:04:52.01,Default,,0000,0000,0000,,That's a lie.
+Dialogue: 0,0:04:53.26,0:04:54.59,Default,,0000,0000,0000,,It has to be a lie!
+Dialogue: 0,0:04:57.47,0:05:00.43,Default,,0000,0000,0000,,What would telling a lie\Nlike that accomplish?
+Dialogue: 0,0:05:00.68,0:05:04.59,Default,,0000,0000,0000,,To someone that’s going to die…\NAs you are?
+Dialogue: 0,0:05:05.64,0:05:08.60,Default,,0000,0000,0000,,If you want to see him that badly\NI’ll let you see him.
+Dialogue: 0,0:05:09.01,0:05:11.51,Default,,0000,0000,0000,,When you die, you can see him\Nin the other world.
+Dialogue: 0,0:05:39.68,0:05:40.60,Default,,0000,0000,0000,,Sasuke…
+Dialogue: 0,0:05:43.05,0:05:44.30,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:05:47.22,0:05:49.89,Default,,0000,0000,0000,,Sakura, don't you believe…
+Dialogue: 0,0:05:52.05,0:05:53.39,Default,,0000,0000,0000,,what a guy like him says!
+Dialogue: 0,0:05:53.43,0:05:54.26,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:05:54.64,0:05:59.59,Default,,0000,0000,0000,,So it’s Naruto, I thought you’d drowned\Nand died a long time ago but…
+Dialogue: 0,0:05:59.64,0:06:02.26,Default,,0000,0000,0000,,When I make a promise\NI don’t give up.
+Dialogue: 0,0:06:02.30,0:06:03.72,Default,,0000,0000,0000,,That's my Way of Ninja!
+Dialogue: 0,0:06:04.10,0:06:07.72,Default,,0000,0000,0000,,I ain't gonna die,\Nuntil I get Sasuke back!
+Dialogue: 0,0:06:09.43,0:06:10.59,Default,,0000,0000,0000,,This is interesting!
+Dialogue: 0,0:06:14.51,0:06:15.80,Default,,0000,0000,0000,,Sakura, go hide!
+Dialogue: 0,0:06:19.59,0:06:21.01,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:06:24.64,0:06:26.01,Default,,0000,0000,0000,,I’m over here!
+Dialogue: 0,0:06:27.59,0:06:30.18,Default,,0000,0000,0000,,Hey stupid, over here!\NOver here, over here!
+Dialogue: 0,0:06:30.68,0:06:33.59,Default,,0000,0000,0000,,Where’re you looking?\NI’m over here! Over here!
+Dialogue: 0,0:06:34.64,0:06:36.80,Default,,0000,0000,0000,,What’re you doing? Hey!
+Dialogue: 0,0:06:49.35,0:06:51.51,Default,,0000,0000,0000,,So you’ve used up all\Nyour Kunai Knives…
+Dialogue: 0,0:06:52.93,0:06:57.59,Default,,0000,0000,0000,,I’m gonna…completely blow you away!
+Dialogue: 0,0:07:14.47,0:07:16.39,Default,,0000,0000,0000,,How annoying!
+Dialogue: 0,0:07:17.18,0:07:18.05,Default,,0000,0000,0000,,Fire Style:
+Dialogue: 0,0:07:18.10,0:07:19.85,Default,,0000,0000,0000,,Misty Flames Dance Jutsu!
+Dialogue: 0,0:07:24.01,0:07:27.68,Default,,0000,0000,0000,,– Ouch! 					– That’s hot!
+Dialogue: 0,0:07:29.51,0:07:31.93,Default,,0000,0000,0000,,– Yikes! 					– Oww!
+Dialogue: 0,0:07:44.22,0:07:46.10,Default,,0000,0000,0000,,You’re too slow!
+Dialogue: 0,0:07:47.18,0:07:48.59,Default,,0000,0000,0000,,Rasengan!
+Dialogue: 0,0:08:02.59,0:08:03.59,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:08:08.68,0:08:12.39,Default,,0000,0000,0000,,Since you and Orochimaru are here,
+Dialogue: 0,0:08:12.43,0:08:14.59,Default,,0000,0000,0000,,it means Sasuke is probably here too!
+Dialogue: 0,0:08:14.93,0:08:17.05,Default,,0000,0000,0000,,Tell us the truth right now!
+Dialogue: 0,0:08:23.76,0:08:28.05,Default,,0000,0000,0000,,Wh-What the heck?\NMy body won’t move…
+Dialogue: 0,0:08:30.85,0:08:34.60,Default,,0000,0000,0000,,Have a good look at yourself.
+Dialogue: 0,0:08:36.93,0:08:38.76,Default,,0000,0000,0000,,Wh-What’s this?
+Dialogue: 0,0:08:39.14,0:08:41.55,Default,,0000,0000,0000,,Those are Chakra Threads.
+Dialogue: 0,0:08:41.60,0:08:42.64,Default,,0000,0000,0000,,Chakra Threads?
+Dialogue: 0,0:08:45.14,0:08:47.51,Default,,0000,0000,0000,,While you were attacking earlier,
+Dialogue: 0,0:08:47.59,0:08:50.47,Default,,0000,0000,0000,,I wrapped the thread around you.
+Dialogue: 0,0:08:51.89,0:08:56.72,Default,,0000,0000,0000,,Take a good look at where\Nthat thread is connected.
+Dialogue: 0,0:09:01.34,0:09:02.51,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:09:02.64,0:09:05.18,Default,,0000,0000,0000,,Those Chakra Threads are…
+Dialogue: 0,0:09:06.72,0:09:10.30,Default,,0000,0000,0000,,connected to my heart’s\NChakra Network.
+Dialogue: 0,0:09:11.39,0:09:15.10,Default,,0000,0000,0000,,And Naruto, the thread that’s\Nwrapped around you
+Dialogue: 0,0:09:15.14,0:09:20.72,Default,,0000,0000,0000,,is connected through my Chakra Network\Nto your organs and to your heart.
+Dialogue: 0,0:09:24.60,0:09:26.76,Default,,0000,0000,0000,,See, can you hear that?
+Dialogue: 0,0:09:27.68,0:09:32.72,Default,,0000,0000,0000,,My heart and your heart will\Neventually become connected as one!
+Dialogue: 0,0:09:34.14,0:09:35.80,Default,,0000,0000,0000,,– Damn! 					– Naruto!
+Dialogue: 0,0:09:38.47,0:09:42.59,Default,,0000,0000,0000,,It’s no use. That thread is formulated\Nand spun with Chakra
+Dialogue: 0,0:09:42.60,0:09:44.47,Default,,0000,0000,0000,,and it will absolutely not break.
+Dialogue: 0,0:09:49.26,0:09:54.14,Default,,0000,0000,0000,,Now our hearts are\Ncompletely synchronized…
+Dialogue: 0,0:09:55.05,0:09:58.26,Default,,0000,0000,0000,,The Chakra which passes\Nthrough this thread
+Dialogue: 0,0:09:58.30,0:10:03.59,Default,,0000,0000,0000,,via the Chakra Network from my heart\Nis controlling your heart ,you see.
+Dialogue: 0,0:10:04.64,0:10:07.59,Default,,0000,0000,0000,,It’s no use, even though\Nit’s my heart…
+Dialogue: 0,0:10:07.97,0:10:12.35,Default,,0000,0000,0000,,If my heart beat gets faster,\Nyour heart will get faster too…
+Dialogue: 0,0:10:12.93,0:10:16.14,Default,,0000,0000,0000,,And when my heart stops beating…
+Dialogue: 0,0:10:17.59,0:10:19.01,Default,,0000,0000,0000,,you will die too!
+Dialogue: 0,0:10:21.39,0:10:24.51,Default,,0000,0000,0000,,Don’t! If you stop your heart,\Nyou’ll die too!
+Dialogue: 0,0:10:25.14,0:10:29.05,Default,,0000,0000,0000,,That’s right.\NBut that doesn’t mean much.
+Dialogue: 0,0:10:29.59,0:10:33.76,Default,,0000,0000,0000,,Since I’ve already promised\Nmy body to Lord Orochimaru…
+Dialogue: 0,0:10:55.64,0:10:58.59,Default,,0000,0000,0000,,Wh-What the heck are\Nyou gonna do?!
+Dialogue: 0,0:11:00.59,0:11:03.01,Default,,0000,0000,0000,,If I crush this heart…
+Dialogue: 0,0:11:04.93,0:11:07.55,Default,,0000,0000,0000,,you will die too!
+Dialogue: 0,0:11:12.76,0:11:15.01,Default,,0000,0000,0000,,If I crush this heart…
+Dialogue: 0,0:11:16.59,0:11:18.72,Default,,0000,0000,0000,,you will die too!
+Dialogue: 0,0:11:19.64,0:11:22.59,Default,,0000,0000,0000,,Now, together we will…
+Dialogue: 0,0:11:25.18,0:11:26.18,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:11:26.39,0:11:30.39,Default,,0000,0000,0000,,How’s it feel to have\Nyour heart seized?
+Dialogue: 0,0:11:30.97,0:11:32.22,Default,,0000,0000,0000,,It’ll be all right…
+Dialogue: 0,0:11:32.26,0:11:34.39,Default,,0000,0000,0000,,You’ll be out of your misery\Nright away!
+Dialogue: 0,0:11:41.59,0:11:42.59,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:11:43.85,0:11:48.76,Default,,0000,0000,0000,,How foolish, if you kill me\NNaruto will die too.
+Dialogue: 0,0:11:49.35,0:11:50.30,Default,,0000,0000,0000,,What I’m gonna cut…
+Dialogue: 0,0:11:51.10,0:11:51.97,Default,,0000,0000,0000,,is this!
+Dialogue: 0,0:11:57.39,0:11:58.59,Default,,0000,0000,0000,,There’s no use you know,
+Dialogue: 0,0:11:58.97,0:12:03.39,Default,,0000,0000,0000,,It’s impossible to cut thread formulated\Nand made from Chakra.
+Dialogue: 0,0:12:09.47,0:12:13.59,Default,,0000,0000,0000,,Even Lady Tsunade’s great strength\Nwouldn’t be able to break it.
+Dialogue: 0,0:12:20.30,0:12:23.47,Default,,0000,0000,0000,,What should I…\NWhat should I do?!
+Dialogue: 0,0:12:23.85,0:12:26.10,Default,,0000,0000,0000,,Naruto is suffering right\Nin front of my eyes and yet…
+Dialogue: 0,0:12:26.68,0:12:29.14,Default,,0000,0000,0000,,I can’t do anything!
+Dialogue: 0,0:12:32.10,0:12:34.26,Default,,0000,0000,0000,,Sakura…!
+Dialogue: 0,0:12:36.55,0:12:39.59,Default,,0000,0000,0000,,I…absolutely will not lose!
+Dialogue: 0,0:12:41.30,0:12:43.59,Default,,0000,0000,0000,,Until I’ve fulfilled my promise!
+Dialogue: 0,0:12:45.64,0:12:47.59,Default,,0000,0000,0000,,You bravado ends there.
+Dialogue: 0,0:12:49.59,0:12:51.93,Default,,0000,0000,0000,,Now, shall we die together?
+Dialogue: 0,0:12:52.59,0:12:55.51,Default,,0000,0000,0000,,And go to the place where\NSasuke is waiting?
+Dialogue: 0,0:13:17.18,0:13:18.05,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:13:19.43,0:13:20.35,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:13:21.76,0:13:23.76,Default,,0000,0000,0000,,– Sasame?! 					– Sakura…
+Dialogue: 0,0:13:24.47,0:13:26.76,Default,,0000,0000,0000,,Stick this tag on a Kunai Knife!
+Dialogue: 0,0:13:43.55,0:13:44.26,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:13:47.59,0:13:48.47,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:13:49.59,0:13:54.59,Default,,0000,0000,0000,,Naruto?!\NHey, are you okay? Naruto!
+Dialogue: 0,0:13:55.55,0:13:56.39,Default,,0000,0000,0000,,No way…
+Dialogue: 0,0:13:57.60,0:13:58.59,Default,,0000,0000,0000,,It can’t be…
+Dialogue: 0,0:14:00.01,0:14:00.93,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:14:02.59,0:14:04.30,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:14:17.59,0:14:22.59,Default,,0000,0000,0000,,Ahh… My chest right now\Nis beating with joy.
+Dialogue: 0,0:14:24.93,0:14:28.18,Default,,0000,0000,0000,,Idiot! It was a waste for me\Nto have worried!
+Dialogue: 0,0:14:29.10,0:14:30.59,Default,,0000,0000,0000,,Sorry, Sakura…
+Dialogue: 0,0:14:30.97,0:14:32.76,Default,,0000,0000,0000,,You’re so worthless!
+Dialogue: 0,0:14:36.60,0:14:39.39,Default,,0000,0000,0000,,That’s right, Sasame!\NWhy are you here?
+Dialogue: 0,0:14:39.59,0:14:41.59,Default,,0000,0000,0000,,Well, it’s…
+Dialogue: 0,0:14:41.97,0:14:45.18,Default,,0000,0000,0000,,I was saved by Sasame,\Nyou know.
+Dialogue: 0,0:14:45.59,0:14:46.59,Default,,0000,0000,0000,,Me too.
+Dialogue: 0,0:14:47.97,0:14:49.01,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:14:50.43,0:14:53.64,Default,,0000,0000,0000,,Water came rushing into that\Ntrap pit we were in earlier…
+Dialogue: 0,0:15:07.60,0:15:10.18,Default,,0000,0000,0000,,That’s it! The lid to the pit!
+Dialogue: 0,0:15:15.59,0:15:16.59,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:15:25.59,0:15:27.59,Default,,0000,0000,0000,,When the water reached\Nthe ceiling,
+Dialogue: 0,0:15:27.59,0:15:31.59,Default,,0000,0000,0000,,I desperately tried to open the lid,\Nbut wasn’t able to escape…
+Dialogue: 0,0:15:36.59,0:15:40.30,Default,,0000,0000,0000,,I was told by Master Jiraiya\Nto go to where Hanzaki is.
+Dialogue: 0,0:15:42.64,0:15:45.85,Default,,0000,0000,0000,,But I got concerned about Arashi,\Nso I came…
+Dialogue: 0,0:15:57.14,0:15:58.43,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:16:00.59,0:16:02.76,Default,,0000,0000,0000,,Hey! Thanks!
+Dialogue: 0,0:16:03.64,0:16:05.10,Default,,0000,0000,0000,,Th-The frog spoke…!
+Dialogue: 0,0:16:08.59,0:16:10.43,Default,,0000,0000,0000,,Well, come to think of it,
+Dialogue: 0,0:16:10.47,0:16:14.01,Default,,0000,0000,0000,,there’s no way you could open the lid\Nof the trap by pushing on it.
+Dialogue: 0,0:16:14.59,0:16:15.43,Default,,0000,0000,0000,,Geez!
+Dialogue: 0,0:16:16.64,0:16:19.59,Default,,0000,0000,0000,,But how come the thread that\NI couldn’t cut with the Kunai Knife,
+Dialogue: 0,0:16:19.59,0:16:22.59,Default,,0000,0000,0000,,be cut when I wrapped it\Nwith Sasame’s tag?
+Dialogue: 0,0:16:25.51,0:16:27.93,Default,,0000,0000,0000,,Because the Chakra Thread\Nis a Secret Technique
+Dialogue: 0,0:16:27.97,0:16:30.59,Default,,0000,0000,0000,,within the secrets of\Nour Fuuma Ninja Technique…
+Dialogue: 0,0:16:31.51,0:16:32.47,Default,,0000,0000,0000,,Of the Fuuma?!
+Dialogue: 0,0:16:32.59,0:16:36.26,Default,,0000,0000,0000,,Oh I see…\NSo who the heck is this?!
+Dialogue: 0,0:16:38.93,0:16:39.59,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:16:52.10,0:16:54.59,Default,,0000,0000,0000,,She is…from earlier!
+Dialogue: 0,0:16:57.80,0:16:58.97,Default,,0000,0000,0000,,Mistress Kagero…
+Dialogue: 0,0:17:00.97,0:17:02.59,Default,,0000,0000,0000,,She’s a Fuuma Jonin.
+Dialogue: 0,0:17:03.18,0:17:04.35,Default,,0000,0000,0000,,Sasame!
+Dialogue: 0,0:17:07.05,0:17:08.14,Default,,0000,0000,0000,,Sasame…
+Dialogue: 0,0:17:09.22,0:17:14.18,Default,,0000,0000,0000,,I was resurrected\Nby Lord Orochimaru…
+Dialogue: 0,0:17:14.64,0:17:17.59,Default,,0000,0000,0000,,You! You’re being tricked\Nby Orochimaru!
+Dialogue: 0,0:17:17.80,0:17:19.43,Default,,0000,0000,0000,,Where is Sasuke?
+Dialogue: 0,0:17:19.47,0:17:23.59,Default,,0000,0000,0000,,And Arashi?\NWhere’s Sasame’s cousin!
+Dialogue: 0,0:17:25.01,0:17:27.72,Default,,0000,0000,0000,,Lord Orochimaru is…
+Dialogue: 0,0:17:28.60,0:17:32.59,Default,,0000,0000,0000,,going to raise our Fuuma clan…
+Dialogue: 0,0:17:33.14,0:17:35.22,Default,,0000,0000,0000,,to the center stage\Nof Shinobi again.
+Dialogue: 0,0:17:36.72,0:17:38.59,Default,,0000,0000,0000,,You’re still talking about\Nthat stuff?!
+Dialogue: 0,0:17:39.40,0:17:42.43,Default,,0000,0000,0000,,At least tell Sasame the truth!
+Dialogue: 0,0:17:52.89,0:17:55.39,Default,,0000,0000,0000,,So it’s there! He’s in there!
+Dialogue: 0,0:17:59.59,0:18:05.01,Default,,0000,0000,0000,,Sasame and Arashi…\NYou two were so close…
+Dialogue: 0,0:18:09.47,0:18:12.05,Default,,0000,0000,0000,,Then it’d be better\Nif you didn’t see him.
+Dialogue: 0,0:18:36.89,0:18:38.10,Default,,0000,0000,0000,,Mistress Kagero …
+Dialogue: 0,0:18:42.59,0:18:44.89,Default,,0000,0000,0000,,What do you want to do, Sasame?
+Dialogue: 0,0:18:45.55,0:18:47.47,Default,,0000,0000,0000,,Do you want to wait here?
+Dialogue: 0,0:18:52.93,0:18:56.60,Default,,0000,0000,0000,,I will see him!\NNo matter what’s in store for me!
+Dialogue: 0,0:18:57.47,0:19:00.22,Default,,0000,0000,0000,,I came all the way here\Nto see Arashi!
+Dialogue: 0,0:19:00.80,0:19:03.47,Default,,0000,0000,0000,,Yeah! You’ve got guts!
+Dialogue: 0,0:19:03.89,0:19:06.22,Default,,0000,0000,0000,,All right! Let’s go together!
+Dialogue: 0,0:19:06.59,0:19:07.59,Default,,0000,0000,0000,,Yeah! Let’s go!
+Dialogue: 0,0:19:16.72,0:19:17.93,Default,,0000,0000,0000,,Sasame…
+Dialogue: 0,0:19:23.35,0:19:25.76,Default,,0000,0000,0000,,There might be some sort of trap…
+Dialogue: 0,0:19:26.35,0:19:27.89,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:19:41.22,0:19:42.22,Default,,0000,0000,0000,,Orochimaru?!
+Dialogue: 0,0:19:48.26,0:19:50.51,Default,,0000,0000,0000,,Good of you to come, Sasame…
+Dialogue: 0,0:19:51.93,0:19:52.76,Default,,0000,0000,0000,,Why…?
+Dialogue: 0,0:20:04.76,0:20:06.05,Default,,0000,0000,0000,,Arashi…!
+Dialogue: 0,0:20:08.10,0:20:09.30,Default,,0000,0000,0000,,Arashi!
+Dialogue: 0,0:20:11.85,0:20:12.89,Default,,0000,0000,0000,,Arashi?
+Dialogue: 0,0:20:15.59,0:20:17.01,Default,,0000,0000,0000,,I’m no longer…
+Dialogue: 0,0:20:18.80,0:20:20.59,Default,,0000,0000,0000,,Arashi…
+Dialogue: 0,0:20:41.85,0:20:44.59,Default,,0000,0000,0000,,Wh-What the heck is going on?!
+Dialogue: 0,0:20:48.26,0:20:52.47,Default,,0000,0000,0000,,The skills and bodies of the Fuuma Jonin\Nwere combined into one…
+Dialogue: 0,0:20:52.55,0:20:56.22,Default,,0000,0000,0000,,and I’ve been reborn as\Nthe ultimate Ninja you see…
+Dialogue: 0,0:20:57.80,0:21:05.72,Default,,0000,0000,0000,,Now, I’ll show you\Nmy ultimate Ninjutsu…Sasame!
+Dialogue: 0,0:21:06.72,0:21:10.18,Default,,0000,0000,0000,,No… Arashi…
+Dialogue: 0,0:21:11.05,0:21:13.55,Default,,0000,0000,0000,,Damn, Orochimaru!
+Dialogue: 0,0:21:14.14,0:21:17.26,Default,,0000,0000,0000,,I will not forgive him,\Nno matter what!
+Dialogue: 0,0:21:24.55,0:21:29.18,Default,,0000,0000,0000,,When I recalled the parts one by one,
+Dialogue: 0,0:21:29.22,0:21:35.59,Default,,0000,0000,0000,,I felt as though\NI had understood everything
+Dialogue: 0,0:21:35.59,0:21:46.10,Default,,0000,0000,0000,,Faded words which I kept so close to me
+Dialogue: 0,0:21:46.43,0:21:55.80,Default,,0000,0000,0000,,Speechless nights, a hint of warmth,\Nand
+Dialogue: 0,0:21:57.59,0:22:02.59,Default,,0000,0000,0000,,and this distant yearning for you
+Dialogue: 0,0:22:02.89,0:22:11.93,Default,,0000,0000,0000,,I live, simply repeating this cycle
+Dialogue: 0,0:22:14.10,0:22:23.59,Default,,0000,0000,0000,,Held in my two hands\NA droplet of time
+Dialogue: 0,0:22:25.05,0:22:34.10,Default,,0000,0000,0000,,Softly clutching forgotten memories\NLost words
+Dialogue: 0,0:22:42.89,0:22:46.76,Default,,0000,0000,0000,,I’ll keep these thoughts…
+Dialogue: 0,0:22:51.39,0:22:53.59,Default,,0000,0000,0000,,Sorry… I’m sorry, Naruto.
+Dialogue: 0,0:22:54.39,0:22:56.60,Default,,0000,0000,0000,,I haven’t been able to do anything,\Nafter all.
+Dialogue: 0,0:22:57.26,0:23:00.59,Default,,0000,0000,0000,,I’m always dragging you down.\NI hadn’t changed at all.
+Dialogue: 0,0:23:01.59,0:23:05.59,Default,,0000,0000,0000,,But Naruto, Sasame,\Nyou two taught me.
+Dialogue: 0,0:23:06.39,0:23:08.93,Default,,0000,0000,0000,,That’s why I want to change\Nthe kind of person I am!
+Dialogue: 0,0:23:09.51,0:23:12.51,Default,,0000,0000,0000,,This time, this time,\Nit’s my turn to give it my all!
+Dialogue: 0,0:23:13.30,0:23:15.59,Default,,0000,0000,0000,,Next time, “Sakura's Determination!”

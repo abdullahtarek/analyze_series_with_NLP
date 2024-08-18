@@ -1,0 +1,362 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.10,0:00:03.39,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.39,0:00:06.31,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.35,0:00:12.39,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:22.81,0:00:28.73,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:28.77,0:00:34.27,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.31,0:00:36.90,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:36.94,0:00:40.39,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.39,0:00:44.94,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.44,0:00:51.48,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:51.98,0:00:56.52,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.56,0:01:02.15,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.19,0:01:07.40,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.44,0:01:10.60,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.65,0:01:19.39,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:47.56,0:01:52.19,Default,,0000,0000,0000,,The Missed Target
+Dialogue: 0,0:01:52.81,0:01:54.85,Default,,0000,0000,0000,,Naruto, Choji, gather all of them!
+Dialogue: 0,0:01:56.06,0:01:57.06,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:01:58.19,0:01:59.19,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:02.10,0:02:03.35,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:02:04.77,0:02:06.69,Default,,0000,0000,0000,,Pick it up! Pick it up!
+Dialogue: 0,0:02:06.73,0:02:08.60,Default,,0000,0000,0000,,Over here!
+Dialogue: 0,0:02:08.65,0:02:10.56,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:02:10.60,0:02:12.52,Default,,0000,0000,0000,,Don’t lose any of them!
+Dialogue: 0,0:02:12.56,0:02:14.44,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:14.48,0:02:16.39,Default,,0000,0000,0000,,Pick it up!
+Dialogue: 0,0:02:16.40,0:02:18.39,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:02:18.39,0:02:20.39,Default,,0000,0000,0000,,Go over there!
+Dialogue: 0,0:02:20.39,0:02:22.39,Default,,0000,0000,0000,,Hey that’s mine!
+Dialogue: 0,0:02:22.98,0:02:24.73,Default,,0000,0000,0000,,Partial Expansion Jutsu!
+Dialogue: 0,0:02:25.15,0:02:26.15,Default,,0000,0000,0000,,Arm!
+Dialogue: 0,0:02:29.39,0:02:30.73,Default,,0000,0000,0000,,Where did that bird go?
+Dialogue: 0,0:02:36.27,0:02:37.98,Default,,0000,0000,0000,,Damn it! We lost it!
+Dialogue: 0,0:02:40.15,0:02:41.15,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:02:44.73,0:02:45.73,Default,,0000,0000,0000,,Just a little more…
+Dialogue: 0,0:02:49.40,0:02:51.65,Default,,0000,0000,0000,,This is a mission believe it or not!
+Dialogue: 0,0:02:55.77,0:02:57.81,Default,,0000,0000,0000,,This is something very important…
+Dialogue: 0,0:02:58.39,0:03:02.69,Default,,0000,0000,0000,,I beg you…\NPlease let go of it!
+Dialogue: 0,0:03:06.15,0:03:07.44,Default,,0000,0000,0000,,We have trouble, Lady Tsunade!
+Dialogue: 0,0:03:08.27,0:03:09.27,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:03:09.39,0:03:10.85,Default,,0000,0000,0000,,Those papers\Nscattered throughout the village,
+Dialogue: 0,0:03:10.90,0:03:13.35,Default,,0000,0000,0000,,are the plans that were stolen\Nfrom the carpenter boss.
+Dialogue: 0,0:03:14.06,0:03:16.56,Default,,0000,0000,0000,,Currently, Shikamaru and his team\Nhave finished collecting all the plans,
+Dialogue: 0,0:03:16.60,0:03:18.39,Default,,0000,0000,0000,,and rechecking them.
+Dialogue: 0,0:03:19.23,0:03:21.23,Default,,0000,0000,0000,,But it seems like they have\Ncollected all of them.
+Dialogue: 0,0:03:21.77,0:03:23.19,Default,,0000,0000,0000,,What is the meaning of this?
+Dialogue: 0,0:03:23.39,0:03:24.39,Default,,0000,0000,0000,,I have no idea…
+Dialogue: 0,0:03:24.77,0:03:26.39,Default,,0000,0000,0000,,Lady Tsunade! We have a report
+Dialogue: 0,0:03:26.39,0:03:28.39,Default,,0000,0000,0000,,from those who headed to\Nthe Hidden Waterfall Village!
+Dialogue: 0,0:03:28.98,0:03:29.98,Default,,0000,0000,0000,,Was there movement?!
+Dialogue: 0,0:03:30.77,0:03:35.10,Default,,0000,0000,0000,,Actually, it turns out that it was only\Na large-scale practice run!
+Dialogue: 0,0:03:35.56,0:03:38.90,Default,,0000,0000,0000,,They are saying that they see\Nno signs of an invasion of Leaf Village.
+Dialogue: 0,0:03:39.39,0:03:40.39,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:40.40,0:03:42.23,Default,,0000,0000,0000,,It seems as though they have\Nalready finished their practice run,
+Dialogue: 0,0:03:42.27,0:03:45.02,Default,,0000,0000,0000,,and the Hidden Waterfall Village\Nis back to normal.
+Dialogue: 0,0:03:45.81,0:03:48.92,Default,,0000,0000,0000,,So Genno and Hidden Waterfall Village\Nhave nothing to do with each other…?
+Dialogue: 0,0:03:49.81,0:03:52.39,Default,,0000,0000,0000,,Disengage the S-Level\NEmergency Security Alert!
+Dialogue: 0,0:03:52.85,0:03:54.98,Default,,0000,0000,0000,,Order all forces back to village!
+Dialogue: 0,0:03:55.56,0:03:56.56,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:03:57.69,0:04:01.39,Default,,0000,0000,0000,,What in the world\Nwas that man plotting?!
+Dialogue: 0,0:04:11.69,0:04:12.69,Default,,0000,0000,0000,,Lady Tsunade!
+Dialogue: 0,0:04:12.81,0:04:14.10,Default,,0000,0000,0000,,What now?!
+Dialogue: 0,0:04:16.39,0:04:17.98,Default,,0000,0000,0000,,The body that\Nthe Anbu Black-Ops gathered…
+Dialogue: 0,0:04:18.39,0:04:19.39,Default,,0000,0000,0000,,It's…
+Dialogue: 0,0:04:21.35,0:04:22.85,Default,,0000,0000,0000,,It’s not Genno…?
+Dialogue: 0,0:04:25.39,0:04:26.98,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:04:27.15,0:04:30.39,Default,,0000,0000,0000,,But I thought that Old Man Genno was\Ncornered by the Anbu Black Ops
+Dialogue: 0,0:04:30.39,0:04:31.65,Default,,0000,0000,0000,,and blew himself up.
+Dialogue: 0,0:04:31.90,0:04:36.60,Default,,0000,0000,0000,,He traded places with a corpse that\Nhe had ready right before the explosion…
+Dialogue: 0,0:04:37.39,0:04:39.35,Default,,0000,0000,0000,,That’s a huge possibility!
+Dialogue: 0,0:04:40.02,0:04:41.39,Default,,0000,0000,0000,,We’re in the middle of confirming that!
+Dialogue: 0,0:04:41.90,0:04:45.39,Default,,0000,0000,0000,,Their appearances look similar,\Nbut small details bring up questions!
+Dialogue: 0,0:04:49.39,0:04:51.60,Default,,0000,0000,0000,,Most likely…it’s another man.
+Dialogue: 0,0:04:52.40,0:04:54.56,Default,,0000,0000,0000,,Are you telling me\Nhe fooled the Anbu Black Ops!
+Dialogue: 0,0:04:56.23,0:04:57.73,Default,,0000,0000,0000,,That means, Genno is…
+Dialogue: 0,0:04:58.39,0:05:00.81,Default,,0000,0000,0000,,He’s still alive!
+Dialogue: 0,0:05:01.39,0:05:04.44,Default,,0000,0000,0000,,Damn! What is that man up to…?
+Dialogue: 0,0:05:19.85,0:05:22.48,Default,,0000,0000,0000,,Over there.\NBehind that tree.
+Dialogue: 0,0:05:28.02,0:05:29.02,Default,,0000,0000,0000,,It’s here!
+Dialogue: 0,0:05:32.10,0:05:37.19,Default,,0000,0000,0000,,I see… The Old Man Genno used\Nthis hole to get away.
+Dialogue: 0,0:05:37.69,0:05:39.06,Default,,0000,0000,0000,,He camouflaged it well.
+Dialogue: 0,0:05:39.81,0:05:42.48,Default,,0000,0000,0000,,If it wasn’t for the Byakugan,\Nwe would have missed it.
+Dialogue: 0,0:05:43.94,0:05:44.94,Default,,0000,0000,0000,,Not only that…
+Dialogue: 0,0:05:45.77,0:05:49.23,Default,,0000,0000,0000,,This hole is made so that it closes\Nnaturally by the weight of the earth.
+Dialogue: 0,0:05:50.06,0:05:51.81,Default,,0000,0000,0000,,If we came here another day later,
+Dialogue: 0,0:05:51.85,0:05:53.27,Default,,0000,0000,0000,,it would have been\Nextremely difficult to find,
+Dialogue: 0,0:05:53.31,0:05:55.39,Default,,0000,0000,0000,,even with the Byakugan.
+Dialogue: 0,0:05:57.02,0:05:58.02,Default,,0000,0000,0000,,And to prove that,
+Dialogue: 0,0:05:58.06,0:06:01.48,Default,,0000,0000,0000,,you can barely see any sign of\Nan entrance to this hole.
+Dialogue: 0,0:06:02.39,0:06:04.52,Default,,0000,0000,0000,,Akamaru, can you follow his scent?
+Dialogue: 0,0:06:10.60,0:06:13.27,Default,,0000,0000,0000,,He’s even got getting rid of\Nhis smell covered…
+Dialogue: 0,0:06:14.77,0:06:16.52,Default,,0000,0000,0000,,Where could he have gone?
+Dialogue: 0,0:06:24.73,0:06:26.15,Default,,0000,0000,0000,,Our conclusion is that…
+Dialogue: 0,0:06:26.98,0:06:29.48,Default,,0000,0000,0000,,Old Man Genno is still alive
+Dialogue: 0,0:06:29.52,0:06:31.60,Default,,0000,0000,0000,,and there's a possibility that\Nhe's hiding in Leaf Village.
+Dialogue: 0,0:06:34.10,0:06:36.48,Default,,0000,0000,0000,,He got cornered,\Nand faked his own suicide,
+Dialogue: 0,0:06:36.52,0:06:38.56,Default,,0000,0000,0000,,and stole the plans so that he could…
+Dialogue: 0,0:06:38.60,0:06:42.06,Default,,0000,0000,0000,,make all of us turn our eyes outside\Nof the village.
+Dialogue: 0,0:06:43.56,0:06:46.35,Default,,0000,0000,0000,,He could have already known\Nabout the big practice run
+Dialogue: 0,0:06:46.39,0:06:49.65,Default,,0000,0000,0000,,in the Hidden Waterfall Village\Nand used that to his advantage.
+Dialogue: 0,0:06:51.40,0:06:56.77,Default,,0000,0000,0000,,B-But the Anbu Black Ops\Nstarted to mark Genno because
+Dialogue: 0,0:06:56.81,0:07:00.23,Default,,0000,0000,0000,,they happened to find out that his letter\Nof recommendation was a fake, right?
+Dialogue: 0,0:07:01.35,0:07:02.44,Default,,0000,0000,0000,,Was it a coincident…?
+Dialogue: 0,0:07:03.39,0:07:08.31,Default,,0000,0000,0000,,Isn’t it strange that\Na real letter of recommendation was
+Dialogue: 0,0:07:08.35,0:07:12.02,Default,,0000,0000,0000,,at the house of the carpenter boss\Nhe worked for?
+Dialogue: 0,0:07:13.73,0:07:15.73,Default,,0000,0000,0000,,Then what is his true goal?
+Dialogue: 0,0:07:16.73,0:07:20.10,Default,,0000,0000,0000,,If we knew the answer to that,\Nwe wouldn’t be struggling so much…
+Dialogue: 0,0:07:20.39,0:07:21.39,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:07:22.06,0:07:23.15,Default,,0000,0000,0000,,The only thing I can say now is…
+Dialogue: 0,0:07:23.94,0:07:28.15,Default,,0000,0000,0000,,The number of Shinobi in this village\Ncurrently is at its lowest ever.
+Dialogue: 0,0:07:28.90,0:07:32.52,Default,,0000,0000,0000,,We only have a bare minimum\Nof us here!
+Dialogue: 0,0:07:33.85,0:07:36.44,Default,,0000,0000,0000,,And most of their eyes are\Nlooking outside of the village.
+Dialogue: 0,0:07:37.39,0:07:41.73,Default,,0000,0000,0000,,Even if Genno was walking around\Nas he was humming on the streets,
+Dialogue: 0,0:07:41.73,0:07:43.48,Default,,0000,0000,0000,,no one would suspect anything of him.
+Dialogue: 0,0:07:44.10,0:07:46.35,Default,,0000,0000,0000,,Did he set a trap in the village?!
+Dialogue: 0,0:07:46.69,0:07:49.40,Default,,0000,0000,0000,,Could the fact that that\Nhe scattered the plans around mean that
+Dialogue: 0,0:07:49.44,0:07:51.39,Default,,0000,0000,0000,,he’s already done setting his trap?
+Dialogue: 0,0:07:52.31,0:07:57.56,Default,,0000,0000,0000,,No, this is just a diversion to turn our eyes.
+Dialogue: 0,0:07:58.39,0:08:01.65,Default,,0000,0000,0000,,We can’t leave this place\Nwithout any security,
+Dialogue: 0,0:08:01.69,0:08:03.60,Default,,0000,0000,0000,,but we have few people…
+Dialogue: 0,0:08:04.35,0:08:06.52,Default,,0000,0000,0000,,Then where do we look?
+Dialogue: 0,0:08:07.73,0:08:08.73,Default,,0000,0000,0000,,The Academy.
+Dialogue: 0,0:08:09.19,0:08:10.19,Default,,0000,0000,0000,,The Academy?
+Dialogue: 0,0:08:10.65,0:08:14.27,Default,,0000,0000,0000,,Why the Academy out of all\Nthe important facilities in the village?
+Dialogue: 0,0:08:14.73,0:08:16.90,Default,,0000,0000,0000,,Out of all the sites Genno worked on,
+Dialogue: 0,0:08:16.94,0:08:20.06,Default,,0000,0000,0000,,only the Academy’s repair plan\Nwas stolen.
+Dialogue: 0,0:08:20.56,0:08:23.39,Default,,0000,0000,0000,,It’s hard to think that\Nit was a coincidence
+Dialogue: 0,0:08:23.39,0:08:24.81,Default,,0000,0000,0000,,for it to disappear at this timing.
+Dialogue: 0,0:08:33.39,0:08:34.39,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:08:47.39,0:08:48.39,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:08:49.60,0:08:51.44,Default,,0000,0000,0000,,There’s nothing in this room.
+Dialogue: 0,0:08:53.10,0:08:55.06,Default,,0000,0000,0000,,Then…move ahead to the next room.
+Dialogue: 0,0:08:56.40,0:08:57.40,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:09:04.48,0:09:06.27,Default,,0000,0000,0000,,Seems like there’s nothing in this area
+Dialogue: 0,0:09:06.94,0:09:10.35,Default,,0000,0000,0000,,Can’t you look at\Nthe entire campus at once?
+Dialogue: 0,0:09:10.69,0:09:12.77,Default,,0000,0000,0000,,And we have Hinata too, you know?
+Dialogue: 0,0:09:13.27,0:09:16.31,Default,,0000,0000,0000,,That would be possible\Nif we know what the target was,
+Dialogue: 0,0:09:16.35,0:09:18.52,Default,,0000,0000,0000,,but we’re looking for\Nsomething suspicious.
+Dialogue: 0,0:09:19.44,0:09:20.90,Default,,0000,0000,0000,,We’ll have to take the basic route.
+Dialogue: 0,0:09:21.94,0:09:23.40,Default,,0000,0000,0000,,Hey! Wait a minute!
+Dialogue: 0,0:09:23.44,0:09:25.15,Default,,0000,0000,0000,,You’re in the way!
+Dialogue: 0,0:09:26.35,0:09:29.23,Default,,0000,0000,0000,,And there’s too many… people here.
+Dialogue: 0,0:09:30.49,0:09:31.95,Default,,0000,0000,0000,,Like I said!
+Dialogue: 0,0:09:32.45,0:09:36.16,Default,,0000,0000,0000,,All I want is for you guys to come outside\Neven just for a moment!
+Dialogue: 0,0:09:36.37,0:09:41.20,Default,,0000,0000,0000,,Our teacher told us to study on our own\Nin the classroom for today!
+Dialogue: 0,0:09:41.58,0:09:44.29,Default,,0000,0000,0000,,We can’t go out of the room!
+Dialogue: 0,0:09:45.50,0:09:48.29,Default,,0000,0000,0000,,There are no teachers today!
+Dialogue: 0,0:09:48.49,0:09:50.49,Default,,0000,0000,0000,,So nobody would know\Nif you left the class!
+Dialogue: 0,0:09:51.50,0:09:55.49,Default,,0000,0000,0000,,We used to skip class when\Nlruka Sensei wasn’t looking
+Dialogue: 0,0:09:55.49,0:09:57.83,Default,,0000,0000,0000,,when we were younger.
+Dialogue: 0,0:09:58.16,0:09:59.87,Default,,0000,0000,0000,,Oh! A delinquent!
+Dialogue: 0,0:09:59.91,0:10:04.49,Default,,0000,0000,0000,,– Delinquent! 					– Delinquent!
+Dialogue: 0,0:10:04.49,0:10:06.62,Default,,0000,0000,0000,,We have to check this area!
+Dialogue: 0,0:10:07.04,0:10:11.49,Default,,0000,0000,0000,,Besides, all the teachers have gone\Non a mission to protect the village.
+Dialogue: 0,0:10:11.62,0:10:14.41,Default,,0000,0000,0000,,Why are you guys still here?
+Dialogue: 0,0:10:14.45,0:10:16.25,Default,,0000,0000,0000,,They must be useless.
+Dialogue: 0,0:10:16.37,0:10:20.20,Default,,0000,0000,0000,,What did you say?!\NWe’re also protecting the village too…
+Dialogue: 0,0:10:20.54,0:10:23.16,Default,,0000,0000,0000,,Naruto. You’re wasting time
+Dialogue: 0,0:10:24.08,0:10:25.08,Default,,0000,0000,0000,,Let’s crush them!
+Dialogue: 0,0:10:25.37,0:10:26.37,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:26.49,0:10:28.00,Default,,0000,0000,0000,,The Expansion Jutsu!
+Dialogue: 0,0:10:36.45,0:10:38.00,Default,,0000,0000,0000,,We’re going to tell on you to our teacher!
+Dialogue: 0,0:10:38.12,0:10:39.12,Default,,0000,0000,0000,,Yeah, do as you please!
+Dialogue: 0,0:10:39.91,0:10:40.91,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:10:42.33,0:10:43.83,Default,,0000,0000,0000,,Let’s practice our Kunai Knives.
+Dialogue: 0,0:10:44.25,0:10:45.25,Default,,0000,0000,0000,,Sounds good.
+Dialogue: 0,0:10:50.83,0:10:53.25,Default,,0000,0000,0000,,It doesn’t seem like\Nthere’s anything suspicious…
+Dialogue: 0,0:10:57.49,0:10:58.66,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:11:00.16,0:11:01.49,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:11:06.29,0:11:10.50,Default,,0000,0000,0000,,Come on.\NI’m begging you to leave!
+Dialogue: 0,0:11:11.00,0:11:12.00,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:11:12.62,0:11:17.87,Default,,0000,0000,0000,,Where did those kids from\Nthe next classroom go?
+Dialogue: 0,0:11:18.70,0:11:19.70,Default,,0000,0000,0000,,I don’t know…
+Dialogue: 0,0:11:20.37,0:11:22.33,Default,,0000,0000,0000,,They were going to practice\Ntheir Kunai Knives.
+Dialogue: 0,0:11:22.37,0:11:23.49,Default,,0000,0000,0000,,That’s what they were saying.
+Dialogue: 0,0:11:25.00,0:11:27.49,Default,,0000,0000,0000,,Oh, yeah, yeah.\NThat’s right.
+Dialogue: 0,0:11:29.00,0:11:31.33,Default,,0000,0000,0000,,They’re practicing their Kunai Knives\Nin a place like that?
+Dialogue: 0,0:11:37.25,0:11:38.25,Default,,0000,0000,0000,,I’ll do next.
+Dialogue: 0,0:11:38.29,0:11:39.41,Default,,0000,0000,0000,,Ok. Do your best!
+Dialogue: 0,0:11:39.45,0:11:40.45,Default,,0000,0000,0000,,Do it!
+Dialogue: 0,0:11:40.75,0:11:41.75,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:11:43.08,0:11:44.75,Default,,0000,0000,0000,,Oh, so close.
+Dialogue: 0,0:11:51.33,0:11:52.49,Default,,0000,0000,0000,,They really are practicing…
+Dialogue: 0,0:11:53.33,0:11:55.79,Default,,0000,0000,0000,,When we were\Nstudents at the Academy,
+Dialogue: 0,0:11:55.83,0:11:57.95,Default,,0000,0000,0000,,we used to skip class and come here.
+Dialogue: 0,0:12:00.49,0:12:05.16,Default,,0000,0000,0000,,The teacher’s couldn’t find us here,\Nit really was great!
+Dialogue: 0,0:12:06.50,0:12:08.83,Default,,0000,0000,0000,,I read comic books, and took naps…
+Dialogue: 0,0:12:09.33,0:12:11.45,Default,,0000,0000,0000,,That’s right, I ate potato chips.
+Dialogue: 0,0:12:12.08,0:12:13.08,Default,,0000,0000,0000,,Well, that’s no good!
+Dialogue: 0,0:12:14.33,0:12:15.49,Default,,0000,0000,0000,,You can learn something from those kids.
+Dialogue: 0,0:12:16.58,0:12:18.49,Default,,0000,0000,0000,,Even if the teachers doesn’t see you,
+Dialogue: 0,0:12:18.49,0:12:19.95,Default,,0000,0000,0000,,you should still commit to your practice!
+Dialogue: 0,0:12:21.12,0:12:22.62,Default,,0000,0000,0000,,They’re true models of students!
+Dialogue: 0,0:12:24.79,0:12:28.00,Default,,0000,0000,0000,,Wonderful!\NI’m excited! I’m moved!
+Dialogue: 0,0:12:28.50,0:12:31.58,Default,,0000,0000,0000,,I’d like to take class with them!
+Dialogue: 0,0:12:33.12,0:12:35.20,Default,,0000,0000,0000,,We wouldn’t want to interrupt.\NLet’s go.
+Dialogue: 0,0:12:36.12,0:12:37.12,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:12:37.50,0:12:38.50,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:39.08,0:12:40.08,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:40.12,0:12:41.83,Default,,0000,0000,0000,,Did they have that before?
+Dialogue: 0,0:12:52.70,0:12:54.49,Default,,0000,0000,0000,,I’m going to get this one!
+Dialogue: 0,0:12:59.25,0:13:00.75,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:13:02.91,0:13:04.95,Default,,0000,0000,0000,,I had it!
+Dialogue: 0,0:13:05.87,0:13:08.00,Default,,0000,0000,0000,,It seems pretty new.
+Dialogue: 0,0:13:08.62,0:13:10.45,Default,,0000,0000,0000,,Genno could have made it…
+Dialogue: 0,0:13:11.49,0:13:15.33,Default,,0000,0000,0000,,I-I’m going to get Neji or Hinata!
+Dialogue: 0,0:13:16.50,0:13:18.83,Default,,0000,0000,0000,,You guys get out of the way.
+Dialogue: 0,0:13:20.41,0:13:22.00,Default,,0000,0000,0000,,You’re getting in the way of our practice.
+Dialogue: 0,0:13:22.41,0:13:24.08,Default,,0000,0000,0000,,O-Oh I’m sorry!
+Dialogue: 0,0:13:25.33,0:13:26.33,Default,,0000,0000,0000,,I’m next!
+Dialogue: 0,0:13:28.49,0:13:29.49,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:13:36.49,0:13:39.37,Default,,0000,0000,0000,,It’s a Paper Bomb!\Nlt’s hidden behind the wall!
+Dialogue: 0,0:13:39.83,0:13:41.70,Default,,0000,0000,0000,,What, inside the wall?!
+Dialogue: 0,0:13:42.54,0:13:44.49,Default,,0000,0000,0000,,It’s completely hidden inside the wall.
+Dialogue: 0,0:13:45.04,0:13:49.04,Default,,0000,0000,0000,,But then how do you\Ndetonate it…?
+Dialogue: 0,0:13:50.16,0:13:51.49,Default,,0000,0000,0000,,Oh, there she is.
+Dialogue: 0,0:13:53.16,0:13:54.62,Default,,0000,0000,0000,,Hey! Hinata!
+Dialogue: 0,0:13:56.12,0:13:57.12,Default,,0000,0000,0000,,Naruto.
+Dialogue: 0,0:13:57.49,0:13:58.49,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:14:00.16,0:14:02.16,Default,,0000,0000,0000,,Hinata, go out with me!
+Dialogue: 0,0:14:03.49,0:14:08.08,Default,,0000,0000,0000,,Wh-What are you saying\Nat a time like this?!
+Dialogue: 0,0:14:08.54,0:14:09.54,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:10.29,0:14:15.49,Default,,0000,0000,0000,,I-I don't know… Go out with you?
+Dialogue: 0,0:14:16.45,0:14:17.45,Default,,0000,0000,0000,,You won’t?
+Dialogue: 0,0:14:17.49,0:14:20.49,Default,,0000,0000,0000,,I-I’m not necessarily saying no…
+Dialogue: 0,0:14:26.49,0:14:29.41,Default,,0000,0000,0000,,Then I’ll just ask Neji then.\NSee you later!
+Dialogue: 0,0:14:30.00,0:14:31.00,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:37.00,0:14:39.04,Default,,0000,0000,0000,,There’s a thin thread attached\Nto the Paper Bomb.
+Dialogue: 0,0:14:39.49,0:14:40.49,Default,,0000,0000,0000,,A thread?
+Dialogue: 0,0:14:40.62,0:14:43.66,Default,,0000,0000,0000,,It’s probably a special thread\Nused to ignite it.
+Dialogue: 0,0:14:44.66,0:14:47.16,Default,,0000,0000,0000,,He's probably is going to detonate it\Nfrom a distance…
+Dialogue: 0,0:14:47.79,0:14:50.45,Default,,0000,0000,0000,,Where is that thread connected to?!
+Dialogue: 0,0:15:02.41,0:15:03.91,Default,,0000,0000,0000,,It goes around the classroom and…
+Dialogue: 0,0:15:06.62,0:15:09.45,Default,,0000,0000,0000,,It goes outside…\Ntowards the training hall…?
+Dialogue: 0,0:15:11.70,0:15:12.70,Default,,0000,0000,0000,,There’s a log standing…
+Dialogue: 0,0:15:16.49,0:15:18.00,Default,,0000,0000,0000,,This… Could it be?!
+Dialogue: 0,0:15:21.87,0:15:24.00,Default,,0000,0000,0000,,Neji! Come with me for a second!
+Dialogue: 0,0:15:24.41,0:15:26.54,Default,,0000,0000,0000,,What is it!\NWe’re in the middle of something…
+Dialogue: 0,0:15:26.87,0:15:30.00,Default,,0000,0000,0000,,Actually there’s a strange log standing\Nin the training hall over there.
+Dialogue: 0,0:15:30.37,0:15:31.50,Default,,0000,0000,0000,,We wanted him to check it.
+Dialogue: 0,0:15:33.41,0:15:34.49,Default,,0000,0000,0000,,That’s the triggering device!
+Dialogue: 0,0:15:35.04,0:15:36.04,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:39.58,0:15:42.04,Default,,0000,0000,0000,,Try loosening up your shoulders\Nand then throw it.
+Dialogue: 0,0:15:42.49,0:15:44.08,Default,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:15:44.20,0:15:46.50,Default,,0000,0000,0000,,All right, I’m up next.
+Dialogue: 0,0:15:48.70,0:15:50.49,Default,,0000,0000,0000,,There should be a target on the log.
+Dialogue: 0,0:15:50.62,0:15:51.75,Default,,0000,0000,0000,,Yeah, there is.
+Dialogue: 0,0:15:52.04,0:15:54.33,Default,,0000,0000,0000,,The center of the target\Nis the triggering device!
+Dialogue: 0,0:15:57.49,0:15:59.79,Default,,0000,0000,0000,,When a Kunai Knife hits the center…
+Dialogue: 0,0:15:59.83,0:16:01.41,Default,,0000,0000,0000,,the device will activate…
+Dialogue: 0,0:16:02.45,0:16:03.49,Default,,0000,0000,0000,,And the Academy will explode!
+Dialogue: 0,0:16:05.00,0:16:06.25,Default,,0000,0000,0000,,So close!
+Dialogue: 0,0:16:06.87,0:16:09.45,Default,,0000,0000,0000,,If you focus, you’ll hit the target.
+Dialogue: 0,0:16:10.62,0:16:13.49,Default,,0000,0000,0000,,All right, I’m going to hit this time.
+Dialogue: 0,0:16:16.79,0:16:18.49,Default,,0000,0000,0000,,Focus…
+Dialogue: 0,0:16:19.00,0:16:20.00,Default,,0000,0000,0000,,And target!
+Dialogue: 0,0:16:20.41,0:16:22.50,Default,,0000,0000,0000,,Don’t let anybody hit the target!
+Dialogue: 0,0:16:36.00,0:16:37.49,Default,,0000,0000,0000,,All right, I hit the target!
+Dialogue: 0,0:16:39.49,0:16:40.49,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:16:42.54,0:16:43.54,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:45.54,0:16:52.25,Default,,0000,0000,0000,,The tip is cracked.\NYou always have to take care of your tools.
+Dialogue: 0,0:16:52.87,0:16:55.66,Default,,0000,0000,0000,,Damn, I thought that I hit the target.
+Dialogue: 0,0:16:56.62,0:16:58.49,Default,,0000,0000,0000,,This way! Behind there!
+Dialogue: 0,0:16:59.49,0:17:02.91,Default,,0000,0000,0000,,All right…\NI’m going to hit it for sure!
+Dialogue: 0,0:17:03.41,0:17:04.49,Default,,0000,0000,0000,,That’s the spirit!
+Dialogue: 0,0:17:08.08,0:17:09.20,Default,,0000,0000,0000,,This looks good!
+Dialogue: 0,0:17:09.87,0:17:11.50,Default,,0000,0000,0000,,This time I’m going to hit it!
+Dialogue: 0,0:17:12.58,0:17:13.58,Default,,0000,0000,0000,,Bushy Brow!
+Dialogue: 0,0:17:14.00,0:17:15.00,Default,,0000,0000,0000,,Stop it, Lee!
+Dialogue: 0,0:17:17.79,0:17:18.79,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:24.49,0:17:26.49,Default,,0000,0000,0000,,Oh, did I scare you?
+Dialogue: 0,0:17:26.70,0:17:30.49,Default,,0000,0000,0000,,I’m sorry. I just dropped my Ninja tool…\NHere.
+Dialogue: 0,0:17:38.45,0:17:40.49,Default,,0000,0000,0000,,Bushy Brow, you did it!
+Dialogue: 0,0:17:41.70,0:17:43.49,Default,,0000,0000,0000,,I had the target!
+Dialogue: 0,0:17:43.66,0:17:45.45,Default,,0000,0000,0000,,Why did you get in the way?!
+Dialogue: 0,0:17:45.58,0:17:48.49,Default,,0000,0000,0000,,Be quiet!\Nlf that had hit the target,
+Dialogue: 0,0:17:48.49,0:17:49.91,Default,,0000,0000,0000,,the Academy would have exploded!
+Dialogue: 0,0:17:50.25,0:17:51.54,Default,,0000,0000,0000,,What…?
+Dialogue: 0,0:17:51.58,0:17:52.91,Default,,0000,0000,0000,,For real?
+Dialogue: 0,0:18:01.49,0:18:03.29,Default,,0000,0000,0000,,A triggering device in here…huh?
+Dialogue: 0,0:18:04.49,0:18:07.49,Default,,0000,0000,0000,,When something hits the center,\Nthe Academy explodes.
+Dialogue: 0,0:18:08.29,0:18:12.04,Default,,0000,0000,0000,,So there hasn’t been anyone\Nwho’s been able to hit the center.
+Dialogue: 0,0:18:12.49,0:18:14.70,Default,,0000,0000,0000,,We really were lucky.
+Dialogue: 0,0:18:15.49,0:18:17.12,Default,,0000,0000,0000,,We were lucky, huh?
+Dialogue: 0,0:18:18.62,0:18:23.49,Default,,0000,0000,0000,,So who started to practice\Nthrowing their Kunai-Knife here?
+Dialogue: 0,0:18:24.25,0:18:26.49,Default,,0000,0000,0000,,Who? Who was it?
+Dialogue: 0,0:18:27.12,0:18:28.49,Default,,0000,0000,0000,,Somebody told us that we'd be praised
+Dialogue: 0,0:18:28.49,0:18:31.16,Default,,0000,0000,0000,,if we got better at Kunai-Knife throwing\Nin secret from the teachers.
+Dialogue: 0,0:18:31.75,0:18:33.54,Default,,0000,0000,0000,,"in secret from from the teachers…"
+Dialogue: 0,0:18:35.12,0:18:39.54,Default,,0000,0000,0000,,Whoever must’ve used Genjutsu\Nto make them think that.
+Dialogue: 0,0:18:40.16,0:18:41.45,Default,,0000,0000,0000,,It must be Genno.
+Dialogue: 0,0:18:48.49,0:18:49.49,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,0:18:50.70,0:18:56.75,Default,,0000,0000,0000,,W-Well… There's more than one thread\Ncoming out of the triggering device.
+Dialogue: 0,0:18:58.12,0:18:59.25,Default,,0000,0000,0000,,Is that true Hinata?
+Dialogue: 0,0:19:00.16,0:19:01.25,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:19:05.04,0:19:06.04,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:19:09.49,0:19:16.49,Default,,0000,0000,0000,,True.\NThere's not just one…two…no, three?
+Dialogue: 0,0:19:17.75,0:19:18.75,Default,,0000,0000,0000,,Where are they connected to?
+Dialogue: 0,0:19:21.49,0:19:24.00,Default,,0000,0000,0000,,Outside of the academy… 					No!
+Dialogue: 0,0:19:24.54,0:19:26.75,Default,,0000,0000,0000,,Wait! It’s hard to see from here.
+Dialogue: 0,0:19:29.00,0:19:30.75,Default,,0000,0000,0000,,U-Umm… M-Me too…
+Dialogue: 0,0:19:54.00,0:19:55.00,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:19:55.45,0:19:56.45,Default,,0000,0000,0000,,Byakugan!
+Dialogue: 0,0:20:10.49,0:20:11.49,Default,,0000,0000,0000,,I found one.
+Dialogue: 0,0:20:17.70,0:20:18.70,Default,,0000,0000,0000,,I found one, too
+Dialogue: 0,0:20:19.49,0:20:20.49,Default,,0000,0000,0000,,Tell us the location.
+Dialogue: 0,0:20:21.41,0:20:24.08,Default,,0000,0000,0000,,No, wait.\NThe thread splits again.
+Dialogue: 0,0:20:29.00,0:20:30.00,Default,,0000,0000,0000,,Over here too…
+Dialogue: 0,0:20:42.83,0:20:44.16,Default,,0000,0000,0000,,Th-This is…
+Dialogue: 0,0:20:45.08,0:20:46.49,Default,,0000,0000,0000,,No…way…
+Dialogue: 0,0:20:47.50,0:20:48.50,Default,,0000,0000,0000,,It can't be…
+Dialogue: 0,0:20:49.12,0:20:51.79,Default,,0000,0000,0000,,Hey! What’s the matter!
+Dialogue: 0,0:20:52.54,0:20:56.12,Default,,0000,0000,0000,,There’s Paper Bombs planted\Nall over the village!
+Dialogue: 0,0:20:57.16,0:20:58.87,Default,,0000,0000,0000,,It’s not just 10 or 20…
+Dialogue: 0,0:21:00.58,0:21:03.29,Default,,0000,0000,0000,,It's countless numbers of them!
+Dialogue: 0,0:21:03.54,0:21:05.08,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:06.75,0:21:10.33,Default,,0000,0000,0000,,The Village Hidden in the Leaves\Nis a nest of Paper Bombs!
+Dialogue: 0,0:21:41.45,0:21:43.70,Default,,0000,0000,0000,,On a checkerboard night
+Dialogue: 0,0:21:43.75,0:21:46.33,Default,,0000,0000,0000,,when the stardust’s are rapidly dancing
+Dialogue: 0,0:21:46.37,0:21:50.70,Default,,0000,0000,0000,,I just can’t come out and say,\N“Ah, I don’t want to go home yet.”
+Dialogue: 0,0:21:52.25,0:21:53.87,Default,,0000,0000,0000,,Suggestively
+Dialogue: 0,0:21:54.49,0:21:58.62,Default,,0000,0000,0000,,Spat at that beloved face!!\NMister Cricket
+Dialogue: 0,0:22:00.41,0:22:05.45,Default,,0000,0000,0000,,The Trombone gradually going off-key
+Dialogue: 0,0:22:05.49,0:22:11.91,Default,,0000,0000,0000,,While on the sweaty center stage\Ndoes bug me.
+Dialogue: 0,0:22:11.95,0:22:16.95,Default,,0000,0000,0000,,But more importantly, the fuzziness I feel\Nin my undeveloped chest,
+Dialogue: 0,0:22:17.00,0:22:22.16,Default,,0000,0000,0000,,I wonder if it’s from\Nthat coke I just drank?
+Dialogue: 0,0:22:50.70,0:22:53.33,Default,,0000,0000,0000,,– Now, the Academy is safe.\N– All right!
+Dialogue: 0,0:22:53.37,0:22:55.04,Default,,0000,0000,0000,,It’s too early to feel relieved.
+Dialogue: 0,0:22:55.08,0:22:56.70,Default,,0000,0000,0000,,If he realizes the Paper Bombs\Nare being deactivated,
+Dialogue: 0,0:22:56.75,0:22:59.49,Default,,0000,0000,0000,,he might blow up the village\Nby a different method.
+Dialogue: 0,0:22:59.50,0:23:01.75,Default,,0000,0000,0000,,Then we have to evacuate\Neveryone quickly!
+Dialogue: 0,0:23:01.79,0:23:04.33,Default,,0000,0000,0000,,– Then he'll know what we're doing!\N– That means…
+Dialogue: 0,0:23:04.37,0:23:07.54,Default,,0000,0000,0000,,Pretend we don’t notice anything\Nand get rid of the Paper Bombs.
+Dialogue: 0,0:23:07.58,0:23:09.49,Default,,0000,0000,0000,,Everyone, get to it at once!
+Dialogue: 0,0:23:09.49,0:23:10.49,Default,,0000,0000,0000,,– Yeah! 					– Yes.
+Dialogue: 0,0:23:11.12,0:23:14.49,Default,,0000,0000,0000,,Next time: “The Powerful Helper”

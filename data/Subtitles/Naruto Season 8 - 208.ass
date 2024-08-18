@@ -1,0 +1,331 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.25,0:00:13.96,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:00:27.41,0:00:33.64,Default,,0000,0000,0000,,The distance created between us\Nbecame too big,
+Dialogue: 0,0:00:33.64,0:00:39.65,Default,,0000,0000,0000,,because we were always together
+Dialogue: 0,0:00:40.08,0:00:45.66,Default,,0000,0000,0000,,Your honest reply, “See you…”
+Dialogue: 0,0:00:45.66,0:00:51.33,Default,,0000,0000,0000,,coming from that brash mouth\Nmakes it sadder.
+Dialogue: 0,0:00:51.60,0:00:57.90,Default,,0000,0000,0000,,If you are in an unfamiliar town, crying
+Dialogue: 0,0:00:57.94,0:01:04.94,Default,,0000,0000,0000,,Then I want to deliver you a smile,\Neven if I’m not by your side
+Dialogue: 0,0:01:05.04,0:01:17.66,Default,,0000,0000,0000,,Fly into the wavy and twisted sky,\Ninto your hands
+Dialogue: 0,0:01:17.66,0:01:24.00,Default,,0000,0000,0000,,I can feel it so close,
+Dialogue: 0,0:01:24.03,0:01:29.23,Default,,0000,0000,0000,,Our two hearts
+Dialogue: 0,0:01:43.15,0:01:45.02,Default,,0000,0000,0000,,The Weight of the Prized Artifact!\N		More to the right!
+Dialogue: 0,0:01:45.08,0:01:46.75,Default,,0000,0000,0000,,Okay! Okay!
+Dialogue: 0,0:01:51.66,0:01:53.16,Default,,0000,0000,0000,,There it is! That’s it!
+Dialogue: 0,0:01:53.99,0:01:55.03,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:01:55.66,0:01:58.40,Default,,0000,0000,0000,,A teacup like this a treasure, huh…?
+Dialogue: 0,0:02:01.50,0:02:02.67,Default,,0000,0000,0000,,A delivery mission?
+Dialogue: 0,0:02:03.17,0:02:05.57,Default,,0000,0000,0000,,No, it’s delivery protection\Nto be exact.
+Dialogue: 0,0:02:05.90,0:02:08.64,Default,,0000,0000,0000,,There’s a higher risk of danger\Nthan a regular delivery.
+Dialogue: 0,0:02:09.37,0:02:12.91,Default,,0000,0000,0000,,The Beauty of Nature is a treasure\Nof national importance so to speak.
+Dialogue: 0,0:02:13.64,0:02:17.15,Default,,0000,0000,0000,,In monetary value, you could buy\None or two mountains with its value.
+Dialogue: 0,0:02:17.92,0:02:18.92,Default,,0000,0000,0000,,For real…?
+Dialogue: 0,0:02:18.95,0:02:21.95,Default,,0000,0000,0000,,I’d like you to deliver it safely\Nto Kale Avenue
+Dialogue: 0,0:02:21.99,0:02:23.65,Default,,0000,0000,0000,,where it will be put on exhibition.
+Dialogue: 0,0:02:26.26,0:02:30.39,Default,,0000,0000,0000,,At any rate, what’s with\Nthat humongous safe…?
+Dialogue: 0,0:02:31.60,0:02:32.66,Default,,0000,0000,0000,,You’re late.
+Dialogue: 0,0:02:33.97,0:02:34.97,Default,,0000,0000,0000,,Kiba…
+Dialogue: 0,0:02:35.10,0:02:38.07,Default,,0000,0000,0000,,Lady Tsunade told me to come\Nas pursuit personnel
+Dialogue: 0,0:02:38.10,0:02:41.07,Default,,0000,0000,0000,,just in case something happens\Nto the delivery item…
+Dialogue: 0,0:02:41.81,0:02:43.64,Default,,0000,0000,0000,,Have you heard anything else?
+Dialogue: 0,0:02:44.64,0:02:47.28,Default,,0000,0000,0000,,Nothing special other than\Nit’s an incredible treasure…
+Dialogue: 0,0:02:51.98,0:02:53.68,Default,,0000,0000,0000,,No Trespassing\N		Hey, you with the stupid look.
+Dialogue: 0,0:02:55.49,0:02:56.49,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:57.05,0:03:01.66,Default,,0000,0000,0000,,Can’t you see\Nthe “no trespassing” sign, huh?!
+Dialogue: 0,0:03:02.19,0:03:07.57,Default,,0000,0000,0000,,No, we came here on a delivery mission\Nfrom Lady Tsunade for that thing.
+Dialogue: 0,0:03:07.67,0:03:10.84,Default,,0000,0000,0000,,That’s right!\NHere’s the paperwork.
+Dialogue: 0,0:03:11.60,0:03:12.60,Default,,0000,0000,0000,,Huh…?
+Dialogue: 0,0:03:13.27,0:03:15.24,Default,,0000,0000,0000,,Look out.\Nlt’s going to fall!
+Dialogue: 0,0:03:21.45,0:03:22.58,Default,,0000,0000,0000,,Run, Naruto!
+Dialogue: 0,0:03:22.61,0:03:25.28,Default,,0000,0000,0000,,Hey, what’re you doing, bro?
+Dialogue: 0,0:03:25.45,0:03:28.15,Default,,0000,0000,0000,,Hm? What’re you doing?!\NStop it, quickly!
+Dialogue: 0,0:03:29.35,0:03:33.06,Default,,0000,0000,0000,,You came on a mission, didn’t you?!\NGet to work, you idiots!
+Dialogue: 0,0:03:33.52,0:03:34.53,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:03:36.66,0:03:38.66,Default,,0000,0000,0000,,Even if you die, don’t knock it over!
+Dialogue: 0,0:03:43.87,0:03:44.87,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:03:50.21,0:03:51.58,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:03:52.28,0:03:53.31,Default,,0000,0000,0000,,That was close…
+Dialogue: 0,0:03:53.61,0:03:57.65,Default,,0000,0000,0000,,S-So what should we do with this, bro?
+Dialogue: 0,0:03:57.98,0:03:59.22,Default,,0000,0000,0000,,Die.
+Dialogue: 0,0:03:59.32,0:04:01.32,Default,,0000,0000,0000,,You jerk…
+Dialogue: 0,0:04:10.80,0:04:13.50,Default,,0000,0000,0000,,As for you brother, what kind\Nof person are you?!
+Dialogue: 0,0:04:14.00,0:04:16.63,Default,,0000,0000,0000,,We were just about to die!
+Dialogue: 0,0:04:16.73,0:04:17.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:18.20,0:04:21.67,Default,,0000,0000,0000,,Ninja are supposed to risk their lives\Non a commissioned mission, right?
+Dialogue: 0,0:04:22.54,0:04:24.88,Default,,0000,0000,0000,,Just a minute, buddy!
+Dialogue: 0,0:04:25.21,0:04:26.44,Default,,0000,0000,0000,,I’m not your buddy!
+Dialogue: 0,0:04:26.64,0:04:29.85,Default,,0000,0000,0000,,I’m your client on this mission, Shinemon.
+Dialogue: 0,0:04:31.02,0:04:33.65,Default,,0000,0000,0000,,Come on…\NGet a move on if you’re not dead.
+Dialogue: 0,0:04:36.79,0:04:38.62,Default,,0000,0000,0000,,Akamaru, Fang over Fang!
+Dialogue: 0,0:04:39.29,0:04:41.66,Default,,0000,0000,0000,,No, I’ll pound him\Nwith my Rasengan!
+Dialogue: 0,0:04:42.36,0:04:44.53,Default,,0000,0000,0000,,Don’t get so serious!
+Dialogue: 0,0:04:44.96,0:04:48.47,Default,,0000,0000,0000,,Hey! What’s the deal?!\NAre you guys not fired up?!
+Dialogue: 0,0:04:48.90,0:04:51.54,Default,,0000,0000,0000,,Jeez. Getting all\Nuselessly carried away.
+Dialogue: 0,0:04:51.64,0:04:53.67,Default,,0000,0000,0000,,You’ll get no sympathy\Nif you get all tired later on!
+Dialogue: 0,0:04:53.87,0:04:57.38,Default,,0000,0000,0000,,This here is not like you guys, this here!
+Dialogue: 0,0:05:04.95,0:05:07.65,Default,,0000,0000,0000,,So you got too carried away\Nand dropped it?
+Dialogue: 0,0:05:13.16,0:05:14.66,Default,,0000,0000,0000,,I’m so sorry!
+Dialogue: 0,0:05:16.29,0:05:18.66,Default,,0000,0000,0000,,Jeez… Well, we’ve got the time,
+Dialogue: 0,0:05:18.80,0:05:20.90,Default,,0000,0000,0000,,so I guess all we can do\Nis go down and get it.
+Dialogue: 0,0:05:22.70,0:05:25.34,Default,,0000,0000,0000,,No… It seems we don’t\Nhave that much time.
+Dialogue: 0,0:05:25.67,0:05:26.67,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:34.41,0:05:36.11,Default,,0000,0000,0000,,Wh-What do we do, Kiba?!
+Dialogue: 0,0:05:36.58,0:05:39.22,Default,,0000,0000,0000,,If we took the roundabout way,\Nwe’d never make it in time!
+Dialogue: 0,0:05:40.32,0:05:41.32,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:05:41.35,0:05:43.65,Default,,0000,0000,0000,,All right?\NWhat’re you going to do, buddy?!
+Dialogue: 0,0:05:45.46,0:05:46.66,Default,,0000,0000,0000,,Let’s bungee jump!
+Dialogue: 0,0:05:51.53,0:05:53.10,Default,,0000,0000,0000,,Why me…?!
+Dialogue: 0,0:05:53.16,0:05:56.60,Default,,0000,0000,0000,,Die like you just don’t care!\NI’ll pick up your bones for you!
+Dialogue: 0,0:06:02.94,0:06:05.61,Default,,0000,0000,0000,,I did it!
+Dialogue: 0,0:06:06.18,0:06:07.14,Default,,0000,0000,0000,,No way?!
+Dialogue: 0,0:06:11.75,0:06:13.65,Default,,0000,0000,0000,,That was a close one.
+Dialogue: 0,0:06:13.75,0:06:16.35,Default,,0000,0000,0000,,Idiot! Naruto, behind you, behind you!
+Dialogue: 0,0:06:17.52,0:06:18.92,Default,,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:06:27.20,0:06:28.83,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:06:42.58,0:06:44.12,Default,,0000,0000,0000,,That was a close one…
+Dialogue: 0,0:06:44.65,0:06:46.22,Default,,0000,0000,0000,,Y-You…
+Dialogue: 0,0:06:47.28,0:06:49.35,Default,,0000,0000,0000,,You got a problem? Huh?
+Dialogue: 0,0:06:49.65,0:06:52.92,Default,,0000,0000,0000,,A Ninja expects to lose his life\Non a mission, right?!
+Dialogue: 0,0:06:53.36,0:06:57.16,Default,,0000,0000,0000,,Buddy, you want to try dying once…?
+Dialogue: 0,0:06:59.70,0:07:00.77,Default,,0000,0000,0000,,Don’t stop me, Kiba!
+Dialogue: 0,0:07:00.83,0:07:03.87,Default,,0000,0000,0000,,I’ll pound him no matter what\Nwith my Rasengan!
+Dialogue: 0,0:07:03.90,0:07:05.64,Default,,0000,0000,0000,,S-Stop it! Calm down, Naruto!
+Dialogue: 0,0:07:06.74,0:07:08.64,Default,,0000,0000,0000,,I’m really sorry!
+Dialogue: 0,0:07:27.32,0:07:28.79,Default,,0000,0000,0000,,Hey, act more natural.
+Dialogue: 0,0:07:29.23,0:07:30.39,Default,,0000,0000,0000,,You idiot…
+Dialogue: 0,0:07:30.46,0:07:32.40,Default,,0000,0000,0000,,I am acting natural,\Nno matter how you look at it…!
+Dialogue: 0,0:07:32.53,0:07:34.27,Default,,0000,0000,0000,,No way… Totally unnatural…
+Dialogue: 0,0:07:35.07,0:07:37.27,Default,,0000,0000,0000,,Just a minute, you guys.
+Dialogue: 0,0:07:41.64,0:07:42.64,Default,,0000,0000,0000,,Jeez…
+Dialogue: 0,0:07:42.91,0:07:45.64,Default,,0000,0000,0000,,It seems there’s something\Nvery valuable in there…
+Dialogue: 0,0:07:46.08,0:07:48.95,Default,,0000,0000,0000,,If you like,\Nwe could carry it for you instead.
+Dialogue: 0,0:07:49.21,0:07:51.52,Default,,0000,0000,0000,,Now… Hand it over here.
+Dialogue: 0,0:07:51.65,0:07:53.45,Default,,0000,0000,0000,,We’ll carry it for you with care.
+Dialogue: 0,0:07:53.62,0:07:54.65,Default,,0000,0000,0000,,N-No…
+Dialogue: 0,0:07:54.65,0:07:57.66,Default,,0000,0000,0000,,It’s not really anything valuable.
+Dialogue: 0,0:07:57.66,0:07:59.79,Default,,0000,0000,0000,,I mean, how should I put it…right?
+Dialogue: 0,0:07:59.82,0:08:05.70,Default,,0000,0000,0000,,That’s right. It’s not like that at all.\NRight, buddy?
+Dialogue: 0,0:08:05.90,0:08:09.20,Default,,0000,0000,0000,,What’re you guys talking about?!\Nlt’s extremely valuable.
+Dialogue: 0,0:08:09.23,0:08:13.00,Default,,0000,0000,0000,,Have you forgotten that there’s\Na national treasure-class relic inside?!
+Dialogue: 0,0:08:13.64,0:08:15.31,Default,,0000,0000,0000,,It’s the Beauty of Nature!
+Dialogue: 0,0:08:15.37,0:08:18.44,Default,,0000,0000,0000,,It’s the Beauty of Nature\Nmore valuable than human life!
+Dialogue: 0,0:08:18.58,0:08:20.64,Default,,0000,0000,0000,,Hey, are you guys underestimating it?!
+Dialogue: 0,0:08:20.81,0:08:23.45,Default,,0000,0000,0000,,Wh-What’re you saying?!
+Dialogue: 0,0:08:23.48,0:08:25.65,Default,,0000,0000,0000,,Hey, buddy, do you understand\Nthe situation?!
+Dialogue: 0,0:08:25.65,0:08:27.82,Default,,0000,0000,0000,,Shut up! Situation?\NYou gotta be kidding!
+Dialogue: 0,0:08:27.85,0:08:31.66,Default,,0000,0000,0000,,I absolutely won’t forgive anyone\Nwho insults the Beauty of Nature!
+Dialogue: 0,0:08:31.86,0:08:35.13,Default,,0000,0000,0000,,So… A treasure more valuable\Nthan life, huh…?
+Dialogue: 0,0:08:35.63,0:08:38.66,Default,,0000,0000,0000,,Then you won’t have a problem\Nwith being killed, right?
+Dialogue: 0,0:08:40.66,0:08:45.50,Default,,0000,0000,0000,,Oh, sorry… I must be going\Nas I’ve got cram school today.
+Dialogue: 0,0:08:51.44,0:08:52.78,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:08:52.81,0:08:54.55,Default,,0000,0000,0000,,–Hey, hold it!\N–Hey, hold it!
+Dialogue: 0,0:08:55.31,0:08:59.58,Default,,0000,0000,0000,,I’ll take care of things here.\NYou escape with Shinemon, Kiba!
+Dialogue: 0,0:08:59.62,0:09:00.95,Default,,0000,0000,0000,,Right! Come on!
+Dialogue: 0,0:09:10.83,0:09:12.73,Default,,0000,0000,0000,,Others have popped up!
+Dialogue: 0,0:09:13.20,0:09:15.03,Default,,0000,0000,0000,,What’re you doing escaping with me?!
+Dialogue: 0,0:09:15.23,0:09:17.70,Default,,0000,0000,0000,,Do something quickly, you idiot!
+Dialogue: 0,0:09:18.10,0:09:20.00,Default,,0000,0000,0000,,Jeez, what a jerk…!
+Dialogue: 0,0:09:22.04,0:09:23.04,Default,,0000,0000,0000,,You go on ahead!
+Dialogue: 0,0:09:24.64,0:09:26.64,Default,,0000,0000,0000,,Okay… Let’s go, Akamaru!
+Dialogue: 0,0:09:35.65,0:09:38.66,Default,,0000,0000,0000,,A battle has started again, huh?
+Dialogue: 0,0:09:38.86,0:09:41.66,Default,,0000,0000,0000,,Yes. A battle has started again.
+Dialogue: 0,0:09:41.96,0:09:43.73,Default,,0000,0000,0000,,It’s a sad thing.
+Dialogue: 0,0:09:44.19,0:09:46.10,Default,,0000,0000,0000,,Yes. It’s a sad thing.
+Dialogue: 0,0:09:49.67,0:09:50.83,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:09:57.58,0:09:59.28,Default,,0000,0000,0000,,You’re late, you idiots.
+Dialogue: 0,0:09:59.38,0:10:02.05,Default,,0000,0000,0000,,I’ll get you, no matter what!
+Dialogue: 0,0:10:02.08,0:10:04.21,Default,,0000,0000,0000,,Akamaru, Fang Over Fang!\NFang Over Fang!
+Dialogue: 0,0:10:04.98,0:10:07.52,Default,,0000,0000,0000,,I-It’s a joke, man! A joke!
+Dialogue: 0,0:10:25.74,0:10:29.57,Default,,0000,0000,0000,,At last we’ve nailed down the location\Nof the treasured Beauty of Nature…
+Dialogue: 0,0:10:45.49,0:10:46.49,Default,,0000,0000,0000,,Something coming!
+Dialogue: 0,0:10:50.06,0:10:52.00,Default,,0000,0000,0000,,Buddy, you stay right here!
+Dialogue: 0,0:10:52.10,0:10:53.10,Default,,0000,0000,0000,,R-Right…!
+Dialogue: 0,0:10:54.67,0:10:57.60,Default,,0000,0000,0000,,Stop hiding and come on out!
+Dialogue: 0,0:11:03.44,0:11:05.28,Default,,0000,0000,0000,,A smoke screen.\NThat’s a good idea…!
+Dialogue: 0,0:11:05.48,0:11:07.65,Default,,0000,0000,0000,,What’re you doing\Ngetting impressed, you idiot?!
+Dialogue: 0,0:11:07.65,0:11:09.05,Default,,0000,0000,0000,,Do something, quickly!
+Dialogue: 0,0:11:09.08,0:11:10.21,Default,,0000,0000,0000,,We know!
+Dialogue: 0,0:11:11.65,0:11:12.65,Default,,0000,0000,0000,,Let’s go, Kiba!
+Dialogue: 0,0:11:12.65,0:11:13.65,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:11:13.65,0:11:15.32,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:11:17.12,0:11:18.92,Default,,0000,0000,0000,,Now, let’s tear it up, Akamaru!
+Dialogue: 0,0:11:21.53,0:11:24.66,Default,,0000,0000,0000,,Since our vision has been sealed,\Nwe’ll just use scent!
+Dialogue: 0,0:11:24.86,0:11:26.20,Default,,0000,0000,0000,,Let’s show them, Akamaru!
+Dialogue: 0,0:11:28.27,0:11:29.87,Default,,0000,0000,0000,,Where are you hiding?!
+Dialogue: 0,0:11:35.91,0:11:38.24,Default,,0000,0000,0000,,The Beauty of Nature is mine.
+Dialogue: 0,0:11:38.38,0:11:39.38,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:11:40.91,0:11:41.98,Default,,0000,0000,0000,,Let’s go, Akamaru!
+Dialogue: 0,0:11:42.65,0:11:43.91,Default,,0000,0000,0000,,Ninja Art of Beast Mimicry:
+Dialogue: 0,0:11:44.65,0:11:46.12,Default,,0000,0000,0000,,Man Beast Clone!
+Dialogue: 0,0:11:48.52,0:11:49.65,Default,,0000,0000,0000,,Fang Over Fang!
+Dialogue: 0,0:11:55.46,0:11:57.56,Default,,0000,0000,0000,,Then…we’ll do this! Akamaru!
+Dialogue: 0,0:11:59.36,0:12:01.03,Default,,0000,0000,0000,,Dynamic Marking!
+Dialogue: 0,0:12:03.67,0:12:05.84,Default,,0000,0000,0000,,Whoa! What’s this?!
+Dialogue: 0,0:12:06.64,0:12:08.04,Default,,0000,0000,0000,,Buddy, what’s the matter?!
+Dialogue: 0,0:12:08.07,0:12:09.61,Default,,0000,0000,0000,,S-Something’s salty!
+Dialogue: 0,0:12:09.81,0:12:11.08,Default,,0000,0000,0000,,I’m coming!
+Dialogue: 0,0:12:12.64,0:12:14.04,Default,,0000,0000,0000,,Naruto, where are you?!
+Dialogue: 0,0:12:14.65,0:12:16.35,Default,,0000,0000,0000,,Get over here now, you idiot!
+Dialogue: 0,0:12:19.02,0:12:20.82,Default,,0000,0000,0000,,You’re late, Naruto!
+Dialogue: 0,0:12:36.20,0:12:37.67,Default,,0000,0000,0000,,You okay, buddy?
+Dialogue: 0,0:12:40.04,0:12:41.04,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:12:45.88,0:12:49.71,Default,,0000,0000,0000,,Spraying piss?!\NI’ll pound you guys for sure!
+Dialogue: 0,0:12:49.75,0:12:52.98,Default,,0000,0000,0000,,Taking back the treasure comes first!
+Dialogue: 0,0:12:53.15,0:12:54.75,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:12:55.15,0:12:59.32,Default,,0000,0000,0000,,Oh man! I knew I should’ve\Ntaken charge of it!
+Dialogue: 0,0:12:59.62,0:13:02.66,Default,,0000,0000,0000,,If we trace the scent of\NAkamaru’s Dynamic Marking,
+Dialogue: 0,0:13:02.66,0:13:03.69,Default,,0000,0000,0000,,it should work out, but…
+Dialogue: 0,0:13:06.03,0:13:08.70,Default,,0000,0000,0000,,I see, Akamaru…\NThey’re still not far?
+Dialogue: 0,0:13:10.27,0:13:11.54,Default,,0000,0000,0000,,All right, let’s go!
+Dialogue: 0,0:13:16.37,0:13:18.61,Default,,0000,0000,0000,,We did it… We finally did it!
+Dialogue: 0,0:13:22.31,0:13:23.65,Default,,0000,0000,0000,,What’re you doing?
+Dialogue: 0,0:13:23.65,0:13:24.65,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:13:24.85,0:13:28.85,Default,,0000,0000,0000,,They came to take this back!\NLet’s get out of here!
+Dialogue: 0,0:13:30.45,0:13:31.66,Default,,0000,0000,0000,,You won’t get away!
+Dialogue: 0,0:13:31.66,0:13:32.66,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:13:33.12,0:13:35.36,Default,,0000,0000,0000,,Impertinent! Go!
+Dialogue: 0,0:13:38.03,0:13:39.86,Default,,0000,0000,0000,,We’ll handle things here.
+Dialogue: 0,0:13:40.16,0:13:42.83,Default,,0000,0000,0000,,So you go after him!
+Dialogue: 0,0:13:42.97,0:13:44.70,Default,,0000,0000,0000,,–Right! 					–Let’s go, Kiba!
+Dialogue: 0,0:13:44.74,0:13:45.74,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:13:48.44,0:13:49.64,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:13:57.58,0:13:59.48,Default,,0000,0000,0000,,You won’t get away, you jerk!
+Dialogue: 0,0:13:59.85,0:14:02.65,Default,,0000,0000,0000,,It ends here! See you later!
+Dialogue: 0,0:14:17.00,0:14:18.07,Default,,0000,0000,0000,,Let’s hurry!
+Dialogue: 0,0:14:19.64,0:14:21.00,Default,,0000,0000,0000,,I won’t hand it over…!
+Dialogue: 0,0:14:21.54,0:14:22.54,Default,,0000,0000,0000,,Let go!
+Dialogue: 0,0:14:25.91,0:14:29.45,Default,,0000,0000,0000,,Boy, I was going to let you\Nslide by with your life, but…
+Dialogue: 0,0:14:35.69,0:14:36.69,Default,,0000,0000,0000,,Give it back…
+Dialogue: 0,0:14:37.65,0:14:42.13,Default,,0000,0000,0000,,The Beauty of Nature…\NGive it back…!
+Dialogue: 0,0:14:50.27,0:14:53.64,Default,,0000,0000,0000,,Haven’t you\Nmisunderstood something?
+Dialogue: 0,0:14:53.67,0:14:55.94,Default,,0000,0000,0000,,You’ll let me off with my life?
+Dialogue: 0,0:14:56.11,0:14:58.64,Default,,0000,0000,0000,,That Beauty of Nature…
+Dialogue: 0,0:14:58.64,0:15:04.65,Default,,0000,0000,0000,,is a super first-rate treasure\Nmore precious than human life…
+Dialogue: 0,0:15:05.08,0:15:09.95,Default,,0000,0000,0000,,The question of my life\Nwas never of a concern!
+Dialogue: 0,0:15:11.29,0:15:13.32,Default,,0000,0000,0000,,Don’t make light of me! Got that?!
+Dialogue: 0,0:15:17.66,0:15:19.40,Default,,0000,0000,0000,,You okay, buddy?!
+Dialogue: 0,0:15:29.91,0:15:33.31,Default,,0000,0000,0000,,Jeez, you Genin are really useless.
+Dialogue: 0,0:15:34.41,0:15:37.21,Default,,0000,0000,0000,,You’re all beaten up yourself, buddy!
+Dialogue: 0,0:15:38.42,0:15:39.65,Default,,0000,0000,0000,,Y-You jerk!
+Dialogue: 0,0:15:40.75,0:15:44.15,Default,,0000,0000,0000,,Damn it! I’ll put an end\Nto things here at once!
+Dialogue: 0,0:15:50.66,0:15:52.66,Default,,0000,0000,0000,,Everything’s over!
+Dialogue: 0,0:15:53.40,0:15:55.53,Default,,0000,0000,0000,,We’ll be in a fix\Nif we don’t hurry, Naruto!
+Dialogue: 0,0:15:56.07,0:15:57.63,Default,,0000,0000,0000,,Let’s get a move on, brother!
+Dialogue: 0,0:16:02.31,0:16:03.24,Default,,0000,0000,0000,,Buddy!
+Dialogue: 0,0:16:03.27,0:16:06.54,Default,,0000,0000,0000,,Quick! Take the Beauty of Nature\Nto a safe location.
+Dialogue: 0,0:16:06.64,0:16:08.85,Default,,0000,0000,0000,,No way, what’re you saying?!
+Dialogue: 0,0:16:09.05,0:16:11.21,Default,,0000,0000,0000,,You’ll get crushed if you don’t hurry.
+Dialogue: 0,0:16:11.32,0:16:13.72,Default,,0000,0000,0000,,Wh-What’re you guys looking at?!
+Dialogue: 0,0:16:13.78,0:16:15.65,Default,,0000,0000,0000,,Take the Beauty of Nature while you can…
+Dialogue: 0,0:16:15.82,0:16:17.19,Default,,0000,0000,0000,,What’re you saying?!
+Dialogue: 0,0:16:19.32,0:16:20.32,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:16:30.90,0:16:32.34,Default,,0000,0000,0000,,Buddy! You okay?!
+Dialogue: 0,0:16:38.64,0:16:40.78,Default,,0000,0000,0000,,Oh! The Beauty of Nature!
+Dialogue: 0,0:16:43.15,0:16:48.19,Default,,0000,0000,0000,,Don’t move, buddy!\NGently, hold out your hand!
+Dialogue: 0,0:16:54.79,0:16:56.93,Default,,0000,0000,0000,,Idiot, what’re you doing?!
+Dialogue: 0,0:16:57.16,0:16:58.66,Default,,0000,0000,0000,,Just hurry up and come this way!
+Dialogue: 0,0:16:59.03,0:17:02.03,Default,,0000,0000,0000,,You guys are the idiots!\NForget about me.
+Dialogue: 0,0:17:02.23,0:17:03.67,Default,,0000,0000,0000,,If you’re Ninja,\Ndo something about
+Dialogue: 0,0:17:03.67,0:17:05.64,Default,,0000,0000,0000,,the Beauty of Nature\Nrather than my life!
+Dialogue: 0,0:17:07.17,0:17:09.64,Default,,0000,0000,0000,,Naruto, let’s just forget\Nabout this guy!
+Dialogue: 0,0:17:09.87,0:17:12.41,Default,,0000,0000,0000,,He should just die like\Na dog on his own!
+Dialogue: 0,0:17:12.64,0:17:13.64,Default,,0000,0000,0000,,Let’s hurry and get out of here!
+Dialogue: 0,0:17:14.24,0:17:16.05,Default,,0000,0000,0000,,Yeah, do as you like!
+Dialogue: 0,0:17:36.07,0:17:37.87,Default,,0000,0000,0000,,The Beauty of Nature…
+Dialogue: 0,0:17:41.77,0:17:42.77,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:17:50.98,0:17:53.58,Default,,0000,0000,0000,,Am I…going to die…?
+Dialogue: 0,0:17:56.65,0:17:59.26,Default,,0000,0000,0000,,We were just about to die!
+Dialogue: 0,0:17:59.66,0:18:00.66,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:00.82,0:18:02.99,Default,,0000,0000,0000,,Ninja are supposed to\N risk their lives
+Dialogue: 0,0:18:03.03,0:18:04.59,Default,,0000,0000,0000,,on a commissioned mission, right?
+Dialogue: 0,0:18:05.50,0:18:08.33,Default,,0000,0000,0000,,Come on…\NGet a move on if you’re not dead.
+Dialogue: 0,0:18:14.20,0:18:16.74,Default,,0000,0000,0000,,It’s the Beauty of Nature!
+Dialogue: 0,0:18:17.01,0:18:20.21,Default,,0000,0000,0000,,It’s the Beauty of Nature,\Nmore valuable than human life!
+Dialogue: 0,0:18:20.38,0:18:21.65,Default,,0000,0000,0000,,Hey, are you guys underestimating it?!
+Dialogue: 0,0:18:23.25,0:18:24.85,Default,,0000,0000,0000,,I’m gonna…just like this…
+Dialogue: 0,0:18:29.19,0:18:32.32,Default,,0000,0000,0000,,Haven’t you misunderstood something?
+Dialogue: 0,0:18:32.69,0:18:34.83,Default,,0000,0000,0000,,You’ll let me off with my life?
+Dialogue: 0,0:18:35.06,0:18:37.66,Default,,0000,0000,0000,,That Beauty of Nature…
+Dialogue: 0,0:18:37.66,0:18:43.33,Default,,0000,0000,0000,,is a super first-rate treasure\Nmore precious than human life…
+Dialogue: 0,0:18:43.83,0:18:48.74,Default,,0000,0000,0000,,The question of my life\Nwas never a concern!
+Dialogue: 0,0:18:51.88,0:18:52.88,Default,,0000,0000,0000,,Heck no…
+Dialogue: 0,0:18:56.65,0:18:57.78,Default,,0000,0000,0000,,I don’t want to die!
+Dialogue: 0,0:19:09.96,0:19:13.66,Default,,0000,0000,0000,,There’s nothing in this world\Nmore valuable than life!
+Dialogue: 0,0:19:36.25,0:19:37.82,Default,,0000,0000,0000,,Nice…bungee jump…
+Dialogue: 0,0:19:48.67,0:19:51.40,Default,,0000,0000,0000,,Now then, what shall I do now?
+Dialogue: 0,0:19:51.74,0:19:53.37,Default,,0000,0000,0000,,Y-Yeah…
+Dialogue: 0,0:19:53.54,0:19:56.64,Default,,0000,0000,0000,,Sure enough…\Nwithout the treasure…
+Dialogue: 0,0:19:57.44,0:20:02.95,Default,,0000,0000,0000,,Don’t mope like that.\NThat’s why you guys are useless.
+Dialogue: 0,0:20:03.31,0:20:06.92,Default,,0000,0000,0000,,But there’s no point without\Nthe treasure after all!
+Dialogue: 0,0:20:07.28,0:20:09.59,Default,,0000,0000,0000,,Huh? If there isn’t one,\Nthen I just have to make one.
+Dialogue: 0,0:20:09.85,0:20:13.26,Default,,0000,0000,0000,,Make…? You say that\Nlike it’s easy, but….
+Dialogue: 0,0:20:19.10,0:20:20.56,Default,,0000,0000,0000,,That’s a picture of you, buddy.
+Dialogue: 0,0:20:20.83,0:20:23.53,Default,,0000,0000,0000,,The creator of the dauntless artifact…
+Dialogue: 0,0:20:23.57,0:20:26.57,Default,,0000,0000,0000,,Beauty of Nature …\NShinemon, the living national treasure?
+Dialogue: 0,0:20:27.64,0:20:28.64,Default,,0000,0000,0000,,So basically…?
+Dialogue: 0,0:20:31.11,0:20:34.31,Default,,0000,0000,0000,,That means you made\Nthe Beauty of Nature, buddy?!
+Dialogue: 0,0:20:35.15,0:20:38.22,Default,,0000,0000,0000,,But, you’re…the client…
+Dialogue: 0,0:20:38.65,0:20:40.02,Default,,0000,0000,0000,,You got a problem
+Dialogue: 0,0:20:40.08,0:20:43.65,Default,,0000,0000,0000,,with the client being the creator\Nand a living national treasure?
+Dialogue: 0,0:20:44.52,0:20:46.26,Default,,0000,0000,0000,,But no matter how you look at it…
+Dialogue: 0,0:20:46.76,0:20:50.53,Default,,0000,0000,0000,,This here’s not like you guys!\NThis here!
+Dialogue: 0,0:20:51.36,0:20:52.46,Default,,0000,0000,0000,,Well, you know…
+Dialogue: 0,0:20:52.83,0:20:56.50,Default,,0000,0000,0000,,It means my life rather than\Nthe treasure was the correct answer.
+Dialogue: 0,0:20:58.00,0:21:00.64,Default,,0000,0000,0000,,You do pretty good work for Genin.
+Dialogue: 0,0:21:01.37,0:21:02.57,Default,,0000,0000,0000,,Thanks for the help.
+Dialogue: 0,0:21:03.31,0:21:04.98,Default,,0000,0000,0000,,Now then, I guess I’ll hurry
+Dialogue: 0,0:21:05.04,0:21:07.64,Default,,0000,0000,0000,,and make a masterpiece to\Nexceed the Beauty of Nature!
+Dialogue: 0,0:21:19.06,0:21:23.53,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:21:23.56,0:21:29.70,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:21:35.24,0:21:39.64,Default,,0000,0000,0000,,Even if rains of spears were to fall,\NI will run through it
+Dialogue: 0,0:21:39.64,0:21:44.21,Default,,0000,0000,0000,,Because I want to find the joy\Nwithout a shape
+Dialogue: 0,0:21:44.25,0:21:49.12,Default,,0000,0000,0000,,This big dream of mine that\Ncannot be translated to words,
+Dialogue: 0,0:21:49.15,0:21:53.96,Default,,0000,0000,0000,,I will make it come true,\Neven if it were to deepen my wounds
+Dialogue: 0,0:21:53.99,0:21:58.90,Default,,0000,0000,0000,,We stand here today because of\Nwhat we believed through,
+Dialogue: 0,0:21:58.96,0:22:03.27,Default,,0000,0000,0000,,That is why I will continue running forward,\Nnever looking away
+Dialogue: 0,0:22:03.33,0:22:07.64,Default,,0000,0000,0000,,Even if I’m told that\Nthere is no bright future
+Dialogue: 0,0:22:07.67,0:22:15.11,Default,,0000,0000,0000,,I’ll change it right away,\Nlighting it with all my feeling
+Dialogue: 0,0:22:15.15,0:22:18.98,Default,,0000,0000,0000,,The wind is probably testing our hearts
+Dialogue: 0,0:22:19.02,0:22:24.32,Default,,0000,0000,0000,,In my heart, I gently grasped my hands
+Dialogue: 0,0:22:24.35,0:22:28.49,Default,,0000,0000,0000,,You are probably searching for\Nthe answer to your tears
+Dialogue: 0,0:22:28.53,0:22:33.33,Default,,0000,0000,0000,,Your dream is always waiting near by,\Nwith the answers in its hands
+Dialogue: 0,0:22:33.56,0:22:37.93,Default,,0000,0000,0000,,The Key to the rusted heart’s door
+Dialogue: 0,0:22:38.00,0:22:44.11,Default,,0000,0000,0000,,Will always be smiling right near by
+Dialogue: 0,0:22:50.95,0:22:54.75,Default,,0000,0000,0000,,Your mission is to take that Ninja Dropout\Nwe caught all the way to the capital.
+Dialogue: 0,0:22:54.78,0:22:56.02,Default,,0000,0000,0000,,What’s a Ninja Dropout?
+Dialogue: 0,0:22:56.09,0:22:57.95,Default,,0000,0000,0000,,It’s a gang of thieves consisting\Nof Rogue Ninja,
+Dialogue: 0,0:22:57.99,0:23:00.29,Default,,0000,0000,0000,,who don’t consider themselves\NShinobi anymore.
+Dialogue: 0,0:23:00.42,0:23:03.43,Default,,0000,0000,0000,,I can’t forgive them for using\Ntheir Shinobi powers for evil.
+Dialogue: 0,0:23:03.49,0:23:05.06,Default,,0000,0000,0000,,So, well, you can figure out\Nthe rest by now.
+Dialogue: 0,0:23:05.16,0:23:07.36,Default,,0000,0000,0000,,In other words,\Nthere is a possibility that they will
+Dialogue: 0,0:23:07.40,0:23:08.67,Default,,0000,0000,0000,,come to save one of their own.
+Dialogue: 0,0:23:08.67,0:23:09.73,Default,,0000,0000,0000,,Exactly.
+Dialogue: 0,0:23:09.77,0:23:12.84,Default,,0000,0000,0000,,You are assigned to the mission\Nof guarding the Gantetsu convoy!
+Dialogue: 0,0:23:13.34,0:23:14.34,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:23:14.37,0:23:15.94,Default,,0000,0000,0000,,Next time:\N“The Enemy: Ninja Dropouts”

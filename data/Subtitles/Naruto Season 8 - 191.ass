@@ -1,0 +1,332 @@
+[Script Info]
+Title: English (US)
+Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Copy of OS,Arial,14,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.33,0:00:03.50,Default,,0000,0000,0000,,Rock away your existence,
+Dialogue: 0,0:00:03.54,0:00:06.49,Default,,0000,0000,0000,,Shouting that you are here…
+Dialogue: 0,0:00:06.49,0:00:12.49,Default,,0000,0000,0000,,A new journey begins now.
+Dialogue: 0,0:00:23.04,0:00:28.95,Default,,0000,0000,0000,,As we survived through\Nthe changing seasons,
+Dialogue: 0,0:00:29.00,0:00:34.49,Default,,0000,0000,0000,,we gained knowledge and strength,\N(just looks like a survival game)
+Dialogue: 0,0:00:34.49,0:00:37.12,Default,,0000,0000,0000,,But the forgotten memories,
+Dialogue: 0,0:00:37.16,0:00:40.50,Default,,0000,0000,0000,,of the feelings abandoned within\Nthe flows of time,
+Dialogue: 0,0:00:40.54,0:00:45.16,Default,,0000,0000,0000,,have also been lost.
+Dialogue: 0,0:00:46.66,0:00:51.70,Default,,0000,0000,0000,,When sinking down,\Nwe learned loneliness.
+Dialogue: 0,0:00:52.20,0:00:56.75,Default,,0000,0000,0000,,But now we’ve met each other,\Nwe are no longer alone.
+Dialogue: 0,0:00:56.79,0:01:02.37,Default,,0000,0000,0000,,Unveil your feelings,\NThose high emotions
+Dialogue: 0,0:01:02.41,0:01:07.62,Default,,0000,0000,0000,,Those tears will change your fate.
+Dialogue: 0,0:01:07.66,0:01:10.83,Default,,0000,0000,0000,,Pound your heartbeat\Nagainst the darkness,
+Dialogue: 0,0:01:10.87,0:01:19.58,Default,,0000,0000,0000,,We’re sure to meet,\NUnder the same flag of pain
+Dialogue: 0,0:01:45.49,0:01:47.45,Default,,0000,0000,0000,,I won’t count on you.
+Dialogue: 0,0:01:49.04,0:01:50.49,Default,,0000,0000,0000,,I will go by myself.
+Dialogue: 0,0:01:51.91,0:01:54.29,Default,,0000,0000,0000,,Wait. 					I 'll go too.
+Dialogue: 0,0:01:56.62,0:02:00.62,Default,,0000,0000,0000,,I promised Hinata that I would definitely\Nprotect you, Princess!
+Dialogue: 0,0:02:03.54,0:02:04.54,Default,,0000,0000,0000,,With Hinata…?
+Dialogue: 0,0:02:06.83,0:02:10.87,Default,,0000,0000,0000,,She fought with the second Janin\Nand got hurt badly…
+Dialogue: 0,0:02:11.08,0:02:12.04,Default,,0000,0000,0000,,Hinata did…?
+Dialogue: 0,0:02:13.04,0:02:17.58,Default,,0000,0000,0000,,You guys said that you didn’t accept\Nthe mission of protecting me.
+Dialogue: 0,0:02:18.25,0:02:20.45,Default,,0000,0000,0000,,Then why do you concern\Nyourselves with me…?
+Dialogue: 0,0:02:20.49,0:02:21.49,Default,,0000,0000,0000,,I…
+Dialogue: 0,0:02:22.33,0:02:25.49,Default,,0000,0000,0000,,Not only me,\Nbut Hinata and Choji, too.
+Dialogue: 0,0:02:25.49,0:02:29.79,Default,,0000,0000,0000,,We don't like it when somebody before us\Nis hurt or sad… That's all.
+Dialogue: 0,0:02:33.49,0:02:35.04,Default,,0000,0000,0000,,Well, let’s go!
+Dialogue: 0,0:02:35.25,0:02:36.70,Default,,0000,0000,0000,,If we pass through\Nthe valley ahead of us,
+Dialogue: 0,0:02:36.75,0:02:38.08,Default,,0000,0000,0000,,we’ll get to the town.
+Dialogue: 0,0:02:38.33,0:02:39.25,Default,,0000,0000,0000,,If we do that,
+Dialogue: 0,0:02:39.29,0:02:41.66,Default,,0000,0000,0000,,they probably won’t chase us\Nall the way there!
+Dialogue: 0,0:02:48.49,0:02:53.62,Default,,0000,0000,0000,,Forecast: Death!\NCloudy with Chance of Sun!
+Dialogue: 0,0:02:56.41,0:02:59.95,Default,,0000,0000,0000,,Too bad, but you guys won’t\Nbe able to reach that village.
+Dialogue: 0,0:03:00.25,0:03:02.20,Default,,0000,0000,0000,,Since you guys are going\Nto die here!
+Dialogue: 0,0:03:02.49,0:03:06.16,Default,,0000,0000,0000,,Wh-Why is he floating in the air?
+Dialogue: 0,0:03:07.79,0:03:13.70,Default,,0000,0000,0000,,Hey kid, I bet a low-class Ninja like you\Ncan’t even imagine my Jutsu.
+Dialogue: 0,0:03:15.45,0:03:16.37,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:03:23.08,0:03:23.75,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:25.12,0:03:26.49,Default,,0000,0000,0000,,I’m okay.
+Dialogue: 0,0:03:27.49,0:03:30.50,Default,,0000,0000,0000,,But what just flew at me?
+Dialogue: 0,0:03:31.20,0:03:33.49,Default,,0000,0000,0000,,Don’t waste your time fighting me.
+Dialogue: 0,0:03:34.00,0:03:37.12,Default,,0000,0000,0000,,I have already captured\Nall three of your friends.
+Dialogue: 0,0:03:37.49,0:03:38.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:39.12,0:03:41.20,Default,,0000,0000,0000,,Just hand over the girl.
+Dialogue: 0,0:03:41.49,0:03:44.49,Default,,0000,0000,0000,,If you do that I’ll spare your friends.
+Dialogue: 0,0:03:44.79,0:03:46.16,Default,,0000,0000,0000,,Choji and Hinata…
+Dialogue: 0,0:03:48.75,0:03:50.95,Default,,0000,0000,0000,,So, what are you going to do kid?
+Dialogue: 0,0:03:52.49,0:03:56.16,Default,,0000,0000,0000,,Naruto… Are you going to\Nabandon me too?
+Dialogue: 0,0:03:56.49,0:04:00.49,Default,,0000,0000,0000,,Oh no, this princess is\Ntelling you to save her,
+Dialogue: 0,0:04:00.49,0:04:02.49,Default,,0000,0000,0000,,and let your friends die.
+Dialogue: 0,0:04:02.91,0:04:07.91,Default,,0000,0000,0000,,Well, I don’t mind that kind of thinking\Nsince it’s the same as mine.
+Dialogue: 0,0:04:09.12,0:04:10.49,Default,,0000,0000,0000,,Same as yours?
+Dialogue: 0,0:04:11.41,0:04:12.16,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:04:12.49,0:04:13.87,Default,,0000,0000,0000,,If someone is useful,
+Dialogue: 0,0:04:13.91,0:04:15.04,Default,,0000,0000,0000,,then you should make use\Nof them
+Dialogue: 0,0:04:15.08,0:04:16.29,Default,,0000,0000,0000,,even though they may be\Nyour siblings.
+Dialogue: 0,0:04:16.79,0:04:19.41,Default,,0000,0000,0000,,There is one thing I need\Nto thank you guys for.
+Dialogue: 0,0:04:19.83,0:04:21.91,Default,,0000,0000,0000,,Thank us? 					For what?!
+Dialogue: 0,0:04:22.49,0:04:24.50,Default,,0000,0000,0000,,For doing in Ruiga and Jiga.
+Dialogue: 0,0:04:25.20,0:04:28.83,Default,,0000,0000,0000,,I was going to put an end to them myself\Nsooner or later anyways.
+Dialogue: 0,0:04:29.49,0:04:30.49,Default,,0000,0000,0000,,What…?!
+Dialogue: 0,0:04:31.04,0:04:33.79,Default,,0000,0000,0000,,It was clear that they would\Nsoon tell me,
+Dialogue: 0,0:04:33.83,0:04:36.95,Default,,0000,0000,0000,,“Big Brother, give us the property\Nand the money too.”
+Dialogue: 0,0:04:38.50,0:04:41.37,Default,,0000,0000,0000,,Three feudal lords are not necessary\Nin one country.
+Dialogue: 0,0:04:41.62,0:04:44.08,Default,,0000,0000,0000,,And you still call\Nyourselves brothers?!
+Dialogue: 0,0:04:44.54,0:04:46.00,Default,,0000,0000,0000,,It doesn’t matter.
+Dialogue: 0,0:04:46.41,0:04:47.91,Default,,0000,0000,0000,,Even though it’s my parents\Nor my brothers.
+Dialogue: 0,0:04:48.12,0:04:51.20,Default,,0000,0000,0000,,I'll make use of anything I can.
+Dialogue: 0,0:04:52.49,0:04:55.62,Default,,0000,0000,0000,,Now, give her to me.
+Dialogue: 0,0:04:56.25,0:04:57.16,Default,,0000,0000,0000,,I refuse.
+Dialogue: 0,0:04:57.87,0:04:58.87,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:04:59.45,0:05:00.20,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:05:00.50,0:05:03.20,Default,,0000,0000,0000,,A person who would abandon\Nhis siblings
+Dialogue: 0,0:05:03.25,0:05:06.49,Default,,0000,0000,0000,,would never keep his promise\Nwith me.
+Dialogue: 0,0:05:07.16,0:05:08.49,Default,,0000,0000,0000,,Well, that’s true.
+Dialogue: 0,0:05:12.91,0:05:14.29,Default,,0000,0000,0000,,It’s impossible, Naruto!
+Dialogue: 0,0:05:14.41,0:05:16.16,Default,,0000,0000,0000,,You don’t even know\Nwhat kind of Jutsu it is!
+Dialogue: 0,0:05:16.37,0:05:17.87,Default,,0000,0000,0000,,That doesn’t matter!
+Dialogue: 0,0:05:18.29,0:05:19.54,Default,,0000,0000,0000,,Shadow Clone Jutsu!
+Dialogue: 0,0:05:34.58,0:05:35.49,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:05:39.41,0:05:40.49,Default,,0000,0000,0000,,What is this guy?
+Dialogue: 0,0:05:40.79,0:05:43.29,Default,,0000,0000,0000,,There’s something hard around\Nhis body that I can’t see…
+Dialogue: 0,0:05:48.29,0:05:49.00,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:05:49.91,0:05:54.75,Default,,0000,0000,0000,,I'm sorry, but none of\Nyour Ninjutsu work on me.
+Dialogue: 0,0:05:54.91,0:05:56.25,Default,,0000,0000,0000,,Not even one.
+Dialogue: 0,0:05:57.62,0:05:58.83,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:10.08,0:06:10.83,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:14.49,0:06:16.62,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:06:17.08,0:06:18.49,Default,,0000,0000,0000,,Crystallized ice…?
+Dialogue: 0,0:06:20.41,0:06:22.70,Default,,0000,0000,0000,,I can gather water vapor in the air
+Dialogue: 0,0:06:22.75,0:06:26.29,Default,,0000,0000,0000,,and instantly turn it\Ninto crystallized ice.
+Dialogue: 0,0:06:27.66,0:06:30.66,Default,,0000,0000,0000,,So the things that just attacked me\Nwere ice Shuriken.
+Dialogue: 0,0:06:31.08,0:06:33.75,Default,,0000,0000,0000,,Man! It’s hard to see\Nif it’s transparent ice.
+Dialogue: 0,0:06:35.49,0:06:37.95,Default,,0000,0000,0000,,Just that is not too interesting.
+Dialogue: 0,0:06:42.37,0:06:43.95,Default,,0000,0000,0000,,What is this great sense\Nof danger?
+Dialogue: 0,0:06:44.49,0:06:47.79,Default,,0000,0000,0000,,I’m sure his Jutsu has already started!
+Dialogue: 0,0:06:48.08,0:06:50.16,Default,,0000,0000,0000,,Where is it, where is it\Ncoming from?!
+Dialogue: 0,0:06:51.41,0:06:54.20,Default,,0000,0000,0000,,Kid, do you know\Ntoday's weather forecast?
+Dialogue: 0,0:06:55.04,0:06:56.08,Default,,0000,0000,0000,,Weather forecast?
+Dialogue: 0,0:06:56.37,0:06:57.91,Default,,0000,0000,0000,,Cloudy and partly sunny.
+Dialogue: 0,0:06:58.16,0:07:00.49,Default,,0000,0000,0000,,It’s a good weather for you to die.
+Dialogue: 0,0:07:09.45,0:07:10.50,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:07:20.58,0:07:21.50,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:23.00,0:07:23.70,Default,,0000,0000,0000,,Look out!
+Dialogue: 0,0:07:42.20,0:07:43.12,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:07:43.45,0:07:44.00,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:07:45.12,0:07:46.16,Default,,0000,0000,0000,,That’s a lens!
+Dialogue: 0,0:07:46.49,0:07:47.16,Default,,0000,0000,0000,,Lens?!
+Dialogue: 0,0:07:49.79,0:07:52.25,Default,,0000,0000,0000,,Yup, I turned the crystallized ice\Ninto lens
+Dialogue: 0,0:07:52.29,0:07:53.79,Default,,0000,0000,0000,,to gather the sunlight and shoot it.
+Dialogue: 0,0:07:54.12,0:07:59.33,Default,,0000,0000,0000,,So, I can’t really control it,\Nbut it’ll be an instant when you die.
+Dialogue: 0,0:07:59.79,0:08:02.49,Default,,0000,0000,0000,,As soon as the battle condition\Nat the Land of Green is prepared,
+Dialogue: 0,0:08:02.50,0:08:06.20,Default,,0000,0000,0000,,I’ll burn up the surrounding countries\Nwith this Jutsu.
+Dialogue: 0,0:08:15.58,0:08:16.49,Default,,0000,0000,0000,,This way!
+Dialogue: 0,0:08:25.91,0:08:26.62,Default,,0000,0000,0000,,It’s no use.
+Dialogue: 0,0:08:27.16,0:08:29.50,Default,,0000,0000,0000,,I could even see things that are\Na thousand miles away.
+Dialogue: 0,0:08:53.00,0:08:54.49,Default,,0000,0000,0000,,I found you.
+Dialogue: 0,0:09:26.04,0:09:29.25,Default,,0000,0000,0000,,Naruto… Why do you protect me?
+Dialogue: 0,0:09:30.49,0:09:31.83,Default,,0000,0000,0000,,I wonder why…
+Dialogue: 0,0:09:32.79,0:09:34.45,Default,,0000,0000,0000,,I don’t know either.
+Dialogue: 0,0:09:35.54,0:09:36.66,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:10:01.25,0:10:01.79,Default,,0000,0000,0000,,Haruna!
+Dialogue: 0,0:10:03.33,0:10:06.79,Default,,0000,0000,0000,,While I distract him, run!
+Dialogue: 0,0:10:17.04,0:10:19.49,Default,,0000,0000,0000,,Don’t even think you guys\Ncould get away from my Jutsu
+Dialogue: 0,0:10:19.49,0:10:20.49,Default,,0000,0000,0000,,by doing that!
+Dialogue: 0,0:10:46.29,0:10:48.33,Default,,0000,0000,0000,,You decided to hand me\Nover the princess?
+Dialogue: 0,0:10:48.83,0:10:51.50,Default,,0000,0000,0000,,Who would hand over Haruna\Nto the likes of you!
+Dialogue: 0,0:10:52.29,0:10:53.49,Default,,0000,0000,0000,,What a fool.
+Dialogue: 0,0:10:53.50,0:10:55.83,Default,,0000,0000,0000,,I’m telling you that if you hand me\Nthe selfish princess
+Dialogue: 0,0:10:55.87,0:10:59.62,Default,,0000,0000,0000,,and just go back to the village,\NI’ll let your friends go.
+Dialogue: 0,0:11:00.20,0:11:04.49,Default,,0000,0000,0000,,I promised with Hinata that\NI will save Haruna!
+Dialogue: 0,0:11:06.00,0:11:08.04,Default,,0000,0000,0000,,Just to keep a promise\Nwith your friend,
+Dialogue: 0,0:11:08.08,0:11:11.12,Default,,0000,0000,0000,,you’re gonna risk your life to fight\Nin a hopeless battle, huh…?
+Dialogue: 0,0:11:15.25,0:11:17.49,Default,,0000,0000,0000,,You’re just like the feudal lord\Nin Land of Green.
+Dialogue: 0,0:11:17.50,0:11:20.37,Default,,0000,0000,0000,,A good-natured big fool!
+Dialogue: 0,0:11:21.08,0:11:24.00,Default,,0000,0000,0000,,Same as my father…?!
+Dialogue: 0,0:11:29.49,0:11:32.16,Default,,0000,0000,0000,,You’re just like the feudal lord\Nin Land of Green.
+Dialogue: 0,0:11:32.20,0:11:34.37,Default,,0000,0000,0000,,A good-natured big fool!
+Dialogue: 0,0:11:35.41,0:11:37.70,Default,,0000,0000,0000,,Same as my father…?!
+Dialogue: 0,0:11:38.49,0:11:40.91,Default,,0000,0000,0000,,This is what the feudal lord\Nfoolishly said
+Dialogue: 0,0:11:40.95,0:11:43.54,Default,,0000,0000,0000,,to us who were trying to take over\Nthe Land of Green:
+Dialogue: 0,0:11:44.49,0:11:47.66,Default,,0000,0000,0000,,“Please do not torment the people\Nin this country.”
+Dialogue: 0,0:11:49.20,0:11:50.25,Default,,0000,0000,0000,,I beg you!
+Dialogue: 0,0:11:50.29,0:11:52.20,Default,,0000,0000,0000,,I don’t care what happens to me,
+Dialogue: 0,0:11:52.25,0:11:54.08,Default,,0000,0000,0000,,but please promise me one thing!
+Dialogue: 0,0:11:54.66,0:11:57.83,Default,,0000,0000,0000,,This is a small weak country\Nsurrounded by big countries.
+Dialogue: 0,0:11:57.87,0:12:01.12,Default,,0000,0000,0000,,Without the powers of the people,\Nthe country cannot prosper!
+Dialogue: 0,0:12:01.45,0:12:03.16,Default,,0000,0000,0000,,In order for the country to prosper,
+Dialogue: 0,0:12:03.20,0:12:05.45,Default,,0000,0000,0000,,we must take care of\Neach individual people
+Dialogue: 0,0:12:05.49,0:12:08.16,Default,,0000,0000,0000,,and not sacrifice a single life!
+Dialogue: 0,0:12:08.49,0:12:10.37,Default,,0000,0000,0000,,I want you to consider the people\Nas a family
+Dialogue: 0,0:12:10.41,0:12:12.49,Default,,0000,0000,0000,,and not torment them.
+Dialogue: 0,0:12:13.75,0:12:15.49,Default,,0000,0000,0000,,I am the feudal lord!
+Dialogue: 0,0:12:15.49,0:12:18.16,Default,,0000,0000,0000,,It doesn’t matter what I do\Nto the people, right?
+Dialogue: 0,0:12:19.08,0:12:20.41,Default,,0000,0000,0000,,That’s why…
+Dialogue: 0,0:12:22.49,0:12:26.08,Default,,0000,0000,0000,,That's why this country has\Nbeen at peace until now!
+Dialogue: 0,0:12:26.54,0:12:28.41,Default,,0000,0000,0000,,Peace doesn’t matter to me.
+Dialogue: 0,0:12:28.54,0:12:30.54,Default,,0000,0000,0000,,All I need to do is use the people\Nas the stepping stones
+Dialogue: 0,0:12:30.58,0:12:32.16,Default,,0000,0000,0000,,and feather my nest!
+Dialogue: 0,0:12:32.62,0:12:34.49,Default,,0000,0000,0000,,And because of that kind\Nof good nature,
+Dialogue: 0,0:12:34.49,0:12:36.49,Default,,0000,0000,0000,,his daughter was taken\Nas a hostage!
+Dialogue: 0,0:12:37.50,0:12:39.45,Default,,0000,0000,0000,,What do you mean?!
+Dialogue: 0,0:12:40.29,0:12:42.87,Default,,0000,0000,0000,,It seems like it was ten years ago.
+Dialogue: 0,0:12:44.49,0:12:48.70,Default,,0000,0000,0000,,A lot of the people were sacrificed\Nby the pressure of the big country…
+Dialogue: 0,0:12:49.49,0:12:54.12,Default,,0000,0000,0000,,Riots occurred in the country\Nand the country came close to corruption.
+Dialogue: 0,0:12:55.08,0:12:56.50,Default,,0000,0000,0000,,It was a bitter decision…
+Dialogue: 0,0:12:57.83,0:13:00.25,Default,,0000,0000,0000,,I had no choice but to let\Nmy daughter,
+Dialogue: 0,0:13:00.29,0:13:02.70,Default,,0000,0000,0000,,who is more important than my life,\Ntaken as a hostage.
+Dialogue: 0,0:13:03.49,0:13:06.08,Default,,0000,0000,0000,,I know that Haruna will\Nnot forgive me…
+Dialogue: 0,0:13:09.08,0:13:12.66,Default,,0000,0000,0000,,A cold-hearted father who sacrificed\Nhis own daughter
+Dialogue: 0,0:13:12.70,0:13:15.54,Default,,0000,0000,0000,,just for the peace of the country.
+Dialogue: 0,0:13:18.12,0:13:21.49,Default,,0000,0000,0000,,Why don’t you ask\Nyour daughter directly?!
+Dialogue: 0,0:13:21.83,0:13:23.33,Default,,0000,0000,0000,,In the after life!
+Dialogue: 0,0:13:25.58,0:13:28.49,Default,,0000,0000,0000,,My father was…killed!
+Dialogue: 0,0:13:30.33,0:13:32.41,Default,,0000,0000,0000,,What an outrageously\Ngood-natured person, huh?
+Dialogue: 0,0:13:32.49,0:13:34.70,Default,,0000,0000,0000,,You’re wrong,\Nhe was a great feudal lord!
+Dialogue: 0,0:13:36.50,0:13:37.70,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:13:38.87,0:13:39.83,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:13:40.41,0:13:42.49,Default,,0000,0000,0000,,There are two kinds of human beings\Nin this world.
+Dialogue: 0,0:13:42.49,0:13:45.50,Default,,0000,0000,0000,,Those who use others,\Nand those who get used!
+Dialogue: 0,0:13:46.49,0:13:49.49,Default,,0000,0000,0000,,In my case, I will get to\Nthe top using anyone,
+Dialogue: 0,0:13:49.49,0:13:51.49,Default,,0000,0000,0000,,whether it’s my parents or my friends.
+Dialogue: 0,0:13:51.62,0:13:54.49,Default,,0000,0000,0000,,You! I’ll never forgive you!
+Dialogue: 0,0:13:54.66,0:13:55.66,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:05.66,0:14:07.58,Default,,0000,0000,0000,,D-Damn…!
+Dialogue: 0,0:14:17.49,0:14:18.49,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:14:29.00,0:14:29.79,Default,,0000,0000,0000,,Naruto…
+Dialogue: 0,0:14:31.49,0:14:33.49,Default,,0000,0000,0000,,You can’t move anymore?!
+Dialogue: 0,0:14:37.00,0:14:38.45,Default,,0000,0000,0000,,You’re not the one…
+Dialogue: 0,0:14:40.41,0:14:45.04,Default,,0000,0000,0000,,It was because of Haruna’s father\Nthat this country was peaceful…
+Dialogue: 0,0:14:47.37,0:14:50.54,Default,,0000,0000,0000,,The person who is going\Nto succeed this country is…
+Dialogue: 0,0:14:53.29,0:14:55.49,Default,,0000,0000,0000,,The person is…
+Dialogue: 0,0:14:56.20,0:14:57.87,Default,,0000,0000,0000,,Haruna!
+Dialogue: 0,0:15:01.75,0:15:02.50,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:15:03.58,0:15:04.49,Default,,0000,0000,0000,,Stupid!
+Dialogue: 0,0:15:04.49,0:15:06.08,Default,,0000,0000,0000,,Why aren’t you running away?!
+Dialogue: 0,0:15:06.49,0:15:11.25,Default,,0000,0000,0000,,Kill me! If you kill me,\Nyour goal will be fulfilled, right?!
+Dialogue: 0,0:15:11.50,0:15:13.95,Default,,0000,0000,0000,,Naruto, Naruto has nothing\Nto do with this!
+Dialogue: 0,0:15:14.79,0:15:17.79,Default,,0000,0000,0000,,So both the parent and daughter\Nare naïve, after all.
+Dialogue: 0,0:15:18.49,0:15:20.54,Default,,0000,0000,0000,,Why not complain to your father\Nin the afterlife
+Dialogue: 0,0:15:20.58,0:15:23.16,Default,,0000,0000,0000,,for making you sacrifice your life\Nfor the country?
+Dialogue: 0,0:15:25.91,0:15:28.33,Default,,0000,0000,0000,,How scary…
+Dialogue: 0,0:15:29.49,0:15:30.83,Default,,0000,0000,0000,,Y-You!
+Dialogue: 0,0:15:35.95,0:15:37.54,Default,,0000,0000,0000,,It’s time for you to die, kid.
+Dialogue: 0,0:15:37.95,0:15:39.25,Default,,0000,0000,0000,,I’m not a kid!
+Dialogue: 0,0:15:39.49,0:15:41.49,Default,,0000,0000,0000,,My name is Naruto Uzumaki.
+Dialogue: 0,0:15:41.49,0:15:43.83,Default,,0000,0000,0000,,I’m not going to hand over\Nthe Land of Green
+Dialogue: 0,0:15:43.87,0:15:46.83,Default,,0000,0000,0000,,to a person like you!
+Dialogue: 0,0:15:48.50,0:15:49.49,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:15:54.20,0:15:55.12,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:16:02.25,0:16:02.87,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:15.25,0:16:16.62,Default,,0000,0000,0000,,No…way…
+Dialogue: 0,0:16:22.12,0:16:25.49,Default,,0000,0000,0000,,But kid, it’s too late even\Nthough you took me down…
+Dialogue: 0,0:16:26.49,0:16:28.66,Default,,0000,0000,0000,,The Land of Green without\Na feudal lord will collapse
+Dialogue: 0,0:16:28.70,0:16:31.33,Default,,0000,0000,0000,,due to the war between\Nthe large countries over its territory.
+Dialogue: 0,0:16:31.58,0:16:33.49,Default,,0000,0000,0000,,It’s too bad,\Nbut that’s not gonna happen!
+Dialogue: 0,0:16:36.49,0:16:37.58,Default,,0000,0000,0000,,Shizune!
+Dialogue: 0,0:16:38.83,0:16:41.70,Default,,0000,0000,0000,,It’s a pain,\Nbut we came to get you guys!
+Dialogue: 0,0:16:42.20,0:16:43.08,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:16:43.41,0:16:46.16,Default,,0000,0000,0000,,But…I didn’t ask you guys\Nto come get us!
+Dialogue: 0,0:16:46.62,0:16:49.91,Default,,0000,0000,0000,,But you look pretty beaten up.
+Dialogue: 0,0:16:50.16,0:16:52.29,Default,,0000,0000,0000,,No no, this is…
+Dialogue: 0,0:16:52.33,0:16:53.08,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:16:54.66,0:16:57.08,Default,,0000,0000,0000,,Choji! Hinata! Yurinojou!
+Dialogue: 0,0:16:57.54,0:16:59.33,Default,,0000,0000,0000,,Everyone was safe!
+Dialogue: 0,0:16:59.66,0:17:00.37,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:00.49,0:17:02.79,Default,,0000,0000,0000,,We were rescued by\Nthe people of Leaf Village.
+Dialogue: 0,0:17:03.08,0:17:07.83,Default,,0000,0000,0000,,Huh? Oh yeah,\Nwhy are you guys here?
+Dialogue: 0,0:17:08.29,0:17:10.66,Default,,0000,0000,0000,,We received notice of a coup\Nin the Land of Green
+Dialogue: 0,0:17:10.70,0:17:13.29,Default,,0000,0000,0000,,and Lady Tsunade herself ordered me\Nto come…
+Dialogue: 0,0:17:13.95,0:17:18.50,Default,,0000,0000,0000,,Princess Haruna’s father was\Nvery kind to Lady Tsunade and me.
+Dialogue: 0,0:17:19.16,0:17:20.25,Default,,0000,0000,0000,,My father…?
+Dialogue: 0,0:17:20.49,0:17:25.66,Default,,0000,0000,0000,,Please forgive us, when we arrived,\Nyour father was already…
+Dialogue: 0,0:17:26.49,0:17:29.49,Default,,0000,0000,0000,,I see…I’ve caused\Nso much trouble for you.
+Dialogue: 0,0:17:30.37,0:17:31.20,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:17:31.70,0:17:33.95,Default,,0000,0000,0000,,The position of the feudal lord\Nthat I finally got a hold of…
+Dialogue: 0,0:17:34.29,0:17:37.75,Default,,0000,0000,0000,,But, then the surrounding countries\Nare not going to stay quiet.
+Dialogue: 0,0:17:38.37,0:17:39.49,Default,,0000,0000,0000,,It’s okay.
+Dialogue: 0,0:17:39.70,0:17:41.66,Default,,0000,0000,0000,,An announcement has been sent out\Nto the neighboring countries
+Dialogue: 0,0:17:41.70,0:17:44.00,Default,,0000,0000,0000,,in the name of the next feudal lord.
+Dialogue: 0,0:17:44.49,0:17:46.62,Default,,0000,0000,0000,,Under your name, Princess Haruna.
+Dialogue: 0,0:17:46.75,0:17:49.75,Default,,0000,0000,0000,,Then we don’t need to worry about\Nthe country getting attacked anymore!
+Dialogue: 0,0:17:50.08,0:17:50.58,Default,,0000,0000,0000,,Haruna!
+Dialogue: 0,0:17:54.87,0:17:55.66,Default,,0000,0000,0000,,Haruna…
+Dialogue: 0,0:18:01.79,0:18:02.49,Default,,0000,0000,0000,,Do it.
+Dialogue: 0,0:18:03.00,0:18:05.04,Default,,0000,0000,0000,,You want to take revenge\Nwith your own hands, right?
+Dialogue: 0,0:18:05.49,0:18:07.25,Default,,0000,0000,0000,,I’ll do the same if I were you.
+Dialogue: 0,0:18:21.75,0:18:24.75,Default,,0000,0000,0000,,I am…not like you!
+Dialogue: 0,0:18:39.62,0:18:40.49,Default,,0000,0000,0000,,Haruna…
+Dialogue: 0,0:19:03.49,0:19:05.49,Default,,0000,0000,0000,,Kikunojou, please forgive me.
+Dialogue: 0,0:19:06.49,0:19:07.45,Default,,0000,0000,0000,,Princess Haruna.
+Dialogue: 0,0:19:08.00,0:19:10.83,Default,,0000,0000,0000,,Here, Kikunojou could look over\Nthe Land of Green.
+Dialogue: 0,0:19:10.87,0:19:14.41,Default,,0000,0000,0000,,I'm sure that Kikunojou\Nwill watch over everyone forever.
+Dialogue: 0,0:19:16.49,0:19:19.29,Default,,0000,0000,0000,,Well, Lady Haruna,\Nwe are leaving now.
+Dialogue: 0,0:19:20.49,0:19:23.91,Default,,0000,0000,0000,,Thank you, Naruto, Choji,\Nand Hinata.
+Dialogue: 0,0:19:24.91,0:19:28.04,Default,,0000,0000,0000,,Shizune, I’d like to ask a special favor.
+Dialogue: 0,0:19:28.49,0:19:30.08,Default,,0000,0000,0000,,What is it, Princess Haruna?
+Dialogue: 0,0:19:30.54,0:19:35.08,Default,,0000,0000,0000,,My role is to take over my father’s will\Nto protect the peace of Land of Green.
+Dialogue: 0,0:19:35.50,0:19:36.62,Default,,0000,0000,0000,,In order to do that,
+Dialogue: 0,0:19:36.66,0:19:38.62,Default,,0000,0000,0000,,I want to borrow some help\Nfrom the Leaf Village.
+Dialogue: 0,0:19:39.16,0:19:39.95,Default,,0000,0000,0000,,Our help?
+Dialogue: 0,0:19:40.49,0:19:41.08,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:41.79,0:19:43.54,Default,,0000,0000,0000,,I want you to lend me Naruto.
+Dialogue: 0,0:19:43.79,0:19:44.45,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:46.25,0:19:47.91,Default,,0000,0000,0000,,Please, Naruto.
+Dialogue: 0,0:19:48.49,0:19:49.49,Default,,0000,0000,0000,,Princess Haruna.
+Dialogue: 0,0:19:50.49,0:19:54.49,Default,,0000,0000,0000,,I want you to help me\Nwith the revival of the Land of Green.
+Dialogue: 0,0:20:04.04,0:20:05.49,Default,,0000,0000,0000,,I…I…
+Dialogue: 0,0:20:08.91,0:20:12.12,Default,,0000,0000,0000,,I’m sorry,\Nbut I can’t really do that.
+Dialogue: 0,0:20:14.54,0:20:17.91,Default,,0000,0000,0000,,I need to go back to my friends.
+Dialogue: 0,0:20:18.41,0:20:21.37,Default,,0000,0000,0000,,And I need to do more training\Nand become much stronger.
+Dialogue: 0,0:20:21.49,0:20:23.50,Default,,0000,0000,0000,,There are things that I must do.
+Dialogue: 0,0:20:24.33,0:20:26.87,Default,,0000,0000,0000,,It’s all for my precious friends!
+Dialogue: 0,0:20:28.95,0:20:31.41,Default,,0000,0000,0000,,Then I can’t take you away\Nfrom them…
+Dialogue: 0,0:20:31.95,0:20:37.04,Default,,0000,0000,0000,,Naruto, I’ll promise that I will do\Nmy best to keep my father’s wishes
+Dialogue: 0,0:20:37.08,0:20:41.87,Default,,0000,0000,0000,,and strive for a peaceful country\Nwhere no one will be sacrificed.
+Dialogue: 0,0:20:44.04,0:20:44.70,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:44.83,0:20:46.37,Default,,0000,0000,0000,,It’s a promise!
+Dialogue: 0,0:20:52.50,0:20:55.66,Default,,0000,0000,0000,,Thank you! Naruto!
+Dialogue: 0,0:20:55.95,0:20:57.37,Default,,0000,0000,0000,,Good-bye! Everybody!
+Dialogue: 0,0:20:57.79,0:20:59.49,Default,,0000,0000,0000,,We’ll come back someday!
+Dialogue: 0,0:20:59.54,0:21:00.49,Default,,0000,0000,0000,,Bye!
+Dialogue: 0,0:21:00.62,0:21:02.29,Default,,0000,0000,0000,,See ya!
+Dialogue: 0,0:21:24.45,0:21:29.37,Default,,0000,0000,0000,,Yesterday’s Call Sign,\Nwas all from my cell phone.
+Dialogue: 0,0:21:31.12,0:21:35.95,Default,,0000,0000,0000,,In a strange park,\NI play the Fuzz Guitar without enthusiasm.
+Dialogue: 0,0:21:50.00,0:21:51.49,Default,,0000,0000,0000,,Yellow Moon.
+Dialogue: 0,0:21:51.50,0:21:58.49,Default,,0000,0000,0000,,Even now, counting to three,\NI open my eyes
+Dialogue: 0,0:21:58.49,0:22:03.50,Default,,0000,0000,0000,,Shadow Moon I am still dreaming.
+Dialogue: 0,0:22:03.58,0:22:10.49,Default,,0000,0000,0000,,Look at my eyes, look at my eyes,\Nas we face one another’s back
+Dialogue: 0,0:22:10.50,0:22:17.49,Default,,0000,0000,0000,,Look at my eyes, when can we meet?
+Dialogue: 0,0:22:17.49,0:22:24.29,Default,,0000,0000,0000,,EveryDay EveryNight\NWith every word I can think of
+Dialogue: 0,0:22:24.33,0:22:31.00,Default,,0000,0000,0000,,Right away, my messy feelings as is,
+Dialogue: 0,0:22:32.66,0:22:37.58,Default,,0000,0000,0000,,A magical chord change, in a restless city
+Dialogue: 0,0:22:39.49,0:22:44.62,Default,,0000,0000,0000,,A daily JAZZ Guitar played\Nin a soft minor key
+Dialogue: 0,0:22:50.37,0:22:52.00,Default,,0000,0000,0000,,No! He’s looking over here!
+Dialogue: 0,0:22:52.04,0:22:54.79,Default,,0000,0000,0000,,Of course, he’ll look!\NStop complaining and attack him!
+Dialogue: 0,0:22:54.83,0:22:56.20,Default,,0000,0000,0000,,No, no, it’s impossible!
+Dialogue: 0,0:22:56.25,0:22:57.49,Default,,0000,0000,0000,,He just moved right now!\NHe moved, Naruto!
+Dialogue: 0,0:22:57.50,0:22:59.87,Default,,0000,0000,0000,,Of course, he’ll move!\NHey, approach him more!
+Dialogue: 0,0:22:59.91,0:23:02.16,Default,,0000,0000,0000,,No, no, no. This is my limit.
+Dialogue: 0,0:23:02.25,0:23:04.12,Default,,0000,0000,0000,,Come on, just give him\Na one good hit!
+Dialogue: 0,0:23:04.16,0:23:05.83,Default,,0000,0000,0000,,No, the enemy is that thing you know?
+Dialogue: 0,0:23:05.87,0:23:07.33,Default,,0000,0000,0000,,A monster, a monster!
+Dialogue: 0,0:23:07.45,0:23:10.49,Default,,0000,0000,0000,,This wouldn’t be a mission!
+Dialogue: 0,0:23:11.37,0:23:14.45,Default,,0000,0000,0000,,Next time:\N“Ino Screams! Chubby Paradise!”
